@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6630323985-6630311425-6630320383-6630336757-6630340383",
+  "photo_sequence_ids": [
+    "6630323985",
+    "6630311425",
+    "6630320383",
+    "6630336757",
+    "6630340383"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7150/6630323985_4f7a6664a7_o.jpg",
+    "https://farm8.staticflickr.com/7032/6630311425_eb858e771e_o.jpg",
+    "https://farm8.staticflickr.com/7025/6630320383_a36b2f8809_o.jpg",
+    "https://farm8.staticflickr.com/7005/6630336757_2010c6de69_o.jpg",
+    "https://farm8.staticflickr.com/7169/6630340383_41943077c4_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a bus . we went on a boat ride in the lake . the view of the lake was beautiful . the buildings were very old . it was a great place to visit .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "School buses were lined up this autumn day. We fished on the shore of the lake. It was a huge lake. Later, we went downtown. The buildings were old.",
+      "normalized_edited_story_text_sent": [
+        "school buses were lined up this autumn day .",
+        "we fished on the shore of the lake .",
+        "it was a huge lake .",
+        "later , we went downtown .",
+        "the buildings were old ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a bus . we go on a boat ride in the lake . the view of the lake is beautiful . the buildings are very old . it is a great place to visit .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a bus .",
+        "we go on a boat ride in the lake .",
+        "the view of the lake is beautiful .",
+        "the buildings are very old .",
+        "it is a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "AN2GMCKM5CLG8",
+      "edited_story_text": "this is a yellow school bus . we went on a boat ride in the lake . the view of the lake was clear and beautiful . the buildings nearby were very old . it was a great place to visit .",
+      "normalized_edited_story_text_sent": [
+        "this is a yellow school bus .",
+        "we went on a boat ride in the lake .",
+        "the view of the lake was clear and beautiful .",
+        "the buildings nearby were very old .",
+        "it was a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went on a trip to the lake. we went out on my friend\u0027s boat. the view of the lake was beautiful. the buildings in the city were very old. it\u0027s a great place to visit.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the lake .",
+        "we went out on my friend \u0027s boat .",
+        "the view of the lake was beautiful .",
+        "the buildings in the city were very old .",
+        "it \u0027s a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we took a bus to the city. we went on a boat ride in the lake . the view of the lake was beautiful . the buildings were very old . it was a great place to visit .",
+      "normalized_edited_story_text_sent": [
+        "we took a bus to the city .",
+        "we went on a boat ride in the lake .",
+        "the view of the lake was beautiful .",
+        "the buildings were very old .",
+        "it was a great place to visit ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628704515723"
+}

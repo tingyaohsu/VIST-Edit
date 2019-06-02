@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "17398173-17399304-17399712-17400033-17401748",
+  "photo_sequence_ids": [
+    "17398173",
+    "17399304",
+    "17399712",
+    "17400033",
+    "17401748"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a dinner . the food was delicious . the main course was amazing . the entrees were also very good . the dessert was the best part .",
+  "edited_stories": [
+    {
+      "worker_id": "A19LVWX8ZLO6CS",
+      "edited_story_text": "the family got together for a dinner at the local italian restaurant. the food was very pleasing and delicious . the main course was the tasty and filling. the entrees were also a blast. the desserts were very sweet and were the best part .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a dinner at the local italian restaurant .",
+        "the food was very pleasing and delicious .",
+        "the main course was the tasty and filling .",
+        "the entrees were also a blast .",
+        "the desserts were very sweet and were the best part ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family got together for a dinner . the food was delicious . the main meal was great. the entrees were also very good . the dessert was the best part .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a dinner .",
+        "the food was delicious .",
+        "the main meal was great .",
+        "the entrees were also very good .",
+        "the dessert was the best part ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "last night our family had a dinner together. everyone made something to contribute. John\u0027s main course was the best of all. but everything brought something that was pretty wonderful. maria made drinks that were delicious.",
+      "normalized_edited_story_text_sent": [
+        "last night our family had a dinner together .",
+        "everyone made something to contribute .",
+        "[male] \u0027s main course was the best of all .",
+        "but everything brought something that was pretty wonderful .",
+        "[female] made drinks that were delicious ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a dinner . the food was delicious and there was tons to choose from. the main course was amazing . the entrees were also very good . We enjoyed fancy drinks also .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a dinner .",
+        "the food was delicious and there was tons to choose from .",
+        "the main course was amazing .",
+        "the entrees were also very good .",
+        "we enjoyed fancy drinks also ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "All of my friends came to my house for dinner. Lisa\u0027s food was delicious. Her main course was particularly amazing. I\u0027m proud of my entrees, of course. But her dessert was definitely the best part.",
+      "normalized_edited_story_text_sent": [
+        "all of my friends came to my house for dinner .",
+        "[female] \u0027s food was delicious .",
+        "her main course was particularly amazing .",
+        "i \u0027m proud of my entrees , of course .",
+        "but her dessert was definitely the best part ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "413663",
+  "model": "GLAC"
+}

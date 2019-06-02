@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "355728429-355728436-355728433-355728431-355728432",
+  "photo_sequence_ids": [
+    "355728429",
+    "355728436",
+    "355728433",
+    "355728431",
+    "355728432"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the park today . there were many beautiful statues . the flowers were amazing . the sculptures were amazing . the art was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "I went to the park today . there were many beautiful tree . the plants were amazing . the forests were beautiful . the art was amazing .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park today .",
+        "there were many beautiful tree .",
+        "the plants were amazing .",
+        "the forests were beautiful .",
+        "the art was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the big park today and there were many beautiful statues . the flowers were amazing . the sculptures were amazing . the art was amazing .",
+      "normalized_edited_story_text_sent": [
+        "we went to the big park today and there were many beautiful statues .",
+        "the flowers were amazing .",
+        "the sculptures were amazing .",
+        "the art was amazing ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "we went to the park today and I took it all in . these giant tree roots looked like beautiful statues . the flowers were amazing and grew in front of the giant tree roots. . the tree were so cool, they looked like sculptures were amazing . the trees reminded me of sculptured art and I thought it was amazing..",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today and i took it all in .",
+        "these giant tree roots looked like beautiful statues .",
+        "the flowers were amazing and grew in front of the giant tree roots .",
+        "the tree were so cool , they looked like sculptures were amazing .",
+        "the trees reminded me of sculptured art and i thought it was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the park today . there were many beautiful statues .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "there were many beautiful statues ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "We went to the park today.There were many beautiful statues and beautiful trees. The flowers were really amazing. The sculptures were amazing and so was the art.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today.there were many beautiful statues and beautiful trees .",
+        "the flowers were really amazing .",
+        "the sculptures were amazing and so was the art ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594583750217",
+  "model": "GLAC"
+}

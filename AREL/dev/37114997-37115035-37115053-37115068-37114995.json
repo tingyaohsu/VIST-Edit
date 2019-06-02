@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "37114997-37115035-37115053-37115068-37114995",
+  "photo_sequence_ids": [
+    "37114997",
+    "37115035",
+    "37115053",
+    "37115068",
+    "37114995"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/29/37114997_86ab8be515_o.jpg",
+    "https://farm1.staticflickr.com/24/37115035_a79f748e6b_o.jpg",
+    "https://farm1.staticflickr.com/26/37115053_15276fe6f1_o.jpg",
+    "https://farm1.staticflickr.com/24/37115068_ee6747e572_o.jpg",
+    "https://farm1.staticflickr.com/33/37114995_7e2b4eade6_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party yesterday . this is a picture of a wall . this is a picture of a chair . he also had a lot of work to do . i also had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A15HH69K0VGFQ",
+      "edited_story_text": "I had a great time decorating yesterday. This is a picture of a wall I was working on. Here is one of my favorite paintings I did. He also helped with the work a lot. I had fun with this little piece.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time decorating yesterday .",
+        "this is a picture of a wall i was working on .",
+        "here is one of my favorite paintings i did .",
+        "he also helped with the work a lot .",
+        "i had fun with this little piece ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I had a great time at the painting party to decorate the house. First we drew the outline on the wall. Then we painted the wall to add color. My friend worked hard on her side of the room. In the end we painted a silly fish.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the painting party to decorate the house .",
+        "first we drew the outline on the wall .",
+        "then we painted the wall to add color .",
+        "my friend worked hard on her side of the room .",
+        "in the end we painted a silly fish ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i had a great time painting yesterday . this is a picture of a wall . this is a picture of my art . i put a lot of work into the paintings . i also had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time painting yesterday .",
+        "this is a picture of a wall .",
+        "this is a picture of my art .",
+        "i put a lot of work into the paintings .",
+        "i also had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I had a great time at the party yesterday. There was art on a wall. Art everywhere. We also had a lot of work to do. It was tiring, but still a fun day.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "there was art on a wall .",
+        "art everywhere .",
+        "we also had a lot of work to do .",
+        "it was tiring , but still a fun day ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the party yesterday. Here\u0027s a picture of the wall from the party, and here\u0027s a picture from the chair. My friend had a lot of work to do, but we both had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "here \u0027s a picture of the wall from the party , and here \u0027s a picture from the chair .",
+        "my friend had a lot of work to do , but we both had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "819764"
+}

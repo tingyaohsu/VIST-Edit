@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5885956572-5886063886-5891477203-5889990949-5890525465",
+  "photo_sequence_ids": [
+    "5885956572",
+    "5886063886",
+    "5891477203",
+    "5889990949",
+    "5890525465"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they had a great time . the view was amazing . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the family went to the beach . they had a great time . the view was amazing . they had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the family went to the beach .",
+        "they had a great time .",
+        "the view was amazing .",
+        "they had a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My navy boyfriend was taking me on a tour of a classic ship that was around in WW2. He was volunteering with a few of his shipmates and it was a beautiful day. A female coast guard was informing us of its history.",
+      "normalized_edited_story_text_sent": [
+        "my navy boyfriend was taking me on a tour of a classic ship that was around in ww2 .",
+        "he was volunteering with a few of his shipmates and it was a beautiful day .",
+        "a female coast guard was informing us of its history ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "the family went to the beach . they had a great time . the bay was incredible . they had a lot of fun . they saw some cool navy ships. they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they had a great time .",
+        "the bay was incredible .",
+        "they had a lot of fun .",
+        "they saw some cool navy ships .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the navy soldiers were ready to embark on a new journey. they were all very excited.",
+      "normalized_edited_story_text_sent": [
+        "the navy soldiers were ready to embark on a new journey .",
+        "they were all very excited ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the sailors were on the boat . they had a great time posing for photos . the view was amazing . the captain was a woman . the boat belonged to the Coast Guard .",
+      "normalized_edited_story_text_sent": [
+        "the sailors were on the boat .",
+        "they had a great time posing for photos .",
+        "the view was amazing .",
+        "the captain was a woman .",
+        "the boat belonged to the coast guard ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626958486375",
+  "model": "GLAC"
+}

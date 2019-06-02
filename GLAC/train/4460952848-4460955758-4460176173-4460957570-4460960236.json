@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4460952848-4460955758-4460176173-4460957570-4460960236",
+  "photo_sequence_ids": [
+    "4460952848",
+    "4460955758",
+    "4460176173",
+    "4460957570",
+    "4460960236"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bikers were getting ready for the race . they were off and running . they were all lined up . they were very fast . they were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bikers were preparing for their rides . they were off and cycling . bicycles were lined up on a rack . they were fast bikes . two bikers were happy to meet up .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were preparing for their rides .",
+        "they were off and cycling .",
+        "bicycles were lined up on a rack .",
+        "they were fast bikes .",
+        "two bikers were happy to meet up ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the biker carried her bookbag in a basket . she passed another biker . they waited for the train to pass . An older man biked by on the sidewalk . he passed a boyfriend and girlfriend embracing .",
+      "normalized_edited_story_text_sent": [
+        "the biker carried her bookbag in a basket .",
+        "she passed another biker .",
+        "they waited for the train to pass .",
+        "an older man biked by on the sidewalk .",
+        "he passed a boyfriend and girlfriend embracing ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Many people in this country enjoy riding their bikes still.",
+      "normalized_edited_story_text_sent": [
+        "many people in this country enjoy riding their bikes still ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bikers were getting ready for a nice ride . they were off and running . they went all over town . they went at a slow pace . they were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for a nice ride .",
+        "they were off and running .",
+        "they went all over town .",
+        "they went at a slow pace .",
+        "they were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa said the bikers were getting ready for the race . they were off and running . they were all lined up . they were very fast . they were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "[female] said the bikers were getting ready for the race .",
+        "they were off and running .",
+        "they were all lined up .",
+        "they were very fast .",
+        "they were very happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623686611346",
+  "model": "GLAC"
+}

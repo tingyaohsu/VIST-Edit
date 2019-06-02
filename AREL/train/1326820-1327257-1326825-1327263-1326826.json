@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "1326820-1327257-1326825-1327263-1326826",
+  "photo_sequence_ids": [
+    "1326820",
+    "1327257",
+    "1326825",
+    "1327263",
+    "1326826"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/1326820_d42e003cef_o.jpg",
+    "https://farm1.staticflickr.com/2/1327257_e6587a259d_o.jpg",
+    "https://farm1.staticflickr.com/2/1326825_e345936ada_o.jpg",
+    "https://farm1.staticflickr.com/2/1327263_f9a6a9c5d0_o.jpg",
+    "https://farm1.staticflickr.com/2/1326826_3dcfc1a5d8_o.jpg"
+  ],
+  "auto_story_text_normalized": "the groom was getting ready for his wedding . the bride and groom were very happy to be married . the bride was very happy to be there . the bride and groom pose for a picture . the bride and groom pose for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A3I4GTLPDHWT8J",
+      "edited_story_text": "The groom was getting ready for the wedding, he and his bride were excited to be married.  The bride and groom posed for many pictures with friends.",
+      "normalized_edited_story_text_sent": [
+        "the groom was getting ready for the wedding , he and his bride were excited to be married .",
+        "the bride and groom posed for many pictures with friends ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the groom was getting ready for his wedding . the bride and groom were very happy to be married . the bride was very happy to be there . the bride and groom hugged . the bride and groom pose for a picture with family .",
+      "normalized_edited_story_text_sent": [
+        "the groom was getting ready for his wedding .",
+        "the bride and groom were very happy to be married .",
+        "the bride was very happy to be there .",
+        "the bride and groom hugged .",
+        "the bride and groom pose for a picture with family ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The groom was looking forward for his wedding.  The bride and groom were very happy to be married. They posed for a picture next to the lake with their families. The bride and groom were so happy.",
+      "normalized_edited_story_text_sent": [
+        "the groom was looking forward for his wedding .",
+        "the bride and groom were very happy to be married .",
+        "they posed for a picture next to the lake with their families .",
+        "the bride and groom were so happy ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the groom is getting ready for his wedding . the bride and groom are very happy to be married . the bride is very happy to be there . the male and female pose for a picture . the male and female pose for a picture .",
+      "normalized_edited_story_text_sent": [
+        "the groom is getting ready for his wedding .",
+        "the bride and groom are very happy to be married .",
+        "the bride is very happy to be there .",
+        "the male and female pose for a picture .",
+        "the male and female pose for a picture ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The bride and groom were happy to be married.  You can just see it in their faces as they pose for pictures after the ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were happy to be married .",
+        "you can just see it in their faces as they pose for pictures after the ceremony ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "33936"
+}

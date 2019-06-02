@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "12846319-12846321-12846326-12846352-12846413",
+  "photo_sequence_ids": [
+    "12846319",
+    "12846321",
+    "12846326",
+    "12846352",
+    "12846413"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready for the wedding . the flower girl is so happy to be married . the cake is decorated with a beautiful white flowers . the bride and groom pose for a picture . the couple poses together after the ceremony .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the flower girl is so happy to be at the wedding . The bride posed with her bridesmaids.  they cut the cake that was decorated with a beautiful white flowers . the ring bearer pose for a picture . the bride poses for a picture after the ceremony .",
+      "normalized_edited_story_text_sent": [
+        "the flower girl is so happy to be at the wedding .",
+        "the bride posed with her bridesmaids .",
+        "they cut the cake that was decorated with a beautiful white flowers .",
+        "the ring bearer pose for a picture .",
+        "the bride poses for a picture after the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the bride and and her party are taking photos . the flower girl is so happy . the cake is decorated with a beautiful pink flowers . the ring bearer is so cute. the bride poses with her bouquet .",
+      "normalized_edited_story_text_sent": [
+        "the bride and and her party are taking photos .",
+        "the flower girl is so happy .",
+        "the cake is decorated with a beautiful pink flowers .",
+        "the ring bearer is so cute .",
+        "the bride poses with her bouquet ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bride and groom are getting ready for the wedding of their lifetime . the flower girl is so happy that she would someday to be married . the cake is decorated with a beautiful white flowers and pretty pink bows . the bride and groom pose for a picture while they cut the cake for the first time. the couple poses together after the ceremony which would be the first of many photos .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding of their lifetime .",
+        "the flower girl is so happy that she would someday to be married .",
+        "the cake is decorated with a beautiful white flowers and pretty pink bows .",
+        "the bride and groom pose for a picture while they cut the cake for the first time .",
+        "the couple poses together after the ceremony which would be the first of many photos ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bride and groom are getting ready for the wedding . the flower girl is so happy to be married . the cake is decorated with a beautiful white flowers . it was a great ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the flower girl is so happy to be married .",
+        "the cake is decorated with a beautiful white flowers .",
+        "it was a great ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "i attended a fantastic wedding yesterday. the bride looked radiant. the cake tasted amazing, the best i\u0027ve ever seen.  the flower boy was really cure in his suit. the couple was so happy and looked great.",
+      "normalized_edited_story_text_sent": [
+        "i attended a fantastic wedding yesterday .",
+        "the bride looked radiant .",
+        "the cake tasted amazing , the best i \u0027ve ever seen .",
+        "the flower boy was really cure in his suit .",
+        "the couple was so happy and looked great ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "313345",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2835917750-2835923100-2835931462-2835095703-2835098587",
+  "photo_sequence_ids": [
+    "2835917750",
+    "2835923100",
+    "2835931462",
+    "2835095703",
+    "2835098587"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the party last week . there were a lot of people there . we had a lot of fun . the food was delicious . afterward we all went out to eat .",
+  "edited_stories": [
+    {
+      "worker_id": "A2LH2CAU6CXVW",
+      "edited_story_text": "I had a great time at the party last week.  There were a lot of people there.  We had a lot of fun!  The food was delicious. Afterward, we all went out to eat.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "there were a lot of people there .",
+        "we had a lot of fun !",
+        "the food was delicious .",
+        "afterward , we all went out to eat ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i had a great time at the party last week . We all spent time together and posed for pictures . we had a lot of fun . There was good food and drinks around the table.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "we all spent time together and posed for pictures .",
+        "we had a lot of fun .",
+        "there was good food and drinks around the table ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i had a great time at the party last week . there were a lot of people there  . the food was delicious . afterward we all went out to eat . we have decided to do dinners every week.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "there were a lot of people there .",
+        "the food was delicious .",
+        "afterward we all went out to eat .",
+        "we have decided to do dinners every week ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "older people are having a gathering and a meal of some type.",
+      "normalized_edited_story_text_sent": [
+        "older people are having a gathering and a meal of some type ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i had a great time at last week\u0027s party . many had attended . we had fun as a group . the food tasted delicious . afterwards. we went out to eat another snack .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at last week \u0027s party .",
+        "many had attended .",
+        "we had fun as a group .",
+        "the food tasted delicious .",
+        "afterwards .",
+        "we went out to eat another snack ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157607155047588",
+  "model": "GLAC"
+}

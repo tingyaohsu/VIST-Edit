@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2810228582-2809381151-2809381291-2809381633-2810229492",
+  "photo_sequence_ids": [
+    "2810228582",
+    "2809381151",
+    "2809381291",
+    "2809381633",
+    "2810229492"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i was so excited to be in the car show . the models were very impressive . the colors were amazing . the blue and white were my favorite . the best part was the red car .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "i was so elevated to be in the car show . the models were very impressive . the colors were spectacular. the blue and white were my favorite . the best part was the red car .",
+      "normalized_edited_story_text_sent": [
+        "i was so elevated to be in the car show .",
+        "the models were very impressive .",
+        "the colors were spectacular .",
+        "the blue and white were my favorite .",
+        "the best part was the red car ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "I was so excited to be in the car show.  The models were very impressive and the colors were amazing.  The blue and white were my favorite, but the best part was the red car.",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be in the car show .",
+        "the models were very impressive and the colors were amazing .",
+        "the blue and white were my favorite , but the best part was the red car ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "david and i went to the car show yesterday.  the models were very interesting.  the colors were spectacular.  my favorite combination was blue and white.  the favorite part of the show was the red car.",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to the car show yesterday .",
+        "the models were very interesting .",
+        "the colors were spectacular .",
+        "my favorite combination was blue and white .",
+        "the favorite part of the show was the red car ."
+      ]
+    },
+    {
+      "worker_id": "A3CWW9DIL73I14",
+      "edited_story_text": "We were so excited to be at the car show. The models were very impressive. The colors were amazing. The blue and white were my favorite. The best part was the dark blue car.",
+      "normalized_edited_story_text_sent": [
+        "we were so excited to be at the car show .",
+        "the models were very impressive .",
+        "the colors were amazing .",
+        "the blue and white were my favorite .",
+        "the best part was the dark blue car ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "we had a good time together . the models were very impressive . we loved them . there were a lot of things to do . the best part was the blue car .",
+      "normalized_edited_story_text_sent": [
+        "we had a good time together .",
+        "the models were very impressive .",
+        "we loved them .",
+        "there were a lot of things to do .",
+        "the best part was the blue car ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157607018707495",
+  "model": "GLAC"
+}

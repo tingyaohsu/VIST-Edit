@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "442711898-442711820-442714839-442714953-442714901",
+  "photo_sequence_ids": [
+    "442711898",
+    "442711820",
+    "442714839",
+    "442714953",
+    "442714901"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old building was a bit creepy . the inside was very clean . the bathroom was a little messy . the room was nice . the outside was a big mess .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the old building was a bit creepy . the inside was very clean . the office was a little messy . the room was nice . the outside was a empty.",
+      "normalized_edited_story_text_sent": [
+        "the old building was a bit creepy .",
+        "the inside was very clean .",
+        "the office was a little messy .",
+        "the room was nice .",
+        "the outside was a empty ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria and Robert thought the old building was a bit creepy . the inside was very clean . the bathroom was a little messy . the room was nice . the outside was a big mess .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] thought the old building was a bit creepy .",
+        "the inside was very clean .",
+        "the bathroom was a little messy .",
+        "the room was nice .",
+        "the outside was a big mess ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the old building was a bit creepy . the inside was very clean . the bathroom was a little messy . the place needs help . the outside was a big mess .",
+      "normalized_edited_story_text_sent": [
+        "the old building was a bit creepy .",
+        "the inside was very clean .",
+        "the bathroom was a little messy .",
+        "the place needs help .",
+        "the outside was a big mess ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "This building had this ominous vibe to it. It\u0027s age lends to that atmosphere. A ruffled restroom and ravaged exterior. Oddly enough, one room was rather nice and suspiciously clean.",
+      "normalized_edited_story_text_sent": [
+        "this building had this ominous vibe to it .",
+        "it \u0027s age lends to that atmosphere .",
+        "a ruffled restroom and ravaged exterior .",
+        "oddly enough , one room was rather nice and suspiciously clean ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the old building was a bit creepy . the inside was very clean . although the office was a little messy . the hallway was okay. the outside of the building was a big mess .",
+      "normalized_edited_story_text_sent": [
+        "the old building was a bit creepy .",
+        "the inside was very clean .",
+        "although the office was a little messy .",
+        "the hallway was okay .",
+        "the outside of the building was a big mess ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600041151400",
+  "model": "GLAC"
+}

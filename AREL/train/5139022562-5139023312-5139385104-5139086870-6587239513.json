@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5139022562-5139023312-5139385104-5139086870-6587239513",
+  "photo_sequence_ids": [
+    "5139022562",
+    "5139023312",
+    "5139385104",
+    "5139086870",
+    "6587239513"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4017/5139022562_44099088a4_o.jpg",
+    "https://farm2.staticflickr.com/1405/5139023312_d28990696f_o.jpg",
+    "https://farm5.staticflickr.com/4056/5139385104_5204ba75a3_o.jpg",
+    "https://farm2.staticflickr.com/1213/5139086870_2edecec20b_o.jpg",
+    "https://farm8.staticflickr.com/7148/6587239513_1eb3eeacc1_o.jpg"
+  ],
+  "auto_story_text_normalized": "the mountain was covered in snow . the view from the top of the mountain was beautiful . the view from the top of the mountain . the view from the top of the mountain was amazing . the mountains were beautiful and beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The mountain was covered in snow. The view from the top of the mountain was beautiful, and amazing.",
+      "normalized_edited_story_text_sent": [
+        "the mountain was covered in snow .",
+        "the view from the top of the mountain was beautiful , and amazing ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the mountain was still covered in snow. we took a long hike to the top and the view was beautiful. it was great spending time out in nature.",
+      "normalized_edited_story_text_sent": [
+        "the mountain was still covered in snow .",
+        "we took a long hike to the top and the view was beautiful .",
+        "it was great spending time out in nature ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The mountain was covered in beautiful snow. The view from the top of the mountain was truly beautiful. The mountains had a charming look overall. The view of the mountains from far away made them look very larger. The view of the mountain against the forest was stunning.",
+      "normalized_edited_story_text_sent": [
+        "the mountain was covered in beautiful snow .",
+        "the view from the top of the mountain was truly beautiful .",
+        "the mountains had a charming look overall .",
+        "the view of the mountains from far away made them look very larger .",
+        "the view of the mountain against the forest was stunning ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the mountain was covered in snow . the view from the top of the mountain was amazing. the mountains were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the mountain was covered in snow .",
+        "the view from the top of the mountain was amazing .",
+        "the mountains were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the beautiful mountain was snow covered . the mountain top provided an amazing view . from the top of the mountain, everything could be seen . the mountain top view was one of the greatest sights in the area .the mountains had a natural beauty",
+      "normalized_edited_story_text_sent": [
+        "the beautiful mountain was snow covered .",
+        "the mountain top provided an amazing view .",
+        "from the top of the mountain , everything could be seen .",
+        "the mountain top view was one of the greatest sights in the area .",
+        "the mountains had a natural beauty"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625294515830"
+}

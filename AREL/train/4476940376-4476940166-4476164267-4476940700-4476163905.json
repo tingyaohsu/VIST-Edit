@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4476940376-4476940166-4476164267-4476940700-4476163905",
+  "photo_sequence_ids": [
+    "4476940376",
+    "4476940166",
+    "4476164267",
+    "4476940700",
+    "4476163905"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4022/4476940376_8d0274c1a5_o.jpg",
+    "https://farm5.staticflickr.com/4027/4476940166_76ee28bb0c_o.jpg",
+    "https://farm5.staticflickr.com/4009/4476164267_115269ee78_o.jpg",
+    "https://farm5.staticflickr.com/4001/4476940700_1940e8496e_o.jpg",
+    "https://farm3.staticflickr.com/2799/4476163905_1b0047953f_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the meeting yesterday . i had a great time . some of the students were very happy to be there . this is a picture of a man . the audience had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the meeting at the university yesterday. the speakers were all really informative, and i had a great time. there were a lot of students in attendance.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting at the university yesterday .",
+        "the speakers were all really informative , and i had a great time .",
+        "there were a lot of students in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "I spoke at a meeting yesterday and had a great time. Most of the students were happy to be there and eager to learn. They listened intently as I spoke. I think the audience really enjoyed themselves.",
+      "normalized_edited_story_text_sent": [
+        "i spoke at a meeting yesterday and had a great time .",
+        "most of the students were happy to be there and eager to learn .",
+        "they listened intently as i spoke .",
+        "i think the audience really enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the conference yesterday . i had a wonderful time . some of the students were excited to be there . this is a photo of a group of men . the audience had an awesome time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference yesterday .",
+        "i had a wonderful time .",
+        "some of the students were excited to be there .",
+        "this is a photo of a group of men .",
+        "the audience had an awesome time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the meeting yesterday.  A lot of people came to listen to the speaker.  It was a very good seminar.  I learned a lot.  The woman speaker was so knowledgeable.  I am going to use my knowledge for my work.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "a lot of people came to listen to the speaker .",
+        "it was a very good seminar .",
+        "i learned a lot .",
+        "the woman speaker was so knowledgeable .",
+        "i am going to use my knowledge for my work ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i went to the gathering yesterday . i had a extraordinary time . some of the students were extremely upbeat to be there . this is a photo of a man . the audience had a extraordinary time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the gathering yesterday .",
+        "i had a extraordinary time .",
+        "some of the students were extremely upbeat to be there .",
+        "this is a photo of a man .",
+        "the audience had a extraordinary time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623735481090"
+}

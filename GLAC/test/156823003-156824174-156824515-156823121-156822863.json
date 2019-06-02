@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "156823003-156824174-156824515-156823121-156822863",
+  "photo_sequence_ids": [
+    "156823003",
+    "156824174",
+    "156824515",
+    "156823121",
+    "156822863"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a fun day . the kids played in the yard . they had a great time . the baby was having a good time . the baby was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family got together for a bbq. Robert cooked on the grill. the kids played in the yard . they had a great time . the baby was having a good time . the kids was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a bbq .",
+        "[male] cooked on the grill .",
+        "the kids played in the yard .",
+        "they had a great time .",
+        "the baby was having a good time .",
+        "the kids was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family got together for a fun day in the sun . the kids played in the yard as the parents grilled. they had a great time playing games and talking . the baby was having a good time with his brother . the baby was happy to be there and smiled the hole day .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a fun day in the sun .",
+        "the kids played in the yard as the parents grilled .",
+        "they had a great time playing games and talking .",
+        "the baby was having a good time with his brother .",
+        "the baby was happy to be there and smiled the hole day ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "My family got together for an afternoon. The children played in the yard while the adults talked and my father grilled hamburgers and sausages. Everyone had a great time. The babies were especially happy to be there. It was a fun afternoon.",
+      "normalized_edited_story_text_sent": [
+        "my family got together for an afternoon .",
+        "the children played in the yard while the adults talked and my father grilled hamburgers and sausages .",
+        "everyone had a great time .",
+        "the babies were especially happy to be there .",
+        "it was a fun afternoon ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family got together for a fun day.  The men grilled food. the kids played in the yard. the baby was having a good time. everyone enjoyed their time together.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a fun day .",
+        "the men grilled food .",
+        "the kids played in the yard .",
+        "the baby was having a good time .",
+        "everyone enjoyed their time together ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a fun day cooking out. Everyone had a great time hanging out and eating together. The kids played outside.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a fun day cooking out .",
+        "everyone had a great time hanging out and eating together .",
+        "the kids played outside ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594150383025",
+  "model": "GLAC"
+}

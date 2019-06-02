@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "8459476-8460062-8460075-8460266-8460273",
+  "photo_sequence_ids": [
+    "8459476",
+    "8460062",
+    "8460075",
+    "8460266",
+    "8460273"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to visit the zoo . the kids were so excited . the children were having a great time . the baby was very happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited to visit the zoo . They took a boat ride to see the sights. They had lunch by the water. What a great day!",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to visit the zoo .",
+        "they took a boat ride to see the sights .",
+        "they had lunch by the water .",
+        "what a great day !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was excited to visit the zoo . the kids were so excited .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to visit the zoo .",
+        "the kids were so excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was excited for the park . the kids were eager to go . the kids had lots of fun . a baby was cheerful and laughed . the entire family went .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the park .",
+        "the kids were eager to go .",
+        "the kids had lots of fun .",
+        "a baby was cheerful and laughed .",
+        "the entire family went ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the whole family was thrilled to be going to the zoo.  the kids were especially excited.  they had the best time.  even the baby was happy.",
+      "normalized_edited_story_text_sent": [
+        "the whole family was thrilled to be going to the zoo .",
+        "the kids were especially excited .",
+        "they had the best time .",
+        "even the baby was happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the family was excited to visit the zoo . the kids were so excited . the children were having a great time . the baby was very happy . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family was excited to visit the zoo .",
+        "the kids were so excited .",
+        "the children were having a great time .",
+        "the baby was very happy .",
+        "the whole family was there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "210164",
+  "model": "GLAC"
+}

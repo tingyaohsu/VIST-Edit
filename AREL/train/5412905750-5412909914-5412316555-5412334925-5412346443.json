@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5412905750-5412909914-5412316555-5412334925-5412346443",
+  "photo_sequence_ids": [
+    "5412905750",
+    "5412909914",
+    "5412316555",
+    "5412334925",
+    "5412346443"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5139/5412905750_591df5a73a_o.jpg",
+    "https://farm5.staticflickr.com/4148/5412909914_8eb7f0a59b_o.jpg",
+    "https://farm5.staticflickr.com/4118/5412316555_2b9c31c8f3_o.jpg",
+    "https://farm5.staticflickr.com/4142/5412334925_6a85c1104d_o.jpg",
+    "https://farm6.staticflickr.com/5100/5412346443_11b4d2a1a6_o.jpg"
+  ],
+  "auto_story_text_normalized": "this year \u0027s halloween party was a lot of fun . one of my favorite pieces was the cat . some of the girls had a lot of fun . [female] is having a great time with her friends . some people had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "this year \u0027s halloween party was a lot of fun . one of my favorite costumes was the cat . some of the girls had a lot of fun . [female] is having a great time with her friends . the photographer had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this year \u0027s halloween party was a lot of fun .",
+        "one of my favorite costumes was the cat .",
+        "some of the girls had a lot of fun .",
+        "[female] is having a great time with her friends .",
+        "the photographer had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "this year \u0027s halloween party was a lot of fun . I loved seeing the cat . some of the girls had a lot of fun . [female] is having a great time with her friends .",
+      "normalized_edited_story_text_sent": [
+        "this year \u0027s halloween party was a lot of fun .",
+        "i loved seeing the cat .",
+        "some of the girls had a lot of fun .",
+        "[female] is having a great time with her friends ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "this year\u0027s halloween party was a lot of fun. one of my favorite costumes was the cat. [female] is having a great time with our friends. we stayed up until really late.",
+      "normalized_edited_story_text_sent": [
+        "this year \u0027s halloween party was a lot of fun .",
+        "one of my favorite costumes was the cat .",
+        "[female] is having a great time with our friends .",
+        "we stayed up until really late ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "this year \u0027s halloween party was a lot of fun . one of my favorite pieces was the cat . some of the girls had a lot of fun . [female] is having a great time with her friends . some people had a great time I love the I will celebrate again",
+      "normalized_edited_story_text_sent": [
+        "this year \u0027s halloween party was a lot of fun .",
+        "one of my favorite pieces was the cat .",
+        "some of the girls had a lot of fun .",
+        "[female] is having a great time with her friends .",
+        "some people had a great time i love the i will celebrate again"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The Halloween party this year was really exciting. Some of the guests wore cool masks.Three of my friends dressed up like cats. I saw some people kissing. Most people had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party this year was really exciting .",
+        "some of the guests wore cool masks.three of my friends dressed up like cats .",
+        "i saw some people kissing .",
+        "most people had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625966685320"
+}

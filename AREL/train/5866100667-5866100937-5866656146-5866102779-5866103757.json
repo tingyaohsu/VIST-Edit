@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5866100667-5866100937-5866656146-5866102779-5866103757",
+  "photo_sequence_ids": [
+    "5866100667",
+    "5866100937",
+    "5866656146",
+    "5866102779",
+    "5866103757"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5191/5866100667_9ec10f4d56_o.jpg",
+    "https://farm6.staticflickr.com/5239/5866100937_72f1d34d39_o.jpg",
+    "https://farm6.staticflickr.com/5224/5866656146_f422527ffe_o.jpg",
+    "https://farm6.staticflickr.com/5145/5866102779_590bae8500_o.jpg",
+    "https://farm4.staticflickr.com/3113/5866103757_45c6fb3aa4_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of people at the beach today . after the race , we went to a bike race and had a lot of fun . the race began and everyone was ready to start . the winner of the race was the winner of the race . then , there was plenty of food for the party to start .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SG85M8W4G6F2",
+      "edited_story_text": "For the triathlon, we swam in the ocean. Next, we had to complete the bicycling portion of the event. While running, the athletes got very hot and used water to cool down. Luckily, there were volunteers to provide water to the athletes. Many awards were given out after the race.",
+      "normalized_edited_story_text_sent": [
+        "for the triathlon , we swam in the ocean .",
+        "next , we had to complete the bicycling portion of the event .",
+        "while running , the athletes got very hot and used water to cool down .",
+        "luckily , there were volunteers to provide water to the athletes .",
+        "many awards were given out after the race ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "There were a lot of people at the beach today for the swimming portion of the race! After the swimmers came in, we went to watch the bike race and had a lot of fun! After the cyclists came in the runners began their race. The winner of the race crossed the finish line! There was plenty of medals and trophies!",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the beach today for the swimming portion of the race !",
+        "after the swimmers came in , we went to watch the bike race and had a lot of fun !",
+        "after the cyclists came in the runners began their race .",
+        "the winner of the race crossed the finish line !",
+        "there was plenty of medals and trophies !"
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "there were a lot of people at the beach today . after the race ,we went to the beach and had a lot of fun. the race began and everyone was ready to start . the winner of the race was the winner of the race . then , there was plenty of food for the party to start .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the beach today .",
+        "after the race , we went to the beach and had a lot of fun .",
+        "the race began and everyone was ready to start .",
+        "the winner of the race was the winner of the race .",
+        "then , there was plenty of food for the party to start ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "There were a lot of people at the event today.  Everyone was excited as the race was about to start.  There was plenty of food for all of the race participants and finishers got a great award.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the event today .",
+        "everyone was excited as the race was about to start .",
+        "there was plenty of food for all of the race participants and finishers got a great award ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "There were a lot of people at the beach today attending the race. It was a swim, bike, run event. The race began and everyone was ready to start. There was plenty of food and drinks for the racers. They gave out a few awards to the top finishers.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the beach today attending the race .",
+        "it was a swim , bike , run event .",
+        "the race began and everyone was ready to start .",
+        "there was plenty of food and drinks for the racers .",
+        "they gave out a few awards to the top finishers ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627037920956"
+}

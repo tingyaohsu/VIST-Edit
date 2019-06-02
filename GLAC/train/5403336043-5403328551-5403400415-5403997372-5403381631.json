@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5403336043-5403328551-5403400415-5403997372-5403381631",
+  "photo_sequence_ids": [
+    "5403336043",
+    "5403328551",
+    "5403400415",
+    "5403997372",
+    "5403381631"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the team was ready for the game . the players were getting ready to play . the cheerleaders were very talented . the teams were playing hard . the crowd was really excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the team was ready for the game . the players were getting ready to play . the cheerleaders were very talented . the teams were playing hard . the crowd was really excited .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the team was ready for the game .",
+        "the players were getting ready to play .",
+        "the cheerleaders were very talented .",
+        "the teams were playing hard .",
+        "the crowd was really excited ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the team was all ready for the game. the players were suited up anf getting ready to play. the cheerleaders performed and they were very talented. Both of the teams were playing very hard. Throughout the game the crowd was really excited .",
+      "normalized_edited_story_text_sent": [
+        "the team was all ready for the game .",
+        "the players were suited up anf getting ready to play .",
+        "the cheerleaders performed and they were very talented .",
+        "both of the teams were playing very hard .",
+        "throughout the game the crowd was really excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the team was ready for game day . the players were prepared to play hard . the cheerleaders showed their talents . the teams were striving against each other . the crowd was really into it .",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for game day .",
+        "the players were prepared to play hard .",
+        "the cheerleaders showed their talents .",
+        "the teams were striving against each other .",
+        "the crowd was really into it ."
+      ]
+    },
+    {
+      "worker_id": "A1AF392CLGHH0X",
+      "edited_story_text": "The players on the team were getting ready to play the game.  The cheerleaders were very talented, the teams were playing hard, and the crowd was really excited .",
+      "normalized_edited_story_text_sent": [
+        "the players on the team were getting ready to play the game .",
+        "the cheerleaders were very talented , the teams were playing hard , and the crowd was really excited ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the team was ready for the game . People were on the court. The teams competed for the ball. A player reaches for the ball.",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the game .",
+        "people were on the court .",
+        "the teams competed for the ball .",
+        "a player reaches for the ball ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625944175014",
+  "model": "GLAC"
+}

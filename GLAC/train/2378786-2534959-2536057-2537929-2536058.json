@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "2378786-2534959-2536057-2537929-2536058",
+  "photo_sequence_ids": [
+    "2378786",
+    "2534959",
+    "2536057",
+    "2537929",
+    "2536058"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the local park . there were lots of people there . some of the trees were very pretty . the kids were having a great time . the whole family was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "we went to the local park . there were lots of people there . some of the trees were very pretty . the kids were having a great time . everyone loved the activities .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park .",
+        "there were lots of people there .",
+        "some of the trees were very pretty .",
+        "the kids were having a great time .",
+        "everyone loved the activities ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "we went with each other to the local park . there were lots of people there, creating a lively atmosphere . some of the trees were very pretty this fall time of year . the kids were having a blast . the whole family had a happy outing .",
+      "normalized_edited_story_text_sent": [
+        "we went with each other to the local park .",
+        "there were lots of people there , creating a lively atmosphere .",
+        "some of the trees were very pretty this fall time of year .",
+        "the kids were having a blast .",
+        "the whole family had a happy outing ."
+      ]
+    },
+    {
+      "worker_id": "A3GE30DPGCRLTO",
+      "edited_story_text": "we went to the local park . there were lots of people there .there was a man feeding birds . there were kids having a great time ice skating . the whole family was happy .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park .",
+        "there were lots of people there .",
+        "there was a man feeding birds .",
+        "there were kids having a great time ice skating .",
+        "the whole family was happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "we went to the local park . there were lots of cool people there . some of the trees were very nice looking. the kids were having a super time . the whole family was happy .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park .",
+        "there were lots of cool people there .",
+        "some of the trees were very nice looking .",
+        "the kids were having a super time .",
+        "the whole family was happy ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the local park . there were lots of people there . some of the trees were very pretty . the kids were having a great time . there were ducks near a bench.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park .",
+        "there were lots of people there .",
+        "some of the trees were very pretty .",
+        "the kids were having a great time .",
+        "there were ducks near a bench ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "63571",
+  "model": "GLAC"
+}

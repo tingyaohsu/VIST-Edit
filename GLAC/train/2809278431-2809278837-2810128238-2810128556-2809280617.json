@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2809278431-2809278837-2810128238-2810128556-2809280617",
+  "photo_sequence_ids": [
+    "2809278431",
+    "2809278837",
+    "2810128238",
+    "2810128556",
+    "2809280617"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the town was very old . there were many buildings . the lake was calm . the people were walking around . the signs were very interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the building was very old . there was a wishing well. the lake was calm . the people were exploring . the signs were very old .",
+      "normalized_edited_story_text_sent": [
+        "the building was very old .",
+        "there was a wishing well .",
+        "the lake was calm .",
+        "the people were exploring .",
+        "the signs were very old ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the town was very old . there were many buildings . the lake next to the town was so tranquil. There weren\u0027t that many people out so we took a lot of photos . the signs were had a lot of history to them.",
+      "normalized_edited_story_text_sent": [
+        "the town was very old .",
+        "there were many buildings .",
+        "the lake next to the town was so tranquil .",
+        "there were n\u0027t that many people out so we took a lot of photos .",
+        "the signs were had a lot of history to them ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the town was very old and fun to visit. there were many buildings along with old well. the lake was calm today with boats. the people were walking around  taking pictures. the signs were very interesting and we read them all.",
+      "normalized_edited_story_text_sent": [
+        "the town was very old and fun to visit .",
+        "there were many buildings along with old well .",
+        "the lake was calm today with boats .",
+        "the people were walking around taking pictures .",
+        "the signs were very interesting and we read them all ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The little town was very old. A lot of people were walking around. There were a lot of buildings. The signs throughout the town were interesting.",
+      "normalized_edited_story_text_sent": [
+        "the little town was very old .",
+        "a lot of people were walking around .",
+        "there were a lot of buildings .",
+        "the signs throughout the town were interesting ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the town was very old . there were many buildings .",
+      "normalized_edited_story_text_sent": [
+        "the town was very old .",
+        "there were many buildings ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157607017933719",
+  "model": "GLAC"
+}

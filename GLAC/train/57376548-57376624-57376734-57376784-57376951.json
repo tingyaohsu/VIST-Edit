@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "57376548-57376624-57376734-57376784-57376951",
+  "photo_sequence_ids": [
+    "57376548",
+    "57376624",
+    "57376734",
+    "57376784",
+    "57376951"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was packed for the wedding . the bride and groom were very happy . the guests were excited to be there . the ceremony was beautiful . the reception was a great success .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the church was packed for the wedding . the bride and groom were very happy . the guests were excited to be there . the ceremony was beautiful . the reception was a great success .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the church was packed for the wedding .",
+        "the bride and groom were very happy .",
+        "the guests were excited to be there .",
+        "the ceremony was beautiful .",
+        "the reception was a great success ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the art gallery was gorgeous! some of the paintings dated back to the colonial times. the dinner after the opening exhibit was a really elegant affair. i was so grateful to be able to attend.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was gorgeous !",
+        "some of the paintings dated back to the colonial times .",
+        "the dinner after the opening exhibit was a really elegant affair .",
+        "i was so grateful to be able to attend ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the guests were excited to be at the reception. many people were gathered together. the reception was a great success.",
+      "normalized_edited_story_text_sent": [
+        "the guests were excited to be at the reception .",
+        "many people were gathered together .",
+        "the reception was a great success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the church was packed for the wedding . it was a great evening",
+      "normalized_edited_story_text_sent": [
+        "the church was packed for the wedding .",
+        "it was a great evening"
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the venue was packed for the wedding . the bride and groom were very happy . the guests were excited to be there . the ceremony was beautiful . the reception was the best part of all .",
+      "normalized_edited_story_text_sent": [
+        "the venue was packed for the wedding .",
+        "the bride and groom were very happy .",
+        "the guests were excited to be there .",
+        "the ceremony was beautiful .",
+        "the reception was the best part of all ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1242513",
+  "model": "GLAC"
+}

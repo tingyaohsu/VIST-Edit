@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "9042865770-9042864672-9042867800-9042863518-9042862628",
+  "photo_sequence_ids": [
+    "9042865770",
+    "9042864672",
+    "9042867800",
+    "9042863518",
+    "9042862628"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the art gallery . there were many different pieces . some of them were very old . others were very detailed . they were all very confusing .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "i went to the brewery for a beer. a sign offered a free pint for papas . it was father\u0027s day . a sign said the menu price. another sign said happy father\u0027s day.",
+      "normalized_edited_story_text_sent": [
+        "i went to the brewery for a beer .",
+        "a sign offered a free pint for papas .",
+        "it was father \u0027s day .",
+        "a sign said the menu price .",
+        "another sign said happy father \u0027s day ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "I went to the bar and had some drinks. The beer was good. There were signs everywhere. Fathers Day signs were displayed.",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar and had some drinks .",
+        "the beer was good .",
+        "there were signs everywhere .",
+        "fathers day signs were displayed ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "i went to the art gallery . there were many different pieces . some of them were very old . others were very detailed . they were all very confusing .\r\rI took time off to go to the art gallery. There were a lot of unique art pieces. Some looked really old. Others looked extremely detailed. Honestly, they were all really confusing.",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery .",
+        "there were many different pieces .",
+        "some of them were very old .",
+        "others were very detailed .",
+        "they were all very confusing .",
+        "i took time off to go to the art gallery .",
+        "there were a lot of unique art pieces .",
+        "some looked really old .",
+        "others looked extremely detailed .",
+        "honestly , they were all really confusing ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bar was giving away free pints for father\u0027s day. i had to go!",
+      "normalized_edited_story_text_sent": [
+        "the bar was giving away free pints for father \u0027s day .",
+        "i had to go !"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i went to the beer gallery . there were many different kinds of beer . some of them were very rich . others were very light . they were all very tasty .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beer gallery .",
+        "there were many different kinds of beer .",
+        "some of them were very rich .",
+        "others were very light .",
+        "they were all very tasty ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157634119717615",
+  "model": "GLAC"
+}

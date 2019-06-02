@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5845122897-5845123215-5845124737-5845678096-5845678252",
+  "photo_sequence_ids": [
+    "5845122897",
+    "5845123215",
+    "5845124737",
+    "5845678096",
+    "5845678252"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5074/5845122897_9158ed788e_o.jpg",
+    "https://farm3.staticflickr.com/2790/5845123215_e1597cd37c_o.jpg",
+    "https://farm3.staticflickr.com/2558/5845124737_4eda645ebc_o.jpg",
+    "https://farm4.staticflickr.com/3606/5845678096_0f6dbe0c49_o.jpg",
+    "https://farm3.staticflickr.com/2491/5845678252_72d395c3a8_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a truck . this is a picture of a man . we had a lot of fun there . the construction crew is ready to go . i had to take a break from the train to get to work .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went to visit a military museum. There was a photograph of some soldiers. We also saw a set-up of soldier\u0027s weapons. There was an area showcasing tanks. We took a break after a while.",
+      "normalized_edited_story_text_sent": [
+        "we went to visit a military museum .",
+        "there was a photograph of some soldiers .",
+        "we also saw a set-up of soldier \u0027s weapons .",
+        "there was an area showcasing tanks .",
+        "we took a break after a while ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "this is a picture of a truck . this is a picture of men . the military is ready to go .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a truck .",
+        "this is a picture of men .",
+        "the military is ready to go ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a cannon. This is a picture of a soldier.  We had a lot of fun there checking out the military things. There were guns.  The video showed a military operation.  It was a great day at the museum.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a cannon .",
+        "this is a picture of a soldier .",
+        "we had a lot of fun there checking out the military things .",
+        "there were guns .",
+        "the video showed a military operation .",
+        "it was a great day at the museum ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "this is a photo of a truck . this is a photo of a man . we had a great deal of fun there . the construction crew is ready to go . i took break from the train to get to work .",
+      "normalized_edited_story_text_sent": [
+        "this is a photo of a truck .",
+        "this is a photo of a man .",
+        "we had a great deal of fun there .",
+        "the construction crew is ready to go .",
+        "i took break from the train to get to work ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "this is a picture of a tank,  and men in combat .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a tank , and men in combat ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626865355029"
+}

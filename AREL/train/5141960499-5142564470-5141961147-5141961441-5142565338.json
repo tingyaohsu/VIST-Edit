@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5141960499-5142564470-5141961147-5141961441-5142565338",
+  "photo_sequence_ids": [
+    "5141960499",
+    "5142564470",
+    "5141961147",
+    "5141961441",
+    "5142565338"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4061/5141960499_1929fdd2b1_o.jpg",
+    "https://farm2.staticflickr.com/1198/5142564470_be83223ed7_o.jpg",
+    "https://farm2.staticflickr.com/1414/5141961147_441fa63a46_o.jpg",
+    "https://farm2.staticflickr.com/1063/5141961441_a87f154f60_o.jpg",
+    "https://farm5.staticflickr.com/4048/5142565338_29b1d91c34_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to a concert last night . the lead singer was very talented . the lead singer was very talented . the singer was very talented . after the show , the band played a song .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we traveled to a concert last night . the singers was very talented . the lead singer was extremely talented . the singer could sing and play the piano.  after the show , the band played another song .",
+      "normalized_edited_story_text_sent": [
+        "we traveled to a concert last night .",
+        "the singers was very talented .",
+        "the lead singer was extremely talented .",
+        "the singer could sing and play the piano .",
+        "after the show , the band played another song ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we go to a concert last night . the lead singer is very talented . the lead singer is very talented . the singer is very talented . after the show , the band play a song .",
+      "normalized_edited_story_text_sent": [
+        "we go to a concert last night .",
+        "the lead singer is very talented .",
+        "the lead singer is very talented .",
+        "the singer is very talented .",
+        "after the show , the band play a song ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We saw a great concert last night where the lead singer was very talented.",
+      "normalized_edited_story_text_sent": [
+        "we saw a great concert last night where the lead singer was very talented ."
+      ]
+    },
+    {
+      "worker_id": "A16NITTBMCSN0V",
+      "edited_story_text": "we went to a concert last night . the lead singer was very talented . the lead singer was very pretty. after the show , the band gave an intimate performance .",
+      "normalized_edited_story_text_sent": [
+        "we went to a concert last night .",
+        "the lead singer was very talented .",
+        "the lead singer was very pretty .",
+        "after the show , the band gave an intimate performance ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to a concert last night. The lead singer was very talented. After the show, the band played an encore.",
+      "normalized_edited_story_text_sent": [
+        "we went to a concert last night .",
+        "the lead singer was very talented .",
+        "after the show , the band played an encore ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625178191457"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "233409656-233409008-233408702-233408447-233408619",
+  "photo_sequence_ids": [
+    "233409656",
+    "233409008",
+    "233408702",
+    "233408447",
+    "233408619"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be at the halloween party . the adults were dressed up as a vampire . the dog was dressed as a scary clown . the family was having a great time . the little girl was enjoying the festivities .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the kids were excited to be at the birthdayparty . the kids brought dad a gift to open on the couch. the family was having a great time . the family was enjoying the festivities .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the birthdayparty .",
+        "the kids brought dad a gift to open on the couch .",
+        "the family was having a great time .",
+        "the family was enjoying the festivities ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the kids were excited to be at David\u0027s birthday party . David wore a funny hat . the dogs played together . the family was having a great time . the little girl gave David a birthday card .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at [male] \u0027s birthday party .",
+        "[male] wore a funny hat .",
+        "the dogs played together .",
+        "the family was having a great time .",
+        "the little girl gave [male] a birthday card ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were excited to be at the halloween party .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the halloween party ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the kids were excited to be at the birthday party . the adults were dressed up in silly hats. the dog was dressed as a  clown . the family was having a great time . the little girl was enjoying the festivities .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the birthday party .",
+        "the adults were dressed up in silly hats .",
+        "the dog was dressed as a clown .",
+        "the family was having a great time .",
+        "the little girl was enjoying the festivities ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the kids were excited to be at the birthday party . the adults were dressed up in party hats . the dogs were at the party trying to get food . the family was having a great time . the man was enjoying his card.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the birthday party .",
+        "the adults were dressed up in party hats .",
+        "the dogs were at the party trying to get food .",
+        "the family was having a great time .",
+        "the man was enjoying his card ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594267605245",
+  "model": "GLAC"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "418264528-418267215-418294348-418329894-418236442",
+  "photo_sequence_ids": [
+    "418264528",
+    "418267215",
+    "418294348",
+    "418329894",
+    "418236442"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/128/418264528_631deaeca3_o.jpg",
+    "https://farm1.staticflickr.com/183/418267215_c2b84e5f6b_o.jpg",
+    "https://farm1.staticflickr.com/177/418294348_49150118e7_o.jpg",
+    "https://farm1.staticflickr.com/148/418329894_985306dd9f_o.jpg",
+    "https://farm1.staticflickr.com/132/418236442_0595fd66ec_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the museum last week . there were a lot of people there . it was a lot of fun . this is a picture of a building . then we went to the museum to see what was going on .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the museum last week and there were a lot of people there . it was a lot of fun . we took this picture of a building . then we went to the museum to see what was going on .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum last week and there were a lot of people there .",
+        "it was a lot of fun .",
+        "we took this picture of a building .",
+        "then we went to the museum to see what was going on ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "i go to the museum last week . there are a lot of people there . it is a lot of fun . this was a picture of a building . then we go to the museum to saw what is going on .",
+      "normalized_edited_story_text_sent": [
+        "i go to the museum last week .",
+        "there are a lot of people there .",
+        "it is a lot of fun .",
+        "this was a picture of a building .",
+        "then we go to the museum to saw what is going on ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "i went to the aerospace museum last week . there were a so many people there but it was still a lot of fun . this is a picture of a building the museum was in.",
+      "normalized_edited_story_text_sent": [
+        "i went to the aerospace museum last week .",
+        "there were a so many people there but it was still a lot of fun .",
+        "this is a picture of a building the museum was in ."
+      ]
+    },
+    {
+      "worker_id": "ANMD34DNHLOLC",
+      "edited_story_text": "i went to the air museum last week . there were a lot of people there . it was a lot of fun . this is a picture of a plane . then we went inside a plane to see what was going on .",
+      "normalized_edited_story_text_sent": [
+        "i went to the air museum last week .",
+        "there were a lot of people there .",
+        "it was a lot of fun .",
+        "this is a picture of a plane .",
+        "then we went inside a plane to see what was going on ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "i went to the aeronautic museum last week. There were a lot of interesting things to see.  The old planes were very cool.",
+      "normalized_edited_story_text_sent": [
+        "i went to the aeronautic museum last week .",
+        "there were a lot of interesting things to see .",
+        "the old planes were very cool ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594583357775"
+}

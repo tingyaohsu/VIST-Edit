@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4701478893-4702120204-4701486299-4702127404-4701495469",
+  "photo_sequence_ids": [
+    "4701478893",
+    "4702120204",
+    "4701486299",
+    "4702127404",
+    "4701495469"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the awards ceremony was a great time . the speakers were very talented . they had a lot of speeches prepared . it was a very productive event . everyone was really happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the awards ceremony was a great time . the kids were very talented . they had a lot of speeches prepared . it was a very productive event . everyone was really happy with the awards they have won.",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was a great time .",
+        "the kids were very talented .",
+        "they had a lot of speeches prepared .",
+        "it was a very productive event .",
+        "everyone was really happy with the awards they have won ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The awards ceremony was beautiful. The speakers did a great job. The event went smoothly and everyone was very happy.",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was beautiful .",
+        "the speakers did a great job .",
+        "the event went smoothly and everyone was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the awards ceremony celebrated the achievements of the students at the school . each of the three classes of students and their teachers posed for photos. all the students proudly displayed their certificates . the speakers were talented and well prepared . they delivered great speeches . the whole event was very productive . everyone was really happy .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony celebrated the achievements of the students at the school .",
+        "each of the three classes of students and their teachers posed for photos .",
+        "all the students proudly displayed their certificates .",
+        "the speakers were talented and well prepared .",
+        "they delivered great speeches .",
+        "the whole event was very productive .",
+        "everyone was really happy ."
+      ]
+    },
+    {
+      "worker_id": "A271SYVBGMJIU2",
+      "edited_story_text": "The awards ceremony was a great time, the students were very talented and they had a lot of speeches prepared . It was a very celebratory event and everyone was really happy to share the day with their parents and friends .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was a great time , the students were very talented and they had a lot of speeches prepared .",
+        "it was a very celebratory event and everyone was really happy to share the day with their parents and friends ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the awards ceremony was successful . the speakers were fluid and talented . a lot of speeches had been prepared . it was a very efficient event . everyone was glad to be there .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was successful .",
+        "the speakers were fluid and talented .",
+        "a lot of speeches had been prepared .",
+        "it was a very efficient event .",
+        "everyone was glad to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624153192795",
+  "model": "GLAC"
+}

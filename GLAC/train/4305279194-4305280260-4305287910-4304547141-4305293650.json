@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4305279194-4305280260-4305287910-4304547141-4305293650",
+  "photo_sequence_ids": [
+    "4305279194",
+    "4305280260",
+    "4305287910",
+    "4304547141",
+    "4305293650"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the carnival was in town . the kids were excited to see the rides . the dogs were very friendly . the children had a great time . the dog was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the carnival was in town . the kids were excited to see the rides",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "the kids were excited to see the rides"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the carnival was traveling to the town . kids wanted badly to see the rides . the dogs that accompanied were very friendly . the children had a fun time . they\u0027re favorite thing was still the dog .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was traveling to the town .",
+        "kids wanted badly to see the rides .",
+        "the dogs that accompanied were very friendly .",
+        "the children had a fun time .",
+        "they \u0027re favorite thing was still the dog ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the carnival was in town. the kids were excited to see the rides. the animals were very friendly. the kids had a great time!",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "the kids were excited to see the rides .",
+        "the animals were very friendly .",
+        "the kids had a great time !"
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the carnival was in town . the kids were excited to see the rides . the dogs were very friendly . the children had a great time . the goats were their favorite .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "the kids were excited to see the rides .",
+        "the dogs were very friendly .",
+        "the children had a great time .",
+        "the goats were their favorite ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big carnival was in town and the kids were excited to see the rides . the dogs were very friendly . the children had a great time . the dog was the best .",
+      "normalized_edited_story_text_sent": [
+        "the big carnival was in town and the kids were excited to see the rides .",
+        "the dogs were very friendly .",
+        "the children had a great time .",
+        "the dog was the best ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623160053863",
+  "model": "GLAC"
+}

@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "15117799432-15117799462-14931606048-15095180576-14931606288",
+  "photo_sequence_ids": [
+    "15117799432",
+    "15117799462",
+    "14931606048",
+    "15095180576",
+    "14931606288"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people . the costumes were very detailed . some of them were very creative . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i went to a parade last night.  it was a lot of fun, with a great deal of people about.  the costumes were extremely detailed.  some outfits were very creative.  i enjoyed myself a lot.",
+      "normalized_edited_story_text_sent": [
+        "i went to a parade last night .",
+        "it was a lot of fun , with a great deal of people about .",
+        "the costumes were extremely detailed .",
+        "some outfits were very creative .",
+        "i enjoyed myself a lot ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the parade was a full of excitment . there were so many people and animals . the costumes were very detailed . some of them were very creative . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a full of excitment .",
+        "there were so many people and animals .",
+        "the costumes were very detailed .",
+        "some of them were very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Went to Disney, can\u0027t wait to go back! the parade was a lot of fun . there were so many people . the costumes were very detailed . some of them were very creative . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "went to disney , ca n\u0027t wait to go back !",
+        "the parade was a lot of fun .",
+        "there were so many people .",
+        "the costumes were very detailed .",
+        "some of them were very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3CWW9DIL73I14",
+      "edited_story_text": "The parade was a lot of fun. There were so many people! The costumes were very detailed. Some of the costumes were very creative. I had a great time!",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people !",
+        "the costumes were very detailed .",
+        "some of the costumes were very creative .",
+        "i had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "people were performing in the street.  some people were dressed in costumes and there was also floats.  at one point blue lights flooded the streets.  we got some souvenirs from the parade.",
+      "normalized_edited_story_text_sent": [
+        "people were performing in the street .",
+        "some people were dressed in costumes and there was also floats .",
+        "at one point blue lights flooded the streets .",
+        "we got some souvenirs from the parade ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157646733993369",
+  "model": "GLAC"
+}

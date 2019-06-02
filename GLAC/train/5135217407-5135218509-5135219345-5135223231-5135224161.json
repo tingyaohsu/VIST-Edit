@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5135217407-5135218509-5135219345-5135223231-5135224161",
+  "photo_sequence_ids": [
+    "5135217407",
+    "5135218509",
+    "5135219345",
+    "5135223231",
+    "5135224161"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the easter egg hunt . the eggs were all set up . the kids were having a great time . the bunny was very happy . the children were excited to be in the park .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was ready for halloween . costumes were on and anticipation was high",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for halloween .",
+        "costumes were on and anticipation was high"
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the family was ready for the easter egg hunt to begin. the eggs were all set up and hidden. the kids were having a great time looking for the eggs. the bunny that was at the event was very happy. the children were excited to be in the park having fun and looking for eggs.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the easter egg hunt to begin .",
+        "the eggs were all set up and hidden .",
+        "the kids were having a great time looking for the eggs .",
+        "the bunny that was at the event was very happy .",
+        "the children were excited to be in the park having fun and looking for eggs ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the kids had a great time trick or treating! some of the houses were well-decorated. the skeleton mask scared Robert to death, but it turned out to be a really nice guy. overall it was a really great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids had a great time trick or treating !",
+        "some of the houses were well-decorated .",
+        "the skeleton mask scared [male] to death , but it turned out to be a really nice guy .",
+        "overall it was a really great time ."
+      ]
+    },
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "The time for Halloween house decorations have begun. Seeing signs like this reminds me of the spirit of the holiday. The best thing about this day is definitely the candy. Some of the masks are really scary. The first trick or treater of the evening is at the door.",
+      "normalized_edited_story_text_sent": [
+        "the time for halloween house decorations have begun .",
+        "seeing signs like this reminds me of the spirit of the holiday .",
+        "the best thing about this day is definitely the candy .",
+        "some of the masks are really scary .",
+        "the first trick or treater of the evening is at the door ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was ready for Halloween. There were decorations everywhere. Pumpkins were by the front door. The kids trick or treated.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for halloween .",
+        "there were decorations everywhere .",
+        "pumpkins were by the front door .",
+        "the kids trick or treated ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625287632264",
+  "model": "GLAC"
+}

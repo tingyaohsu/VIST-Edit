@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "7605025214-7605586246-7605042696-7605044992-7605582080",
+  "photo_sequence_ids": [
+    "7605025214",
+    "7605586246",
+    "7605042696",
+    "7605044992",
+    "7605582080"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were blooming . they were everywhere . the city was beautiful . the buildings were tall . the streets were empty .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the flowers were blooming . they were everywhere . the city was beautiful . the buildings were tall . the streets were empty .\r\rThe flowers were finally starting to bloom. All of the flowers everywhere were. I couldn\u0027t believe how beautiful the city was. These buildings were so tall! Although, the streets seemed empty.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "they were everywhere .",
+        "the city was beautiful .",
+        "the buildings were tall .",
+        "the streets were empty .",
+        "the flowers were finally starting to bloom .",
+        "all of the flowers everywhere were .",
+        "i could n\u0027t believe how beautiful the city was .",
+        "these buildings were so tall !",
+        "although , the streets seemed empty ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i walked through the city today.  there were flowers blooming everywhere.  the buildings were tall and the streets empty. i think this is a beautiful city.",
+      "normalized_edited_story_text_sent": [
+        "i walked through the city today .",
+        "there were flowers blooming everywhere .",
+        "the buildings were tall and the streets empty .",
+        "i think this is a beautiful city ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the flowers were blooming a gorgeous bright yellow. There were a lot of keepsakes available. The view of the water was great. We went out on a boat to see the sights.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming a gorgeous bright yellow .",
+        "there were a lot of keepsakes available .",
+        "the view of the water was great .",
+        "we went out on a boat to see the sights ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the flowers were blooming . they were everywhere . the city was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "they were everywhere .",
+        "the city was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "the flowers were blooming everywhere . they were everywhere . the city was beautiful. the buildings had great architecture but nobody was on the streets.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming everywhere .",
+        "they were everywhere .",
+        "the city was beautiful .",
+        "the buildings had great architecture but nobody was on the streets ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630655378016",
+  "model": "GLAC"
+}

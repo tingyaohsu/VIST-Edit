@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "764375-764437-764622-749408-764378",
+  "photo_sequence_ids": [
+    "764375",
+    "764437",
+    "764622",
+    "749408",
+    "764378"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . afterward we all went back home .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was great . many attended . some attendees were my good friends . i had a blast . afterwards, we all left tired .",
+      "normalized_edited_story_text_sent": [
+        "the party was great .",
+        "many attended .",
+        "some attendees were my good friends .",
+        "i had a blast .",
+        "afterwards , we all left tired ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . Some dressed up. There were drinks and celebrating. There were lots of people there.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "some dressed up .",
+        "there were drinks and celebrating .",
+        "there were lots of people there ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "maria and lisa were glad the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . afterward we all went back home .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the party was a lot of fun .",
+        "there were a lot of people there .",
+        "some of them were very good .",
+        "i had a great time .",
+        "afterward we all went back home ."
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "The night was a blast. We met up at our friends house and dressed up in suits to attend a party and then catch a concert afterwards. We were a little overdressed but I have to admit we looked sharp!",
+      "normalized_edited_story_text_sent": [
+        "the night was a blast .",
+        "we met up at our friends house and dressed up in suits to attend a party and then catch a concert afterwards .",
+        "we were a little overdressed but i have to admit we looked sharp !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . the DJ put on a good show",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "the dj put on a good show"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "19074",
+  "model": "GLAC"
+}

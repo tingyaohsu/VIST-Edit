@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5110811387-5110811805-5111414034-5110812469-5111414414",
+  "photo_sequence_ids": [
+    "5110811387",
+    "5110811805",
+    "5111414034",
+    "5110812469",
+    "5111414414"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4144/5110811387_81f3666638_o.jpg",
+    "https://farm2.staticflickr.com/1371/5110811805_343347a18e_o.jpg",
+    "https://farm2.staticflickr.com/1088/5111414034_8a342e434f_o.jpg",
+    "https://farm5.staticflickr.com/4129/5110812469_015c491344_o.jpg",
+    "https://farm2.staticflickr.com/1118/5111414414_641abfbeba_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day at the zoo . this is a picture of a woman . i had a lot of fun . this is a picture of a woman . after a few hours we had to take a break .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "We went to see the special dolls . this is a picture of a woman . i had a lot of fun . this is a picture of a woman . after a few hours we had to take a break .",
+      "normalized_edited_story_text_sent": [
+        "we went to see the special dolls .",
+        "this is a picture of a woman .",
+        "i had a lot of fun .",
+        "this is a picture of a woman .",
+        "after a few hours we had to take a break ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "It was a beautiful day. This is a picture of a doll. I had a lot of fun taking pictures of them. This is another picture of a doll. After a few hours of taking pictures, we had to take a break .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day .",
+        "this is a picture of a doll .",
+        "i had a lot of fun taking pictures of them .",
+        "this is another picture of a doll .",
+        "after a few hours of taking pictures , we had to take a break ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The doll sat on the chair. Another doll almost fell off the chair. A doll surrounded by pumpkins held up his favorite pumpkin. Then he lounged on chaise couch in a robe. Another doll sat by and watched them.",
+      "normalized_edited_story_text_sent": [
+        "the doll sat on the chair .",
+        "another doll almost fell off the chair .",
+        "a doll surrounded by pumpkins held up his favorite pumpkin .",
+        "then he lounged on chaise couch in a robe .",
+        "another doll sat by and watched them ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "it was a beautiful day at the zoo . here is a picture of a woman . this is another picture of a woman . i had a lot of fun, but after a few hours we had to take a break .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day at the zoo .",
+        "here is a picture of a woman .",
+        "this is another picture of a woman .",
+        "i had a lot of fun , but after a few hours we had to take a break ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "I did a photo shoot with some dolls for fun today . I dressed them up in different outfits like a halloween costume, a komono, and a jockey. I had a lot of fun creating this shoot!",
+      "normalized_edited_story_text_sent": [
+        "i did a photo shoot with some dolls for fun today .",
+        "i dressed them up in different outfits like a halloween costume , a komono , and a jockey .",
+        "i had a lot of fun creating this shoot !"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625231799556"
+}

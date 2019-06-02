@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "11867134-11867531-11866764-11865596-11867386",
+  "photo_sequence_ids": [
+    "11867134",
+    "11867531",
+    "11866764",
+    "11865596",
+    "11867386"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/10/11867134_43ca11da0e_o.jpg",
+    "https://farm1.staticflickr.com/11/11867531_cca5e35f63_o.jpg",
+    "https://farm1.staticflickr.com/10/11866764_a2f3b1b76b_o.jpg",
+    "https://farm1.staticflickr.com/11/11865596_d088ca2839_o.jpg",
+    "https://farm1.staticflickr.com/6/11867386_e3b1b5b2a0_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach last weekend . we went to the local restaurant . they had a lot of food to choose from . we stopped at a local cafe for lunch . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "I spent last weekend at the beach with friends. We all went to this local restaurant for coffee in the morning. They had a lot of food to choose from, but we weren\u0027t hungry yet. Later, we stopped at a local cafe for and outdoor lunch. We had a great time there!",
+      "normalized_edited_story_text_sent": [
+        "i spent last weekend at the beach with friends .",
+        "we all went to this local restaurant for coffee in the morning .",
+        "they had a lot of food to choose from , but we were n\u0027t hungry yet .",
+        "later , we stopped at a local cafe for and outdoor lunch .",
+        "we had a great time there !"
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "i went to the beach last weekend. we ate at a local restaurant. The menu was very varied there. Later, we stopped at a local cafe for lunch. we had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend .",
+        "we ate at a local restaurant .",
+        "the menu was very varied there .",
+        "later , we stopped at a local cafe for lunch .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the beach last weekend and then we went to the local restaurant . they had a lot of food to choose from . we stopped at a local cafe for lunch and we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend and then we went to the local restaurant .",
+        "they had a lot of food to choose from .",
+        "we stopped at a local cafe for lunch and we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I went out on the water last weekend. We enjoyed the in house restaurant. There were many different restaurants to choose from. We chose a local cafe to eat lunch.  We had so much fun there .",
+      "normalized_edited_story_text_sent": [
+        "i went out on the water last weekend .",
+        "we enjoyed the in house restaurant .",
+        "there were many different restaurants to choose from .",
+        "we chose a local cafe to eat lunch .",
+        "we had so much fun there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the beach last weekend  with some friends. we went to a local restaurant to have lunch. there were a lot of options on the menu. the food was delicious. we had a great time there overall.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend with some friends .",
+        "we went to a local restaurant to have lunch .",
+        "there were a lot of options on the menu .",
+        "the food was delicious .",
+        "we had a great time there overall ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "290987"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "8933097-8933130-8933145-8933147-8933169",
+  "photo_sequence_ids": [
+    "8933097",
+    "8933130",
+    "8933145",
+    "8933147",
+    "8933169"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was happy to be in the family . the child was excited . the baby was born . the little girl was so happy . the family was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the baby was happy to be in the family . the family were all smiles",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be in the family .",
+        "the family were all smiles"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the baby was happy to be in the family .We all took turns holding the new baby. Everyone enjoyed the new member of the family.",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be in the family .",
+        "we all took turns holding the new baby .",
+        "everyone enjoyed the new member of the family ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the baby was happy to be in the family . the child was excited . the baby was born . the little girl was so happy . the family was very happy .\r\rMy little baby seemed so happy to be part of our family. David was excited! The moment the baby was born! When she was born, she was so happy! The entire family was overwhelmed with joy.",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be in the family .",
+        "the child was excited .",
+        "the baby was born .",
+        "the little girl was so happy .",
+        "the family was very happy .",
+        "my little baby seemed so happy to be part of our family .",
+        "[male] was excited !",
+        "the moment the baby was born !",
+        "when she was born , she was so happy !",
+        "the entire family was overwhelmed with joy ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We took our new baby home yesterday.  She got to meet my brother and my sister.  She was not that impressed!!!",
+      "normalized_edited_story_text_sent": [
+        "we took our new baby home yesterday .",
+        "she got to meet my brother and my sister .",
+        "she was not that impressed !!!"
+      ]
+    },
+    {
+      "worker_id": "AHI4R9YE0SF9E",
+      "edited_story_text": "The baby was happy to be in the family and additionally, the child was excited. When the baby was born the little girl was so happy. Because of this, the family was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be in the family and additionally , the child was excited .",
+        "when the baby was born the little girl was so happy .",
+        "because of this , the family was very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "227929",
+  "model": "GLAC"
+}

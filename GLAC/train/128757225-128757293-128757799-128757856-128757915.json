@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "128757225-128757293-128757799-128757856-128757915",
+  "photo_sequence_ids": [
+    "128757225",
+    "128757293",
+    "128757799",
+    "128757856",
+    "128757915"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . the food was delicious . the cake was very good . the dessert was a great hit .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the party was a ton of fun . there were a lot of great people there . the food was delicious . the cake was very good . the dessert was a great hit .",
+      "normalized_edited_story_text_sent": [
+        "the party was a ton of fun .",
+        "there were a lot of great people there .",
+        "the food was delicious .",
+        "the cake was very good .",
+        "the dessert was a great hit ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . We hung out and ate good food. There were candles everywhere. We enjoyed spending time together.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we hung out and ate good food .",
+        "there were candles everywhere .",
+        "we enjoyed spending time together ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . the food was delicious . the cake was very good . all the candles were a perfect touch.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "the food was delicious .",
+        "the cake was very good .",
+        "all the candles were a perfect touch ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for the few people who came . there were not a lot of people there  . the food was delicious and tasted amazing . the cake was very good which was a shock cause it was made from kale . the dessert was a great hit to the health conscience people .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for the few people who came .",
+        "there were not a lot of people there .",
+        "the food was delicious and tasted amazing .",
+        "the cake was very good which was a shock cause it was made from kale .",
+        "the dessert was a great hit to the health conscience people ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the party was a lot of fun. there were a lot of people there. the food Maria prepared was delicious. the cake was very good .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "the food [female] prepared was delicious .",
+        "the cake was very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594107464030",
+  "model": "GLAC"
+}

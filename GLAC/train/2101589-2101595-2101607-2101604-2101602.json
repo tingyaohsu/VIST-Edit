@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2101589-2101595-2101607-2101604-2101602",
+  "photo_sequence_ids": [
+    "2101589",
+    "2101595",
+    "2101607",
+    "2101604",
+    "2101602"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the friends were excited to be at the party . they were having a great time . the fireworks were amazing . they were so happy . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the friends were excited as they drove to the party.  there were amazing fireworks.  they were very happy.  they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the friends were excited as they drove to the party .",
+        "there were amazing fireworks .",
+        "they were very happy .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The friends were excited to be at the concert. They were having a great time. The fireworks also were amazing. The people were so happy and they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the friends were excited to be at the concert .",
+        "they were having a great time .",
+        "the fireworks also were amazing .",
+        "the people were so happy and they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the friends were excited to be at the concert . they were having a great time . the band was amazing . they were so happy . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the friends were excited to be at the concert .",
+        "they were having a great time .",
+        "the band was amazing .",
+        "they were so happy .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "My friends were excited to go to the concert. they were having a great time on the ride there . the firework finale wa amazing . they were so loud, and bright . We had a great time .",
+      "normalized_edited_story_text_sent": [
+        "my friends were excited to go to the concert .",
+        "they were having a great time on the ride there .",
+        "the firework finale wa amazing .",
+        "they were so loud , and bright .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "My friends were excited to be at the concert . they were having a great time . They said the music was amazing . They were so happy . They had a great time .",
+      "normalized_edited_story_text_sent": [
+        "my friends were excited to be at the concert .",
+        "they were having a great time .",
+        "they said the music was amazing .",
+        "they were so happy .",
+        "they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594060732425",
+  "model": "GLAC"
+}

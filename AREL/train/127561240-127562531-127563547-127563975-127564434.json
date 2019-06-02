@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "127561240-127562531-127563547-127563975-127564434",
+  "photo_sequence_ids": [
+    "127561240",
+    "127562531",
+    "127563547",
+    "127563975",
+    "127564434"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/45/127561240_8a44ccfd87_o.jpg",
+    "https://farm1.staticflickr.com/46/127562531_8ed4844e69_o.jpg",
+    "https://farm1.staticflickr.com/52/127563547_fa374fce32_o.jpg",
+    "https://farm1.staticflickr.com/49/127563975_e55c326876_o.jpg",
+    "https://farm1.staticflickr.com/44/127564434_76303007c7_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a family \u0027s birthday . it was a great birthday party . we all had a great time and had a great time . the family was happy to be at the party . the kids were happy to be in the living room .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "it was a family \u0027s birthday party. it was a great birthday party . we all had an awesome time . the family was happy to be at the party . the kids were happy to be in the restaurant .",
+      "normalized_edited_story_text_sent": [
+        "it was a family \u0027s birthday party .",
+        "it was a great birthday party .",
+        "we all had an awesome time .",
+        "the family was happy to be at the party .",
+        "the kids were happy to be in the restaurant ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "it was a family \u0027s birthday yesterday . it was a great birthday party .they all had a great time and had a great time . the family was happy to be at the party . the kids were happy to be in the living room .",
+      "normalized_edited_story_text_sent": [
+        "it was a family \u0027s birthday yesterday .",
+        "it was a great birthday party .",
+        "they all had a great time and had a great time .",
+        "the family was happy to be at the party .",
+        "the kids were happy to be in the living room ."
+      ]
+    },
+    {
+      "worker_id": "A14X9MMC9P7XI8",
+      "edited_story_text": "It was a family member\u0027s birthday. There was a great party. Everyone had a great time. The family was happy to be at the party and the kids were happy to be in the living room.",
+      "normalized_edited_story_text_sent": [
+        "it was a family member \u0027s birthday .",
+        "there was a great party .",
+        "everyone had a great time .",
+        "the family was happy to be at the party and the kids were happy to be in the living room ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "This was at my little nephew\u0027s birthday party. My family really put on a great party, the kids loved it! In fact, we ALL had a great time and even [Male] had a great time! Everyone was so happy to see each other at the party. The kids were happy they had the living room all to themselves!",
+      "normalized_edited_story_text_sent": [
+        "this was at my little nephew \u0027s birthday party .",
+        "my family really put on a great party , the kids loved it !",
+        "in fact , we all had a great time and even [male] had a great time !",
+        "everyone was so happy to see each other at the party .",
+        "the kids were happy they had the living room all to themselves !"
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "It was a family birthday. We had a great birthday party, we all had a great time. The family was so happy to be at the party, and the kids were all happy in the living room.",
+      "normalized_edited_story_text_sent": [
+        "it was a family birthday .",
+        "we had a great birthday party , we all had a great time .",
+        "the family was so happy to be at the party , and the kids were all happy in the living room ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594105488493"
+}

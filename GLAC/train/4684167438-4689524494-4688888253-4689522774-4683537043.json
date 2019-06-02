@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4684167438-4689524494-4688888253-4689522774-4683537043",
+  "photo_sequence_ids": [
+    "4684167438",
+    "4689524494",
+    "4688888253",
+    "4689522774",
+    "4683537043"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the cemetery was full of old tombstones . the graves were very old . some of the graves were newer . there were also many graves . the stones were well maintained .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the cemetery was full of old tombstones . the graves were very old . some of the graves were newer . it was creepy there . the stones were well maintained .",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of old tombstones .",
+        "the graves were very old .",
+        "some of the graves were newer .",
+        "it was creepy there .",
+        "the stones were well maintained ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the cemetery was full of old tombstones . Most of the graves were very old . Though you could tell some of the graves were newer . One area had many graves clustered together . the stones and the cemetery were well maintained .",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of old tombstones .",
+        "most of the graves were very old .",
+        "though you could tell some of the graves were newer .",
+        "one area had many graves clustered together .",
+        "the stones and the cemetery were well maintained ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the cemetery was full of old tombstones . the graves were very old . Some headstone were upright and others were flat. Some grave markers were very old.",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of old tombstones .",
+        "the graves were very old .",
+        "some headstone were upright and others were flat .",
+        "some grave markers were very old ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the cemetery was full of old tombstones and some statues . the graves were very old and needed repair . some of the graves were newer than others . there were also many graves that hadn\u0027t been cleaned in years . the stones were well maintained for the most part thou.",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of old tombstones and some statues .",
+        "the graves were very old and needed repair .",
+        "some of the graves were newer than others .",
+        "there were also many graves that had n\u0027t been cleaned in years .",
+        "the stones were well maintained for the most part thou ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the cemetery was full of old tombstones . the graves were very old . some of the graves were newerTOMBSTONES WERE BROKEN . there were SO many graves . IT WAN INTERESTING TO READ THE INSCRIPTIONS ON THE TOMBSTONES.",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of old tombstones .",
+        "the graves were very old .",
+        "some of the graves were newertombstones were broken .",
+        "there were so many graves .",
+        "it wan interesting to read the inscriptions on the tombstones ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624235048826",
+  "model": "GLAC"
+}

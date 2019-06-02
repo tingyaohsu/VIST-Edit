@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4857879309-4857881597-4858504078-4858505794-4858517930",
+  "photo_sequence_ids": [
+    "4857879309",
+    "4857881597",
+    "4858504078",
+    "4858505794",
+    "4858517930"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4142/4857879309_a0f519034c_o.jpg",
+    "https://farm5.staticflickr.com/4114/4857881597_4e635fd720_o.jpg",
+    "https://farm5.staticflickr.com/4123/4858504078_ca7f6e2e5b_o.jpg",
+    "https://farm5.staticflickr.com/4094/4858505794_15135a02ff_o.jpg",
+    "https://farm5.staticflickr.com/4138/4858517930_4a896c3eb5_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the wedding yesterday . [female] and [female] were so happy to be married . the ceremony was a success . we had a great time at the ceremony . and the flowers were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the wedding yesterday . [female] and [female] were so happy to be married . the ceremony was a success . we had a great time at the ceremony . and the flowers were beautiful  It was great for everyone",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday .",
+        "[female] and [female] were so happy to be married .",
+        "the ceremony was a success .",
+        "we had a great time at the ceremony .",
+        "and the flowers were beautiful it was great for everyone"
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "i went to the wedding yesterday . [female] and [female] were so happy to be married, the flowers were beautiful. we had a great time at the ceremony . .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday .",
+        "[female] and [female] were so happy to be married , the flowers were beautiful .",
+        "we had a great time at the ceremony .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to my friend\u0027s wedding yesterday . [female] and [female] were so happy to be married. the ceremony was a success. it was all very beautiful. the flowers looked amazing.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s wedding yesterday .",
+        "[female] and [female] were so happy to be married .",
+        "the ceremony was a success .",
+        "it was all very beautiful .",
+        "the flowers looked amazing ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I attended a wedding yesterday. [female] and [male] were happy to get married. I got to see their certificate of marriage on the wedding table. We listened to one of the guests sing a song for the couple. The wedding was fun and beautifully decorated with flowers.",
+      "normalized_edited_story_text_sent": [
+        "i attended a wedding yesterday .",
+        "[female] and [male] were happy to get married .",
+        "i got to see their certificate of marriage on the wedding table .",
+        "we listened to one of the guests sing a song for the couple .",
+        "the wedding was fun and beautifully decorated with flowers ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the wedding yesterday . [male] and [female] were so happy to be married . the ceremony was a success . we had a great time at the ceremony . There was a guitar player/singer there. and the flowers were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday .",
+        "[male] and [female] were so happy to be married .",
+        "the ceremony was a success .",
+        "we had a great time at the ceremony .",
+        "there was a guitar player/singer there .",
+        "and the flowers were beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624523284401"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "15117799432-15117799462-14931606048-15095180576-14931606288",
+  "photo_sequence_ids": [
+    "15117799432",
+    "15117799462",
+    "14931606048",
+    "15095180576",
+    "14931606288"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3882/15117799432_4339363506_o.jpg",
+    "https://farm4.staticflickr.com/3877/15117799462_5217d220a4_o.jpg",
+    "https://farm6.staticflickr.com/5558/14931606048_cce24a907e_o.jpg",
+    "https://farm4.staticflickr.com/3878/15095180576_056d4c6a39_o.jpg",
+    "https://farm6.staticflickr.com/5580/14931606288_fe0d39d203_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the party last week . there were a lot of people there . there were a lot of people there . we had a great time at the party . i had a great time with my family .",
+  "edited_stories": [
+    {
+      "worker_id": "A15HH69K0VGFQ",
+      "edited_story_text": "I went to Disneyland last week . There were a lot of characters in the parade. There were a lot of people there watching them walk by. We had a great time at the party after the parade. I had a great time with my family.",
+      "normalized_edited_story_text_sent": [
+        "i went to disneyland last week .",
+        "there were a lot of characters in the parade .",
+        "there were a lot of people there watching them walk by .",
+        "we had a great time at the party after the parade .",
+        "i had a great time with my family ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to disney last week . there were a lot of people there . there were a lot of characters in costumes . we had a great time dancing . i took pictures of my family .",
+      "normalized_edited_story_text_sent": [
+        "i went to disney last week .",
+        "there were a lot of people there .",
+        "there were a lot of characters in costumes .",
+        "we had a great time dancing .",
+        "i took pictures of my family ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the party last week and there were a lot of people there . we had a great time at the party and i had a great time with my family .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last week and there were a lot of people there .",
+        "we had a great time at the party and i had a great time with my family ."
+      ]
+    },
+    {
+      "worker_id": "A1SZZB104QVWS8",
+      "edited_story_text": "I went to a parade with my family, we saw lots of fun characters! After the parade I met up with some friends to go clubbing, the club had a great dance floor. When I woke up the next morning I went to buy some Disney character gifts for my little sister\u0027s Halloween party at school.",
+      "normalized_edited_story_text_sent": [
+        "i went to a parade with my family , we saw lots of fun characters !",
+        "after the parade i met up with some friends to go clubbing , the club had a great dance floor .",
+        "when i woke up the next morning i went to buy some disney character gifts for my little sister \u0027s halloween party at school ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I went to the party at Disney world last week. Me and my family had a great time. We saw all our favorite Disney characters there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party at disney world last week .",
+        "me and my family had a great time .",
+        "we saw all our favorite disney characters there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157646733993369"
+}

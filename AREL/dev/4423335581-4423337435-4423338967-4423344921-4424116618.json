@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4423335581-4423337435-4423338967-4423344921-4424116618",
+  "photo_sequence_ids": [
+    "4423335581",
+    "4423337435",
+    "4423338967",
+    "4423344921",
+    "4424116618"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4049/4423335581_feaf01b889_o.jpg",
+    "https://farm5.staticflickr.com/4019/4423337435_984c67f87f_o.jpg",
+    "https://farm3.staticflickr.com/2740/4423338967_2384498922_o.jpg",
+    "https://farm3.staticflickr.com/2791/4423344921_10d87ed92c_o.jpg",
+    "https://farm5.staticflickr.com/4063/4424116618_20b4a2b614_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the conference last week . it was a lot of fun . there were a lot of people there . we had a lot of fun . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to the recording studio last week . it was a lot of fun . there were a lot of people there . we all worked together . we played with a cardboard cutout .",
+      "normalized_edited_story_text_sent": [
+        "i went to the recording studio last week .",
+        "it was a lot of fun .",
+        "there were a lot of people there .",
+        "we all worked together .",
+        "we played with a cardboard cutout ."
+      ]
+    },
+    {
+      "worker_id": "AZSB87DCJL4QB",
+      "edited_story_text": "I went to the conference last week. It was a lot of fun. A lot of people were there and we all had a lot of fun. Overall we  had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last week .",
+        "it was a lot of fun .",
+        "a lot of people were there and we all had a lot of fun .",
+        "overall we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to a conference last week . it was a lot of fun for everyone . there were a ton of people there . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to a conference last week .",
+        "it was a lot of fun for everyone .",
+        "there were a ton of people there .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A15Y215D57OSO5",
+      "edited_story_text": "I went to the conference last week and it was a lot of fun. There were a lot of people there and I was able to go into the studio while people called in.",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last week and it was a lot of fun .",
+        "there were a lot of people there and i was able to go into the studio while people called in ."
+      ]
+    },
+    {
+      "worker_id": "AA1Q1AVAEW7G4",
+      "edited_story_text": "I went to the conference last week . I sang karaoke. It was a lot of fun . There were a lot of people there. We had a lot of fun . We had a great time. We hugged.",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last week .",
+        "i sang karaoke .",
+        "it was a lot of fun .",
+        "there were a lot of people there .",
+        "we had a lot of fun .",
+        "we had a great time .",
+        "we hugged ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623596916528"
+}

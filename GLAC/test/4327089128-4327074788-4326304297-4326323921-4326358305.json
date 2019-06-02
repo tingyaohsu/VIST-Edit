@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4327089128-4327074788-4326304297-4326323921-4326358305",
+  "photo_sequence_ids": [
+    "4327089128",
+    "4327074788",
+    "4326304297",
+    "4326323921",
+    "4326358305"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the team was ready for the game . the crowd was excited . the players were playing hard . the teams were tied . the white team scored .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the team was ready to play . the crowd was enthusiastic . the players were giving it their all . the score was tied . the white team broke the tie .",
+      "normalized_edited_story_text_sent": [
+        "the team was ready to play .",
+        "the crowd was enthusiastic .",
+        "the players were giving it their all .",
+        "the score was tied .",
+        "the white team broke the tie ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the team was ready for the game and we took our seats. the crowd was excited and the game started. the players were playing hard and our team was winning. then the teams were tied in last inning. the white team scored and we were excited they won.",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the game and we took our seats .",
+        "the crowd was excited and the game started .",
+        "the players were playing hard and our team was winning .",
+        "then the teams were tied in last inning .",
+        "the white team scored and we were excited they won ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "Some people arrived early for the game. We were able to get good seats. The game got exciting as it went along. People were sitting on the edge of their seats watching before it was over.",
+      "normalized_edited_story_text_sent": [
+        "some people arrived early for the game .",
+        "we were able to get good seats .",
+        "the game got exciting as it went along .",
+        "people were sitting on the edge of their seats watching before it was over ."
+      ]
+    },
+    {
+      "worker_id": "A143XRCI1YXAFE",
+      "edited_story_text": "My father went to the game the other day. the crowd was excited, and he had decent seats. the players were playing hard. The home team had a few great hits. My dad even made some new friends at the game.",
+      "normalized_edited_story_text_sent": [
+        "my father went to the game the other day .",
+        "the crowd was excited , and he had decent seats .",
+        "the players were playing hard .",
+        "the home team had a few great hits .",
+        "my dad even made some new friends at the game ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Maria were glad the team was ready for the game . the crowd was excited . the players were playing hard . the teams were tied . the white team scored .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the team was ready for the game .",
+        "the crowd was excited .",
+        "the players were playing hard .",
+        "the teams were tied .",
+        "the white team scored ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623214581689",
+  "model": "GLAC"
+}

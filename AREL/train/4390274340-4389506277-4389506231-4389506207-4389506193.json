@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4390274340-4389506277-4389506231-4389506207-4389506193",
+  "photo_sequence_ids": [
+    "4390274340",
+    "4389506277",
+    "4389506231",
+    "4389506207",
+    "4389506193"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4031/4390274340_9f6fda1490_o.jpg",
+    "https://farm3.staticflickr.com/2684/4389506277_d6726cddd8_o.jpg",
+    "https://farm5.staticflickr.com/4044/4389506231_b083af0284_o.jpg",
+    "https://farm3.staticflickr.com/2798/4389506207_8c63b1671e_o.jpg",
+    "https://farm5.staticflickr.com/4032/4389506193_461487bf6d_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the meeting last week . the students were very excited to be there . the whole family gathered for a group photo . he gave a speech to the students . after the presentation was over , everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the meeting last week and the students were very excited to be there . the whole family gathered for a group photo and he gave a speech to the students . after the presentation was over  everyone said they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting last week and the students were very excited to be there .",
+        "the whole family gathered for a group photo and he gave a speech to the students .",
+        "after the presentation was over everyone said they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Last week I went to a work conference with my coworkers. The students who were involved seemed very enthusiastic and happy to be there. Later in the afternoon the whole family had the opportunity to gather for a group photo. Afterwards, he had the opportunity to give a speech to all of the students. After the presentation was over we had snacks. Everyone had a great time!",
+      "normalized_edited_story_text_sent": [
+        "last week i went to a work conference with my coworkers .",
+        "the students who were involved seemed very enthusiastic and happy to be there .",
+        "later in the afternoon the whole family had the opportunity to gather for a group photo .",
+        "afterwards , he had the opportunity to give a speech to all of the students .",
+        "after the presentation was over we had snacks .",
+        "everyone had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the meeting last week . the students were very excited to be there . the whole family gathered for a group photo and he gave a speech to the students . after the presentation was over , everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting last week .",
+        "the students were very excited to be there .",
+        "the whole family gathered for a group photo and he gave a speech to the students .",
+        "after the presentation was over , everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to an important meeting last week. there were a lot of students there. we all took a group photo together. the main speaker gave a presentation that was really interesting.",
+      "normalized_edited_story_text_sent": [
+        "i went to an important meeting last week .",
+        "there were a lot of students there .",
+        "we all took a group photo together .",
+        "the main speaker gave a presentation that was really interesting ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the meeting last week. The students were very excited to be there The students gathered for a group photo.  The presenter was very good and he gave a motivational speech to the students.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting last week .",
+        "the students were very excited to be there the students gathered for a group photo .",
+        "the presenter was very good and he gave a motivational speech to the students ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623513528524"
+}

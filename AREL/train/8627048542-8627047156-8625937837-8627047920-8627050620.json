@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "8627048542-8627047156-8625937837-8627047920-8627050620",
+  "photo_sequence_ids": [
+    "8627048542",
+    "8627047156",
+    "8625937837",
+    "8627047920",
+    "8627050620"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8523/8627048542_de96832527_o.jpg",
+    "https://farm9.staticflickr.com/8528/8627047156_0571e5f206_o.jpg",
+    "https://farm9.staticflickr.com/8402/8625937837_3ffa06aa97_o.jpg",
+    "https://farm9.staticflickr.com/8383/8627047920_4398ab7ae3_o.jpg",
+    "https://farm9.staticflickr.com/8103/8627050620_deb68fe076_o.jpg"
+  ],
+  "auto_story_text_normalized": "the birthday party was a lot of fun . this is a picture of a sign . he was a little shy and did n\u0027t know what to do . everyone was having a great time . everyone had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "the birthday party was a great deal of fun . this is a photo of a sign . he was a little shy and did n\u0027t know what to do . everybody was having a awesome time . everyone had a awesome time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was a great deal of fun .",
+        "this is a photo of a sign .",
+        "he was a little shy and did n\u0027t know what to do .",
+        "everybody was having a awesome time .",
+        "everyone had a awesome time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the birthday party was a lot of fun . it was also St. patricks day .  everyone was having a great time . everyone posed for a picture at the party .",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was a lot of fun .",
+        "it was also st. patricks day .",
+        "everyone was having a great time .",
+        "everyone posed for a picture at the party ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "the birthday party was a lot of fun . this is a picture of a sign . he was a little shy and did n\u0027t know what to do . everyone was having a great time . everyone had a great time at the party .\r\rThe birthday party was a lot of fun! Here\u0027s a picture of the sign. [Male] was a little shy, and didn\u0027t know what to do, but everyone had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was a lot of fun .",
+        "this is a picture of a sign .",
+        "he was a little shy and did n\u0027t know what to do .",
+        "everyone was having a great time .",
+        "everyone had a great time at the party .",
+        "the birthday party was a lot of fun !",
+        "here \u0027s a picture of the sign .",
+        "[male] was a little shy , and did n\u0027t know what to do , but everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The birthday party was a lot of fun. THERE WERE SEVERAL CAKES. He was a little shy and didn\u0027t know what to do. Everyone was having a great time. WE ALSO CELEBRATED ST. PATRICK\u0027S DAY.",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was a lot of fun .",
+        "there were several cakes .",
+        "he was a little shy and did n\u0027t know what to do .",
+        "everyone was having a great time .",
+        "we also celebrated st. patrick \u0027s day ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The birthday party was a lot of fun. This is a picture of a sign. One of the guest was a little shy and did n\u0027t know what to do in the social setting so he sat and looked at his cellphone. Everyone was having a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was a lot of fun .",
+        "this is a picture of a sign .",
+        "one of the guest was a little shy and did n\u0027t know what to do in the social setting so he sat and looked at his cellphone .",
+        "everyone was having a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157633184822264"
+}

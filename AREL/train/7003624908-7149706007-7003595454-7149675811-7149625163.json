@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "7003624908-7149706007-7003595454-7149675811-7149625163",
+  "photo_sequence_ids": [
+    "7003624908",
+    "7149706007",
+    "7003595454",
+    "7149675811",
+    "7149625163"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7049/7003624908_c659d82488_o.jpg",
+    "https://farm8.staticflickr.com/7094/7149706007_2a0d52a119_o.jpg",
+    "https://farm6.staticflickr.com/5450/7003595454_742f3c7dd3_o.jpg",
+    "https://farm8.staticflickr.com/7136/7149675811_3722e69265_o.jpg",
+    "https://farm6.staticflickr.com/5032/7149625163_58ea32f290_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a fun day at the beach . the baby was very happy to see the baby . the family was having a great time . we had a great time . this is a picture of a woman .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "it was a fun day at the beach. the baby was very happy to be there. the family was having a great time. we had a great time too. i took a picture of a woman.",
+      "normalized_edited_story_text_sent": [
+        "it was a fun day at the beach .",
+        "the baby was very happy to be there .",
+        "the family was having a great time .",
+        "we had a great time too .",
+        "i took a picture of a woman ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "it is a fun day at the beach . the baby is very happy to saw the baby . the family is having a great time . we have a great time . this was a picture of a man .",
+      "normalized_edited_story_text_sent": [
+        "it is a fun day at the beach .",
+        "the baby is very happy to saw the baby .",
+        "the family is having a great time .",
+        "we have a great time .",
+        "this was a picture of a man ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "It was a great day at the park.  The whole family had fun playing basketball and swimming in the pool.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day at the park .",
+        "the whole family had fun playing basketball and swimming in the pool ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "it was a fun day at the beach . the baby was very happy to be there . the family was having a great time . We all had a great time . Here is a picture of a woman .",
+      "normalized_edited_story_text_sent": [
+        "it was a fun day at the beach .",
+        "the baby was very happy to be there .",
+        "the family was having a great time .",
+        "we all had a great time .",
+        "here is a picture of a woman ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "it was a fun day at the beach and the pool. everyone was happy to see the baby . the family enjoyed resting in the outdoor chairs . we enjoyed sitting and talking in the pool. these two played basketball .",
+      "normalized_edited_story_text_sent": [
+        "it was a fun day at the beach and the pool .",
+        "everyone was happy to see the baby .",
+        "the family enjoyed resting in the outdoor chairs .",
+        "we enjoyed sitting and talking in the pool .",
+        "these two played basketball ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629616247290"
+}

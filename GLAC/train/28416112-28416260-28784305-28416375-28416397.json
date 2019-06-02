@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "28416112-28416260-28784305-28416375-28416397",
+  "photo_sequence_ids": [
+    "28416112",
+    "28416260",
+    "28784305",
+    "28416375",
+    "28416397"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fire was ready for the bonfire . the fire was burning out . the men were in the kitchen . the man was getting his hair done . he was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "We all got together tonight and made a bonfire.  We talked and had a good time around the fire.  Afterwards, David was so wiped out he crashed!",
+      "normalized_edited_story_text_sent": [
+        "we all got together tonight and made a bonfire .",
+        "we talked and had a good time around the fire .",
+        "afterwards , [male] was so wiped out he crashed !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the fire was ready for the bonfire . a lot of people came out. it was a fun time.",
+      "normalized_edited_story_text_sent": [
+        "the fire was ready for the bonfire .",
+        "a lot of people came out .",
+        "it was a fun time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the fire was ready for the bonfire . the fire kept growing taller . the men were in the kitchen . the man was dancing in another room . he was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the fire was ready for the bonfire .",
+        "the fire kept growing taller .",
+        "the men were in the kitchen .",
+        "the man was dancing in another room .",
+        "he was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the bonfire was burning hot. people were sitting around the fire and having a great time. someone fell asleep.",
+      "normalized_edited_story_text_sent": [
+        "the bonfire was burning hot .",
+        "people were sitting around the fire and having a great time .",
+        "someone fell asleep ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the fire was ready for the bonfire . the hot fire was burning out . the men were in the kitchen . the man was getting his hair done . he was having a fun time .",
+      "normalized_edited_story_text_sent": [
+        "the fire was ready for the bonfire .",
+        "the hot fire was burning out .",
+        "the men were in the kitchen .",
+        "the man was getting his hair done .",
+        "he was having a fun time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1237313",
+  "model": "GLAC"
+}

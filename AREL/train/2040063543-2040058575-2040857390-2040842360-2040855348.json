@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "2040063543-2040058575-2040857390-2040842360-2040855348",
+  "photo_sequence_ids": [
+    "2040063543",
+    "2040058575",
+    "2040857390",
+    "2040842360",
+    "2040855348"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2250/2040063543_805781aef1_o.jpg",
+    "https://farm3.staticflickr.com/2168/2040058575_c41da58f5b_o.jpg",
+    "https://farm3.staticflickr.com/2084/2040857390_9171b9df60_o.jpg",
+    "https://farm3.staticflickr.com/2324/2040842360_5e06c8ed1d_o.jpg",
+    "https://farm3.staticflickr.com/2415/2040855348_4f65339b82_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a road trip . we took a walk through the woods . this is a picture of a waterfall . this is a picture of a tree . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "we went on a road trip. we took a walk through the woods. We eventually arrived a waterfall. there were many huge trees around. we had a great time on our hike.",
+      "normalized_edited_story_text_sent": [
+        "we went on a road trip .",
+        "we took a walk through the woods .",
+        "we eventually arrived a waterfall .",
+        "there were many huge trees around .",
+        "we had a great time on our hike ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went on a road trip . we took a walk through the woods . We took a lot of pictures like a waterfall and a tree. we had a great time and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went on a road trip .",
+        "we took a walk through the woods .",
+        "we took a lot of pictures like a waterfall and a tree .",
+        "we had a great time and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We went on a nice hike through the woods and took pictures along the way.  We got pictures of the trail signs, a waterfall, cairn, and a beautiful overlook.",
+      "normalized_edited_story_text_sent": [
+        "we went on a nice hike through the woods and took pictures along the way .",
+        "we got pictures of the trail signs , a waterfall , cairn , and a beautiful overlook ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went on a road trip . we took a walk through the woods . this is a picture of a waterfall . this is a picture of a tree . we had a great time and a lot of fun",
+      "normalized_edited_story_text_sent": [
+        "we went on a road trip .",
+        "we took a walk through the woods .",
+        "this is a picture of a waterfall .",
+        "this is a picture of a tree .",
+        "we had a great time and a lot of fun"
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went on a road trip and we took a walk through the woods . this is a picture of a waterfall and this is a picture of a tree . we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went on a road trip and we took a walk through the woods .",
+        "this is a picture of a waterfall and this is a picture of a tree .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603215309500"
+}

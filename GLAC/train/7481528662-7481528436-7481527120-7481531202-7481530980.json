@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "7481528662-7481528436-7481527120-7481531202-7481530980",
+  "photo_sequence_ids": [
+    "7481528662",
+    "7481528436",
+    "7481527120",
+    "7481531202",
+    "7481530980"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the room was very clean . the room was well furnished . the bedroom was nice . the stairs were in the middle . the sign was not to be fixed .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Outside a building hung a sign. Worn and crooked, and brimming with character. Walking past the doorway led to a room that was tidy and rather quaint. A staircase was at the center of the building, which led up to a well furnished lounge. Next to it was the bedroom. It was quite nice with a mattress enticing those that rummage about to nap in it.",
+      "normalized_edited_story_text_sent": [
+        "outside a building hung a sign .",
+        "worn and crooked , and brimming with character .",
+        "walking past the doorway led to a room that was tidy and rather quaint .",
+        "a staircase was at the center of the building , which led up to a well furnished lounge .",
+        "next to it was the bedroom .",
+        "it was quite nice with a mattress enticing those that rummage about to nap in it ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the room was very clean . The whole house was cleaned and ready. There was a cool telegraph office there also.",
+      "normalized_edited_story_text_sent": [
+        "the room was very clean .",
+        "the whole house was cleaned and ready .",
+        "there was a cool telegraph office there also ."
+      ]
+    },
+    {
+      "worker_id": "AHI4R9YE0SF9E",
+      "edited_story_text": "The room appeared to be very clean. In addition, the room was well furnished and the bedroom was nice. Also, the stairs were in the middle of the house. Finally, the sign was not to be fixed.",
+      "normalized_edited_story_text_sent": [
+        "the room appeared to be very clean .",
+        "in addition , the room was well furnished and the bedroom was nice .",
+        "also , the stairs were in the middle of the house .",
+        "finally , the sign was not to be fixed ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the room was very clean . the room was well furnished .",
+      "normalized_edited_story_text_sent": [
+        "the room was very clean .",
+        "the room was well furnished ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the room was very clean . the room had a big bed with pillows . the bedroom was nice . the stairs were in the middle . the sign was not to be fixed .",
+      "normalized_edited_story_text_sent": [
+        "the room was very clean .",
+        "the room had a big bed with pillows .",
+        "the bedroom was nice .",
+        "the stairs were in the middle .",
+        "the sign was not to be fixed ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630375999852",
+  "model": "GLAC"
+}

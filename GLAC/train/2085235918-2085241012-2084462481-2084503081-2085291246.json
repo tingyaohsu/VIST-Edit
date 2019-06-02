@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2085235918-2085241012-2084462481-2084503081-2085291246",
+  "photo_sequence_ids": [
+    "2085235918",
+    "2085241012",
+    "2084462481",
+    "2084503081",
+    "2085291246"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was lit up at night . the lights were bright and vibrant . the shops were busy with people . the market was open and inviting . the view from the hotel was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Went to the carnival tonight.  the city was lit up at night . the lights were bright and vibrant . the market was open and inviting . the view from the hotel was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "went to the carnival tonight .",
+        "the city was lit up at night .",
+        "the lights were bright and vibrant .",
+        "the market was open and inviting .",
+        "the view from the hotel was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the city was lit up at night . the carousel was bright and lovely. the market stalls were busy with people . everything was for sell . the view from the hotel was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "the carousel was bright and lovely .",
+        "the market stalls were busy with people .",
+        "everything was for sell .",
+        "the view from the hotel was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the city was lit up at night with bright, vibrant lights. the market was open and inviting and the shops were busy with people. the view from the hotel was spectacular.",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night with bright , vibrant lights .",
+        "the market was open and inviting and the shops were busy with people .",
+        "the view from the hotel was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The city was lit up really vibrantly all night. There were people crowded around all the shops, and no wonder since the market was so open and inviting. We got tired and went back to the hotel, and wow, I gotta tell you the view was great!",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up really vibrantly all night .",
+        "there were people crowded around all the shops , and no wonder since the market was so open and inviting .",
+        "we got tired and went back to the hotel , and wow , i got ta tell you the view was great !"
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the city was lit up at night . the lights were super bright and vibrant . the shops were busy with folk. the market was open and inviting . the view from the hotel was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "the lights were super bright and vibrant .",
+        "the shops were busy with folk .",
+        "the market was open and inviting .",
+        "the view from the hotel was spectacular ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603365865172",
+  "model": "GLAC"
+}

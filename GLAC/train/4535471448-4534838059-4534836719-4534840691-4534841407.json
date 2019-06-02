@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4535471448-4534838059-4534836719-4534840691-4534841407",
+  "photo_sequence_ids": [
+    "4535471448",
+    "4534838059",
+    "4534836719",
+    "4534840691",
+    "4534841407"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the birds were flying over the pond . the white car was covered in snow . the flowers were blooming . the lake was calm .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the sun was setting while the birds were flying over the pond. the black car was parked. the flowers were blooming. the lake was calm while the bird soared above the trees",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting while the birds were flying over the pond .",
+        "the black car was parked .",
+        "the flowers were blooming .",
+        "the lake was calm while the bird soared above the trees"
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "I spent the day enjoying the countryside and even catching a glimpse of some distant hills and mountains. After parking in the grass at the foot of a staircase, I took some nature photos of a spider spinning a web and several birds of prey flying high.",
+      "normalized_edited_story_text_sent": [
+        "i spent the day enjoying the countryside and even catching a glimpse of some distant hills and mountains .",
+        "after parking in the grass at the foot of a staircase , i took some nature photos of a spider spinning a web and several birds of prey flying high ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the sun was setting . the birds were flying over the pond . the white car sat under some trees . the flowers were blooming . the lake was calm .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "the birds were flying over the pond .",
+        "the white car sat under some trees .",
+        "the flowers were blooming .",
+        "the lake was calm ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary was glad the sun was setting . the birds were flying over the pond . the white car was covered in snow . the flowers were blooming . the lake was calm .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the sun was setting .",
+        "the birds were flying over the pond .",
+        "the white car was covered in snow .",
+        "the flowers were blooming .",
+        "the lake was calm ."
+      ]
+    },
+    {
+      "worker_id": "A3U6OXFPUOCIV2",
+      "edited_story_text": "In a wooded area where spiders were spinning their webs was a car pulling up to a house as birds flew overhead.",
+      "normalized_edited_story_text_sent": [
+        "in a wooded area where spiders were spinning their webs was a car pulling up to a house as birds flew overhead ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623765822085",
+  "model": "GLAC"
+}

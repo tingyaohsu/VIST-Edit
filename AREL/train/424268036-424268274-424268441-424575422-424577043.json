@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "424268036-424268274-424268441-424575422-424577043",
+  "photo_sequence_ids": [
+    "424268036",
+    "424268274",
+    "424268441",
+    "424575422",
+    "424577043"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/180/424268036_e94bc12b52_o.jpg",
+    "https://farm1.staticflickr.com/166/424268274_939875310e_o.jpg",
+    "https://farm1.staticflickr.com/180/424268441_785ffcaf32_o.jpg",
+    "https://farm1.staticflickr.com/164/424575422_ff4f621575_o.jpg",
+    "https://farm1.staticflickr.com/185/424577043_78294ff4e0_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of people gathered at the conference . there were many people there . this is a picture of a wall . it was a lot of fun . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "A group gathered together at a conference, many people showed up and it was loads of funs, we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "a group gathered together at a conference , many people showed up and it was loads of funs , we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We all attended a local conference at the college. A lot of people showed up. They had set up an old satellite in the corner. The professor had students present their speeches at the conference. I listened to each presentation intently.",
+      "normalized_edited_story_text_sent": [
+        "we all attended a local conference at the college .",
+        "a lot of people showed up .",
+        "they had set up an old satellite in the corner .",
+        "the professor had students present their speeches at the conference .",
+        "i listened to each presentation intently ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "a lot of people were there for the conference. There were some presentations and we had some interesting discussions . I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people were there for the conference .",
+        "there were some presentations and we had some interesting discussions .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "a group of people gathered at the conference . there were many people there . this is a picture of a satellite . it was a lot of fun . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered at the conference .",
+        "there were many people there .",
+        "this is a picture of a satellite .",
+        "it was a lot of fun .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "There were a lot of people at the convention. A lot of the same people come every year. It was a good learning environment. It was very educational \u0026 entertaining. I learned a lot .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the convention .",
+        "a lot of the same people come every year .",
+        "it was a good learning environment .",
+        "it was very educational \u0026 entertaining .",
+        "i learned a lot ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600005042432"
+}

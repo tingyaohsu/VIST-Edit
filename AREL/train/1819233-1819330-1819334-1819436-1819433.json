@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "1819233-1819330-1819334-1819436-1819433",
+  "photo_sequence_ids": [
+    "1819233",
+    "1819330",
+    "1819334",
+    "1819436",
+    "1819433"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/1819233_83e4f38fef_o.jpg",
+    "https://farm1.staticflickr.com/2/1819330_16413268a5_o.jpg",
+    "https://farm1.staticflickr.com/2/1819334_08c956f6c9_o.jpg",
+    "https://farm1.staticflickr.com/2/1819436_cf340cd712_o.jpg",
+    "https://farm1.staticflickr.com/2/1819433_6f2d59eb1b_o.jpg"
+  ],
+  "auto_story_text_normalized": "the wedding cake was a lot of fun . the bride and groom were very happy to be there . we all had a great time . the bride and groom pose for a picture . it was a great party .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TDK0LD62WZ8Y",
+      "edited_story_text": "The wedding was a lot of fun. The bride and groom were very happy to be there. We all had a great time. Here, the bride and groom pose for a picture. It was a great party.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a lot of fun .",
+        "the bride and groom were very happy to be there .",
+        "we all had a great time .",
+        "here , the bride and groom pose for a picture .",
+        "it was a great party ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "The wedding cake was beautiful. The bride and groom were very happy to be there. We all had a great time. The bride and groom posed for a picture . It was a great party.",
+      "normalized_edited_story_text_sent": [
+        "the wedding cake was beautiful .",
+        "the bride and groom were very happy to be there .",
+        "we all had a great time .",
+        "the bride and groom posed for a picture .",
+        "it was a great party ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the wedding cake was beautiful. the bride and groom were very happy to have everyone there. we all had a great time . the bride and groom posed for a picture. it was a great reception.",
+      "normalized_edited_story_text_sent": [
+        "the wedding cake was beautiful .",
+        "the bride and groom were very happy to have everyone there .",
+        "we all had a great time .",
+        "the bride and groom posed for a picture .",
+        "it was a great reception ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "It was a great party, the wedding cake was a lot of fun . The bride and groom were very happy to be there and posed for a picture, we all had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "it was a great party , the wedding cake was a lot of fun .",
+        "the bride and groom were very happy to be there and posed for a picture , we all had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "the wedding cake was a lot of fun. the bride and groom were very happy to be there. we all had a great time. the bride and groom posed for many pictures. it was a great party.",
+      "normalized_edited_story_text_sent": [
+        "the wedding cake was a lot of fun .",
+        "the bride and groom were very happy to be there .",
+        "we all had a great time .",
+        "the bride and groom posed for many pictures .",
+        "it was a great party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "46136"
+}

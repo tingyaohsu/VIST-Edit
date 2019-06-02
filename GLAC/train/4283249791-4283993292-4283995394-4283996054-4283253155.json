@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4283249791-4283993292-4283995394-4283996054-4283253155",
+  "photo_sequence_ids": [
+    "4283249791",
+    "4283993292",
+    "4283995394",
+    "4283996054",
+    "4283253155"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the restaurant last week . there were a lot of people there . they had a lot of food . they were very good . they were all very full .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i went to the restaurant last week to learn how to cook . there were a lot of people there also learning how to cook . they had a lot of food to sample and taste . they were very good explaining all the steps to the recipe . they were all very full at the end of the night .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week to learn how to cook .",
+        "there were a lot of people there also learning how to cook .",
+        "they had a lot of food to sample and taste .",
+        "they were very good explaining all the steps to the recipe .",
+        "they were all very full at the end of the night ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "i went to the restaurant last week . there were a lot of people there preparing the food. they had a lot of delicious food . the cooks were very good . We were all very full afterward.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were a lot of people there preparing the food .",
+        "they had a lot of delicious food .",
+        "the cooks were very good .",
+        "we were all very full afterward ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the pots were hung up. there were some people there . they had a lot of food . they were very good . they were all very full .",
+      "normalized_edited_story_text_sent": [
+        "the pots were hung up .",
+        "there were some people there .",
+        "they had a lot of food .",
+        "they were very good .",
+        "they were all very full ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i went to the restaurant last week . there were a lot of people there . The man used tongs. The food was great. We talked about it in the kitchen.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were a lot of people there .",
+        "the man used tongs .",
+        "the food was great .",
+        "we talked about it in the kitchen ."
+      ]
+    },
+    {
+      "worker_id": "A771BLWJLMWYY",
+      "edited_story_text": "i visited the restaurant last week . there was a lot of people there . they had a lot of tasty food . the food was very good . the guests were all very full .",
+      "normalized_edited_story_text_sent": [
+        "i visited the restaurant last week .",
+        "there was a lot of people there .",
+        "they had a lot of tasty food .",
+        "the food was very good .",
+        "the guests were all very full ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623107791583",
+  "model": "GLAC"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4352295447-4352298821-4353046216-4353047436-4352293863",
+  "photo_sequence_ids": [
+    "4352295447",
+    "4352298821",
+    "4353046216",
+    "4353047436",
+    "4352293863"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was giving a speech . he was given a question . he was so proud of his work . the audience was very excited .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The speaker was very happy to be doing a presentation in front of members of NASA.  Everyone was pretty impressed with his work.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be doing a presentation in front of members of nasa .",
+        "everyone was pretty impressed with his work ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Listening to a speaker at NASA.  He was a great speaker and answered questions.  It was very interesting and informative",
+      "normalized_edited_story_text_sent": [
+        "listening to a speaker at nasa .",
+        "he was a great speaker and answered questions .",
+        "it was very interesting and informative"
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the speaker from NASA was very happy to be there to meet everyone . he was giving a speech about flight safety. he was given a question about how they repair shuttles . he was so proud of his work and gladly talked about it . the audience was very excited .",
+      "normalized_edited_story_text_sent": [
+        "the speaker from nasa was very happy to be there to meet everyone .",
+        "he was giving a speech about flight safety .",
+        "he was given a question about how they repair shuttles .",
+        "he was so proud of his work and gladly talked about it .",
+        "the audience was very excited ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very happy to be there for the day . he was giving a speech about what he could do for NASA . he was given a question and answered it with no issue . he was so proud of his work and bragged about it . the audience was very excited that he had visited .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there for the day .",
+        "he was giving a speech about what he could do for nasa .",
+        "he was given a question and answered it with no issue .",
+        "he was so proud of his work and bragged about it .",
+        "the audience was very excited that he had visited ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Went to see a speech at NASA.  Questions were asked and the speaker gave great answers.  Here is a photo of the group attendees.",
+      "normalized_edited_story_text_sent": [
+        "went to see a speech at nasa .",
+        "questions were asked and the speaker gave great answers .",
+        "here is a photo of the group attendees ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623424455540",
+  "model": "GLAC"
+}

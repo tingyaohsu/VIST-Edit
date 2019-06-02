@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4290317621-4291059184-4291058986-4287506293-4288276988",
+  "photo_sequence_ids": [
+    "4290317621",
+    "4291059184",
+    "4291058986",
+    "4287506293",
+    "4288276988"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4040/4290317621_a9f2efae11_o.jpg",
+    "https://farm5.staticflickr.com/4016/4291059184_62b3ac2960_o.jpg",
+    "https://farm5.staticflickr.com/4071/4291058986_35192873b9_o.jpg",
+    "https://farm5.staticflickr.com/4066/4287506293_ee20674872_o.jpg",
+    "https://farm5.staticflickr.com/4030/4288276988_c2ae5490d8_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the first day of school . the students were very excited to be there . the man is giving a speech to the students . this is a picture of a man . we had a great time at the meeting .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "school began today, and the students and adults were there . the students seemed pretty thrilled about being there with everyone . the man is giving a speech to the students and carrying a sign . [female] is working with the laptop. the meeting was pretty enjoyable.",
+      "normalized_edited_story_text_sent": [
+        "school began today , and the students and adults were there .",
+        "the students seemed pretty thrilled about being there with everyone .",
+        "the man is giving a speech to the students and carrying a sign .",
+        "[female] is working with the laptop .",
+        "the meeting was pretty enjoyable ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "today was the first day of school . the students were very excited to be there . the man is giving a speech to the students . this is a picture of a [Lewis] . They had a great time at the meeting .",
+      "normalized_edited_story_text_sent": [
+        "today was the first day of school .",
+        "the students were very excited to be there .",
+        "the man is giving a speech to the students .",
+        "this is a picture of a [male] .",
+        "they had a great time at the meeting ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "today was the first day of school . the students were extremely eager to be there . the man is giving a speech to the students . this is a photo of a man . we had a awesome time at the meeting .",
+      "normalized_edited_story_text_sent": [
+        "today was the first day of school .",
+        "the students were extremely eager to be there .",
+        "the man is giving a speech to the students .",
+        "this is a photo of a man .",
+        "we had a awesome time at the meeting ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Today was the first day of school. The students were very excited to be there! The man gave a speech to the students. This is a picture of [male]. We had a good time at the meeting.",
+      "normalized_edited_story_text_sent": [
+        "today was the first day of school .",
+        "the students were very excited to be there !",
+        "the man gave a speech to the students .",
+        "this is a picture of [male] .",
+        "we had a good time at the meeting ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "today was the first day of school . the students were very excited to be there . the man is giving a speech to the students . There was so much happening throughout the campus. we had a great time at the meeting .",
+      "normalized_edited_story_text_sent": [
+        "today was the first day of school .",
+        "the students were very excited to be there .",
+        "the man is giving a speech to the students .",
+        "there was so much happening throughout the campus .",
+        "we had a great time at the meeting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623117965103"
+}

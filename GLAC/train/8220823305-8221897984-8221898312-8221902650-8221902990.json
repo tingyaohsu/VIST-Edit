@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "8220823305-8221897984-8221898312-8221902650-8221902990",
+  "photo_sequence_ids": [
+    "8220823305",
+    "8221897984",
+    "8221898312",
+    "8221902650",
+    "8221902990"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were empty . people were drinking and having fun . the costumes were very cool . some were just as creative . and others were more than others .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the streets were busy . People were in costumes in the office. He dressed up as an artist. People enjoyed dressing up.",
+      "normalized_edited_story_text_sent": [
+        "the streets were busy .",
+        "people were in costumes in the office .",
+        "he dressed up as an artist .",
+        "people enjoyed dressing up ."
+      ]
+    },
+    {
+      "worker_id": "AKIVKZX0MUZ6H",
+      "edited_story_text": "No one was outside the building . They were an office dressed in costumes . The costumes were funny . Some of them had great detail . Others were not as well done.",
+      "normalized_edited_story_text_sent": [
+        "no one was outside the building .",
+        "they were an office dressed in costumes .",
+        "the costumes were funny .",
+        "some of them had great detail .",
+        "others were not as well done ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the streets were mostly empty of people . people were inside and drinking . some wore cool costumes . others were just as creative in their costuming . though some costumes stood out .",
+      "normalized_edited_story_text_sent": [
+        "the streets were mostly empty of people .",
+        "people were inside and drinking .",
+        "some wore cool costumes .",
+        "others were just as creative in their costuming .",
+        "though some costumes stood out ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the streets were empty prior to the parade.  the spectators were drinking and having fun.  the parade goers\u0027 costumes were really cool.  some were creative, others more than the rest.\r\rthe streets were empty . people were drinking and having fun . the costumes were very cool . some were just as creative . and others were more than others .",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty prior to the parade .",
+        "the spectators were drinking and having fun .",
+        "the parade goers \u0027 costumes were really cool .",
+        "some were creative , others more than the rest .",
+        "the streets were empty .",
+        "people were drinking and having fun .",
+        "the costumes were very cool .",
+        "some were just as creative .",
+        "and others were more than others ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the streets were empty . people were drinking and having fun . the costumes were very cool . some of them were creative . everyone participated .",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty .",
+        "people were drinking and having fun .",
+        "the costumes were very cool .",
+        "some of them were creative .",
+        "everyone participated ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631898865749",
+  "model": "GLAC"
+}

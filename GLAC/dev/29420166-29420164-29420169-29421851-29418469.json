@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "29420166-29420164-29420169-29421851-29418469",
+  "photo_sequence_ids": [
+    "29420166",
+    "29420164",
+    "29420169",
+    "29421851",
+    "29418469"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to go on the annual bike race . they were all ready for the big race . the race was underway and the bikers were off ! the racers were very fast and close . the finish line was a great place to end the race .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the kids were excited to skate . they were all ready to skate . they skated.   the sun was setting.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to skate .",
+        "they were all ready to skate .",
+        "they skated .",
+        "the sun was setting ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the kids were excited to go on the big annual bike race and they were all ready for the big race . the race was underway and the bikers were off ! the racers were very fast and close . the finish line was a great place to end the race .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to go on the big annual bike race and they were all ready for the big race .",
+        "the race was underway and the bikers were off !",
+        "the racers were very fast and close .",
+        "the finish line was a great place to end the race ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "David showing off his moves in the park.  The trees were very oddly trimmed.  The angle was pretty cool as the sunset though.",
+      "normalized_edited_story_text_sent": [
+        "[male] showing off his moves in the park .",
+        "the trees were very oddly trimmed .",
+        "the angle was pretty cool as the sunset though ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the kids was doing tricks on his bike . they were all standing by the tree watching . the boys were on their skateboards. they were doing tricks on the stairs . the location was a great one for skateboarding.",
+      "normalized_edited_story_text_sent": [
+        "the kids was doing tricks on his bike .",
+        "they were all standing by the tree watching .",
+        "the boys were on their skateboards .",
+        "they were doing tricks on the stairs .",
+        "the location was a great one for skateboarding ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were excited to go on the annual bike race . they were all ready for the big race . the race was underway and the bikers were off ! the racers were very fast and close . the palm trees were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to go on the annual bike race .",
+        "they were all ready for the big race .",
+        "the race was underway and the bikers were off !",
+        "the racers were very fast and close .",
+        "the palm trees were beautiful ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "665897",
+  "model": "GLAC"
+}

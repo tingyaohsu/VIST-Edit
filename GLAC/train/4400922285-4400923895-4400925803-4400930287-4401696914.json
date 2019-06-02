@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4400922285-4400923895-4400925803-4400930287-4401696914",
+  "photo_sequence_ids": [
+    "4400922285",
+    "4400923895",
+    "4400925803",
+    "4400930287",
+    "4401696914"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family is gathered for a baby shower . the family is happy to be together . the young boy is opening his presents . the child is excited about the new gifts . the little girl is having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the family got together for a baby shower.  everyone was happy.  the family also gave david, a young boy, gifts.  david opened the gifts and got excited.  his sister lisa also had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a baby shower .",
+        "everyone was happy .",
+        "the family also gave [male] , a young boy , gifts .",
+        "[male] opened the gifts and got excited .",
+        "his sister [female] also had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The guys had a celebration of their own with lots of different drinks.",
+      "normalized_edited_story_text_sent": [
+        "the guys had a celebration of their own with lots of different drinks ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family got together for a baby shower . the family is happily reunited . a boy is opening his gifts . he is happy about the presents . a little girl is also having fun .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a baby shower .",
+        "the family is happily reunited .",
+        "a boy is opening his gifts .",
+        "he is happy about the presents .",
+        "a little girl is also having fun ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family is gathered for a relaxing time . they are happy to be together . the young boy is opening his presents . the child is excited about the new gifts . the little girl is having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family is gathered for a relaxing time .",
+        "they are happy to be together .",
+        "the young boy is opening his presents .",
+        "the child is excited about the new gifts .",
+        "the little girl is having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Everyone gathered for the baby shower. It was good to have everyone together again. During the baby shower, a young boy was opening his presents and excited to see what gifts he would get. A little girl that was also attending was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "everyone gathered for the baby shower .",
+        "it was good to have everyone together again .",
+        "during the baby shower , a young boy was opening his presents and excited to see what gifts he would get .",
+        "a little girl that was also attending was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623540522608",
+  "model": "GLAC"
+}

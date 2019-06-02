@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4917866-4917865-4917864-4917868-4917870",
+  "photo_sequence_ids": [
+    "4917866",
+    "4917865",
+    "4917864",
+    "4917868",
+    "4917870"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization organization is a great place to visit . the lake is beautiful and peaceful . the people are excited to be there . the sun is setting . the city is a beautiful place .",
+  "edited_stories": [
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the weather team sent out advisories . there was a tornado coming. the family prepared to take shelter . someone was out taking pictures. the rain covered the streets .",
+      "normalized_edited_story_text_sent": [
+        "the weather team sent out advisories .",
+        "there was a tornado coming .",
+        "the family prepared to take shelter .",
+        "someone was out taking pictures .",
+        "the rain covered the streets ."
+      ]
+    },
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "From warning to full blown tornado in minutes.  This was terrifying for all.  People could not even get out of the area due to the floods.",
+      "normalized_edited_story_text_sent": [
+        "from warning to full blown tornado in minutes .",
+        "this was terrifying for all .",
+        "people could not even get out of the area due to the floods ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The map showed the weather threats. The tornado was prominent. People watched it from their yards. The area flooded.",
+      "normalized_edited_story_text_sent": [
+        "the map showed the weather threats .",
+        "the tornado was prominent .",
+        "people watched it from their yards .",
+        "the area flooded ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "It\u0027s a beautiful city to visit. They were excited to be there as the sun was setting. The lake was peaceful until a storm came.",
+      "normalized_edited_story_text_sent": [
+        "it \u0027s a beautiful city to visit .",
+        "they were excited to be there as the sun was setting .",
+        "the lake was peaceful until a storm came ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The organization is a great place to visit and the lake it beautiful. It is peaceful and the people are excited to be there. The sun is setting and the city is a beautiful place.",
+      "normalized_edited_story_text_sent": [
+        "the organization is a great place to visit and the lake it beautiful .",
+        "it is peaceful and the people are excited to be there .",
+        "the sun is setting and the city is a beautiful place ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "123763",
+  "model": "GLAC"
+}

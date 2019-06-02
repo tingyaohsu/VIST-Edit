@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4460631014-4459852549-4460631116-4460631186-4459852765",
+  "photo_sequence_ids": [
+    "4460631014",
+    "4459852549",
+    "4460631116",
+    "4460631186",
+    "4459852765"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was empty . the building was empty . the people were walking around . the guy was not happy . he was going to be a good worker .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the old photo showed an empty office . another photo showed nurses in the building in the past. a historic portrait of a man is shown . a poster shows medical gear  . another poster shows an old time dental chair.",
+      "normalized_edited_story_text_sent": [
+        "the old photo showed an empty office .",
+        "another photo showed nurses in the building in the past .",
+        "a historic portrait of a man is shown .",
+        "a poster shows medical gear .",
+        "another poster shows an old time dental chair ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the office had been deserted . nobody was in the building  . the folks were milling about outside . while the guy was not having it. he had decide to work hard and become a fixture in the area.",
+      "normalized_edited_story_text_sent": [
+        "the office had been deserted .",
+        "nobody was in the building .",
+        "the folks were milling about outside .",
+        "while the guy was not having it .",
+        "he had decide to work hard and become a fixture in the area ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The pictures were very old, but very clear. The office was empty in the picture.  The woman were working in the picture.",
+      "normalized_edited_story_text_sent": [
+        "the pictures were very old , but very clear .",
+        "the office was empty in the picture .",
+        "the woman were working in the picture ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the office was super dull and empty . the building was empty . the people were walking around with drab looks. the guy was not happy .",
+      "normalized_edited_story_text_sent": [
+        "the office was super dull and empty .",
+        "the building was empty .",
+        "the people were walking around with drab looks .",
+        "the guy was not happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert told lisa that the office was empty . the building was empty . the people were walking around . the guy was not happy . he was going to be a good worker .",
+      "normalized_edited_story_text_sent": [
+        "[male] told [female] that the office was empty .",
+        "the building was empty .",
+        "the people were walking around .",
+        "the guy was not happy .",
+        "he was going to be a good worker ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623566889139",
+  "model": "GLAC"
+}

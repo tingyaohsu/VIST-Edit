@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4257842-4257686-4257763-4257909-4258527",
+  "photo_sequence_ids": [
+    "4257842",
+    "4257686",
+    "4257763",
+    "4257909",
+    "4258527"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/3/4257842_26572415f3_o.jpg",
+    "https://farm1.staticflickr.com/4/4257686_131f23a3a4_o.jpg",
+    "https://farm1.staticflickr.com/3/4257763_85f740610d_o.jpg",
+    "https://farm1.staticflickr.com/3/4257909_6d28992302_o.jpg",
+    "https://farm1.staticflickr.com/4/4258527_65eb9cabc8_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day for a wedding . i had a great time there . she was so happy to be there . it was a great day . the view of the city was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was a beautiful day for a wedding . i had a great time there . she was so happy to be there at the party and was a great day . the view of the city was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "i had a great time there .",
+        "she was so happy to be there at the party and was a great day .",
+        "the view of the city was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "it was a beautiful day for a wedding . i had a great time there . I was so happy to be there.  I attend my friend\u0027s wedding on an amazing venue. The view was magnificent.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "i had a great time there .",
+        "i was so happy to be there .",
+        "i attend my friend \u0027s wedding on an amazing venue .",
+        "the view was magnificent ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "it was a beautiful day for a wedding and i had a great time there . she was so happy to be there and it was a great day . the view of the city was so beautiful .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding and i had a great time there .",
+        "she was so happy to be there and it was a great day .",
+        "the view of the city was so beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "it was a beautiful day for a boat ride . i had a great time there . she was so happy to be there . it was a great day . the view of the city from the water was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a boat ride .",
+        "i had a great time there .",
+        "she was so happy to be there .",
+        "it was a great day .",
+        "the view of the city from the water was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "It was a beautiful day for a wedding and I had a great time there. The bride was so happy to be there . It was a great day and the view of the city was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding and i had a great time there .",
+        "the bride was so happy to be there .",
+        "it was a great day and the view of the city was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "100423"
+}

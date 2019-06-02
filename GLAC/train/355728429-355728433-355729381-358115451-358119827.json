@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "355728429-355728433-355729381-358115451-358119827",
+  "photo_sequence_ids": [
+    "355728429",
+    "355728433",
+    "355729381",
+    "358115451",
+    "358119827"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went hiking through the woods . they saw some pretty flowers . they also saw a lot of strange things . they even got to see a tree . the view was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the family went hiking through the woods . they saw some pretty flowers . nature was alive with the beauty of spring. they also saw a lot of strange things . they even got to see a tree . the view was excellent .",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking through the woods .",
+        "they saw some pretty flowers .",
+        "nature was alive with the beauty of spring .",
+        "they also saw a lot of strange things .",
+        "they even got to see a tree .",
+        "the view was excellent ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The couple went for a scenic walk through the forest and saw many creatures.",
+      "normalized_edited_story_text_sent": [
+        "the couple went for a scenic walk through the forest and saw many creatures ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My family went hiking through the woods. We saw some pretty flowers. We also saw a lot of strange things. We even got to see a tree. The view was spectacular.",
+      "normalized_edited_story_text_sent": [
+        "my family went hiking through the woods .",
+        "we saw some pretty flowers .",
+        "we also saw a lot of strange things .",
+        "we even got to see a tree .",
+        "the view was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went hiking through the woods . they saw some pretty flowers . they also saw a wild monkey . they even got to climb trees . the view was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking through the woods .",
+        "they saw some pretty flowers .",
+        "they also saw a wild monkey .",
+        "they even got to climb trees .",
+        "the view was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went hiking through the woods . We saw cool flowers. There was a monkey and long vines. The wooded area was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking through the woods .",
+        "we saw cool flowers .",
+        "there was a monkey and long vines .",
+        "the wooded area was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594583750217",
+  "model": "GLAC"
+}

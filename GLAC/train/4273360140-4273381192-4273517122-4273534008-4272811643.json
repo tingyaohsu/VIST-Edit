@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4273360140-4273381192-4273517122-4273534008-4272811643",
+  "photo_sequence_ids": [
+    "4273360140",
+    "4273381192",
+    "4273517122",
+    "4273534008",
+    "4272811643"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on vacation . they saw a lot of old buildings . they also had a beautiful house . the garden was very lush . the flowers were amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went on vacation . they saw a lot of old buildings . they also had a beautiful house . there were pretty flowers in the garden and gorgeous scenery.",
+      "normalized_edited_story_text_sent": [
+        "the family went on vacation .",
+        "they saw a lot of old buildings .",
+        "they also had a beautiful house .",
+        "there were pretty flowers in the garden and gorgeous scenery ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The view of the city was lovely. The buildings had some unique designs. The grounds were large and very lush. The view was excellent. The flowers were amazing.",
+      "normalized_edited_story_text_sent": [
+        "the view of the city was lovely .",
+        "the buildings had some unique designs .",
+        "the grounds were large and very lush .",
+        "the view was excellent .",
+        "the flowers were amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the family went on vacation .We stayed in this beautiful house . the garden was very lush and the flowers were amazing.  Didn\u0027t want to leave!",
+      "normalized_edited_story_text_sent": [
+        "the family went on vacation .",
+        "we stayed in this beautiful house .",
+        "the garden was very lush and the flowers were amazing .",
+        "did n\u0027t want to leave !"
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family went on vacation . they saw a lot of old buildings . they also had a beautiful crypt. the garden was very lush . the flowers were amazing .",
+      "normalized_edited_story_text_sent": [
+        "the family went on vacation .",
+        "they saw a lot of old buildings .",
+        "they also had a beautiful crypt .",
+        "the garden was very lush .",
+        "the flowers were amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the family traveled on vacation . they visited the city\u0027s historic buildings . they stayed at an awesome compound. the garden was fanciful. the flowers bloomed to full tilt.",
+      "normalized_edited_story_text_sent": [
+        "the family traveled on vacation .",
+        "they visited the city \u0027s historic buildings .",
+        "they stayed at an awesome compound .",
+        "the garden was fanciful .",
+        "the flowers bloomed to full tilt ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623081646221",
+  "model": "GLAC"
+}

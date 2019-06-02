@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5632661781-5632581653-5633200836-5633153704-5632653877",
+  "photo_sequence_ids": [
+    "5632661781",
+    "5632581653",
+    "5633200836",
+    "5633153704",
+    "5632653877"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the new year was a big event . the crowd was large . the band played a great song . the lead singer was very talented . the drummer was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "The new years event we went to was huge. There were tons of people there. They had an awesome band playing. The lead singer could really wail. Their drummer was a real riot though.",
+      "normalized_edited_story_text_sent": [
+        "the new years event we went to was huge .",
+        "there were tons of people there .",
+        "they had an awesome band playing .",
+        "the lead singer could really wail .",
+        "their drummer was a real riot though ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the new year was a big event . the crowd was large . the band played a great song . the lead singer was very talented . the drummer was the best .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the new year was a big event .",
+        "the crowd was large .",
+        "the band played a great song .",
+        "the lead singer was very talented .",
+        "the drummer was the best ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "new year had a big party . the crowd was packed . a band played a beloved song . the lead singer was melodious . the drummer was a beast .",
+      "normalized_edited_story_text_sent": [
+        "new year had a big party .",
+        "the crowd was packed .",
+        "a band played a beloved song .",
+        "the lead singer was melodious .",
+        "the drummer was a beast ."
+      ]
+    },
+    {
+      "worker_id": "A1DAKVNZ5LJEL4",
+      "edited_story_text": "Celebrating the new year was a big event . There was a large crowd attending the celebration. the band played a great song for the crowd. Everyone loved the lead singer because he was very talented . However, the drummer stole the show with this performance.",
+      "normalized_edited_story_text_sent": [
+        "celebrating the new year was a big event .",
+        "there was a large crowd attending the celebration .",
+        "the band played a great song for the crowd .",
+        "everyone loved the lead singer because he was very talented .",
+        "however , the drummer stole the show with this performance ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the new year was a big event . the crowd was large . the band played a great song . the lead singer was very talented . the man passed out on the floor.",
+      "normalized_edited_story_text_sent": [
+        "the new year was a big event .",
+        "the crowd was large .",
+        "the band played a great song .",
+        "the lead singer was very talented .",
+        "the man passed out on the floor ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626403967007",
+  "model": "GLAC"
+}

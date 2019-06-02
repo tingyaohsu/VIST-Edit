@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "371231968-371236008-371232760-371245006-371235412",
+  "photo_sequence_ids": [
+    "371231968",
+    "371236008",
+    "371232760",
+    "371245006",
+    "371235412"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very clean and easy . the map was well kept and the parts were still in good shape . the building was very tall and had a lot of character . the statue was also a real sleek . the large art was interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we visited the city today.  we had a rental car that was clean and easy to drive.  the car had a good map and ran well.  one city building was tall and distinctive.  i also liked a real sleek statue, and other pieces of large art.",
+      "normalized_edited_story_text_sent": [
+        "we visited the city today .",
+        "we had a rental car that was clean and easy to drive .",
+        "the car had a good map and ran well .",
+        "one city building was tall and distinctive .",
+        "i also liked a real sleek statue , and other pieces of large art ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the car was very clean and easy . the map was well kept and the parts were still in great shape . the building was very tall and had a lot of character . the statue was also a real sleek . the large art was neat.",
+      "normalized_edited_story_text_sent": [
+        "the car was very clean and easy .",
+        "the map was well kept and the parts were still in great shape .",
+        "the building was very tall and had a lot of character .",
+        "the statue was also a real sleek .",
+        "the large art was neat ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the car was very clean and easy . the map was well kept and the parts were still in good shape . the building was very tall and had a lot of character . the statue were tall \u0026 majestic . the large art was interesting .",
+      "normalized_edited_story_text_sent": [
+        "the car was very clean and easy .",
+        "the map was well kept and the parts were still in good shape .",
+        "the building was very tall and had a lot of character .",
+        "the statue were tall \u0026 majestic .",
+        "the large art was interesting ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the car was very clean and easy to fix up . the map was well kept and the parts were still in good shape which was a miracle . the building was very tall and had a lot of character due to its location in the downtown area . the statue was also a real sleek and just needed some polish and some love. the large art was interesting and was a good show piece .",
+      "normalized_edited_story_text_sent": [
+        "the car was very clean and easy to fix up .",
+        "the map was well kept and the parts were still in good shape which was a miracle .",
+        "the building was very tall and had a lot of character due to its location in the downtown area .",
+        "the statue was also a real sleek and just needed some polish and some love .",
+        "the large art was interesting and was a good show piece ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "A cool antique bike. There were lots of interesting antiques. This is a cool bat.There were old gears.",
+      "normalized_edited_story_text_sent": [
+        "a cool antique bike .",
+        "there were lots of interesting antiques .",
+        "this is a cool bat.there were old gears ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594503266848",
+  "model": "GLAC"
+}

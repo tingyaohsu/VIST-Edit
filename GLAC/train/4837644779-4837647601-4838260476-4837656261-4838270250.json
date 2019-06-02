@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4837644779-4837647601-4838260476-4837656261-4838270250",
+  "photo_sequence_ids": [
+    "4837644779",
+    "4837647601",
+    "4838260476",
+    "4837656261",
+    "4838270250"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the meeting was about to begin . the speaker was very informative . the audience was excited . the speaker was very boring . he was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the meeting was about to begin . the sign was very informative . the audience was excited for the meeting. this speaker was very boring . she was very proud of the meeting.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "the sign was very informative .",
+        "the audience was excited for the meeting .",
+        "this speaker was very boring .",
+        "she was very proud of the meeting ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the meet was soon to take off. the speaker\u0027s data was instructive. the audience, revved up. even though the speaker was a dud. he still appeared to be proud of himself.",
+      "normalized_edited_story_text_sent": [
+        "the meet was soon to take off .",
+        "the speaker \u0027s data was instructive .",
+        "the audience , revved up .",
+        "even though the speaker was a dud .",
+        "he still appeared to be proud of himself ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert thought the meeting was about to begin . the speaker was very informative . the audience was excited . the speaker was very boring . he was very proud .",
+      "normalized_edited_story_text_sent": [
+        "[male] thought the meeting was about to begin .",
+        "the speaker was very informative .",
+        "the audience was excited .",
+        "the speaker was very boring .",
+        "he was very proud ."
+      ]
+    },
+    {
+      "worker_id": "A1DAKVNZ5LJEL4",
+      "edited_story_text": "We entered the building as the meeting was about to begin. the speaker of the day was very informative . the audience was excited to be involved in the meeting. the first speaker was very boring . Even though his speech was not entertaining, he was proud of himself.",
+      "normalized_edited_story_text_sent": [
+        "we entered the building as the meeting was about to begin .",
+        "the speaker of the day was very informative .",
+        "the audience was excited to be involved in the meeting .",
+        "the first speaker was very boring .",
+        "even though his speech was not entertaining , he was proud of himself ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the meeting was about to begin. the audience was very excited. the speakers were very informative, but somewhat boring.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "the audience was very excited .",
+        "the speakers were very informative , but somewhat boring ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624477904553",
+  "model": "GLAC"
+}

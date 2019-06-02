@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5845122897-5845123215-5845124737-5845678096-5845678252",
+  "photo_sequence_ids": [
+    "5845122897",
+    "5845123215",
+    "5845124737",
+    "5845678096",
+    "5845678252"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very old . it was a big place . the people were in the area . there were lots of cars . the building was well done .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the tanks and weapons were on display. there was a photo of men with guns getting ready to enter a building. a helicopter was also on display.",
+      "normalized_edited_story_text_sent": [
+        "the tanks and weapons were on display .",
+        "there was a photo of men with guns getting ready to enter a building .",
+        "a helicopter was also on display ."
+      ]
+    },
+    {
+      "worker_id": "A197GEXK2G2RA",
+      "edited_story_text": "We visited a military museum. There were many guns, tanks, and helicopters on display. I learned a lot about our military history and the dedication that is needed to build guns and vehicles of this nature.",
+      "normalized_edited_story_text_sent": [
+        "we visited a military museum .",
+        "there were many guns , tanks , and helicopters on display .",
+        "i learned a lot about our military history and the dedication that is needed to build guns and vehicles of this nature ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the machine gun was very old . it was a big place . the people were in the area . there were lots of cars . the building was well done .",
+      "normalized_edited_story_text_sent": [
+        "the machine gun was very old .",
+        "it was a big place .",
+        "the people were in the area .",
+        "there were lots of cars .",
+        "the building was well done ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the car was very old and needed to be cleaned. it was a big place for no one to be there. the people were in the area waiting for the helicopter . there were lots of cars in the parking lot . the building was well done and in the shade .",
+      "normalized_edited_story_text_sent": [
+        "the car was very old and needed to be cleaned .",
+        "it was a big place for no one to be there .",
+        "the people were in the area waiting for the helicopter .",
+        "there were lots of cars in the parking lot .",
+        "the building was well done and in the shade ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The tank was very old. The soldiers were lined up outside a building. There were many military items displayed. The day was sunny.",
+      "normalized_edited_story_text_sent": [
+        "the tank was very old .",
+        "the soldiers were lined up outside a building .",
+        "there were many military items displayed .",
+        "the day was sunny ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626865355029",
+  "model": "GLAC"
+}

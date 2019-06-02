@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "6935527-6935580-6935604-6935621-6935694",
+  "photo_sequence_ids": [
+    "6935527",
+    "6935580",
+    "6935604",
+    "6935621",
+    "6935694"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/4/6935527_e7f4208d08_o.jpg",
+    "https://farm1.staticflickr.com/7/6935580_c57b44277f_o.jpg",
+    "https://farm1.staticflickr.com/5/6935604_44d00553cd_o.jpg",
+    "https://farm1.staticflickr.com/5/6935621_8b29da1c49_o.jpg",
+    "https://farm1.staticflickr.com/6/6935694_71bab8adb0_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] and [male] were going to be a halloween party . he was so excited to be there . we had a lot of fun dancing . [male] and [male] had a great time . my friend was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "[male] and [male] were going to a St Patrick\u0027s Day party. He was so excited to be there.  We had a lot of fun dancing. [male] and [male] had a great time. My friend was very happy to be there.  It was a fun evening.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were going to a st patrick \u0027s day party .",
+        "he was so excited to be there .",
+        "we had a lot of fun dancing .",
+        "[male] and [male] had a great time .",
+        "my friend was very happy to be there .",
+        "it was a fun evening ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "[male] and [male] would have been a halloween party . he was so eager to be there . we had a lot of fun dancing . [male] and [male] had a awesome time . my friend was very cheerful to be there .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] would have been a halloween party .",
+        "he was so eager to be there .",
+        "we had a lot of fun dancing .",
+        "[male] and [male] had a awesome time .",
+        "my friend was very cheerful to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "[Hana] and [Jason] were going to be a halloween party . he was so excited to be there . we had a lot of fun dancing . [Jason] and [Hana] had a great time . my friend was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were going to be a halloween party .",
+        "he was so excited to be there .",
+        "we had a lot of fun dancing .",
+        "[male] and [female] had a great time .",
+        "my friend was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "[Male] and [male] were going to the Halloween party. [Male] was so excited to be there! We had a lot of fun dancing. [Male] and [male] had a great time, and my friend was so happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were going to the halloween party .",
+        "[male] was so excited to be there !",
+        "we had a lot of fun dancing .",
+        "[male] and [male] had a great time , and my friend was so happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "[male] and [male] were going to be a halloween party .They have been excited to go for weeks. . we had a lot of fun dancing . [male] and [male] had a great time . my friend was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were going to be a halloween party .",
+        "they have been excited to go for weeks .",
+        ".",
+        "we had a lot of fun dancing .",
+        "[male] and [male] had a great time .",
+        "my friend was very happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "172875"
+}

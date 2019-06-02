@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4247754534-4246981017-4247756380-4247756804-4246980087",
+  "photo_sequence_ids": [
+    "4247754534",
+    "4246981017",
+    "4247756380",
+    "4247756804",
+    "4246980087"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the wedding . the church was decorated beautifully . the bride and groom were very happy . the cake was delicious . the couple was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "Our family was heading to a wedding. Amusingly, little John wanted to drive us there. The church where the wedding took place had a beautiful stained glass window. Afterwards pictures were taken of the bride and groom, their wedding rings and their daughter.",
+      "normalized_edited_story_text_sent": [
+        "our family was heading to a wedding .",
+        "amusingly , little [male] wanted to drive us there .",
+        "the church where the wedding took place had a beautiful stained glass window .",
+        "afterwards pictures were taken of the bride and groom , their wedding rings and their daughter ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the family was ready for the wedding, even little david . the church was decorated beautifully, the stained glass window was so amazing . the bride and groom were very happy when they saw lisa dressed in her bridesmaid dress . the cake was so delicious it was all gone before I could take a picture of it. the couple was so happy, they looked completely in love.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the wedding , even little [male] .",
+        "the church was decorated beautifully , the stained glass window was so amazing .",
+        "the bride and groom were very happy when they saw [female] dressed in her bridesmaid dress .",
+        "the cake was so delicious it was all gone before i could take a picture of it .",
+        "the couple was so happy , they looked completely in love ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the kids were ready for the wedding . the church was decorated beautifully . the bride and groom were very happy . it was a beautiful day.",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready for the wedding .",
+        "the church was decorated beautifully .",
+        "the bride and groom were very happy .",
+        "it was a beautiful day ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was ready for the wedding . the church was decorated beautifully .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the wedding .",
+        "the church was decorated beautifully ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was ready for the wedding . the church was decorated beautifully . the bride and groom were very happy . the rings were gorgeous  . the couple took outdoor pics .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the wedding .",
+        "the church was decorated beautifully .",
+        "the bride and groom were very happy .",
+        "the rings were gorgeous .",
+        "the couple took outdoor pics ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623019053803",
+  "model": "GLAC"
+}

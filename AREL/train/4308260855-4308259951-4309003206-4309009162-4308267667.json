@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4308260855-4308259951-4309003206-4309009162-4308267667",
+  "photo_sequence_ids": [
+    "4308260855",
+    "4308259951",
+    "4309003206",
+    "4309009162",
+    "4308267667"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2705/4308260855_fe439b153b_o.jpg",
+    "https://farm5.staticflickr.com/4051/4308259951_9a0583ed4a_o.jpg",
+    "https://farm3.staticflickr.com/2787/4309003206_2d18a8e789_o.jpg",
+    "https://farm5.staticflickr.com/4040/4309009162_38e0e87899_o.jpg",
+    "https://farm5.staticflickr.com/4037/4308267667_4ca85cf171_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the market to get some food . they had a lot of food to eat . the city was lit up at night . we had a lot of fun at the restaurant . the view of the city was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "A3D5BMOC6B7XNQ",
+      "edited_story_text": "We went to the market to get some food.  We had a lot of fun at the restaurant and ate so much food. The city was lit up at night and the view of the city was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food .",
+        "we had a lot of fun at the restaurant and ate so much food .",
+        "the city was lit up at night and the view of the city was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "We went to the market to get some food, they had a lot of food to eat there. The city was lit up at night, we had a lot of fun at the restaurant. The view of the city was spectacular.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food , they had a lot of food to eat there .",
+        "the city was lit up at night , we had a lot of fun at the restaurant .",
+        "the view of the city was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the market to get some food. they had a lot of different choices available. the city was lit up at night, so we decided to go on a long walk. the views were really beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food .",
+        "they had a lot of different choices available .",
+        "the city was lit up at night , so we decided to go on a long walk .",
+        "the views were really beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we went to the market to get some food . We ate a lot of food . the city was lit up at night . we had a lot of fun at the restaurant . the view of the city was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food .",
+        "we ate a lot of food .",
+        "the city was lit up at night .",
+        "we had a lot of fun at the restaurant .",
+        "the view of the city was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "we went to the market to get some food . they had a lot of food to eat . the city was lit up at night . we had a lot of fun at the restaurant . the view of the city was spectacular I love it so much",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food .",
+        "they had a lot of food to eat .",
+        "the city was lit up at night .",
+        "we had a lot of fun at the restaurant .",
+        "the view of the city was spectacular i love it so much"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623169361399"
+}

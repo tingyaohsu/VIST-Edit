@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "12017644236-12017609306-12016755585-12016738595-12016605335",
+  "photo_sequence_ids": [
+    "12017644236",
+    "12017609306",
+    "12016755585",
+    "12016738595",
+    "12016605335"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . the room was full of energy . the house was very well lit . the family was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the crowded party was a lot of fun. the room was full of energy and the house was very well lit. we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the crowded party was a lot of fun .",
+        "the room was full of energy and the house was very well lit .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people dressed in their best there . the decorated room was full of energy . the house was dimly lit . the family was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people dressed in their best there .",
+        "the decorated room was full of energy .",
+        "the house was dimly lit .",
+        "the family was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "The party at the house of David was amazing. He has an incredible house with lots of painting and souvenirs from all over the world. Everbody was there. I took pictures of almost everyone. I had so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the party at the house of [male] was amazing .",
+        "he has an incredible house with lots of painting and souvenirs from all over the world .",
+        "everbody was there .",
+        "i took pictures of almost everyone .",
+        "i had so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . the room was full of energy . the family was having a great time . it was a very festive atmosphere.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the room was full of energy .",
+        "the family was having a great time .",
+        "it was a very festive atmosphere ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the benefit party was a lot of fun . there were a lot of people there dressed up . the room was full of good energy . the house was very well lit with decorations .",
+      "normalized_edited_story_text_sent": [
+        "the benefit party was a lot of fun .",
+        "there were a lot of people there dressed up .",
+        "the room was full of good energy .",
+        "the house was very well lit with decorations ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157639904095615",
+  "model": "GLAC"
+}

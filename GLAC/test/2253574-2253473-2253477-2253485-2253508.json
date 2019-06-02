@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2253574-2253473-2253477-2253485-2253508",
+  "photo_sequence_ids": [
+    "2253574",
+    "2253473",
+    "2253477",
+    "2253485",
+    "2253508"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people dressed up . some of them were very creative . others were very talented . afterward we all went to the park .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun even thou it was cold. there were a lot of people dressed up in warm clothes . some of them were very creative with their sweaters . others were very talented at the signs they made. afterward we all went to the park to get away from the people .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun even thou it was cold .",
+        "there were a lot of people dressed up in warm clothes .",
+        "some of them were very creative with their sweaters .",
+        "others were very talented at the signs they made .",
+        "afterward we all went to the park to get away from the people ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . there were people with signs. Some people wore green. There were a lot of people on the street.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were people with signs .",
+        "some people wore green .",
+        "there were a lot of people on the street ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the parade was a ton of fun . there were a lot of friends dressed up . some of them were very creative . others were very talented . afterward we all went to the park .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a ton of fun .",
+        "there were a lot of friends dressed up .",
+        "some of them were very creative .",
+        "others were very talented .",
+        "afterward we all went to the park ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the protest was a lot of fun . there were a lot of people dressed in costume . some of them were very creative . the signs were made  . afterward we marched to the park.",
+      "normalized_edited_story_text_sent": [
+        "the protest was a lot of fun .",
+        "there were a lot of people dressed in costume .",
+        "some of them were very creative .",
+        "the signs were made .",
+        "afterward we marched to the park ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . emotions were high. people were passionate.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "emotions were high .",
+        "people were passionate ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "56858",
+  "model": "GLAC"
+}

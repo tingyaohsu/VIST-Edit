@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "21725505-21728852-21731442-21734444-21728853",
+  "photo_sequence_ids": [
+    "21725505",
+    "21728852",
+    "21731442",
+    "21734444",
+    "21728853"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/17/21725505_5e2b85e1cb_o.jpg",
+    "https://farm1.staticflickr.com/16/21728852_99d59b04da_o.jpg",
+    "https://farm1.staticflickr.com/17/21731442_e10ac58a40_o.jpg",
+    "https://farm1.staticflickr.com/16/21734444_25409710eb_o.jpg",
+    "https://farm1.staticflickr.com/17/21728853_8e105ec004_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the car show today . there were a lot of animals to choose from . this guy was the best part of the day . a group of people showed up to show their support . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A28AZTW9BRRPBL",
+      "edited_story_text": "we went to the car show today . there were a lot of animals on display . this guy was the best part of the day . a group of people showed up to show off their robots . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the car show today .",
+        "there were a lot of animals on display .",
+        "this guy was the best part of the day .",
+        "a group of people showed up to show off their robots .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "I went to the car show today, there were a lot of animals too . This guy was the best part of the day, he was talking about how he restored his Fod Mustang. A group of people showed up to show their support . I had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the car show today , there were a lot of animals too .",
+        "this guy was the best part of the day , he was talking about how he restored his fod mustang .",
+        "a group of people showed up to show their support .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we went to the convention today . there were a lot of things to do . this guy on a segway was the best part of the day . a group of people showed up to show their support . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the convention today .",
+        "there were a lot of things to do .",
+        "this guy on a segway was the best part of the day .",
+        "a group of people showed up to show their support .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the car show today. There were a lot of neat technologies. \r There was a stuff animal that disguised as a laptop charger.  It was so cute. \r This guy was the best part of the day.  He was on the roller people mover apparatus.  There were robots there too. The kids had a blast with them.",
+      "normalized_edited_story_text_sent": [
+        "we went to the car show today .",
+        "there were a lot of neat technologies .",
+        "there was a stuff animal that disguised as a laptop charger .",
+        "it was so cute .",
+        "this guy was the best part of the day .",
+        "he was on the roller people mover apparatus .",
+        "there were robots there too .",
+        "the kids had a blast with them ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the technology show today. there were a lot of new gadgets and toys on display. i took pictures of some of the things i saw. i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the technology show today .",
+        "there were a lot of new gadgets and toys on display .",
+        "i took pictures of some of the things i saw .",
+        "i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "504823"
+}

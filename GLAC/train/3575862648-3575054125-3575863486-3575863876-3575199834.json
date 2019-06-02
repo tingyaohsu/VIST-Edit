@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "3575862648-3575054125-3575863486-3575863876-3575199834",
+  "photo_sequence_ids": [
+    "3575862648",
+    "3575054125",
+    "3575863486",
+    "3575863876",
+    "3575199834"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was about to begin . the crowd was excited . the players were ready for the game . the fans were cheering the team . the coach was interviewed .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the baseball game was about to begin . the crowd was excited . the players were ready for the game . the fans were cheering the team . the best team won .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to begin .",
+        "the crowd was excited .",
+        "the players were ready for the game .",
+        "the fans were cheering the team .",
+        "the best team won ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "Graduation day!  The weather was perfect temperature but the sun coming out would have been nice.  the speaker gave an inspiring speech to the graduates. Lisa and Mary had a nice time.",
+      "normalized_edited_story_text_sent": [
+        "graduation day !",
+        "the weather was perfect temperature but the sun coming out would have been nice .",
+        "the speaker gave an inspiring speech to the graduates .",
+        "[female] and [female] had a nice time ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the baseball game was about to start. the crowd was super excited . the players were ready for the game . the fans were cheering the team . the coach was interviewed .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to start .",
+        "the crowd was super excited .",
+        "the players were ready for the game .",
+        "the fans were cheering the team .",
+        "the coach was interviewed ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the football game was about to begin . the crowd was excited.",
+      "normalized_edited_story_text_sent": [
+        "the football game was about to begin .",
+        "the crowd was excited ."
+      ]
+    },
+    {
+      "worker_id": "A3CWW9DIL73I14",
+      "edited_story_text": "The baseball game was about to begin after the graduation ceremony. The crowd was excited to see the graduates. The players were ready for the game. People were cheering the team. The coach was interviewed.",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to begin after the graduation ceremony .",
+        "the crowd was excited to see the graduates .",
+        "the players were ready for the game .",
+        "people were cheering the team .",
+        "the coach was interviewed ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157618984682634",
+  "model": "GLAC"
+}

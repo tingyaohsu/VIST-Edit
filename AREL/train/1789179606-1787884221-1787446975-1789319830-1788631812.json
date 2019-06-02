@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "1789179606-1787884221-1787446975-1789319830-1788631812",
+  "photo_sequence_ids": [
+    "1789179606",
+    "1787884221",
+    "1787446975",
+    "1789319830",
+    "1788631812"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2120/1789179606_fc3f8d0677_o.jpg",
+    "https://farm3.staticflickr.com/2364/1787884221_166b38e23a_o.jpg",
+    "https://farm3.staticflickr.com/2082/1787446975_1b313b4962_o.jpg",
+    "https://farm3.staticflickr.com/2361/1789319830_930ff1f597_o.jpg",
+    "https://farm3.staticflickr.com/2135/1788631812_39b99c4c3f_o.jpg"
+  ],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of people there . the girls had fun dancing . some of the costumes were really cool . this was the best part of the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The Halloween party was a lot of fun. A lot of people were there! The girls had a lot of fun dancing, and some of the costumes were really cool, which was the best part of the party.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "a lot of people were there !",
+        "the girls had a lot of fun dancing , and some of the costumes were really cool , which was the best part of the party ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "The Halloween party was a lot of fun. The girls had a lot of fun dancing. Some of the costumes were really cool and creative. This was one of the best parties I\u0027ve ever been to.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "the girls had a lot of fun dancing .",
+        "some of the costumes were really cool and creative .",
+        "this was one of the best parties i \u0027ve ever been to ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The halloween party was a lot of fun. There were a lot of people there. Some of the costumes were really cool. The girls had fun dancing. This was the best part of the party.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people there .",
+        "some of the costumes were really cool .",
+        "the girls had fun dancing .",
+        "this was the best part of the party ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people there . everyone was dancing in their cool costumes.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone was dancing in their cool costumes ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the Halloween party was very fun . there were a lot of people there . the girls had fun dancing . some of the costumes were really cool . this was the best part of the party .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was very fun .",
+        "there were a lot of people there .",
+        "the girls had fun dancing .",
+        "some of the costumes were really cool .",
+        "this was the best part of the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157615947240780"
+}

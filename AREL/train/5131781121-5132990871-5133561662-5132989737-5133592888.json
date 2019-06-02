@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5131781121-5132990871-5133561662-5132989737-5133592888",
+  "photo_sequence_ids": [
+    "5131781121",
+    "5132990871",
+    "5133561662",
+    "5132989737",
+    "5133592888"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4125/5131781121_6a41270c3d_o.jpg",
+    "https://farm2.staticflickr.com/1047/5132990871_8e1dec3268_o.jpg",
+    "https://farm5.staticflickr.com/4029/5133561662_36e2144f3e_o.jpg",
+    "https://farm2.staticflickr.com/1163/5132989737_2b3062a23e_o.jpg",
+    "https://farm5.staticflickr.com/4069/5133592888_d714c52521_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a trip to location . it was a beautiful day in the city . the church was a beautiful church . we saw this building in the middle of the street . this is a picture of a park .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went on a trip to location . it was a beautiful day in the city . the church was a beautiful church that we saw . we saw this building in the middle of the street .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to location .",
+        "it was a beautiful day in the city .",
+        "the church was a beautiful church that we saw .",
+        "we saw this building in the middle of the street ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we traveled to a historic location . it was a beautiful day in the area . the church was a very pretty . we saw this building in the middle of the block . here is a photo of a park .",
+      "normalized_edited_story_text_sent": [
+        "we traveled to a historic location .",
+        "it was a beautiful day in the area .",
+        "the church was a very pretty .",
+        "we saw this building in the middle of the block .",
+        "here is a photo of a park ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went on a trip to local college. it was a beautiful day. there is a very historic church nearby. we all took pictures of the things we saw.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to local college .",
+        "it was a beautiful day .",
+        "there is a very historic church nearby .",
+        "we all took pictures of the things we saw ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went on a trip to location. It was a beautiful day in the city. The church was old and beautiful.  We saw this building in the middle of the street. The ground is polished and well manicured.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to location .",
+        "it was a beautiful day in the city .",
+        "the church was old and beautiful .",
+        "we saw this building in the middle of the street .",
+        "the ground is polished and well manicured ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went on a trip to [location]. It was a beautiful day outside. The historic church was very beautiful. There was a unique building right in the middle of the street. Then we went to the beautiful park.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to [location] .",
+        "it was a beautiful day outside .",
+        "the historic church was very beautiful .",
+        "there was a unique building right in the middle of the street .",
+        "then we went to the beautiful park ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625283215680"
+}

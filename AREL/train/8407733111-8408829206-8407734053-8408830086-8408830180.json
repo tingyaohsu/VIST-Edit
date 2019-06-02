@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "8407733111-8408829206-8407734053-8408830086-8408830180",
+  "photo_sequence_ids": [
+    "8407733111",
+    "8408829206",
+    "8407734053",
+    "8408830086",
+    "8408830180"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8049/8407733111_793595a438_o.jpg",
+    "https://farm9.staticflickr.com/8351/8408829206_b3898a492d_o.jpg",
+    "https://farm9.staticflickr.com/8079/8407734053_5d169d47b8_o.jpg",
+    "https://farm9.staticflickr.com/8378/8408830086_c98e0348ff_o.jpg",
+    "https://farm9.staticflickr.com/8235/8408830180_bbfc25c07d_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the protest last weekend . there were a lot of people in attendance . many people showed up to show their support . the protesters were very excited to be there . everyone had a great time at the event .",
+  "edited_stories": [
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "Last weekend we attended a protest where many people came to show their support. The attendance was large and the protestors were excited to be there. Everyone had a great time at the event.",
+      "normalized_edited_story_text_sent": [
+        "last weekend we attended a protest where many people came to show their support .",
+        "the attendance was large and the protestors were excited to be there .",
+        "everyone had a great time at the event ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "we went to the protest last weekend ago . there were a many people in attendance . many people appeared up to show their support . the protesters were extremely eager to be there . everyone had a awesome time at the event .",
+      "normalized_edited_story_text_sent": [
+        "we went to the protest last weekend ago .",
+        "there were a many people in attendance .",
+        "many people appeared up to show their support .",
+        "the protesters were extremely eager to be there .",
+        "everyone had a awesome time at the event ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "We went to the march last weekend. There were a lot of different people in attendance. Many people showed up just to show their support. The marchers were very excited to be there. Everyone had a great time at the event.",
+      "normalized_edited_story_text_sent": [
+        "we went to the march last weekend .",
+        "there were a lot of different people in attendance .",
+        "many people showed up just to show their support .",
+        "the marchers were very excited to be there .",
+        "everyone had a great time at the event ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to the protest last weekend. There were a lot of people there, a lot of people came to show their support. The protesters were very happy to be there, and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to the protest last weekend .",
+        "there were a lot of people there , a lot of people came to show their support .",
+        "the protesters were very happy to be there , and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to the protest last weekend . there were a lot of people there to show their support . the protesters were very excited to be there . everyone had a great time at the event .",
+      "normalized_edited_story_text_sent": [
+        "we went to the protest last weekend .",
+        "there were a lot of people there to show their support .",
+        "the protesters were very excited to be there .",
+        "everyone had a great time at the event ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632590003647"
+}

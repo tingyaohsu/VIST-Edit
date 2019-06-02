@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5322559402-5322561620-5322598036-5322004101-5322009179",
+  "photo_sequence_ids": [
+    "5322559402",
+    "5322561620",
+    "5322598036",
+    "5322004101",
+    "5322009179"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a birthday party . the kids were excited to see the cake . the children were happy . the family was all there . the baby was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the family got together to celebrate the Christmas holiday . the kids were excited to eat all the yummy snacks . the adults were enjoying the alcohol selection. the entire family was there, including baby [Maria] . [Maria] was oblivious to it all .",
+      "normalized_edited_story_text_sent": [
+        "the family got together to celebrate the christmas holiday .",
+        "the kids were excited to eat all the yummy snacks .",
+        "the adults were enjoying the alcohol selection .",
+        "the entire family was there , including baby [female] .",
+        "[female] was oblivious to it all ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family got together for a birthday party . the kids were excited to see the cake . the children were happy to get sweet. the family was all there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids were excited to see the cake .",
+        "the children were happy to get sweet .",
+        "the family was all there ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family got together for a Christmas party.  The kids were excited to open presents.  The family was all there and had some drinks together.  The family spent time together enjoying themselves.  Afterwards the children were tired and started to fall asleep on the couch with the ladies.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a christmas party .",
+        "the kids were excited to open presents .",
+        "the family was all there and had some drinks together .",
+        "the family spent time together enjoying themselves .",
+        "afterwards the children were tired and started to fall asleep on the couch with the ladies ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family got together for a birthday party . the kids were excited to see the cake . the children were happy . the family was having fun . everyone enjoyed themselves .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids were excited to see the cake .",
+        "the children were happy .",
+        "the family was having fun .",
+        "everyone enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My family got together for a birthday party. The kids were excited to see the cake and happy overall. All of the family was there. The baby was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "my family got together for a birthday party .",
+        "the kids were excited to see the cake and happy overall .",
+        "all of the family was there .",
+        "the baby was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625742513764",
+  "model": "GLAC"
+}

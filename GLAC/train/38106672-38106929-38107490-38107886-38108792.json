@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "38106672-38106929-38107490-38107886-38108792",
+  "photo_sequence_ids": [
+    "38106672",
+    "38106929",
+    "38107490",
+    "38107886",
+    "38108792"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they had a lot of fun . they had a great time . they played in the sand . they also had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family went to the beach . they all had a lot of fun . they played in the water . they played in the sand . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they all had a lot of fun .",
+        "they played in the water .",
+        "they played in the sand .",
+        "they had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went to the river . they had a lot of fun . they had a great time floating around. they played in the sand .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the river .",
+        "they had a lot of fun .",
+        "they had a great time floating around .",
+        "they played in the sand ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went to the beach . they had a lot of fun . they had a great time . they played in the water . they played silly water games .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they had a lot of fun .",
+        "they had a great time .",
+        "they played in the water .",
+        "they played silly water games ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the family went to the beach for a weekend of fun. They swam in the lake together. I they floated on rafts and smacked each other with noodles! It was great fun.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach for a weekend of fun .",
+        "they swam in the lake together .",
+        "i they floated on rafts and smacked each other with noodles !",
+        "it was great fun ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the family went to the lake. they had a lot of fun hanging out on the dock and playing with toys in the water. They swam and played around with one another in the sunshine.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake .",
+        "they had a lot of fun hanging out on the dock and playing with toys in the water .",
+        "they swam and played around with one another in the sunshine ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "846237",
+  "model": "GLAC"
+}

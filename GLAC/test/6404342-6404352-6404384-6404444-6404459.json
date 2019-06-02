@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "6404342-6404352-6404384-6404444-6404459",
+  "photo_sequence_ids": [
+    "6404342",
+    "6404352",
+    "6404384",
+    "6404444",
+    "6404459"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the meeting yesterday . there were a lot of people there . i had a great time . the speaker was very good . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "i had a great time at the office yesterday. there were a lot of new computers there. i had a great time installing the computers. the speaker on them were good but I needed to break for a tic tac . it was a lot of fun and I learned a lot .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the office yesterday .",
+        "there were a lot of new computers there .",
+        "i had a great time installing the computers .",
+        "the speaker on them were good but i needed to break for a tic tac .",
+        "it was a lot of fun and i learned a lot ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "i had a great time at the meeting yesterday . there were a lot of people there . i had a great time . the speaker was very good . it was a lot of fun .\r\rI enjoyed the meeting yesterday. There were so many people there. I had a fun time. I remember the speaker, was really good. It was so much fun!",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the meeting yesterday .",
+        "there were a lot of people there .",
+        "i had a great time .",
+        "the speaker was very good .",
+        "it was a lot of fun .",
+        "i enjoyed the meeting yesterday .",
+        "there were so many people there .",
+        "i had a fun time .",
+        "i remember the speaker , was really good .",
+        "it was so much fun !"
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We set up the school with their new computer network.  The students will love the new blue design!!!  We had fun doing this.",
+      "normalized_edited_story_text_sent": [
+        "we set up the school with their new computer network .",
+        "the students will love the new blue design !!!",
+        "we had fun doing this ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad i had a great time at the meeting yesterday . there were a lot of people there . i had a great time . the speaker was very good . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad i had a great time at the meeting yesterday .",
+        "there were a lot of people there .",
+        "i had a great time .",
+        "the speaker was very good .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "i had a great time at the meeting yesterday . on the way in, I noticed that the company was getting rid of a lot of old technology . talking to others at the meeting was interesting . they gave everyone mints for answering questions . when i left, I saw a boy on a computer .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the meeting yesterday .",
+        "on the way in , i noticed that the company was getting rid of a lot of old technology .",
+        "talking to others at the meeting was interesting .",
+        "they gave everyone mints for answering questions .",
+        "when i left , i saw a boy on a computer ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "159883",
+  "model": "GLAC"
+}

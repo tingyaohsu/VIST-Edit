@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4308260855-4309006912-4309008396-4309009162-4309004504",
+  "photo_sequence_ids": [
+    "4308260855",
+    "4309006912",
+    "4309008396",
+    "4309009162",
+    "4309004504"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a great time . the girls enjoyed the food . they had a good time . the whole family was there . the best part was the trip .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family got together for a trip . the girls enjoyed restaurant food . they had a fun time . the entire family attended . the best part was the trip to a palace by a pool .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a trip .",
+        "the girls enjoyed restaurant food .",
+        "they had a fun time .",
+        "the entire family attended .",
+        "the best part was the trip to a palace by a pool ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the friends got together for a great time . the men and women enjoyed the drinks . Families with children also had a good time . Some friends ate and drank. the best part of the day was walking by the water at night .",
+      "normalized_edited_story_text_sent": [
+        "the friends got together for a great time .",
+        "the men and women enjoyed the drinks .",
+        "families with children also had a good time .",
+        "some friends ate and drank .",
+        "the best part of the day was walking by the water at night ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a great time . the girls enjoyed the food . the guys talked sports and shared a lot of laughs. it was a grand night.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a great time .",
+        "the girls enjoyed the food .",
+        "the guys talked sports and shared a lot of laughs .",
+        "it was a grand night ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family got together for a great time . the girls enjoyed the food . they spent quality time . the whole family was there . the best part was the trip .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a great time .",
+        "the girls enjoyed the food .",
+        "they spent quality time .",
+        "the whole family was there .",
+        "the best part was the trip ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the family got together for a street meal. we enjoyed the drinks . we had a good time . the whole family was there . the best part was the trip .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a street meal .",
+        "we enjoyed the drinks .",
+        "we had a good time .",
+        "the whole family was there .",
+        "the best part was the trip ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623169361399",
+  "model": "GLAC"
+}

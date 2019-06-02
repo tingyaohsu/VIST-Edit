@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4952492436-4951900811-4952492218-4952493476-4952493306",
+  "photo_sequence_ids": [
+    "4952492436",
+    "4951900811",
+    "4952492218",
+    "4952493476",
+    "4952493306"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was very exciting . the players were very good . the teams were very talented . the fans were really excited . the cheerleaders were the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the basketball game was very exciting . the teams played hard and each player was very talented and skillful in shooting, defense and rebounds . the teams were very competitive against each other . the fans cheered wildly in support of their favored team . the cheerleaders were the best .\r\r\r\rthe baseball game was very exciting . the players were very good . the teams were very talented . the fans were really excited . the cheerleaders were the best .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was very exciting .",
+        "the teams played hard and each player was very talented and skillful in shooting , defense and rebounds .",
+        "the teams were very competitive against each other .",
+        "the fans cheered wildly in support of their favored team .",
+        "the cheerleaders were the best .",
+        "the baseball game was very exciting .",
+        "the players were very good .",
+        "the teams were very talented .",
+        "the fans were really excited .",
+        "the cheerleaders were the best ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary was glad the baseball game was very exciting . the players were very good . the teams were very talented . the fans were really excited . the cheerleaders were the best .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the baseball game was very exciting .",
+        "the players were very good .",
+        "the teams were very talented .",
+        "the fans were really excited .",
+        "the cheerleaders were the best ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the basketball game was very exciting, the players were very good ,the teams were very talented ,the fans were really excited . People cheered the teams on.",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was very exciting , the players were very good , the teams were very talented , the fans were really excited .",
+        "people cheered the teams on ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the basketball game was very exciting .  The score was so close for most of the game.  Lots of cheering from the stands.  The last shot was great and clinched the game!",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was very exciting .",
+        "the score was so close for most of the game .",
+        "lots of cheering from the stands .",
+        "the last shot was great and clinched the game !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the baseball game was very exciting . The players jumped and fought for the ball. The crowd went wild. It was a great game.",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was very exciting .",
+        "the players jumped and fought for the ball .",
+        "the crowd went wild .",
+        "it was a great game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207406112",
+  "model": "GLAC"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4432831058-4432058695-4432832274-4432833614-4432061647",
+  "photo_sequence_ids": [
+    "4432831058",
+    "4432058695",
+    "4432832274",
+    "4432833614",
+    "4432061647"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was ready for the show . the first act was the lead singer . the crowd was excited . the drummer was very talented . the performance was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The people gathered around the table. There was a large machine. They demonstrated for everyone.",
+      "normalized_edited_story_text_sent": [
+        "the people gathered around the table .",
+        "there was a large machine .",
+        "they demonstrated for everyone ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The band was getting ready for the show.  Enjoyed the event today after we all got ready.",
+      "normalized_edited_story_text_sent": [
+        "the band was getting ready for the show .",
+        "enjoyed the event today after we all got ready ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the crowd was excited . the engineer was very talented . the robots were amazing and the performance was a success .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited .",
+        "the engineer was very talented .",
+        "the robots were amazing and the performance was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the band was ready to play . the lead singer acted first . the crowd was thrown into excitement . the drummer was very skilled . the performance was a big success .",
+      "normalized_edited_story_text_sent": [
+        "the band was ready to play .",
+        "the lead singer acted first .",
+        "the crowd was thrown into excitement .",
+        "the drummer was very skilled .",
+        "the performance was a big success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the robot was really impressive. it was interesting to see it in action. i also got to witness races.",
+      "normalized_edited_story_text_sent": [
+        "the robot was really impressive .",
+        "it was interesting to see it in action .",
+        "i also got to witness races ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623618977978",
+  "model": "GLAC"
+}

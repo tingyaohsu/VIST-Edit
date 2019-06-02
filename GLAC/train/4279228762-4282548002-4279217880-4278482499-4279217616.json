@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4279228762-4282548002-4279217880-4278482499-4279217616",
+  "photo_sequence_ids": [
+    "4279228762",
+    "4282548002",
+    "4279217880",
+    "4278482499",
+    "4279217616"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the local park . there was a lot of snow . the roads were covered in snow . the trees were covered with snow . the tree was also a big sight .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the buildings were covered in snow . there was a lot of snow . the roads were covered in snow . the trees were covered with snow . the snowman was also a big sight .",
+      "normalized_edited_story_text_sent": [
+        "the buildings were covered in snow .",
+        "there was a lot of snow .",
+        "the roads were covered in snow .",
+        "the trees were covered with snow .",
+        "the snowman was also a big sight ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "we went to the local park. there was a lot of snow on the ground . the roads were covered in snow . the trees were covered with snow . the snowman was also a big sight .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park .",
+        "there was a lot of snow on the ground .",
+        "the roads were covered in snow .",
+        "the trees were covered with snow .",
+        "the snowman was also a big sight ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the local park . there was a lot of snow . the roads were covered in snow . the trees were covered with snow . there was a large snowman.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park .",
+        "there was a lot of snow .",
+        "the roads were covered in snow .",
+        "the trees were covered with snow .",
+        "there was a large snowman ."
+      ]
+    },
+    {
+      "worker_id": "A32AFV5GNN54WX",
+      "edited_story_text": "We went to the local park and there was a lot of snow . The roads and trees were covered in snow . Also the trees were a beautiful sight.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park and there was a lot of snow .",
+        "the roads and trees were covered in snow .",
+        "also the trees were a beautiful sight ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "We went to the local park and there was snow everywhere, even the road and the trees! The tree was also a big sight, too, I didn\u0027t expect that.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local park and there was snow everywhere , even the road and the trees !",
+        "the tree was also a big sight , too , i did n\u0027t expect that ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623221299462",
+  "model": "GLAC"
+}

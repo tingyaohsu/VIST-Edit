@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4242363169-4243136776-4242364459-4243138084-4243138496",
+  "photo_sequence_ids": [
+    "4242363169",
+    "4243136776",
+    "4242364459",
+    "4243138084",
+    "4243138496"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4057/4242363169_255504969c_o.jpg",
+    "https://farm3.staticflickr.com/2759/4243136776_feaa2ec9e4_o.jpg",
+    "https://farm5.staticflickr.com/4030/4242364459_a0e50b0129_o.jpg",
+    "https://farm5.staticflickr.com/4044/4243138084_252eea49e1_o.jpg",
+    "https://farm3.staticflickr.com/2678/4243138496_30a74235cd_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to see the band at the concert . the lead singer had a great time . the drummer was really good . the band played a lot of songs . the night ended with a solo .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "We went to see the band. The lead singer had a great time. The drummer was really good. The band played a lot of songs . The night ended with a nice guitar solo.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the band .",
+        "the lead singer had a great time .",
+        "the drummer was really good .",
+        "the band played a lot of songs .",
+        "the night ended with a nice guitar solo ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "We went to the concert to see my friend\u0027s band. the lead singer was really good. the drummer was excellent as well. the band played a lot of songs. the concert ended with my friend playing a guitar solo.",
+      "normalized_edited_story_text_sent": [
+        "we went to the concert to see my friend \u0027s band .",
+        "the lead singer was really good .",
+        "the drummer was excellent as well .",
+        "the band played a lot of songs .",
+        "the concert ended with my friend playing a guitar solo ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we go to see the band at the concert . the lead singer have a great time . the drummer were really good . the band play a lot of songs . the night end with a solo .",
+      "normalized_edited_story_text_sent": [
+        "we go to see the band at the concert .",
+        "the lead singer have a great time .",
+        "the drummer were really good .",
+        "the band play a lot of songs .",
+        "the night end with a solo ."
+      ]
+    },
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "we went to see the band in concert . the lead singer had also played bongos . the guitarist was really good . the band played a lot of songs . the night ended with a guitar solo .",
+      "normalized_edited_story_text_sent": [
+        "we went to see the band in concert .",
+        "the lead singer had also played bongos .",
+        "the guitarist was really good .",
+        "the band played a lot of songs .",
+        "the night ended with a guitar solo ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we visited the band at the concert . the lead singer had fun . the drummer was awesome . the band played many songs . the night ended with a guitar solo .",
+      "normalized_edited_story_text_sent": [
+        "we visited the band at the concert .",
+        "the lead singer had fun .",
+        "the drummer was awesome .",
+        "the band played many songs .",
+        "the night ended with a guitar solo ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623133202486"
+}

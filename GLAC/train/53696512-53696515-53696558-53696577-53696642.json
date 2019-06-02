@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "53696512-53696515-53696558-53696577-53696642",
+  "photo_sequence_ids": [
+    "53696512",
+    "53696515",
+    "53696558",
+    "53696577",
+    "53696642"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very nice . the police were in the accident . the man was happy to be there . the soldiers were all ready . the horses were the last .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "a lot of people came out to the work meeting",
+      "normalized_edited_story_text_sent": [
+        "a lot of people came out to the work meeting"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the car was very nice . the police were in the accident . the man was happy to be there . the soldiers were all ready . the horses were the last .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the car was very nice .",
+        "the police were in the accident .",
+        "the man was happy to be there .",
+        "the soldiers were all ready .",
+        "the horses were the last ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Even though the weather was bad, our truck of supplies still made it through.  Here are all the drivers that delivered goods to the needy today.",
+      "normalized_edited_story_text_sent": [
+        "even though the weather was bad , our truck of supplies still made it through .",
+        "here are all the drivers that delivered goods to the needy today ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the car was very nice . the tow truck was waiting . the man was happy to be there . the workers were all ready . the trucks were lined up .",
+      "normalized_edited_story_text_sent": [
+        "the car was very nice .",
+        "the tow truck was waiting .",
+        "the man was happy to be there .",
+        "the workers were all ready .",
+        "the trucks were lined up ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The car drove in the rain on the street. The man talked to the man in the red truck. The men posed with red hats on. The truck was loaded.",
+      "normalized_edited_story_text_sent": [
+        "the car drove in the rain on the street .",
+        "the man talked to the man in the red truck .",
+        "the men posed with red hats on .",
+        "the truck was loaded ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1164233",
+  "model": "GLAC"
+}

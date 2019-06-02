@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "34042338-34041934-34042144-34041643-34041333",
+  "photo_sequence_ids": [
+    "34042338",
+    "34041934",
+    "34042144",
+    "34041643",
+    "34041333"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/21/34042338_cab2761de4_o.jpg",
+    "https://farm1.staticflickr.com/22/34041934_ef8fe51dcc_o.jpg",
+    "https://farm1.staticflickr.com/21/34042144_6d01b40cf7_o.jpg",
+    "https://farm1.staticflickr.com/22/34041643_61910492ae_o.jpg",
+    "https://farm1.staticflickr.com/22/34041333_11d2be54d2_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family was getting ready for the party . the house is set up for the party . the family is having a great time at the party . i had a great time . the birthday boy was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family was getting ready for the party . the backyard is set up for the party . the family is having a great time at the party . i had a great time. the graduate was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family was getting ready for the party .",
+        "the backyard is set up for the party .",
+        "the family is having a great time at the party .",
+        "i had a great time .",
+        "the graduate was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the family was getting ready for the party . the yard was set up for the party . the family had a great time at the party . the cakes were beautiful . the birthday boy was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family was getting ready for the party .",
+        "the yard was set up for the party .",
+        "the family had a great time at the party .",
+        "the cakes were beautiful .",
+        "the birthday boy was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "the family was getting ready for the party . we setup the backyard to get ready, the family had a great time!  we made cakes to celebrate, the birthday boy really enjoyed it.",
+      "normalized_edited_story_text_sent": [
+        "the family was getting ready for the party .",
+        "we setup the backyard to get ready , the family had a great time !",
+        "we made cakes to celebrate , the birthday boy really enjoyed it ."
+      ]
+    },
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "the family was getting ready for the party . the back yard is set up for the party . the family is having a great time at the party . i had a great time . the birthday boy seemed happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family was getting ready for the party .",
+        "the back yard is set up for the party .",
+        "the family is having a great time at the party .",
+        "i had a great time .",
+        "the birthday boy seemed happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "The family was in the kitchen preparing food for the party. The backyard was set up with tables \u0026 chairs. So many people showed up for the party. I had so much fun. The birthday boy fully enjoyed his cake \u0026 a beer.",
+      "normalized_edited_story_text_sent": [
+        "the family was in the kitchen preparing food for the party .",
+        "the backyard was set up with tables \u0026 chairs .",
+        "so many people showed up for the party .",
+        "i had so much fun .",
+        "the birthday boy fully enjoyed his cake \u0026 a beer ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "754408"
+}

@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4248618367-4249392926-4248618103-4249392660-4249392198",
+  "photo_sequence_ids": [
+    "4248618367",
+    "4249392926",
+    "4248618103",
+    "4249392660",
+    "4249392198"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the beach . the sun was setting and the sky was clear . the day was beautiful . the trees were very pretty . the sunset was a sight to behold .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went on a trip to the beach . the sun was setting and the sky was clear . the snow covered the ground . the trees were very pretty . the sunset was a sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "the sun was setting and the sky was clear .",
+        "the snow covered the ground .",
+        "the trees were very pretty .",
+        "the sunset was a sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family went on a trip to the lake . the sun was setting and the sky was cloudy over the snow covered area . the day was beautiful . the trees were very pretty capped with snow. the sunset was a sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the lake .",
+        "the sun was setting and the sky was cloudy over the snow covered area .",
+        "the day was beautiful .",
+        "the trees were very pretty capped with snow .",
+        "the sunset was a sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the family went on a trip to the lake . the lake was frozen and everything was covered in snow. The family took a stroll around the lake.  the sun was setting and the sky was clear . the day was beautiful . the sunset was a sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the lake .",
+        "the lake was frozen and everything was covered in snow .",
+        "the family took a stroll around the lake .",
+        "the sun was setting and the sky was clear .",
+        "the day was beautiful .",
+        "the sunset was a sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The family went on a trip to the beach. The sun was setting and the sky was clear. The day was beautiful and the trees were very pretty. The sunset was a beautiful sight to behold.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "the sun was setting and the sky was clear .",
+        "the day was beautiful and the trees were very pretty .",
+        "the sunset was a beautiful sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the family went on a trip to the beach, here is what the beach looks like in the winter . the sun was setting and the sky was clear, you could see for miles . the day was beautiful so we decided to walk down the snow covered path . the trees were very pretty with the reflection of the sun shining on the branches . the sunset was a sight to behold, there is just something about sunsets that make me feel calm .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach , here is what the beach looks like in the winter .",
+        "the sun was setting and the sky was clear , you could see for miles .",
+        "the day was beautiful so we decided to walk down the snow covered path .",
+        "the trees were very pretty with the reflection of the sun shining on the branches .",
+        "the sunset was a sight to behold , there is just something about sunsets that make me feel calm ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623023149795",
+  "model": "GLAC"
+}

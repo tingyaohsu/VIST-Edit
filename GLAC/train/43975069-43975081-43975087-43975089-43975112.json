@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "43975069-43975081-43975087-43975089-43975112",
+  "photo_sequence_ids": [
+    "43975069",
+    "43975081",
+    "43975087",
+    "43975089",
+    "43975112"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the family was so happy to be married . the couple was very excited . the reception was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "I attended a beautiful wedding today.  The bride and groom were very happy.  I attended the wedding reception afterwards which everyone enjoyed.",
+      "normalized_edited_story_text_sent": [
+        "i attended a beautiful wedding today .",
+        "the bride and groom were very happy .",
+        "i attended the wedding reception afterwards which everyone enjoyed ."
+      ]
+    },
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "What a beautiful day sharing in the love of John \u0026 Maria!  The best man speech was priceless and check out that cake....yummy.",
+      "normalized_edited_story_text_sent": [
+        "what a beautiful day sharing in the love of [male] \u0026 [female] !",
+        "the best man speech was priceless and check out that cake ... yummy ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the wedding was wondrous . the bride and groom were delighted and delightful . the family was proud for the marriage . the couple beaming and ready to start an new family of their own . the reception hit all the top notes .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was wondrous .",
+        "the bride and groom were delighted and delightful .",
+        "the family was proud for the marriage .",
+        "the couple beaming and ready to start an new family of their own .",
+        "the reception hit all the top notes ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was beautiful . the bride and groom had a wonderful time . the family was glad to be at the wedding . the couple had fun with the cake . the reception was a success .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom had a wonderful time .",
+        "the family was glad to be at the wedding .",
+        "the couple had fun with the cake .",
+        "the reception was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the wedding was beautiful and everyone had fun . the bride and groom were very happy that everything went smooth . the family was so happy to be married and were ready for their honeymoon . the couple was very excited and couldn\u0027t wait for the reception . the reception was a success due to all the good food .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful and everyone had fun .",
+        "the bride and groom were very happy that everything went smooth .",
+        "the family was so happy to be married and were ready for their honeymoon .",
+        "the couple was very excited and could n\u0027t wait for the reception .",
+        "the reception was a success due to all the good food ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "962352",
+  "model": "GLAC"
+}

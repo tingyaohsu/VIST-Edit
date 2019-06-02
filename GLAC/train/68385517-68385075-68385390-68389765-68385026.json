@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "68385517-68385075-68385390-68389765-68385026",
+  "photo_sequence_ids": [
+    "68385517",
+    "68385075",
+    "68385390",
+    "68389765",
+    "68385026"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a party . they had a lot of fun . they had lots of fun . they had a great time . they had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a party . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a party .",
+        "they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the party was so much fun. everyone sat around making crazy hats, and then we took pictures. it was so funny seeing the contrast between the beautiful place settings and our silly looks. it was the perfect combination!",
+      "normalized_edited_story_text_sent": [
+        "the party was so much fun .",
+        "everyone sat around making crazy hats , and then we took pictures .",
+        "it was so funny seeing the contrast between the beautiful place settings and our silly looks .",
+        "it was the perfect combination !"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the family was having a party . they had a lot of fun . they had lots of fun . they had a great time . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family was having a party .",
+        "they had a lot of fun .",
+        "they had lots of fun .",
+        "they had a great time .",
+        "they had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The table was set and the nice clothes were being worn. The family gathered in the living room and made Native American headdresses for everyone to wear, even the little ones. Everyone wore them while enjoying the meal.",
+      "normalized_edited_story_text_sent": [
+        "the table was set and the nice clothes were being worn .",
+        "the family gathered in the living room and made native american headdresses for everyone to wear , even the little ones .",
+        "everyone wore them while enjoying the meal ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was having a party The table was set. She was ready in her dress. They wore funny hats. They enjoyed a meal.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a party the table was set .",
+        "she was ready in her dress .",
+        "they wore funny hats .",
+        "they enjoyed a meal ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1475214",
+  "model": "GLAC"
+}

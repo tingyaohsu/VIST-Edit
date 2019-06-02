@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "23755094-23755303-23755304-23898908-23755484",
+  "photo_sequence_ids": [
+    "23755094",
+    "23755303",
+    "23755304",
+    "23898908",
+    "23755484"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the 4th of july celebration . the kids enjoyed the food . the kids were having a great time . the whole family was there . the little girl was so happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the family gathered for the 4th of july celebration . the kids enjoyed the food and were having a great time . the whole family was there enjoying one another\u0027s company. David showed off his tattoos, too.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the 4th of july celebration .",
+        "the kids enjoyed the food and were having a great time .",
+        "the whole family was there enjoying one another \u0027s company .",
+        "[male] showed off his tattoos , too ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "The family gathered for the 4th of July celebration. The folks enjoyed the park. We had a great time. The whole family was there. David was so happy to show off his tattoos.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the 4th of july celebration .",
+        "the folks enjoyed the park .",
+        "we had a great time .",
+        "the whole family was there .",
+        "[male] was so happy to show off his tattoos ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the family gathered for the 4th of july celebration . the kids enjoyed the food and had a great time . the whole family was there chatting, taking photos and showing off their tattoos . our little girl was so happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the 4th of july celebration .",
+        "the kids enjoyed the food and had a great time .",
+        "the whole family was there chatting , taking photos and showing off their tattoos .",
+        "our little girl was so happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A7NZ814Q5MX2R",
+      "edited_story_text": "our family got together to celebrate the 4th of july. we all enjoyed the food. the kids had a great time. the whole family was there. the little girl was so happy to see everybody.",
+      "normalized_edited_story_text_sent": [
+        "our family got together to celebrate the 4th of july .",
+        "we all enjoyed the food .",
+        "the kids had a great time .",
+        "the whole family was there .",
+        "the little girl was so happy to see everybody ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family gathered for the 4th of July celebration . My kids enjoyed the food . My kids were having a great time . My whole family was there . My little girl was so happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "my family gathered for the 4th of july celebration .",
+        "my kids enjoyed the food .",
+        "my kids were having a great time .",
+        "my whole family was there .",
+        "my little girl was so happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "544979",
+  "model": "GLAC"
+}

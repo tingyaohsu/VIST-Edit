@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "6630054875-6630055683-6630056949-6630063757-6630064553",
+  "photo_sequence_ids": [
+    "6630054875",
+    "6630055683",
+    "6630056949",
+    "6630063757",
+    "6630064553"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7164/6630054875_31752dbf76_o.jpg",
+    "https://farm8.staticflickr.com/7159/6630055683_3a2363a544_o.jpg",
+    "https://farm8.staticflickr.com/7027/6630056949_4a3d9c0fc1_o.jpg",
+    "https://farm8.staticflickr.com/7170/6630063757_30964b8fac_o.jpg",
+    "https://farm8.staticflickr.com/7015/6630064553_974cb670f6_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to the city . the view from the bridge was amazing . it was a very cold day . we had a lot of fun at the conference . we had a great time and we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We took a trip to [location]. The view from the high bridge was pretty neat. It was a cold and dry day. Afterwards, we went to the conference. We listened carefully and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to [location] .",
+        "the view from the high bridge was pretty neat .",
+        "it was a cold and dry day .",
+        "afterwards , we went to the conference .",
+        "we listened carefully and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we took a trip to the city . the view from the bridge was amazing . it was a very cold day . we learned a lot at the conference . it was well worth it .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the city .",
+        "the view from the bridge was amazing .",
+        "it was a very cold day .",
+        "we learned a lot at the conference .",
+        "it was well worth it ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "We took a trip to the city and stood under an overpass. The view from the top of the bridge was amazing. It was a very cold day but we had a lot of fun at the conference we attended. We had a great time and we learned a lot.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the city and stood under an overpass .",
+        "the view from the top of the bridge was amazing .",
+        "it was a very cold day but we had a lot of fun at the conference we attended .",
+        "we had a great time and we learned a lot ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we took a trip to the city and looked around . the view of the buildings from the bridge was amazing . it was a very cold day, but the weather was fair . we had a lot of fun and learned a lot at the conference . it was quite enjoyable for the attendees .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the city and looked around .",
+        "the view of the buildings from the bridge was amazing .",
+        "it was a very cold day , but the weather was fair .",
+        "we had a lot of fun and learned a lot at the conference .",
+        "it was quite enjoyable for the attendees ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we took a trip to the city . the view from the bridge was amazing . it was a very cold day . we had a great time at the conference .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the city .",
+        "the view from the bridge was amazing .",
+        "it was a very cold day .",
+        "we had a great time at the conference ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628703718831"
+}

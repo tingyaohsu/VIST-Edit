@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5705008408-5705009668-5705011236-5704448107-5713707815",
+  "photo_sequence_ids": [
+    "5705008408",
+    "5705009668",
+    "5705011236",
+    "5704448107",
+    "5713707815"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2699/5705008408_0514ba0076_o.jpg",
+    "https://farm4.staticflickr.com/3146/5705009668_2a0e9f2905_o.jpg",
+    "https://farm4.staticflickr.com/3216/5705011236_7794fefaaf_o.jpg",
+    "https://farm3.staticflickr.com/2231/5704448107_27f3d5f1fc_o.jpg",
+    "https://farm4.staticflickr.com/3465/5713707815_4ab30d9e3d_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the museum . i had a great time there . this is a picture of a sign . they had a lot of information to choose from . we went back to the museum and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the museum . this is a picture of a sign . they had a lot of information . later, we went back to the museum again and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the museum .",
+        "this is a picture of a sign .",
+        "they had a lot of information .",
+        "later , we went back to the museum again and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "The museum  was  very informative  and  easy to  get around  .  they had  several different  displays",
+      "normalized_edited_story_text_sent": [
+        "the museum was very informative and easy to get around .",
+        "they had several different displays"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We all went to the museum. I had a great time seeing the different exhibits. Every exhibit had lots of information to read. There were plenty of old newspaper articles on the walls. We had a great time and would love to go back again.",
+      "normalized_edited_story_text_sent": [
+        "we all went to the museum .",
+        "i had a great time seeing the different exhibits .",
+        "every exhibit had lots of information to read .",
+        "there were plenty of old newspaper articles on the walls .",
+        "we had a great time and would love to go back again ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the museum. Here is a picture of a sign. They had a lot of information to choose from. Later, we went back to the museum and had a good time again.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the museum .",
+        "here is a picture of a sign .",
+        "they had a lot of information to choose from .",
+        "later , we went back to the museum and had a good time again ."
+      ]
+    },
+    {
+      "worker_id": "A3M42ZQTKMCF5Y",
+      "edited_story_text": "We had a great time at the museum, even I had a great time there. This is a picture of a some exhibits. The exhibits had a lot of information to choose from. We went back to the museum and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the museum , even i had a great time there .",
+        "this is a picture of a some exhibits .",
+        "the exhibits had a lot of information to choose from .",
+        "we went back to the museum and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626713239724"
+}

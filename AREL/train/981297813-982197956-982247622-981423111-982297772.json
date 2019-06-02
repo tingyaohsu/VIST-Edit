@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "981297813-982197956-982247622-981423111-982297772",
+  "photo_sequence_ids": [
+    "981297813",
+    "982197956",
+    "982247622",
+    "981423111",
+    "982297772"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1035/981297813_4ddcce8bbc_o.jpg",
+    "https://farm2.staticflickr.com/1205/982197956_f427e620e5_o.jpg",
+    "https://farm2.staticflickr.com/1157/982247622_11b191787e_o.jpg",
+    "https://farm2.staticflickr.com/1434/981423111_2e8b64900c_o.jpg",
+    "https://farm2.staticflickr.com/1402/982297772_1e884261dc_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a lot of work to do . some of them were very good . there was a lot of wood . then we set up a project for the kids to get to work . we all had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we have a lot of work to do . some of them are very good . there is a lot of wood . then we set up a project for the kids to got to work . we all have a great time .",
+      "normalized_edited_story_text_sent": [
+        "we have a lot of work to do .",
+        "some of them are very good .",
+        "there is a lot of wood .",
+        "then we set up a project for the kids to got to work .",
+        "we all have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a lot of work to do to get the cart ready for the kids. some of the kids were very helpful. the project was a big success. we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of work to do to get the cart ready for the kids .",
+        "some of the kids were very helpful .",
+        "the project was a big success .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a lot of work to do. Some people were really good at it. We worked with a lot of wood. We also set up a project for the kids to work on. We all had a great time!",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of work to do .",
+        "some people were really good at it .",
+        "we worked with a lot of wood .",
+        "we also set up a project for the kids to work on .",
+        "we all had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We helped the kids make carts. They were meant to be part of a toy train. The kids decorated them. They also used drills. We helped them only a little.",
+      "normalized_edited_story_text_sent": [
+        "we helped the kids make carts .",
+        "they were meant to be part of a toy train .",
+        "the kids decorated them .",
+        "they also used drills .",
+        "we helped them only a little ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "the kids worked with the adults on the project . the kids learned how to use power tools  . the kids decorated their projects . then we connected all of the individual cars that the kids worked on . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids worked with the adults on the project .",
+        "the kids learned how to use power tools .",
+        "the kids decorated their projects .",
+        "then we connected all of the individual cars that the kids worked on .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157601163302429"
+}

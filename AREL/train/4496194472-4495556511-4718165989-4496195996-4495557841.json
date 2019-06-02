@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4496194472-4495556511-4718165989-4496195996-4495557841",
+  "photo_sequence_ids": [
+    "4496194472",
+    "4495556511",
+    "4718165989",
+    "4496195996",
+    "4495557841"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2728/4496194472_310e92aef7_o.jpg",
+    "https://farm5.staticflickr.com/4067/4495556511_b9005e0bed_o.jpg",
+    "https://farm5.staticflickr.com/4061/4718165989_2b0eb5772e_o.jpg",
+    "https://farm3.staticflickr.com/2723/4496195996_72f2f1a334_o.jpg",
+    "https://farm5.staticflickr.com/4049/4495557841_90b0a06f5a_o.jpg"
+  ],
+  "auto_story_text_normalized": "my friends and i went to the party last night . there was a lot of food at the party . we had a lot of people there . everyone was having a great time . i \u0027m so glad i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We attended a wedding. It was at a church. There were people of different ages there. We got together at home afterwards. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we attended a wedding .",
+        "it was at a church .",
+        "there were people of different ages there .",
+        "we got together at home afterwards .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "My friends and I went to a party last night, tons of food and people there, so glad I went. Had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party last night , tons of food and people there , so glad i went .",
+        "had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a party last night.  There was a lot of people and great food.  We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a party last night .",
+        "there was a lot of people and great food .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the baby\u0027s christening.  It was a very nice ceremony.  It was held in a big church.  Mom and dad were so happy.  Grandma was there too. Afterward we came home and had a little party.  Everyone was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to the baby \u0027s christening .",
+        "it was a very nice ceremony .",
+        "it was held in a big church .",
+        "mom and dad were so happy .",
+        "grandma was there too .",
+        "afterward we came home and had a little party .",
+        "everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "my friends and i went to the birthday party last night. there was a lot of food, and a lot of people showed up. all of her relatives came. we had a good time together.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to the birthday party last night .",
+        "there was a lot of food , and a lot of people showed up .",
+        "all of her relatives came .",
+        "we had a good time together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623782056916"
+}

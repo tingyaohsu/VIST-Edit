@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "6614446053-6614626185-6615195273-6615265475-6615298289",
+  "photo_sequence_ids": [
+    "6614446053",
+    "6614626185",
+    "6615195273",
+    "6615265475",
+    "6615298289"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very nice . the cars were so cool . the yellow one was a bit too much . the race was about to begin . the race was over .",
+  "edited_stories": [
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the new car was very nice . the red truck and cars were so cool . the yellow one was a bit too yellow . the race to the finish line was about to begin . the race was over and we won.",
+      "normalized_edited_story_text_sent": [
+        "the new car was very nice .",
+        "the red truck and cars were so cool .",
+        "the yellow one was a bit too yellow .",
+        "the race to the finish line was about to begin .",
+        "the race was over and we won ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We got rid our our horses so now we can use the trailer to host picnics.  Check out these great shots of the renovation.",
+      "normalized_edited_story_text_sent": [
+        "we got rid our our horses so now we can use the trailer to host picnics .",
+        "check out these great shots of the renovation ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the mobile house was very nice . the cars were so cool . they had lunch inside there . the race was about to begin . the race was funny .",
+      "normalized_edited_story_text_sent": [
+        "the mobile house was very nice .",
+        "the cars were so cool .",
+        "they had lunch inside there .",
+        "the race was about to begin .",
+        "the race was funny ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was excited for the upcoming road trip. food was prepared and smiles were everywhere.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the upcoming road trip .",
+        "food was prepared and smiles were everywhere ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the car was very nice . the cars were so cool . the yellow one was a bit too much . the race was about to begin . the race was over .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the car was very nice .",
+        "the cars were so cool .",
+        "the yellow one was a bit too much .",
+        "the race was about to begin .",
+        "the race was over ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628667758209",
+  "model": "GLAC"
+}

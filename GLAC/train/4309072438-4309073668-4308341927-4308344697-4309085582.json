@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4309072438-4309073668-4308341927-4308344697-4309085582",
+  "photo_sequence_ids": [
+    "4309072438",
+    "4309073668",
+    "4308341927",
+    "4308344697",
+    "4309085582"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the football game was a great success . the players were very good . they were really good . the cheerleaders were very talented . the team was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the basketball game was a great success. our team played very good  . the cheerleaders were very talented . out team was the best. we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a great success .",
+        "our team played very good .",
+        "the cheerleaders were very talented .",
+        "out team was the best .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the basketball game was a great success . the players were very good .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a great success .",
+        "the players were very good ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the basketball game was a great success . the cheerleaders came to the court and did a great job. their routine was very interesting. the players were very good. both the teams played very well. the white team won the game.",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a great success .",
+        "the cheerleaders came to the court and did a great job .",
+        "their routine was very interesting .",
+        "the players were very good .",
+        "both the teams played very well .",
+        "the white team won the game ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the basketball game was a great success . the players were very good . they were really good . the cheerleaders were very talented . the team was the best .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a great success .",
+        "the players were very good .",
+        "they were really good .",
+        "the cheerleaders were very talented .",
+        "the team was the best ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the basketball game was a great success as it was a sell out . the players were very good and won the game easily . they were really good that they qualified for the regional tournament . the cheerleaders were very talented as they danced . the team was the best in the county .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a great success as it was a sell out .",
+        "the players were very good and won the game easily .",
+        "they were really good that they qualified for the regional tournament .",
+        "the cheerleaders were very talented as they danced .",
+        "the team was the best in the county ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623294550334",
+  "model": "GLAC"
+}

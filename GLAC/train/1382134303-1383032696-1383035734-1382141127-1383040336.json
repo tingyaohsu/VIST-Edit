@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "1382134303-1383032696-1383035734-1382141127-1383040336",
+  "photo_sequence_ids": [
+    "1382134303",
+    "1383032696",
+    "1383035734",
+    "1382141127",
+    "1383040336"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the museum . there were a lot of old buildings . the building was very big . the people were walking around . the bridge was huge .",
+  "edited_stories": [
+    {
+      "worker_id": "A3B7Z7LVOM0ULG",
+      "edited_story_text": "I visited a quaint village today.  there were a lot of old buildings . i went to the museum, which was very big . there were several people were walking around . the main bridge was huge .",
+      "normalized_edited_story_text_sent": [
+        "i visited a quaint village today .",
+        "there were a lot of old buildings .",
+        "i went to the museum , which was very big .",
+        "there were several people were walking around .",
+        "the main bridge was huge ."
+      ]
+    },
+    {
+      "worker_id": "A2ZDXFFGSPHGBE",
+      "edited_story_text": "i went to the museum . it was a big building amongst many old buildings . the people were walking around . the bridge was huge .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum .",
+        "it was a big building amongst many old buildings .",
+        "the people were walking around .",
+        "the bridge was huge ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "I went to the museum. There were a lot of old buildings. This building was very big. The people were walking around. The bridge was huge.",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum .",
+        "there were a lot of old buildings .",
+        "this building was very big .",
+        "the people were walking around .",
+        "the bridge was huge ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "i went to the museum . there were a lot of neat old buildings . the building was very tall . the people were walking around . the bridge was huge .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum .",
+        "there were a lot of neat old buildings .",
+        "the building was very tall .",
+        "the people were walking around .",
+        "the bridge was huge ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the museum . there were a lot of old buildings . a lot of history amongst them all.",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum .",
+        "there were a lot of old buildings .",
+        "a lot of history amongst them all ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602007678960",
+  "model": "GLAC"
+}

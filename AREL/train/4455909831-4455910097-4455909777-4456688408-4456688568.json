@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4455909831-4455910097-4455909777-4456688408-4456688568",
+  "photo_sequence_ids": [
+    "4455909831",
+    "4455910097",
+    "4455909777",
+    "4456688408",
+    "4456688568"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4046/4455909831_069c7b77e0_o.jpg",
+    "https://farm3.staticflickr.com/2762/4455910097_21dfeb888a_o.jpg",
+    "https://farm3.staticflickr.com/2736/4455909777_175e7b60f9_o.jpg",
+    "https://farm5.staticflickr.com/4068/4456688408_d2b9300a41_o.jpg",
+    "https://farm5.staticflickr.com/4027/4456688568_dfecc48601_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to a local restaurant for the day . there was a lot of food there . the food was delicious . i went to the market to buy some food . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to a local restaurant for the day that was fusion . there was a lot of food there right in front of us. the food was delicious  and I ended up taking a lot of it home. i went to the market to buy some food later to make at home. this is a picture of a building we passed by.",
+      "normalized_edited_story_text_sent": [
+        "we went to a local restaurant for the day that was fusion .",
+        "there was a lot of food there right in front of us .",
+        "the food was delicious and i ended up taking a lot of it home .",
+        "i went to the market to buy some food later to make at home .",
+        "this is a picture of a building we passed by ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to a local restaurant for the day and there was a lot of food there . the food was so delicious and then  i went to the market to buy some food . This is a picture I took along the way.",
+      "normalized_edited_story_text_sent": [
+        "we went to a local restaurant for the day and there was a lot of food there .",
+        "the food was so delicious and then i went to the market to buy some food .",
+        "this is a picture i took along the way ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to a local restaurant for the day . there was a lot of delicious food there . i went to the market to buy some more food . this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "we went to a local restaurant for the day .",
+        "there was a lot of delicious food there .",
+        "i went to the market to buy some more food .",
+        "this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to see the shops downtown. One sold fresh meats. I ate a sub sandwich. I also considered shrimp. One building was in an ornate Asian style.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the shops downtown .",
+        "one sold fresh meats .",
+        "i ate a sub sandwich .",
+        "i also considered shrimp .",
+        "one building was in an ornate asian style ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "for a meal, we stopped a local restaurant. there was so much food to enjoy . i loved the tasty food, including the sandwich . the fried shrimp sign was enough to entice me into a food run at the market. this colorful building really caught my eye .",
+      "normalized_edited_story_text_sent": [
+        "for a meal , we stopped a local restaurant .",
+        "there was so much food to enjoy .",
+        "i loved the tasty food , including the sandwich .",
+        "the fried shrimp sign was enough to entice me into a food run at the market .",
+        "this colorful building really caught my eye ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623675822498"
+}

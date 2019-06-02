@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "386605989-389296617-386607664-386607983-386606595",
+  "photo_sequence_ids": [
+    "386605989",
+    "389296617",
+    "386607664",
+    "386607983",
+    "386606595"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the stained glass window was a masterpiece . the artwork was beautiful . the paintings were very intricate . the colors were amazing . the windows were so intricate .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the stained glass windows were masterpieces reminding us of bygone eras. the artwork was impressive. the paintings\u0027 intricacies dazzled. the colors mix a sight to behold. the windows told a captivating story.",
+      "normalized_edited_story_text_sent": [
+        "the stained glass windows were masterpieces reminding us of bygone eras .",
+        "the artwork was impressive .",
+        "the paintings \u0027 intricacies dazzled .",
+        "the colors mix a sight to behold .",
+        "the windows told a captivating story ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the stained glass window was a masterpiece . the artwork was beautiful . the paintings were very intricate . the colors were amazing . the windows were masterfully made",
+      "normalized_edited_story_text_sent": [
+        "the stained glass window was a masterpiece .",
+        "the artwork was beautiful .",
+        "the paintings were very intricate .",
+        "the colors were amazing .",
+        "the windows were masterfully made"
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the stained glass window was a big masterpiece and the artwork was beautiful . the paintings were very intricate . the colors were amazing . the windows were so intricate .",
+      "normalized_edited_story_text_sent": [
+        "the stained glass window was a big masterpiece and the artwork was beautiful .",
+        "the paintings were very intricate .",
+        "the colors were amazing .",
+        "the windows were so intricate ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the stained glass window was a masterpiece . the artwork was beautiful . the paintings were very intricate . the colors were amazing . the windows were the best part of the church.",
+      "normalized_edited_story_text_sent": [
+        "the stained glass window was a masterpiece .",
+        "the artwork was beautiful .",
+        "the paintings were very intricate .",
+        "the colors were amazing .",
+        "the windows were the best part of the church ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The stained glass window at the church was a masterpiece . The artwork was a beautiful depiction of biblical stories. The details in the windows were very intricate. The colors were amazing. The light shining threw them was facinating.",
+      "normalized_edited_story_text_sent": [
+        "the stained glass window at the church was a masterpiece .",
+        "the artwork was a beautiful depiction of biblical stories .",
+        "the details in the windows were very intricate .",
+        "the colors were amazing .",
+        "the light shining threw them was facinating ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594529682304",
+  "model": "GLAC"
+}

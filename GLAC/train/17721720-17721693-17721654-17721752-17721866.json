@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "17721720-17721693-17721654-17721752-17721866",
+  "photo_sequence_ids": [
+    "17721720",
+    "17721693",
+    "17721654",
+    "17721752",
+    "17721866"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the beach today . the view from the boat was amazing . the water was so clear . the signs were very nice . the day was a great experience .",
+  "edited_stories": [
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "This is a great house to vacation in. The water was so calm and serene. There was no one on the beach but me. Hotels in California is what I love so I have reminders up. This is the cutest baby.",
+      "normalized_edited_story_text_sent": [
+        "this is a great house to vacation in .",
+        "the water was so calm and serene .",
+        "there was no one on the beach but me .",
+        "hotels in california is what i love so i have reminders up .",
+        "this is the cutest baby ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "today we went to the beach.  it was a great time.  the signs at the site were funky and cool.  we rode on a boat, and had an amazing view.  the water was very clear.  here is a photo of David the baby and John his dad.",
+      "normalized_edited_story_text_sent": [
+        "today we went to the beach .",
+        "it was a great time .",
+        "the signs at the site were funky and cool .",
+        "we rode on a boat , and had an amazing view .",
+        "the water was very clear .",
+        "here is a photo of [male] the baby and [male] his dad ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "we have a house by the beach. the view from the shore was amazing . the water was so clear . the hotel was very nice . the party was a great experience .",
+      "normalized_edited_story_text_sent": [
+        "we have a house by the beach .",
+        "the view from the shore was amazing .",
+        "the water was so clear .",
+        "the hotel was very nice .",
+        "the party was a great experience ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "we went to the great beach today . the view from the boat was grand. the water was so clear . the signs were very nice . the day was a great experience .",
+      "normalized_edited_story_text_sent": [
+        "we went to the great beach today .",
+        "the view from the boat was grand .",
+        "the water was so clear .",
+        "the signs were very nice .",
+        "the day was a great experience ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the big beach today and the view from the boat was amazing . the water was so clear . the signs were very nice . the day was a great experience .",
+      "normalized_edited_story_text_sent": [
+        "we went to the big beach today and the view from the boat was amazing .",
+        "the water was so clear .",
+        "the signs were very nice .",
+        "the day was a great experience ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "420260",
+  "model": "GLAC"
+}

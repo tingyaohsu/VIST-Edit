@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "182547610-182547518-182547833-182547599-182547774",
+  "photo_sequence_ids": [
+    "182547610",
+    "182547518",
+    "182547833",
+    "182547599",
+    "182547774"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was full of people . the streets were filled with activity . the crowd was very festive . the fireworks were beautiful . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was brimming with individuals . the boulevards were loaded up with action . the group was exceptionally bubbly . the firecrackers were lovely . the sustenance was delectable .",
+      "normalized_edited_story_text_sent": [
+        "the city was brimming with individuals .",
+        "the boulevards were loaded up with action .",
+        "the group was exceptionally bubbly .",
+        "the firecrackers were lovely .",
+        "the sustenance was delectable ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the city was full of people . the streets were filled with activity at the 4th of July Festival. the crowd was very festive, and the guy let us borrow his kayak. the fireworks were beautiful . Afterwards we ate, and the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the streets were filled with activity at the 4th of july festival .",
+        "the crowd was very festive , and the guy let us borrow his kayak .",
+        "the fireworks were beautiful .",
+        "afterwards we ate , and the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was full of people who were enjoying the weather . the streets were filled with activity and lots of people . the crowd was very festive as this only occurred once a year . the fireworks were beautiful in the night sky . the food was delicious especially the cake.",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people who were enjoying the weather .",
+        "the streets were filled with activity and lots of people .",
+        "the crowd was very festive as this only occurred once a year .",
+        "the fireworks were beautiful in the night sky .",
+        "the food was delicious especially the cake ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The festival was full of people.  The streets were filled with people and the crowd was having a great time. The fireworks were awesome and the dessert was amazing.",
+      "normalized_edited_story_text_sent": [
+        "the festival was full of people .",
+        "the streets were filled with people and the crowd was having a great time .",
+        "the fireworks were awesome and the dessert was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "So many people came to the festival. The streets were simply packed with activity. The kayaking event was my favorite part of the festival. Everyone was particularly festive when the fireworks were brought out when it was night time. And food was delicious!",
+      "normalized_edited_story_text_sent": [
+        "so many people came to the festival .",
+        "the streets were simply packed with activity .",
+        "the kayaking event was my favorite part of the festival .",
+        "everyone was particularly festive when the fireworks were brought out when it was night time .",
+        "and food was delicious !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594188359156",
+  "model": "GLAC"
+}

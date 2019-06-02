@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "345041369-345042358-345043329-345046756-345048727",
+  "photo_sequence_ids": [
+    "345041369",
+    "345042358",
+    "345043329",
+    "345046756",
+    "345048727"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . the food was delicious . everyone had a great time . the drinks were flowing . it was a good night .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party granted everyone a dose of fun . the food tasted good . everybody spent their time well . drinks continuously flowed . a good night was had .",
+      "normalized_edited_story_text_sent": [
+        "the party granted everyone a dose of fun .",
+        "the food tasted good .",
+        "everybody spent their time well .",
+        "drinks continuously flowed .",
+        "a good night was had ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the party was a lot of fun . the food was quite tasty . everyone had a great time . the drinks were flowing . it was a good night especially when people exchanged presents.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the food was quite tasty .",
+        "everyone had a great time .",
+        "the drinks were flowing .",
+        "it was a good night especially when people exchanged presents ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the party was a lot of fun and everyone enjoyed their gifts. They took turns showing off what they received and taking pictures of one another. It was a good day and everyone enjoyed spending time together.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and everyone enjoyed their gifts .",
+        "they took turns showing off what they received and taking pictures of one another .",
+        "it was a good day and everyone enjoyed spending time together ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the festive party was a lot of fun and the food was delicious . everyone had a great time . the drinks were flowing . it was a good night .",
+      "normalized_edited_story_text_sent": [
+        "the festive party was a lot of fun and the food was delicious .",
+        "everyone had a great time .",
+        "the drinks were flowing .",
+        "it was a good night ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . everyone opened presents. He got a remote. She got flannel.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone opened presents .",
+        "he got a remote .",
+        "she got flannel ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594458437632",
+  "model": "GLAC"
+}

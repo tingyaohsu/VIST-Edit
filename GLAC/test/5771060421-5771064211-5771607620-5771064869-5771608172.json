@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5771060421-5771064211-5771607620-5771064869-5771608172",
+  "photo_sequence_ids": [
+    "5771060421",
+    "5771064211",
+    "5771607620",
+    "5771064869",
+    "5771608172"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the zoo was a lot of fun . there were so many different kinds of animals . the turtles were very big . they were all very scary . they were also a little strange .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the zoo was a lot of fun . there were so many different kinds of animals . the owls were very big . they were all very scary . they swooped down and captured prey .",
+      "normalized_edited_story_text_sent": [
+        "the zoo was a lot of fun .",
+        "there were so many different kinds of animals .",
+        "the owls were very big .",
+        "they were all very scary .",
+        "they swooped down and captured prey ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We went to the zoo last week.  We stayed a lot at the bird sanctuary.  We say big birds like hawks, eagles and owls.",
+      "normalized_edited_story_text_sent": [
+        "we went to the zoo last week .",
+        "we stayed a lot at the bird sanctuary .",
+        "we say big birds like hawks , eagles and owls ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the zoo was a lot of fun . there were so many different kinds of animals . i even got to play with a bird.",
+      "normalized_edited_story_text_sent": [
+        "the zoo was a lot of fun .",
+        "there were so many different kinds of animals .",
+        "i even got to play with a bird ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the zoo was a lot of fun . there were so many different kinds of animals . the turtles were very big . they were all very scary . they were also a little strange .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the zoo was a lot of fun .",
+        "there were so many different kinds of animals .",
+        "the turtles were very big .",
+        "they were all very scary .",
+        "they were also a little strange ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The zoo was a ton of fun to visit. There were so many different kinds of animals. From the strange to the exotic, like ginormous turtles that were on display. Some of the other animals were straight up intimidating!",
+      "normalized_edited_story_text_sent": [
+        "the zoo was a ton of fun to visit .",
+        "there were so many different kinds of animals .",
+        "from the strange to the exotic , like ginormous turtles that were on display .",
+        "some of the other animals were straight up intimidating !"
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626831653238",
+  "model": "GLAC"
+}

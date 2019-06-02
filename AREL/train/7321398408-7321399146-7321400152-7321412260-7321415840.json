@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "7321398408-7321399146-7321400152-7321412260-7321415840",
+  "photo_sequence_ids": [
+    "7321398408",
+    "7321399146",
+    "7321400152",
+    "7321412260",
+    "7321415840"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8163/7321398408_4183af0033_o.jpg",
+    "https://farm8.staticflickr.com/7212/7321399146_a76833de92_o.jpg",
+    "https://farm8.staticflickr.com/7072/7321400152_0cf07b7a42_o.jpg",
+    "https://farm8.staticflickr.com/7090/7321412260_555667cddb_o.jpg",
+    "https://farm8.staticflickr.com/7088/7321415840_cf3464b2ac_o.jpg"
+  ],
+  "auto_story_text_normalized": "my sister and i were so excited to be married . [female] and [female] are having a great time . my sister and i were so happy to be together . we had a great time . she was so happy to be at her birthday party .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "My sister and I were so excited to graduate! [Female] and [female] were having a great time. My sister and I were so happy to be there together. We had a great time, and she was so happy to be at the graduation.",
+      "normalized_edited_story_text_sent": [
+        "my sister and i were so excited to graduate !",
+        "[female] and [female] were having a great time .",
+        "my sister and i were so happy to be there together .",
+        "we had a great time , and she was so happy to be at the graduation ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "my sister was so excited to be graduating. i took pictures of her with all our different family members. we had a cake for her afterward. it was a fun time. i\u0027m very proud of her.",
+      "normalized_edited_story_text_sent": [
+        "my sister was so excited to be graduating .",
+        "i took pictures of her with all our different family members .",
+        "we had a cake for her afterward .",
+        "it was a fun time .",
+        "i \u0027m very proud of her ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "my sister and i were so excited to be married . [Becky] and [Tina] are having a great time . my sister and i were so happy to be together . We was so happy to be at [Tina]\u0027s graduation party .",
+      "normalized_edited_story_text_sent": [
+        "my sister and i were so excited to be married .",
+        "[female] and [female] are having a great time .",
+        "my sister and i were so happy to be together .",
+        "we was so happy to be at [female] \u0027s graduation party ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "My sister and i were so excited to be graduating. [female] and [female] are having a great time. My sister and i were so happy to be together. She was happy that I came to see her graduate.  I made her a great cake.",
+      "normalized_edited_story_text_sent": [
+        "my sister and i were so excited to be graduating .",
+        "[female] and [female] are having a great time .",
+        "my sister and i were so happy to be together .",
+        "she was happy that i came to see her graduate .",
+        "i made her a great cake ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "My sister WAS SO EXCITED TO GRADUATE. [female] and [male] HAD THEIR PICTURE TAKEN. MY MOM WAS SO PROUD OF MY SISTER.are having a great time. My sister and i were so happy to be together. AFTER THE CEROMONY, WE HAD A CAKE FOR HER.",
+      "normalized_edited_story_text_sent": [
+        "my sister was so excited to graduate .",
+        "[female] and [male] had their picture taken .",
+        "my mom was so proud of my sister.are having a great time .",
+        "my sister and i were so happy to be together .",
+        "after the ceromony , we had a cake for her ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157630013916068"
+}

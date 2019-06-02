@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "2582417232-2582414424-2581592241-2581594339-2582414024",
+  "photo_sequence_ids": [
+    "2582417232",
+    "2582414424",
+    "2581592241",
+    "2581594339",
+    "2582414024"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bikers were ready for the race . they were off to the start . the first thing they did was the water . then they went on the beach . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the bikers were ready for the big race . they were off to the start . the first thing they did was the cool water . then they went on the beach . they had a grand time .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were ready for the big race .",
+        "they were off to the start .",
+        "the first thing they did was the cool water .",
+        "then they went on the beach .",
+        "they had a grand time ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my brother has become very confident riding his new bike. he is so proud of himself, which is great to see. he loves riding down the pier to watch the watercraft. the boats fascinate him as they sail back and forth. riding for hours and hours really tires the little guy out.",
+      "normalized_edited_story_text_sent": [
+        "my brother has become very confident riding his new bike .",
+        "he is so proud of himself , which is great to see .",
+        "he loves riding down the pier to watch the watercraft .",
+        "the boats fascinate him as they sail back and forth .",
+        "riding for hours and hours really tires the little guy out ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the bikers were ready for the race . they were going fast . the first thing they did was swim in the water . then they went on the sand . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were ready for the race .",
+        "they were going fast .",
+        "the first thing they did was swim in the water .",
+        "then they went on the sand .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bikers were ready for the race . the first thing they did was jump into the water . then they went on the beach . they had a great time . the little boy fell asleep on the ride home.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were ready for the race .",
+        "the first thing they did was jump into the water .",
+        "then they went on the beach .",
+        "they had a great time .",
+        "the little boy fell asleep on the ride home ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the bikers were ready for the race . they were off to the start . the first thing they did was the water . then they went on the beach . the boy fell asleep.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were ready for the race .",
+        "they were off to the start .",
+        "the first thing they did was the water .",
+        "then they went on the beach .",
+        "the boy fell asleep ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157605629519358",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4334910270-4334910376-4334910466-4334910546-4334910654",
+  "photo_sequence_ids": [
+    "4334910270",
+    "4334910376",
+    "4334910466",
+    "4334910546",
+    "4334910654"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4038/4334910270_c0808dddaa_o.jpg",
+    "https://farm5.staticflickr.com/4032/4334910376_591851fa33_o.jpg",
+    "https://farm3.staticflickr.com/2795/4334910466_eda7c3d855_o.jpg",
+    "https://farm5.staticflickr.com/4043/4334910546_1de5b5012a_o.jpg",
+    "https://farm5.staticflickr.com/4028/4334910654_6ae9316e01_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the art museum today . i had a great time there . we saw a lot of interesting things . this is a picture of a sign . this is a picture of a wall .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went out last night to the town.  The street was all lit up.  We went to a comic book store and looked at a lot of neat comics.",
+      "normalized_edited_story_text_sent": [
+        "we went out last night to the town .",
+        "the street was all lit up .",
+        "we went to a comic book store and looked at a lot of neat comics ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to the art museum today. i had a great time. we saw a lot of interesting things . This is a sign we saw. this is a picture of a wall .",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "i had a great time .",
+        "we saw a lot of interesting things .",
+        "this is a sign we saw .",
+        "this is a picture of a wall ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We went to the art museum today and I had a great time there. We saw a lot of interesting things, here are some pictures of the art we saw.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today and i had a great time there .",
+        "we saw a lot of interesting things , here are some pictures of the art we saw ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to the art museum today and had a great time. We saw a lot of interesting anime pictures. Here are some pictures of posters on a wall.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today and had a great time .",
+        "we saw a lot of interesting anime pictures .",
+        "here are some pictures of posters on a wall ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "we went to the art museum today. i had a great time there .we saw a lot of interesting things. i took a picture of my favorite sign and a picture of a pretty wall.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "i had a great time there .",
+        "we saw a lot of interesting things .",
+        "i took a picture of my favorite sign and a picture of a pretty wall ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623364325932"
+}

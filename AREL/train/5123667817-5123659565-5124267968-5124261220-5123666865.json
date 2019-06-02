@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "5123667817-5123659565-5124267968-5124261220-5123666865",
+  "photo_sequence_ids": [
+    "5123667817",
+    "5123659565",
+    "5124267968",
+    "5124261220",
+    "5123666865"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1145/5123667817_ff74f40cfc_o.jpg",
+    "https://farm5.staticflickr.com/4048/5123659565_bcb4db3332_o.jpg",
+    "https://farm5.staticflickr.com/4050/5124267968_91c0816ae6_o.jpg",
+    "https://farm5.staticflickr.com/4041/5124261220_86b9af3a55_o.jpg",
+    "https://farm2.staticflickr.com/1343/5123666865_5de2493451_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to my friend \u0027s house last week . there were a lot of people there . there were a lot of people there . there were many things to choose from . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to my friend\u0027s party last week. there were a lot of people there. we all tried different types of beer. everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s party last week .",
+        "there were a lot of people there .",
+        "we all tried different types of beer .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i traveled to my buddy \u0027s house last week . there was a crowd there . there were so many people. there were many types of beer to choose from . we had a fantastic time .",
+      "normalized_edited_story_text_sent": [
+        "i traveled to my buddy \u0027s house last week .",
+        "there was a crowd there .",
+        "there were so many people .",
+        "there were many types of beer to choose from .",
+        "we had a fantastic time ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "i went to my friend \u0027s house last week to go to a beer festival. there were a lot of people there and everyone was enjoying the different beers. there were a lot of people sitting even outside . there were many beers to choose from most of them were very good. we had a great time and want to do this again next year.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house last week to go to a beer festival .",
+        "there were a lot of people there and everyone was enjoying the different beers .",
+        "there were a lot of people sitting even outside .",
+        "there were many beers to choose from most of them were very good .",
+        "we had a great time and want to do this again next year ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "I went friend\u0027s house last week . a lot of people were at his house . people sat outside under a tent and trees. There were plenty different types of beer to choose from.  A young man prepared his own beer. Friends showed off there drinks. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went friend \u0027s house last week .",
+        "a lot of people were at his house .",
+        "people sat outside under a tent and trees .",
+        "there were plenty different types of beer to choose from .",
+        "a young man prepared his own beer .",
+        "friends showed off there drinks .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "i went on a trip last week with a few people.  . there were many things to choose from . we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went on a trip last week with a few people .",
+        ".",
+        "there were many things to choose from .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625261743758"
+}

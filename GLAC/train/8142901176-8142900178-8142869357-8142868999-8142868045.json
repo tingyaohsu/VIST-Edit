@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "8142901176-8142900178-8142869357-8142868999-8142868045",
+  "photo_sequence_ids": [
+    "8142901176",
+    "8142900178",
+    "8142869357",
+    "8142868999",
+    "8142868045"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be at the party . they had a lot of fun . they had lots of activities . they played games . they also had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I had a fun time volunteering for the children\u0027s school play. My job was to paint their pictures for the roles they were playing. They all enjoyed what they looked like and it became a successful play.",
+      "normalized_edited_story_text_sent": [
+        "i had a fun time volunteering for the children \u0027s school play .",
+        "my job was to paint their pictures for the roles they were playing .",
+        "they all enjoyed what they looked like and it became a successful play ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to be at the party .They got their faces painted and made funny hats. They all were dressed up in cute costumes.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they got their faces painted and made funny hats .",
+        "they all were dressed up in cute costumes ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were excited to be at the party . they had a lot of fun . they did lots of activities . they played games . they loved the party .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they had a lot of fun .",
+        "they did lots of activities .",
+        "they played games .",
+        "they loved the party ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the kids were excited to be at the birthday party in the park . they had a lot of fun with the face painting . they had lots of activities  like painting and making tiaras. they played games and ran around . they also had a great time and never wanted it to end. .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the birthday party in the park .",
+        "they had a lot of fun with the face painting .",
+        "they had lots of activities like painting and making tiaras .",
+        "they played games and ran around .",
+        "they also had a great time and never wanted it to end ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were excited to be at the party . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631898749264",
+  "model": "GLAC"
+}

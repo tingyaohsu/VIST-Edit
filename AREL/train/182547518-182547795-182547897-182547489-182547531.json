@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "182547518-182547795-182547897-182547489-182547531",
+  "photo_sequence_ids": [
+    "182547518",
+    "182547795",
+    "182547897",
+    "182547489",
+    "182547531"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/75/182547518_ba24060a0f_o.jpg",
+    "https://farm1.staticflickr.com/46/182547795_d2bca29783_o.jpg",
+    "https://farm1.staticflickr.com/47/182547897_a056cb630b_o.jpg",
+    "https://farm1.staticflickr.com/56/182547489_2473d24ef2_o.jpg",
+    "https://farm1.staticflickr.com/71/182547531_830e8ecdba_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the park today . we had a lot of food to eat . the man was happy to see her . my son was very happy to be there . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A6P3TJ2T9JHFC",
+      "edited_story_text": "we went to the park by the marina today. Many people were there. we enjoyed the great food and beverages. the man was happy to see her and stuck out his tongue playfully. my son was very happy to be there. i had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park by the marina today .",
+        "many people were there .",
+        "we enjoyed the great food and beverages .",
+        "the man was happy to see her and stuck out his tongue playfully .",
+        "my son was very happy to be there .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the park today. we ate lunch at the nearby restaurant. [male] was there, who we hadn\u0027t seen in a while. we were all happy to talk and catch up with each other. i had a nice time hanging out with everyone.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "we ate lunch at the nearby restaurant .",
+        "[male] was there , who we had n\u0027t seen in a while .",
+        "we were all happy to talk and catch up with each other .",
+        "i had a nice time hanging out with everyone ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the seaside today. We had a lot of food to eat.  The man was happy to see her.  My son was very happy to be there. I had a great time there watching a street entertainer.",
+      "normalized_edited_story_text_sent": [
+        "we went to the seaside today .",
+        "we had a lot of food to eat .",
+        "the man was happy to see her .",
+        "my son was very happy to be there .",
+        "i had a great time there watching a street entertainer ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we went to spend time in the park today . we ate a lot . the man was excited to see her . my son was thrilled to be there . i had an awesome time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to spend time in the park today .",
+        "we ate a lot .",
+        "the man was excited to see her .",
+        "my son was thrilled to be there .",
+        "i had an awesome time there ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to the park today and we had a lot of food to eat . the man was happy to see her and my son was very happy to be there . we all had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today and we had a lot of food to eat .",
+        "the man was happy to see her and my son was very happy to be there .",
+        "we all had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594188359156"
+}

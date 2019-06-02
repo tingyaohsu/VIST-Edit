@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "6994225967-6847944168-6847944186-6994151295-6847734946",
+  "photo_sequence_ids": [
+    "6994225967",
+    "6847944168",
+    "6847944186",
+    "6994151295",
+    "6847734946"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the race was about to begin . the bikers were off and ready for the start . the race was underway . the winner was very happy . the winner was announced .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the race was about to begin in less than a minute . the bikers were off and ready for the start of the dirt bike race . the race was underway and the racers flew in the air . the winner was very happy and won a throphy . the winner was announced once everyone finished the race .",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin in less than a minute .",
+        "the bikers were off and ready for the start of the dirt bike race .",
+        "the race was underway and the racers flew in the air .",
+        "the winner was very happy and won a throphy .",
+        "the winner was announced once everyone finished the race ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the bikers lined up at the starting line, and the energy was intense! the race began, and everyone was on the edge of their seats. we couldn\u0027t believe who won! it was awesome.",
+      "normalized_edited_story_text_sent": [
+        "the bikers lined up at the starting line , and the energy was intense !",
+        "the race began , and everyone was on the edge of their seats .",
+        "we could n\u0027t believe who won !",
+        "it was awesome ."
+      ]
+    },
+    {
+      "worker_id": "A29AX5O8KL48F8",
+      "edited_story_text": "I went to a dirt bike race and the race was about to begin. the bikers were off and ready for the start. the race was underway and everything looked so fast that it was hard to keep up. The winner of the race was announced at the end and looked like he was enjoying himself so much.",
+      "normalized_edited_story_text_sent": [
+        "i went to a dirt bike race and the race was about to begin .",
+        "the bikers were off and ready for the start .",
+        "the race was underway and everything looked so fast that it was hard to keep up .",
+        "the winner of the race was announced at the end and looked like he was enjoying himself so much ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the race was about to begin . the bikers were off and ready for the start . the race was underway . the winner was very happy . the winner was announced .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the race was about to begin .",
+        "the bikers were off and ready for the start .",
+        "the race was underway .",
+        "the winner was very happy .",
+        "the winner was announced ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The race was about to begin. The race was exciting with lots of action.The winner was very happy and posed for this picture after the race.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the race was exciting with lots of action.the winner was very happy and posed for this picture after the race ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629613256003",
+  "model": "GLAC"
+}

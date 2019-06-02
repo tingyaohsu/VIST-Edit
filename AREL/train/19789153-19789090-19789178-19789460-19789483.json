@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "19789153-19789090-19789178-19789460-19789483",
+  "photo_sequence_ids": [
+    "19789153",
+    "19789090",
+    "19789178",
+    "19789460",
+    "19789483"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/15/19789153_3a0a10221b_o.jpg",
+    "https://farm1.staticflickr.com/17/19789090_3bb3c99c40_o.jpg",
+    "https://farm1.staticflickr.com/14/19789178_f11e538656_o.jpg",
+    "https://farm1.staticflickr.com/15/19789460_4a1c9dbdb8_o.jpg",
+    "https://farm1.staticflickr.com/17/19789483_173ecd7aec_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day of the graduation ceremony . i had a great time there . there were a lot of people there . he took a picture with his diploma . the ceremony was over and everyone was ready to go .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "The arts school graduated their students. Everyone was dressed in flowing black gowns. They talked amongst themselves for what may be the last time. They lined up while waiting for the ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the arts school graduated their students .",
+        "everyone was dressed in flowing black gowns .",
+        "they talked amongst themselves for what may be the last time .",
+        "they lined up while waiting for the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "Today was graduation ceremony and I had a great time. I even took a picture with my diploma. A lot of people were there for the ceremony and were eager to leave when it ended.",
+      "normalized_edited_story_text_sent": [
+        "today was graduation ceremony and i had a great time .",
+        "i even took a picture with my diploma .",
+        "a lot of people were there for the ceremony and were eager to leave when it ended ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "today was the day of the graduation ceremony and i had a great time there . there were a lot of people there and he took a picture with his diploma . the ceremony was over and everyone was ready to go and celebrate.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the graduation ceremony and i had a great time there .",
+        "there were a lot of people there and he took a picture with his diploma .",
+        "the ceremony was over and everyone was ready to go and celebrate ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "today was the day of the graduation ceremony . i had a great time there . there were a lot of people  . we photographed the students . the ceremony was over and everyone was ready to go .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the graduation ceremony .",
+        "i had a great time there .",
+        "there were a lot of people .",
+        "we photographed the students .",
+        "the ceremony was over and everyone was ready to go ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "Today was the day of the graduation ceremony. I had a great time there watching everyone graduating. We took a picture of my friend with his diploma. The ceremony was long, but it was a exciting day.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the graduation ceremony .",
+        "i had a great time there watching everyone graduating .",
+        "we took a picture of my friend with his diploma .",
+        "the ceremony was long , but it was a exciting day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "463870"
+}

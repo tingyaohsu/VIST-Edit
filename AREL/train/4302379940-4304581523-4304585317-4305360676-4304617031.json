@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4302379940-4304581523-4304585317-4305360676-4304617031",
+  "photo_sequence_ids": [
+    "4302379940",
+    "4304581523",
+    "4304585317",
+    "4305360676",
+    "4304617031"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2785/4302379940_ace2982574_o.jpg",
+    "https://farm3.staticflickr.com/2759/4304581523_8e57f4b0de_o.jpg",
+    "https://farm5.staticflickr.com/4026/4304585317_e652dc7d30_o.jpg",
+    "https://farm5.staticflickr.com/4041/4305360676_91a0ccc882_o.jpg",
+    "https://farm5.staticflickr.com/4066/4304617031_cdb532453f_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the game last week . it was a very exciting game . it was hard to win . it was a very exciting game . it was a great game .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the game last week . it was a very exciting game . it was hard to win . it was a very exciting game . it was a great game It was incredible",
+      "normalized_edited_story_text_sent": [
+        "i went to the game last week .",
+        "it was a very exciting game .",
+        "it was hard to win .",
+        "it was a very exciting game .",
+        "it was a great game it was incredible"
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the game last week . it was an awesome game . it was hard to win the hockey game . it was a very exciting game . it was a wonderful game .",
+      "normalized_edited_story_text_sent": [
+        "i went to the game last week .",
+        "it was an awesome game .",
+        "it was hard to win the hockey game .",
+        "it was a very exciting game .",
+        "it was a wonderful game ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to the hockey game last week. It was very exciting. The teams played hard and skated fast. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the hockey game last week .",
+        "it was very exciting .",
+        "the teams played hard and skated fast .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "I went to the hockey game last week. It was a very exciting and close game. We barely scraped by and ended up winning.",
+      "normalized_edited_story_text_sent": [
+        "i went to the hockey game last week .",
+        "it was a very exciting and close game .",
+        "we barely scraped by and ended up winning ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the game last week . it was a very exciting game . it was hard to win . it was a very exciting game and it was a great game .",
+      "normalized_edited_story_text_sent": [
+        "i went to the game last week .",
+        "it was a very exciting game .",
+        "it was hard to win .",
+        "it was a very exciting game and it was a great game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623277682842"
+}

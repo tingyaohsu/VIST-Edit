@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6070521495-6071082438-6071077972-6071092120-6071107980",
+  "photo_sequence_ids": [
+    "6070521495",
+    "6071082438",
+    "6071077972",
+    "6071092120",
+    "6071107980"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the big day . the baby was so happy to be there . the young girl was very happy . the family was all together . the kids were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were ready to go off to school.",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready to go off to school ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was excited for the big day that was here. the baby was so happy to be there and see her sister go to school . the young girl was very happy to be starting school. the family was all together to witness this historic day . the kids were having a great time waiting for the bus.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the big day that was here .",
+        "the baby was so happy to be there and see her sister go to school .",
+        "the young girl was very happy to be starting school .",
+        "the family was all together to witness this historic day .",
+        "the kids were having a great time waiting for the bus ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited for the big day . She walked down the sidewalk and met her friend at the bus stop. All the kids got on the bus for school.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the big day .",
+        "she walked down the sidewalk and met her friend at the bus stop .",
+        "all the kids got on the bus for school ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "It was maria\u0027s first day of school. It was tough for her to say goodbye to her parents and get on the bus. She did make some friends though",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s first day of school .",
+        "it was tough for her to say goodbye to her parents and get on the bus .",
+        "she did make some friends though"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the family was excited for the big day . the baby was so happy to be there . the young girl was very happy . the family was all together . the kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family was excited for the big day .",
+        "the baby was so happy to be there .",
+        "the young girl was very happy .",
+        "the family was all together .",
+        "the kids were having a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627495555866",
+  "model": "GLAC"
+}

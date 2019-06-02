@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5853771226-5853771632-5853772178-5853222289-5853775370",
+  "photo_sequence_ids": [
+    "5853771226",
+    "5853771632",
+    "5853772178",
+    "5853222289",
+    "5853775370"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was happy to be at the party . the child was excited . the family was there . the boy was very happy . the baby was having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the baby was happy to be at the party . the child was excited . the family was there . the boy was very happy to his grandparents . the baby was just a few days old .",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be at the party .",
+        "the child was excited .",
+        "the family was there .",
+        "the boy was very happy to his grandparents .",
+        "the baby was just a few days old ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the baby was happy to be at the party . they were excited . the family was there . the boy was celebrating  . he was having a good time .",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be at the party .",
+        "they were excited .",
+        "the family was there .",
+        "the boy was celebrating .",
+        "he was having a good time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the baby was happy to be at the party Everyone held the baby. The baby was sleeping while wrapped in blankets. He held the baby in the chair.",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be at the party everyone held the baby .",
+        "the baby was sleeping while wrapped in blankets .",
+        "he held the baby in the chair ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "Grandma was happy to be at the house with the new baby . The baby was mostly sleeping. Many family members were there. They were all very happy to see the newborn. The baby was slept while everyone held him.",
+      "normalized_edited_story_text_sent": [
+        "grandma was happy to be at the house with the new baby .",
+        "the baby was mostly sleeping .",
+        "many family members were there .",
+        "they were all very happy to see the newborn .",
+        "the baby was slept while everyone held him ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the baby was happy at the gathering . the child was energetic . the family was in attendance . the boy was very euphoric . the baby was having fun .",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy at the gathering .",
+        "the child was energetic .",
+        "the family was in attendance .",
+        "the boy was very euphoric .",
+        "the baby was having fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626882487487",
+  "model": "GLAC"
+}

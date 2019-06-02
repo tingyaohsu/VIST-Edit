@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "8736914-8736966-8736984-8737174-8737351",
+  "photo_sequence_ids": [
+    "8736914",
+    "8736966",
+    "8736984",
+    "8737174",
+    "8737351"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the meeting was a great success . the audience was very excited . the speaker was very boring . he had a lot of questions . the conference was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The meeting was a great success because  the audience was very excited. Unfortunately, the speaker was very boring. A man had a lot of questions. The conference was a success .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was a great success because the audience was very excited .",
+        "unfortunately , the speaker was very boring .",
+        "a man had a lot of questions .",
+        "the conference was a success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the meeting was a great success . the audience was very excited .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was a great success .",
+        "the audience was very excited ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the audience was very excited even though the speaker was very boring and had a lot of questions. the conference was a success.",
+      "normalized_edited_story_text_sent": [
+        "the audience was very excited even though the speaker was very boring and had a lot of questions .",
+        "the conference was a success ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The town council meeting was a big hit.  Here are some of the attendees.  Also a pic of what it looks like from outside.",
+      "normalized_edited_story_text_sent": [
+        "the town council meeting was a big hit .",
+        "here are some of the attendees .",
+        "also a pic of what it looks like from outside ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the meeting was very successful . audience members were enthusiastic . the speaker was not boring . he answered lots of questions . the conference was done right .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was very successful .",
+        "audience members were enthusiastic .",
+        "the speaker was not boring .",
+        "he answered lots of questions .",
+        "the conference was done right ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "217084",
+  "model": "GLAC"
+}

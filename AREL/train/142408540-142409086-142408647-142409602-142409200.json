@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "142408540-142409086-142408647-142409602-142409200",
+  "photo_sequence_ids": [
+    "142408540",
+    "142409086",
+    "142408647",
+    "142409602",
+    "142409200"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/56/142408540_494b68128f_o.jpg",
+    "https://farm1.staticflickr.com/51/142409086_cc60ca4642_o.jpg",
+    "https://farm1.staticflickr.com/54/142408647_dc0d0166d5_o.jpg",
+    "https://farm1.staticflickr.com/44/142409602_4957362114_o.jpg",
+    "https://farm1.staticflickr.com/46/142409200_7a49e3448c_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of people at the game today . the men are getting ready for the show . there were a lot of people there . it was a very crowded day . it was a great day for the game .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "there were a lot of people at the baseball game today. the men are getting ready for the show before it started. it was a very crowded day at the stadium. it was a great day for the game.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the baseball game today .",
+        "the men are getting ready for the show before it started .",
+        "it was a very crowded day at the stadium .",
+        "it was a great day for the game ."
+      ]
+    },
+    {
+      "worker_id": "A1LWEMMZXMGEP4",
+      "edited_story_text": "there are a lot of people at the game today . the women are getting ready for the show . there are a lot of people there . it is a very crowded day . it is a great day for the game .",
+      "normalized_edited_story_text_sent": [
+        "there are a lot of people at the game today .",
+        "the women are getting ready for the show .",
+        "there are a lot of people there .",
+        "it is a very crowded day .",
+        "it is a great day for the game ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "there were a lot of people at the game today .All the men are getting ready for the show . there were a lot of people there. Even though it was a very crowded day, it was still a great day for the game .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the game today .",
+        "all the men are getting ready for the show .",
+        "there were a lot of people there .",
+        "even though it was a very crowded day , it was still a great day for the game ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "there were a lot of people at the game today it was crowded.  the men are getting ready for the show it was a great day for the game .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the game today it was crowded .",
+        "the men are getting ready for the show it was a great day for the game ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "There were a lot of people at the baseball game today. The stadium was filled up all the way. The players were getting ready to play and they played the national anthem.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the baseball game today .",
+        "the stadium was filled up all the way .",
+        "the players were getting ready to play and they played the national anthem ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594128484139"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4471349962-4470572183-4470564235-4470564759-4470569339",
+  "photo_sequence_ids": [
+    "4471349962",
+    "4470572183",
+    "4470564235",
+    "4470564759",
+    "4470569339"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4068/4471349962_d581c7579b_o.jpg",
+    "https://farm3.staticflickr.com/2795/4470572183_cc09fd4cd3_o.jpg",
+    "https://farm3.staticflickr.com/2685/4470564235_7f4149f872_o.jpg",
+    "https://farm5.staticflickr.com/4062/4470564759_dd04be4808_o.jpg",
+    "https://farm3.staticflickr.com/2787/4470569339_fba07f2665_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park last weekend . we walked around the building to see what was going on . there were a lot of people there . they were very happy to be there . then , they had a lot of fun and they had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the park last weekend . we walked around the building to see what was going on and there were a lot of people there and they were very happy to be there . then , they had a lot of fun and they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park last weekend .",
+        "we walked around the building to see what was going on and there were a lot of people there and they were very happy to be there .",
+        "then , they had a lot of fun and they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "APW9F8OTJ4KXO",
+      "edited_story_text": "I visited the park with a friend last weekend. We walked around and saw buildings, The Capitol, and the White House. There were many people there, and they were happy to be there. We all had a lot of fun. i",
+      "normalized_edited_story_text_sent": [
+        "i visited the park with a friend last weekend .",
+        "we walked around and saw buildings , the capitol , and the white house .",
+        "there were many people there , and they were happy to be there .",
+        "we all had a lot of fun .",
+        "i"
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the park last weekend . we walked around the building to see what was going on . there were a lot of people there . they were very happy to be there . There was a political party happening.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park last weekend .",
+        "we walked around the building to see what was going on .",
+        "there were a lot of people there .",
+        "they were very happy to be there .",
+        "there was a political party happening ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "Last weekend I went to the park. We walked around the building to see what was going on. There were a lot of people present for a rally. They were happy to be there and support their cause. Cops were also present to keep everyone safe.",
+      "normalized_edited_story_text_sent": [
+        "last weekend i went to the park .",
+        "we walked around the building to see what was going on .",
+        "there were a lot of people present for a rally .",
+        "they were happy to be there and support their cause .",
+        "cops were also present to keep everyone safe ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the protest yesterday.  It was a beautiful sunny day. We walked around and spoke to the protestors about the cause.  There were a lot of people there.  It was a peaceful rally.",
+      "normalized_edited_story_text_sent": [
+        "i went to the protest yesterday .",
+        "it was a beautiful sunny day .",
+        "we walked around and spoke to the protestors about the cause .",
+        "there were a lot of people there .",
+        "it was a peaceful rally ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623722453984"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "941975397-942818210-941971999-941962469-941970807",
+  "photo_sequence_ids": [
+    "941975397",
+    "942818210",
+    "941971999",
+    "941962469",
+    "941970807"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were blooming . the flowers were lovely . the plants were so vibrant . the pink flower was the most popular . the white flamingo was a bit too much .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the flowers were blossoming . the flowers had lovely petals . the plants were also alive . the pink flower was something everyone fixated on . the white flamingo lawn ornament was a bit tacky .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blossoming .",
+        "the flowers had lovely petals .",
+        "the plants were also alive .",
+        "the pink flower was something everyone fixated on .",
+        "the white flamingo lawn ornament was a bit tacky ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the flowers were blooming . the flowers were lovely . the plants were so vibrant .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "the flowers were lovely .",
+        "the plants were so vibrant ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the flowers were blooming and lovely. the plants were so vibrant . the pink flower was the most popular, but the white flamingo was a bit too much.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming and lovely .",
+        "the plants were so vibrant .",
+        "the pink flower was the most popular , but the white flamingo was a bit too much ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "At the arboretum many flowers and plants are coming out in bloom.  Ferns, orchids and tulips.  A nice water garden is also present.",
+      "normalized_edited_story_text_sent": [
+        "at the arboretum many flowers and plants are coming out in bloom .",
+        "ferns , orchids and tulips .",
+        "a nice water garden is also present ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the flowers were blooming . the flowers were lovely . there were white and pink flowers. The lily pads were really cool.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "the flowers were lovely .",
+        "there were white and pink flowers .",
+        "the lily pads were really cool ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606501282252",
+  "model": "GLAC"
+}

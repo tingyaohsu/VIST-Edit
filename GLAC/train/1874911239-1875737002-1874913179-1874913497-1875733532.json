@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "1874911239-1875737002-1874913179-1874913497-1875733532",
+  "photo_sequence_ids": [
+    "1874911239",
+    "1875737002",
+    "1874913179",
+    "1874913497",
+    "1875733532"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the concert was a great success . the band was very talented . the show was amazing . the drummer was very good . the crowd was really happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the concert was a great success . the band was very talented and everyone loved them  . the drummer was very good . the crowd was really happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the concert was a great success .",
+        "the band was very talented and everyone loved them .",
+        "the drummer was very good .",
+        "the crowd was really happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the concert was a great success, and I\u0027m happy that we were able to pull it off . I was pleased with the music selection, because the band was very talented . the show was amazing . the drummer was very good, as was the bass guitarist . the crowd was really happy .",
+      "normalized_edited_story_text_sent": [
+        "the concert was a great success , and i \u0027m happy that we were able to pull it off .",
+        "i was pleased with the music selection , because the band was very talented .",
+        "the show was amazing .",
+        "the drummer was very good , as was the bass guitarist .",
+        "the crowd was really happy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the concert was a great success . the band was very talented  and the stage looked cool. Someone wore a rainbow wig. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the concert was a great success .",
+        "the band was very talented and the stage looked cool .",
+        "someone wore a rainbow wig .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the concert was a great success and everyone had fun. the band was very talented and rocked the crowd. the show was amazing especially the encore . the drummer was very good and he really was the most talented . the crowd was really happy .",
+      "normalized_edited_story_text_sent": [
+        "the concert was a great success and everyone had fun .",
+        "the band was very talented and rocked the crowd .",
+        "the show was amazing especially the encore .",
+        "the drummer was very good and he really was the most talented .",
+        "the crowd was really happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Yes the concert was a great success the band was very talented,show was amazing, drummer was very good, and the crowd was really happy .",
+      "normalized_edited_story_text_sent": [
+        "yes the concert was a great success the band was very talented , show was amazing , drummer was very good , and the crowd was really happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602938417219",
+  "model": "GLAC"
+}

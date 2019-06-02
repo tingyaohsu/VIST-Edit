@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6070506389-6070514905-6070521495-6070526561-6071107980",
+  "photo_sequence_ids": [
+    "6070506389",
+    "6070514905",
+    "6070521495",
+    "6070526561",
+    "6071107980"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time . the weather was nice . they had a lot of fun . they had a lot of fun . they took a lot of pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was having a great time . the weather was nice . they had a lot of fun . they chilled at the house . then they got on the bus .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "the weather was nice .",
+        "they had a lot of fun .",
+        "they chilled at the house .",
+        "then they got on the bus ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the family was having a great time before the kids had to get on the bus, dad kissed the girl goodbye.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time before the kids had to get on the bus , dad kissed the girl goodbye ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the family was having a great time . the weather was nice . they had a lot of fun hanging out together . the bus came because it was a school day . they took a lot of pictures .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "the weather was nice .",
+        "they had a lot of fun hanging out together .",
+        "the bus came because it was a school day .",
+        "they took a lot of pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was having a great time hanging out before school . the weather was nice and the sun was out . they had a lot of fun playing on the couch . they had a lot of fun walking to the bus . they took a lot of pictures before going to school .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time hanging out before school .",
+        "the weather was nice and the sun was out .",
+        "they had a lot of fun playing on the couch .",
+        "they had a lot of fun walking to the bus .",
+        "they took a lot of pictures before going to school ."
+      ]
+    },
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "First day of school excitement and trepidation.  Family photo and off you go after a kiss and strong show of support.",
+      "normalized_edited_story_text_sent": [
+        "first day of school excitement and trepidation .",
+        "family photo and off you go after a kiss and strong show of support ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627495555866",
+  "model": "GLAC"
+}

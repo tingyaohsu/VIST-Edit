@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4253855546-4253099117-4253875856-4253095215-4253100497",
+  "photo_sequence_ids": [
+    "4253855546",
+    "4253099117",
+    "4253875856",
+    "4253095215",
+    "4253100497"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the buildings were so old . the architecture was amazing . the artwork was interesting . the statues were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the brick buildings in this quiet neighborhood were tall and old. Their architectural designs were interesting with amazing artwork . the restaurant view overlooking the city was awe inspiring and the photo taken next to the  small waterway turned out great .  the statues were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the brick buildings in this quiet neighborhood were tall and old .",
+        "their architectural designs were interesting with amazing artwork .",
+        "the restaurant view overlooking the city was awe inspiring and the photo taken next to the small waterway turned out great .",
+        "the statues were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the building was very tall . the buildings were so old . the architecture was amazing . the artwork was interesting . the statues were very majestic .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the buildings were so old .",
+        "the architecture was amazing .",
+        "the artwork was interesting .",
+        "the statues were very majestic ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the building was very tall . the buildings were  old . the architecture was amazing . the furniture was interesting . the people were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the buildings were old .",
+        "the architecture was amazing .",
+        "the furniture was interesting .",
+        "the people were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the buildings were beautiful. the architecture was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the buildings were beautiful .",
+        "the architecture was amazing ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the building was very tall . the buildings were very ornate . the architecture was amazing . the artwork was interesting . the statues were beautiful and were from a different country",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the buildings were very ornate .",
+        "the architecture was amazing .",
+        "the artwork was interesting .",
+        "the statues were beautiful and were from a different country"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623035815239",
+  "model": "GLAC"
+}

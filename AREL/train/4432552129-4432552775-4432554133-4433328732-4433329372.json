@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4432552129-4432552775-4432554133-4433328732-4433329372",
+  "photo_sequence_ids": [
+    "4432552129",
+    "4432552775",
+    "4432554133",
+    "4433328732",
+    "4433329372"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4010/4432552129_8430f32ffc_o.jpg",
+    "https://farm3.staticflickr.com/2699/4432552775_f1fb5182ff_o.jpg",
+    "https://farm5.staticflickr.com/4065/4432554133_b0502a0be7_o.jpg",
+    "https://farm5.staticflickr.com/4040/4433328732_dcf2d5dfa5_o.jpg",
+    "https://farm5.staticflickr.com/4040/4433329372_2325099939_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the restaurant . we had a lot of fun at the house . they had a lot of fun playing games . we took a walk through the park . the kids had a great time at the park .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the restaurant and at the house . they had a lot of fun playing games . we took a walk through the park . the kids had a great time playing.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the restaurant and at the house .",
+        "they had a lot of fun playing games .",
+        "we took a walk through the park .",
+        "the kids had a great time playing ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "we had a great time at the party. we had a lot of fun at the house playing games. we took a walk through the park. the guys had a great time at the park .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "we had a lot of fun at the house playing games .",
+        "we took a walk through the park .",
+        "the guys had a great time at the park ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We threw a party at the house. First we played video games and hung out for a while. Then we finished up the video game and decided to head outside. When we were outside we walked through the park. The kids had a fun time at the park playing football.",
+      "normalized_edited_story_text_sent": [
+        "we threw a party at the house .",
+        "first we played video games and hung out for a while .",
+        "then we finished up the video game and decided to head outside .",
+        "when we were outside we walked through the park .",
+        "the kids had a fun time at the park playing football ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "We always have a great time when our friends visit. We spent time inside the house playing video games. Then we took a walk through the park and played football with the kids. They enjoyed the park.",
+      "normalized_edited_story_text_sent": [
+        "we always have a great time when our friends visit .",
+        "we spent time inside the house playing video games .",
+        "then we took a walk through the park and played football with the kids .",
+        "they enjoyed the park ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we had a great time at the house. we watched tv . they had a lot of fun playing games .the kids had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the house .",
+        "we watched tv .",
+        "they had a lot of fun playing games .",
+        "the kids had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623620043998"
+}

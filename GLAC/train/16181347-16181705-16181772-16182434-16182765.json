@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "16181347-16181705-16181772-16182434-16182765",
+  "photo_sequence_ids": [
+    "16181347",
+    "16181705",
+    "16181772",
+    "16182434",
+    "16182765"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people there . some of the costumes were very creative . they were all very fast . they were also very detailed .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a blast . there were a lot of people there . some of the costumes were very creative . they were also very detailed . some of them had to take months to prepare.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a blast .",
+        "there were a lot of people there .",
+        "some of the costumes were very creative .",
+        "they were also very detailed .",
+        "some of them had to take months to prepare ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun for the kids . there were a lot of people there due to it being at Disney . some of the costumes were very creative while others were disappointing . they were all very fast so everyone could be seen  . they were also very detailed and had amazing color .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun for the kids .",
+        "there were a lot of people there due to it being at disney .",
+        "some of the costumes were very creative while others were disappointing .",
+        "they were all very fast so everyone could be seen .",
+        "they were also very detailed and had amazing color ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people there . some of the costumes were very creative . Many of the performers dressed up as disney characters . It was so much fun for the kids.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people there .",
+        "some of the costumes were very creative .",
+        "many of the performers dressed up as disney characters .",
+        "it was so much fun for the kids ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people there . The cars were decorated. People were in costumes. The parade was cool.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people there .",
+        "the cars were decorated .",
+        "people were in costumes .",
+        "the parade was cool ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the parade was a ton of fun . there were a ton of people there . some of the costumes were very creative . they were all very fast . they were also very detailed .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a ton of fun .",
+        "there were a ton of people there .",
+        "some of the costumes were very creative .",
+        "they were all very fast .",
+        "they were also very detailed ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "388393",
+  "model": "GLAC"
+}

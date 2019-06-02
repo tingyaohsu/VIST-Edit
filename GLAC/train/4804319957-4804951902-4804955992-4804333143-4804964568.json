@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4804319957-4804951902-4804955992-4804333143-4804964568",
+  "photo_sequence_ids": [
+    "4804319957",
+    "4804951902",
+    "4804955992",
+    "4804333143",
+    "4804964568"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the park . they played with the balloons . they also got to play with bubbles . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the kids were excited to be in the park . they played and jumped around . they also played with hula hoops . they had a lot of fun . they had a great time at the park.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the park .",
+        "they played and jumped around .",
+        "they also played with hula hoops .",
+        "they had a lot of fun .",
+        "they had a great time at the park ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "the kids were excited to be in the park . then they played with the balloons . they also got to play with bubbles . they had a lot of fun, a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the park .",
+        "then they played with the balloons .",
+        "they also got to play with bubbles .",
+        "they had a lot of fun , a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The kids had a good time today in the park.  They played with the bubbles and other group activities.  Kept the kids busy!",
+      "normalized_edited_story_text_sent": [
+        "the kids had a good time today in the park .",
+        "they played with the bubbles and other group activities .",
+        "kept the kids busy !"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary was glad the kids were excited to be in the park . they played with the balloons . they also got to play with bubbles . they had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the kids were excited to be in the park .",
+        "they played with the balloons .",
+        "they also got to play with bubbles .",
+        "they had a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the kids were excited to be in the park and spending time outdoors. They played jumping games, skipping rope and some ball games. Everyone was happy to be involved and spend a day outside.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the park and spending time outdoors .",
+        "they played jumping games , skipping rope and some ball games .",
+        "everyone was happy to be involved and spend a day outside ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624409178315",
+  "model": "GLAC"
+}

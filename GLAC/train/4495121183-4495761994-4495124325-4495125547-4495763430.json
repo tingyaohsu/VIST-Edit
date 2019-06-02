@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4495121183-4495761994-4495124325-4495125547-4495763430",
+  "photo_sequence_ids": [
+    "4495121183",
+    "4495761994",
+    "4495124325",
+    "4495125547",
+    "4495763430"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was excited to be at the party . the girls were having a great time . the band was playing and dancing . the guys were enjoying themselves . the girl was so happy that she had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the lady was excited to be at the party . the girls were having a great time . the band was playing and dancing . the guys were enjoying themselves . the couple danced close .",
+      "normalized_edited_story_text_sent": [
+        "the lady was excited to be at the party .",
+        "the girls were having a great time .",
+        "the band was playing and dancing .",
+        "the guys were enjoying themselves .",
+        "the couple danced close ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the lady was excited to be getting married . the girls were having a great time . the band was playing and people were dancing . the guys were enjoying themselves . the girl was so happy that she had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the lady was excited to be getting married .",
+        "the girls were having a great time .",
+        "the band was playing and people were dancing .",
+        "the guys were enjoying themselves .",
+        "the girl was so happy that she had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "This was a very interesting wedding and the bride and groom loved the attention.",
+      "normalized_edited_story_text_sent": [
+        "this was a very interesting wedding and the bride and groom loved the attention ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The lady was excited to be going to the party.  She dressed up and danced all night.  She was the center of attraction dancing and kissed her boyfriend.",
+      "normalized_edited_story_text_sent": [
+        "the lady was excited to be going to the party .",
+        "she dressed up and danced all night .",
+        "she was the center of attraction dancing and kissed her boyfriend ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the lady was excited at the wedding . girls were having fun . a band played while people danced . guys were enjoying their time there . the lady was elated she was having fun .",
+      "normalized_edited_story_text_sent": [
+        "the lady was excited at the wedding .",
+        "girls were having fun .",
+        "a band played while people danced .",
+        "guys were enjoying their time there .",
+        "the lady was elated she was having fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623780545748",
+  "model": "GLAC"
+}

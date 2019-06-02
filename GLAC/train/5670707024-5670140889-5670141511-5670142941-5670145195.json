@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5670707024-5670140889-5670141511-5670142941-5670145195",
+  "photo_sequence_ids": [
+    "5670707024",
+    "5670140889",
+    "5670141511",
+    "5670142941",
+    "5670145195"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he spoke about the importance of the company . he was very proud of his work . he was given a speech . he was a great leader .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the speaker was very happy to be there . There was a big screen. Several people got on stage. There were images on the screen.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "there was a big screen .",
+        "several people got on stage .",
+        "there were images on the screen ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the speaker was very happy to be there . he spoke about the importance of the company . he was very proud of his work . he gave his speech . he was a great speaker .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he spoke about the importance of the company .",
+        "he was very proud of his work .",
+        "he gave his speech .",
+        "he was a great speaker ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "we attended a presentation today of graves and sculpted objects. several speakers talked about images of skeletons, skulls and bones and winged creatures. people also came on stage to ask questions and talk about the presentations.",
+      "normalized_edited_story_text_sent": [
+        "we attended a presentation today of graves and sculpted objects .",
+        "several speakers talked about images of skeletons , skulls and bones and winged creatures .",
+        "people also came on stage to ask questions and talk about the presentations ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very happy to be there and spoke for a while . he spoke about the importance of the company and the new mission. he was very proud of his work and made sure everyone knew it . he was given a speech when his phone rang . he was a great leader but had to leave .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there and spoke for a while .",
+        "he spoke about the importance of the company and the new mission .",
+        "he was very proud of his work and made sure everyone knew it .",
+        "he was given a speech when his phone rang .",
+        "he was a great leader but had to leave ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker was happy to be present . he espoused the importance of the company . he was proud of his presentation . he filled the speaking slot he was given . he demonstrated leadership abilities .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was happy to be present .",
+        "he espoused the importance of the company .",
+        "he was proud of his presentation .",
+        "he filled the speaking slot he was given .",
+        "he demonstrated leadership abilities ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626609658836",
+  "model": "GLAC"
+}

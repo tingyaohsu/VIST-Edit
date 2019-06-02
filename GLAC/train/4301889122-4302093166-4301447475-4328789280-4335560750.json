@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4301889122-4302093166-4301447475-4328789280-4335560750",
+  "photo_sequence_ids": [
+    "4301889122",
+    "4302093166",
+    "4301447475",
+    "4328789280",
+    "4335560750"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very nice . the cars were red and blue . the yellow car was a big hit . the car was covered in snow . the white car was a classic .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the car show was very nice . the cars were all different colors . the orange car was a big hit.  All of the cars were shiny.  the white car was a classic .",
+      "normalized_edited_story_text_sent": [
+        "the car show was very nice .",
+        "the cars were all different colors .",
+        "the orange car was a big hit .",
+        "all of the cars were shiny .",
+        "the white car was a classic ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The cars were all from different decades and were all well maintained.",
+      "normalized_edited_story_text_sent": [
+        "the cars were all from different decades and were all well maintained ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the cars were very nice . the cars were red and blue . the yellow car was a big hit . this car was covered in dust . the white car was a classic .",
+      "normalized_edited_story_text_sent": [
+        "the cars were very nice .",
+        "the cars were red and blue .",
+        "the yellow car was a big hit .",
+        "this car was covered in dust .",
+        "the white car was a classic ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "I went to a car show this weekend. There were so many awesome cars. I ad a great time and even got to drive a few! I will be going back next year for sure.",
+      "normalized_edited_story_text_sent": [
+        "i went to a car show this weekend .",
+        "there were so many awesome cars .",
+        "i ad a great time and even got to drive a few !",
+        "i will be going back next year for sure ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "Being downtown that day was like being at a classic car show. The old cars were all shiny and looked new. Sometimes friends saw friends they had not seen in a while. The cars were also very colorful.",
+      "normalized_edited_story_text_sent": [
+        "being downtown that day was like being at a classic car show .",
+        "the old cars were all shiny and looked new .",
+        "sometimes friends saw friends they had not seen in a while .",
+        "the cars were also very colorful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623276651796",
+  "model": "GLAC"
+}

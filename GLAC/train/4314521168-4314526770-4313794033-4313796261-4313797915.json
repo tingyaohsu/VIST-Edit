@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4314521168-4314526770-4313794033-4313796261-4313797915",
+  "photo_sequence_ids": [
+    "4314521168",
+    "4314526770",
+    "4313794033",
+    "4313796261",
+    "4313797915"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was empty . the room was filled with people . the computer was clean . the lady was working hard . the meeting was over .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Robert was glad the office was empty . the room was filled with people . the computer was clean . the lady was working hard . the meeting was over .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the office was empty .",
+        "the room was filled with people .",
+        "the computer was clean .",
+        "the lady was working hard .",
+        "the meeting was over ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the camera looked down at the room. the room had a few people . the computers were on and clean . the people were working hard . the man gave a speech.",
+      "normalized_edited_story_text_sent": [
+        "the camera looked down at the room .",
+        "the room had a few people .",
+        "the computers were on and clean .",
+        "the people were working hard .",
+        "the man gave a speech ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the office was filled with large tables . the room was filled with people on computers overlooking others below . A group of televisions were pointed at by a man with a walkie talkie.  A man was turning a computer screen.  Another man was speaking at a microphone while a lady was standing in the background .",
+      "normalized_edited_story_text_sent": [
+        "the office was filled with large tables .",
+        "the room was filled with people on computers overlooking others below .",
+        "a group of televisions were pointed at by a man with a walkie talkie .",
+        "a man was turning a computer screen .",
+        "another man was speaking at a microphone while a lady was standing in the background ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "few people were in the mostly empty office . the room began to fill up . a crisp computer monitor displayed activity . a lady was working diligently . a meeting was finished .",
+      "normalized_edited_story_text_sent": [
+        "few people were in the mostly empty office .",
+        "the room began to fill up .",
+        "a crisp computer monitor displayed activity .",
+        "a lady was working diligently .",
+        "a meeting was finished ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The control center is a crazy place to work. People are always rushing around and looking at a screen. It is a hard job.",
+      "normalized_edited_story_text_sent": [
+        "the control center is a crazy place to work .",
+        "people are always rushing around and looking at a screen .",
+        "it is a hard job ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623308603824",
+  "model": "GLAC"
+}

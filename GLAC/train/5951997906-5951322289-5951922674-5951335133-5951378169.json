@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5951997906-5951322289-5951922674-5951335133-5951378169",
+  "photo_sequence_ids": [
+    "5951997906",
+    "5951322289",
+    "5951922674",
+    "5951335133",
+    "5951378169"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the plane was ready for the big day . the soldiers were in the car . the vehicle was being pulled by . the driver was very excited . the police were there to help the injured .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the expo was set to begin. every suv was in its place. ready to be shown off",
+      "normalized_edited_story_text_sent": [
+        "the expo was set to begin .",
+        "every suv was in its place .",
+        "ready to be shown off"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the plane was ready for the big day . the soldiers were in the car . the vehicle was being pulled by . the driver was very excited . the police were there to help the injured .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the plane was ready for the big day .",
+        "the soldiers were in the car .",
+        "the vehicle was being pulled by .",
+        "the driver was very excited .",
+        "the police were there to help the injured ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "This was my first Land Rover convention.  They all kind of look the same.  As you can see, not all are in the best condition though.",
+      "normalized_edited_story_text_sent": [
+        "this was my first land rover convention .",
+        "they all kind of look the same .",
+        "as you can see , not all are in the best condition though ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the cars were ready for the big day. people were very excited to see the cars.  a tent was set up as an information booth.",
+      "normalized_edited_story_text_sent": [
+        "the cars were ready for the big day .",
+        "people were very excited to see the cars .",
+        "a tent was set up as an information booth ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Check out the 4x4s!  there was a plane ready for the big day . there were soldiers in the car . there was a vehicle  being pulled. the driver was very excited . If things got dangerous there were police on stand by .",
+      "normalized_edited_story_text_sent": [
+        "check out the 4x4s !",
+        "there was a plane ready for the big day .",
+        "there were soldiers in the car .",
+        "there was a vehicle being pulled .",
+        "the driver was very excited .",
+        "if things got dangerous there were police on stand by ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627225981046",
+  "model": "GLAC"
+}

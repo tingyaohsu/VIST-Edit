@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "32666126-32666179-32666242-32666251-32666264",
+  "photo_sequence_ids": [
+    "32666126",
+    "32666179",
+    "32666242",
+    "32666251",
+    "32666264"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/23/32666126_d8b567602d_o.jpg",
+    "https://farm1.staticflickr.com/22/32666179_67baf27c44_o.jpg",
+    "https://farm1.staticflickr.com/22/32666242_6530e509f4_o.jpg",
+    "https://farm1.staticflickr.com/21/32666251_cf468bd0c6_o.jpg",
+    "https://farm1.staticflickr.com/21/32666264_e7f5786c34_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was the first time i went to a fancy restaurant . everyone had a great time at the party . everyone was having a great time . everyone had a great time . after the show , we went back to the house to get a good view of the fireworks .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "It was the first time I went to a fancy restaurant. Everyone had a great time at the party. We had cake that was delicious.  After the party, we went back to the house to get a good view of the fireworks .",
+      "normalized_edited_story_text_sent": [
+        "it was the first time i went to a fancy restaurant .",
+        "everyone had a great time at the party .",
+        "we had cake that was delicious .",
+        "after the party , we went back to the house to get a good view of the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "it was the first time i went to a fancy restaurant, but everyone was having a great time together. the room was crowded, but we still made it work.",
+      "normalized_edited_story_text_sent": [
+        "it was the first time i went to a fancy restaurant , but everyone was having a great time together .",
+        "the room was crowded , but we still made it work ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "it is the first time i go to a fancy restaurant . everyone have a great time at the party . everyone is have a great time . everyone have a great time . after the show , we go back to the house to got a good view of the fireworks .",
+      "normalized_edited_story_text_sent": [
+        "it is the first time i go to a fancy restaurant .",
+        "everyone have a great time at the party .",
+        "everyone is have a great time .",
+        "everyone have a great time .",
+        "after the show , we go back to the house to got a good view of the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was the first time i went to a fancy restaurant . everyone had a great time at the party . everyone was having a great time . everyone had a great time and after the show , we went back to the house to get a good view of the fireworks .",
+      "normalized_edited_story_text_sent": [
+        "it was the first time i went to a fancy restaurant .",
+        "everyone had a great time at the party .",
+        "everyone was having a great time .",
+        "everyone had a great time and after the show , we went back to the house to get a good view of the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "A6QG9LM5WL0AQ",
+      "edited_story_text": "it was the first time i went to a fancy restaurant . there were a lot of people there having fun . everyone was having a great time and the room was very crowded.  There was no room to sit down. Everyone was clapping and having a good time at the party.",
+      "normalized_edited_story_text_sent": [
+        "it was the first time i went to a fancy restaurant .",
+        "there were a lot of people there having fun .",
+        "everyone was having a great time and the room was very crowded .",
+        "there was no room to sit down .",
+        "everyone was clapping and having a good time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1012491"
+}

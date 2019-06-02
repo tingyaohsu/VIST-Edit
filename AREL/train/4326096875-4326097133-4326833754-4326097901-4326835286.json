@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4326096875-4326097133-4326833754-4326097901-4326835286",
+  "photo_sequence_ids": [
+    "4326096875",
+    "4326097133",
+    "4326833754",
+    "4326097901",
+    "4326835286"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4055/4326096875_ebe26690c5_o.jpg",
+    "https://farm3.staticflickr.com/2769/4326097133_b12caf847f_o.jpg",
+    "https://farm3.staticflickr.com/2696/4326833754_5b953949b6_o.jpg",
+    "https://farm5.staticflickr.com/4025/4326097901_6348206779_o.jpg",
+    "https://farm5.staticflickr.com/4048/4326835286_75637701da_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the conference last weekend . there were a lot of people there . there was a lot of discussion . the speaker had a lot of questions . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the conference last weekend . there were a lot of people there . there was a lot of discussion . the speaker had a lot of questions and they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last weekend .",
+        "there were a lot of people there .",
+        "there was a lot of discussion .",
+        "the speaker had a lot of questions and they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went to the conference last weekend, there were a lot of people there. There were many discussions, the speaker asked important questions and we enjoyed ourselves.",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last weekend , there were a lot of people there .",
+        "there were many discussions , the speaker asked important questions and we enjoyed ourselves ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a conference last week with a lot of people . There was a lot of questions and great discussion.  A good time was had by all attendees.",
+      "normalized_edited_story_text_sent": [
+        "i went to a conference last week with a lot of people .",
+        "there was a lot of questions and great discussion .",
+        "a good time was had by all attendees ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "There were a lot of people attending the conference I went to last weekend. The speaker received a lot of questions and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people attending the conference i went to last weekend .",
+        "the speaker received a lot of questions and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the conference last weekend . there were a lot of people there . there was a lot of discussion . the speaker had a lot of questions . they had a great time  It was very good for everyone",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last weekend .",
+        "there were a lot of people there .",
+        "there was a lot of discussion .",
+        "the speaker had a lot of questions .",
+        "they had a great time it was very good for everyone"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623213948893"
+}

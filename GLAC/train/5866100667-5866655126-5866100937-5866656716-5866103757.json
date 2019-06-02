@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5866100667-5866655126-5866100937-5866656716-5866103757",
+  "photo_sequence_ids": [
+    "5866100667",
+    "5866655126",
+    "5866100937",
+    "5866656716",
+    "5866103757"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the race was about to begin . the bikers were off and running . the race was very close . the winner was crowned and he was ready for the finish line . the winner was announced .",
+  "edited_stories": [
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The race was about to begin.  The runners were swimming and biking now.  The race was hot and it was very close. Everyone got medals at the end. It was fun.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the runners were swimming and biking now .",
+        "the race was hot and it was very close .",
+        "everyone got medals at the end .",
+        "it was fun ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the race was about to begin for the first group of runners . the bikers were off and running as they tried to get the best time . the race was very close with no one in the lead . the winner was crowned and he was ready for the finish line but got hurt and came in second . the winner was announced and was given a trophy .",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin for the first group of runners .",
+        "the bikers were off and running as they tried to get the best time .",
+        "the race was very close with no one in the lead .",
+        "the winner was crowned and he was ready for the finish line but got hurt and came in second .",
+        "the winner was announced and was given a trophy ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the race was about to begin . the bikers were off and racing . the race was very intense . the winner was crowned and he was ready for the finish line . the winner was happy and proud.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the bikers were off and racing .",
+        "the race was very intense .",
+        "the winner was crowned and he was ready for the finish line .",
+        "the winner was happy and proud ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the race was about to commence . the runners were off . the race was neck and neck . the winner could taste coronation as he passed the finish line . he was ceremoniously announced .",
+      "normalized_edited_story_text_sent": [
+        "the race was about to commence .",
+        "the runners were off .",
+        "the race was neck and neck .",
+        "the winner could taste coronation as he passed the finish line .",
+        "he was ceremoniously announced ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The race began as a swim in the ocean.  The next even was a bike race and after that a five mile run.  It was quite challenging but the winners were given awards at the end.",
+      "normalized_edited_story_text_sent": [
+        "the race began as a swim in the ocean .",
+        "the next even was a bike race and after that a five mile run .",
+        "it was quite challenging but the winners were given awards at the end ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627037920956",
+  "model": "GLAC"
+}

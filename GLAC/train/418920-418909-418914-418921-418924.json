@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "418920-418909-418914-418921-418924",
+  "photo_sequence_ids": [
+    "418920",
+    "418909",
+    "418914",
+    "418921",
+    "418924"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the parade . the kids were excited to be there . the band played some great music . the family was very happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the crowd was getting ready for entertainment . the kids were excited to be there and some adults played with hula hoops . the entertainers played some great music . the crowd was very happy . the crowd shouted with excitement .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was getting ready for entertainment .",
+        "the kids were excited to be there and some adults played with hula hoops .",
+        "the entertainers played some great music .",
+        "the crowd was very happy .",
+        "the crowd shouted with excitement ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the crowd was ready for the concert. the people were excited to be there. the band played some great music. the whole family was very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the concert .",
+        "the people were excited to be there .",
+        "the band played some great music .",
+        "the whole family was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "There was a long line for the outdoor concert.  People were playing with hoops off to the side of the stage!  Check out the band who were great.  Here is our view of the stage when they played.",
+      "normalized_edited_story_text_sent": [
+        "there was a long line for the outdoor concert .",
+        "people were playing with hoops off to the side of the stage !",
+        "check out the band who were great .",
+        "here is our view of the stage when they played ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the crowd was ready for the parade .They hoola hooped. Everyone in the crowd cheered along with the band. It was a great day outside for a concert.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the parade .",
+        "they hoola hooped .",
+        "everyone in the crowd cheered along with the band .",
+        "it was a great day outside for a concert ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd was ready for the parade . massive amounts of people showed up. it was a great time.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the parade .",
+        "massive amounts of people showed up .",
+        "it was a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "10332",
+  "model": "GLAC"
+}

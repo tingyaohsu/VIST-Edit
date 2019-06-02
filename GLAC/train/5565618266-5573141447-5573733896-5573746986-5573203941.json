@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5565618266-5573141447-5573733896-5573746986-5573203941",
+  "photo_sequence_ids": [
+    "5565618266",
+    "5573141447",
+    "5573733896",
+    "5573746986",
+    "5573203941"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization organization was a great place to visit . the students were excited for the upcoming school . the kids were all excited about the game . the mascot was very proud of his team . the players were really good .",
+  "edited_stories": [
+    {
+      "worker_id": "ANZR2DCSMD0NX",
+      "edited_story_text": "the school was a great place to visit . the students and the kids were excited for the upcoming school game . the mascot was very proud of his team and the players were really good .",
+      "normalized_edited_story_text_sent": [
+        "the school was a great place to visit .",
+        "the students and the kids were excited for the upcoming school game .",
+        "the mascot was very proud of his team and the players were really good ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I got tickets to watch the NCAA Women\u0027s basketball championship. I saw the players coming from their buses and getting ready by their corner of the stadium. Opposing players shook hand before the game started. By the end, our home team took home the trophy and they gathered at the middle to hold it up to photographers.",
+      "normalized_edited_story_text_sent": [
+        "i got tickets to watch the ncaa women \u0027s basketball championship .",
+        "i saw the players coming from their buses and getting ready by their corner of the stadium .",
+        "opposing players shook hand before the game started .",
+        "by the end , our home team took home the trophy and they gathered at the middle to hold it up to photographers ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the basketball game was a great place to visit . the students were excited for the upcoming school year to start. the kids were all excited about the game and painted their faces. the mascot was very proud of his team and cheered during the entire game . the players were really good and the game was a close contest .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a great place to visit .",
+        "the students were excited for the upcoming school year to start .",
+        "the kids were all excited about the game and painted their faces .",
+        "the mascot was very proud of his team and cheered during the entire game .",
+        "the players were really good and the game was a close contest ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "the organization is a great place to visit . all the students were excited for the upcoming school year . they sat down and all the kids were excited about the game . the school mascot was very proud of his team . all the players were really good .",
+      "normalized_edited_story_text_sent": [
+        "the organization is a great place to visit .",
+        "all the students were excited for the upcoming school year .",
+        "they sat down and all the kids were excited about the game .",
+        "the school mascot was very proud of his team .",
+        "all the players were really good ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the students were excited for the upcoming school, the kids were all excited about the game . They came together and cheered for the win.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited for the upcoming school , the kids were all excited about the game .",
+        "they came together and cheered for the win ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626367932082",
+  "model": "GLAC"
+}

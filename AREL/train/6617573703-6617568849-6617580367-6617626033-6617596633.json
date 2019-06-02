@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6617573703-6617568849-6617580367-6617626033-6617596633",
+  "photo_sequence_ids": [
+    "6617573703",
+    "6617568849",
+    "6617580367",
+    "6617626033",
+    "6617596633"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7173/6617573703_0571cd9a0b_o.jpg",
+    "https://farm8.staticflickr.com/7009/6617568849_dc2e517d8e_o.jpg",
+    "https://farm8.staticflickr.com/7159/6617580367_cf43f19013_o.jpg",
+    "https://farm8.staticflickr.com/7154/6617626033_d05e869013_o.jpg",
+    "https://farm8.staticflickr.com/7175/6617596633_58aed1c5e0_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day at the park . we had a great view of the sky . they were so excited to be there . the fireworks were amazing . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "it was a beautiful day at the park . we had a great view of the sky . We were so excited to be there . the fireworks were amazing . we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day at the park .",
+        "we had a great view of the sky .",
+        "we were so excited to be there .",
+        "the fireworks were amazing .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "it was a beautiful day at the park . we had a great view of the sky . they were so excited to be there . the fireworks were amazing . It was a perfect day",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day at the park .",
+        "we had a great view of the sky .",
+        "they were so excited to be there .",
+        "the fireworks were amazing .",
+        "it was a perfect day"
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "it was a beautiful day to be in at the park . we had a great view of the sky . they were so excited to be there . the fireworks were amazing . we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day to be in at the park .",
+        "we had a great view of the sky .",
+        "they were so excited to be there .",
+        "the fireworks were amazing .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "it was a colorful day at the park . we had a awesome view of the sky . they were so glad to be there . the fireworks were amazing . we had a incredible time and had a awesome time .",
+      "normalized_edited_story_text_sent": [
+        "it was a colorful day at the park .",
+        "we had a awesome view of the sky .",
+        "they were so glad to be there .",
+        "the fireworks were amazing .",
+        "we had a incredible time and had a awesome time ."
+      ]
+    },
+    {
+      "worker_id": "A2X2CN7XX6C96N",
+      "edited_story_text": "it was a beautiful day at the cabin . [kimberly] and i had a great view of the sky . we were so excited to be there . the fireworks were amazing . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day at the cabin .",
+        "[female] and i had a great view of the sky .",
+        "we were so excited to be there .",
+        "the fireworks were amazing .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628674795963"
+}

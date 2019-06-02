@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4303233519-4303975766-4303973798-4303231247-4303976396",
+  "photo_sequence_ids": [
+    "4303233519",
+    "4303975766",
+    "4303973798",
+    "4303231247",
+    "4303976396"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the couple was very happy . they had a great time . the wedding was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were very happy and they had a great time . the wedding was a lot of fun ..",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy and they had a great time .",
+        "the wedding was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were very happy . the guests were having a great time.  The pictures were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the guests were having a great time .",
+        "the pictures were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were happy with everything . the couple wanted to do it again . they had a great time . the wedding was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were happy with everything .",
+        "the couple wanted to do it again .",
+        "they had a great time .",
+        "the wedding was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the wedding this weekend was quite beautiful. the bride and groom were very happy. they made such a beautiful couple. everyone who attended had a great time. overall, the wedding was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the wedding this weekend was quite beautiful .",
+        "the bride and groom were very happy .",
+        "they made such a beautiful couple .",
+        "everyone who attended had a great time .",
+        "overall , the wedding was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "A beautiful wedding with a very happy bride and groom. A lovely couple entranced with happiness. They had a wonderful time, and who could blame them? The wedding was a smash!",
+      "normalized_edited_story_text_sent": [
+        "a beautiful wedding with a very happy bride and groom .",
+        "a lovely couple entranced with happiness .",
+        "they had a wonderful time , and who could blame them ?",
+        "the wedding was a smash !"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623281358480",
+  "model": "GLAC"
+}

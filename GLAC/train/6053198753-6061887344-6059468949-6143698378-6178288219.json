@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "6053198753-6061887344-6059468949-6143698378-6178288219",
+  "photo_sequence_ids": [
+    "6053198753",
+    "6061887344",
+    "6059468949",
+    "6143698378",
+    "6178288219"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the town was beautiful . the buildings were very old . they had a lot of history . the streets were a bit creepy . the homes were still in use .",
+  "edited_stories": [
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the town was beautiful and peaceful . the buildings were very old with a uniqueness about them . they had a lot of history . the streets were quiet, empty and a bit creepy . the homes are still lived in by many people today .",
+      "normalized_edited_story_text_sent": [
+        "the town was beautiful and peaceful .",
+        "the buildings were very old with a uniqueness about them .",
+        "they had a lot of history .",
+        "the streets were quiet , empty and a bit creepy .",
+        "the homes are still lived in by many people today ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the town was  uniquely beautiful . most of the buildings were very old . they had a lot of history . the streets were a bit empty . the homes were still in use .",
+      "normalized_edited_story_text_sent": [
+        "the town was uniquely beautiful .",
+        "most of the buildings were very old .",
+        "they had a lot of history .",
+        "the streets were a bit empty .",
+        "the homes were still in use ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the town was beautiful . the buildings were very old . they had a lot of history . the streets were a bit creepy . the homes were still in use .\r\rThis town was so beautiful. The buildings were old and very vintage. This city is rich with history. Although, the streets gave me the creeps. The nearby homes were being occupied.",
+      "normalized_edited_story_text_sent": [
+        "the town was beautiful .",
+        "the buildings were very old .",
+        "they had a lot of history .",
+        "the streets were a bit creepy .",
+        "the homes were still in use .",
+        "this town was so beautiful .",
+        "the buildings were old and very vintage .",
+        "this city is rich with history .",
+        "although , the streets gave me the creeps .",
+        "the nearby homes were being occupied ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the little town was beautiful. the buildings were very old and hand-crafted. there was so much rich history. i really enjoyed my stay there.",
+      "normalized_edited_story_text_sent": [
+        "the little town was beautiful .",
+        "the buildings were very old and hand-crafted .",
+        "there was so much rich history .",
+        "i really enjoyed my stay there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the town was a beautiful sight . the buildings were very old and colorful . they went through a lot of history . the streets were a bit tilted . the beautiful homes were still occupied .",
+      "normalized_edited_story_text_sent": [
+        "the town was a beautiful sight .",
+        "the buildings were very old and colorful .",
+        "they went through a lot of history .",
+        "the streets were a bit tilted .",
+        "the beautiful homes were still occupied ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627332233871",
+  "model": "GLAC"
+}

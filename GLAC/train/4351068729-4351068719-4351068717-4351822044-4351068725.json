@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4351068729-4351068719-4351068717-4351822044-4351068725",
+  "photo_sequence_ids": [
+    "4351068729",
+    "4351068719",
+    "4351068717",
+    "4351822044",
+    "4351068725"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very boring . he was very proud of his speech . he was quite happy . he was very engaging . he had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The speaker was very happy. He engaged with the crowd and was proud of his speech. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy .",
+        "he engaged with the crowd and was proud of his speech .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the speaker was quite proud of his talk, and was happy with the response. thus he had a fine time.  while others thought the speaker was engaging, i thought he was very boring.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was quite proud of his talk , and was happy with the response .",
+        "thus he had a fine time .",
+        "while others thought the speaker was engaging , i thought he was very boring ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the conference was a smash. lots of talks and learning from one another.",
+      "normalized_edited_story_text_sent": [
+        "the conference was a smash .",
+        "lots of talks and learning from one another ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the speaker was very interesting. he was very proud of his speech . he was quite happy to meet the people in the crowd. he was very engaging to the staff workers . he and others had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very interesting .",
+        "he was very proud of his speech .",
+        "he was quite happy to meet the people in the crowd .",
+        "he was very engaging to the staff workers .",
+        "he and others had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The speaker was really proud of his speech. he seemed quite happy . he was really engaging, and everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was really proud of his speech .",
+        "he seemed quite happy .",
+        "he was really engaging , and everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623421040528",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4296059151-4298520077-4303824420-4318568302-4333118929",
+  "photo_sequence_ids": [
+    "4296059151",
+    "4298520077",
+    "4303824420",
+    "4318568302",
+    "4333118929"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sign was very old and rustic . the view from the top was amazing . the artwork was interesting . the building was so tall . the inside was also a nice place .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the cans were rusty. the sun was setting. the path was brick.  the bridge was clean.  the store was dark.",
+      "normalized_edited_story_text_sent": [
+        "the cans were rusty .",
+        "the sun was setting .",
+        "the path was brick .",
+        "the bridge was clean .",
+        "the store was dark ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we went on a visit to the town. the view from the top was amazing . the artwork was interesting . the buildings are amazing at night.",
+      "normalized_edited_story_text_sent": [
+        "we went on a visit to the town .",
+        "the view from the top was amazing .",
+        "the artwork was interesting .",
+        "the buildings are amazing at night ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the sign was very old and rustic and painted brown . the view from the top was amazing and couldn\u0027t of been better. the artwork was interesting with many cool designs . the building was so tall and blocked the moon . the inside was also a nice place to have a drink and relax .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very old and rustic and painted brown .",
+        "the view from the top was amazing and could n\u0027t of been better .",
+        "the artwork was interesting with many cool designs .",
+        "the building was so tall and blocked the moon .",
+        "the inside was also a nice place to have a drink and relax ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the sign was very old and rustic . the view from the top was amazing.",
+      "normalized_edited_story_text_sent": [
+        "the sign was very old and rustic .",
+        "the view from the top was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the sign was very old and rustic . the view from the top was amazing . the artwork was interesting . the building was so tall . the horizon was gorgeous at night .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very old and rustic .",
+        "the view from the top was amazing .",
+        "the artwork was interesting .",
+        "the building was so tall .",
+        "the horizon was gorgeous at night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623140181961",
+  "model": "GLAC"
+}

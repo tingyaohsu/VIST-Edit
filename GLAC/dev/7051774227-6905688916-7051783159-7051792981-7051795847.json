@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "7051774227-6905688916-7051783159-7051792981-7051795847",
+  "photo_sequence_ids": [
+    "7051774227",
+    "6905688916",
+    "7051783159",
+    "7051792981",
+    "7051795847"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . the kids were all excited . the boys were happy to see each other . the adults were very happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was having a great time at the party .The kids played. She posed for a photo. The party was a success.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "the kids played .",
+        "she posed for a photo .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the whole family came to the party yesterday.  the kids were all thrilled.  the boys were especially glad to see each other.  the adults were happy as well.  it was a great time.",
+      "normalized_edited_story_text_sent": [
+        "the whole family came to the party yesterday .",
+        "the kids were all thrilled .",
+        "the boys were especially glad to see each other .",
+        "the adults were happy as well .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a great time at the party . the kids were all excited .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "the kids were all excited ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was having a great time at the party which was just getting started . the kids were all excited about the weekend. the boys were happy to see each other because they hadn\u0027t in a while . the adults were very happy the kids were having fun . the whole family was there for the party.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party which was just getting started .",
+        "the kids were all excited about the weekend .",
+        "the boys were happy to see each other because they had n\u0027t in a while .",
+        "the adults were very happy the kids were having fun .",
+        "the whole family was there for the party ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the the family was having a great time at the party . the kids were all excited . the boys were happy to see each other . the adults were very happy . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the the family was having a great time at the party .",
+        "the kids were all excited .",
+        "the boys were happy to see each other .",
+        "the adults were very happy .",
+        "the whole family was there ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629391264564",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "3784302931-3785115580-3784307795-3784308923-3784314133",
+  "photo_sequence_ids": [
+    "3784302931",
+    "3785115580",
+    "3784307795",
+    "3784308923",
+    "3784314133"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the table was set for the wedding . the food was delicious . the salad was delicious . the main course was very elegant . the dessert was also a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The tables were set for the wedding. the food was delicious, and the main course was very elegant. The dessert was also a success!",
+      "normalized_edited_story_text_sent": [
+        "the tables were set for the wedding .",
+        "the food was delicious , and the main course was very elegant .",
+        "the dessert was also a success !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the food was delicious . perfectly cooked. i can� wait to go back",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious .",
+        "perfectly cooked .",
+        "i ca n\u0027t wait to go back"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the table was set for the wedding . the food was delicious . the setup was nice . the main course was very elegant . the dessert was also a success .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the wedding .",
+        "the food was delicious .",
+        "the setup was nice .",
+        "the main course was very elegant .",
+        "the dessert was also a success ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the table was set for the wedding . the food was delicious . the salad was very small . the main course was very elegant and had a piece of meat . the dessert was also a success .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the wedding .",
+        "the food was delicious .",
+        "the salad was very small .",
+        "the main course was very elegant and had a piece of meat .",
+        "the dessert was also a success ."
+      ]
+    },
+    {
+      "worker_id": "A1TXCO12MCTP8P",
+      "edited_story_text": "The table was set beautifully at the wedding reception we attended this weekend. The food was delicious, especially the appetizers and main course. I had the beef and Henry had the salmon. Even the salad was delicious.  The dessert was to die for. This was definitely top shelf food with a twist of elegance.",
+      "normalized_edited_story_text_sent": [
+        "the table was set beautifully at the wedding reception we attended this weekend .",
+        "the food was delicious , especially the appetizers and main course .",
+        "i had the beef and henry had the salmon .",
+        "even the salad was delicious .",
+        "the dessert was to die for .",
+        "this was definitely top shelf food with a twist of elegance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157621931946156",
+  "model": "GLAC"
+}

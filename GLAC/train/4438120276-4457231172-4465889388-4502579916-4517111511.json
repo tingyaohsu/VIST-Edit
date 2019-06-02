@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4438120276-4457231172-4465889388-4502579916-4517111511",
+  "photo_sequence_ids": [
+    "4438120276",
+    "4457231172",
+    "4465889388",
+    "4502579916",
+    "4517111511"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many different costumes . some of them were very creative . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The parade was spectacular! There were so many costumes. Each one, more varied than the last, and the amounts of creativity put into them were amazing. I had such a great time, especially when the winner was announced, which they deserved it by how cool their costume was.",
+      "normalized_edited_story_text_sent": [
+        "the parade was spectacular !",
+        "there were so many costumes .",
+        "each one , more varied than the last , and the amounts of creativity put into them were amazing .",
+        "i had such a great time , especially when the winner was announced , which they deserved it by how cool their costume was ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the parade in the village was a lot of fun . there were so many different items, such as hats and slippers, as well as costumed figurines of various sizes for sale . some of the designs were very creative . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade in the village was a lot of fun .",
+        "there were so many different items , such as hats and slippers , as well as costumed figurines of various sizes for sale .",
+        "some of the designs were very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria THOUGHT THAT the parade was a lot of fun . there were so many different costumes . some of them were very creative . i had a great time . the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "[female] thought that the parade was a lot of fun .",
+        "there were so many different costumes .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "the winner was very good ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun due to all the people who came . there were so many different costumes and a lot of fun outfits . some of them were very creative with amazing color . i had a great time seeing all the costumes people wore . the winner was very good and got a cash prize .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun due to all the people who came .",
+        "there were so many different costumes and a lot of fun outfits .",
+        "some of them were very creative with amazing color .",
+        "i had a great time seeing all the costumes people wore .",
+        "the winner was very good and got a cash prize ."
+      ]
+    },
+    {
+      "worker_id": "A2PSVYL53CDVJ3",
+      "edited_story_text": "I went to the parade, which was a lot of fun. In this first photo you can see this interesting group of artifacts - I purchased one. In this second photo you can see all the different costumes used, which were very creative and colorful. You can see the winner of a parade costume party in the fourth photo. I thought his costume was very cool. Overall, I had a jolly good time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the parade , which was a lot of fun .",
+        "in this first photo you can see this interesting group of artifacts - i purchased one .",
+        "in this second photo you can see all the different costumes used , which were very creative and colorful .",
+        "you can see the winner of a parade costume party in the fourth photo .",
+        "i thought his costume was very cool .",
+        "overall , i had a jolly good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623151132703",
+  "model": "GLAC"
+}

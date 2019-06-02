@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4432099612-4431343983-4432103404-4432104266-4431334505",
+  "photo_sequence_ids": [
+    "4432099612",
+    "4431343983",
+    "4432103404",
+    "4432104266",
+    "4431334505"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was very happy to be at the party . she was excited about the upcoming event . she was so excited to see the costume . she was ready for the day . she was in the mood and was ready to go .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the lady was very happy to be at the party . everyone was in good spirits.",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the party .",
+        "everyone was in good spirits ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the lady was very happy to be at the party . she was excited about the upcoming event . she was so excited to see the costume . she was ready for the day . she was in the mood and was ready to go .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the lady was very happy to be at the party .",
+        "she was excited about the upcoming event .",
+        "she was so excited to see the costume .",
+        "she was ready for the day .",
+        "she was in the mood and was ready to go ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "pictures were removed.",
+      "normalized_edited_story_text_sent": [
+        "pictures were removed ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the lady was very happy to be at the party . she was excited about the upcoming event . she was so excited to see the costume . she was ready for the day . she enjoyed the party .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the party .",
+        "she was excited about the upcoming event .",
+        "she was so excited to see the costume .",
+        "she was ready for the day .",
+        "she enjoyed the party ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the lady was very happy to be at the party . she was excited about the upcoming event . she was so happy to see the costume  . she was in the mood and was ready to go . the party was a great success.",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the party .",
+        "she was excited about the upcoming event .",
+        "she was so happy to see the costume .",
+        "she was in the mood and was ready to go .",
+        "the party was a great success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623492838109",
+  "model": "GLAC"
+}

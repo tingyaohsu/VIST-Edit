@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "57381975-57382082-57382152-57382195-57382245",
+  "photo_sequence_ids": [
+    "57381975",
+    "57382082",
+    "57382152",
+    "57382195",
+    "57382245"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/26/57381975_05591d5529_o.jpg",
+    "https://farm1.staticflickr.com/31/57382082_644655e4b4_o.jpg",
+    "https://farm1.staticflickr.com/27/57382152_f37aa1fe40_o.jpg",
+    "https://farm1.staticflickr.com/26/57382195_3b30c340fb_o.jpg",
+    "https://farm1.staticflickr.com/28/57382245_42a35903c5_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] and [male] had a great time at the party . the family gathered around the table to celebrate . my husband and i were very happy to see us . the whole family was there to celebrate . the whole family was there to celebrate .",
+  "edited_stories": [
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "[male] and [male] were loving the party! Everyone partying at the kitchen table! My husband and I were happy to see these guys! The whole Fam showed up to party! The whole crew was was getting down!",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were loving the party !",
+        "everyone partying at the kitchen table !",
+        "my husband and i were happy to see these guys !",
+        "the whole fam showed up to party !",
+        "the whole crew was was getting down !"
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "[male] and [male] came in costume and had a great time at the party . around the table, the family celebrated with drinks. [male], [male], and [male] were glad that we came . everyone got up and started to have fun . everyone posed for a group shot .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] came in costume and had a great time at the party .",
+        "around the table , the family celebrated with drinks .",
+        "[male] , [male] , and [male] were glad that we came .",
+        "everyone got up and started to have fun .",
+        "everyone posed for a group shot ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "[male] and [male] were having fun at the Halloween party. All our friends and family got together to celebrate. Everyone sat together on the couch and talked. [male] was really happy to see us. Everyone had a great time at the Halloween party.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were having fun at the halloween party .",
+        "all our friends and family got together to celebrate .",
+        "everyone sat together on the couch and talked .",
+        "[male] was really happy to see us .",
+        "everyone had a great time at the halloween party ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "[male] and [male] had a great time at the party . the family gathered around the table to celebrate . my husband and i were very happy to see us . the whole family was there to celebrate . The family had fun.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] had a great time at the party .",
+        "the family gathered around the table to celebrate .",
+        "my husband and i were very happy to see us .",
+        "the whole family was there to celebrate .",
+        "the family had fun ."
+      ]
+    },
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "[male] and [male] had a great time at the party. The family gathered around the table to celebrate . People dressed up in crazy costumes. Some of  the costumes used fake blood. The group gathered for a fun picture while celebrating.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] had a great time at the party .",
+        "the family gathered around the table to celebrate .",
+        "people dressed up in crazy costumes .",
+        "some of the costumes used fake blood .",
+        "the group gathered for a fun picture while celebrating ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1242576"
+}

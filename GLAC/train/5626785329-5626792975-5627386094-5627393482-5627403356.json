@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "5626785329-5626792975-5627386094-5627393482-5627403356",
+  "photo_sequence_ids": [
+    "5626785329",
+    "5626792975",
+    "5627386094",
+    "5627393482",
+    "5627403356"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they had a great time . they saw some interesting things . they also had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Look at what had to do to get our car across the flooded plain!!! Good thing we had a bunch of old boards laying around.",
+      "normalized_edited_story_text_sent": [
+        "look at what had to do to get our car across the flooded plain !!!",
+        "good thing we had a bunch of old boards laying around ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The workers loaded up the boat with wood to make the bridge, they placed the wood over the water so a car could pass over.",
+      "normalized_edited_story_text_sent": [
+        "the workers loaded up the boat with wood to make the bridge , they placed the wood over the water so a car could pass over ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the family went to the lake today. we had an interesting time. we used some boards to build a raft onto the old canoes! at one point when we went to leave, the road was washed out, so we worked together to lay the boards across like a bridge so the car could get over it. it was so exciting to work as a team and put our creative ideas together.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake today .",
+        "we had an interesting time .",
+        "we used some boards to build a raft onto the old canoes !",
+        "at one point when we went to leave , the road was washed out , so we worked together to lay the boards across like a bridge so the car could get over it .",
+        "it was so exciting to work as a team and put our creative ideas together ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the family went to the beach . they had a great time . they saw some interesting things . they also had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family went to the beach .",
+        "they had a great time .",
+        "they saw some interesting things .",
+        "they also had a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A14M2EERU7E8KD",
+      "edited_story_text": "we went on a mission trip to a different country. While there we helped village people build a boat and a dock. we gathered the wood, made a small bridge and then went back to the camp.",
+      "normalized_edited_story_text_sent": [
+        "we went on a mission trip to a different country .",
+        "while there we helped village people build a boat and a dock .",
+        "we gathered the wood , made a small bridge and then went back to the camp ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626390694245",
+  "model": "GLAC"
+}

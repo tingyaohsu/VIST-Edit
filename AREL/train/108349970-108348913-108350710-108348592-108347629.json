@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "108349970-108348913-108350710-108348592-108347629",
+  "photo_sequence_ids": [
+    "108349970",
+    "108348913",
+    "108350710",
+    "108348592",
+    "108347629"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/48/108349970_45cb40524a_o.jpg",
+    "https://farm1.staticflickr.com/55/108348913_9d0129d17b_o.jpg",
+    "https://farm1.staticflickr.com/55/108350710_816a16b3a8_o.jpg",
+    "https://farm1.staticflickr.com/50/108348592_8da045f247_o.jpg",
+    "https://farm1.staticflickr.com/45/108347629_352136ed58_o.jpg"
+  ],
+  "auto_story_text_normalized": "the costume party was a lot of fun . i had a lot of fun at the party . [male] was dressed as a witch . this guy was dressed as a pirate . some of the costumes were very creative .",
+  "edited_stories": [
+    {
+      "worker_id": "A3NHJPE6326P9V",
+      "edited_story_text": "the costume party was a lot of fun.We had a lot of fun at the party. [Reggie] was dressed as a witch . this guy was dressed as a pirate. some of the costumes were very creative as they did great poses.",
+      "normalized_edited_story_text_sent": [
+        "the costume party was a lot of fun.we had a lot of fun at the party .",
+        "[male] was dressed as a witch .",
+        "this guy was dressed as a pirate .",
+        "some of the costumes were very creative as they did great poses ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the costume party was a lot of fun . i had a lot of fun meeting the guests at the party . [male] was dressed as a giant candy . this guy was dressed in a sombrero while a woman was a witch. some of the costumes were very creative and unexpected .",
+      "normalized_edited_story_text_sent": [
+        "the costume party was a lot of fun .",
+        "i had a lot of fun meeting the guests at the party .",
+        "[male] was dressed as a giant candy .",
+        "this guy was dressed in a sombrero while a woman was a witch .",
+        "some of the costumes were very creative and unexpected ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the costume party was a lot of fun . i had a lot of fun with my friends . [male] was dressed as an m and m . this guy was in a sombrero . some of the costumes were very creative .",
+      "normalized_edited_story_text_sent": [
+        "the costume party was a lot of fun .",
+        "i had a lot of fun with my friends .",
+        "[male] was dressed as an m and m .",
+        "this guy was in a sombrero .",
+        "some of the costumes were very creative ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The costume party was a lot of fun. [male] was dressed as an M\u0026M.  [Woman] was dressed as a witch.  This guy was dressed as a Mexican person with a poncho and a Mexican hat.  Some of the costumes were very creative, like the lady in a bally dancing outfit.",
+      "normalized_edited_story_text_sent": [
+        "the costume party was a lot of fun .",
+        "[male] was dressed as an m \u0026 m. [female] was dressed as a witch .",
+        "this guy was dressed as a mexican person with a poncho and a mexican hat .",
+        "some of the costumes were very creative , like the lady in a bally dancing outfit ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "all my friends came to the costume party. it was a ton of fun. [male] was dressed as a witch, and someone else was a pirate. some of the costumes were very creative .",
+      "normalized_edited_story_text_sent": [
+        "all my friends came to the costume party .",
+        "it was a ton of fun .",
+        "[male] was dressed as a witch , and someone else was a pirate .",
+        "some of the costumes were very creative ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594075705296"
+}

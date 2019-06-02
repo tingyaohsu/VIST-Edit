@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "380018825-380021108-380023278-380024122-380026981",
+  "photo_sequence_ids": [
+    "380018825",
+    "380021108",
+    "380023278",
+    "380024122",
+    "380026981"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers are getting ready for the march . the flag is being carried by the hearse . the men are carrying the casket . the soldier is presented with his service . the man is giving a speech .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the soldiers are in formation to practice marching . A wall is up to practice drills . the military man salutes the other servicemen. A program is on the table.  the soldier is presented with his service award and is pinning it to his uniform.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are in formation to practice marching .",
+        "a wall is up to practice drills .",
+        "the military man salutes the other servicemen .",
+        "a program is on the table .",
+        "the soldier is presented with his service award and is pinning it to his uniform ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the soldiers are getting ready for the march down the walkway . the flag is being carried by the hearse as well as a few soliders . the men are carrying the casket to honor those who died in the war . the soldier is presented with his service started to cry. the man is giving a speech also cried due to the occasion .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are getting ready for the march down the walkway .",
+        "the flag is being carried by the hearse as well as a few soliders .",
+        "the men are carrying the casket to honor those who died in the war .",
+        "the soldier is presented with his service started to cry .",
+        "the man is giving a speech also cried due to the occasion ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the soldiers are getting ready for the big march and the flag is being carried by the hearse . the men are carrying the casket . the soldier is presented with his service . the man is giving a speech .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are getting ready for the big march and the flag is being carried by the hearse .",
+        "the men are carrying the casket .",
+        "the soldier is presented with his service .",
+        "the man is giving a speech ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the soldiers are getting ready for the march . this a red wall to climb . the men are carrying the casket . the soldier is presented with his service . the man is looking at the uniform .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are getting ready for the march .",
+        "this a red wall to climb .",
+        "the men are carrying the casket .",
+        "the soldier is presented with his service .",
+        "the man is looking at the uniform ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the soldiers are getting ready for the march .There was a large red wall. The soldiers lined up. The man put a pin on his jacket.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are getting ready for the march .",
+        "there was a large red wall .",
+        "the soldiers lined up .",
+        "the man put a pin on his jacket ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594518186150",
+  "model": "GLAC"
+}

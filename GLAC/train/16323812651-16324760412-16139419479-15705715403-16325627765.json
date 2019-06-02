@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "16323812651-16324760412-16139419479-15705715403-16325627765",
+  "photo_sequence_ids": [
+    "16323812651",
+    "16324760412",
+    "16139419479",
+    "15705715403",
+    "16325627765"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people there . some of them were very old . they were all very fast . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "in my neighborhood this weekend, traffic was tied up and i wasn\u0027t sure why. cars were backed up for blocks. i discovered a protest was taking place. the police were keeping an eye out for trouble. the protesters were vocal but well-behaved.",
+      "normalized_edited_story_text_sent": [
+        "in my neighborhood this weekend , traffic was tied up and i was n\u0027t sure why .",
+        "cars were backed up for blocks .",
+        "i discovered a protest was taking place .",
+        "the police were keeping an eye out for trouble .",
+        "the protesters were vocal but well-behaved ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The parade was a lot of fun and there were a lot of people there. Some of them were very old and some were very young. They were all very fast. I had an excellent time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun and there were a lot of people there .",
+        "some of them were very old and some were very young .",
+        "they were all very fast .",
+        "i had an excellent time ."
+      ]
+    },
+    {
+      "worker_id": "A2ZDXFFGSPHGBE",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people there, including some very old people  . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people there , including some very old people .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the protest was really important so they stopped traffic . there were a lot of people there even though it was cold . some of them were very old . they were all very dedicated  . i had a great time just watching from the sidelines.",
+      "normalized_edited_story_text_sent": [
+        "the protest was really important so they stopped traffic .",
+        "there were a lot of people there even though it was cold .",
+        "some of them were very old .",
+        "they were all very dedicated .",
+        "i had a great time just watching from the sidelines ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Many cars are getting ready to move out of the way and prepare for the police controlled event..",
+      "normalized_edited_story_text_sent": [
+        "many cars are getting ready to move out of the way and prepare for the police controlled event ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157650396531315",
+  "model": "GLAC"
+}

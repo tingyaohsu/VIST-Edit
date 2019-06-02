@@ -1,0 +1,62 @@
+{
+  "photo_sequence_id": "4292424265-4292416229-4292424943-4293168784-4293162714",
+  "photo_sequence_ids": [
+    "4292424265",
+    "4292416229",
+    "4292424943",
+    "4293168784",
+    "4293162714"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old church was a great place to visit . the grounds were very beautiful . the architecture was amazing . the gardens were so beautiful . the buildings were amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A2KQLLEA8WMRBL",
+      "edited_story_text": "the old church was a great place to visit . the grounds were very beautiful and the architecture was amazing . the gardens were so beautiful and the buildings were really great .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the grounds were very beautiful and the architecture was amazing .",
+        "the gardens were so beautiful and the buildings were really great ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the old church was a great place to visit . the grounds were very beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the grounds were very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The old church was a great place to visit and the grounds were very beautiful. The architecture was amazing. The gardens were so beautiful and the buildings were incredible.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit and the grounds were very beautiful .",
+        "the architecture was amazing .",
+        "the gardens were so beautiful and the buildings were incredible ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the old church was a great place to visit . the grounds were very beautiful . the architecture was amazing . the grass was so beautiful and green. the buildings were amazing and tall.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the grounds were very beautiful .",
+        "the architecture was amazing .",
+        "the grass was so beautiful and green .",
+        "the buildings were amazing and tall ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The castle was very large with beautiful lush green grounds and tunnels.",
+      "normalized_edited_story_text_sent": [
+        "the castle was very large with beautiful lush green grounds and tunnels ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623130414003",
+  "model": "GLAC"
+}

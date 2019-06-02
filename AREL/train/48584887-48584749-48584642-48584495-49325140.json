@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "48584887-48584749-48584642-48584495-49325140",
+  "photo_sequence_ids": [
+    "48584887",
+    "48584749",
+    "48584642",
+    "48584495",
+    "49325140"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/31/48584887_0191176e06_o.jpg",
+    "https://farm1.staticflickr.com/33/48584749_ec8da3844e_o.jpg",
+    "https://farm1.staticflickr.com/31/48584642_32e65c1917_o.jpg",
+    "https://farm1.staticflickr.com/27/48584495_9fa8433470_o.jpg",
+    "https://farm1.staticflickr.com/30/49325140_4336d87de2_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family gathered for the wedding . the bride and groom pose for a picture . the couple took a picture in front of the building . the food was delicious . everyone had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "the family gathered for the wedding . the bride and groom posed for a picture .the food was delicious . everyone had a great time at the reception",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the wedding .",
+        "the bride and groom posed for a picture .",
+        "the food was delicious .",
+        "everyone had a great time at the reception"
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The family gathered for the wedding. The bride and groom pose for a picture with all of the family. The couple took a picture in front of the building. The food was delicious. Everyone had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the wedding .",
+        "the bride and groom pose for a picture with all of the family .",
+        "the couple took a picture in front of the building .",
+        "the food was delicious .",
+        "everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We gathered for the wedding. We posed as a group for a picture. The bride and groom took a picture in front of an old castle. Then we had good food inside. It was a great time.",
+      "normalized_edited_story_text_sent": [
+        "we gathered for the wedding .",
+        "we posed as a group for a picture .",
+        "the bride and groom took a picture in front of an old castle .",
+        "then we had good food inside .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the family gathered for the wedding at the historic location. the bride and groom pose for a picture with the guests. the couple took a picture in front of the castle . the food was tasty . everyone had a wonderful time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the wedding at the historic location .",
+        "the bride and groom pose for a picture with the guests .",
+        "the couple took a picture in front of the castle .",
+        "the food was tasty .",
+        "everyone had a wonderful time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "the family arrived for the outside wedding. the bride and groom poised for a family photo. the couple then took photos together. the scenery was beautiful . at the reception the food was delicious . the guest took photos after the wedding . the wedding was wonderful.",
+      "normalized_edited_story_text_sent": [
+        "the family arrived for the outside wedding .",
+        "the bride and groom poised for a family photo .",
+        "the couple then took photos together .",
+        "the scenery was beautiful .",
+        "at the reception the food was delicious .",
+        "the guest took photos after the wedding .",
+        "the wedding was wonderful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1056310"
+}

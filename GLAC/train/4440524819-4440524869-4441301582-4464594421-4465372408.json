@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4440524819-4440524869-4441301582-4464594421-4465372408",
+  "photo_sequence_ids": [
+    "4440524819",
+    "4440524869",
+    "4441301582",
+    "4464594421",
+    "4465372408"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the meeting was very boring . there were a lot of people there . i had a great time . everyone was listening to the speaker . afterward we all went back home .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The meeting was very boring and there were a lot of people there. Everyone was listening to the speaker and I had a great time.  Afterward, we all went back home.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was very boring and there were a lot of people there .",
+        "everyone was listening to the speaker and i had a great time .",
+        "afterward , we all went back home ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the meeting was long . there were a lot of people there. people took turns to speak and give their feedback. a lot of people participated. there was a large group of people seated around the hall while the speaker took the stage and spoke to everyone. everyone was listening to the speaker . afterward we all went back home .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was long .",
+        "there were a lot of people there .",
+        "people took turns to speak and give their feedback .",
+        "a lot of people participated .",
+        "there was a large group of people seated around the hall while the speaker took the stage and spoke to everyone .",
+        "everyone was listening to the speaker .",
+        "afterward we all went back home ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the meeting was very boring and people fell asleep . there were a lot of people there which was expected . i had a great time talking to everyone. everyone was listening to the speaker as he explained the plans . afterward we all went back home and went to sleep .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was very boring and people fell asleep .",
+        "there were a lot of people there which was expected .",
+        "i had a great time talking to everyone .",
+        "everyone was listening to the speaker as he explained the plans .",
+        "afterward we all went back home and went to sleep ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the meeting bored attendees stiff . there were a lot of bored people . i had a wonderful time, though . everyone was barely listening to the speaker . afterwards, we all left relieved .",
+      "normalized_edited_story_text_sent": [
+        "the meeting bored attendees stiff .",
+        "there were a lot of bored people .",
+        "i had a wonderful time , though .",
+        "everyone was barely listening to the speaker .",
+        "afterwards , we all left relieved ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There was a lot of people at the meeting. They asked questions. They put papers on the board. They all sat in a circle.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of people at the meeting .",
+        "they asked questions .",
+        "they put papers on the board .",
+        "they all sat in a circle ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623514925837",
+  "model": "GLAC"
+}

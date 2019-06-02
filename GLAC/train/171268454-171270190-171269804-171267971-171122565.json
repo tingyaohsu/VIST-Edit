@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "171268454-171270190-171269804-171267971-171122565",
+  "photo_sequence_ids": [
+    "171268454",
+    "171270190",
+    "171269804",
+    "171267971",
+    "171122565"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a bbq . the kids enjoyed playing with the fire . they had a lot of fun . the boys had a great time . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family got together for a bbq . the man was playing with the kids while they enjoyed playing in the pool. they had a lot of fun . the boys had a great time . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a bbq .",
+        "the man was playing with the kids while they enjoyed playing in the pool .",
+        "they had a lot of fun .",
+        "the boys had a great time .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a bbq . the kids enjoyed playing in the pool and with everyone . We grilled out and ate great food.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a bbq .",
+        "the kids enjoyed playing in the pool and with everyone .",
+        "we grilled out and ate great food ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family got together for a big bbq and the kids enjoyed playing with the fire . they had a lot of fun . the boys had a great time . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a big bbq and the kids enjoyed playing with the fire .",
+        "they had a lot of fun .",
+        "the boys had a great time .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The family got together for a backyard bbq . The kids enjoyed playing with the fire. They really had a lot of fun. The boys had a great time and the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a backyard bbq .",
+        "the kids enjoyed playing with the fire .",
+        "they really had a lot of fun .",
+        "the boys had a great time and the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "our family, including my little nephew, got together for a bbq this past weekend. my dad loves to play with all of the kids. he makes them laugh so hard with his antics. he\u0027s also in charge of the bbq because he\u0027s the best cook. his bbq chicken is the best i\u0027ve ever had.",
+      "normalized_edited_story_text_sent": [
+        "our family , including my little nephew , got together for a bbq this past weekend .",
+        "my dad loves to play with all of the kids .",
+        "he makes them laugh so hard with his antics .",
+        "he \u0027s also in charge of the bbq because he \u0027s the best cook .",
+        "his bbq chicken is the best i \u0027ve ever had ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594171836398",
+  "model": "GLAC"
+}

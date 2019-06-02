@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6914458951-6914445773-6914504273-6914443677-6914473853",
+  "photo_sequence_ids": [
+    "6914458951",
+    "6914445773",
+    "6914504273",
+    "6914443677",
+    "6914473853"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7200/6914458951_786508a751_o.jpg",
+    "https://farm8.staticflickr.com/7176/6914445773_43760309bf_o.jpg",
+    "https://farm8.staticflickr.com/7204/6914504273_21a239cd06_o.jpg",
+    "https://farm8.staticflickr.com/7198/6914443677_2a7bd5a8da_o.jpg",
+    "https://farm8.staticflickr.com/7049/6914473853_a1bda1fe30_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on vacation last weekend . there were a lot of people there . this is a picture of a store . the buildings were very old . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TDK0LD62WZ8Y",
+      "edited_story_text": "I went on vacation last weekend. A lot of people were there. Here is a picture of a store. The buildings were very old.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend .",
+        "a lot of people were there .",
+        "here is a picture of a store .",
+        "the buildings were very old ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went on vacation last weekend . there were many people there . this is a photo of a store . the buildings were very old . this is another photo of a building .",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend .",
+        "there were many people there .",
+        "this is a photo of a store .",
+        "the buildings were very old .",
+        "this is another photo of a building ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went on vacation last weekend and walked along the dock . there were a lot of people there, including at the food stand. this store had a billboard above it . the buildings were very old yet charming . this building has beautiful foliage surrounding it.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend and walked along the dock .",
+        "there were a lot of people there , including at the food stand .",
+        "this store had a billboard above it .",
+        "the buildings were very old yet charming .",
+        "this building has beautiful foliage surrounding it ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "I went on vacation last weekend and there were a lot of people there. This is a picture of a store. The buildings there were very old. This is a picture of an interesting building.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend and there were a lot of people there .",
+        "this is a picture of a store .",
+        "the buildings there were very old .",
+        "this is a picture of an interesting building ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i went on vacation last weekend. there were a lot of people there, and some interesting old buildings. i enjoyed the restaurant we ate at too.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend .",
+        "there were a lot of people there , and some interesting old buildings .",
+        "i enjoyed the restaurant we ate at too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629550887349"
+}

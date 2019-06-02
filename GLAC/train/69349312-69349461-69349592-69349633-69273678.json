@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "69349312-69349461-69349592-69349633-69273678",
+  "photo_sequence_ids": [
+    "69349312",
+    "69349461",
+    "69349592",
+    "69349633",
+    "69273678"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was gathered for the birthday party . the cake was delicious . the whole family enjoyed the meal . the food was delicious . the happy couple was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family was gathered for the birthday party. the meal was delicious and the whole family enjoyed it. the cake was also delicious. everyone was happy.",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party .",
+        "the meal was delicious and the whole family enjoyed it .",
+        "the cake was also delicious .",
+        "everyone was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was gathered for the birthday party which started at noon . the cake was delicious and everyone got a piece . the whole family enjoyed the meal and was full . the food was delicious which was made by mom. the happy couple was so happy that everyone came to visit.",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party which started at noon .",
+        "the cake was delicious and everyone got a piece .",
+        "the whole family enjoyed the meal and was full .",
+        "the food was delicious which was made by mom .",
+        "the happy couple was so happy that everyone came to visit ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the family was gathered for the thanksgiving feast . the turkey basket was a centerpiece . the mom poured wine . the food was delicious . this guy made a funny face .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the thanksgiving feast .",
+        "the turkey basket was a centerpiece .",
+        "the mom poured wine .",
+        "the food was delicious .",
+        "this guy made a funny face ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "my whole family got together for a birthday party this week. the food was amazing. my mom cooked an amazing meal for everyone. we ate together and talked and had a great time. i am so happy we chose to spend the weekend together.",
+      "normalized_edited_story_text_sent": [
+        "my whole family got together for a birthday party this week .",
+        "the food was amazing .",
+        "my mom cooked an amazing meal for everyone .",
+        "we ate together and talked and had a great time .",
+        "i am so happy we chose to spend the weekend together ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was gathered for the birthday party . the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party .",
+        "the food was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1493887",
+  "model": "GLAC"
+}

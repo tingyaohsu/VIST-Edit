@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4594101811-4594715218-4605897606-4594717632-4605288437",
+  "photo_sequence_ids": [
+    "4594101811",
+    "4594715218",
+    "4605897606",
+    "4594717632",
+    "4605288437"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was very happy to be at the graduation ceremony . the speaker was presented with a speech . the graduates were excited for the graduate . the students were so proud of their accomplishments . the graduates were very proud of the graduate .",
+  "edited_stories": [
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the official was joined on his visit by several military men, showing him some buildings and the cafeteria. He gave a speech to a group of people and was presented with a commemorative item later that day.",
+      "normalized_edited_story_text_sent": [
+        "the official was joined on his visit by several military men , showing him some buildings and the cafeteria .",
+        "he gave a speech to a group of people and was presented with a commemorative item later that day ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the family was very happy to be at the graduation ceremony . the speaker was presented with a speech . the graduates were excited for the graduate . the students were so proud of their accomplishments . the graduates were very proud of the graduate .h",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family was very happy to be at the graduation ceremony .",
+        "the speaker was presented with a speech .",
+        "the graduates were excited for the graduate .",
+        "the students were so proud of their accomplishments .",
+        "the graduates were very proud of the graduate ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was very happy to be at the graduation ceremony . the speaker was presenting with a speech . the graduates were excited to leave . the students were so proud of their accomplishments . the graduates were satisfied .",
+      "normalized_edited_story_text_sent": [
+        "the family was very happy to be at the graduation ceremony .",
+        "the speaker was presenting with a speech .",
+        "the graduates were excited to leave .",
+        "the students were so proud of their accomplishments .",
+        "the graduates were satisfied ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family was very happy to be at my graduation ceremony . The speaker was presented a speech . We graduates were excited for the graduation . We students were so proud of our accomplishments . We were very proud of the graduates .",
+      "normalized_edited_story_text_sent": [
+        "my family was very happy to be at my graduation ceremony .",
+        "the speaker was presented a speech .",
+        "we graduates were excited for the graduation .",
+        "we students were so proud of our accomplishments .",
+        "we were very proud of the graduates ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the family was very happy to be at the ceremony. the speaker honored the soldiers, and everyone was so proud of their accomplishments! we had a great time celebrating Robert.",
+      "normalized_edited_story_text_sent": [
+        "the family was very happy to be at the ceremony .",
+        "the speaker honored the soldiers , and everyone was so proud of their accomplishments !",
+        "we had a great time celebrating [male] ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624030292358",
+  "model": "GLAC"
+}

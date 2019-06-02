@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4395746825-4395744705-4395751623-4395746387-4395748093",
+  "photo_sequence_ids": [
+    "4395746825",
+    "4395744705",
+    "4395751623",
+    "4395746387",
+    "4395748093"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the church . he was looking for a picture . he was very excited . he was so proud . he was the life of the service .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the guys was battling the cold. the snow storm was pretty serious",
+      "normalized_edited_story_text_sent": [
+        "the guys was battling the cold .",
+        "the snow storm was pretty serious"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There were many good paintings. One showed people with a dog.There was one of a house. Another painting depicted a ship.",
+      "normalized_edited_story_text_sent": [
+        "there were many good paintings .",
+        "one showed people with a dog.there was one of a house .",
+        "another painting depicted a ship ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the man was lifting snow.  the people are standing by a teepee.  the stars are out.  the ship crashed.  the people hunted.",
+      "normalized_edited_story_text_sent": [
+        "the man was lifting snow .",
+        "the people are standing by a teepee .",
+        "the stars are out .",
+        "the ship crashed .",
+        "the people hunted ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the man was part of history . he was looking for a picture . he was very excited . he was so proud . he was the life of the service .",
+      "normalized_edited_story_text_sent": [
+        "the man was part of history .",
+        "he was looking for a picture .",
+        "he was very excited .",
+        "he was so proud .",
+        "he was the life of the service ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "Robert was happy to be at the church. He was showing everyone the old postcards he\u0027d found. He was very excited to tell their story. He was so proud. It was the life of the service.",
+      "normalized_edited_story_text_sent": [
+        "[male] was happy to be at the church .",
+        "he was showing everyone the old postcards he \u0027d found .",
+        "he was very excited to tell their story .",
+        "he was so proud .",
+        "it was the life of the service ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623404366739",
+  "model": "GLAC"
+}

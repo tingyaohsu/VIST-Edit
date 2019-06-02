@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "2390186399-2391018918-2390184847-2390186005-2391016780",
+  "photo_sequence_ids": [
+    "2390186399",
+    "2391018918",
+    "2390184847",
+    "2390186005",
+    "2391016780"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . everyone had a great time . afterward we all went home .",
+  "edited_stories": [
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the game a lot of fun . there were a lot of people there . we ate food and cheered the team on everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the game a lot of fun .",
+        "there were a lot of people there .",
+        "we ate food and cheered the team on everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the basketball game was a lot of fun . there were a lot of people there . everyone had a great time . afterward we all went home .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone had a great time .",
+        "afterward we all went home ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My husband and our family went to the NBA playoffs and took a lot of pictures. My husband kept interrupting by eating his tasty onion rings. Our family was having fun and thoroughly engaged in the ball game.",
+      "normalized_edited_story_text_sent": [
+        "my husband and our family went to the nba playoffs and took a lot of pictures .",
+        "my husband kept interrupting by eating his tasty onion rings .",
+        "our family was having fun and thoroughly engaged in the ball game ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big party was a lot of fun and there were a lot of people there . some of them were very good . everyone had a great time . afterward we all went home .",
+      "normalized_edited_story_text_sent": [
+        "the big party was a lot of fun and there were a lot of people there .",
+        "some of them were very good .",
+        "everyone had a great time .",
+        "afterward we all went home ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the game was a lot of fun . there were so many people there. everyone had a great time . afterward we all went home .",
+      "normalized_edited_story_text_sent": [
+        "the game was a lot of fun .",
+        "there were so many people there .",
+        "everyone had a great time .",
+        "afterward we all went home ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157604403044021",
+  "model": "GLAC"
+}

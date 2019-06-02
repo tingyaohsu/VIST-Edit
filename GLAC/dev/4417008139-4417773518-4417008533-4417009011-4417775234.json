@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4417008139-4417773518-4417008533-4417009011-4417775234",
+  "photo_sequence_ids": [
+    "4417008139",
+    "4417773518",
+    "4417008533",
+    "4417009011",
+    "4417775234"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be at the meeting . he was very proud of his work . the crowd was really nice . he was very happy with the results . he was so proud of the team .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was excited to attend the meeting . his work gave him pride . the crowd was accepting and kind . the man was extremely satisfied with the outcome . he was happily proud of the team .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to attend the meeting .",
+        "his work gave him pride .",
+        "the crowd was accepting and kind .",
+        "the man was extremely satisfied with the outcome .",
+        "he was happily proud of the team ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "robert was excited to be at the meeting. he was very proud of his work. the crowd was really nice, and he was very happy with the results. he was so proud of the team.",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited to be at the meeting .",
+        "he was very proud of his work .",
+        "the crowd was really nice , and he was very happy with the results .",
+        "he was so proud of the team ."
+      ]
+    },
+    {
+      "worker_id": "A76JOAFEPGZH2",
+      "edited_story_text": "David was excited to be at the meeting . he was very proud of the work he did. the crowd was really nice, and he was very happy with the results . he was so proud of the team .",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited to be at the meeting .",
+        "he was very proud of the work he did .",
+        "the crowd was really nice , and he was very happy with the results .",
+        "he was so proud of the team ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the man was nervous to be at his first meeting . everyone welcomed him. the crowd was really nice . he was very happy with the results . the leaders were happy with the group.",
+      "normalized_edited_story_text_sent": [
+        "the man was nervous to be at his first meeting .",
+        "everyone welcomed him .",
+        "the crowd was really nice .",
+        "he was very happy with the results .",
+        "the leaders were happy with the group ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the woman was excited to be at the meeting . she was very proud of her work . she took pics . the crowd he was very happy with the results . he was so proud of the team .",
+      "normalized_edited_story_text_sent": [
+        "the woman was excited to be at the meeting .",
+        "she was very proud of her work .",
+        "she took pics .",
+        "the crowd he was very happy with the results .",
+        "he was so proud of the team ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623456487091",
+  "model": "GLAC"
+}

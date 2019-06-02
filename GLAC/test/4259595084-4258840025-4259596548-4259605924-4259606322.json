@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4259595084-4258840025-4259596548-4259605924-4259606322",
+  "photo_sequence_ids": [
+    "4259595084",
+    "4258840025",
+    "4259596548",
+    "4259605924",
+    "4259606322"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they saw a lot of wildlife . they also saw a pond . they even got to see some boats . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the boat was on the water . they saw a lot of grass. they also saw a pond . they even got to see some boats . they had a great time looking at boats .",
+      "normalized_edited_story_text_sent": [
+        "the boat was on the water .",
+        "they saw a lot of grass .",
+        "they also saw a pond .",
+        "they even got to see some boats .",
+        "they had a great time looking at boats ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "It was a calm day in New England but the weather was turning bad. Our picnic trip in the open fields was cancelled. All the boats were tied to the dock to prevent being floated away.",
+      "normalized_edited_story_text_sent": [
+        "it was a calm day in new england but the weather was turning bad .",
+        "our picnic trip in the open fields was cancelled .",
+        "all the boats were tied to the dock to prevent being floated away ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My family went to the beach. We saw a lot of wildlife and a pond. We even got to see some boats. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my family went to the beach .",
+        "we saw a lot of wildlife and a pond .",
+        "we even got to see some boats .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the family went to the beach . we tried to find some wildlife . we saw a hay field. we even got to see some boats . we had a great time looking at the boats .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "we tried to find some wildlife .",
+        "we saw a hay field .",
+        "we even got to see some boats .",
+        "we had a great time looking at the boats ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the beach . they saw a lot of wildlife . they also saw a pond",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they saw a lot of wildlife .",
+        "they also saw a pond"
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157635221100135",
+  "model": "GLAC"
+}

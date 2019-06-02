@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "1795230723-1796077246-1796085266-1796130716-1796133022",
+  "photo_sequence_ids": [
+    "1795230723",
+    "1796077246",
+    "1796085266",
+    "1796130716",
+    "1796133022"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2180/1795230723_1e1f2ecf19_o.jpg",
+    "https://farm3.staticflickr.com/2255/1796077246_1dea4f9b21_o.jpg",
+    "https://farm3.staticflickr.com/2091/1796085266_2de44f8649_o.jpg",
+    "https://farm3.staticflickr.com/2028/1796130716_ef9465d34a_o.jpg",
+    "https://farm3.staticflickr.com/2292/1796133022_b39a56f55d_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a woman . everyone was having a great time . everyone was dressed up and ready for the party . she was so happy to be there . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "This is a picture of a woman. Everyone in the picture was having a great time. Everyone dressed up and got ready for the party. [Female] was so happy to be there and it was a great night.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a woman .",
+        "everyone in the picture was having a great time .",
+        "everyone dressed up and got ready for the party .",
+        "[female] was so happy to be there and it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a woman she and everyone was having a great time . everyone was dressed up and ready for the party  it was a great night .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a woman she and everyone was having a great time .",
+        "everyone was dressed up and ready for the party it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "here is a photo of a woman . everyone was having an awesome time . everyone was dressed up and ready for the celebration . she was thrilled to be there . it was a fantastic night .",
+      "normalized_edited_story_text_sent": [
+        "here is a photo of a woman .",
+        "everyone was having an awesome time .",
+        "everyone was dressed up and ready for the celebration .",
+        "she was thrilled to be there .",
+        "it was a fantastic night ."
+      ]
+    },
+    {
+      "worker_id": "A3NHJPE6326P9V",
+      "edited_story_text": "this is a picture of a woman. Everyone was having a great time. Everyone was dressed up and ready for the party. She was so happy to be there. It was a great night as a woman got drunk and passed out.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a woman .",
+        "everyone was having a great time .",
+        "everyone was dressed up and ready for the party .",
+        "she was so happy to be there .",
+        "it was a great night as a woman got drunk and passed out ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a woman at the party. Everyone was having a great time . Everyone was dressed up and ready for the party.  She was so happy to be there. It was a great night with food and friends.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a woman at the party .",
+        "everyone was having a great time .",
+        "everyone was dressed up and ready for the party .",
+        "she was so happy to be there .",
+        "it was a great night with food and friends ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602772357974"
+}

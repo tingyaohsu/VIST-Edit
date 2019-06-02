@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "8657012693-8657012325-8657012989-8658118424-8658118240",
+  "photo_sequence_ids": [
+    "8657012693",
+    "8657012325",
+    "8657012989",
+    "8658118424",
+    "8658118240"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8113/8657012693_dfe9457fa1_o.jpg",
+    "https://farm9.staticflickr.com/8117/8657012325_567e93ba98_o.jpg",
+    "https://farm9.staticflickr.com/8121/8657012989_1ac0dec055_o.jpg",
+    "https://farm9.staticflickr.com/8119/8658118424_70e61677b2_o.jpg",
+    "https://farm9.staticflickr.com/8123/8658118240_8afa135b0b_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were many people in the city . there were a lot of people there . many people came to see the parade . there was a lot of people there . we were able to see all of the sights as well .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "There were a lot of people in the city that came to see the parade.  We were able to see all of the sights as well. It was a great day to be out.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people in the city that came to see the parade .",
+        "we were able to see all of the sights as well .",
+        "it was a great day to be out ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "There were people visiting the city. There were lots of people there for the parade. People were sitting on the sidewalk to wait for the parade to start. Some people took photos while they waited. The view of the city before the parade was a great sight to see.",
+      "normalized_edited_story_text_sent": [
+        "there were people visiting the city .",
+        "there were lots of people there for the parade .",
+        "people were sitting on the sidewalk to wait for the parade to start .",
+        "some people took photos while they waited .",
+        "the view of the city before the parade was a great sight to see ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "there were many people in the city who were able to see all of the sights as well .",
+      "normalized_edited_story_text_sent": [
+        "there were many people in the city who were able to see all of the sights as well ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "there were many people in the city . there was a crowd . many people came to see the parade . there were so many people . we were able to check out the sights as well .",
+      "normalized_edited_story_text_sent": [
+        "there were many people in the city .",
+        "there was a crowd .",
+        "many people came to see the parade .",
+        "there were so many people .",
+        "we were able to check out the sights as well ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "There were so many people in the city today! A lot of people came to see the parade, but we were able to see the sights as well.",
+      "normalized_edited_story_text_sent": [
+        "there were so many people in the city today !",
+        "a lot of people came to see the parade , but we were able to see the sights as well ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157633268182236"
+}

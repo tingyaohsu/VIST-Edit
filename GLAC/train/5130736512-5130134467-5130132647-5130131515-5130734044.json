@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5130736512-5130134467-5130132647-5130131515-5130734044",
+  "photo_sequence_ids": [
+    "5130736512",
+    "5130134467",
+    "5130132647",
+    "5130131515",
+    "5130734044"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was full of people . the food was delicious . the man was in the store . he had a new laptop . the bed was very nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the city was full of people and exciting to find new places to eat. the food was delicious and I had a sandwich. the man near the store and helped me. he had a things for people to buy . the table was very nice .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people and exciting to find new places to eat .",
+        "the food was delicious and i had a sandwich .",
+        "the man near the store and helped me .",
+        "he had a things for people to buy .",
+        "the table was very nice ."
+      ]
+    },
+    {
+      "worker_id": "A2Q5ADHEBLC7OI",
+      "edited_story_text": "Stopped by Panera Bread for supper, the food was great. Bought a storage shed in an auction; found some pretty interesting items. Good haul!!",
+      "normalized_edited_story_text_sent": [
+        "stopped by panera bread for supper , the food was great .",
+        "bought a storage shed in an auction ; found some pretty interesting items .",
+        "good haul !!"
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The city was teeming with people. The restaurant was cozy and the food was delicious. The man was dressed nicely.",
+      "normalized_edited_story_text_sent": [
+        "the city was teeming with people .",
+        "the restaurant was cozy and the food was delicious .",
+        "the man was dressed nicely ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was full of people . The restaurant was lit up at night. The food was good. There were boxes stacked up. The table was old.",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the restaurant was lit up at night .",
+        "the food was good .",
+        "there were boxes stacked up .",
+        "the table was old ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was full of people . the food was delicious . the man was in the store . he had a new laptop . the streets were full .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the food was delicious .",
+        "the man was in the store .",
+        "he had a new laptop .",
+        "the streets were full ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625152211431",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "16650306-16149703-16650303-16149705-16413265",
+  "photo_sequence_ids": [
+    "16650306",
+    "16149703",
+    "16650303",
+    "16149705",
+    "16413265"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/9/16650306_70b799ad2c_o.jpg",
+    "https://farm1.staticflickr.com/12/16149703_5a6b0a9b11_o.jpg",
+    "https://farm1.staticflickr.com/9/16650303_8bc4232259_o.jpg",
+    "https://farm1.staticflickr.com/10/16149705_cf0f0aa14c_o.jpg",
+    "https://farm1.staticflickr.com/10/16413265_17294f0cb8_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the festival . the band played music . the band played a lot of songs . they had a lot of fun playing games . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We had a great time at the festival listening to the band playing music. The band played a lot of songs and we had a lot of fun playing games, the kids had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival listening to the band playing music .",
+        "the band played a lot of songs and we had a lot of fun playing games , the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the festival. the band played a lot of songs. the kids had a great time playing games.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "the band played a lot of songs .",
+        "the kids had a great time playing games ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the festival! The band played a lot of different songs. They had a lot of fun playing games too, and the kids had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival !",
+        "the band played a lot of different songs .",
+        "they had a lot of fun playing games too , and the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "We had a great time at the festival. The band played music and a lot of songs. The kids had a lot of fun playing games.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "the band played music and a lot of songs .",
+        "the kids had a lot of fun playing games ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "we had an awesome time at the festival . the band played music . the band played a great deal of songs . they had a ton of fun playing games . the kids had an incredible time .",
+      "normalized_edited_story_text_sent": [
+        "we had an awesome time at the festival .",
+        "the band played music .",
+        "the band played a great deal of songs .",
+        "they had a ton of fun playing games .",
+        "the kids had an incredible time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "448900"
+}

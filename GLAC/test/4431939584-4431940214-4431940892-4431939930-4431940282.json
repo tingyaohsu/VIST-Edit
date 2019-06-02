@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4431939584-4431940214-4431940892-4431939930-4431940282",
+  "photo_sequence_ids": [
+    "4431939584",
+    "4431940214",
+    "4431940892",
+    "4431939930",
+    "4431940282"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be going to the art gallery . they saw a lot of cool things . they had a variety of different pieces . they had a lot of interesting items . the show was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A250TNE6XDKH4N",
+      "edited_story_text": "the kids were excited to be going to the art gallery . they saw a lot of cool things . they had a variety of different pieces . they had a lot of interesting items . the show was a success .The people had donated so much clothing and other items for the sale. The tables had so much to choose from  the jewelry was gorgeous and David bought three pieces for mary. Maria wanted the green typewriter.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be going to the art gallery .",
+        "they saw a lot of cool things .",
+        "they had a variety of different pieces .",
+        "they had a lot of interesting items .",
+        "the show was a success .",
+        "the people had donated so much clothing and other items for the sale .",
+        "the tables had so much to choose from the jewelry was gorgeous and [male] bought three pieces for [female] .",
+        "[female] wanted the green typewriter ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The kids were really excited to be going to the art gallery. There were a lot of cool things there, and they had a huge variety of different art pieces. There were lots of interesting exhibits too, and I\u0027d say that the show was a success .",
+      "normalized_edited_story_text_sent": [
+        "the kids were really excited to be going to the art gallery .",
+        "there were a lot of cool things there , and they had a huge variety of different art pieces .",
+        "there were lots of interesting exhibits too , and i \u0027d say that the show was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were excited to be going to the art gallery . they saw a lot of cool things . they had a variety of different pieces . the art was amazingly . the show was a success .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be going to the art gallery .",
+        "they saw a lot of cool things .",
+        "they had a variety of different pieces .",
+        "the art was amazingly .",
+        "the show was a success ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be going to the art gallery . they saw a lot of cool things . they had a variety of different pieces . they had a lot of interesting items . the show was more like a flea market .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be going to the art gallery .",
+        "they saw a lot of cool things .",
+        "they had a variety of different pieces .",
+        "they had a lot of interesting items .",
+        "the show was more like a flea market ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria said that the kids were excited to be going to the art gallery . they saw a lot of cool things . they had a variety of different pieces . they had a lot of interesting items . the show was a success .",
+      "normalized_edited_story_text_sent": [
+        "[female] said that the kids were excited to be going to the art gallery .",
+        "they saw a lot of cool things .",
+        "they had a variety of different pieces .",
+        "they had a lot of interesting items .",
+        "the show was a success ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623616942902",
+  "model": "GLAC"
+}

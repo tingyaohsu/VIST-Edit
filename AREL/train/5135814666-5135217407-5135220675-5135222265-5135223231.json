@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5135814666-5135217407-5135220675-5135222265-5135223231",
+  "photo_sequence_ids": [
+    "5135814666",
+    "5135217407",
+    "5135220675",
+    "5135222265",
+    "5135223231"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4044/5135814666_7fefdbe1c7_o.jpg",
+    "https://farm2.staticflickr.com/1425/5135217407_e35d66123a_o.jpg",
+    "https://farm5.staticflickr.com/4103/5135220675_407336ab8b_o.jpg",
+    "https://farm5.staticflickr.com/4027/5135222265_342a56019e_o.jpg",
+    "https://farm2.staticflickr.com/1134/5135223231_97309aa916_o.jpg"
+  ],
+  "auto_story_text_normalized": "the pumpkins are ready for halloween . he was so excited to be there . we had a lot of fun at the house . the house was decorated with christmas decorations . this is a picture of a pumpkin .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We put out our pumpkins for Halloween. I set up a vampire scarecrow in the front yard. Trick or treaters came to the house for candy. Our house was ready and decorated in time for Halloween. One of the trick or treaters had a monster mask.",
+      "normalized_edited_story_text_sent": [
+        "we put out our pumpkins for halloween .",
+        "i set up a vampire scarecrow in the front yard .",
+        "trick or treaters came to the house for candy .",
+        "our house was ready and decorated in time for halloween .",
+        "one of the trick or treaters had a monster mask ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the pumpkins are ready for halloween . We were so excited to be there . we had a lot of fun at the house . the house was decorated with halloween decorations . this is a picture of a pumpkin .",
+      "normalized_edited_story_text_sent": [
+        "the pumpkins are ready for halloween .",
+        "we were so excited to be there .",
+        "we had a lot of fun at the house .",
+        "the house was decorated with halloween decorations .",
+        "this is a picture of a pumpkin ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "the pumpkins are prepared for halloween . he was so eager to be there . we had a great deal of fun at the house . the house was enlivened with christmas decorations . this is a photo of a pumpkin .",
+      "normalized_edited_story_text_sent": [
+        "the pumpkins are prepared for halloween .",
+        "he was so eager to be there .",
+        "we had a great deal of fun at the house .",
+        "the house was enlivened with christmas decorations .",
+        "this is a photo of a pumpkin ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the pumpkins are carved and ready for halloween. my nephew was so excited to trick-or-treating. we went from house to house, having a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the pumpkins are carved and ready for halloween .",
+        "my nephew was so excited to trick-or-treating .",
+        "we went from house to house , having a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "It was halloween. The pumpkins were carved. There were spooky decorations. We dressed up in scary oufits. It was fun.",
+      "normalized_edited_story_text_sent": [
+        "it was halloween .",
+        "the pumpkins were carved .",
+        "there were spooky decorations .",
+        "we dressed up in scary oufits .",
+        "it was fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625287632264"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "1428261043-1428267959-1702886809-1428270833-1702927435",
+  "photo_sequence_ids": [
+    "1428261043",
+    "1428267959",
+    "1702886809",
+    "1428270833",
+    "1702927435"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the forest was beautiful . the trees were so tall . the building was very old . the view was amazing . the tree was also very green .",
+  "edited_stories": [
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the forest was beautiful and we saw a small waterfall . the trees were so tall and the bridge was cool. the building was very old with old machinery inside. the view was amazing especially over the water . the trees were also very green and plush.",
+      "normalized_edited_story_text_sent": [
+        "the forest was beautiful and we saw a small waterfall .",
+        "the trees were so tall and the bridge was cool .",
+        "the building was very old with old machinery inside .",
+        "the view was amazing especially over the water .",
+        "the trees were also very green and plush ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The trail out in the forest had so much greenery and a little stone cabin along with a waterfall was a lovely surprise.",
+      "normalized_edited_story_text_sent": [
+        "the trail out in the forest had so much greenery and a little stone cabin along with a waterfall was a lovely surprise ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the forest was beautiful for it being the spring . the trees were so tall that you could not see above them . the building was very old and was falling apart . the view was amazing and the bridge was also cool . the tree was also very green due to the moss being there.",
+      "normalized_edited_story_text_sent": [
+        "the forest was beautiful for it being the spring .",
+        "the trees were so tall that you could not see above them .",
+        "the building was very old and was falling apart .",
+        "the view was amazing and the bridge was also cool .",
+        "the tree was also very green due to the moss being there ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the forest was beautiful . the trees were very tall . the building was quite old . the view was amazing . the tree was also very green .",
+      "normalized_edited_story_text_sent": [
+        "the forest was beautiful .",
+        "the trees were very tall .",
+        "the building was quite old .",
+        "the view was amazing .",
+        "the tree was also very green ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "I went for a walk in the the forest. It  was beautiful . The trees were so tall and I saw a building that was very old . The views were amazing. I had never seen trees that were so green.",
+      "normalized_edited_story_text_sent": [
+        "i went for a walk in the the forest .",
+        "it was beautiful .",
+        "the trees were so tall and i saw a building that was very old .",
+        "the views were amazing .",
+        "i had never seen trees that were so green ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602649605030",
+  "model": "GLAC"
+}

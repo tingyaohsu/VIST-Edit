@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "51764736-51765327-51766606-51767001-51768528",
+  "photo_sequence_ids": [
+    "51764736",
+    "51765327",
+    "51766606",
+    "51767001",
+    "51768528"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was excited to be in the new swing . he was very happy to see the sheep . he was so tired and he was n\u0027t too happy . he was able to get a picture of his friend . he was a little nervous about the upcoming race .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the dog was excited to be in the new swing of his home . he was very happy to see the sheep from inside the house . he was so tired and he wasn\u0027t too happy he couldn\u0027t sleep . he was able to get a picture of his friend who owned the dog when he was a puppy . he was a little nervous about the upcoming race so he decided to practice .",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to be in the new swing of his home .",
+        "he was very happy to see the sheep from inside the house .",
+        "he was so tired and he was n\u0027t too happy he could n\u0027t sleep .",
+        "he was able to get a picture of his friend who owned the dog when he was a puppy .",
+        "he was a little nervous about the upcoming race so he decided to practice ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the dog was excited to be in the shirt. He posed for the camera. Eventually he got tired and had to take a nap on a lap.",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to be in the shirt .",
+        "he posed for the camera .",
+        "eventually he got tired and had to take a nap on a lap ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and the dog was excited to be in the new swing . he was very happy to see the sheep . he was so tired and he was n\u0027t too happy . he was able to get a picture of his friend . he was a little nervous about the upcoming race .",
+      "normalized_edited_story_text_sent": [
+        "[male] and the dog was excited to be in the new swing .",
+        "he was very happy to see the sheep .",
+        "he was so tired and he was n\u0027t too happy .",
+        "he was able to get a picture of his friend .",
+        "he was a little nervous about the upcoming race ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "My dog is dressed up in a sweater today, since it is brutally cold outside.  It is also a bit cold inside, since my heater is having trouble keeping up.",
+      "normalized_edited_story_text_sent": [
+        "my dog is dressed up in a sweater today , since it is brutally cold outside .",
+        "it is also a bit cold inside , since my heater is having trouble keeping up ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the dog was excited to be in the new shirt . he was very happy to see his owner . he was so tired and he was n\u0027t too energetic . he was able to get a picture of his friend sleeping . he was a little nervous about the upcoming storm .",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to be in the new shirt .",
+        "he was very happy to see his owner .",
+        "he was so tired and he was n\u0027t too energetic .",
+        "he was able to get a picture of his friend sleeping .",
+        "he was a little nervous about the upcoming storm ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1121075",
+  "model": "GLAC"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4710727991-4711373072-4710736143-4711387398-4710753367",
+  "photo_sequence_ids": [
+    "4710727991",
+    "4711373072",
+    "4710736143",
+    "4711387398",
+    "4710753367"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the cemetery yesterday . there were a lot of people there . some of them were very old . they were all very happy . they were very grateful .",
+  "edited_stories": [
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "i went to the construction site yesterday . there were a lot of people there . some of them were very old . they were all very happy and grateful .",
+      "normalized_edited_story_text_sent": [
+        "i went to the construction site yesterday .",
+        "there were a lot of people there .",
+        "some of them were very old .",
+        "they were all very happy and grateful ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "i went to the construction site yesterday . there were a lot of people there working on the building . some of them were very old . they were all very happy to be working . they were very grateful to have jobs .",
+      "normalized_edited_story_text_sent": [
+        "i went to the construction site yesterday .",
+        "there were a lot of people there working on the building .",
+        "some of them were very old .",
+        "they were all very happy to be working .",
+        "they were very grateful to have jobs ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "We went to the cemetery yesterday. There were a lot of people there, some of them very old. All of them were happy and grateful to be there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the cemetery yesterday .",
+        "there were a lot of people there , some of them very old .",
+        "all of them were happy and grateful to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i worked at the construction site laying cement . there were a lot of laborers at work . some of them were old timers . they were all happy to have a job . they were grateful for a pay increase .",
+      "normalized_edited_story_text_sent": [
+        "i worked at the construction site laying cement .",
+        "there were a lot of laborers at work .",
+        "some of them were old timers .",
+        "they were all happy to have a job .",
+        "they were grateful for a pay increase ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "I visited the cemetery yesterday. There were a bunch of people visiting also. Some were old, some were not, but all were grateful while content in their solace.",
+      "normalized_edited_story_text_sent": [
+        "i visited the cemetery yesterday .",
+        "there were a bunch of people visiting also .",
+        "some were old , some were not , but all were grateful while content in their solace ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624300611300",
+  "model": "GLAC"
+}

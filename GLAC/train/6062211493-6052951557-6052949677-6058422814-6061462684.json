@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6062211493-6052951557-6052949677-6058422814-6061462684",
+  "photo_sequence_ids": [
+    "6062211493",
+    "6052951557",
+    "6052949677",
+    "6058422814",
+    "6061462684"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the art gallery . there were a lot of pieces of art . some of them were very detailed . they were all very beautiful . they were also very confusing .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "i went to the art gallery today. there was so much to see! i loved seeing the older works of so many unknown artists. it felt like i was looking at a piece of history.",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery today .",
+        "there was so much to see !",
+        "i loved seeing the older works of so many unknown artists .",
+        "it felt like i was looking at a piece of history ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Trip to the Art museum.  The art was lovely and detailed.  Some confused me but I still enjoyed them all!  Gorgeous!",
+      "normalized_edited_story_text_sent": [
+        "trip to the art museum .",
+        "the art was lovely and detailed .",
+        "some confused me but i still enjoyed them all !",
+        "gorgeous !"
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "i went to the fancy art gallery . there were a lot of pieces of art on display . some of them were very detailed and took a long time to complete . they were very beautiful and intricate . they were also very confusing to figure out .",
+      "normalized_edited_story_text_sent": [
+        "i went to the fancy art gallery .",
+        "there were a lot of pieces of art on display .",
+        "some of them were very detailed and took a long time to complete .",
+        "they were very beautiful and intricate .",
+        "they were also very confusing to figure out ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i went to the art gallery with my friends today . there were a lot of pieces of art and some rare pieces . some of them were very detailed while others were not. they were all very beautiful especially the watercolors . they were also very confusing cause they didn\u0027t have a common theme.",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery with my friends today .",
+        "there were a lot of pieces of art and some rare pieces .",
+        "some of them were very detailed while others were not .",
+        "they were all very beautiful especially the watercolors .",
+        "they were also very confusing cause they did n\u0027t have a common theme ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i went viewed the showing at the art gallery . many pieces of art were displayed . some of them were detailed paintings . they were all beautiful works . there was also confusion in their meanings .",
+      "normalized_edited_story_text_sent": [
+        "i went viewed the showing at the art gallery .",
+        "many pieces of art were displayed .",
+        "some of them were detailed paintings .",
+        "they were all beautiful works .",
+        "there was also confusion in their meanings ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627331890945",
+  "model": "GLAC"
+}

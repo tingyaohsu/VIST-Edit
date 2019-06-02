@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4331678744-4331686112-4331676970-4331680436-4330951569",
+  "photo_sequence_ids": [
+    "4331678744",
+    "4331686112",
+    "4331676970",
+    "4331680436",
+    "4330951569"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2800/4331678744_727ef6a29d_o.jpg",
+    "https://farm3.staticflickr.com/2757/4331686112_bf278f7abd_o.jpg",
+    "https://farm5.staticflickr.com/4059/4331676970_f257f69f05_o.jpg",
+    "https://farm5.staticflickr.com/4043/4331680436_1022f8a223_o.jpg",
+    "https://farm5.staticflickr.com/4016/4330951569_b040eddc47_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the convention . they were very happy to be there . there were a lot of people there . there were a lot of things to choose from . the man was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the convention and they were very happy to be there . there were a lot of people there and there were a lot of things to choose from . the man was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the convention and they were very happy to be there .",
+        "there were a lot of people there and there were a lot of things to choose from .",
+        "the man was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A4T4577P6JL6R",
+      "edited_story_text": "Me and [male] had a great time at the convention . we were very happy to be there . there were a lot of people there . there was also a lot of things to choose from . my friend [male] was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "me and [male] had a great time at the convention .",
+        "we were very happy to be there .",
+        "there were a lot of people there .",
+        "there was also a lot of things to choose from .",
+        "my friend [male] was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We all enjoyed the convention. We were happy to be there, and there were a lot of other people there, and a lot of activities to choose from. [Male] was very happy to be there!",
+      "normalized_edited_story_text_sent": [
+        "we all enjoyed the convention .",
+        "we were happy to be there , and there were a lot of other people there , and a lot of activities to choose from .",
+        "[male] was very happy to be there !"
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we had a great time at the art exhibit . they were very happy to be there . there were a lot of people there . there were a lot of things to look at . the artist was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the art exhibit .",
+        "they were very happy to be there .",
+        "there were a lot of people there .",
+        "there were a lot of things to look at .",
+        "the artist was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we had a great time at the convention . they were very happy to be there . there were a lot of people there . there were a lot of things to choose from .The man was very interested in the items",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the convention .",
+        "they were very happy to be there .",
+        "there were a lot of people there .",
+        "there were a lot of things to choose from .",
+        "the man was very interested in the items"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623229321139"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "6462092707-6462095753-6462093329-6462098595-6462103235",
+  "photo_sequence_ids": [
+    "6462092707",
+    "6462095753",
+    "6462093329",
+    "6462098595",
+    "6462103235"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was in the middle of the accident . the police were called the police to help the vehicle . the driver was able to get the car out of the wreck . the tow truck was removed from the dumpster . the passenger was not happy with the damage .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the car was in the middle of the showroom. There were lots of cars. Many looked very fast. The car show was attended by many.",
+      "normalized_edited_story_text_sent": [
+        "the car was in the middle of the showroom .",
+        "there were lots of cars .",
+        "many looked very fast .",
+        "the car show was attended by many ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "there were so many amazing cars on display. slick paint jobs.",
+      "normalized_edited_story_text_sent": [
+        "there were so many amazing cars on display .",
+        "slick paint jobs ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Great time had by all at the auto show in Chicago.  Got to see some new prototypes as well as some good old fashioned classics.",
+      "normalized_edited_story_text_sent": [
+        "great time had by all at the auto show in chicago .",
+        "got to see some new prototypes as well as some good old fashioned classics ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the car was in the middle of a showroom . the police were called the police to help the vehicle . the driver was able to get the car out of the wreck . the tow truck was removed from the dumpster . the passenger was not happy with the damage .",
+      "normalized_edited_story_text_sent": [
+        "the car was in the middle of a showroom .",
+        "the police were called the police to help the vehicle .",
+        "the driver was able to get the car out of the wreck .",
+        "the tow truck was removed from the dumpster .",
+        "the passenger was not happy with the damage ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "At the car show there was an accident!! the police were called to help the vehicle . the driver was able to get the car out of the wreck . the tow truck was removed from the dumpster . the passenger was not happy with the damage .  It was so crazy that this happened!  Car show was still cool despite the craziness!",
+      "normalized_edited_story_text_sent": [
+        "at the car show there was an accident !!",
+        "the police were called to help the vehicle .",
+        "the driver was able to get the car out of the wreck .",
+        "the tow truck was removed from the dumpster .",
+        "the passenger was not happy with the damage .",
+        "it was so crazy that this happened !",
+        "car show was still cool despite the craziness !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628295941191",
+  "model": "GLAC"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6174056728-6173529819-6174058782-6174059582-6174060140",
+  "photo_sequence_ids": [
+    "6174056728",
+    "6173529819",
+    "6174058782",
+    "6174059582",
+    "6174060140"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6151/6174056728_c4ef4018b6_o.jpg",
+    "https://farm7.staticflickr.com/6159/6173529819_e00639f7ed_o.jpg",
+    "https://farm7.staticflickr.com/6174/6174058782_5754e59b49_o.jpg",
+    "https://farm7.staticflickr.com/6171/6174059582_f2f98ca805_o.jpg",
+    "https://farm7.staticflickr.com/6156/6174060140_59193a7047_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends decided to go on a canoe trip . they decided to go on a hike . we found a small waterfall and had to take a break . the rest of the family decided to take a walk . we all had a great time at the lake .",
+  "edited_stories": [
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "a group of friends decided to go on a canoe trip and a hike. we found a small waterfall and had to take a break . the rest of the family decided to take a walk and seen an aligator being taken out and put in a box, think it\u0027s dead . .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to go on a canoe trip and a hike .",
+        "we found a small waterfall and had to take a break .",
+        "the rest of the family decided to take a walk and seen an aligator being taken out and put in a box , think it \u0027s dead .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "A group of friends decided to go on a canoe trip. They also decided to go on a hike. We found a small waterfall and had to take a break and relax a bit.  The rest of the family decided to take a walk on.  We all had a great time at the lake.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to go on a canoe trip .",
+        "they also decided to go on a hike .",
+        "we found a small waterfall and had to take a break and relax a bit .",
+        "the rest of the family decided to take a walk on .",
+        "we all had a great time at the lake ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the group was there to release the crocodile back into the wilderness. They lowered it down and eventually got it into the water.",
+      "normalized_edited_story_text_sent": [
+        "the group was there to release the crocodile back into the wilderness .",
+        "they lowered it down and eventually got it into the water ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "My group of friends decided to go on a canoe trip, and then a hike. We found a small waterfall and had to take a break there. The rest of us decided to take a walk. We all had a great time at the lake.",
+      "normalized_edited_story_text_sent": [
+        "my group of friends decided to go on a canoe trip , and then a hike .",
+        "we found a small waterfall and had to take a break there .",
+        "the rest of us decided to take a walk .",
+        "we all had a great time at the lake ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "a group of friends decided to go on a canoe trip . they decided to go on a hike . we found a small waterfall and had to take a break . the rest of the family decided to take a walk . They all had a great time at the lake together.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to go on a canoe trip .",
+        "they decided to go on a hike .",
+        "we found a small waterfall and had to take a break .",
+        "the rest of the family decided to take a walk .",
+        "they all had a great time at the lake together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627607446867"
+}

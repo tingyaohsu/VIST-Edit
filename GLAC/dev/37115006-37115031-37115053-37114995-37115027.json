@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "37115006-37115031-37115053-37114995-37115027",
+  "photo_sequence_ids": [
+    "37115006",
+    "37115031",
+    "37115053",
+    "37114995",
+    "37115027"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the party . there were a lot of people there . some of them were very creative . they were all very nice . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the paint party was about to start . there were a few people there . some of them were very creative . they were all very nice . they were very happy and relaxed.",
+      "normalized_edited_story_text_sent": [
+        "the paint party was about to start .",
+        "there were a few people there .",
+        "some of them were very creative .",
+        "they were all very nice .",
+        "they were very happy and relaxed ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the big party and there were a lot of people there . some of them were very creative . they were all very nice . they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the big party and there were a lot of people there .",
+        "some of them were very creative .",
+        "they were all very nice .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i had a great time at the party .It was a paint party. Cool pictures were made. Everyone rested afterwards.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party .",
+        "it was a paint party .",
+        "cool pictures were made .",
+        "everyone rested afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i had a great time at the party . he wrote on the message board . some of the art was very creative . they were all very nice . they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party .",
+        "he wrote on the message board .",
+        "some of the art was very creative .",
+        "they were all very nice .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i had a great time at the party with all my friends . there were a lot of people there including some I did not know. some of them were very creative with the gifts they brought . they were all very nice to me . they were very happy that I got promoted.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party with all my friends .",
+        "there were a lot of people there including some i did not know .",
+        "some of them were very creative with the gifts they brought .",
+        "they were all very nice to me .",
+        "they were very happy that i got promoted ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "819764",
+  "model": "GLAC"
+}

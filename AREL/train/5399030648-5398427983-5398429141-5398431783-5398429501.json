@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5399030648-5398427983-5398429141-5398431783-5398429501",
+  "photo_sequence_ids": [
+    "5399030648",
+    "5398427983",
+    "5398429141",
+    "5398431783",
+    "5398429501"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5253/5399030648_39b97244f6_o.jpg",
+    "https://farm6.staticflickr.com/5019/5398427983_675f5439ff_o.jpg",
+    "https://farm6.staticflickr.com/5054/5398429141_36e1527b80_o.jpg",
+    "https://farm6.staticflickr.com/5056/5398431783_6b38ffccbf_o.jpg",
+    "https://farm6.staticflickr.com/5211/5398429501_8aceecf892_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach yesterday . the trees were covered in snow . there were a lot of birds there . the weather was cold and we had a lot of fun . the birds are getting ready to go on a boat ride .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the beach yesterday . the trees were covered in snow . there were a lot of birds there . the weather was cold and we had a lot of fun . the birds are getting ready to go on a boat ride It is very nice",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "the trees were covered in snow .",
+        "there were a lot of birds there .",
+        "the weather was cold and we had a lot of fun .",
+        "the birds are getting ready to go on a boat ride it is very nice"
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "I went to the beach yesterday. The trees were covered in snow. There were a lot of birds. The weather was cold, and we had a lot of fun. The birds are getting ready to go on a boat ride.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "the trees were covered in snow .",
+        "there were a lot of birds .",
+        "the weather was cold , and we had a lot of fun .",
+        "the birds are getting ready to go on a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the lake yesterday . the trees were covered in snow and the lake was frozen. there were a lot of birds there . the weather was cold and we had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i went to the lake yesterday .",
+        "the trees were covered in snow and the lake was frozen .",
+        "there were a lot of birds there .",
+        "the weather was cold and we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "i went to the beach yesterday . the trees are covered in snow . there are a lot of birds there . the weather is cold and we have a lot of fun . the birds were getting ready to went on a boat ride .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "the trees are covered in snow .",
+        "there are a lot of birds there .",
+        "the weather is cold and we have a lot of fun .",
+        "the birds were getting ready to went on a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "ADAKTHXLJRCI7",
+      "edited_story_text": "I went to the beach yesterday . The trees were covered in snow . There were a lot of birds there . The weather was cold but we enjoyed ourselves. The birds were sitting by a hole in the ice.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "the trees were covered in snow .",
+        "there were a lot of birds there .",
+        "the weather was cold but we enjoyed ourselves .",
+        "the birds were sitting by a hole in the ice ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625807339605"
+}

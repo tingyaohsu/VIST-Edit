@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4755299078-4755299130-4755299226-4754659399-4756675296",
+  "photo_sequence_ids": [
+    "4755299078",
+    "4755299130",
+    "4755299226",
+    "4754659399",
+    "4756675296"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was about to begin . the players were ready for the game . the team was in the lead . the crowd was excited . the teams were very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the event was about to begin . the audience was ready . a large screen showed the event in the park for free . the crowd was excited . the event was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the event was about to begin .",
+        "the audience was ready .",
+        "a large screen showed the event in the park for free .",
+        "the crowd was excited .",
+        "the event was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the baseball game was about to begin . the players were ready for the game . the team was in the lead . the crowd was excited . the teams played their best  .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to begin .",
+        "the players were ready for the game .",
+        "the team was in the lead .",
+        "the crowd was excited .",
+        "the teams played their best ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the baseball game was about to begin . the players had warmed up . after taking their places, the two  teams started play in the first inning . as the game progressed, our team took the lead . the crowd was excited . both teams played very well .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to begin .",
+        "the players had warmed up .",
+        "after taking their places , the two teams started play in the first inning .",
+        "as the game progressed , our team took the lead .",
+        "the crowd was excited .",
+        "both teams played very well ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the baseball game was about to begin but everyone played video games first . the players were ready for the game to start but had to wait. the team was in the lead but not by very much . the crowd was excited and cheered the players on . the teams were very good which resulted in a close game .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to begin but everyone played video games first .",
+        "the players were ready for the game to start but had to wait .",
+        "the team was in the lead but not by very much .",
+        "the crowd was excited and cheered the players on .",
+        "the teams were very good which resulted in a close game ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the show was about to begin . the players were ready for the game . the team was not prepared . the crowd was excited . the teams were very good .",
+      "normalized_edited_story_text_sent": [
+        "the show was about to begin .",
+        "the players were ready for the game .",
+        "the team was not prepared .",
+        "the crowd was excited .",
+        "the teams were very good ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624281890851",
+  "model": "GLAC"
+}

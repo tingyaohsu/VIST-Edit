@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "11687781163-11687580985-11687566995-11687769043-11687803603",
+  "photo_sequence_ids": [
+    "11687781163",
+    "11687580985",
+    "11687566995",
+    "11687769043",
+    "11687803603"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very beautiful . the buildings were so tall . the sky was blue . the lights were bright . the night was lit .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the white church was lite up beautifully against the night sky. large lights were pointed directly at it.  people could see the church from all over the city.",
+      "normalized_edited_story_text_sent": [
+        "the white church was lite up beautifully against the night sky .",
+        "large lights were pointed directly at it .",
+        "people could see the church from all over the city ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was very beautiful and decorative . the buildings were so tall . the sky was dark . the lights were bright . the night was lit .it was a very serene evening.",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful and decorative .",
+        "the buildings were so tall .",
+        "the sky was dark .",
+        "the lights were bright .",
+        "the night was lit .",
+        "it was a very serene evening ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the city was very beautiful . the buildings were so tall. MY FAVORITE WAS OF THE WHITE CASTLE . the sky was black, AS IT WAS NIGHTTIME. the lights were bright . the night was lit .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the buildings were so tall .",
+        "my favorite was of the white castle .",
+        "the sky was black , as it was nighttime .",
+        "the lights were bright .",
+        "the night was lit ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was very beautiful for this time of year . the buildings were so tall and wide . the sky was blue and the night was black . the lights were bright and lit the roads . the night was lit due to the moon being out .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful for this time of year .",
+        "the buildings were so tall and wide .",
+        "the sky was blue and the night was black .",
+        "the lights were bright and lit the roads .",
+        "the night was lit due to the moon being out ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The city was very beautiful at night.  The buildings were lit up and they were also very tall.  Everything looked so pretty.",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful at night .",
+        "the buildings were lit up and they were also very tall .",
+        "everything looked so pretty ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157639271334604",
+  "model": "GLAC"
+}

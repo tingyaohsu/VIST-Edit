@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1813543795-1814388258-1813551265-1814414318-1814422346",
+  "photo_sequence_ids": [
+    "1813543795",
+    "1814388258",
+    "1813551265",
+    "1814414318",
+    "1814422346"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the bar last night . there were a lot of people there . some of them were very good . i had a great time . the show was very boring .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "i went to the bar last night. the bar was very crowded. we all enjoyed the drinks and the show.",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night .",
+        "the bar was very crowded .",
+        "we all enjoyed the drinks and the show ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i went to the bar last night . there were a lot of people there . some of them were very fun . i had a great time . the show was very boring .",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night .",
+        "there were a lot of people there .",
+        "some of them were very fun .",
+        "i had a great time .",
+        "the show was very boring ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i went to the bar last night for the first time in a while . there were a lot of people there which shocked me. some of them were very good at being nice while others were not . i had a great time due to having my friends there . the show was very boring so we left early .",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night for the first time in a while .",
+        "there were a lot of people there which shocked me .",
+        "some of them were very good at being nice while others were not .",
+        "i had a great time due to having my friends there .",
+        "the show was very boring so we left early ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "my friends and I went to a rave last night.  it was so crowded. some of the people i met were awesome. my favorites were lisa and maria. there was some boring stuff at the rave though, but i loved the people.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a rave last night .",
+        "it was so crowded .",
+        "some of the people i met were awesome .",
+        "my favorites were [female] and [female] .",
+        "there was some boring stuff at the rave though , but i loved the people ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i went to the bar last night . there were a lot of people there . We posed for pictures. She had funny sunglasses . the show was very boring .",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night .",
+        "there were a lot of people there .",
+        "we posed for pictures .",
+        "she had funny sunglasses .",
+        "the show was very boring ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602825085661",
+  "model": "GLAC"
+}

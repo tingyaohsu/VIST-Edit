@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6711181-6711251-6711265-6711274-6711280",
+  "photo_sequence_ids": [
+    "6711181",
+    "6711251",
+    "6711265",
+    "6711274",
+    "6711280"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people there . it was a lot of fun . i had a great time . everyone was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun for those who attended. there were so many people there you could hardly move . it was a lot of fun and no one got hurt . i had a great time seeing some old friends. everyone was very happy that they attended.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun for those who attended .",
+        "there were so many people there you could hardly move .",
+        "it was a lot of fun and no one got hurt .",
+        "i had a great time seeing some old friends .",
+        "everyone was very happy that they attended ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the parade was a lot of fun . there were so many people there . it was a lot of fun . i had a great time . everyone was very happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the parade was a lot of fun .",
+        "there were so many people there .",
+        "it was a lot of fun .",
+        "i had a great time .",
+        "everyone was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was fun . many went . fun was had by all . i had my share of a good time . everybody was elated .",
+      "normalized_edited_story_text_sent": [
+        "the parade was fun .",
+        "many went .",
+        "fun was had by all .",
+        "i had my share of a good time .",
+        "everybody was elated ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "The Halloween parade was such a good time!  It was so crowded and everyone looked great!  Everyone was having a blast!  There was a man baby!  Lol",
+      "normalized_edited_story_text_sent": [
+        "the halloween parade was such a good time !",
+        "it was so crowded and everyone looked great !",
+        "everyone was having a blast !",
+        "there was a man baby !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . there were so many people there . a lot of people were in costumes.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people there .",
+        "a lot of people were in costumes ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "167476",
+  "model": "GLAC"
+}

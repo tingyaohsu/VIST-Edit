@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "399537897-400029880-400036602-400040466-400090995",
+  "photo_sequence_ids": [
+    "399537897",
+    "400029880",
+    "400036602",
+    "400040466",
+    "400090995"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the trees were green and the sky was blue . the man was walking down the path . the forest was beautiful . the people were exploring the rocks . the view was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "During my walk through the forest, I took in the colors of the blue sky and green trees. There was man was walking down the path as well . I thought the forest was very beautiful . there were other people around who were exploring the rocks. As I continued observing while on my walk, I  thought that the view was absolutely spectacular .",
+      "normalized_edited_story_text_sent": [
+        "during my walk through the forest , i took in the colors of the blue sky and green trees .",
+        "there was man was walking down the path as well .",
+        "i thought the forest was very beautiful .",
+        "there were other people around who were exploring the rocks .",
+        "as i continued observing while on my walk , i thought that the view was absolutely spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the trees were green and the sky was blue and it was lovely . john was jogging down the path . the forest was beautiful from this view . the people were exploring the rocks on the mountain . the view was spectacular and we could see for miles .",
+      "normalized_edited_story_text_sent": [
+        "the trees were green and the sky was blue and it was lovely .",
+        "[male] was jogging down the path .",
+        "the forest was beautiful from this view .",
+        "the people were exploring the rocks on the mountain .",
+        "the view was spectacular and we could see for miles ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we went for a hike this afternoon. the sky was beautiful blue. the scenery was absolutely breathtaking. john and david had a good time exploring the rocks. i cant wait to return.",
+      "normalized_edited_story_text_sent": [
+        "we went for a hike this afternoon .",
+        "the sky was beautiful blue .",
+        "the scenery was absolutely breathtaking .",
+        "[male] and [male] had a good time exploring the rocks .",
+        "i cant wait to return ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the trees were green and the sky was blue . the man was walking down the path . the land was beautiful . the people were climbing the rocks . the view was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the trees were green and the sky was blue .",
+        "the man was walking down the path .",
+        "the land was beautiful .",
+        "the people were climbing the rocks .",
+        "the view was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the trees were green and the sky was blue . the man was jogging down the path. the people were exploring the fields and rocks . the view was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the trees were green and the sky was blue .",
+        "the man was jogging down the path .",
+        "the people were exploring the fields and rocks .",
+        "the view was spectacular ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594553148814",
+  "model": "GLAC"
+}

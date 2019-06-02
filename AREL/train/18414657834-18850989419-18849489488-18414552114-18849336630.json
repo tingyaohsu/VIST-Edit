@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "18414657834-18850989419-18849489488-18414552114-18849336630",
+  "photo_sequence_ids": [
+    "18414657834",
+    "18850989419",
+    "18849489488",
+    "18414552114",
+    "18849336630"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3844/18414657834_034950c859_o.jpg",
+    "https://farm4.staticflickr.com/3766/18850989419_5af38cc9ce_o.jpg",
+    "https://farm4.staticflickr.com/3944/18849489488_408727d8bf_o.jpg",
+    "https://farm1.staticflickr.com/525/18414552114_bc36268909_o.jpg",
+    "https://farm1.staticflickr.com/405/18849336630_996701c945_o.jpg"
+  ],
+  "auto_story_text_normalized": "the car was parked in the middle of the road . the dog was excited to see us . we had a great time swimming in the pool . the car was parked in the middle of the road . when we got back home , we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We drove home and parked by lots of other cars. The dog was really happy to see us. We all had a great time swimming in the pool. Everyone was parked behind each other so it was hard to move around. After we got home, we still had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we drove home and parked by lots of other cars .",
+        "the dog was really happy to see us .",
+        "we all had a great time swimming in the pool .",
+        "everyone was parked behind each other so it was hard to move around .",
+        "after we got home , we still had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the car is parked in the middle of the road . the dog is excited to see us . we have a great time swimming in the pool . the car is parked in the middle of the road . when we get back home , we have a great time .",
+      "normalized_edited_story_text_sent": [
+        "the car is parked in the middle of the road .",
+        "the dog is excited to see us .",
+        "we have a great time swimming in the pool .",
+        "the car is parked in the middle of the road .",
+        "when we get back home , we have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the car was parked in the middle of the road . the dog was excited to see us . we had a great time swimming in the pool . the car was parked in the middle of the road. then we got back home .",
+      "normalized_edited_story_text_sent": [
+        "the car was parked in the middle of the road .",
+        "the dog was excited to see us .",
+        "we had a great time swimming in the pool .",
+        "the car was parked in the middle of the road .",
+        "then we got back home ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "someone parked their car in the middle of the road . the dog was excited to see us . we had a great time swimming in the pool . after we got back home , we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "someone parked their car in the middle of the road .",
+        "the dog was excited to see us .",
+        "we had a great time swimming in the pool .",
+        "after we got back home , we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the car was parked in the middle of the road . the dog was excited to see us . we had a great time swimming in the pool . the car was parked in the middle of the road . when we got back home , we had a great time we will go back to the pool",
+      "normalized_edited_story_text_sent": [
+        "the car was parked in the middle of the road .",
+        "the dog was excited to see us .",
+        "we had a great time swimming in the pool .",
+        "the car was parked in the middle of the road .",
+        "when we got back home , we had a great time we will go back to the pool"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157654848618716"
+}

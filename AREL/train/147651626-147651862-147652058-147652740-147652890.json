@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "147651626-147651862-147652058-147652740-147652890",
+  "photo_sequence_ids": [
+    "147651626",
+    "147651862",
+    "147652058",
+    "147652740",
+    "147652890"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/44/147651626_d4dcfe4d79_o.jpg",
+    "https://farm1.staticflickr.com/44/147651862_80642647ce_o.jpg",
+    "https://farm1.staticflickr.com/49/147652058_8c758693ac_o.jpg",
+    "https://farm1.staticflickr.com/54/147652740_9431670381_o.jpg",
+    "https://farm1.staticflickr.com/44/147652890_665930bf9d_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] was excited for his first day of school . we had a lot of food to eat . and the cake was delicious . the baby had a great time . the cat had a good time and had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AMYURTQIMAC8T",
+      "edited_story_text": "[male] was excited for his first day of school . we had a lot of food to eat . and the beautiful cake was delicious . the baby had a great time . the cat seemed to have fun while we were playing",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited for his first day of school .",
+        "we had a lot of food to eat .",
+        "and the beautiful cake was delicious .",
+        "the baby had a great time .",
+        "the cat seemed to have fun while we were playing"
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "[male] was thrilled for his first day of school . we had so much food to eat . and the cake was very tasty . the baby had an awesome time . the cat had a wonderful time .",
+      "normalized_edited_story_text_sent": [
+        "[male] was thrilled for his first day of school .",
+        "we had so much food to eat .",
+        "and the cake was very tasty .",
+        "the baby had an awesome time .",
+        "the cat had a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "[male] was excited for his first day of school . we had a lot of food to eat to celebrate and we even got a cake that was delicious. the baby had a great time . the cat had a good time.",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited for his first day of school .",
+        "we had a lot of food to eat to celebrate and we even got a cake that was delicious .",
+        "the baby had a great time .",
+        "the cat had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "I was excited for my mom\u0027s birthday party with the family.  We had a lot of food to eat.  The cake was delicious.  My mom had a great time.  The cat had a good time too.",
+      "normalized_edited_story_text_sent": [
+        "i was excited for my mom \u0027s birthday party with the family .",
+        "we had a lot of food to eat .",
+        "the cake was delicious .",
+        "my mom had a great time .",
+        "the cat had a good time too ."
+      ]
+    },
+    {
+      "worker_id": "AH56J7I291XL7",
+      "edited_story_text": "[male] was excited for his first day of school! We had a lot of food to eat . The cake was delicious with strawberries . the baby had a great time reading a card . the cat had a good time.",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited for his first day of school !",
+        "we had a lot of food to eat .",
+        "the cake was delicious with strawberries .",
+        "the baby had a great time reading a card .",
+        "the cat had a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594136696437"
+}

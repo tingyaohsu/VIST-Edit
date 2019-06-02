@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2582586039-2583415536-2583416080-2582587033-2582587409",
+  "photo_sequence_ids": [
+    "2582586039",
+    "2583415536",
+    "2583416080",
+    "2582587033",
+    "2582587409"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they saw a lot of animals . they also got to see a big snake . they took a picture of the kids . they walked along the river .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went to a ranch . they saw a lot of animals . they also got to see a big snake and pig . they took a picture of the kids . they walked along the river and ate a lot of food .",
+      "normalized_edited_story_text_sent": [
+        "the family went to a ranch .",
+        "they saw a lot of animals .",
+        "they also got to see a big snake and pig .",
+        "they took a picture of the kids .",
+        "they walked along the river and ate a lot of food ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The family went to the beach. They saw a lot of animal . They also got to see a big snake. They took a picture of the kids and then they walked along the river.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they saw a lot of animal .",
+        "they also got to see a big snake .",
+        "they took a picture of the kids and then they walked along the river ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the family went to the beach to have fun . they saw a lot of  qute animals . they also got to see a big snake . they took a picture of the kids .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach to have fun .",
+        "they saw a lot of qute animals .",
+        "they also got to see a big snake .",
+        "they took a picture of the kids ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went to the giant beach . they saw a lot of critters. they also got to see a big snake . they took a picture of the kids . they walked along the river .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the giant beach .",
+        "they saw a lot of critters .",
+        "they also got to see a big snake .",
+        "they took a picture of the kids .",
+        "they walked along the river ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family went to a farm . they saw a lot of animals including boars . they also got to see wear cool hats . they took a picture of John in his brown fancy hat . they ate dinner together at a long table .",
+      "normalized_edited_story_text_sent": [
+        "the family went to a farm .",
+        "they saw a lot of animals including boars .",
+        "they also got to see wear cool hats .",
+        "they took a picture of [male] in his brown fancy hat .",
+        "they ate dinner together at a long table ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157605635232532",
+  "model": "GLAC"
+}

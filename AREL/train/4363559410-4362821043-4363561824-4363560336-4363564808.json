@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4363559410-4362821043-4363561824-4363560336-4363564808",
+  "photo_sequence_ids": [
+    "4363559410",
+    "4362821043",
+    "4363561824",
+    "4363560336",
+    "4363564808"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4063/4363559410_5222514689_o.jpg",
+    "https://farm5.staticflickr.com/4004/4362821043_143c3dc615_o.jpg",
+    "https://farm5.staticflickr.com/4070/4363561824_2a2aa92544_o.jpg",
+    "https://farm5.staticflickr.com/4040/4363560336_eff1b66a1b_o.jpg",
+    "https://farm5.staticflickr.com/4013/4363564808_c0f985b495_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the award ceremony last week . we had a lot of food to eat . we had a lot of people there . he was very proud of his work . we had a great time and we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to an award ceremony last week. They gave us lots of food to eat. A lot of people attended the ceremony. The presenter gave a great speech about being proud of his work. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to an award ceremony last week .",
+        "they gave us lots of food to eat .",
+        "a lot of people attended the ceremony .",
+        "the presenter gave a great speech about being proud of his work .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the award ceremony last week. we sat down and had a meal first. there was a lot of food for the attendees. my friend was very happy to get an award. he was very proud of his hard work.",
+      "normalized_edited_story_text_sent": [
+        "i went to the award ceremony last week .",
+        "we sat down and had a meal first .",
+        "there was a lot of food for the attendees .",
+        "my friend was very happy to get an award .",
+        "he was very proud of his hard work ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the award ceremony last week and we had a lot of food to eat . There were a lot of people there. he was very proud of his work . we had a great time and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the award ceremony last week and we had a lot of food to eat .",
+        "there were a lot of people there .",
+        "he was very proud of his work .",
+        "we had a great time and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1RL9J60EHDOBI",
+      "edited_story_text": "I went to the award ceremony last week . There was a lot of food to eat . There was a large crowd of people at the event . The speaker was very proud of his work . He had a great time, we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the award ceremony last week .",
+        "there was a lot of food to eat .",
+        "there was a large crowd of people at the event .",
+        "the speaker was very proud of his work .",
+        "he had a great time , we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "I went to the award ceremony last week. There were a lot of people and the food was great. The speaker was very proud of his work.",
+      "normalized_edited_story_text_sent": [
+        "i went to the award ceremony last week .",
+        "there were a lot of people and the food was great .",
+        "the speaker was very proud of his work ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623449162982"
+}

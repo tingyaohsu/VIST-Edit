@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4352295447-4352298821-4353046216-4353047436-4352293863",
+  "photo_sequence_ids": [
+    "4352295447",
+    "4352298821",
+    "4353046216",
+    "4353047436",
+    "4352293863"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4069/4352295447_2d9f833bb9_o.jpg",
+    "https://farm5.staticflickr.com/4044/4352298821_6537f717ae_o.jpg",
+    "https://farm3.staticflickr.com/2730/4353046216_1b4ca943cf_o.jpg",
+    "https://farm3.staticflickr.com/2684/4353047436_5286769acf_o.jpg",
+    "https://farm5.staticflickr.com/4070/4352293863_e014f095ef_o.jpg"
+  ],
+  "auto_story_text_normalized": "the speaker was presented with a speech . we had a lot of work to do . he was very happy to be there . the men were very happy to be there . the meeting was a success and everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The speaker got up to present his speech. We had a lot of work to do, but he was happy to be there. All the men were happy to be there. The meeting was a success, and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the speaker got up to present his speech .",
+        "we had a lot of work to do , but he was happy to be there .",
+        "all the men were happy to be there .",
+        "the meeting was a success , and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "the speaker was presented with a speech about the ongoing projects. we had a lot of work to do to accomplish all that was expected of us. he was very happy to be there to support our cause . the men were discussing how to best help in this matter . the meeting was a success and everyone had a great time we also learned a lot.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was presented with a speech about the ongoing projects .",
+        "we had a lot of work to do to accomplish all that was expected of us .",
+        "he was very happy to be there to support our cause .",
+        "the men were discussing how to best help in this matter .",
+        "the meeting was a success and everyone had a great time we also learned a lot ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the speaker was presented with a speech . we had a lot of work to do . he was very happy to be there . the men were very happy to be there and the meeting was a success and everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was presented with a speech .",
+        "we had a lot of work to do .",
+        "he was very happy to be there .",
+        "the men were very happy to be there and the meeting was a success and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "Everyone was happy to be at the meeting where the speech was a success!  All left happy.",
+      "normalized_edited_story_text_sent": [
+        "everyone was happy to be at the meeting where the speech was a success !",
+        "all left happy ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the NASA speaker presented a speech . we listened carefully . he made some good points . the men had quite the discussion . the meeting was a success and everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the nasa speaker presented a speech .",
+        "we listened carefully .",
+        "he made some good points .",
+        "the men had quite the discussion .",
+        "the meeting was a success and everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623424455540"
+}

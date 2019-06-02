@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5698417550-5697848519-5697861253-5697887413-5698427664",
+  "photo_sequence_ids": [
+    "5698417550",
+    "5697848519",
+    "5697861253",
+    "5697887413",
+    "5698427664"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the protesters gathered for the demonstration . the police were there to protest . the signs were held in the streets . the protestors were passionate about the cause . the march was peaceful .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the protesters gathered together for the demonstration. The police were there to protest. the protester held signs in the streets. the protestors were very passionate about the cause. the protester\u0027s march was peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered together for the demonstration .",
+        "the police were there to protest .",
+        "the protester held signs in the streets .",
+        "the protestors were very passionate about the cause .",
+        "the protester \u0027s march was peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The people gathered for the festival.  Everyone was smiling and having fun.  The people were stopping at each booth and getting information.",
+      "normalized_edited_story_text_sent": [
+        "the people gathered for the festival .",
+        "everyone was smiling and having fun .",
+        "the people were stopping at each booth and getting information ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the protesters gathered for the demonstration and to start chanting . the police were there to protest the demonstration . the signs were held in the streets until the police got them . the protestors were passionate about the cause and spoke from the heart . the march was peaceful which was good for everyone.",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered for the demonstration and to start chanting .",
+        "the police were there to protest the demonstration .",
+        "the signs were held in the streets until the police got them .",
+        "the protestors were passionate about the cause and spoke from the heart .",
+        "the march was peaceful which was good for everyone ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the protesters gathered for the demonstration and had booths set up along the path . the police were there to keep the protest peaceful . the signs were held in the streets . the protesters were passionate about the cause . the march was peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered for the demonstration and had booths set up along the path .",
+        "the police were there to keep the protest peaceful .",
+        "the signs were held in the streets .",
+        "the protesters were passionate about the cause .",
+        "the march was peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A29GAVKOZCEEXL",
+      "edited_story_text": "the festival was full of energy . Many people came to visit the booths . I saw plenty of my close friends in attendance. Me and Mary purchased a nice green plant.",
+      "normalized_edited_story_text_sent": [
+        "the festival was full of energy .",
+        "many people came to visit the booths .",
+        "i saw plenty of my close friends in attendance .",
+        "me and [female] purchased a nice green plant ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626582851995",
+  "model": "GLAC"
+}

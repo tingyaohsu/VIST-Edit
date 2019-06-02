@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "6122950336-6122952676-6122418483-6122961788-6122422419",
+  "photo_sequence_ids": [
+    "6122950336",
+    "6122952676",
+    "6122418483",
+    "6122961788",
+    "6122422419"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6186/6122950336_d551925430_o.jpg",
+    "https://farm7.staticflickr.com/6201/6122952676_0082f58f77_o.jpg",
+    "https://farm7.staticflickr.com/6182/6122418483_b70c11222a_o.jpg",
+    "https://farm7.staticflickr.com/6088/6122961788_55f364aa54_o.jpg",
+    "https://farm7.staticflickr.com/6073/6122422419_e88e028f12_o.jpg"
+  ],
+  "auto_story_text_normalized": "the baby was so excited to see his family . the baby was so happy to see him . she was so happy to see him . the kids were so excited to see the baby . he was so happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The baby was so excited to see his family. She was so happy to see the kids. The kids line up and played with one another.",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see his family .",
+        "she was so happy to see the kids .",
+        "the kids line up and played with one another ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "the baby was so excited to see his family.  they love spending time with other kids.  they have a lot of fun together.",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see his family .",
+        "they love spending time with other kids .",
+        "they have a lot of fun together ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The baby was so excited to PLAY WITH HIS SISTER. The HAD SO MUCH FUN. IT WAS A WET DAY OUTSIDE. ALL OF THE CHILDREN LIKED HAVING THEIR PICTURE TAKEN. HE HAD A GREAT DAY.",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to play with his sister .",
+        "the had so much fun .",
+        "it was a wet day outside .",
+        "all of the children liked having their picture taken .",
+        "he had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "Our baby son was so happy to see his sister get ready for  school. The baby was so excited that he just kept laughing. the baby was so happy to see her . I walked the kids to school. they were happy.",
+      "normalized_edited_story_text_sent": [
+        "our baby son was so happy to see his sister get ready for school .",
+        "the baby was so excited that he just kept laughing .",
+        "the baby was so happy to see her .",
+        "i walked the kids to school .",
+        "they were happy ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The baby was so excited to see his family, and so excited to see [male]. [Female] was happy to see the baby, and so were the kids, and the baby was happy to see them.",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see his family , and so excited to see [male] .",
+        "[female] was happy to see the baby , and so were the kids , and the baby was happy to see them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627613240028"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4494860490-4494860484-4494288133-4495047844-4495047898",
+  "photo_sequence_ids": [
+    "4494860490",
+    "4494860484",
+    "4494288133",
+    "4495047844",
+    "4495047898"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was decorated with stained glass windows . the ceiling was beautiful and intricate . the walls were very ornate and well done . the building was also lovely and peaceful . the statue was a great place to visit .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "light came through the church\u0027s stained glass windows . the roof was beautiful in its geometry . the walls were ornately done well . the lovely building inspired peace in onlookers . a statue was a great sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "light came through the church \u0027s stained glass windows .",
+        "the roof was beautiful in its geometry .",
+        "the walls were ornately done well .",
+        "the lovely building inspired peace in onlookers .",
+        "a statue was a great sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the church was decorated with stained glass windows . the ceiling was beautiful and intricate . There was a plaque. There was a huge steeple. The headstone was old.",
+      "normalized_edited_story_text_sent": [
+        "the church was decorated with stained glass windows .",
+        "the ceiling was beautiful and intricate .",
+        "there was a plaque .",
+        "there was a huge steeple .",
+        "the headstone was old ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The church was decorated with stained glass windows. Its ceiling was beautiful and intricate, and the walls were very ornate and well done. Overall, the building was lovely and peaceful and a great place to visit .",
+      "normalized_edited_story_text_sent": [
+        "the church was decorated with stained glass windows .",
+        "its ceiling was beautiful and intricate , and the walls were very ornate and well done .",
+        "overall , the building was lovely and peaceful and a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the church was decorated with stained glass windows. the ceiling was beautiful and intricate and the walls were very ornate. the building was also lovely and peaceful. it was a great place to visit.",
+      "normalized_edited_story_text_sent": [
+        "the church was decorated with stained glass windows .",
+        "the ceiling was beautiful and intricate and the walls were very ornate .",
+        "the building was also lovely and peaceful .",
+        "it was a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the church had beautiful stained glass windows . the windows were beautiful and intricate . the walls were very ornate and well done. the building was lovely and calming . the church is a great place to go.",
+      "normalized_edited_story_text_sent": [
+        "the church had beautiful stained glass windows .",
+        "the windows were beautiful and intricate .",
+        "the walls were very ornate and well done .",
+        "the building was lovely and calming .",
+        "the church is a great place to go ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623653330993",
+  "model": "GLAC"
+}

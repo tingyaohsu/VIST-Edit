@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "189401930-189401854-189401881-189401943-189401909",
+  "photo_sequence_ids": [
+    "189401930",
+    "189401854",
+    "189401881",
+    "189401943",
+    "189401909"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/52/189401930_ffff4efcba_o.jpg",
+    "https://farm1.staticflickr.com/44/189401854_48067d1c6a_o.jpg",
+    "https://farm1.staticflickr.com/71/189401881_0ad1f2997c_o.jpg",
+    "https://farm1.staticflickr.com/54/189401943_b443777936_o.jpg",
+    "https://farm1.staticflickr.com/71/189401909_1c6a2c83ce_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was [male] \u0027s first time at school . it was a lot of fun . we had a lot of fun . some of my friends were very happy to be there . he was so happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "It was [male]\u0027s first time living in a dormitory. It was a long drive to get there. His roommates were nice. There were some pretty girls living in the dorm. He was tired and fell asleep.",
+      "normalized_edited_story_text_sent": [
+        "it was [male] \u0027s first time living in a dormitory .",
+        "it was a long drive to get there .",
+        "his roommates were nice .",
+        "there were some pretty girls living in the dorm .",
+        "he was tired and fell asleep ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "it is [male] \u0027s first time at school . it is a lot of fun . we have a lot of fun . some of my friends was very happy to be there . he is so happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "it is [male] \u0027s first time at school .",
+        "it is a lot of fun .",
+        "we have a lot of fun .",
+        "some of my friends was very happy to be there .",
+        "he is so happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "it is [male] \u0027s first time at school . he is a lot of fun . we have a lot of fun . some of my friends are very happy to be there . he is so happy to saw him .",
+      "normalized_edited_story_text_sent": [
+        "it is [male] \u0027s first time at school .",
+        "he is a lot of fun .",
+        "we have a lot of fun .",
+        "some of my friends are very happy to be there .",
+        "he is so happy to saw him ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "[male] was in a closet . it was a lot of fun . then he was in a car with a disposable camera . my friends were very happy to be there . we had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "[male] was in a closet .",
+        "it was a lot of fun .",
+        "then he was in a car with a disposable camera .",
+        "my friends were very happy to be there .",
+        "we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "it was [male] \u0027s first time at school. it was a lot of fun. we visited him at his dorm. some of my friends were very happy to be there . he was so happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "it was [male] \u0027s first time at school .",
+        "it was a lot of fun .",
+        "we visited him at his dorm .",
+        "some of my friends were very happy to be there .",
+        "he was so happy to see him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594198881999"
+}

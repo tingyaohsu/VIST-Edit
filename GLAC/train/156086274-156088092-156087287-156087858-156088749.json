@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "156086274-156088092-156087287-156087858-156088749",
+  "photo_sequence_ids": [
+    "156086274",
+    "156088092",
+    "156087287",
+    "156087858",
+    "156088749"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the party . there were a lot of people there . they were very happy to be together . they were having a good time . the party lasted well into the night .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the party . there were a lot of people there and now they were very happy to be together . they were having a good time . the party lasted well into the night .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party .",
+        "there were a lot of people there and now they were very happy to be together .",
+        "they were having a good time .",
+        "the party lasted well into the night ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "there are lemons.  the man stood by the tree.  he thought.  the guy made a weird face.  he stood by the flag.",
+      "normalized_edited_story_text_sent": [
+        "there are lemons .",
+        "the man stood by the tree .",
+        "he thought .",
+        "the guy made a weird face .",
+        "he stood by the flag ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I hosted an extraordinary time at the gathering . there were many individuals there . they were cheerful to be as one . they were enjoying themselves . the gathering kept going admirably into the night .",
+      "normalized_edited_story_text_sent": [
+        "i hosted an extraordinary time at the gathering .",
+        "there were many individuals there .",
+        "they were cheerful to be as one .",
+        "they were enjoying themselves .",
+        "the gathering kept going admirably into the night ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "i had a great time at the party . a lot of people there . we were very happy to be together . you can tell by our poses in the photos . the party lasted well into the night .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party .",
+        "a lot of people there .",
+        "we were very happy to be together .",
+        "you can tell by our poses in the photos .",
+        "the party lasted well into the night ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i had a great time at the party . there were a lot of people there . they were very happy to be together . they were being silly . the party lasted well into the night .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party .",
+        "there were a lot of people there .",
+        "they were very happy to be together .",
+        "they were being silly .",
+        "the party lasted well into the night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594149296972",
+  "model": "GLAC"
+}

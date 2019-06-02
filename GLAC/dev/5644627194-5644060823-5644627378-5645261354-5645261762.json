@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5644627194-5644060823-5644627378-5645261354-5645261762",
+  "photo_sequence_ids": [
+    "5644627194",
+    "5644060823",
+    "5644627378",
+    "5645261354",
+    "5645261762"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a wedding . the bride and groom were very happy . the couple was so happy to be married . the food was delicious . the reception was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a party . They posed for pictures. He held up a plate of steaks. They all enjoyed the food.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "they posed for pictures .",
+        "he held up a plate of steaks .",
+        "they all enjoyed the food ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "Our family got together for a wedding . the bride and groom so happy to be married . the food was delicious . the reception was a success .",
+      "normalized_edited_story_text_sent": [
+        "our family got together for a wedding .",
+        "the bride and groom so happy to be married .",
+        "the food was delicious .",
+        "the reception was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family gathered for a wedding . the bride and groom were on cloud nine . the couple was blissfully married . the food was delicious tasting . the reception was a well planned success story .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a wedding .",
+        "the bride and groom were on cloud nine .",
+        "the couple was blissfully married .",
+        "the food was delicious tasting .",
+        "the reception was a well planned success story ."
+      ]
+    },
+    {
+      "worker_id": "A29AX5O8KL48F8",
+      "edited_story_text": "My family got together for a wedding. The bride and groom were so happy to be getting married. The food at the reception was delicious, and overall everyone thought the reception was a huge success.",
+      "normalized_edited_story_text_sent": [
+        "my family got together for a wedding .",
+        "the bride and groom were so happy to be getting married .",
+        "the food at the reception was delicious , and overall everyone thought the reception was a huge success ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family got together for a wedding . the bride and groom were very happy . the man had meat in his hand. the food was delicious . the reception was a success .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a wedding .",
+        "the bride and groom were very happy .",
+        "the man had meat in his hand .",
+        "the food was delicious .",
+        "the reception was a success ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626554955140",
+  "model": "GLAC"
+}

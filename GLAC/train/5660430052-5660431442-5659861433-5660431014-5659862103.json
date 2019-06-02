@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5660430052-5660431442-5659861433-5660431014-5659862103",
+  "photo_sequence_ids": [
+    "5660430052",
+    "5660431442",
+    "5659861433",
+    "5660431014",
+    "5659862103"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the game was about to begin . the team was ready for the start . the players were getting ready . the coach was in the lead . the teams were tied up .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The runners were on the track. The runners were in blue. They passed the baton. The track meet was watched by others.",
+      "normalized_edited_story_text_sent": [
+        "the runners were on the track .",
+        "the runners were in blue .",
+        "they passed the baton .",
+        "the track meet was watched by others ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the race had started. the team passed the stick. the racers were fast. the boy was in the lead . the teams were fired up .",
+      "normalized_edited_story_text_sent": [
+        "the race had started .",
+        "the team passed the stick .",
+        "the racers were fast .",
+        "the boy was in the lead .",
+        "the teams were fired up ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the relay race was about to begin . the team was ready for the start . all the players on the team remembered to wear their blue shirts . the coach gave instructions . the boy passed the baton to his teammate .",
+      "normalized_edited_story_text_sent": [
+        "the relay race was about to begin .",
+        "the team was ready for the start .",
+        "all the players on the team remembered to wear their blue shirts .",
+        "the coach gave instructions .",
+        "the boy passed the baton to his teammate ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the race was about to begin . the players were ready for the start . it was an exciting one",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the players were ready for the start .",
+        "it was an exciting one"
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the game was about to begin and the team and players were ready for the start.  the coach was in the lead and then the teams tied up.",
+      "normalized_edited_story_text_sent": [
+        "the game was about to begin and the team and players were ready for the start .",
+        "the coach was in the lead and then the teams tied up ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626464008683",
+  "model": "GLAC"
+}

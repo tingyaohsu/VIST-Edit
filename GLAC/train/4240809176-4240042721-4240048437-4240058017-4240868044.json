@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4240809176-4240042721-4240048437-4240058017-4240868044",
+  "photo_sequence_ids": [
+    "4240809176",
+    "4240042721",
+    "4240048437",
+    "4240058017",
+    "4240868044"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the buildings were all lit up . the streets were empty . the city was full of energy . the town was quiet .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "each building stands tall as a distinctive architectural symbol of its rich history . the buildings are illuminated at night with glowing lights and people milling about, reflecting the city\u0027s quiet yet confident energy . some main streets were empty .",
+      "normalized_edited_story_text_sent": [
+        "each building stands tall as a distinctive architectural symbol of its rich history .",
+        "the buildings are illuminated at night with glowing lights and people milling about , reflecting the city \u0027s quiet yet confident energy .",
+        "some main streets were empty ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the buildings were very tall and all lit up . some of the streets were empty . the whole city was full of energy.",
+      "normalized_edited_story_text_sent": [
+        "the buildings were very tall and all lit up .",
+        "some of the streets were empty .",
+        "the whole city was full of energy ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the brown building was very tall  and the buildings were all lit up . the streets were empty . the city was full of energy . the town was quiet .",
+      "normalized_edited_story_text_sent": [
+        "the brown building was very tall and the buildings were all lit up .",
+        "the streets were empty .",
+        "the city was full of energy .",
+        "the town was quiet ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary was glad the building was very tall . the buildings were all lit up . the streets were empty . the city was full of energy . the town was quiet .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the building was very tall .",
+        "the buildings were all lit up .",
+        "the streets were empty .",
+        "the city was full of energy .",
+        "the town was quiet ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "The building was very tall. The buildings were all lit up. The building seemed empty. The city was full of energy. The town was quiet.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the buildings were all lit up .",
+        "the building seemed empty .",
+        "the city was full of energy .",
+        "the town was quiet ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623128165856",
+  "model": "GLAC"
+}

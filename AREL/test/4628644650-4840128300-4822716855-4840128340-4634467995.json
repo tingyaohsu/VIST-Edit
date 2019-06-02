@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "4628644650-4840128300-4822716855-4840128340-4634467995",
+  "photo_sequence_ids": [
+    "4628644650",
+    "4840128300",
+    "4822716855",
+    "4840128340",
+    "4634467995"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4017/4628644650_0f765b0cbe_o.jpg",
+    "https://farm5.staticflickr.com/4124/4840128300_ce2ef7d9cd_o.jpg",
+    "https://farm5.staticflickr.com/4081/4822716855_46fca9fd7f_o.jpg",
+    "https://farm5.staticflickr.com/4154/4840128340_a04fc948ba_o.jpg",
+    "https://farm5.staticflickr.com/4029/4634467995_3baec820e7_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the wedding yesterday . she walked down the aisle with her father . the bride and groom pose for a picture . the bride and groom were very happy . after the ceremony , the bride and groom pose for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "i went to a wedding yesterday . the bride walked down the aisle with her father . the bride and groom posed for lots of pictures. They were both very happy . after the ceremony , the bride and groom pose for more pictures.",
+      "normalized_edited_story_text_sent": [
+        "i went to a wedding yesterday .",
+        "the bride walked down the aisle with her father .",
+        "the bride and groom posed for lots of pictures .",
+        "they were both very happy .",
+        "after the ceremony , the bride and groom pose for more pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to a wedding yesterday . the bride walked down the aisle with her father . the bride and groom pose for a picture . they were very happy . after the ceremony , the bride and groom posed for more pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went to a wedding yesterday .",
+        "the bride walked down the aisle with her father .",
+        "the bride and groom pose for a picture .",
+        "they were very happy .",
+        "after the ceremony , the bride and groom posed for more pictures ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the wedding yesterday . she walked down the aisle with her father . the bride and groom pose for a picture . .The guests had such a good time.  after the ceremony , the bride and groom pose for a picture .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday .",
+        "she walked down the aisle with her father .",
+        "the bride and groom pose for a picture .",
+        ".",
+        "the guests had such a good time .",
+        "after the ceremony , the bride and groom pose for a picture ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to a very fun wedding yesterday. The bride and groom took lots of silly pictures. Even the groomsmen were having fun. The bridal party took a group picture after the ceremony was finished. Then the bride and groom posed for a silly picture as they left the church.",
+      "normalized_edited_story_text_sent": [
+        "i went to a very fun wedding yesterday .",
+        "the bride and groom took lots of silly pictures .",
+        "even the groomsmen were having fun .",
+        "the bridal party took a group picture after the ceremony was finished .",
+        "then the bride and groom posed for a silly picture as they left the church ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the wedding yesterday after having fun the night before . she walked down the aisle with her father and had fun with her groom. the groom took a picture with the other guys and then posed with the bride . the bride and groom were very happy  and so were the guests. after the ceremony , the bride and groom pose for a funny picture where they jumped .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday after having fun the night before .",
+        "she walked down the aisle with her father and had fun with her groom .",
+        "the groom took a picture with the other guys and then posed with the bride .",
+        "the bride and groom were very happy and so were the guests .",
+        "after the ceremony , the bride and groom pose for a funny picture where they jumped ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624110756682"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "7481530624-7481530116-7481529900-7481531794-7481534268",
+  "photo_sequence_ids": [
+    "7481530624",
+    "7481530116",
+    "7481529900",
+    "7481531794",
+    "7481534268"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7110/7481530624_ec77fb4cb8_o.jpg",
+    "https://farm9.staticflickr.com/8028/7481530116_27b2716f01_o.jpg",
+    "https://farm8.staticflickr.com/7123/7481529900_2376c3608d_o.jpg",
+    "https://farm8.staticflickr.com/7277/7481531794_6f0a20fac1_o.jpg",
+    "https://farm9.staticflickr.com/8026/7481534268_ddfd64219d_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a man . this is a picture of a sign . there was also a piece of art . there were a lot of things to choose from . this is a picture of a tree .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a man . this was a picture of a sign . there is also a piece of art . there are a lot of things to choose from . this was a picture of a tree .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a man .",
+        "this was a picture of a sign .",
+        "there is also a piece of art .",
+        "there are a lot of things to choose from .",
+        "this was a picture of a tree ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "this is a picture of a [Nate] . this is a picture of a sign . there was also a piece of art . there were a lot of things to look at at the museum.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a [male] .",
+        "this is a picture of a sign .",
+        "there was also a piece of art .",
+        "there were a lot of things to look at at the museum ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "this is a photo of a man . this is a photo of a sign . there was also a piece of art . there were a great deal of things to choose from . this is a photo of a tree .",
+      "normalized_edited_story_text_sent": [
+        "this is a photo of a man .",
+        "this is a photo of a sign .",
+        "there was also a piece of art .",
+        "there were a great deal of things to choose from .",
+        "this is a photo of a tree ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture I took of the man. Here\u0027s a picture of the sign. There was also a piece of art. There were a lot of things to choose from. Here\u0027s a picture of books.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture i took of the man .",
+        "here \u0027s a picture of the sign .",
+        "there was also a piece of art .",
+        "there were a lot of things to choose from .",
+        "here \u0027s a picture of books ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "this is a picture of a woman in a museum. this is a photo of a sign . there was also old pieces and artifacts . there were a lot of things to see . this is a picture of a books .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a woman in a museum .",
+        "this is a photo of a sign .",
+        "there was also old pieces and artifacts .",
+        "there were a lot of things to see .",
+        "this is a picture of a books ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157630375999852"
+}

@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "68472933-68472936-68472937-68475482-68472932",
+  "photo_sequence_ids": [
+    "68472933",
+    "68472936",
+    "68472937",
+    "68475482",
+    "68472932"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was in a field . he was doing a rock climbing . he was going to be a good shot . he was getting ready . the helicopter was coming .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Maria were glad the man was in a tree . he was doing a tree climbing . he was going to be a good climber . he was getting ready . the helicopter was coming .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the man was in a tree .",
+        "he was doing a tree climbing .",
+        "he was going to be a good climber .",
+        "he was getting ready .",
+        "the helicopter was coming ."
+      ]
+    },
+    {
+      "worker_id": "AKIVKZX0MUZ6H",
+      "edited_story_text": "The fireman climbed a tall tree . He was being assisted by 3 men . He was cutting off tree branches . He tied a string to the top branch . He was on a ladder on a fire truck .",
+      "normalized_edited_story_text_sent": [
+        "the fireman climbed a tall tree .",
+        "he was being assisted by 3 men .",
+        "he was cutting off tree branches .",
+        "he tied a string to the top branch .",
+        "he was on a ladder on a fire truck ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The man was in a field, climbing a rock.  The helicopter was coming, so he was getting ready and was going to be a good shot.",
+      "normalized_edited_story_text_sent": [
+        "the man was in a field , climbing a rock .",
+        "the helicopter was coming , so he was getting ready and was going to be a good shot ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the men were able to put up a large Christmas tree. it took a lot of work.",
+      "normalized_edited_story_text_sent": [
+        "the men were able to put up a large christmas tree .",
+        "it took a lot of work ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the man climbed the tree. he used a rope to hold the man up. he was being safe. he was getting ready to come down. . the fire truck was there.",
+      "normalized_edited_story_text_sent": [
+        "the man climbed the tree .",
+        "he used a rope to hold the man up .",
+        "he was being safe .",
+        "he was getting ready to come down .",
+        "the fire truck was there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1476996",
+  "model": "GLAC"
+}

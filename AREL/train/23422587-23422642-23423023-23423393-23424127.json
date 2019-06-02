@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "23422587-23422642-23423023-23423393-23424127",
+  "photo_sequence_ids": [
+    "23422587",
+    "23422642",
+    "23423023",
+    "23423393",
+    "23424127"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/17/23422587_bb5949387f_o.jpg",
+    "https://farm1.staticflickr.com/19/23422642_f28d742a4d_o.jpg",
+    "https://farm1.staticflickr.com/19/23423023_2e25d590d2_o.jpg",
+    "https://farm1.staticflickr.com/18/23423393_2a4f9a7120_o.jpg",
+    "https://farm1.staticflickr.com/17/23424127_e2ee637cc3_o.jpg"
+  ],
+  "auto_story_text_normalized": "my dog was so excited to go to the beach . the chicken was a lot of fun . the flowers were in full bloom . the view from the boat was amazing . we ended the day with a fireworks show .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "my dog was so excited to go to the beach . the chicken was very good . the flowers were in full bloom and the view from the boat was amazing . we ended the day with a nice fireworks show .",
+      "normalized_edited_story_text_sent": [
+        "my dog was so excited to go to the beach .",
+        "the chicken was very good .",
+        "the flowers were in full bloom and the view from the boat was amazing .",
+        "we ended the day with a nice fireworks show ."
+      ]
+    },
+    {
+      "worker_id": "A2CAMPAA7650H2",
+      "edited_story_text": "my dog was so excited to go play during our outing . first, we had some delicious barbecued ribs . next, we took a walk and saw that the flowers were in full bloom . the walk continued onto the beach, where we saw a great view of the boats on the water . we ended the day with a fireworks show .",
+      "normalized_edited_story_text_sent": [
+        "my dog was so excited to go play during our outing .",
+        "first , we had some delicious barbecued ribs .",
+        "next , we took a walk and saw that the flowers were in full bloom .",
+        "the walk continued onto the beach , where we saw a great view of the boats on the water .",
+        "we ended the day with a fireworks show ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "my dog was so excited to go to the beach . the barbecued ribs were excellent. the flowers were in full bloom with their wonderful colors . the view from the boat was amazing . we ended the day with a fireworks show in the sky .",
+      "normalized_edited_story_text_sent": [
+        "my dog was so excited to go to the beach .",
+        "the barbecued ribs were excellent .",
+        "the flowers were in full bloom with their wonderful colors .",
+        "the view from the boat was amazing .",
+        "we ended the day with a fireworks show in the sky ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "My dog was so excited to go to the beach. He loves the car ride.  When we arrived, we threw the ribs on the grill.  We ate then walked around.  The flowers were in full bloom.  The view from the boat was amazing. we ended the day with a fireworks show.",
+      "normalized_edited_story_text_sent": [
+        "my dog was so excited to go to the beach .",
+        "he loves the car ride .",
+        "when we arrived , we threw the ribs on the grill .",
+        "we ate then walked around .",
+        "the flowers were in full bloom .",
+        "the view from the boat was amazing .",
+        "we ended the day with a fireworks show ."
+      ]
+    },
+    {
+      "worker_id": "A2D30R5ZNQS01W",
+      "edited_story_text": "My dog was so excited to go to the beach. The ribs were delicious. The flowers were in full bloom. The view from the boat was amazing. We ended the day with a fireworks show.",
+      "normalized_edited_story_text_sent": [
+        "my dog was so excited to go to the beach .",
+        "the ribs were delicious .",
+        "the flowers were in full bloom .",
+        "the view from the boat was amazing .",
+        "we ended the day with a fireworks show ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "538554"
+}

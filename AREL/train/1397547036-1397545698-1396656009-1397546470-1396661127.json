@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "1397547036-1397545698-1396656009-1397546470-1396661127",
+  "photo_sequence_ids": [
+    "1397547036",
+    "1397545698",
+    "1396656009",
+    "1397546470",
+    "1396661127"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1357/1397547036_8411bccd09_o.jpg",
+    "https://farm2.staticflickr.com/1163/1397545698_5007cad2ed_o.jpg",
+    "https://farm2.staticflickr.com/1151/1396656009_88b514249e_o.jpg",
+    "https://farm2.staticflickr.com/1397/1397546470_d0f1982271_o.jpg",
+    "https://farm2.staticflickr.com/1419/1396661127_11f63e610e_o.jpg"
+  ],
+  "auto_story_text_normalized": "[female] was excited for her birthday party . grandma was so happy to see him . mom and dad were so happy to see each other . the family sat around the table and talked . the birthday boy was having a good time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "[female] was excited for her birthday party . grandma was so happy to see him, and mom and dad were so happy to see each other . the family sat around the table and talked . the birthday boy was having a good time at the party, even if he did fall asleep early!",
+      "normalized_edited_story_text_sent": [
+        "[female] was excited for her birthday party .",
+        "grandma was so happy to see him , and mom and dad were so happy to see each other .",
+        "the family sat around the table and talked .",
+        "the birthday boy was having a good time at the party , even if he did fall asleep early !"
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "[female] was excited for her birthday party and to see all fer family. grandma was so happy to see him after granddad let her hold him . mom and dad were so happy to see each other and to spend time with the entire family. the family sat around the table and talked about the good old times . the birthday girl was having a good time at the party and loved all her presents.",
+      "normalized_edited_story_text_sent": [
+        "[female] was excited for her birthday party and to see all fer family .",
+        "grandma was so happy to see him after granddad let her hold him .",
+        "mom and dad were so happy to see each other and to spend time with the entire family .",
+        "the family sat around the table and talked about the good old times .",
+        "the birthday girl was having a good time at the party and loved all her presents ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "[female] was excited for her birthday party and grandma and grandpa were so happy to see the baby .  the family sat around the table and talked and the birthday boy was having a good time at the party .",
+      "normalized_edited_story_text_sent": [
+        "[female] was excited for her birthday party and grandma and grandpa were so happy to see the baby .",
+        "the family sat around the table and talked and the birthday boy was having a good time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "[female] was thrilled for her birthday celebration . grandma was excited to see him . mom and dad were so happy to see each other . the family sat around the table and chatted . the birthday boy was having a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "[female] was thrilled for her birthday celebration .",
+        "grandma was excited to see him .",
+        "mom and dad were so happy to see each other .",
+        "the family sat around the table and chatted .",
+        "the birthday boy was having a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A15340BRCER2UO",
+      "edited_story_text": "[female] was excited for her birthday party . grandma was so happy to see him . mom and dad were so happy to see each other . the family sat around the table and talked . the birthday boy was having a good time at the party .\r\rMary was really happy at the birthday party. Grandma and Grandpa were there as well. They were happy to see each other and the new grandchild. Everyone had a good time, especially the birthday boy.",
+      "normalized_edited_story_text_sent": [
+        "[female] was excited for her birthday party .",
+        "grandma was so happy to see him .",
+        "mom and dad were so happy to see each other .",
+        "the family sat around the table and talked .",
+        "the birthday boy was having a good time at the party .",
+        "mary was really happy at the birthday party .",
+        "grandma and grandpa were there as well .",
+        "they were happy to see each other and the new grandchild .",
+        "everyone had a good time , especially the birthday boy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602047008082"
+}

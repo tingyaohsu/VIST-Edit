@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6394286-6394587-6394681-6394709-6394873",
+  "photo_sequence_ids": [
+    "6394286",
+    "6394587",
+    "6394681",
+    "6394709",
+    "6394873"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/7/6394286_6973ed9327_o.jpg",
+    "https://farm1.staticflickr.com/8/6394587_ffb05cafda_o.jpg",
+    "https://farm1.staticflickr.com/3/6394681_4e2f063bc4_o.jpg",
+    "https://farm1.staticflickr.com/8/6394709_3eaee914e9_o.jpg",
+    "https://farm1.staticflickr.com/4/6394873_184e870591_o.jpg"
+  ],
+  "auto_story_text_normalized": "the party was a lot of fun . they had a lot of gifts . she was very happy to be there . the kids had a great time and had a good time . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The party was a really great time. Someone brought a cake and gifts. Everyone was happy to sign the party poster sheet. The guests had a great time and enjoyed lots of snacks. Everyone had fun at the party.",
+      "normalized_edited_story_text_sent": [
+        "the party was a really great time .",
+        "someone brought a cake and gifts .",
+        "everyone was happy to sign the party poster sheet .",
+        "the guests had a great time and enjoyed lots of snacks .",
+        "everyone had fun at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the party was a lot of fun and they had a lot of gifts . she was very happy to be there . the kids had a great time and had a good time . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and they had a lot of gifts .",
+        "she was very happy to be there .",
+        "the kids had a great time and had a good time .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the party was a lot of fun . they had a lot of food . the kids had a great time . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "they had a lot of food .",
+        "the kids had a great time .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The party was a lot of fun! There were a lot of gifts, and [female] was happy to be there. The kids had a great time, and all the guests had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun !",
+        "there were a lot of gifts , and [female] was happy to be there .",
+        "the kids had a great time , and all the guests had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to a party. It was for a guy who was leaving. I signed his goodbye card. There was lots of food. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a party .",
+        "it was for a guy who was leaving .",
+        "i signed his goodbye card .",
+        "there was lots of food .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "159626"
+}

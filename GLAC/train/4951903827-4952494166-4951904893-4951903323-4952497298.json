@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4951903827-4952494166-4951904893-4951903323-4952497298",
+  "photo_sequence_ids": [
+    "4951903827",
+    "4952494166",
+    "4951904893",
+    "4951903323",
+    "4952497298"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to graduate . the principal gave a speech . the graduates were proud of their accomplishments . the faculty was very happy . the valedictorian received a certificate of applause .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "He stood next to the woman with the mic. The tables were set and numbered. The band played large drums. the cheerleaders got in formation. The man spoke from the podium.",
+      "normalized_edited_story_text_sent": [
+        "he stood next to the woman with the mic .",
+        "the tables were set and numbered .",
+        "the band played large drums .",
+        "the cheerleaders got in formation .",
+        "the man spoke from the podium ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The students were excited to graduate. The principle was giving a speech for the graduates. The band was marching and playing during the graduation.  Everyone was having a good time.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "the principle was giving a speech for the graduates .",
+        "the band was marching and playing during the graduation .",
+        "everyone was having a good time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the students were excited for the celebration. the cheerleaders and the marching band were there to support the football team.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited for the celebration .",
+        "the cheerleaders and the marching band were there to support the football team ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The students were excited to graduate, and the principal gave a speech to them at the graduation. The faculty was also very happy. And guess what? The valedictorian received a certificate of applause!",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate , and the principal gave a speech to them at the graduation .",
+        "the faculty was also very happy .",
+        "and guess what ?",
+        "the valedictorian received a certificate of applause !"
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the students were excited to graduate from penn state college . the principal gave a speech about their accomplishment . the graduates were proud of their accomplishments and the work they did all year . the faculty was very happy the students all passed their final exams. the valedictorian received a certificate of applause as he gave a speech .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate from penn state college .",
+        "the principal gave a speech about their accomplishment .",
+        "the graduates were proud of their accomplishments and the work they did all year .",
+        "the faculty was very happy the students all passed their final exams .",
+        "the valedictorian received a certificate of applause as he gave a speech ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207403904",
+  "model": "GLAC"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "8134529391-8134529499-8138656725-8138303253-8138275622",
+  "photo_sequence_ids": [
+    "8134529391",
+    "8134529499",
+    "8138656725",
+    "8138303253",
+    "8138275622"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8475/8134529391_23f4c32847_o.jpg",
+    "https://farm9.staticflickr.com/8474/8134529499_0cd6f69326_o.jpg",
+    "https://farm9.staticflickr.com/8472/8138656725_fc51778bf1_o.jpg",
+    "https://farm9.staticflickr.com/8324/8138303253_dbc030ff72_o.jpg",
+    "https://farm9.staticflickr.com/8466/8138275622_6376123fb7_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on a tour of the city today . we found a place to sit and enjoy the view . there were a lot of interesting things to see . we had a great time there . this is a picture of a fountain .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went on a tour of the forest today . we found a place to sit and enjoy the view . there were a lot of interesting things to see . we had a great time there . this is a picture of a tree.",
+      "normalized_edited_story_text_sent": [
+        "i went on a tour of the forest today .",
+        "we found a place to sit and enjoy the view .",
+        "there were a lot of interesting things to see .",
+        "we had a great time there .",
+        "this is a picture of a tree ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went on a tour of the state park today . we stopped for gas on the way. there were a lot of interesting things to see . we had a great time there . this is a picture of a stream .",
+      "normalized_edited_story_text_sent": [
+        "i went on a tour of the state park today .",
+        "we stopped for gas on the way .",
+        "there were a lot of interesting things to see .",
+        "we had a great time there .",
+        "this is a picture of a stream ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went on a trip to the park today. we saw a lot of beautiful natural features. we found a place to sit and enjoy the view . we had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "i went on a trip to the park today .",
+        "we saw a lot of beautiful natural features .",
+        "we found a place to sit and enjoy the view .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "I went on a tour of the city today. We found a place to sit and enjoy the view. There were a lot of interesting things to see. We had a great time there. This is a picture of the forest path.",
+      "normalized_edited_story_text_sent": [
+        "i went on a tour of the city today .",
+        "we found a place to sit and enjoy the view .",
+        "there were a lot of interesting things to see .",
+        "we had a great time there .",
+        "this is a picture of the forest path ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "i decided to go on a tour of the city today . we found a fun place to sit and rest where we could enjoy the view .   we saw  a lot of interesting things. we really had a great time . Here is a picture of a fountain that I liked .",
+      "normalized_edited_story_text_sent": [
+        "i decided to go on a tour of the city today .",
+        "we found a fun place to sit and rest where we could enjoy the view .",
+        "we saw a lot of interesting things .",
+        "we really had a great time .",
+        "here is a picture of a fountain that i liked ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631879336542"
+}

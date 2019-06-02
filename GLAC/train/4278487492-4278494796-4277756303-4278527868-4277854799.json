@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4278487492-4278494796-4277756303-4278527868-4277854799",
+  "photo_sequence_ids": [
+    "4278487492",
+    "4278494796",
+    "4277756303",
+    "4278527868",
+    "4277854799"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the room was empty . the office was ready for the meeting . the building was full of people . the doors were empty . the event was underway .",
+  "edited_stories": [
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The room was completely empty. The building was full of peoples pictures. It was an eerie sight.",
+      "normalized_edited_story_text_sent": [
+        "the room was completely empty .",
+        "the building was full of peoples pictures .",
+        "it was an eerie sight ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "JOHN SAID TO MARY the room was empty . the office was ready for the meeting . the building was full of people . the doors were empty . the event was underway .",
+      "normalized_edited_story_text_sent": [
+        "[male] said to [female] the room was empty .",
+        "the office was ready for the meeting .",
+        "the building was full of people .",
+        "the doors were empty .",
+        "the event was underway ."
+      ]
+    },
+    {
+      "worker_id": "ASFR82SJYMGNU",
+      "edited_story_text": "The lobby was empty . The office room was ready for the meeting . The building was full of people . The doors were empty . The meeting was underway .",
+      "normalized_edited_story_text_sent": [
+        "the lobby was empty .",
+        "the office room was ready for the meeting .",
+        "the building was full of people .",
+        "the doors were empty .",
+        "the meeting was underway ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the room was empty . the office was ready for the meeting . the building was clean and ready for people to come . the doors were empty . the event had not started yet .",
+      "normalized_edited_story_text_sent": [
+        "the room was empty .",
+        "the office was ready for the meeting .",
+        "the building was clean and ready for people to come .",
+        "the doors were empty .",
+        "the event had not started yet ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the room was empty . the office was ready for the meeting . the building was dark . the doors were empty . the nobody was in attendance .",
+      "normalized_edited_story_text_sent": [
+        "the room was empty .",
+        "the office was ready for the meeting .",
+        "the building was dark .",
+        "the doors were empty .",
+        "the nobody was in attendance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623219655434",
+  "model": "GLAC"
+}

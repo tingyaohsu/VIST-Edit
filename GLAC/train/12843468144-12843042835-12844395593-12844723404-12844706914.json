@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "12843468144-12843042835-12844395593-12844723404-12844706914",
+  "photo_sequence_ids": [
+    "12843468144",
+    "12843042835",
+    "12844395593",
+    "12844723404",
+    "12844706914"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the restaurant yesterday . there were a lot of people there . they were very full . they had a lot of food . they were all very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A29AX5O8KL48F8",
+      "edited_story_text": "i went to the restaurant yesterday . there were a lot of people there and the place looked very full . They had a lot of food choices and the ones I ordered tasted so good.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant yesterday .",
+        "there were a lot of people there and the place looked very full .",
+        "they had a lot of food choices and the ones i ordered tasted so good ."
+      ]
+    },
+    {
+      "worker_id": "A30DFNV9FV487C",
+      "edited_story_text": "I went to the restaurant yesterday. Met some friends at the bar. There were a lot of people there .We had the choice of soup and sub.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant yesterday .",
+        "met some friends at the bar .",
+        "there were a lot of people there .",
+        "we had the choice of soup and sub ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "i went to the restaurant yesterday . I brought my book and sat and drank a coffee while reading my book. there were a lot of people in the restaurant, it was booked. After reading my book and having my coffee, I had food, and all the food I had was great.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant yesterday .",
+        "i brought my book and sat and drank a coffee while reading my book .",
+        "there were a lot of people in the restaurant , it was booked .",
+        "after reading my book and having my coffee , i had food , and all the food i had was great ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "i went to the restaurant yesterday . there were a lot of people there . it was so crowded! . they had a lot of food to choose from . it was all very good .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant yesterday .",
+        "there were a lot of people there .",
+        "it was so crowded !",
+        "they had a lot of food to choose from .",
+        "it was all very good ."
+      ]
+    },
+    {
+      "worker_id": "A3KA3A3M7LPMPA",
+      "edited_story_text": "I went to the restaurant yesterday with so many diners. The building was packed . They had a lot of food, and it was all delicious.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant yesterday with so many diners .",
+        "the building was packed .",
+        "they had a lot of food , and it was all delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157641674917713",
+  "model": "GLAC"
+}

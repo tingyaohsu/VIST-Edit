@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2323738278-2322128946-2327900163-2322127968-2322919747",
+  "photo_sequence_ids": [
+    "2323738278",
+    "2322128946",
+    "2327900163",
+    "2322127968",
+    "2322919747"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was giving a speech . she was very happy . she was so proud of her award . she was excited to be graduating . she was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "a countless number of people were in the street for the protest.  many people were carrying signs in demonstration. everyone was yelling.  one man with a microphone was leading the march.",
+      "normalized_edited_story_text_sent": [
+        "a countless number of people were in the street for the protest .",
+        "many people were carrying signs in demonstration .",
+        "everyone was yelling .",
+        "one man with a microphone was leading the march ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the lady was giving a big speech . she was very happy . she was so proud of her award . she was animated to be graduating . she was very proud .",
+      "normalized_edited_story_text_sent": [
+        "the lady was giving a big speech .",
+        "she was very happy .",
+        "she was so proud of her award .",
+        "she was animated to be graduating .",
+        "she was very proud ."
+      ]
+    },
+    {
+      "worker_id": "A30DFNV9FV487C",
+      "edited_story_text": "The lady was giving a speech on hatred. There were protestors all over the streets. Some were screaming and some were chanting. Another lady yelled profanity at her.",
+      "normalized_edited_story_text_sent": [
+        "the lady was giving a speech on hatred .",
+        "there were protestors all over the streets .",
+        "some were screaming and some were chanting .",
+        "another lady yelled profanity at her ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the lady was giving a speech . The demonstration was powerful . There were people with flags . Everyone listened to the speakers.",
+      "normalized_edited_story_text_sent": [
+        "the lady was giving a speech .",
+        "the demonstration was powerful .",
+        "there were people with flags .",
+        "everyone listened to the speakers ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the lady was demonstrating with a crowd . Men and women waved flags in the street . A man with a red, green, and white flag stood in solidarity with the crowd. Another man used a microphone to give a speech. A woman was proud to announce her beliefs in public.",
+      "normalized_edited_story_text_sent": [
+        "the lady was demonstrating with a crowd .",
+        "men and women waved flags in the street .",
+        "a man with a red , green , and white flag stood in solidarity with the crowd .",
+        "another man used a microphone to give a speech .",
+        "a woman was proud to announce her beliefs in public ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157604082858691",
+  "model": "GLAC"
+}

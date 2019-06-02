@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4410744-4410591-4410528-4410809-4410646",
+  "photo_sequence_ids": [
+    "4410744",
+    "4410591",
+    "4410528",
+    "4410809",
+    "4410646"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the market was a great place to visit . the food was delicious . the choices were very good . the food was delicious . the restaurant was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The market had a very wide variety of different foods to choose from.The customers were very excited.",
+      "normalized_edited_story_text_sent": [
+        "the market had a very wide variety of different foods to choose from.the customers were very excited ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the market was a great place to visit . there is always so much food . the choices were very good . the food were bought was delicious . the restaurant was a success .",
+      "normalized_edited_story_text_sent": [
+        "the market was a great place to visit .",
+        "there is always so much food .",
+        "the choices were very good .",
+        "the food were bought was delicious .",
+        "the restaurant was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the market was a great place to visit . the food was delicious and the choices were very good .  the grocery store was a success .",
+      "normalized_edited_story_text_sent": [
+        "the market was a great place to visit .",
+        "the food was delicious and the choices were very good .",
+        "the grocery store was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the market is always a great place to visit . the cereal looked  delicious . the friendly staff was very good . the soup was delicious . the market trip for beer was a success .",
+      "normalized_edited_story_text_sent": [
+        "the market is always a great place to visit .",
+        "the cereal looked delicious .",
+        "the friendly staff was very good .",
+        "the soup was delicious .",
+        "the market trip for beer was a success ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the market was a great place to visit . the cereal aisle was huge . it made us happy . they also had soup . we liked the beer aisle .",
+      "normalized_edited_story_text_sent": [
+        "the market was a great place to visit .",
+        "the cereal aisle was huge .",
+        "it made us happy .",
+        "they also had soup .",
+        "we liked the beer aisle ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "111086",
+  "model": "GLAC"
+}

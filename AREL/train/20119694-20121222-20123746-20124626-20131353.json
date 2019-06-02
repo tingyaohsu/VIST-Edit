@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "20119694-20121222-20123746-20124626-20131353",
+  "photo_sequence_ids": [
+    "20119694",
+    "20121222",
+    "20123746",
+    "20124626",
+    "20131353"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/17/20119694_db76ffb822_o.jpg",
+    "https://farm1.staticflickr.com/16/20121222_6e65490237_o.jpg",
+    "https://farm1.staticflickr.com/16/20123746_61a8367402_o.jpg",
+    "https://farm1.staticflickr.com/14/20124626_b2a734ac89_o.jpg",
+    "https://farm1.staticflickr.com/17/20131353_01f204540c_o.jpg"
+  ],
+  "auto_story_text_normalized": "the parade was a lot of fun . some of the costumes were very colorful . there were many people dressed up in costumes . some of the dancers were dancing . some of them were very good .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the parade was a lot of fun . some of the costumes were very colorful . there were many people dressed up in costumes and holding flags. all of the dancers were dancing . the ice cream was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "some of the costumes were very colorful .",
+        "there were many people dressed up in costumes and holding flags .",
+        "all of the dancers were dancing .",
+        "the ice cream was very good ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "The parade was a lot of fun.  Some of the costumes were very colorful.  There were many people dressed up in costumes.  The dancers were dancing to the traditional music in their costumes.  Some of them were very good.  I got ice cream.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "some of the costumes were very colorful .",
+        "there were many people dressed up in costumes .",
+        "the dancers were dancing to the traditional music in their costumes .",
+        "some of them were very good .",
+        "i got ice cream ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the parade was a lot of fun and some of the costumes were very colorful . there were many people dressed up in costumes and some of the dancers were dancing . Some of the dancers were pretty good.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun and some of the costumes were very colorful .",
+        "there were many people dressed up in costumes and some of the dancers were dancing .",
+        "some of the dancers were pretty good ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the parade was a lot of fun . some of the costumes were very colorful . there were many people dressed up in costumes . some of the dancers were dancin and some of them were very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "some of the costumes were very colorful .",
+        "there were many people dressed up in costumes .",
+        "some of the dancers were dancin and some of them were very good ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the parade was a lot of fun. there were many people dressed up in costumes, and some of them were very colorful. the dancers were very good. i took some pictures of them.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many people dressed up in costumes , and some of them were very colorful .",
+        "the dancers were very good .",
+        "i took some pictures of them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "489485"
+}

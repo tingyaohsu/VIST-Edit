@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "68472936-68475474-68472932-68475475-68475482",
+  "photo_sequence_ids": [
+    "68472936",
+    "68475474",
+    "68472932",
+    "68475475",
+    "68475482"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers were ready to go on a mission trip . they were all excited about the day . they saw the plane that was going to be in the air . they took a break and had a great time . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "The firefighters were a great help today. They helped assist us with their truck ladder so we can string Christmas lights on the large tree outside of our building. When it lights up it will be beautiful!",
+      "normalized_edited_story_text_sent": [
+        "the firefighters were a great help today .",
+        "they helped assist us with their truck ladder so we can string christmas lights on the large tree outside of our building .",
+        "when it lights up it will be beautiful !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the men were excited to help trim and put up the large Christmas tree.",
+      "normalized_edited_story_text_sent": [
+        "the men were excited to help trim and put up the large christmas tree ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the soldiers were ready to go on a mission trip to help others . they were all excited about the day to start . they saw the plane that was going to be in the air for the parade that was in the afternoon . they took a break and had a great time talking to each other about the parade. they had a great time helping cut the tree.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready to go on a mission trip to help others .",
+        "they were all excited about the day to start .",
+        "they saw the plane that was going to be in the air for the parade that was in the afternoon .",
+        "they took a break and had a great time talking to each other about the parade .",
+        "they had a great time helping cut the tree ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the soldiers were ready to go on a mission trip . they were all excited about the day . they saw the fire truck parked . they took a break and had a great time . the guy worked up in the tree .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready to go on a mission trip .",
+        "they were all excited about the day .",
+        "they saw the fire truck parked .",
+        "they took a break and had a great time .",
+        "the guy worked up in the tree ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the workers made a plan. The used the fire truck to get the job done. This tree is huge. It was pretty amazing.",
+      "normalized_edited_story_text_sent": [
+        "the workers made a plan .",
+        "the used the fire truck to get the job done .",
+        "this tree is huge .",
+        "it was pretty amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1476996",
+  "model": "GLAC"
+}

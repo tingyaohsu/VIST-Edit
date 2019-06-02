@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "766263320-765359781-766292776-766228474-765387567",
+  "photo_sequence_ids": [
+    "766263320",
+    "765359781",
+    "766292776",
+    "766228474",
+    "765387567"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . they saw lots of cool things . they even saw a big snake . the panda was very impressive . the church was also a beautiful place .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family went to the zoo . they saw lots of cool things . they even saw a big snake . the panda was very impressive . the church was also a beautiful place .\r\rMy family and took a trip to the zoo. We see a lot of unique things. My kids were mesmerized by the big snake they saw. I thought the panda was really incredible! The church at the end of the trail, was really pretty too.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw lots of cool things .",
+        "they even saw a big snake .",
+        "the panda was very impressive .",
+        "the church was also a beautiful place .",
+        "my family and took a trip to the zoo .",
+        "we see a lot of unique things .",
+        "my kids were mesmerized by the big snake they saw .",
+        "i thought the panda was really incredible !",
+        "the church at the end of the trail , was really pretty too ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the zoo . they saw lots of cool things .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw lots of cool things ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "We visited an ancient temple in Thailand. It was mostly deserted and broken but there was beautiful architecture. Nature was taking the land back with tree overgrowth on the walls and in the temple itself.",
+      "normalized_edited_story_text_sent": [
+        "we visited an ancient temple in thailand .",
+        "it was mostly deserted and broken but there was beautiful architecture .",
+        "nature was taking the land back with tree overgrowth on the walls and in the temple itself ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The scenery was amazing. There was a large building with a very tall tree growing. The tree grew out of the building. It was an amazing sight to see.",
+      "normalized_edited_story_text_sent": [
+        "the scenery was amazing .",
+        "there was a large building with a very tall tree growing .",
+        "the tree grew out of the building .",
+        "it was an amazing sight to see ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went to the zoo . they saw lots of cool animals . they even saw a big snake . the panda was very impressive . they had so much fun .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw lots of cool animals .",
+        "they even saw a big snake .",
+        "the panda was very impressive .",
+        "they had so much fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600738834989",
+  "model": "GLAC"
+}

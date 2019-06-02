@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4769801777-4769802729-4769803479-4769803851-4769803123",
+  "photo_sequence_ids": [
+    "4769801777",
+    "4769802729",
+    "4769803479",
+    "4769803851",
+    "4769803123"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was very excited to be at the party . the cat was not sure what he was doing . the fireworks were beautiful . the lights were bright and vibrant . the man was happy with his new camera .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The dog was glad to see everybody at the party.  He even made a new friend.  That changed with the fireworks, as it scared all the dogs in attendance.",
+      "normalized_edited_story_text_sent": [
+        "the dog was glad to see everybody at the party .",
+        "he even made a new friend .",
+        "that changed with the fireworks , as it scared all the dogs in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the dog exhibited joy to partaking in with the party goers. the cat was a bit uncertain as to what all the fuss was all about. the fireworks soared to everyone\u0027s admiration. the lights, sparked bright and vibrant . the man\u0027s new camera device demonstrated his happiness by proxy.",
+      "normalized_edited_story_text_sent": [
+        "the dog exhibited joy to partaking in with the party goers .",
+        "the cat was a bit uncertain as to what all the fuss was all about .",
+        "the fireworks soared to everyone \u0027s admiration .",
+        "the lights , sparked bright and vibrant .",
+        "the man \u0027s new camera device demonstrated his happiness by proxy ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the dog was excited at the party . the other dog was not sure what he was doing . the fireworks were brilliant . they lit up the sky vibrantly . the woman was happy with her new dog .",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited at the party .",
+        "the other dog was not sure what he was doing .",
+        "the fireworks were brilliant .",
+        "they lit up the sky vibrantly .",
+        "the woman was happy with her new dog ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "We took the dogs to the fireworks show with us. Our black dog was nervous. The fireworks were beautiful but they were bright and noisy. Our black dog was scared by all the light and noise.",
+      "normalized_edited_story_text_sent": [
+        "we took the dogs to the fireworks show with us .",
+        "our black dog was nervous .",
+        "the fireworks were beautiful but they were bright and noisy .",
+        "our black dog was scared by all the light and noise ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The dogs had to be comforted by the woman due to the fireworks being so loud.",
+      "normalized_edited_story_text_sent": [
+        "the dogs had to be comforted by the woman due to the fireworks being so loud ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624440382340",
+  "model": "GLAC"
+}

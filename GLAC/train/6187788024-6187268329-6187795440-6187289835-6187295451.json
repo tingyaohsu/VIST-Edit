@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6187788024-6187268329-6187795440-6187289835-6187295451",
+  "photo_sequence_ids": [
+    "6187788024",
+    "6187268329",
+    "6187795440",
+    "6187289835",
+    "6187295451"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the big game . the fans were excited . the players were playing . the cheerleaders were very good . the coach was interviewed .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the crowd was ready for the game to start . the fans were boisterous . the players played hard . the cheerleaders displayed their prowess . the coach was interviewed after the game .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the game to start .",
+        "the fans were boisterous .",
+        "the players played hard .",
+        "the cheerleaders displayed their prowess .",
+        "the coach was interviewed after the game ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd was ready for the big game . the fans were excited .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the big game .",
+        "the fans were excited ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the parents came for their daughter\u0027s homecoming week at the big game . the students were excited . the students were walking on the field with their parents as the band played. the girls were dressed in their best gowns. the football player was crowned king along with a girl in a beautiful gown .",
+      "normalized_edited_story_text_sent": [
+        "the parents came for their daughter \u0027s homecoming week at the big game .",
+        "the students were excited .",
+        "the students were walking on the field with their parents as the band played .",
+        "the girls were dressed in their best gowns .",
+        "the football player was crowned king along with a girl in a beautiful gown ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the crowd was ready for the big game but first a pre game ceremony . the fans were excited as the homecoming court came . the players were playing their hearts out . the cheerleaders were very good as they danced . the coach was interviewed after the team won the big game.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the big game but first a pre game ceremony .",
+        "the fans were excited as the homecoming court came .",
+        "the players were playing their hearts out .",
+        "the cheerleaders were very good as they danced .",
+        "the coach was interviewed after the team won the big game ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the girl in the sash walked across the field with her parents . the boy walked with his sisters . another boy walked with his mother. a boy and girl were crowned . they both smiled and looked thrilled. .",
+      "normalized_edited_story_text_sent": [
+        "the girl in the sash walked across the field with her parents .",
+        "the boy walked with his sisters .",
+        "another boy walked with his mother .",
+        "a boy and girl were crowned .",
+        "they both smiled and looked thrilled ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627638300109",
+  "model": "GLAC"
+}

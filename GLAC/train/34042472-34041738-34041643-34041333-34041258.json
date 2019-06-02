@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "34042472-34041738-34041643-34041333-34041258",
+  "photo_sequence_ids": [
+    "34042472",
+    "34041738",
+    "34041643",
+    "34041333",
+    "34041258"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . they had a lot of fun . they had lots of food . they had a good time . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was having a great time at the party . they had a lot of fun . they had lots of food . they enjoyed the music . they made good memories .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they had a lot of fun .",
+        "they had lots of food .",
+        "they enjoyed the music .",
+        "they made good memories ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family was having a great time at the big party and they had a lot of fun . they had lots of food . they had a good time . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the big party and they had a lot of fun .",
+        "they had lots of food .",
+        "they had a good time .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family was having a great time at the party . they had a lot of fun . they had lots of food . they enjoyed being together . everyone left happy afterwards. .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they had a lot of fun .",
+        "they had lots of food .",
+        "they enjoyed being together .",
+        "everyone left happy afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family was having a great time at the party . the man was sitting inside the office away from the party.  the cake was good and everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "the man was sitting inside the office away from the party .",
+        "the cake was good and everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "My friend was still on the computer as we were getting ready to have a birthday party. My mom and friend were all smiles while I took a picture of them on top of the staircase and we had not one but two cakes! Everyone had some cake and we hung out afterwards.",
+      "normalized_edited_story_text_sent": [
+        "my friend was still on the computer as we were getting ready to have a birthday party .",
+        "my mom and friend were all smiles while i took a picture of them on top of the staircase and we had not one but two cakes !",
+        "everyone had some cake and we hung out afterwards ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "754408",
+  "model": "GLAC"
+}

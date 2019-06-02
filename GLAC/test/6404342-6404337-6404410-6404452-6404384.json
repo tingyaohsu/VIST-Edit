@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "6404342-6404337-6404410-6404452-6404384",
+  "photo_sequence_ids": [
+    "6404342",
+    "6404337",
+    "6404410",
+    "6404452",
+    "6404384"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was ready for the meeting . the company was getting ready to begin . the man was excited . the conference was well underway . the speaker was very knowledgeable .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the office was ready for the meeting . the company was getting ready to begin",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting .",
+        "the company was getting ready to begin"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the office was ready for the meeting . They waited in the chairs. There was a view of the city out the window. They checked it out.",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting .",
+        "they waited in the chairs .",
+        "there was a view of the city out the window .",
+        "they checked it out ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the office was ready for the meeting about the company\u0027s beginning. the conference was well underway. the speaker was very knowledgeable and excited.",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting about the company \u0027s beginning .",
+        "the conference was well underway .",
+        "the speaker was very knowledgeable and excited ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the office was ready for the meeting . the company was getting ready to begin . the man was excited . the conference was well underway . the speaker was very knowledgeable .\r\rI prepped the office for the meeting. We were getting ready to launch the company. David was so excited! It was a long conference. John Roberts our speaker was very well informed.",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting .",
+        "the company was getting ready to begin .",
+        "the man was excited .",
+        "the conference was well underway .",
+        "the speaker was very knowledgeable .",
+        "i prepped the office for the meeting .",
+        "we were getting ready to launch the company .",
+        "[male] was so excited !",
+        "it was a long conference .",
+        "[male] roberts our speaker was very well informed ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the office was ready for the meeting with a big client . the company was getting ready to begin a big sales call with the client . the man was excited to try to close the deal. the conference was well underway and moving along fast . the speaker was very knowledgeable about all the issues .",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting with a big client .",
+        "the company was getting ready to begin a big sales call with the client .",
+        "the man was excited to try to close the deal .",
+        "the conference was well underway and moving along fast .",
+        "the speaker was very knowledgeable about all the issues ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "159883",
+  "model": "GLAC"
+}

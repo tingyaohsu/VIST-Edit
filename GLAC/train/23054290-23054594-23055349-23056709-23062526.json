@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "23054290-23054594-23055349-23056709-23062526",
+  "photo_sequence_ids": [
+    "23054290",
+    "23054594",
+    "23055349",
+    "23056709",
+    "23062526"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the protesters were getting ready for the march . they carried signs to protest . they held signs . they marched together . they had a sign .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The protesters were ready for the march. They carried signs to protest. There were many different kinds of signs. The signs had different slogans. Everyone marched together.",
+      "normalized_edited_story_text_sent": [
+        "the protesters were ready for the march .",
+        "they carried signs to protest .",
+        "there were many different kinds of signs .",
+        "the signs had different slogans .",
+        "everyone marched together ."
+      ]
+    },
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "the protesters gathered to get ready for the march with their signs. They marched together in protest, signs held high.",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered to get ready for the march with their signs .",
+        "they marched together in protest , signs held high ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the protesters were at the march and carrying many protest signs . they held signs and marched together down the streets. there were a variety of signs, each bearing different images and slogans.",
+      "normalized_edited_story_text_sent": [
+        "the protesters were at the march and carrying many protest signs .",
+        "they held signs and marched together down the streets .",
+        "there were a variety of signs , each bearing different images and slogans ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the protesters were getting ready for the march . they carried signs to protest . they held large banners . they marched together . they also had flags.",
+      "normalized_edited_story_text_sent": [
+        "the protesters were getting ready for the march .",
+        "they carried signs to protest .",
+        "they held large banners .",
+        "they marched together .",
+        "they also had flags ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "We prepared signs displaying our world leaders and asked for freedom from corporate tyranny.  We marched down the street for the Scottish Republican Socialist movement.",
+      "normalized_edited_story_text_sent": [
+        "we prepared signs displaying our world leaders and asked for freedom from corporate tyranny .",
+        "we marched down the street for the scottish republican socialist movement ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "531768",
+  "model": "GLAC"
+}

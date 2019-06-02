@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "156090611-156090335-156090430-156090274-156090514",
+  "photo_sequence_ids": [
+    "156090611",
+    "156090335",
+    "156090430",
+    "156090274",
+    "156090514"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/59/156090611_a9b65bdf9b_o.jpg",
+    "https://farm1.staticflickr.com/54/156090335_b9d594293a_o.jpg",
+    "https://farm1.staticflickr.com/47/156090430_c3f5f21724_o.jpg",
+    "https://farm1.staticflickr.com/76/156090274_5dc20ee09a_o.jpg",
+    "https://farm1.staticflickr.com/71/156090514_eee5171703_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends went to a bike race . all of the bikers were there to show their support . the man is taking a picture with his friend [male] . the group of friends got together for a group photo . we had a lot of fun there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "our of friends went to a bike race . all of the bikers were there to show their support . the man is taking a picture with his friend [male] . our group of friends got together for a group photo . we had a lot of fun there .",
+      "normalized_edited_story_text_sent": [
+        "our of friends went to a bike race .",
+        "all of the bikers were there to show their support .",
+        "the man is taking a picture with his friend [male] .",
+        "our group of friends got together for a group photo .",
+        "we had a lot of fun there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "A group of my friends all went to a bike race. There were a lot of bikers there supporting the event. I tried to get a photo with everyone in it.",
+      "normalized_edited_story_text_sent": [
+        "a group of my friends all went to a bike race .",
+        "there were a lot of bikers there supporting the event .",
+        "i tried to get a photo with everyone in it ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "a group of friends went to a bike race. all of the bikers were there to show their support. This is a man posing with his friend [male]. the friends got together to take a group picture. we had a lot of fun there.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went to a bike race .",
+        "all of the bikers were there to show their support .",
+        "this is a man posing with his friend [male] .",
+        "the friends got together to take a group picture .",
+        "we had a lot of fun there ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "There was a bike rally. A lot of the bikers were enthusiastic \u0026 excited to be there. Some of the guys even brought their wives. Here are a few of the guys gathered together. It was a very pleasant day.",
+      "normalized_edited_story_text_sent": [
+        "there was a bike rally .",
+        "a lot of the bikers were enthusiastic \u0026 excited to be there .",
+        "some of the guys even brought their wives .",
+        "here are a few of the guys gathered together .",
+        "it was a very pleasant day ."
+      ]
+    },
+    {
+      "worker_id": "A15Y215D57OSO5",
+      "edited_story_text": "A group of friends went to a motorcycle ride. All of the bikers were there to show their support and take photos together. Everyone was dressed accordingly. We had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went to a motorcycle ride .",
+        "all of the bikers were there to show their support and take photos together .",
+        "everyone was dressed accordingly .",
+        "we had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594149306041"
+}

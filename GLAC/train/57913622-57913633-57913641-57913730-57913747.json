@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "57913622-57913633-57913641-57913730-57913747",
+  "photo_sequence_ids": [
+    "57913622",
+    "57913633",
+    "57913641",
+    "57913730",
+    "57913747"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the halloween party . they had a lot of fun . they dressed up as a vampire . they even had a pumpkin carving contest . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went to the halloween party . a bunch of fun was shared . one person was a vampire . pumpkins were carved in a contest . the kids had a blast .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the halloween party .",
+        "a bunch of fun was shared .",
+        "one person was a vampire .",
+        "pumpkins were carved in a contest .",
+        "the kids had a blast ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "Everyone was excited for the Halloween party.  There were some people dressed up as creepy vampires and even a pumpkin carving contest.  It was a great night!",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited for the halloween party .",
+        "there were some people dressed up as creepy vampires and even a pumpkin carving contest .",
+        "it was a great night !"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "maria and lisa were glad the family was ready for the halloween party . they had a lot of fun . they dressed up as a vampire . they even had a pumpkin carving contest . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the family was ready for the halloween party .",
+        "they had a lot of fun .",
+        "they dressed up as a vampire .",
+        "they even had a pumpkin carving contest .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family was ready for the halloween party . they had a lot of fun . some of them dressed up as vampires . they even had a pumpkin carving contest . the kids had a great time too .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the halloween party .",
+        "they had a lot of fun .",
+        "some of them dressed up as vampires .",
+        "they even had a pumpkin carving contest .",
+        "the kids had a great time too ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The family was ready for the halloween party.  They had a lot of fun and dressed up as vampires.  They even had a pumpkin carving contest.  The kids had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the halloween party .",
+        "they had a lot of fun and dressed up as vampires .",
+        "they even had a pumpkin carving contest .",
+        "the kids had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1254452",
+  "model": "GLAC"
+}

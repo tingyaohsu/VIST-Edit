@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "31916399-31916372-31872479-31872438-31872537",
+  "photo_sequence_ids": [
+    "31916399",
+    "31916372",
+    "31872479",
+    "31872438",
+    "31872537"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was preparing for the turkey . he was making a big meal . the chicken was cooked . the chicken was placed on the stove . the boy was in the kitchen .",
+  "edited_stories": [
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "We cooked a meal of chicken, carrots, and green beans mixed in spicy sauce.  We relaxed and ate it for dinner!",
+      "normalized_edited_story_text_sent": [
+        "we cooked a meal of chicken , carrots , and green beans mixed in spicy sauce .",
+        "we relaxed and ate it for dinner !"
+      ]
+    },
+    {
+      "worker_id": "A2YTQDLACTLIBA",
+      "edited_story_text": "The man was preparing for big meal he was making at the stove. He cooked chicken, sausages and vegetables together with a boy in the kitchen. Afterwards they relaxed and played guitar.",
+      "normalized_edited_story_text_sent": [
+        "the man was preparing for big meal he was making at the stove .",
+        "he cooked chicken , sausages and vegetables together with a boy in the kitchen .",
+        "afterwards they relaxed and played guitar ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the man was preparing the turkey . he was making a big meal . the chicken and the carrots were cooked . the chicken was placed on the stove . the boy was playing the guitar .",
+      "normalized_edited_story_text_sent": [
+        "the man was preparing the turkey .",
+        "he was making a big meal .",
+        "the chicken and the carrots were cooked .",
+        "the chicken was placed on the stove .",
+        "the boy was playing the guitar ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the man was preparing for the big turkey . he was making a giant meal . the chicken was cooked . the chicken was placed on the stove . the boy was in the kitchen .",
+      "normalized_edited_story_text_sent": [
+        "the man was preparing for the big turkey .",
+        "he was making a giant meal .",
+        "the chicken was cooked .",
+        "the chicken was placed on the stove .",
+        "the boy was in the kitchen ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the man was preparing to cook a turkey for a big meal.  he placed the turkey into the stove until it was fully cooked.  a boy stayed in the kitchen, watching.",
+      "normalized_edited_story_text_sent": [
+        "the man was preparing to cook a turkey for a big meal .",
+        "he placed the turkey into the stove until it was fully cooked .",
+        "a boy stayed in the kitchen , watching ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "710543",
+  "model": "GLAC"
+}

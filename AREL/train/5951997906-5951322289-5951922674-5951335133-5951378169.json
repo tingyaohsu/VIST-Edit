@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "5951997906-5951322289-5951922674-5951335133-5951378169",
+  "photo_sequence_ids": [
+    "5951997906",
+    "5951322289",
+    "5951922674",
+    "5951335133",
+    "5951378169"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6147/5951997906_634069d755_o.jpg",
+    "https://farm7.staticflickr.com/6134/5951322289_1cba78c3ba_o.jpg",
+    "https://farm7.staticflickr.com/6146/5951922674_92e4f23695_o.jpg",
+    "https://farm7.staticflickr.com/6022/5951335133_4789d1ceac_o.jpg",
+    "https://farm7.staticflickr.com/6140/5951378169_cf175b892f_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach yesterday . there were a lot of people there . we saw a lot of old cars . some of the cars were very old . this is a picture of a car .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "i went to the beach yesterday . there were a lot of people there . we saw a lot of old cars . some of the cars were very old . this is a picture of a car .\r\rI went to the beach yesterday! There were a lot of people there. We saw a lot of antique cars, and some of the calls were very old. Here is a picture of one of the cars.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "there were a lot of people there .",
+        "we saw a lot of old cars .",
+        "some of the cars were very old .",
+        "this is a picture of a car .",
+        "i went to the beach yesterday !",
+        "there were a lot of people there .",
+        "we saw a lot of antique cars , and some of the calls were very old .",
+        "here is a picture of one of the cars ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the beach yesterday and saw a land rover flag . there were a lot of people there with tents and jeeps . we saw a lot of old cars that looked like they could still run. some of the cars were very old  and missing paint. here\u0027s a line of the cars .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday and saw a land rover flag .",
+        "there were a lot of people there with tents and jeeps .",
+        "we saw a lot of old cars that looked like they could still run .",
+        "some of the cars were very old and missing paint .",
+        "here \u0027s a line of the cars ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the park yesterday . there was a crowd . we saw a lot of old cars . some of the cars were ancient. this is a photo of a car .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there was a crowd .",
+        "we saw a lot of old cars .",
+        "some of the cars were ancient .",
+        "this is a photo of a car ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I visited a car show yesterday. A lot of people set up tents. There were old adventure jeeps parked at the car show. Some of the cars were very old. There were a lot of cars lined up in the grass.",
+      "normalized_edited_story_text_sent": [
+        "i visited a car show yesterday .",
+        "a lot of people set up tents .",
+        "there were old adventure jeeps parked at the car show .",
+        "some of the cars were very old .",
+        "there were a lot of cars lined up in the grass ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a Land Rover car show today.  They had a lot of really cool historic Land Rovers on display.",
+      "normalized_edited_story_text_sent": [
+        "i went to a land rover car show today .",
+        "they had a lot of really cool historic land rovers on display ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627225981046"
+}

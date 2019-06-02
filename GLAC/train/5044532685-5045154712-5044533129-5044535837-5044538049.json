@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5044532685-5045154712-5044533129-5044535837-5044538049",
+  "photo_sequence_ids": [
+    "5044532685",
+    "5045154712",
+    "5044533129",
+    "5044535837",
+    "5044538049"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization organization was a big event . there were many different speakers . the speaker was very informative . he had a lot of information . he was a great speech .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The man signed a book at the event. The men sat at tables. The book festival was fun.",
+      "normalized_edited_story_text_sent": [
+        "the man signed a book at the event .",
+        "the men sat at tables .",
+        "the book festival was fun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the organization was a big event . there were many different speakers .",
+      "normalized_edited_story_text_sent": [
+        "the organization was a big event .",
+        "there were many different speakers ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the organization had a big event . there were many different speakers . the speaker was very informative . he had a lot of information . he delivered  a great speech .",
+      "normalized_edited_story_text_sent": [
+        "the organization had a big event .",
+        "there were many different speakers .",
+        "the speaker was very informative .",
+        "he had a lot of information .",
+        "he delivered a great speech ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the book signing was a great event . there were many different speakers and authors . the speaker was very informative and knew all the answers. he had a lot of information about his book . he was a great speech and will be invited again next year .",
+      "normalized_edited_story_text_sent": [
+        "the book signing was a great event .",
+        "there were many different speakers and authors .",
+        "the speaker was very informative and knew all the answers .",
+        "he had a lot of information about his book .",
+        "he was a great speech and will be invited again next year ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the bool festival was a big event . there were many different book signers . the book festival was very informative . he got a lot of information . he was a great writer .",
+      "normalized_edited_story_text_sent": [
+        "the bool festival was a big event .",
+        "there were many different book signers .",
+        "the book festival was very informative .",
+        "he got a lot of information .",
+        "he was a great writer ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625080616410",
+  "model": "GLAC"
+}

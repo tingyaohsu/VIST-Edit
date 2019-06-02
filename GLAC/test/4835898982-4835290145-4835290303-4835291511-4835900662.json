@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4835898982-4835290145-4835290303-4835291511-4835900662",
+  "photo_sequence_ids": [
+    "4835898982",
+    "4835290145",
+    "4835290303",
+    "4835291511",
+    "4835900662"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bird was looking at the duck . the little girl was in the water . the baby was eating . the birds were walking around . the horse was being fed .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the bird was looking at the duck . the little girl was in the water . the baby was eating . the birds were walking around . the horse was being fed .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the bird was looking at the duck .",
+        "the little girl was in the water .",
+        "the baby was eating .",
+        "the birds were walking around .",
+        "the horse was being fed ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the horn is not very colorful . they are all different shapes . some are different colors . they are made of different materials . there are not people .",
+      "normalized_edited_story_text_sent": [
+        "the horn is not very colorful .",
+        "they are all different shapes .",
+        "some are different colors .",
+        "they are made of different materials .",
+        "there are not people ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We saw some interesting pieces at the museum today.  I got some pictures of these things which look like very old hooks or small tools.",
+      "normalized_edited_story_text_sent": [
+        "we saw some interesting pieces at the museum today .",
+        "i got some pictures of these things which look like very old hooks or small tools ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "there were several kinds of fossils on display.",
+      "normalized_edited_story_text_sent": [
+        "there were several kinds of fossils on display ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the archaeological museum was awesome, and so educational. we saw a variety of fossils. can you believe that some of these were animal claws?! wouldn\u0027t want to make one of these creatures angry!",
+      "normalized_edited_story_text_sent": [
+        "the archaeological museum was awesome , and so educational .",
+        "we saw a variety of fossils .",
+        "can you believe that some of these were animal claws ?!",
+        "would n\u0027t want to make one of these creatures angry !"
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624597178924",
+  "model": "GLAC"
+}

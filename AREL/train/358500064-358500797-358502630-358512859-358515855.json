@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "358500064-358500797-358502630-358512859-358515855",
+  "photo_sequence_ids": [
+    "358500064",
+    "358500797",
+    "358502630",
+    "358512859",
+    "358515855"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/165/358500064_c793e3542b_o.jpg",
+    "https://farm1.staticflickr.com/164/358500797_7bcf2dc037_o.jpg",
+    "https://farm1.staticflickr.com/133/358502630_146da192e8_o.jpg",
+    "https://farm1.staticflickr.com/124/358512859_77c121bfce_o.jpg",
+    "https://farm1.staticflickr.com/147/358515855_936fa26ae3_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of cars at the race car show . the red car was the best part of the race . the yellow car was the best part . the yellow car was the best part of the race . it was a great race .",
+  "edited_stories": [
+    {
+      "worker_id": "A18P5MOCP3GEYE",
+      "edited_story_text": "there are a lot of cars at the race car show . the red car is the best part of the race . the red car is the best part . the red car is the best part of the race . it is a great race .",
+      "normalized_edited_story_text_sent": [
+        "there are a lot of cars at the race car show .",
+        "the red car is the best part of the race .",
+        "the red car is the best part .",
+        "the red car is the best part of the race .",
+        "it is a great race ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "There were a lot of cars at the race car show. The red and blue cars were the best part of the race. It was a great race.  It was so exciting.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of cars at the race car show .",
+        "the red and blue cars were the best part of the race .",
+        "it was a great race .",
+        "it was so exciting ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "There were a lot of cars at the car race. The red and yellow cars were the best part of the races It was such a great race .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of cars at the car race .",
+        "the red and yellow cars were the best part of the races it was such a great race ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "there were a lot of cars at the race car show . the red car was the best part of the race . the yellow car was my second favorite . i also loved the black car. i enjoyed the race greatly.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of cars at the race car show .",
+        "the red car was the best part of the race .",
+        "the yellow car was my second favorite .",
+        "i also loved the black car .",
+        "i enjoyed the race greatly ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "There were the a lot of cars at this year\u0027s race. The red car was definitely the best, coming in first. The yellow car came in second. Overall, the race was very competitive and fun to watch.",
+      "normalized_edited_story_text_sent": [
+        "there were the a lot of cars at this year \u0027s race .",
+        "the red car was definitely the best , coming in first .",
+        "the yellow car came in second .",
+        "overall , the race was very competitive and fun to watch ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594481294190"
+}

@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "28495271-28495093-28495102-28495189-28495155",
+  "photo_sequence_ids": [
+    "28495271",
+    "28495093",
+    "28495102",
+    "28495189",
+    "28495155"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/21/28495271_d426d014d9_o.jpg",
+    "https://farm1.staticflickr.com/23/28495093_60d49e7972_o.jpg",
+    "https://farm1.staticflickr.com/23/28495102_1c1787b18a_o.jpg",
+    "https://farm1.staticflickr.com/23/28495189_b65989563a_o.jpg",
+    "https://farm1.staticflickr.com/22/28495155_107a50a085_o.jpg"
+  ],
+  "auto_story_text_normalized": "we all gathered for the award ceremony . we had a lot of fun at the party . everyone had a great time at the party . [male] and [female] were very happy to see each other . we had a great time together .",
+  "edited_stories": [
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "We all gathered for the award ceremony. Everyone had a great time there. [male] and [female] were very happy to see each other after so long. They caught up on everything going on in their lives.",
+      "normalized_edited_story_text_sent": [
+        "we all gathered for the award ceremony .",
+        "everyone had a great time there .",
+        "[male] and [female] were very happy to see each other after so long .",
+        "they caught up on everything going on in their lives ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we all gathered for the award ceremony and we had a lot of fun at the party . everyone had a great time at the party . [male] and [female] were very happy to see each other . We all had a great time together.",
+      "normalized_edited_story_text_sent": [
+        "we all gathered for the award ceremony and we had a lot of fun at the party .",
+        "everyone had a great time at the party .",
+        "[male] and [female] were very happy to see each other .",
+        "we all had a great time together ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we all gathered for the award ceremony and we had a lot of fun at the party . everyone had a great time at the party . [male] and [female] were very happy to see each other . we had a great time together .",
+      "normalized_edited_story_text_sent": [
+        "we all gathered for the award ceremony and we had a lot of fun at the party .",
+        "everyone had a great time at the party .",
+        "[male] and [female] were very happy to see each other .",
+        "we had a great time together ."
+      ]
+    },
+    {
+      "worker_id": "ADAKTHXLJRCI7",
+      "edited_story_text": "We all gathered for the ceremony . It was very traditional and fun. Everyone enjoyed the celebration afterwords. They were very happy to see each other. We all had a great time together .",
+      "normalized_edited_story_text_sent": [
+        "we all gathered for the ceremony .",
+        "it was very traditional and fun .",
+        "everyone enjoyed the celebration afterwords .",
+        "they were very happy to see each other .",
+        "we all had a great time together ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "we all gathered for the award ceremony. we had a lot of fun at the party. everyone had a great time at the party. [male] and [female] were very happy to see each other. we had a great time taking group photos together.",
+      "normalized_edited_story_text_sent": [
+        "we all gathered for the award ceremony .",
+        "we had a lot of fun at the party .",
+        "everyone had a great time at the party .",
+        "[male] and [female] were very happy to see each other .",
+        "we had a great time taking group photos together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "770686"
+}

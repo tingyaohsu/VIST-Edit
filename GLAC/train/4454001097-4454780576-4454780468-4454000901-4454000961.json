@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4454001097-4454780576-4454780468-4454000901-4454000961",
+  "photo_sequence_ids": [
+    "4454001097",
+    "4454780576",
+    "4454780468",
+    "4454000901",
+    "4454000961"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very excited to be at the meeting . he was a bit nervous about the event . he was so happy that he was able to hear the speech . the audience was really into the lecture . he was a great speaker .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The speaker was very excited to talk to the crowd. She was a bit nervous at first. She was nervous they wouldn\u0027t be able to hear her. The audience was engaged and she did a great job.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very excited to talk to the crowd .",
+        "she was a bit nervous at first .",
+        "she was nervous they would n\u0027t be able to hear her .",
+        "the audience was engaged and she did a great job ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very excited to be at the meeting with the group of people. he was a bit nervous about the event and hoped everyone liked it . he was so happy that he was able to hear the speech and also ask a few questions. the audience was really into the lecture and clapped at the end . he was a great speaker and will be invited back .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very excited to be at the meeting with the group of people .",
+        "he was a bit nervous about the event and hoped everyone liked it .",
+        "he was so happy that he was able to hear the speech and also ask a few questions .",
+        "the audience was really into the lecture and clapped at the end .",
+        "he was a great speaker and will be invited back ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The shoes were displayed on the table. They approached the table. The woman gave her presentation with a screen behind her.",
+      "normalized_edited_story_text_sent": [
+        "the shoes were displayed on the table .",
+        "they approached the table .",
+        "the woman gave her presentation with a screen behind her ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the speaker was very excited to be at the meeting . she was a bit nervous about the event . she was so happy that she was able to give out prizes . the audience was really into the lecture . he was a great speaker .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very excited to be at the meeting .",
+        "she was a bit nervous about the event .",
+        "she was so happy that she was able to give out prizes .",
+        "the audience was really into the lecture .",
+        "he was a great speaker ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the speaker was very excited to be at the meeting . everything was a success.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very excited to be at the meeting .",
+        "everything was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623546961645",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2054952292-2054953602-2054954530-2054955090-2054172963",
+  "photo_sequence_ids": [
+    "2054952292",
+    "2054953602",
+    "2054954530",
+    "2054955090",
+    "2054172963"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were blooming . the plants were in bloom . the trees were covered with snow . the tree was covered . the birds were on the ground .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Visited the orchard, the flowers were blooming . the plants were in bloom . the trees lined the driveway. the tree was covered . the crops were planted .",
+      "normalized_edited_story_text_sent": [
+        "visited the orchard , the flowers were blooming .",
+        "the plants were in bloom .",
+        "the trees lined the driveway .",
+        "the tree was covered .",
+        "the crops were planted ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the blossoms were sprouting . the plants were in blossom . the trees were secured with snow . the tree was secured . the winged animals were on the ground .",
+      "normalized_edited_story_text_sent": [
+        "the blossoms were sprouting .",
+        "the plants were in blossom .",
+        "the trees were secured with snow .",
+        "the tree was secured .",
+        "the winged animals were on the ground ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "A time of cultivation. Flora and fauna, both in full bloom. The trees that were once bare are now draped in snow while the birds coveted the floors of the Earth.",
+      "normalized_edited_story_text_sent": [
+        "a time of cultivation .",
+        "flora and fauna , both in full bloom .",
+        "the trees that were once bare are now draped in snow while the birds coveted the floors of the earth ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "All of the flowers were blooming.  The trees had great clouds above them, which made for a great picture. The plants were just planted and should be blooming shortly.",
+      "normalized_edited_story_text_sent": [
+        "all of the flowers were blooming .",
+        "the trees had great clouds above them , which made for a great picture .",
+        "the plants were just planted and should be blooming shortly ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the flowers were blooming due to the weather . the plants were in bloom early cause of the rain . the trees were covered with snow but only high up . the tree was covered in some bark also . the birds were on the ground and afraid to fly .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming due to the weather .",
+        "the plants were in bloom early cause of the rain .",
+        "the trees were covered with snow but only high up .",
+        "the tree was covered in some bark also .",
+        "the birds were on the ground and afraid to fly ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603262854032",
+  "model": "GLAC"
+}

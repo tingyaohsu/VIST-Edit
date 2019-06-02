@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4234370018-4237507857-4259777763-4260580338-4233774651",
+  "photo_sequence_ids": [
+    "4234370018",
+    "4237507857",
+    "4259777763",
+    "4260580338",
+    "4233774651"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a lot of fun . there were a lot of people there . i had a great time . many of the students were very proud . afterward we all went to the awards ceremony .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the graduation ceremony for the university was a lot of fun . there were a lot of people watching their family and friends graduate there . i had a great time there watching my son Danny graduate. many of the students were very proud and wanted to celebrate . afterward we all went to the awards ceremony .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony for the university was a lot of fun .",
+        "there were a lot of people watching their family and friends graduate there .",
+        "i had a great time there watching my son danny graduate .",
+        "many of the students were very proud and wanted to celebrate .",
+        "afterward we all went to the awards ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the presentation was a lot of fun. there were a lot of people there . i had a great time . many big internet companies were in attendance.",
+      "normalized_edited_story_text_sent": [
+        "the presentation was a lot of fun .",
+        "there were a lot of people there .",
+        "i had a great time .",
+        "many big internet companies were in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the graduation ceremony was surprisingly fun . lots of parents, siblings and friends attended . i had a fun time . many of the students were proud of their achievements . afterwards, we continued onwards to the awards ceremony .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was surprisingly fun .",
+        "lots of parents , siblings and friends attended .",
+        "i had a fun time .",
+        "many of the students were proud of their achievements .",
+        "afterwards , we continued onwards to the awards ceremony ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The presentation was filled with people. The man spoke to the crowd. Several people spoke. They posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "the presentation was filled with people .",
+        "the man spoke to the crowd .",
+        "several people spoke .",
+        "they posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The graduation ceremony was a lot of fun--there were a lot of people there. I had a great time. Many of the students were very proud and afterward we all went to the awards ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun -- there were a lot of people there .",
+        "i had a great time .",
+        "many of the students were very proud and afterward we all went to the awards ceremony ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623240659927",
+  "model": "GLAC"
+}

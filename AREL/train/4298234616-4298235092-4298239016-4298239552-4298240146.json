@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4298234616-4298235092-4298239016-4298239552-4298240146",
+  "photo_sequence_ids": [
+    "4298234616",
+    "4298235092",
+    "4298239016",
+    "4298239552",
+    "4298240146"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2754/4298234616_f95c3809c8_o.jpg",
+    "https://farm3.staticflickr.com/2720/4298235092_4b05111473_o.jpg",
+    "https://farm5.staticflickr.com/4025/4298239016_e9c0ea6deb_o.jpg",
+    "https://farm5.staticflickr.com/4014/4298239552_b065f08db6_o.jpg",
+    "https://farm5.staticflickr.com/4035/4298240146_00afe56da1_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family took a trip to location . the lake was beautiful . this is a picture of a building . after lunch , we decided to take a break . this is a picture of a sculpture .",
+  "edited_stories": [
+    {
+      "worker_id": "A3HE75FVA00JSF",
+      "edited_story_text": "The family took a trip to the lake and it was beautiful . After lunch, we decided to take a break and take pictures of the buildings and sculptures.",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to the lake and it was beautiful .",
+        "after lunch , we decided to take a break and take pictures of the buildings and sculptures ."
+      ]
+    },
+    {
+      "worker_id": "A2OATZCX1YXE77",
+      "edited_story_text": "The family took a trip to this castle in the mountains. The lake was beautiful with glassy, reflective water. This is a larger picture of the castle in all its glory. Here is a photo of a decorated wall from where we ate lunch. We then took a break before heading back out to see this sculpture of a woman holding ice cream.",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to this castle in the mountains .",
+        "the lake was beautiful with glassy , reflective water .",
+        "this is a larger picture of the castle in all its glory .",
+        "here is a photo of a decorated wall from where we ate lunch .",
+        "we then took a break before heading back out to see this sculpture of a woman holding ice cream ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the family took a trip to the castle . the lake was beautiful . this is a picture of a the castle on a hill . after lunch , we decided to take a break . this is a picture of an insignia .",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to the castle .",
+        "the lake was beautiful .",
+        "this is a picture of a the castle on a hill .",
+        "after lunch , we decided to take a break .",
+        "this is a picture of an insignia ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "the family took a trip to a scenic location. the lake was beautiful. there was a huge castle like building. after lunch, we decided to take a break. And were able to enjoy some sculptures.",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to a scenic location .",
+        "the lake was beautiful .",
+        "there was a huge castle like building .",
+        "after lunch , we decided to take a break .",
+        "and were able to enjoy some sculptures ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the family took a trip to location . the lake was beautiful and you could see the mountains in it. this massive building spanned the entire area . we stopped after lunch to rest . i just had to capture this beautiful work of art .",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to location .",
+        "the lake was beautiful and you could see the mountains in it .",
+        "this massive building spanned the entire area .",
+        "we stopped after lunch to rest .",
+        "i just had to capture this beautiful work of art ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623268567982"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "3575862648-3575054125-3575863486-3575863876-3575199834",
+  "photo_sequence_ids": [
+    "3575862648",
+    "3575054125",
+    "3575863486",
+    "3575863876",
+    "3575199834"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3400/3575862648_47a6a18ae5_o.jpg",
+    "https://farm4.staticflickr.com/3587/3575054125_56d98c4d6b_o.jpg",
+    "https://farm4.staticflickr.com/3641/3575863486_27a1722d88_o.jpg",
+    "https://farm4.staticflickr.com/3350/3575863876_a62415f30f_o.jpg",
+    "https://farm4.staticflickr.com/3559/3575199834_5564432c40_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day for the graduation ceremony . it was a great day for the graduates . the players are getting ready to perform . it was a great day for the ceremony . after the ceremony , the kids all posed for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "it was a beautiful day for the graduation ceremony . it was a great day for the graduates . the students are getting ready to walk onto the stage . it was a great day for the ceremony . after the ceremony , the kids all posed for a photo .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for the graduation ceremony .",
+        "it was a great day for the graduates .",
+        "the students are getting ready to walk onto the stage .",
+        "it was a great day for the ceremony .",
+        "after the ceremony , the kids all posed for a photo ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "It couldn\u0027t have been a more beautiful day to have a graduation ceremony. The Graduates were having a great day, look at those smiles! The graduates are getting ready to accept their diplomas! Today was a perfect graduation day. After the ceremony, this graduate stopped to pose for a picture!",
+      "normalized_edited_story_text_sent": [
+        "it could n\u0027t have been a more beautiful day to have a graduation ceremony .",
+        "the graduates were having a great day , look at those smiles !",
+        "the graduates are getting ready to accept their diplomas !",
+        "today was a perfect graduation day .",
+        "after the ceremony , this graduate stopped to pose for a picture !"
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was a beautiful day for the graduation ceremony . it was a great day for the graduates . the players are getting ready to perform and it was a great day for the ceremony . after the ceremony , the kids all posed for a picture .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for the graduation ceremony .",
+        "it was a great day for the graduates .",
+        "the players are getting ready to perform and it was a great day for the ceremony .",
+        "after the ceremony , the kids all posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "it was a beautiful day for the graduation ceremony . it was a great day for the graduates . the players are getting ready to perform . after the ceremony , the kids all posed for pictures .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for the graduation ceremony .",
+        "it was a great day for the graduates .",
+        "the players are getting ready to perform .",
+        "after the ceremony , the kids all posed for pictures ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "it was a beautiful day for the graduation ceremony in our town. it was a great day for the graduates they were so proud and happy . the players are getting ready to perform the schools song. it was a great ceremony all in all. after the ceremony , the kids all posed for a picture with their loved ones.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for the graduation ceremony in our town .",
+        "it was a great day for the graduates they were so proud and happy .",
+        "the players are getting ready to perform the schools song .",
+        "it was a great ceremony all in all .",
+        "after the ceremony , the kids all posed for a picture with their loved ones ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157618984682634"
+}

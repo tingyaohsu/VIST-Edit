@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "39617093-39617091-39617096-39640138-39640142",
+  "photo_sequence_ids": [
+    "39617093",
+    "39617091",
+    "39617096",
+    "39640138",
+    "39640142"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/31/39617093_87db621d33_o.jpg",
+    "https://farm1.staticflickr.com/32/39617091_7de4fbac48_o.jpg",
+    "https://farm1.staticflickr.com/27/39617096_38beea3f21_o.jpg",
+    "https://farm1.staticflickr.com/27/39640138_25fc1216ef_o.jpg",
+    "https://farm1.staticflickr.com/24/39640142_fdb5705a68_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the wedding . the bride and groom were very happy to be married . the bride and groom pose for a picture . the bride was very happy to be there . at the end of the ceremony , the bride and groom were very happy to be together .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I had a great time at the wedding. The bride and groom were happy to be married, they posed for lots of pictures. Towards the end of the ceremony, the bride and groom were proud to be together.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the wedding .",
+        "the bride and groom were happy to be married , they posed for lots of pictures .",
+        "towards the end of the ceremony , the bride and groom were proud to be together ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I had a great time at the wedding.  The bride and groom were very happy to be married. The bride and groom pose for a picture. Her gown was beautiful.  I got some good pictures of the bridal party, the flower girl and an uninvited guest.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the wedding .",
+        "the bride and groom were very happy to be married .",
+        "the bride and groom pose for a picture .",
+        "her gown was beautiful .",
+        "i got some good pictures of the bridal party , the flower girl and an uninvited guest ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i had a great time at the wedding . the bride and groom were very happy to be married .the dress was beautiful, and the party got a lot of great wedding photos.  even a porcupine got in on the action!",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the wedding .",
+        "the bride and groom were very happy to be married .",
+        "the dress was beautiful , and the party got a lot of great wedding photos .",
+        "even a porcupine got in on the action !"
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "i had a great time at the wedding. the bride and groom were very happy to be married. pose for many pictures. the bride was very happy to be there with her bridesmaids. The children enjoyed themselves and at the end of the ceremony, the bride and groom were very happy to be together.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the wedding .",
+        "the bride and groom were very happy to be married .",
+        "pose for many pictures .",
+        "the bride was very happy to be there with her bridesmaids .",
+        "the children enjoyed themselves and at the end of the ceremony , the bride and groom were very happy to be together ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "i had a great time at the wedding . the bride and groom were very happy to be married . the bride and groom pose for a picture with everyone . There were a lot of bridesmaid. In attendant also include young children as ring bearer and a hedge Hodge in the garden.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the wedding .",
+        "the bride and groom were very happy to be married .",
+        "the bride and groom pose for a picture with everyone .",
+        "there were a lot of bridesmaid .",
+        "in attendant also include young children as ring bearer and a hedge hodge in the garden ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "872064"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "711846309-712721446-712721964-712733596-711896545",
+  "photo_sequence_ids": [
+    "711846309",
+    "712721446",
+    "712721964",
+    "712733596",
+    "711896545"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow was very cold . the roads were covered with snow . the mountains were covered in snow . the trees were covered in snow . the man was happy to be on the mountain .",
+  "edited_stories": [
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "at our trip to the mountain, the snow was very cold . the roads, mountain, trees were covered with snow. everybody was happy to be there. we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "at our trip to the mountain , the snow was very cold .",
+        "the roads , mountain , trees were covered with snow .",
+        "everybody was happy to be there .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the snow was very cold . the mountains and roads were covered with snow .",
+      "normalized_edited_story_text_sent": [
+        "the snow was very cold .",
+        "the mountains and roads were covered with snow ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "david wanted to hike to the mountain today.  everything - the mountains, the trees, and the roads - were covered in snow.  it was very cold.  nevertheless, david was glad to be on the mountain.",
+      "normalized_edited_story_text_sent": [
+        "[male] wanted to hike to the mountain today .",
+        "everything - the mountains , the trees , and the roads - were covered in snow .",
+        "it was very cold .",
+        "nevertheless , [male] was glad to be on the mountain ."
+      ]
+    },
+    {
+      "worker_id": "A3L60SOWLYEDN2",
+      "edited_story_text": "it was freezing outside. the roads were covered with snow, the mountains were covered in snow, the trees were covered in snow. David had the time of his life.",
+      "normalized_edited_story_text_sent": [
+        "it was freezing outside .",
+        "the roads were covered with snow , the mountains were covered in snow , the trees were covered in snow .",
+        "[male] had the time of his life ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the ski trip was amazing. the mountains were beautiful, covered in snow. we had a great time on the slopes.",
+      "normalized_edited_story_text_sent": [
+        "the ski trip was amazing .",
+        "the mountains were beautiful , covered in snow .",
+        "we had a great time on the slopes ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600637630564",
+  "model": "GLAC"
+}

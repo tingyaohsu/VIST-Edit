@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5944644847-5945199844-5944641411-5944641729-5945200148",
+  "photo_sequence_ids": [
+    "5944644847",
+    "5945199844",
+    "5944641411",
+    "5944641729",
+    "5945200148"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a special occasion . the kids were excited to be there . the baby was very happy . the children were having a great time . the boys played with the toys .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the family got together for a special occasion . the kids were excited to be there . the baby was very happy . the children were having a great time . the boys played with the toys .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the family got together for a special occasion .",
+        "the kids were excited to be there .",
+        "the baby was very happy .",
+        "the children were having a great time .",
+        "the boys played with the toys ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family got together for a special occasion . the kids were excited to be there . the baby was very happy . the children were having a great time . the boys played with the toys .\r\rMy family came over for a special occasion. My kids were excited to be there and see their family. My baby was so excited. All of the children were getting a long and having a wonderful time. The boys played with our toys.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a special occasion .",
+        "the kids were excited to be there .",
+        "the baby was very happy .",
+        "the children were having a great time .",
+        "the boys played with the toys .",
+        "my family came over for a special occasion .",
+        "my kids were excited to be there and see their family .",
+        "my baby was so excited .",
+        "all of the children were getting a long and having a wonderful time .",
+        "the boys played with our toys ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a special occasion . the kids played outside together. They pushed the kids on the swings. Everyone enjoyed the day.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a special occasion .",
+        "the kids played outside together .",
+        "they pushed the kids on the swings .",
+        "everyone enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a party for a special occasion . the kids were eager to go . the baby was cheerful . the kids were having a blast of a time . the boys were occupied playing with toys .",
+      "normalized_edited_story_text_sent": [
+        "the family had a party for a special occasion .",
+        "the kids were eager to go .",
+        "the baby was cheerful .",
+        "the kids were having a blast of a time .",
+        "the boys were occupied playing with toys ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We had a wonderful family reunion at mom\u0027s house.  The kids all got together and played in the swing set outside and on the deck.",
+      "normalized_edited_story_text_sent": [
+        "we had a wonderful family reunion at mom \u0027s house .",
+        "the kids all got together and played in the swing set outside and on the deck ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627211702284",
+  "model": "GLAC"
+}

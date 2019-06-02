@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2173637875-2174426992-2174429800-2174431318-2173645089",
+  "photo_sequence_ids": [
+    "2173637875",
+    "2174426992",
+    "2174429800",
+    "2174431318",
+    "2173645089"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the halloween party . they dressed up as a vampire . they even had a clown . the girls were having a great time . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the kids were excited to be in the halloween party . they dressed up as vampires . they even had a baby vampire . the girls were having a great time . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the halloween party .",
+        "they dressed up as vampires .",
+        "they even had a baby vampire .",
+        "the girls were having a great time .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be in the halloween party . some were vampires . they even had a clown . the whole family was there . the kids love to dress up.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the halloween party .",
+        "some were vampires .",
+        "they even had a clown .",
+        "the whole family was there .",
+        "the kids love to dress up ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the kids were animated to be in the halloween party . they dressed up as a vampire . they even had a scary clown . the girls were having a great time . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the kids were animated to be in the halloween party .",
+        "they dressed up as a vampire .",
+        "they even had a scary clown .",
+        "the girls were having a great time .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The kids were so excited to go to the halloween party. They dressed up as vampires. The whole family was there and they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were so excited to go to the halloween party .",
+        "they dressed up as vampires .",
+        "the whole family was there and they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were excited to be in the halloween party . they dressed up as a vampire . they even had a clown . the girls were having a great time . everyone loved the theme .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the halloween party .",
+        "they dressed up as a vampire .",
+        "they even had a clown .",
+        "the girls were having a great time .",
+        "everyone loved the theme ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603657119129",
+  "model": "GLAC"
+}

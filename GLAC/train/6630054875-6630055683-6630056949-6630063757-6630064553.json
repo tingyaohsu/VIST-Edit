@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6630054875-6630055683-6630056949-6630063757-6630064553",
+  "photo_sequence_ids": [
+    "6630054875",
+    "6630055683",
+    "6630056949",
+    "6630063757",
+    "6630064553"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very beautiful . the buildings were so tall . the sky was blue . the people were happy to be there . the man was excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the city was very beautiful . the buildings were so tall . the sky was blue . the students were happy to be there . the teacher was excited .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the buildings were so tall .",
+        "the sky was blue .",
+        "the students were happy to be there .",
+        "the teacher was excited ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the city was very beautiful with tall buildings and blue sky. the people were happy and excited to be there.",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful with tall buildings and blue sky .",
+        "the people were happy and excited to be there ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was very beautiful . The day was hazy. She stood at the front of the classroom .She taught them using the board.",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the day was hazy .",
+        "she stood at the front of the classroom .",
+        "she taught them using the board ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was very beautiful . the buildings were so tall . the weather was great . the people were happy to be there . everyone was excited .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the buildings were so tall .",
+        "the weather was great .",
+        "the people were happy to be there .",
+        "everyone was excited ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the weather was beautiful. it was scenic this morning on the way to class.",
+      "normalized_edited_story_text_sent": [
+        "the weather was beautiful .",
+        "it was scenic this morning on the way to class ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628703718831",
+  "model": "GLAC"
+}

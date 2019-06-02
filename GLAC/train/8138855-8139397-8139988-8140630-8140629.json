@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "8138855-8139397-8139988-8140630-8140629",
+  "photo_sequence_ids": [
+    "8138855",
+    "8139397",
+    "8139988",
+    "8140630",
+    "8140629"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a great place to visit . the buildings were very old . the architecture was amazing . the streets were empty . the shops were busy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city was a great tourist destination . the buildings were classical . the architecture was astonishing . the streets were empty of thieves . the shops were busy with commerce .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great tourist destination .",
+        "the buildings were classical .",
+        "the architecture was astonishing .",
+        "the streets were empty of thieves .",
+        "the shops were busy with commerce ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the city was a great place to visit . the buildings were very old . the architecture was amazing . the streets were empty . the shops were busy .\r\rThis city was a wonderful place to visit. All of the buildings were so old! I was so impressed by the architecture! The streets were empty at night. During the day, the shops were bustling with people.",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "the buildings were very old .",
+        "the architecture was amazing .",
+        "the streets were empty .",
+        "the shops were busy .",
+        "this city was a wonderful place to visit .",
+        "all of the buildings were so old !",
+        "i was so impressed by the architecture !",
+        "the streets were empty at night .",
+        "during the day , the shops were bustling with people ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Rome was a great place to visit . the buildings were very old and large . the architecture was amazing and beautiful . the streets were empty except for a lot of birds and some pedestrians . the shops were busy with many people.",
+      "normalized_edited_story_text_sent": [
+        "rome was a great place to visit .",
+        "the buildings were very old and large .",
+        "the architecture was amazing and beautiful .",
+        "the streets were empty except for a lot of birds and some pedestrians .",
+        "the shops were busy with many people ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "This wonderful Italian city had a big open square that was full of pigeons.  A lot of nice artwork and food stands also.",
+      "normalized_edited_story_text_sent": [
+        "this wonderful italian city had a big open square that was full of pigeons .",
+        "a lot of nice artwork and food stands also ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was a great place to visit . the buildings were very old . so much history",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "the buildings were very old .",
+        "so much history"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "202700",
+  "model": "GLAC"
+}

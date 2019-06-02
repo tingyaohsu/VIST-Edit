@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "6853614075-6853630037-6853644591-6853702703-6853733237",
+  "photo_sequence_ids": [
+    "6853614075",
+    "6853630037",
+    "6853644591",
+    "6853702703",
+    "6853733237"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the convention was a lot of fun . there were many interesting exhibits . the speaker was very good . he had a great time . the presentation was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The convention was a lot of fun.  There were many interesting exhibits and the speaker was very good.  He had a great time and the presentation was a success.",
+      "normalized_edited_story_text_sent": [
+        "the convention was a lot of fun .",
+        "there were many interesting exhibits and the speaker was very good .",
+        "he had a great time and the presentation was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the convention was a success.  there were lots of engrossing exhibits.  the speaker gave a very good presentation.  he seemed to have a great time talking.",
+      "normalized_edited_story_text_sent": [
+        "the convention was a success .",
+        "there were lots of engrossing exhibits .",
+        "the speaker gave a very good presentation .",
+        "he seemed to have a great time talking ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The convention was a lot of fun, where there were many interesting exhibits. The speaker was very good and he had a great time. The presentation was a success.",
+      "normalized_edited_story_text_sent": [
+        "the convention was a lot of fun , where there were many interesting exhibits .",
+        "the speaker was very good and he had a great time .",
+        "the presentation was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the convention was entertaining . many interesting things were exhibited . the speaker was eloquent . he had a great performance . presentations were successful .",
+      "normalized_edited_story_text_sent": [
+        "the convention was entertaining .",
+        "many interesting things were exhibited .",
+        "the speaker was eloquent .",
+        "he had a great performance .",
+        "presentations were successful ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the convention was a lot of fun . there were many interesting exhibits . There was a lot of good food of many different varieties. It was very crowded.",
+      "normalized_edited_story_text_sent": [
+        "the convention was a lot of fun .",
+        "there were many interesting exhibits .",
+        "there was a lot of good food of many different varieties .",
+        "it was very crowded ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629263336881",
+  "model": "GLAC"
+}

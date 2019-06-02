@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6853656887-6853630037-6853679701-6853702703-6853707331",
+  "photo_sequence_ids": [
+    "6853656887",
+    "6853630037",
+    "6853679701",
+    "6853702703",
+    "6853707331"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the group of friends decided to go out for a night of fun . they found a lot of interesting things . they had a great time at the art gallery . they had a lot of fun . they even had a party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "some friends went out tonight.  they did a lot of interesting things.  first they went to an art gallery.  then they ate at a food truck.  they ended up going to a party.  they had a lot of fun tonight.",
+      "normalized_edited_story_text_sent": [
+        "some friends went out tonight .",
+        "they did a lot of interesting things .",
+        "first they went to an art gallery .",
+        "then they ate at a food truck .",
+        "they ended up going to a party .",
+        "they had a lot of fun tonight ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the group of friends decided to go out for a night of fun . they found a lot of interesting things .",
+      "normalized_edited_story_text_sent": [
+        "the group of friends decided to go out for a night of fun .",
+        "they found a lot of interesting things ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The group of friends decided to go out for a night of fun.  They found a lot of interesting things and had a great time at the art gallery. They even had a party and had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends decided to go out for a night of fun .",
+        "they found a lot of interesting things and had a great time at the art gallery .",
+        "they even had a party and had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "Tonight we had our first customers for our food truck business. it was so great i think the people really loved our homemade tacos. if this keeps going we\u0027ll have to come out more for it.",
+      "normalized_edited_story_text_sent": [
+        "tonight we had our first customers for our food truck business .",
+        "it was so great i think the people really loved our homemade tacos .",
+        "if this keeps going we \u0027ll have to come out more for it ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "the taco truck was finally open for business. everyone lined up to try it out. it was a major success and the food was well received by everyone.",
+      "normalized_edited_story_text_sent": [
+        "the taco truck was finally open for business .",
+        "everyone lined up to try it out .",
+        "it was a major success and the food was well received by everyone ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629263336881",
+  "model": "GLAC"
+}

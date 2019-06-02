@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "14931606058-15095180336-14931519740-15115169961-14932029447",
+  "photo_sequence_ids": [
+    "14931606058",
+    "15095180336",
+    "14931519740",
+    "15115169961",
+    "14932029447"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many costumes . some of them were very detailed . i had a great time . everyone was really happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the parade was a ton of fun . there were so many great costumes . some of them were very detailed . i had a fantastic time . everyone was really happy .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a ton of fun .",
+        "there were so many great costumes .",
+        "some of them were very detailed .",
+        "i had a fantastic time .",
+        "everyone was really happy ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the parade was a lot of fun . there were so many costumes . the costumes were scary . i had a great time . everyone was really happy .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many costumes .",
+        "the costumes were scary .",
+        "i had a great time .",
+        "everyone was really happy ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i watched a parade today.  there were a great many costumes.  i was amazed at the detail on some of them.  everyone, myself included, had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i watched a parade today .",
+        "there were a great many costumes .",
+        "i was amazed at the detail on some of them .",
+        "everyone , myself included , had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The Halloween parade was in full swing complete with costumes.",
+      "normalized_edited_story_text_sent": [
+        "the halloween parade was in full swing complete with costumes ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the Halloween parade was a lot of fun. there were a wide variety of costumes. some of them were very detailed. i had a great time . everyone was really happy, especially with all the candy collected.",
+      "normalized_edited_story_text_sent": [
+        "the halloween parade was a lot of fun .",
+        "there were a wide variety of costumes .",
+        "some of them were very detailed .",
+        "i had a great time .",
+        "everyone was really happy , especially with all the candy collected ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157646733993369",
+  "model": "GLAC"
+}

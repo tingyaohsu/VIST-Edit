@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "6614260287-6614121539-6614091753-6614072879-6614289853",
+  "photo_sequence_ids": [
+    "6614260287",
+    "6614121539",
+    "6614091753",
+    "6614072879",
+    "6614289853"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7017/6614260287_60ddd835fc_o.jpg",
+    "https://farm8.staticflickr.com/7032/6614121539_1db3d09d3b_o.jpg",
+    "https://farm8.staticflickr.com/7014/6614091753_0c52b26dde_o.jpg",
+    "https://farm8.staticflickr.com/7003/6614072879_e2189cf851_o.jpg",
+    "https://farm8.staticflickr.com/7157/6614289853_5411720738_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach last weekend . i was so excited to be able to go on the beach . there was a lot of snow . i \u0027m not sure what this is , but i \u0027m not sure what it was . it was a great day to go to the beach .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the beach last weekend. there was a lot of snow . we looked at the statues nearby and walked over to the fountain. it was cold out but a nice day anyway.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend .",
+        "there was a lot of snow .",
+        "we looked at the statues nearby and walked over to the fountain .",
+        "it was cold out but a nice day anyway ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "It snowed. I went out to look at the city in winter. Snow covered everything. There were some tall statues. The park was lovely this time of year.",
+      "normalized_edited_story_text_sent": [
+        "it snowed .",
+        "i went out to look at the city in winter .",
+        "snow covered everything .",
+        "there were some tall statues .",
+        "the park was lovely this time of year ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the beach last weekend with my friend . i was so excited to be able to go on the beach finally. howevere there was a lot of snow . it was not the greatest day to go to the beach but it was still fun.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend with my friend .",
+        "i was so excited to be able to go on the beach finally .",
+        "howevere there was a lot of snow .",
+        "it was not the greatest day to go to the beach but it was still fun ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "i went to the city last weekend . it was snowing and I took a photo of my feet in the icy snow . here is a photo of the snow clinging to a bench . the snow even blanketed the statues . it was a beautiful, snowy day in the city .",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend .",
+        "it was snowing and i took a photo of my feet in the icy snow .",
+        "here is a photo of the snow clinging to a bench .",
+        "the snow even blanketed the statues .",
+        "it was a beautiful , snowy day in the city ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went outside in the snow last weekend. I was so excited to go! There was a lot of snow outside. I\u0027m not sure what this statue is. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "i went outside in the snow last weekend .",
+        "i was so excited to go !",
+        "there was a lot of snow outside .",
+        "i \u0027m not sure what this statue is .",
+        "it was a great day ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628666827543"
+}

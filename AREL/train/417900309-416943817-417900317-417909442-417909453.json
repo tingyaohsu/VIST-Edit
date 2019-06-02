@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "417900309-416943817-417900317-417909442-417909453",
+  "photo_sequence_ids": [
+    "417900309",
+    "416943817",
+    "417900317",
+    "417909442",
+    "417909453"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/179/417900309_9f8bf237d3_o.jpg",
+    "https://farm1.staticflickr.com/169/416943817_1947da5085_o.jpg",
+    "https://farm1.staticflickr.com/125/417900317_0f5c09c5e5_o.jpg",
+    "https://farm1.staticflickr.com/162/417909442_0dcbe7b3ee_o.jpg",
+    "https://farm1.staticflickr.com/160/417909453_8efc5f1549_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to see the parade . we also saw a sign . there were a lot of people there . the music was great and we had a great time . the view of the city from the building was breathtaking .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We went to the parade and saw runners holding a sign, there were a lot of people there watching. The music was great and we had a great time, the view of the city from the building was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "we went to the parade and saw runners holding a sign , there were a lot of people there watching .",
+        "the music was great and we had a great time , the view of the city from the building was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to see the st. patrick\u0027s day parade. there were a ton of people there. later in the day, we went to a concert. the music was great. after that, we took a walk through the city and looked at the buildings.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the st. patrick \u0027s day parade .",
+        "there were a ton of people there .",
+        "later in the day , we went to a concert .",
+        "the music was great .",
+        "after that , we took a walk through the city and looked at the buildings ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "we went to see the st patrick\u0027s parade in town . we also saw the famous sign for the St Patrick\u0027s day dash. there were a lot of people there celebrating. the music was great and we had a great time and enjoyed the parade. the view of the city from the building was breathtaking even though it was a rainy day.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the st patrick \u0027s parade in town .",
+        "we also saw the famous sign for the st patrick \u0027s day dash .",
+        "there were a lot of people there celebrating .",
+        "the music was great and we had a great time and enjoyed the parade .",
+        "the view of the city from the building was breathtaking even though it was a rainy day ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "On St. Patrick Day went to the local parade. There was a large sign up in the sky. A traditional parade Irish band played wonderful music. The crowd was huge in the tunnel. On the bridge there was also many people.  We left after having a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "on st. patrick day went to the local parade .",
+        "there was a large sign up in the sky .",
+        "a traditional parade irish band played wonderful music .",
+        "the crowd was huge in the tunnel .",
+        "on the bridge there was also many people .",
+        "we left after having a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A2OATZCX1YXE77",
+      "edited_story_text": "We went to see the St. Patrick\u0027s Day Dash parade, which was full of people. Here is a bib and t-shirt shot from one of the participants. We really enjoying the drumming band in kilts that sounded great. We had breathtaking views of the city from the building we stationed ourselves at.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the st. patrick \u0027s day dash parade , which was full of people .",
+        "here is a bib and t-shirt shot from one of the participants .",
+        "we really enjoying the drumming band in kilts that sounded great .",
+        "we had breathtaking views of the city from the building we stationed ourselves at ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594581215862"
+}

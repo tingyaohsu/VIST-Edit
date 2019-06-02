@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4242487336-4242511814-4242566808-4241847489-4241880489",
+  "photo_sequence_ids": [
+    "4242487336",
+    "4242511814",
+    "4242566808",
+    "4241847489",
+    "4241880489"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . everyone was having a good time . the drinks were flowing . the people were all drinking . the night was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The party was a lot of fun! Everyone had a good time. The drinks were flowing, people were drinking. The night was definitely a success!",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun !",
+        "everyone had a good time .",
+        "the drinks were flowing , people were drinking .",
+        "the night was definitely a success !"
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the festive party was a lot of fun and everyone was having a good time . the drinks were flowing . the people were all drinking . the night was a success .",
+      "normalized_edited_story_text_sent": [
+        "the festive party was a lot of fun and everyone was having a good time .",
+        "the drinks were flowing .",
+        "the people were all drinking .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The party was a lot of fun. The drinks were flowing and everyone was drinking. We all had a great tie. The night was a success.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the drinks were flowing and everyone was drinking .",
+        "we all had a great tie .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "it was our monthly girls night out and the the party was a lot of fun .Lisa was hugging Mary and everyone was having a good time . the drinks were flowing, Maria tried a shot of tequila . the people were all drinking and some of them were dancing . the night was a success, we will do this again next month .",
+      "normalized_edited_story_text_sent": [
+        "it was our monthly girls night out and the the party was a lot of fun .",
+        "[female] was hugging [female] and everyone was having a good time .",
+        "the drinks were flowing , [female] tried a shot of tequila .",
+        "the people were all drinking and some of them were dancing .",
+        "the night was a success , we will do this again next month ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The party I was at was a lot of fun. Everyone was having a good time. The drinks were flowing. Everyone was drinking. The night was a success.",
+      "normalized_edited_story_text_sent": [
+        "the party i was at was a lot of fun .",
+        "everyone was having a good time .",
+        "the drinks were flowing .",
+        "everyone was drinking .",
+        "the night was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623007646107",
+  "model": "GLAC"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4266044950-4265299729-4265292551-4266045784-4266038374",
+  "photo_sequence_ids": [
+    "4266044950",
+    "4265299729",
+    "4265292551",
+    "4266045784",
+    "4266038374"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the beach today . it was a beautiful day . the sky was blue . the snow was so cold . the trees were covered in snow .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The water was calm. There was a small house in the snow. The mountains were snow covered. The tree was covered in snow.",
+      "normalized_edited_story_text_sent": [
+        "the water was calm .",
+        "there was a small house in the snow .",
+        "the mountains were snow covered .",
+        "the tree was covered in snow ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "we saw the lake today . the day was beautiful . the sky was blue with clouds . the snow didn\u0027t melt because it was cold . the trees were still covered by the snow .",
+      "normalized_edited_story_text_sent": [
+        "we saw the lake today .",
+        "the day was beautiful .",
+        "the sky was blue with clouds .",
+        "the snow did n\u0027t melt because it was cold .",
+        "the trees were still covered by the snow ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "we went to the beach today . it was cold and there was lots of snow . we took a lift to the highest point . we could see for miles . all the trees up there were covered in snow .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "it was cold and there was lots of snow .",
+        "we took a lift to the highest point .",
+        "we could see for miles .",
+        "all the trees up there were covered in snow ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "we went to the ocean today . it was a beautiful, but cold day . the sky was blue . the snow was so cold . the trees branches were covered in snow .",
+      "normalized_edited_story_text_sent": [
+        "we went to the ocean today .",
+        "it was a beautiful , but cold day .",
+        "the sky was blue .",
+        "the snow was so cold .",
+        "the trees branches were covered in snow ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the beach today . it was a snowy day . the sky was blue . the snow was so cold . the trees were covered in snow .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "it was a snowy day .",
+        "the sky was blue .",
+        "the snow was so cold .",
+        "the trees were covered in snow ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623063255669",
+  "model": "GLAC"
+}

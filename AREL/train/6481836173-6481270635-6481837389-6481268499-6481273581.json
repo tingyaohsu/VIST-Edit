@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "6481836173-6481270635-6481837389-6481268499-6481273581",
+  "photo_sequence_ids": [
+    "6481836173",
+    "6481270635",
+    "6481837389",
+    "6481268499",
+    "6481273581"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7026/6481836173_3596e94522_o.jpg",
+    "https://farm8.staticflickr.com/7161/6481270635_bf01e27103_o.jpg",
+    "https://farm8.staticflickr.com/7018/6481837389_509172d08c_o.jpg",
+    "https://farm8.staticflickr.com/7157/6481268499_e101976f65_o.jpg",
+    "https://farm8.staticflickr.com/7146/6481273581_0794e6662d_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a lot of people at the rally yesterday . there were a lot of people there . the crowd was very crowded . this is a picture of a sign . everyone was very excited to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "there is a lot of people at the rally yesterday . there are a lot of people there . the crowd is very crowded . this was a picture of a sign . everyone is very excited to be there .",
+      "normalized_edited_story_text_sent": [
+        "there is a lot of people at the rally yesterday .",
+        "there are a lot of people there .",
+        "the crowd is very crowded .",
+        "this was a picture of a sign .",
+        "everyone is very excited to be there ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the rally had many attendants . there were a lot of people there, including soldiers. the crowd gathered around to listen . this sign was made for the troops . everyone was very excited to be there and a new crew interview people .",
+      "normalized_edited_story_text_sent": [
+        "the rally had many attendants .",
+        "there were a lot of people there , including soldiers .",
+        "the crowd gathered around to listen .",
+        "this sign was made for the troops .",
+        "everyone was very excited to be there and a new crew interview people ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "A lot of people attended the rally yesterday. Soldiers were there to greet the crowd. The room was filled with guests and soldiers. There was a sign welcoming the soldiers. TV cameras took footage of the crowds.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people attended the rally yesterday .",
+        "soldiers were there to greet the crowd .",
+        "the room was filled with guests and soldiers .",
+        "there was a sign welcoming the soldiers .",
+        "tv cameras took footage of the crowds ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "At the rally last Saturday there were alot of families and friends of the military. Soldiers arrive and were greeted. inside the hall the captain gave a wonderful welcome speech. There was sign with the platoon\u0027s name. the local press did interviews. everyone was very patriotic.",
+      "normalized_edited_story_text_sent": [
+        "at the rally last saturday there were alot of families and friends of the military .",
+        "soldiers arrive and were greeted .",
+        "inside the hall the captain gave a wonderful welcome speech .",
+        "there was sign with the platoon \u0027s name .",
+        "the local press did interviews .",
+        "everyone was very patriotic ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "there was a many people at the rally yesterday . there were a many people there . the crowd was very crowded . this is a photo of a sign . everybody was exceptionally eager to be there .",
+      "normalized_edited_story_text_sent": [
+        "there was a many people at the rally yesterday .",
+        "there were a many people there .",
+        "the crowd was very crowded .",
+        "this is a photo of a sign .",
+        "everybody was exceptionally eager to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628343838277"
+}

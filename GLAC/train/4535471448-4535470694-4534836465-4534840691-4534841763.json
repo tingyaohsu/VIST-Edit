@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4535471448-4535470694-4534836465-4534840691-4534841763",
+  "photo_sequence_ids": [
+    "4535471448",
+    "4535470694",
+    "4534836465",
+    "4534840691",
+    "4534841763"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the view from the top of the mountain was amazing . the trees were very tall and beautiful . the buildings were so old and breathtaking . the flowers were so vibrant . the sky was clear and the sky was blue .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "there was an amazing mountaintop view . the tall trees were beautiful . some old buildings below could take your breath away . the flowers were so alive . the blue sky was clear .",
+      "normalized_edited_story_text_sent": [
+        "there was an amazing mountaintop view .",
+        "the tall trees were beautiful .",
+        "some old buildings below could take your breath away .",
+        "the flowers were so alive .",
+        "the blue sky was clear ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the view from the top of the mountain was amazing . the trees were very tall and beautiful . the buildings were old and unique. the sky was clear and very blue . what a great view!",
+      "normalized_edited_story_text_sent": [
+        "the view from the top of the mountain was amazing .",
+        "the trees were very tall and beautiful .",
+        "the buildings were old and unique .",
+        "the sky was clear and very blue .",
+        "what a great view !"
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the view from the top of the mountain was amazing . the trees were very tall and beautiful . this buildings was at the top, too. the weather was perfect with a clear blue sky.",
+      "normalized_edited_story_text_sent": [
+        "the view from the top of the mountain was amazing .",
+        "the trees were very tall and beautiful .",
+        "this buildings was at the top , too .",
+        "the weather was perfect with a clear blue sky ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "when i went to visit my friend, the view from the top of the mountain was amazing. all of the plants and trees were very thick and dense. the buildings were old and full of character. birds soared overhead on this beautiful day. the whole area was lush, green and beautiful.",
+      "normalized_edited_story_text_sent": [
+        "when i went to visit my friend , the view from the top of the mountain was amazing .",
+        "all of the plants and trees were very thick and dense .",
+        "the buildings were old and full of character .",
+        "birds soared overhead on this beautiful day .",
+        "the whole area was lush , green and beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the view from the top of the mountain was amazing . the trees were very tall and beautiful . the buildings were so old and breathtaking . the flowers were very beautiful . the sky was clear and blue .",
+      "normalized_edited_story_text_sent": [
+        "the view from the top of the mountain was amazing .",
+        "the trees were very tall and beautiful .",
+        "the buildings were so old and breathtaking .",
+        "the flowers were very beautiful .",
+        "the sky was clear and blue ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623765822085",
+  "model": "GLAC"
+}

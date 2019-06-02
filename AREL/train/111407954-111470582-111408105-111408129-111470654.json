@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "111407954-111470582-111408105-111408129-111470654",
+  "photo_sequence_ids": [
+    "111407954",
+    "111470582",
+    "111408105",
+    "111408129",
+    "111470654"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/43/111407954_8d80fbcaa0_o.jpg",
+    "https://farm1.staticflickr.com/36/111470582_8847a46710_o.jpg",
+    "https://farm1.staticflickr.com/48/111408105_b4890c3006_o.jpg",
+    "https://farm1.staticflickr.com/42/111408129_e55c7463c9_o.jpg",
+    "https://farm1.staticflickr.com/52/111470654_fba332784f_o.jpg"
+  ],
+  "auto_story_text_normalized": "the parade started with a marching band . there was a marching band . there were also a lot of people there . there were also a lot of people there . after the parade , the marching band played a song for the crowd .",
+  "edited_stories": [
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "The parade was huge! It was leaded by a marching band. There were tons of people in the crowd. Towards the end, the marching band stopped and played a song for us all!",
+      "normalized_edited_story_text_sent": [
+        "the parade was huge !",
+        "it was leaded by a marching band .",
+        "there were tons of people in the crowd .",
+        "towards the end , the marching band stopped and played a song for us all !"
+      ]
+    },
+    {
+      "worker_id": "A2TDK0LD62WZ8Y",
+      "edited_story_text": "A lot of people came to watch the parade, which started with a marching band. After the parade, the marching band played a song for the crowd.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people came to watch the parade , which started with a marching band .",
+        "after the parade , the marching band played a song for the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A2N93IVSZXSB73",
+      "edited_story_text": "With a pint of Guinness leading the way, a band of bagpipers marched down the street in a festive parade. The parade was enjoyed by a large group of people.",
+      "normalized_edited_story_text_sent": [
+        "with a pint of guinness leading the way , a band of bagpipers marched down the street in a festive parade .",
+        "the parade was enjoyed by a large group of people ."
+      ]
+    },
+    {
+      "worker_id": "A2CAMPAA7650H2",
+      "edited_story_text": "the Irish parade started with a people dressed in costumes . there was a marching band . some of the parade participants were wearing period dress. there were a lot of people there . during the parade , the bagpipe player played a song for the crowd .",
+      "normalized_edited_story_text_sent": [
+        "the irish parade started with a people dressed in costumes .",
+        "there was a marching band .",
+        "some of the parade participants were wearing period dress .",
+        "there were a lot of people there .",
+        "during the parade , the bagpipe player played a song for the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the parade started with a marching band  there were also a lot of people there .after the parade , the marching band played a song for the crowd  and the crowd thoroughly enjoyed them.",
+      "normalized_edited_story_text_sent": [
+        "the parade started with a marching band there were also a lot of people there .",
+        "after the parade , the marching band played a song for the crowd and the crowd thoroughly enjoyed them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594080540770"
+}

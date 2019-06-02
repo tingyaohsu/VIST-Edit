@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4878444682-4878444124-4878444496-4972991632-4972992380",
+  "photo_sequence_ids": [
+    "4878444682",
+    "4878444124",
+    "4878444496",
+    "4972991632",
+    "4972992380"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4079/4878444682_47a63db1c2_o.jpg",
+    "https://farm5.staticflickr.com/4073/4878444124_b36194465d_o.jpg",
+    "https://farm5.staticflickr.com/4079/4878444496_85cefc3f7d_o.jpg",
+    "https://farm5.staticflickr.com/4131/4972991632_e862f10a67_o.jpg",
+    "https://farm5.staticflickr.com/4077/4972992380_4f77c72e3e_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is [male] and [male] . i had a great time there . the girls were having a great time . the dance floor was packed and everyone was having a great time . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "[male], [male] and I were having a great time . the dance floor was packed. it was a great night .",
+      "normalized_edited_story_text_sent": [
+        "[male] , [male] and i were having a great time .",
+        "the dance floor was packed .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "these are my friends, [male] and [male]. we had a great time at their party. the girls also had a good time dancing. it was a great night.",
+      "normalized_edited_story_text_sent": [
+        "these are my friends , [male] and [male] .",
+        "we had a great time at their party .",
+        "the girls also had a good time dancing .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is [male] and [male] . i had a great time there and the girls were having a great time . the dance floor was packed and everyone was having a great time . it was a very good night.",
+      "normalized_edited_story_text_sent": [
+        "this is [male] and [male] .",
+        "i had a great time there and the girls were having a great time .",
+        "the dance floor was packed and everyone was having a great time .",
+        "it was a very good night ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "this is [male] and [male] . i had a great time there . the girls were having a great time . the dance floor was packed and everyone was having a great time . it was a great night  i loved",
+      "normalized_edited_story_text_sent": [
+        "this is [male] and [male] .",
+        "i had a great time there .",
+        "the girls were having a great time .",
+        "the dance floor was packed and everyone was having a great time .",
+        "it was a great night i loved"
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "the dance floor was packed and everyone was having a great time at the celebration.",
+      "normalized_edited_story_text_sent": [
+        "the dance floor was packed and everyone was having a great time at the celebration ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624568422501"
+}

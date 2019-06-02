@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "1817119967-1817138501-1818000052-1817192189-1818058250",
+  "photo_sequence_ids": [
+    "1817119967",
+    "1817138501",
+    "1818000052",
+    "1817192189",
+    "1818058250"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2180/1817119967_46a6ff7e79_o.jpg",
+    "https://farm3.staticflickr.com/2028/1817138501_dd6868b7de_o.jpg",
+    "https://farm3.staticflickr.com/2089/1818000052_52cd36beb6_o.jpg",
+    "https://farm3.staticflickr.com/2071/1817192189_ac9a1709db_o.jpg",
+    "https://farm3.staticflickr.com/2200/1818058250_93bf151c75_o.jpg"
+  ],
+  "auto_story_text_normalized": "the party was a lot of fun . and there was a lot of dancing . some of the girls had a lot of fun . [female] and [female] were having a great time . the night was over and everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the party was a lot of fun  and there was a lot of dancing . Most of the girls had a lot of fun . [female] and [female] were having a great time . the night was over and everyone was talking that they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and there was a lot of dancing .",
+        "most of the girls had a lot of fun .",
+        "[female] and [female] were having a great time .",
+        "the night was over and everyone was talking that they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the party was a lot of fun . and there was a lot of dancing . some of the girls had a lot of fun . [female] and [female] were having a great time . the night was over and everyone was having a great time I would like it to be repeated",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "and there was a lot of dancing .",
+        "some of the girls had a lot of fun .",
+        "[female] and [female] were having a great time .",
+        "the night was over and everyone was having a great time i would like it to be repeated"
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "My friend\u0027s Halloween party was a lot of fun. There was a lot of dancing. [female] and [female] were having a great time. It was really good to get to hang out with everyone and see their costumes.",
+      "normalized_edited_story_text_sent": [
+        "my friend \u0027s halloween party was a lot of fun .",
+        "there was a lot of dancing .",
+        "[female] and [female] were having a great time .",
+        "it was really good to get to hang out with everyone and see their costumes ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The halloween party was a lot of fun. [female] and [female] were having a great time. People were wearing interesting costumes.  The night was over so soon and everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "[female] and [female] were having a great time .",
+        "people were wearing interesting costumes .",
+        "the night was over so soon and everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "the party was a lot of fun and there was a lot of dancing. some of the girls had a lot of fun, especially [female] and [female]. the night was over and everyone was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and there was a lot of dancing .",
+        "some of the girls had a lot of fun , especially [female] and [female] .",
+        "the night was over and everyone was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602828723902"
+}

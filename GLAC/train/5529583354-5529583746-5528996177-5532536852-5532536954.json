@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5529583354-5529583746-5528996177-5532536852-5532536954",
+  "photo_sequence_ids": [
+    "5529583354",
+    "5529583746",
+    "5528996177",
+    "5532536852",
+    "5532536954"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the group was ready to go on a trip . they saw a lot of interesting things . they also saw a airplane . they even got to see a boat . the ship was huge .",
+  "edited_stories": [
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "a group was ready to explore a weapon based.  There are a lot of weapons. The weapons were organized.  The group found the weapons they are looking for.",
+      "normalized_edited_story_text_sent": [
+        "a group was ready to explore a weapon based .",
+        "there are a lot of weapons .",
+        "the weapons were organized .",
+        "the group found the weapons they are looking for ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "my group was ready to go on a trip.  we saw a lot of interesting things, including an airplane and even a boat.  the ship was huge.",
+      "normalized_edited_story_text_sent": [
+        "my group was ready to go on a trip .",
+        "we saw a lot of interesting things , including an airplane and even a boat .",
+        "the ship was huge ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the group was ready to go on a trip to the military base. they saw a lot of interesting things including some weapons . they also saw a airplane that was no longer in use . they even got to see a boat that once was used by the military . the ship was huge and long .",
+      "normalized_edited_story_text_sent": [
+        "the group was ready to go on a trip to the military base .",
+        "they saw a lot of interesting things including some weapons .",
+        "they also saw a airplane that was no longer in use .",
+        "they even got to see a boat that once was used by the military .",
+        "the ship was huge and long ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The local police found a hidden cache of bombs and other weapons.  They called me in to take photos and post on their Facebook page for information.",
+      "normalized_edited_story_text_sent": [
+        "the local police found a hidden cache of bombs and other weapons .",
+        "they called me in to take photos and post on their facebook page for information ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the platoon was ready to go to war . they saw a lot of things that stuck with them . they also saw many foreign war planes . they even got to see a foreign battleship . the ship was titanic .",
+      "normalized_edited_story_text_sent": [
+        "the platoon was ready to go to war .",
+        "they saw a lot of things that stuck with them .",
+        "they also saw many foreign war planes .",
+        "they even got to see a foreign battleship .",
+        "the ship was titanic ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626147554929",
+  "model": "GLAC"
+}

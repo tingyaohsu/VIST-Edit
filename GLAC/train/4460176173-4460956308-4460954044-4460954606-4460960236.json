@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4460176173-4460956308-4460954044-4460954606-4460960236",
+  "photo_sequence_ids": [
+    "4460176173",
+    "4460956308",
+    "4460954044",
+    "4460954606",
+    "4460960236"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bikers were ready for the race . the race was underway . the participants were very fast . the man was in the lead . the winner was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the bikes were stacked at the train station . Some people used them in town while traffic drove by . A bicyclist stopped at the corner. the woman was travelling to work . Two people were showing affection to one another after parking their bikes on the sidewalk.",
+      "normalized_edited_story_text_sent": [
+        "the bikes were stacked at the train station .",
+        "some people used them in town while traffic drove by .",
+        "a bicyclist stopped at the corner .",
+        "the woman was travelling to work .",
+        "two people were showing affection to one another after parking their bikes on the sidewalk ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the bikers were ready for the race . the race was underway . the participants were very fast . the man was in the lead . the winner was happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the bikers were ready for the race .",
+        "the race was underway .",
+        "the participants were very fast .",
+        "the man was in the lead .",
+        "the winner was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bikers were ready for the race to start . the race was underway and the leader stopped to cross the street . the participants were very fast and almost got into a wreck . the man was in the lead but didn\u0027t have his helmet on . the winner was happy because they won the cash prize .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were ready for the race to start .",
+        "the race was underway and the leader stopped to cross the street .",
+        "the participants were very fast and almost got into a wreck .",
+        "the man was in the lead but did n\u0027t have his helmet on .",
+        "the winner was happy because they won the cash prize ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "Everyone was ready to ride their bikes. The journey was underway. The bikers were very fast. David was in the lead. He was very happy.",
+      "normalized_edited_story_text_sent": [
+        "everyone was ready to ride their bikes .",
+        "the journey was underway .",
+        "the bikers were very fast .",
+        "[male] was in the lead .",
+        "he was very happy ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the people were riding on bikes . the propped the bikes on a rack . the participants were very fast . the man was in the lead . the winner was happy .",
+      "normalized_edited_story_text_sent": [
+        "the people were riding on bikes .",
+        "the propped the bikes on a rack .",
+        "the participants were very fast .",
+        "the man was in the lead .",
+        "the winner was happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623686611346",
+  "model": "GLAC"
+}

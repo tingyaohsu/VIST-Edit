@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4265228765-4265973472-4265974808-4265228253-4265228405",
+  "photo_sequence_ids": [
+    "4265228765",
+    "4265973472",
+    "4265974808",
+    "4265228253",
+    "4265228405"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the graduation ceremony . the cake was delicious . the graduates were very happy . the food was delicious . the band played songs .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family was excited for the ceremony . the glasses were pretty. the people were very happy . the food was delicious . the band played songs .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the ceremony .",
+        "the glasses were pretty .",
+        "the people were very happy .",
+        "the food was delicious .",
+        "the band played songs ."
+      ]
+    },
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the family was excited for the graduation ceremony . There was a ton of food. and everyone was smiling. the cake was delicious . the graduates were very happy . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the graduation ceremony .",
+        "there was a ton of food .",
+        "and everyone was smiling .",
+        "the cake was delicious .",
+        "the graduates were very happy .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited for the party. We toasted with pretty glasses. There was a lot of food. A man played the saxophone.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the party .",
+        "we toasted with pretty glasses .",
+        "there was a lot of food .",
+        "a man played the saxophone ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "our family was excited for the graduation ceremony . there was a lovely buffet lunch served after the ceremony . the food was delicious, including the beautiful cake . all the graduates were very happy . the band played nice songs and was quite entertaining.",
+      "normalized_edited_story_text_sent": [
+        "our family was excited for the graduation ceremony .",
+        "there was a lovely buffet lunch served after the ceremony .",
+        "the food was delicious , including the beautiful cake .",
+        "all the graduates were very happy .",
+        "the band played nice songs and was quite entertaining ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family was excited for the big graduation ceremony and the cake was delicious . the graduates were very happy . the food was delicious . the band played songs .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the big graduation ceremony and the cake was delicious .",
+        "the graduates were very happy .",
+        "the food was delicious .",
+        "the band played songs ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623063047547",
+  "model": "GLAC"
+}

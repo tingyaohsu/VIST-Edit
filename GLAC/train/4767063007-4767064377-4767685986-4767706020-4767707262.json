@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4767063007-4767064377-4767685986-4767706020-4767707262",
+  "photo_sequence_ids": [
+    "4767063007",
+    "4767064377",
+    "4767685986",
+    "4767706020",
+    "4767707262"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . they saw a panda . they also saw a llama . they even got a new puppy . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "Our family went to the zoo and they saw a panda. They also saw a llama. They even got a new puppy. They had a great time!",
+      "normalized_edited_story_text_sent": [
+        "our family went to the zoo and they saw a panda .",
+        "they also saw a llama .",
+        "they even got a new puppy .",
+        "they had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The whole family went to visit the zoo. During our time there, they saw a lot of different animals. From pandas to a llama, and even a new puppy. Everyone had an amazing experience there.",
+      "normalized_edited_story_text_sent": [
+        "the whole family went to visit the zoo .",
+        "during our time there , they saw a lot of different animals .",
+        "from pandas to a llama , and even a new puppy .",
+        "everyone had an amazing experience there ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went to  a farm. they saw some donkeys.  they had a great time standing next to the donkeys.",
+      "normalized_edited_story_text_sent": [
+        "the family went to a farm .",
+        "they saw some donkeys .",
+        "they had a great time standing next to the donkeys ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went to a farm . they saw a pig . they also saw a donkey . they even took home a puppy . they had a fun trip .",
+      "normalized_edited_story_text_sent": [
+        "the family went to a farm .",
+        "they saw a pig .",
+        "they also saw a donkey .",
+        "they even took home a puppy .",
+        "they had a fun trip ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went to the zoo . They saw a donkey. The walked outside with the animals. He posed with the donkey in the barn and outside.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw a donkey .",
+        "the walked outside with the animals .",
+        "he posed with the donkey in the barn and outside ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624434518516",
+  "model": "GLAC"
+}

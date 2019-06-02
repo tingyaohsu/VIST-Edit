@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5865033829-5865046933-5865032823-5865592436-5865053595",
+  "photo_sequence_ids": [
+    "5865033829",
+    "5865046933",
+    "5865032823",
+    "5865592436",
+    "5865053595"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was walking through the forest . he was taking a picture of the sign . he was a very happy couple . he found a photo of a tombstone . he then went to the woods .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "The Redwood National Park was fabulous.  The views were incredible too.  I don\u0027t think I have ever seen a solar toilet.  Look at the width of the tree.  David looks tiny next to it.",
+      "normalized_edited_story_text_sent": [
+        "the redwood national park was fabulous .",
+        "the views were incredible too .",
+        "i do n\u0027t think i have ever seen a solar toilet .",
+        "look at the width of the tree .",
+        "[male] looks tiny next to it ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the man was walking through the forest and stopped to take pictures near signs. he was a part of a very happy couple. he found a photo of a solar toilet. he then went to the woods .",
+      "normalized_edited_story_text_sent": [
+        "the man was walking through the forest and stopped to take pictures near signs .",
+        "he was a part of a very happy couple .",
+        "he found a photo of a solar toilet .",
+        "he then went to the woods ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man was walking through the forest . He had time to make a phone call. The mountains were beautiful. We found a giant tree.",
+      "normalized_edited_story_text_sent": [
+        "the man was walking through the forest .",
+        "he had time to make a phone call .",
+        "the mountains were beautiful .",
+        "we found a giant tree ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a man and woman went on a forest trail hike . the man took a picture of a sign . the happy couple took a photo . the man photographed a tombstone . he then went with the woman into the woods .",
+      "normalized_edited_story_text_sent": [
+        "a man and woman went on a forest trail hike .",
+        "the man took a picture of a sign .",
+        "the happy couple took a photo .",
+        "the man photographed a tombstone .",
+        "he then went with the woman into the woods ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the man was walking through the forest . he was taking a picture of the sign . he loved being in the outdoors . he found a photo of a tombstone . he then went to the woods .",
+      "normalized_edited_story_text_sent": [
+        "the man was walking through the forest .",
+        "he was taking a picture of the sign .",
+        "he loved being in the outdoors .",
+        "he found a photo of a tombstone .",
+        "he then went to the woods ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627033774424",
+  "model": "GLAC"
+}

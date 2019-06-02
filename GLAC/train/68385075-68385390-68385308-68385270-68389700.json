@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "68385075-68385390-68385308-68385270-68389700",
+  "photo_sequence_ids": [
+    "68385075",
+    "68385390",
+    "68385308",
+    "68385270",
+    "68389700"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were having a great time at the party . they had a lot of fun dancing . they even had a pinata . the adults had a good time . the girls had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the kids were excited about Thanksgiving. Everyone made Thanksgiving hats to wear. they had a lot of fun making the hats. the adults had a good time. Everyone had a great Thanksgiving.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited about thanksgiving .",
+        "everyone made thanksgiving hats to wear .",
+        "they had a lot of fun making the hats .",
+        "the adults had a good time .",
+        "everyone had a great thanksgiving ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were having a great time at the party . they had a lot of fun dressing up",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had a lot of fun dressing up"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were having a great time at the party . they had a lot of fun dancing . they wore silly hats . the adults had a good time . the baby even wore a hat .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had a lot of fun dancing .",
+        "they wore silly hats .",
+        "the adults had a good time .",
+        "the baby even wore a hat ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were having a great time at the party . They made funny hats. The adults got in on the fun. It was a good time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they made funny hats .",
+        "the adults got in on the fun .",
+        "it was a good time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the kids were having a blast . the party featured lots of dancing . there was even a pinata . the grown ups had a good time . the girls thought it was a fun evening .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a blast .",
+        "the party featured lots of dancing .",
+        "there was even a pinata .",
+        "the grown ups had a good time .",
+        "the girls thought it was a fun evening ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1475214",
+  "model": "GLAC"
+}

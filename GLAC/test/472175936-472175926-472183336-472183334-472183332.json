@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "472175936-472175926-472183336-472183334-472183332",
+  "photo_sequence_ids": [
+    "472175936",
+    "472175926",
+    "472183336",
+    "472183334",
+    "472183332"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the room was empty . the bathroom was clean . the kitchen was open . the bathroom was well done . the bedroom was nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the apartment i saw today was very clean. the living room was empty except for furniture. the bathroom was clean and well-done. the kitchen had an open design.",
+      "normalized_edited_story_text_sent": [
+        "the apartment i saw today was very clean .",
+        "the living room was empty except for furniture .",
+        "the bathroom was clean and well-done .",
+        "the kitchen had an open design ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kitchen was open and empty. the bathroom was clean and well done. the bedroom was nice.",
+      "normalized_edited_story_text_sent": [
+        "the kitchen was open and empty .",
+        "the bathroom was clean and well done .",
+        "the bedroom was nice ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the room was almost empty . the bathroom was spotless. the kitchen was really clean . the bathroom was well done . the whole house was nice .",
+      "normalized_edited_story_text_sent": [
+        "the room was almost empty .",
+        "the bathroom was spotless .",
+        "the kitchen was really clean .",
+        "the bathroom was well done .",
+        "the whole house was nice ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We bought this home in the hopes to fix it up and flip it.  Not too much work will be needed to get it in selling condition.\r\r.",
+      "normalized_edited_story_text_sent": [
+        "we bought this home in the hopes to fix it up and flip it .",
+        "not too much work will be needed to get it in selling condition ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the house was clean and spotless.",
+      "normalized_edited_story_text_sent": [
+        "the house was clean and spotless ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600124891007",
+  "model": "GLAC"
+}

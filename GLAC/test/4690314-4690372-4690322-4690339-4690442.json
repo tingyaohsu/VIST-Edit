@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4690314-4690372-4690322-4690339-4690442",
+  "photo_sequence_ids": [
+    "4690314",
+    "4690372",
+    "4690322",
+    "4690339",
+    "4690442"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were many interesting costumes . some of them were very creative . some of them were very scary . the people were really excited .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . The man posed for the picture. The girl and her mom watched on. She sat with her food on the side of the street.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "the man posed for the picture .",
+        "the girl and her mom watched on .",
+        "she sat with her food on the side of the street ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the parade was a lot of fun . there were many  people in attendance who wore costumes . some of them were very creative . some of them were very scary . the people were really excited .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many people in attendance who wore costumes .",
+        "some of them were very creative .",
+        "some of them were very scary .",
+        "the people were really excited ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun for all those who attended . there were many interesting costumes that people wore . some of them were very creative and required a lot of time . some of them were very scary and a few kids cried . the people were really excited that they got to see the parade .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun for all those who attended .",
+        "there were many interesting costumes that people wore .",
+        "some of them were very creative and required a lot of time .",
+        "some of them were very scary and a few kids cried .",
+        "the people were really excited that they got to see the parade ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the parade was awesome . there were many interesting costumes . some of them were very creative . some of them were very scary . the people were really excited .",
+      "normalized_edited_story_text_sent": [
+        "the parade was awesome .",
+        "there were many interesting costumes .",
+        "some of them were very creative .",
+        "some of them were very scary .",
+        "the people were really excited ."
+      ]
+    },
+    {
+      "worker_id": "A2RLL9U1JBY31Q",
+      "edited_story_text": "the parade was a lot of fun. There were many very interesting costumes. Some of them were very creative. Some of them were more scary. The people were really excited.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many very interesting costumes .",
+        "some of them were very creative .",
+        "some of them were more scary .",
+        "the people were really excited ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "118065",
+  "model": "GLAC"
+}

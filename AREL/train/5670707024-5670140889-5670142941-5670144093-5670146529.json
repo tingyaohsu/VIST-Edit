@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5670707024-5670140889-5670142941-5670144093-5670146529",
+  "photo_sequence_ids": [
+    "5670707024",
+    "5670140889",
+    "5670142941",
+    "5670144093",
+    "5670146529"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5307/5670707024_a49b840bd5_o.jpg",
+    "https://farm6.staticflickr.com/5227/5670140889_7cc7d51509_o.jpg",
+    "https://farm6.staticflickr.com/5306/5670142941_e549607b84_o.jpg",
+    "https://farm6.staticflickr.com/5303/5670144093_ec2db1110e_o.jpg",
+    "https://farm6.staticflickr.com/5024/5670146529_7bd649d6b8_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the art show . there were a lot of people there . there were a lot of people there . they were very talented . this is a picture of a man .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the art seminar . there was a crowd . there were so many people . they were very talented . this is a photo of a grave.",
+      "normalized_edited_story_text_sent": [
+        "i went to the art seminar .",
+        "there was a crowd .",
+        "there were so many people .",
+        "they were very talented .",
+        "this is a photo of a grave ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to an art show. There were slides of dead people on coins. Presenters spoke to each other. A lipstick container that contained a knife was shown.  A scary woman was shown.",
+      "normalized_edited_story_text_sent": [
+        "i went to an art show .",
+        "there were slides of dead people on coins .",
+        "presenters spoke to each other .",
+        "a lipstick container that contained a knife was shown .",
+        "a scary woman was shown ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Today I went to a lecture on art in town. It was very crowded but there were a lot of great pieces of art on display. One of my favorites was this picture of a man dressed as a woman.",
+      "normalized_edited_story_text_sent": [
+        "today i went to a lecture on art in town .",
+        "it was very crowded but there were a lot of great pieces of art on display .",
+        "one of my favorites was this picture of a man dressed as a woman ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the art show. There were a lot of people there. The artists were very talented! Here\u0027s a picture of [male].",
+      "normalized_edited_story_text_sent": [
+        "i went to the art show .",
+        "there were a lot of people there .",
+        "the artists were very talented !",
+        "here \u0027s a picture of [male] ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the art show and there were a lot of people there . there were a lot of people there . they were very talented . this is a picture of a man .",
+      "normalized_edited_story_text_sent": [
+        "i went to the art show and there were a lot of people there .",
+        "there were a lot of people there .",
+        "they were very talented .",
+        "this is a picture of a man ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626609658836"
+}

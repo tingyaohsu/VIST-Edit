@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4289349570-4288603769-4288603327-4288602995-4289341058",
+  "photo_sequence_ids": [
+    "4289349570",
+    "4288603769",
+    "4288603327",
+    "4288602995",
+    "4289341058"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4027/4289349570_aabb45c7bb_o.jpg",
+    "https://farm5.staticflickr.com/4042/4288603769_77e460b6ee_o.jpg",
+    "https://farm5.staticflickr.com/4030/4288603327_3d035c454c_o.jpg",
+    "https://farm5.staticflickr.com/4063/4288602995_2f4b9d310a_o.jpg",
+    "https://farm3.staticflickr.com/2779/4289341058_248001e4c9_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time on our hike . there were many different kinds of plants there . we had a great time . then we got to see some interesting things . at the end of the day , we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time on our hike . we saw many different kinds of plants . we got to see some interesting things . at the end of the day , we had fun.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time on our hike .",
+        "we saw many different kinds of plants .",
+        "we got to see some interesting things .",
+        "at the end of the day , we had fun ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time on our hike . there were many different kinds of plants there and some wonderful photo opportunities and then we got to see some interesting things . at the end of the day , we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time on our hike .",
+        "there were many different kinds of plants there and some wonderful photo opportunities and then we got to see some interesting things .",
+        "at the end of the day , we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we had a great time on our hike . there were many different kinds of plants there . we explored the outdoors . then we got to see some interesting things . at the end of the day , we got a great view .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time on our hike .",
+        "there were many different kinds of plants there .",
+        "we explored the outdoors .",
+        "then we got to see some interesting things .",
+        "at the end of the day , we got a great view ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "My friends and I went on a hike this weekend. We spotted many different kinds of plants along the trail. The views we saw were really beautiful. We were tired at the end of the day, but we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went on a hike this weekend .",
+        "we spotted many different kinds of plants along the trail .",
+        "the views we saw were really beautiful .",
+        "we were tired at the end of the day , but we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We really enjoyed our hike together. We saw all sorts of unusual plants. We laughed a lot. We made sure to stay hydrated, too. At the end of the day, we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we really enjoyed our hike together .",
+        "we saw all sorts of unusual plants .",
+        "we laughed a lot .",
+        "we made sure to stay hydrated , too .",
+        "at the end of the day , we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623120685495"
+}

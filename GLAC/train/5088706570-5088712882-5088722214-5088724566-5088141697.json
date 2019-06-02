@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5088706570-5088712882-5088722214-5088724566-5088141697",
+  "photo_sequence_ids": [
+    "5088706570",
+    "5088712882",
+    "5088722214",
+    "5088724566",
+    "5088141697"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the baby shower . the boy was very happy to be there . the child was so happy . the little girl was having a great time . the kids were all dressed up .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was excited for the pumpkin patch . the boy was very happy to be there . they were glad to pick out pumpkins . the little girl was having a great time . the kids were all dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the pumpkin patch .",
+        "the boy was very happy to be there .",
+        "they were glad to pick out pumpkins .",
+        "the little girl was having a great time .",
+        "the kids were all dressed up ."
+      ]
+    },
+    {
+      "worker_id": "A1EPE2IRWQ9XO2",
+      "edited_story_text": "It was Halloween time and the family had just bought some pumpkins. the children were so happy . the little girl was having a great time . the kids were all dressed up . Everyone had fun posing with the pumpkins.",
+      "normalized_edited_story_text_sent": [
+        "it was halloween time and the family had just bought some pumpkins .",
+        "the children were so happy .",
+        "the little girl was having a great time .",
+        "the kids were all dressed up .",
+        "everyone had fun posing with the pumpkins ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was excited for the baby shower . the boy was very happy to be there . everyone was so happy . the little girl was having a great time . the kids were all dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the baby shower .",
+        "the boy was very happy to be there .",
+        "everyone was so happy .",
+        "the little girl was having a great time .",
+        "the kids were all dressed up ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was excited for halloween . the boy was happy to handle the pumpkin . the girl was also happy to be carving pumpkins . the little girl was having a great time posing with pumpkins . the kids were going to dress up for halloween .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for halloween .",
+        "the boy was happy to handle the pumpkin .",
+        "the girl was also happy to be carving pumpkins .",
+        "the little girl was having a great time posing with pumpkins .",
+        "the kids were going to dress up for halloween ."
+      ]
+    },
+    {
+      "worker_id": "A2VPB8CKKJAZC2",
+      "edited_story_text": "the family was excited for the baby shower. David was very happy to be there. Lisa was so happy. Maria was having a great time. the kids were all dressed up.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the baby shower .",
+        "[male] was very happy to be there .",
+        "[female] was so happy .",
+        "[female] was having a great time .",
+        "the kids were all dressed up ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625179918732",
+  "model": "GLAC"
+}

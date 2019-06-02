@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4271571658-4271605136-4271604506-4271572074-4271571808",
+  "photo_sequence_ids": [
+    "4271571658",
+    "4271605136",
+    "4271604506",
+    "4271572074",
+    "4271571808"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4060/4271571658_e8803dd026_o.jpg",
+    "https://farm5.staticflickr.com/4068/4271605136_379fb275ab_o.jpg",
+    "https://farm3.staticflickr.com/2752/4271604506_48ea0935e4_o.jpg",
+    "https://farm3.staticflickr.com/2693/4271572074_1bd6b35503_o.jpg",
+    "https://farm5.staticflickr.com/4037/4271571808_4c4dfd3afd_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a museum . the lighthouse was very old . we saw a lot of old buildings . the sign of the sign was very interesting to see . we had a great view of the lighthouse .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "this is a picture of a museum . We went to the old lighthouse . It\u0027s fascinating to learn of the history of these old buildings as far back as the Civil War",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a museum .",
+        "we went to the old lighthouse .",
+        "it \u0027s fascinating to learn of the history of these old buildings as far back as the civil war"
+      ]
+    },
+    {
+      "worker_id": "A3I4GTLPDHWT8J",
+      "edited_story_text": "Here is a picture of the museum plaque.  The lighthouse was very old with many building around the lighthouse.  The lighthouse sign was very interesting and we had a great view of the lighthouse.",
+      "normalized_edited_story_text_sent": [
+        "here is a picture of the museum plaque .",
+        "the lighthouse was very old with many building around the lighthouse .",
+        "the lighthouse sign was very interesting and we had a great view of the lighthouse ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "Here is a photo of a museum . the lighthouse was ancient . we saw many old buildings . the sign of the sign was very fascinating . we had an awesome view of the lighthouse .",
+      "normalized_edited_story_text_sent": [
+        "here is a photo of a museum .",
+        "the lighthouse was ancient .",
+        "we saw many old buildings .",
+        "the sign of the sign was very fascinating .",
+        "we had an awesome view of the lighthouse ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We went to see a historic light house . the sign of the sign was very interesting and we had a great view of the lighthouse .",
+      "normalized_edited_story_text_sent": [
+        "we went to see a historic light house .",
+        "the sign of the sign was very interesting and we had a great view of the lighthouse ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "This is a picture of a museum that we visited. We saw a lot of old buildings during our visit. I thought the sign was very interesting to see. We had a great view of the lighthouse, which was very old.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a museum that we visited .",
+        "we saw a lot of old buildings during our visit .",
+        "i thought the sign was very interesting to see .",
+        "we had a great view of the lighthouse , which was very old ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623077077427"
+}

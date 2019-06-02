@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4233989059-4233994753-4233989489-4234767088-4234766166",
+  "photo_sequence_ids": [
+    "4233989059",
+    "4233994753",
+    "4233989489",
+    "4234767088",
+    "4234766166"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the big game . the players were excited to be in the field . the fans were cheering the team on . the cheerleaders were really good . the crowd was very competitive .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the crowd was revved up for the championship game . the players, excited to have taken to the field. the fans cheered for the team, like there would be no tomorrow. the cheerleaders were fantastic. the crowd\u0027s competitive spirit was palpable.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was revved up for the championship game .",
+        "the players , excited to have taken to the field .",
+        "the fans cheered for the team , like there would be no tomorrow .",
+        "the cheerleaders were fantastic .",
+        "the crowd \u0027s competitive spirit was palpable ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big crowd was ready for the big game and the players were excited to be in the field . the fans were cheering the team on . the cheerleaders were really good . the crowd was very competitive .",
+      "normalized_edited_story_text_sent": [
+        "the big crowd was ready for the big game and the players were excited to be in the field .",
+        "the fans were cheering the team on .",
+        "the cheerleaders were really good .",
+        "the crowd was very competitive ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "there was a huge crowd gathered at the lake today. Most people just watched, but a few people got in. The fog over the water was beautiful!",
+      "normalized_edited_story_text_sent": [
+        "there was a huge crowd gathered at the lake today .",
+        "most people just watched , but a few people got in .",
+        "the fog over the water was beautiful !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd was ready for the big event. the atmosphere was electric.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the big event .",
+        "the atmosphere was electric ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the crowd was ready for the ice plunge . the players were excited to be on the water . the fans were cheering the team on . the crowd were really excited . the people were very competitive .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the ice plunge .",
+        "the players were excited to be on the water .",
+        "the fans were cheering the team on .",
+        "the crowd were really excited .",
+        "the people were very competitive ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622990628531",
+  "model": "GLAC"
+}

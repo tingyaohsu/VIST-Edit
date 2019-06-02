@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4700823945-2762840297-2763686018-4701380124-4701397532",
+  "photo_sequence_ids": [
+    "4700823945",
+    "2762840297",
+    "2763686018",
+    "4701380124",
+    "4701397532"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4020/4700823945_d110990960_o.jpg",
+    "https://farm4.staticflickr.com/3031/2762840297_f443039ba7_o.jpg",
+    "https://farm4.staticflickr.com/3150/2763686018_f7ebfd3d80_o.jpg",
+    "https://farm5.staticflickr.com/4052/4701380124_20c790579a_o.jpg",
+    "https://farm5.staticflickr.com/4072/4701397532_b4ef67da65_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a great day for a parade . there were a lot of people there . they also had a lot of fun . there were a lot of people there . the winner of the race was the winner of the race .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "it is a great day for a parade . there are a lot of people there . they also have a lot of fun . there are a lot of people there . the winner of the race is the winner of the race .",
+      "normalized_edited_story_text_sent": [
+        "it is a great day for a parade .",
+        "there are a lot of people there .",
+        "they also have a lot of fun .",
+        "there are a lot of people there .",
+        "the winner of the race is the winner of the race ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "It was a great day for a parade! There were a lot of people there, and they had a lot of fun. This was the winner of the race.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a parade !",
+        "there were a lot of people there , and they had a lot of fun .",
+        "this was the winner of the race ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "Perfect day for a parade. The band sounded awesome and even got a pic with the winner of the race.",
+      "normalized_edited_story_text_sent": [
+        "perfect day for a parade .",
+        "the band sounded awesome and even got a pic with the winner of the race ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was a great day for a parade . there were a lot of people there . they also had a lot of fun . there were a lot of people there and the winner of the race was the winner of the race .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a parade .",
+        "there were a lot of people there .",
+        "they also had a lot of fun .",
+        "there were a lot of people there and the winner of the race was the winner of the race ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "It was the perfect day for the parade. Lots of people were walking in the street. Everyone seemed to have a lot of fun. So many people came and took photos. There was even a race during the parade.",
+      "normalized_edited_story_text_sent": [
+        "it was the perfect day for the parade .",
+        "lots of people were walking in the street .",
+        "everyone seemed to have a lot of fun .",
+        "so many people came and took photos .",
+        "there was even a race during the parade ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157606729818137"
+}

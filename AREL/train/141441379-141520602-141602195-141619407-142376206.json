@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "141441379-141520602-141602195-141619407-142376206",
+  "photo_sequence_ids": [
+    "141441379",
+    "141520602",
+    "141602195",
+    "141619407",
+    "142376206"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/56/141441379_8ce32ce07f_o.jpg",
+    "https://farm1.staticflickr.com/49/141520602_fc1a50f447_o.jpg",
+    "https://farm1.staticflickr.com/32/141602195_6ed297e978_o.jpg",
+    "https://farm1.staticflickr.com/56/141619407_1f80503dd2_o.jpg",
+    "https://farm1.staticflickr.com/54/142376206_99b536fcb2_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the school today . there were many people there . the kids had a lot of fun playing games . the kids had a great time playing with the kids . after the game , the kids were able to play with each other .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the school today and there were many people there . the kids had a lot of fun while playing games .  after the game , the kids were able to play with each other some more.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the school today and there were many people there .",
+        "the kids had a lot of fun while playing games .",
+        "after the game , the kids were able to play with each other some more ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the school sport\u0027s day today. there were many people there, both students and parents. the kids had a lot of fun playing games, and the parents got to join in. after the organized games, all of the kids played together on the playground.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the school sport \u0027s day today .",
+        "there were many people there , both students and parents .",
+        "the kids had a lot of fun playing games , and the parents got to join in .",
+        "after the organized games , all of the kids played together on the playground ."
+      ]
+    },
+    {
+      "worker_id": "A1CVM8I2566ILI",
+      "edited_story_text": "We had a great time at the school today! There were tons of people there. The kids had a lot of fun playing games. The kids had a great time playing with other kids. After the games, the kids played with each other.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the school today !",
+        "there were tons of people there .",
+        "the kids had a lot of fun playing games .",
+        "the kids had a great time playing with other kids .",
+        "after the games , the kids played with each other ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "We had a great time at track and field day at school today. There were so many kids there. The kids had a lot of fun playing games, and running the obstacle course. The kids also had a great time playing indoors. After going indoors the kids continues running the obstacle course.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at track and field day at school today .",
+        "there were so many kids there .",
+        "the kids had a lot of fun playing games , and running the obstacle course .",
+        "the kids also had a great time playing indoors .",
+        "after going indoors the kids continues running the obstacle course ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "I had a great time at the school today . there were many people there . the kids had a lot of fun playing games . the kids had a great time playing with each other . after the game , the kids were able to keep playing with each other .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the school today .",
+        "there were many people there .",
+        "the kids had a lot of fun playing games .",
+        "the kids had a great time playing with each other .",
+        "after the game , the kids were able to keep playing with each other ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594127107722"
+}

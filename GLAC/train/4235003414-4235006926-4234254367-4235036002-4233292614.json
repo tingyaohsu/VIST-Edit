@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4235003414-4235006926-4234254367-4235036002-4233292614",
+  "photo_sequence_ids": [
+    "4235003414",
+    "4235006926",
+    "4234254367",
+    "4235036002",
+    "4233292614"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the bar last night . there were a lot of people there . they were all very nice . they were having a great time . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "I went to the bar last night. There were a lot of people there who were were all very nice. We had a great time and were very happy.",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night .",
+        "there were a lot of people there who were were all very nice .",
+        "we had a great time and were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "I went to the studio . there were a few people there . they were all very nice . they were having a great time . they were very happy . they sang beautifully.  the cat was calm.",
+      "normalized_edited_story_text_sent": [
+        "i went to the studio .",
+        "there were a few people there .",
+        "they were all very nice .",
+        "they were having a great time .",
+        "they were very happy .",
+        "they sang beautifully .",
+        "the cat was calm ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "People are in a recording studio making music.",
+      "normalized_edited_story_text_sent": [
+        "people are in a recording studio making music ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the recording went well. we were all on our game.",
+      "normalized_edited_story_text_sent": [
+        "the recording went well .",
+        "we were all on our game ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "i went to the recording studio last night. Mary was recording her new song. She sang beautifully.  The music was amazing too. John came to show his support as well. we had a great time at the studio. We got to pet Mary\u0027s cat there too.",
+      "normalized_edited_story_text_sent": [
+        "i went to the recording studio last night .",
+        "[female] was recording her new song .",
+        "she sang beautifully .",
+        "the music was amazing too .",
+        "[male] came to show his support as well .",
+        "we had a great time at the studio .",
+        "we got to pet [female] \u0027s cat there too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622991071411",
+  "model": "GLAC"
+}

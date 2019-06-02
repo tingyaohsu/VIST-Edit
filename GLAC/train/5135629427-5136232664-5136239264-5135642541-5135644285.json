@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5135629427-5136232664-5136239264-5135642541-5135644285",
+  "photo_sequence_ids": [
+    "5135629427",
+    "5136232664",
+    "5136239264",
+    "5135642541",
+    "5135644285"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . they had lots of food and drinks . the table was decorated with decorations . the kids were all excited to eat . the cake was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "the family was having a great time at the party . The selection of food and drinks was large . the table was decorated with decorations . the kids were all excited to eat . people loved the dessert .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "the selection of food and drinks was large .",
+        "the table was decorated with decorations .",
+        "the kids were all excited to eat .",
+        "people loved the dessert ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the family was having a great time at the party. they prepared lots of food and drinks . the table was decorated with fruit. the employees were all excited to prepare the family . the cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they prepared lots of food and drinks .",
+        "the table was decorated with fruit .",
+        "the employees were all excited to prepare the family .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was having a great time at the party and hanging with friends . they had lots of food and drinks as well as some gifts . the table was decorated with decorations and some balloons . the kids were all excited to eat especially the cake. the cake was delicious and was made from chocolate.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party and hanging with friends .",
+        "they had lots of food and drinks as well as some gifts .",
+        "the table was decorated with decorations and some balloons .",
+        "the kids were all excited to eat especially the cake .",
+        "the cake was delicious and was made from chocolate ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the family was having a great time at the party . they had lots of food and drinks . the table was decorated with decorations and all kinds of food . we were all excited to eat . the cake was delicious, but I didn\u0027t get a picture of it .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they had lots of food and drinks .",
+        "the table was decorated with decorations and all kinds of food .",
+        "we were all excited to eat .",
+        "the cake was delicious , but i did n\u0027t get a picture of it ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The party was a huge success. everyone was there. they had a great time. Im glad i got to be a part of it.",
+      "normalized_edited_story_text_sent": [
+        "the party was a huge success .",
+        "everyone was there .",
+        "they had a great time .",
+        "im glad i got to be a part of it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625163882291",
+  "model": "GLAC"
+}

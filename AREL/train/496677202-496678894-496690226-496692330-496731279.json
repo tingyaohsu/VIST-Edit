@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "496677202-496678894-496690226-496692330-496731279",
+  "photo_sequence_ids": [
+    "496677202",
+    "496678894",
+    "496690226",
+    "496692330",
+    "496731279"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/202/496677202_2b4521bd6e_o.jpg",
+    "https://farm1.staticflickr.com/230/496678894_d433156f60_o.jpg",
+    "https://farm1.staticflickr.com/190/496690226_2fb9850f9a_o.jpg",
+    "https://farm1.staticflickr.com/222/496692330_a33fddb5d3_o.jpg",
+    "https://farm1.staticflickr.com/228/496731279_124fd101b6_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the wedding yesterday . there were a lot of flowers there . the little girl was very happy to be there . we had a lot of fun at the reception . after the meal , the food was served and everyone was ready to eat .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the wedding yesterday . there were a lot of flowers there . I was very happy to be there  and had a lot of fun at the reception . after the meal , the food was served and everyone was ready to eat .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday .",
+        "there were a lot of flowers there .",
+        "i was very happy to be there and had a lot of fun at the reception .",
+        "after the meal , the food was served and everyone was ready to eat ."
+      ]
+    },
+    {
+      "worker_id": "A39ZJ6GDHFZRJW",
+      "edited_story_text": "i went to the flower shop yesterday . there were a lot of flowers there . the woman was very happy to be there . we had a lot of fun at the restaurant . after buying flowers, the food was served and everyone was ready to eat .",
+      "normalized_edited_story_text_sent": [
+        "i went to the flower shop yesterday .",
+        "there were a lot of flowers there .",
+        "the woman was very happy to be there .",
+        "we had a lot of fun at the restaurant .",
+        "after buying flowers , the food was served and everyone was ready to eat ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "i went to the wedding yesterday . there were a lot of flowers and decoration there . I was happy to be there. we had a lot of fun at the reception meeting old friends.  After the reception, he food was served and everyone was ready to eat .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday .",
+        "there were a lot of flowers and decoration there .",
+        "i was happy to be there .",
+        "we had a lot of fun at the reception meeting old friends .",
+        "after the reception , he food was served and everyone was ready to eat ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the wedding yesterday . there were a lot of flowers . the woman was very happy to be there . we had fun at the reception .  the food was served and everyone was ready to eat .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday .",
+        "there were a lot of flowers .",
+        "the woman was very happy to be there .",
+        "we had fun at the reception .",
+        "the food was served and everyone was ready to eat ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the wedding yesterday! They had a lot of flowers there. This little girl was very happy to be there. We had a lot of fun at the reception. After the meal, more food was served and everyone was still ready to eat.",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding yesterday !",
+        "they had a lot of flowers there .",
+        "this little girl was very happy to be there .",
+        "we had a lot of fun at the reception .",
+        "after the meal , more food was served and everyone was still ready to eat ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600212214546"
+}

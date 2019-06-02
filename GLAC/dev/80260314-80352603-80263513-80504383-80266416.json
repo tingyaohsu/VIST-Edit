@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "80260314-80352603-80263513-80504383-80266416",
+  "photo_sequence_ids": [
+    "80260314",
+    "80352603",
+    "80263513",
+    "80504383",
+    "80266416"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time . they were happy to be together . they had a good dinner . they were very happy . they had a nice meal .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We had a great family gathering to welcome home by brother and his wife to the states. A lot of good food and many babies were there.",
+      "normalized_edited_story_text_sent": [
+        "we had a great family gathering to welcome home by brother and his wife to the states .",
+        "a lot of good food and many babies were there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was having a good party . they were happy at the get-together . a nice dinner was served . they were glad to have come . dinner was happy .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a good party .",
+        "they were happy at the get-together .",
+        "a nice dinner was served .",
+        "they were glad to have come .",
+        "dinner was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was having a great time hanging out with the baby. they were happy to be together for the holidays . they had a good dinner and some great drinks . they were very happy that the entire family was there . they had a nice meal which was made by mother.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time hanging out with the baby .",
+        "they were happy to be together for the holidays .",
+        "they had a good dinner and some great drinks .",
+        "they were very happy that the entire family was there .",
+        "they had a nice meal which was made by mother ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "the family had not gotten together in awhile. they finally all made time and brought a bunch of great dishes and ate food.",
+      "normalized_edited_story_text_sent": [
+        "the family had not gotten together in awhile .",
+        "they finally all made time and brought a bunch of great dishes and ate food ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a great time . they were happy to be together . the food was delicious",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "they were happy to be together .",
+        "the food was delicious"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1715903",
+  "model": "GLAC"
+}

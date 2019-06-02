@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4315352329-4319676804-4320118362-4319368039-4930075610",
+  "photo_sequence_ids": [
+    "4315352329",
+    "4319676804",
+    "4320118362",
+    "4319368039",
+    "4930075610"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very beautiful . there were many shops around . the food was delicious . the market was full of fresh produce . the streets were busy with people .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we visited a beautiful city over the weekend. there were all kinds of shops to visit. i especially enjoyed the street food. we bought some produce from a street vendor. the sites of the late night abandoned streets were most beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we visited a beautiful city over the weekend .",
+        "there were all kinds of shops to visit .",
+        "i especially enjoyed the street food .",
+        "we bought some produce from a street vendor .",
+        "the sites of the late night abandoned streets were most beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the city was very beautiful . the buildings are old. there were many shops around . the food was delicious . the market was full of fresh produce . the streets were empty and quiet .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the buildings are old .",
+        "there were many shops around .",
+        "the food was delicious .",
+        "the market was full of fresh produce .",
+        "the streets were empty and quiet ."
+      ]
+    },
+    {
+      "worker_id": "A3U6OXFPUOCIV2",
+      "edited_story_text": "There is an older part of the city. In that older part there is many fruit markets. The city is also vibrant at night.",
+      "normalized_edited_story_text_sent": [
+        "there is an older part of the city .",
+        "in that older part there is many fruit markets .",
+        "the city is also vibrant at night ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was very beautiful during the spring day . there were many shops around the town that sold vegetables . the food was delicious and recently picked . the market was full of fresh produce as well as some spices . the streets were busy with people looking to buy some food .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful during the spring day .",
+        "there were many shops around the town that sold vegetables .",
+        "the food was delicious and recently picked .",
+        "the market was full of fresh produce as well as some spices .",
+        "the streets were busy with people looking to buy some food ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the cities buildings were very beautiful . there were many shops around . the food was delicious . the market was full of fresh produce . the streets were not busy with people .",
+      "normalized_edited_story_text_sent": [
+        "the cities buildings were very beautiful .",
+        "there were many shops around .",
+        "the food was delicious .",
+        "the market was full of fresh produce .",
+        "the streets were not busy with people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623312651344",
+  "model": "GLAC"
+}

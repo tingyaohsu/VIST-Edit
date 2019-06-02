@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6630323985-6630311425-6630320383-6630336757-6630340383",
+  "photo_sequence_ids": [
+    "6630323985",
+    "6630311425",
+    "6630320383",
+    "6630336757",
+    "6630340383"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bus was parked in the city . the view from the hotel was amazing . the sun was setting . the buildings were tall . the building was very tall .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The school bus was parked in the city. The view from the hotel was amazing. The sun was setting. The buildings were very tall.",
+      "normalized_edited_story_text_sent": [
+        "the school bus was parked in the city .",
+        "the view from the hotel was amazing .",
+        "the sun was setting .",
+        "the buildings were very tall ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bus was parked in the city . Many people were fishing. The water was pretty. The signs and buildings were some of the most iconic I have seen.",
+      "normalized_edited_story_text_sent": [
+        "the bus was parked in the city .",
+        "many people were fishing .",
+        "the water was pretty .",
+        "the signs and buildings were some of the most iconic i have seen ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "We spent the day in downtown NY. We took a bus to get there and spent a majority of the day walking near the water. We also checked out there architecture!",
+      "normalized_edited_story_text_sent": [
+        "we spent the day in downtown ny .",
+        "we took a bus to get there and spent a majority of the day walking near the water .",
+        "we also checked out there architecture !"
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the field trip to the city was great. we took the bus, visited the bay, and saw some gorgeous architecture. the kids really enjoyed the day out!",
+      "normalized_edited_story_text_sent": [
+        "the field trip to the city was great .",
+        "we took the bus , visited the bay , and saw some gorgeous architecture .",
+        "the kids really enjoyed the day out !"
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the bus was parked in the city. the view from the tall hotel was amazing. the sun was setting.",
+      "normalized_edited_story_text_sent": [
+        "the bus was parked in the city .",
+        "the view from the tall hotel was amazing .",
+        "the sun was setting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628704515723",
+  "model": "GLAC"
+}

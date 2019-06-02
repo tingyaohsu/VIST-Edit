@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "12846319-12846321-12846341-12846361-12846378",
+  "photo_sequence_ids": [
+    "12846319",
+    "12846321",
+    "12846341",
+    "12846361",
+    "12846378"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride was ready for her wedding . the groom was excited to be married . the family gathered around the table . the bride and groom were so happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bride was ready for her wedding to finally begin . the groom was excited to be married to the love of his wife . the family gathered around the table as the reception started. the bride and groom were so happy that the wedding went smooth. the whole family was there to celebrate the wedding.",
+      "normalized_edited_story_text_sent": [
+        "the bride was ready for her wedding to finally begin .",
+        "the groom was excited to be married to the love of his wife .",
+        "the family gathered around the table as the reception started .",
+        "the bride and groom were so happy that the wedding went smooth .",
+        "the whole family was there to celebrate the wedding ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bride was ready for her wedding . The bridesmaids were all in pink. the family gathered around the table at the reception. The bride and groom were beautiful . The family posed for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the bride was ready for her wedding .",
+        "the bridesmaids were all in pink .",
+        "the family gathered around the table at the reception .",
+        "the bride and groom were beautiful .",
+        "the family posed for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The flower girl was so cute.  The bride was ready for her wedding, and taking pictures with the wedding party.  the groom was excited to be married . The family gathered around while getting food.  The pictures of the bride and groom with the family was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the flower girl was so cute .",
+        "the bride was ready for her wedding , and taking pictures with the wedding party .",
+        "the groom was excited to be married .",
+        "the family gathered around while getting food .",
+        "the pictures of the bride and groom with the family was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "Mary was a pretty flower  girl. the bride was ready for her wedding photos. the groom was ready to eat  . the family gathered at the reception . the bride and groom were so happy . the whole family was there to support them  .",
+      "normalized_edited_story_text_sent": [
+        "[female] was a pretty flower girl .",
+        "the bride was ready for her wedding photos .",
+        "the groom was ready to eat .",
+        "the family gathered at the reception .",
+        "the bride and groom were so happy .",
+        "the whole family was there to support them ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The bridal party was all dressed up in their pink colors for pictures.",
+      "normalized_edited_story_text_sent": [
+        "the bridal party was all dressed up in their pink colors for pictures ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "313345",
+  "model": "GLAC"
+}

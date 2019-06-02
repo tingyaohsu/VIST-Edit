@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6062211493-6052951557-6052949677-6058422814-6061462684",
+  "photo_sequence_ids": [
+    "6062211493",
+    "6052951557",
+    "6052949677",
+    "6058422814",
+    "6061462684"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6192/6062211493_defee21621_o.jpg",
+    "https://farm7.staticflickr.com/6182/6052951557_981312e261_o.jpg",
+    "https://farm7.staticflickr.com/6199/6052949677_a01b19e0e7_o.jpg",
+    "https://farm7.staticflickr.com/6065/6058422814_4a710e5724_o.jpg",
+    "https://farm7.staticflickr.com/6188/6061462684_b9a0405e0b_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the art museum today . we had a lot of fun there . it was interesting to see all of the old things . there were a lot of interesting pieces of art . this is a picture of a fountain .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to the art museum. There were lots of pictures. Many were brightly colored. Not all had people in them. There was a picture of flowers.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum .",
+        "there were lots of pictures .",
+        "many were brightly colored .",
+        "not all had people in them .",
+        "there was a picture of flowers ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to the art museum today . we had a lot of fun . it was interesting seeing all of the old things . there were a lot of interesting pieces of art . this is a picture of a fountain .",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "we had a lot of fun .",
+        "it was interesting seeing all of the old things .",
+        "there were a lot of interesting pieces of art .",
+        "this is a picture of a fountain ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the art museum today. we saw all sorts of paintings and drawings. some of them were very old. it took a pictures of some of the things we saw.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "we saw all sorts of paintings and drawings .",
+        "some of them were very old .",
+        "it took a pictures of some of the things we saw ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "We went to the art museum today. We had a lot of fun there. It was interesting to see all of the old things. There were a lot of interesting pieces of art. This is a picture of flowers.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "we had a lot of fun there .",
+        "it was interesting to see all of the old things .",
+        "there were a lot of interesting pieces of art .",
+        "this is a picture of flowers ."
+      ]
+    },
+    {
+      "worker_id": "A295KBVHTB2WIT",
+      "edited_story_text": "we went to the art museum today . we had a lot of fun there . it was interesting to see all of the paintings and drawings . there were a lot of interesting pieces of art . this is a picture of a vase of flowers in a bowl .",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "we had a lot of fun there .",
+        "it was interesting to see all of the paintings and drawings .",
+        "there were a lot of interesting pieces of art .",
+        "this is a picture of a vase of flowers in a bowl ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627331890945"
+}

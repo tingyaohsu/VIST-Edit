@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4862692707-4862693977-4863317516-4863320108-4862701421",
+  "photo_sequence_ids": [
+    "4862692707",
+    "4862693977",
+    "4863317516",
+    "4863320108",
+    "4862701421"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4095/4862692707_1af1d1d766_o.jpg",
+    "https://farm5.staticflickr.com/4120/4862693977_fb22572d80_o.jpg",
+    "https://farm5.staticflickr.com/4122/4863317516_fcbed86b1b_o.jpg",
+    "https://farm5.staticflickr.com/4076/4863320108_b32b9a42a5_o.jpg",
+    "https://farm5.staticflickr.com/4099/4862701421_cf41b5a754_o.jpg"
+  ],
+  "auto_story_text_normalized": "the bride and groom were very happy to be married . she was so happy to be there . we had a great time . she had a great birthday party . the baby was very happy to see her .",
+  "edited_stories": [
+    {
+      "worker_id": "APW9F8OTJ4KXO",
+      "edited_story_text": "the bride and groom were very happy to be married . the guest was so happy to be there . we had a great time at the wedding, too . the little girl had a great birthday party . the baby didn\u0027t pay much attention to her, but seemed content. .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were very happy to be married .",
+        "the guest was so happy to be there .",
+        "we had a great time at the wedding , too .",
+        "the little girl had a great birthday party .",
+        "the baby did n\u0027t pay much attention to her , but seemed content .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the bride and groom are very happy to be married . she is a  so happy to be there . we have a great time . she have a great birthday party . the baby is very happy to see her .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are very happy to be married .",
+        "she is a so happy to be there .",
+        "we have a great time .",
+        "she have a great birthday party .",
+        "the baby is very happy to see her ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "I attended a wedding with all of my family the other day . My grandpa, uncle, and young cousins were there. Everyone, including the bride and groom, was so happy to be there . We had a great time . Even the baby was happy to be there and enjoyed looking at the beautiful decorations.",
+      "normalized_edited_story_text_sent": [
+        "i attended a wedding with all of my family the other day .",
+        "my grandpa , uncle , and young cousins were there .",
+        "everyone , including the bride and groom , was so happy to be there .",
+        "we had a great time .",
+        "even the baby was happy to be there and enjoyed looking at the beautiful decorations ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the bride and groom were very happy to be married and she was so happy to be there . we had a great time . she had a great birthday party . the baby was very happy to see her .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were very happy to be married and she was so happy to be there .",
+        "we had a great time .",
+        "she had a great birthday party .",
+        "the baby was very happy to see her ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The bride and groom were very happy to be married. She was so happy to be there, and we had a great time. It was a great birthday party. The baby was so happy to see her.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were very happy to be married .",
+        "she was so happy to be there , and we had a great time .",
+        "it was a great birthday party .",
+        "the baby was so happy to see her ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624534607747"
+}

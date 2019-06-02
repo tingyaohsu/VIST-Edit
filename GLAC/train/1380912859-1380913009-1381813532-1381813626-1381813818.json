@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1380912859-1380913009-1381813532-1381813626-1381813818",
+  "photo_sequence_ids": [
+    "1380912859",
+    "1380913009",
+    "1381813532",
+    "1381813626",
+    "1381813818"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the sky was blue and the sky was clear . the horses were ready for the parade . the statue was in the middle of the street . the bridge was a sight to behold .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the sun was setting . the sky was blue and the sky was clear . the camels were ready to go for a ride . the boat was in  the middle of the water . the bridge was a sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "the sky was blue and the sky was clear .",
+        "the camels were ready to go for a ride .",
+        "the boat was in the middle of the water .",
+        "the bridge was a sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the sun was setting on the horizon . the sky had been blue and clear . horses were prepared for a parade . a statue stood in the middle of the street . the bridge was a beautiful sight .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting on the horizon .",
+        "the sky had been blue and clear .",
+        "horses were prepared for a parade .",
+        "a statue stood in the middle of the street .",
+        "the bridge was a beautiful sight ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the sunsets were beautiful and the sky was so  blue and clear . the camels were ready for the parade . there was a statue in the middle of the street and the bridge was a sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "the sunsets were beautiful and the sky was so blue and clear .",
+        "the camels were ready for the parade .",
+        "there was a statue in the middle of the street and the bridge was a sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we went on a nice cruise. the sun was setting  on the blue sky. the horses were ready for the parade .we visit  a ruin in the middle of the street . the view was amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went on a nice cruise .",
+        "the sun was setting on the blue sky .",
+        "the horses were ready for the parade .",
+        "we visit a ruin in the middle of the street .",
+        "the view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the sun was setting as the day was winding down . the sky was blue and the sky was clear due to the amazing weather . the horses were ready for the parade which started at dusk. the statue was in the middle of the street was the meeting spot for most people . the bridge was a sight to behold due to all the boats that had come.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting as the day was winding down .",
+        "the sky was blue and the sky was clear due to the amazing weather .",
+        "the horses were ready for the parade which started at dusk .",
+        "the statue was in the middle of the street was the meeting spot for most people .",
+        "the bridge was a sight to behold due to all the boats that had come ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602004965238",
+  "model": "GLAC"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6810319015-6810319333-6810320367-6810320611-6810320885",
+  "photo_sequence_ids": [
+    "6810319015",
+    "6810319333",
+    "6810320367",
+    "6810320611",
+    "6810320885"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the restaurant last week . there were a lot of people there . i had a great time . the food was delicious . afterward we all went back home .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i went to a restaurant with friends last week.  the restaurant was crowded with a lot of people. the food tasted great.  i had a good time.  afterward we all went back home together.\r\ri went to the restaurant last week . there were a lot of people there . i had a great time . the food was delicious . afterward we all went back home .",
+      "normalized_edited_story_text_sent": [
+        "i went to a restaurant with friends last week .",
+        "the restaurant was crowded with a lot of people .",
+        "the food tasted great .",
+        "i had a good time .",
+        "afterward we all went back home together .",
+        "i went to the restaurant last week .",
+        "there were a lot of people there .",
+        "i had a great time .",
+        "the food was delicious .",
+        "afterward we all went back home ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Here are some shots of the new sushi place that just opened up.  A lot to choose from and already long lines.  Check out what it looks like from outside.",
+      "normalized_edited_story_text_sent": [
+        "here are some shots of the new sushi place that just opened up .",
+        "a lot to choose from and already long lines .",
+        "check out what it looks like from outside ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the restaurant last week . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i ate at the restaurant last week . many were in line . i had a great meal . the chef was good . afterwards, i went back home full .",
+      "normalized_edited_story_text_sent": [
+        "i ate at the restaurant last week .",
+        "many were in line .",
+        "i had a great meal .",
+        "the chef was good .",
+        "afterwards , i went back home full ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "i went to the restaurant last week . there were a lot of yummy treats there . i had a great time . the food was delicious.  there was a long wait. afterward we all went back home .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were a lot of yummy treats there .",
+        "i had a great time .",
+        "the food was delicious .",
+        "there was a long wait .",
+        "afterward we all went back home ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629152279849",
+  "model": "GLAC"
+}

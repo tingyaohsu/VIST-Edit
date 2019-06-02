@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "46773076-46773254-46773424-46773570-46773613",
+  "photo_sequence_ids": [
+    "46773076",
+    "46773254",
+    "46773424",
+    "46773570",
+    "46773613"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/33/46773076_e2284c8109_o.jpg",
+    "https://farm1.staticflickr.com/27/46773254_2ddb59cbf0_o.jpg",
+    "https://farm1.staticflickr.com/32/46773424_b811ee0b17_o.jpg",
+    "https://farm1.staticflickr.com/26/46773570_ccb5f9018b_o.jpg",
+    "https://farm1.staticflickr.com/28/46773613_f6b6d6e812_o.jpg"
+  ],
+  "auto_story_text_normalized": "the church was a beautiful place . this is a picture of a car . there were a lot of people there . the kids were so excited to be there . after the ceremony , the bride and groom walked down the aisle .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the church was a beautiful place . this is a picture of a car . there were a lot of people there . the kids were so excited to be there . after the ceremony , the bride and groom walked down the aisle until out of the church",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place .",
+        "this is a picture of a car .",
+        "there were a lot of people there .",
+        "the kids were so excited to be there .",
+        "after the ceremony , the bride and groom walked down the aisle until out of the church"
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The old church was a beautiful place for a fabulous wedding.  This is a picture of a car that the newlywed left in.  There were a lot of people there. The kids were so excited to be there.  After the ceremony, the bride and groom walked down the road to the tent where the reception was.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a beautiful place for a fabulous wedding .",
+        "this is a picture of a car that the newlywed left in .",
+        "there were a lot of people there .",
+        "the kids were so excited to be there .",
+        "after the ceremony , the bride and groom walked down the road to the tent where the reception was ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "the church was a beautiful place so old and so nice to look at. this is a picture of a car that brought the bride to the church . there were a lot of people there for the reception. the kids were so excited to be there and to see the wedding. after the ceremony , the bride and groom walked down the aisle posed for many pictures.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place so old and so nice to look at .",
+        "this is a picture of a car that brought the bride to the church .",
+        "there were a lot of people there for the reception .",
+        "the kids were so excited to be there and to see the wedding .",
+        "after the ceremony , the bride and groom walked down the aisle posed for many pictures ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the church was a beautiful place and feature an impressive height . there were two extravagant cars. many people came to see the event. the kids were so excited to be there, as well as the adults . the bride and groom were happy to do their ceremonial walk.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place and feature an impressive height .",
+        "there were two extravagant cars .",
+        "many people came to see the event .",
+        "the kids were so excited to be there , as well as the adults .",
+        "the bride and groom were happy to do their ceremonial walk ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The church was a beautiful place and this is a picture of a car the couple drove away in. There were a lot of people there, and all of the children were so excited to be there. After the ceremony, the bride and groom walked down the aisle .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place and this is a picture of a car the couple drove away in .",
+        "there were a lot of people there , and all of the children were so excited to be there .",
+        "after the ceremony , the bride and groom walked down the aisle ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1044910"
+}

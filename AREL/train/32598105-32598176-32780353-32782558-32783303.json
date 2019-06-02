@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "32598105-32598176-32780353-32782558-32783303",
+  "photo_sequence_ids": [
+    "32598105",
+    "32598176",
+    "32780353",
+    "32782558",
+    "32783303"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/23/32598105_f7f7d1c0e5_o.jpg",
+    "https://farm1.staticflickr.com/22/32598176_3a43b242a4_o.jpg",
+    "https://farm1.staticflickr.com/22/32780353_80d81bf3aa_o.jpg",
+    "https://farm1.staticflickr.com/22/32782558_a634f9925b_o.jpg",
+    "https://farm1.staticflickr.com/23/32783303_ec3ffa9fd4_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last week . i had a lot of fun . we had a lot of fun . then he got to play with the toys . after a long day of work , we decided to go back home .",
+  "edited_stories": [
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "We all  hung out and slept  in the  same  room that led to fun and pillow fights .   It also  gave us  the morning  to play jokes and look around town",
+      "normalized_edited_story_text_sent": [
+        "we all hung out and slept in the same room that led to fun and pillow fights .",
+        "it also gave us the morning to play jokes and look around town"
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I had a great time at the party yesterday. We all had a lot of fun. We got to play a lot of games, stay up all night, and have pillow fights. I had to work the next day, so we decided to go back home.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "we all had a lot of fun .",
+        "we got to play a lot of games , stay up all night , and have pillow fights .",
+        "i had to work the next day , so we decided to go back home ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i had a great time at the party last week . i had a lot of fun . we had a lot of fun . then he got to play with the toys . after a long day of work , we decided to go back home  to play again",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "i had a lot of fun .",
+        "we had a lot of fun .",
+        "then he got to play with the toys .",
+        "after a long day of work , we decided to go back home to play again"
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the party last week! I had a lot of fun, and all of us had a lot of fun. [male] got to play with the toys. After a long day of work, we decided to go back home.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week !",
+        "i had a lot of fun , and all of us had a lot of fun .",
+        "[male] got to play with the toys .",
+        "after a long day of work , we decided to go back home ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The party last week was a lot of fun. We had a fun pillow fight. Then we went outside to shop at the market. When we got back the roommates had played a silly joke. I was tired and decided to go back home.",
+      "normalized_edited_story_text_sent": [
+        "the party last week was a lot of fun .",
+        "we had a fun pillow fight .",
+        "then we went outside to shop at the market .",
+        "when we got back the roommates had played a silly joke .",
+        "i was tired and decided to go back home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600249357838"
+}

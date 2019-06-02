@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4389506231-4389506193-4389506207-4389506305-4390274340",
+  "photo_sequence_ids": [
+    "4389506231",
+    "4389506193",
+    "4389506207",
+    "4389506305",
+    "4390274340"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the conference was very boring . there were a lot of people there . we had a great time . everyone was listening to the speaker . afterward we all got together for a group photo .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the conference was very boring and should of been canceled . there were a lot of people there who didn\u0027t have fun . we had a great time thou meeting new people. everyone was listening to the speaker who tried his best . afterward we all got together for a group photo and then went home .",
+      "normalized_edited_story_text_sent": [
+        "the conference was very boring and should of been canceled .",
+        "there were a lot of people there who did n\u0027t have fun .",
+        "we had a great time thou meeting new people .",
+        "everyone was listening to the speaker who tried his best .",
+        "afterward we all got together for a group photo and then went home ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the conference was very boring . The speaker tried to make it interesting but it is a tough subject. we did our best to look attentive. We had a nice lunch though.",
+      "normalized_edited_story_text_sent": [
+        "the conference was very boring .",
+        "the speaker tried to make it interesting but it is a tough subject .",
+        "we did our best to look attentive .",
+        "we had a nice lunch though ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The guest speaker was an inspiration to all the people who attended the conference.",
+      "normalized_edited_story_text_sent": [
+        "the guest speaker was an inspiration to all the people who attended the conference ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The conference was very boring and a lot of people were there. We had a good time, and everyone was listening to the speaker. Afterward, we all took a group photo.",
+      "normalized_edited_story_text_sent": [
+        "the conference was very boring and a lot of people were there .",
+        "we had a good time , and everyone was listening to the speaker .",
+        "afterward , we all took a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the people gathered. there were a lot of people there. we had a great time. everyone was listening to the speaker . afterward we all got together for a group photo at the table.",
+      "normalized_edited_story_text_sent": [
+        "the people gathered .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "everyone was listening to the speaker .",
+        "afterward we all got together for a group photo at the table ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623513528524",
+  "model": "GLAC"
+}

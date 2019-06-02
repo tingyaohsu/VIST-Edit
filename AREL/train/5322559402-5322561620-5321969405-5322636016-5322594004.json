@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5322559402-5322561620-5321969405-5322636016-5322594004",
+  "photo_sequence_ids": [
+    "5322559402",
+    "5322561620",
+    "5321969405",
+    "5322636016",
+    "5322594004"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5168/5322559402_bf985279e7_o.jpg",
+    "https://farm6.staticflickr.com/5284/5322561620_42d6220648_o.jpg",
+    "https://farm6.staticflickr.com/5287/5321969405_10ff35c417_o.jpg",
+    "https://farm6.staticflickr.com/5168/5322636016_080890a046_o.jpg",
+    "https://farm6.staticflickr.com/5123/5322594004_f25636b2de_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family gathered for the birthday party . the baby was so happy to be there . the baby was so happy to be there . we had a lot of fun . it was a great birthday .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The family gathered for the birthday party. We were happy to see the babies.  The kids had a lot of fun.  They love parties.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "we were happy to see the babies .",
+        "the kids had a lot of fun .",
+        "they love parties ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The family all gathered for the birthday party. The baby was happy to be there! We had a lot of fun, and it was a great birthday.",
+      "normalized_edited_story_text_sent": [
+        "the family all gathered for the birthday party .",
+        "the baby was happy to be there !",
+        "we had a lot of fun , and it was a great birthday ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the family gathered for the birthday party . the babies were so happy to be there with their parents . the baby was so happy to be there . they had a lot of fun . it was a great holiday.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the babies were so happy to be there with their parents .",
+        "the baby was so happy to be there .",
+        "they had a lot of fun .",
+        "it was a great holiday ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the family gathered for the birthday party . the baby was so happy to be there . the baby was so happy to be there . we had a lot of fun . it was a great birthday We enjoyed it very much",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the baby was so happy to be there .",
+        "the baby was so happy to be there .",
+        "we had a lot of fun .",
+        "it was a great birthday we enjoyed it very much"
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the family gathered for a party . the young ones were happy to be apart of it . the babies loved being there with a bottle to drink . we had a lot of fun talking and eating. it was a fun party and everyone stayed up late for it.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a party .",
+        "the young ones were happy to be apart of it .",
+        "the babies loved being there with a bottle to drink .",
+        "we had a lot of fun talking and eating .",
+        "it was a fun party and everyone stayed up late for it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625742513764"
+}

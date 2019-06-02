@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "1741625-1741640-1741639-1741633-1741630",
+  "photo_sequence_ids": [
+    "1741625",
+    "1741640",
+    "1741639",
+    "1741633",
+    "1741630"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to be in the new year . they had a great time at the party . they had lots of fun . they had a lot of fun . they had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the family joined me at the market in the new year . they had a great time helping me sell . they had lots of fun taking to the customers . the kids had a lot of fun drawing . overall they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the family joined me at the market in the new year .",
+        "they had a great time helping me sell .",
+        "they had lots of fun taking to the customers .",
+        "the kids had a lot of fun drawing .",
+        "overall they had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was excited to be in the new year because it was a fresh start . they had a great time at the party and ate like kings . they had lots of fun talking to each other . they had a lot of fun sorting the gifts . they had a good time painting with the kids.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be in the new year because it was a fresh start .",
+        "they had a great time at the party and ate like kings .",
+        "they had lots of fun talking to each other .",
+        "they had a lot of fun sorting the gifts .",
+        "they had a good time painting with the kids ."
+      ]
+    },
+    {
+      "worker_id": "A36NEHA1FVYZYM",
+      "edited_story_text": "The family was really excited to be together in the New Year. The party was awesome and we all had a lot of fun. Such a good time!",
+      "normalized_edited_story_text_sent": [
+        "the family was really excited to be together in the new year .",
+        "the party was awesome and we all had a lot of fun .",
+        "such a good time !"
+      ]
+    },
+    {
+      "worker_id": "A17AF9I56P3RVV",
+      "edited_story_text": "The family was excited to celebrate the New Grandmother and father, children, and grandchildren had a great time at the part. It was lots of fun with a lot to share and eat.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to celebrate the new grandmother and father , children , and grandchildren had a great time at the part .",
+        "it was lots of fun with a lot to share and eat ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The people walked to the community center where crafts were underway.",
+      "normalized_edited_story_text_sent": [
+        "the people walked to the community center where crafts were underway ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "44277",
+  "model": "GLAC"
+}

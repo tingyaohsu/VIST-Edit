@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5130131515-5130132125-5130132647-5130133473-5130134467",
+  "photo_sequence_ids": [
+    "5130131515",
+    "5130132125",
+    "5130132647",
+    "5130133473",
+    "5130134467"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1346/5130131515_8ff8ec16c3_o.jpg",
+    "https://farm5.staticflickr.com/4012/5130132125_59ff95c75e_o.jpg",
+    "https://farm5.staticflickr.com/4084/5130132647_ce159254ed_o.jpg",
+    "https://farm2.staticflickr.com/1230/5130133473_f59faa3c2d_o.jpg",
+    "https://farm5.staticflickr.com/4027/5130134467_6f1af8d981_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a lot of work . i put them in a box and started to make sure it was going to be a good time . we had a lot of work to do . this is a picture of a sign . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "it was a lot of work . i put them in a box and started to make sure it was going to be a good time for everyone. this is a picture of a sign . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "it was a lot of work .",
+        "i put them in a box and started to make sure it was going to be a good time for everyone .",
+        "this is a picture of a sign .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I did a lot of work today. I put everything in a box and made sure that was a good place for it. I had a lot of work to do. Here\u0027s a picture of the sign. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i did a lot of work today .",
+        "i put everything in a box and made sure that was a good place for it .",
+        "i had a lot of work to do .",
+        "here \u0027s a picture of the sign .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "I had to clean out my storage unit. it was a lot of work . i put everything in a box  . i had a great meal after i was done.",
+      "normalized_edited_story_text_sent": [
+        "i had to clean out my storage unit .",
+        "it was a lot of work .",
+        "i put everything in a box .",
+        "i had a great meal after i was done ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "it was a lot of work. i put keepsakes in a box and started to make sure it was going to be time well spent. we did a great deal of work. this is a picture of my old college notebook. i had a great lunch.",
+      "normalized_edited_story_text_sent": [
+        "it was a lot of work .",
+        "i put keepsakes in a box and started to make sure it was going to be time well spent .",
+        "we did a great deal of work .",
+        "this is a picture of my old college notebook .",
+        "i had a great lunch ."
+      ]
+    },
+    {
+      "worker_id": "A22RR2Q0OC1JQ0",
+      "edited_story_text": "it was a lot of work cleaning out my storage unit. we had a lot of work to do. I found some treasures in there, though - a turntable, some cardboard cutouts, and some old school notebooks. In the end, I had a great time and earned a hearty meal after.",
+      "normalized_edited_story_text_sent": [
+        "it was a lot of work cleaning out my storage unit .",
+        "we had a lot of work to do .",
+        "i found some treasures in there , though - a turntable , some cardboard cutouts , and some old school notebooks .",
+        "in the end , i had a great time and earned a hearty meal after ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625152211431"
+}

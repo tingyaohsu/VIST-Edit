@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4298773081-4298772263-4299526180-4299524320-4299530150",
+  "photo_sequence_ids": [
+    "4298773081",
+    "4298772263",
+    "4299526180",
+    "4299524320",
+    "4299530150"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the market was a great place to visit . there were many different types of food . the vendors sold all kinds of goods . the women were very excited . the city was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the market was a great place to visit . there were many different types of food . the vendors sold all kinds of goods . the women were very excited . the city has a lot of culture .",
+      "normalized_edited_story_text_sent": [
+        "the market was a great place to visit .",
+        "there were many different types of food .",
+        "the vendors sold all kinds of goods .",
+        "the women were very excited .",
+        "the city has a lot of culture ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the market was a great place to visit and there were many different types of foods, such as vegetables, meats and baked goods. everyone was enjoying their time outdoors in the city at night, watching carriages roll by and seeing the buildings lit up with lights at night.",
+      "normalized_edited_story_text_sent": [
+        "the market was a great place to visit and there were many different types of foods , such as vegetables , meats and baked goods .",
+        "everyone was enjoying their time outdoors in the city at night , watching carriages roll by and seeing the buildings lit up with lights at night ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "A great place to visit is the local market. It\u0027s filled with a variety of foods. Each vendor sells so many different types of foods. The ladies were ecstatic and we all had an amazing time in the city.",
+      "normalized_edited_story_text_sent": [
+        "a great place to visit is the local market .",
+        "it \u0027s filled with a variety of foods .",
+        "each vendor sells so many different types of foods .",
+        "the ladies were ecstatic and we all had an amazing time in the city ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the market was a bustling great place . many unique foods were sold . the vendors also sold all kinds of things . the women were excited by the commerce . the city provided great entertainment .",
+      "normalized_edited_story_text_sent": [
+        "the market was a bustling great place .",
+        "many unique foods were sold .",
+        "the vendors also sold all kinds of things .",
+        "the women were excited by the commerce .",
+        "the city provided great entertainment ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the market was a great place to visit . there were many different types of food . the vendors sold all kinds of goods . the women were very excited . the city was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the market was a great place to visit .",
+        "there were many different types of food .",
+        "the vendors sold all kinds of goods .",
+        "the women were very excited .",
+        "the city was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623146557081",
+  "model": "GLAC"
+}

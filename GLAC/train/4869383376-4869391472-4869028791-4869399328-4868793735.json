@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4869383376-4869391472-4869028791-4869399328-4868793735",
+  "photo_sequence_ids": [
+    "4869383376",
+    "4869391472",
+    "4869028791",
+    "4869399328",
+    "4868793735"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were in full bloom . the flowers were so beautiful . the purple one was my favorite . the pink flower was a bit too expensive . the tree was also very nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the flowers were in full bloom and incredibly beautiful. They were white with purple-pink spots and a dark center. I placed them in a bottle full of water and took several pictures of them in the bottle in different locations.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom and incredibly beautiful .",
+        "they were white with purple-pink spots and a dark center .",
+        "i placed them in a bottle full of water and took several pictures of them in the bottle in different locations ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the purple and white flowers were in full bloom . the flowers were so beautiful outside . the purple one was my favorite so I put it in a bottle . I sat it on the ground to soak in the sun.  The flowers shone brightly in the daylight.",
+      "normalized_edited_story_text_sent": [
+        "the purple and white flowers were in full bloom .",
+        "the flowers were so beautiful outside .",
+        "the purple one was my favorite so i put it in a bottle .",
+        "i sat it on the ground to soak in the sun .",
+        "the flowers shone brightly in the daylight ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the flowers were in full bloom . the flowers were so beautiful . the purple one was my favorite . the flowers were everywhere . the tree was also very nice .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom .",
+        "the flowers were so beautiful .",
+        "the purple one was my favorite .",
+        "the flowers were everywhere .",
+        "the tree was also very nice ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the flowers were in full bloom . the flowers were so beautiful . the purple one was in a bottle . the pink flower was a bit beautiful . the tree was also very nice .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom .",
+        "the flowers were so beautiful .",
+        "the purple one was in a bottle .",
+        "the pink flower was a bit beautiful .",
+        "the tree was also very nice ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the flowers were in full bloom this season. the blooms looks so nice and beautiful. i was allowed to take a couple flowers home. they look nice here on my patio. i\u0027m happy that the beautiful flowers look so nice .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom this season .",
+        "the blooms looks so nice and beautiful .",
+        "i was allowed to take a couple flowers home .",
+        "they look nice here on my patio .",
+        "i \u0027m happy that the beautiful flowers look so nice ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624549191891",
+  "model": "GLAC"
+}

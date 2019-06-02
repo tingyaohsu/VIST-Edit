@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "6702997213-6703001055-6703003089-6703013391-6703014877",
+  "photo_sequence_ids": [
+    "6702997213",
+    "6703001055",
+    "6703003089",
+    "6703013391",
+    "6703014877"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7007/6702997213_ca3177fa03_o.jpg",
+    "https://farm8.staticflickr.com/7155/6703001055_714ee656fb_o.jpg",
+    "https://farm8.staticflickr.com/7165/6703003089_c9281df6a6_o.jpg",
+    "https://farm8.staticflickr.com/7030/6703013391_0476d80e78_o.jpg",
+    "https://farm8.staticflickr.com/7152/6703014877_275454c976_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to location for the day . the city was very tall . the buildings were very tall . the buildings were very tall . after that we walked down the street to see the city .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "we go to location for the day . the city is very tall . the buildings are very tall . the buildings are very tall . after that we walking down the street to saw the city .",
+      "normalized_edited_story_text_sent": [
+        "we go to location for the day .",
+        "the city is very tall .",
+        "the buildings are very tall .",
+        "the buildings are very tall .",
+        "after that we walking down the street to saw the city ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "we went to a location for the day the city buildings were very tall. After that we walked down the streets to see the city.",
+      "normalized_edited_story_text_sent": [
+        "we went to a location for the day the city buildings were very tall .",
+        "after that we walked down the streets to see the city ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to location for the day. The city was very big. There were a lot of tall buildings. After that we walked down the street to see the city .",
+      "normalized_edited_story_text_sent": [
+        "we went to location for the day .",
+        "the city was very big .",
+        "there were a lot of tall buildings .",
+        "after that we walked down the street to see the city ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "We went into the downtown area of the city for the day. the buildings were all very tall . There is also a lot of construction going on! The skyline was so cool to see.",
+      "normalized_edited_story_text_sent": [
+        "we went into the downtown area of the city for the day .",
+        "the buildings were all very tall .",
+        "there is also a lot of construction going on !",
+        "the skyline was so cool to see ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went down to the city for a day. The city skyline was very tall, because all the buildings were tall. After that, we walked down the street to see the city.",
+      "normalized_edited_story_text_sent": [
+        "we went down to the city for a day .",
+        "the city skyline was very tall , because all the buildings were tall .",
+        "after that , we walked down the street to see the city ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628884198187"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4970833228-4970838382-4970227495-4970227869-4970228131",
+  "photo_sequence_ids": [
+    "4970833228",
+    "4970838382",
+    "4970227495",
+    "4970227869",
+    "4970228131"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4146/4970833228_ffa6d2fe74_o.jpg",
+    "https://farm5.staticflickr.com/4089/4970838382_fcc9bbeff6_o.jpg",
+    "https://farm5.staticflickr.com/4105/4970227495_83e8bec4b1_o.jpg",
+    "https://farm5.staticflickr.com/4153/4970227869_37a523e629_o.jpg",
+    "https://farm5.staticflickr.com/4150/4970228131_73813da80b_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a wall . this is a picture of a wall . this one was really cool . this is a picture of a man . this is a picture of a man .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "this is a drawing of the rain. this one was really cool . this is a picture of a scooter . these are drawings i made .",
+      "normalized_edited_story_text_sent": [
+        "this is a drawing of the rain .",
+        "this one was really cool .",
+        "this is a picture of a scooter .",
+        "these are drawings i made ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "There was an illustration of two people running inside from the rain. They went to the market to shop for items. They found a vintage bike advertisement. Then they saw a strange illustration of a globe. There was an old drawing of a puzzle. The illustrated woman looked at the bike.",
+      "normalized_edited_story_text_sent": [
+        "there was an illustration of two people running inside from the rain .",
+        "they went to the market to shop for items .",
+        "they found a vintage bike advertisement .",
+        "then they saw a strange illustration of a globe .",
+        "there was an old drawing of a puzzle .",
+        "the illustrated woman looked at the bike ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a wall and this is a picture of a wall . this one was really cool . this is a picture of a man . this is a picture of a man .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a wall and this is a picture of a wall .",
+        "this one was really cool .",
+        "this is a picture of a man .",
+        "this is a picture of a man ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of some art on the wall. This one was really cool. This one is the picture of a man. Here is another picture of a man.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of some art on the wall .",
+        "this one was really cool .",
+        "this one is the picture of a man .",
+        "here is another picture of a man ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "this is a picture of a comic on a wall . this is another picture of a comic on a wall . this one was really cool . this is a picture of a man and a bike . this is a picture of a several people .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a comic on a wall .",
+        "this is another picture of a comic on a wall .",
+        "this one was really cool .",
+        "this is a picture of a man and a bike .",
+        "this is a picture of a several people ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624907734984"
+}

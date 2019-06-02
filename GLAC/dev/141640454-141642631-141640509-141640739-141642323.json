@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "141640454-141642631-141640509-141640739-141642323",
+  "photo_sequence_ids": [
+    "141640454",
+    "141642631",
+    "141640509",
+    "141640739",
+    "141642323"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . they saw a lot of interesting things . they even got to see a snake . they also took pictures of the kids . they also had a fun time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the zoo . they saw a lot of interesting things . it was a very eventful day.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw a lot of interesting things .",
+        "it was a very eventful day ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family went to the zoo on this sunny day . they saw a lot of interesting things including some good flowers . they even got to see a snake who was in the grass . they also took pictures of the kids so they could look back on this day . they also had a fun time laying on the grass and relaxing.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo on this sunny day .",
+        "they saw a lot of interesting things including some good flowers .",
+        "they even got to see a snake who was in the grass .",
+        "they also took pictures of the kids so they could look back on this day .",
+        "they also had a fun time laying on the grass and relaxing ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went to the fun zoo . they saw a lot of neat things . they even got to see a snake . they also took pictures of the kids . they also had a fun time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the fun zoo .",
+        "they saw a lot of neat things .",
+        "they even got to see a snake .",
+        "they also took pictures of the kids .",
+        "they also had a fun time ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "Our family went to the zoo and saw a lot of interesting things. We even got to see a snake! We took lots of pictures of the kids, who also had a great time.",
+      "normalized_edited_story_text_sent": [
+        "our family went to the zoo and saw a lot of interesting things .",
+        "we even got to see a snake !",
+        "we took lots of pictures of the kids , who also had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family went to the park. they saw a lot of interesting things . they even got to see a snake . they also took pictures of the boys . it was a great day to lie in the grass and rest .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park .",
+        "they saw a lot of interesting things .",
+        "they even got to see a snake .",
+        "they also took pictures of the boys .",
+        "it was a great day to lie in the grass and rest ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594127440513",
+  "model": "GLAC"
+}

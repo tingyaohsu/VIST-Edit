@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4946708975-4946710305-4946710757-4947301910-4946713243",
+  "photo_sequence_ids": [
+    "4946708975",
+    "4946710305",
+    "4946710757",
+    "4947301910",
+    "4946713243"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the football game was a lot of fun . the players were very good . the teams were very talented . the cheerleaders were really good . the fans were very excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the basketball game was a lot of fun for the kids. the players were very good and the game was close. the teams were very talented at shooting the ball . the cheerleaders were really good at getting the crowd loud. the fans were very excited that the home team won .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a lot of fun for the kids .",
+        "the players were very good and the game was close .",
+        "the teams were very talented at shooting the ball .",
+        "the cheerleaders were really good at getting the crowd loud .",
+        "the fans were very excited that the home team won ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the basketball game was a lot of fun . the players were very good . the teams were very talented . the cheerleaders were really good . the fans loved it all .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a lot of fun .",
+        "the players were very good .",
+        "the teams were very talented .",
+        "the cheerleaders were really good .",
+        "the fans loved it all ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the football game was a lot of fun . the players were very good . the teams were very talented . the cheerleaders were really good . the fans cheered the game on .",
+      "normalized_edited_story_text_sent": [
+        "the football game was a lot of fun .",
+        "the players were very good .",
+        "the teams were very talented .",
+        "the cheerleaders were really good .",
+        "the fans cheered the game on ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the basketball game was a fun spectacle . the players were professionally good . the teams were talent filled . the cheerleaders were also really acrobatic . the fans were excited to be there .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a fun spectacle .",
+        "the players were professionally good .",
+        "the teams were talent filled .",
+        "the cheerleaders were also really acrobatic .",
+        "the fans were excited to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3A2AZLG73ZE1U",
+      "edited_story_text": "We saw a great basketball game. the players are amazing athletes. I couldn\u0027t predict which team would win. The crowd lost their mind at the end.",
+      "normalized_edited_story_text_sent": [
+        "we saw a great basketball game .",
+        "the players are amazing athletes .",
+        "i could n\u0027t predict which team would win .",
+        "the crowd lost their mind at the end ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207407464",
+  "model": "GLAC"
+}

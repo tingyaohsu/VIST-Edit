@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "249829914-249828289-249828792-249829627-249826882",
+  "photo_sequence_ids": [
+    "249829914",
+    "249828289",
+    "249828792",
+    "249829627",
+    "249826882"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the race was about to begin . the bikers were off and ready for the start . the race was underway . the cars were very fast . the winner was crowned the winner .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "A lot of people showed up to watch the race. The race was underway. The cars were very fast. The race was exciting. The cars kicked up a lot of dust.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people showed up to watch the race .",
+        "the race was underway .",
+        "the cars were very fast .",
+        "the race was exciting .",
+        "the cars kicked up a lot of dust ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the race was about to begin and everyone was lined up along the track. the bikers were off and ready for the start . The cars raced through spitting dirt up. We waited at the finish line.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin and everyone was lined up along the track .",
+        "the bikers were off and ready for the start .",
+        "the cars raced through spitting dirt up .",
+        "we waited at the finish line ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The rally car race was a great time, all of the spectators were really enjoying themselves today.  Dirt was flying everywhere from the fast cars!",
+      "normalized_edited_story_text_sent": [
+        "the rally car race was a great time , all of the spectators were really enjoying themselves today .",
+        "dirt was flying everywhere from the fast cars !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the race was about to begin . the bikers were off and ready for the start . the race was underway . the cars were very fast .  it was a very close race.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the bikers were off and ready for the start .",
+        "the race was underway .",
+        "the cars were very fast .",
+        "it was a very close race ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "people were watching the rally car race.  the cars were kicking up a lot of dirt. some of the cars drifted around the corner. all the cars had sponsors on them.",
+      "normalized_edited_story_text_sent": [
+        "people were watching the rally car race .",
+        "the cars were kicking up a lot of dirt .",
+        "some of the cars drifted around the corner .",
+        "all the cars had sponsors on them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594295140238",
+  "model": "GLAC"
+}

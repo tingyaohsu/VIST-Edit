@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4483705776-4483708136-4483709112-4483061947-4483056647",
+  "photo_sequence_ids": [
+    "4483705776",
+    "4483708136",
+    "4483709112",
+    "4483061947",
+    "4483056647"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2515/4483705776_81442dd448_o.jpg",
+    "https://farm3.staticflickr.com/2586/4483708136_0b290114c4_o.jpg",
+    "https://farm5.staticflickr.com/4037/4483709112_322ed5c8d6_o.jpg",
+    "https://farm5.staticflickr.com/4018/4483061947_13ffe4e398_o.jpg",
+    "https://farm5.staticflickr.com/4004/4483056647_9e128d9e47_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a great day for a baseball game . the game was very intense . it was a very good game . the players were very hard to win . it was a very exciting game .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "it was a great day for a soccer game . the game was very intense . it was a very good game . the players tried very hard to win . it was a very exciting game .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a soccer game .",
+        "the game was very intense .",
+        "it was a very good game .",
+        "the players tried very hard to win .",
+        "it was a very exciting game ."
+      ]
+    },
+    {
+      "worker_id": "A6QG9LM5WL0AQ",
+      "edited_story_text": "it was a great day for a soccer game. the soccer game was very competitive. it was a very good game to watch . the players all tried hard to win. it was a very exciting game to watch.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a soccer game .",
+        "the soccer game was very competitive .",
+        "it was a very good game to watch .",
+        "the players all tried hard to win .",
+        "it was a very exciting game to watch ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "it was a great day for a soccer game. the game was very intense . Both teams played a very good game. the players worked very hard to win. They made it a very exciting game.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a soccer game .",
+        "the game was very intense .",
+        "both teams played a very good game .",
+        "the players worked very hard to win .",
+        "they made it a very exciting game ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "It was a great day for a baseball game. The game was very intense, but it was a good game. The players worked very hard to win, which made it very exciting.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a baseball game .",
+        "the game was very intense , but it was a good game .",
+        "the players worked very hard to win , which made it very exciting ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "it was a great day for a baseball game . the game was very intense . it was a very good game . the players were very hard to win . it was a very exciting game but we managed to win",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a baseball game .",
+        "the game was very intense .",
+        "it was a very good game .",
+        "the players were very hard to win .",
+        "it was a very exciting game but we managed to win"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623752789696"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "6104152317-6104169057-6104171807-6104179965-6094132961",
+  "photo_sequence_ids": [
+    "6104152317",
+    "6104169057",
+    "6104171807",
+    "6104179965",
+    "6094132961"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the party last week . there were a lot of people there . they were very good . they were all very nice . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "I went to the party last week, and wow there were so many people there! All of them were very good, and very nice. Then after it we all took pictures.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last week , and wow there were so many people there !",
+        "all of them were very good , and very nice .",
+        "then after it we all took pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the party last week . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last week .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i went to the party last week . there were a lot of people there . they were drinking . they were all dancing . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last week .",
+        "there were a lot of people there .",
+        "they were drinking .",
+        "they were all dancing .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the i went to the party last week . there were a lot of people there . they were very good . they were all very nice . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the i went to the party last week .",
+        "there were a lot of people there .",
+        "they were very good .",
+        "they were all very nice .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "pictures were removed.",
+      "normalized_edited_story_text_sent": [
+        "pictures were removed ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627448238523",
+  "model": "GLAC"
+}

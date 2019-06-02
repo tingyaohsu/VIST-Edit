@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6276934381-6276937723-6277460298-6276938875-6276940565",
+  "photo_sequence_ids": [
+    "6276934381",
+    "6276937723",
+    "6277460298",
+    "6276938875",
+    "6276940565"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the event . he was very excited . he was given a speech . he was a great speaker . he was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the woman smiled at the event . everyone was very excited . a woman in red gave a speech . she was a great speaker . everyone was very impressed .",
+      "normalized_edited_story_text_sent": [
+        "the woman smiled at the event .",
+        "everyone was very excited .",
+        "a woman in red gave a speech .",
+        "she was a great speaker .",
+        "everyone was very impressed ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "She smiled in front of a flag. The greeted everyone before the woman in red took the podium. The presentation was great.",
+      "normalized_edited_story_text_sent": [
+        "she smiled in front of a flag .",
+        "the greeted everyone before the woman in red took the podium .",
+        "the presentation was great ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "David was happy to be at the event . he was very excited to be giving  a speech . he was a great speaker . he was very proud and everyone was proud of him!  Great job David!",
+      "normalized_edited_story_text_sent": [
+        "[male] was happy to be at the event .",
+        "he was very excited to be giving a speech .",
+        "he was a great speaker .",
+        "he was very proud and everyone was proud of him !",
+        "great job [male] !"
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the man was happy and excited to be at the event. he was a great speaker and gave a speech, which made him very proud.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy and excited to be at the event .",
+        "he was a great speaker and gave a speech , which made him very proud ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "John was attending an award ceremony. He ended up winning an award for this time spent at the company. He was very grateful and gave small speech.",
+      "normalized_edited_story_text_sent": [
+        "[male] was attending an award ceremony .",
+        "he ended up winning an award for this time spent at the company .",
+        "he was very grateful and gave small speech ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627969263208",
+  "model": "GLAC"
+}

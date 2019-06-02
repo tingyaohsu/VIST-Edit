@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4293157658-4292421829-4293159218-4293168072-4293162374",
+  "photo_sequence_ids": [
+    "4293157658",
+    "4292421829",
+    "4293159218",
+    "4293168072",
+    "4293162374"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very old . the trees were all in the shape . the grounds were well kept . the statue was a nice place to visit . the church was also beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the building was very old. the trees were shaped beautifully and the grounds were well kept . the statue and the church were both nice, beautiful places to visit.",
+      "normalized_edited_story_text_sent": [
+        "the building was very old .",
+        "the trees were shaped beautifully and the grounds were well kept .",
+        "the statue and the church were both nice , beautiful places to visit ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The church building was very old. The trees and grounds were well kept. The statues and architecture were breathtaking.",
+      "normalized_edited_story_text_sent": [
+        "the church building was very old .",
+        "the trees and grounds were well kept .",
+        "the statues and architecture were breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A30DFNV9FV487C",
+      "edited_story_text": "The cathedral was so pretty and so was the palace on the beautiful land. There were streams behind the palace. The palace had an opening that went on forever.",
+      "normalized_edited_story_text_sent": [
+        "the cathedral was so pretty and so was the palace on the beautiful land .",
+        "there were streams behind the palace .",
+        "the palace had an opening that went on forever ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the building was very old . the trees were all around. the grounds were well kept . the statue was a nice place to visit . the church was also beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the building was very old .",
+        "the trees were all around .",
+        "the grounds were well kept .",
+        "the statue was a nice place to visit .",
+        "the church was also beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the building were very old . the architecture is very brilliant.   the grounds were well kept . the statue was a nice place to visit . the church was also beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the building were very old .",
+        "the architecture is very brilliant .",
+        "the grounds were well kept .",
+        "the statue was a nice place to visit .",
+        "the church was also beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623130414003",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "15973438307-15981616459-16167672505-16013163709-16167408922",
+  "photo_sequence_ids": [
+    "15973438307",
+    "15981616459",
+    "16167672505",
+    "16013163709",
+    "16167408922"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7480/15973438307_95122e109e_o.jpg",
+    "https://farm8.staticflickr.com/7553/15981616459_7895083fa3_o.jpg",
+    "https://farm8.staticflickr.com/7565/16167672505_74faa7ed6c_o.jpg",
+    "https://farm8.staticflickr.com/7554/16013163709_c50f6cc725_o.jpg",
+    "https://farm9.staticflickr.com/8586/16167408922_2528cf47b4_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family got together for a birthday party . we had a lot of food to eat . we had a lot of drinks to eat . the birthday girl was having a good time . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A293Y9SY2ETQN5",
+      "edited_story_text": "the family assembled in a house  for a birthday party . we had a lot of food to eat . we had a lot of drinks to eat . the birthday girl was having a good time . we had a great time as we enjoyed the birthday party.",
+      "normalized_edited_story_text_sent": [
+        "the family assembled in a house for a birthday party .",
+        "we had a lot of food to eat .",
+        "we had a lot of drinks to eat .",
+        "the birthday girl was having a good time .",
+        "we had a great time as we enjoyed the birthday party ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Today my family got together for a birthday party. There was a lot of great food and some excellent drinks. Several people had on birthday hats and masks and even the baby had a good time!",
+      "normalized_edited_story_text_sent": [
+        "today my family got together for a birthday party .",
+        "there was a lot of great food and some excellent drinks .",
+        "several people had on birthday hats and masks and even the baby had a good time !"
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "the family got together for a birthday party. we had plenty of drinks and food. the birthday girl was having a good time . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "we had plenty of drinks and food .",
+        "the birthday girl was having a good time .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "the family got together for a birthday party . we had a lot of food to eat and some fruity drinks. They were all delicious . We had a great time. It was a night to remember .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "we had a lot of food to eat and some fruity drinks .",
+        "they were all delicious .",
+        "we had a great time .",
+        "it was a night to remember ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The family gathered for a birthday party. We had a lot of food to eat. We also had a lot of drinks. The birthday girl was having a good time, and so was everyone else.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a birthday party .",
+        "we had a lot of food to eat .",
+        "we also had a lot of drinks .",
+        "the birthday girl was having a good time , and so was everyone else ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157649648811240"
+}

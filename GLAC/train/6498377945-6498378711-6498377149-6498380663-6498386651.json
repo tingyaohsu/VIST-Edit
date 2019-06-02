@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6498377945-6498378711-6498377149-6498380663-6498386651",
+  "photo_sequence_ids": [
+    "6498377945",
+    "6498378711",
+    "6498377149",
+    "6498380663",
+    "6498386651"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the park . the view was amazing . the kids were very excited . the boys were having a great time . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the whole family went to the park. the view was amazing. the kids were very excited and were having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the whole family went to the park .",
+        "the view was amazing .",
+        "the kids were very excited and were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "we went to a rocky landmark . the view was fascinating . the kids enjoyed their time there . the boys were having a blast . the entire family was at the outing .",
+      "normalized_edited_story_text_sent": [
+        "we went to a rocky landmark .",
+        "the view was fascinating .",
+        "the kids enjoyed their time there .",
+        "the boys were having a blast .",
+        "the entire family was at the outing ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "We went to see the ancient ruins. They were well preserved. It was cool so we wore jackets. This picture was taken with a person sitting on one of the structures.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the ancient ruins .",
+        "they were well preserved .",
+        "it was cool so we wore jackets .",
+        "this picture was taken with a person sitting on one of the structures ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "we went to the ruins . the view was amazing . the kids were very playful . the boys were having a great time . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the ruins .",
+        "the view was amazing .",
+        "the kids were very playful .",
+        "the boys were having a great time .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "we went to a historical park over the weekend. the views and the sights were amazing . the kids, [David] and [Maria], were very excited . the boys were having a great time exploring the entire site . the whole family was able to be there to enjoy the outing .",
+      "normalized_edited_story_text_sent": [
+        "we went to a historical park over the weekend .",
+        "the views and the sights were amazing .",
+        "the kids , [male] and [female] , were very excited .",
+        "the boys were having a great time exploring the entire site .",
+        "the whole family was able to be there to enjoy the outing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628013505086",
+  "model": "GLAC"
+}

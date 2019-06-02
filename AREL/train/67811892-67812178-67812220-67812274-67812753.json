@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "67811892-67812178-67812220-67812274-67812753",
+  "photo_sequence_ids": [
+    "67811892",
+    "67812178",
+    "67812220",
+    "67812274",
+    "67812753"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/34/67811892_725ccdfc3e_o.jpg",
+    "https://farm1.staticflickr.com/27/67812178_75f06637d6_o.jpg",
+    "https://farm1.staticflickr.com/35/67812220_95857ba079_o.jpg",
+    "https://farm1.staticflickr.com/27/67812274_4291b51c4e_o.jpg",
+    "https://farm1.staticflickr.com/30/67812753_051d282452_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the festival . he was so excited to be there . we had a lot of fun there . we had a great time there . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "We had the best time while we were at the festival! She was super excited to be there! We had a great time meeting new people, like this guy!  We had fun running along side these really nice people. We thought it was so nice that people were handing us drinks along the way, so sweet!",
+      "normalized_edited_story_text_sent": [
+        "we had the best time while we were at the festival !",
+        "she was super excited to be there !",
+        "we had a great time meeting new people , like this guy !",
+        "we had fun running along side these really nice people .",
+        "we thought it was so nice that people were handing us drinks along the way , so sweet !"
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we had a great time at the race. he was so excited to be there . we had a lot of fun running . I was thirsty afterwards. we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the race .",
+        "he was so excited to be there .",
+        "we had a lot of fun running .",
+        "i was thirsty afterwards .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the 5k race. [female] was excited to get to run. we had a lot of fun watching the runners. there was a really good atmosphere at the event.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the 5k race .",
+        "[female] was excited to get to run .",
+        "we had a lot of fun watching the runners .",
+        "there was a really good atmosphere at the event ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "we had a great time at the festival. he was so excited to be there. we had a lot of fun and a great time there.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "he was so excited to be there .",
+        "we had a lot of fun and a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we have a great time at the festival . he is so excited to be there . we have a lot of fun there . we have a great time there . we have a great time .",
+      "normalized_edited_story_text_sent": [
+        "we have a great time at the festival .",
+        "he is so excited to be there .",
+        "we have a lot of fun there .",
+        "we have a great time there .",
+        "we have a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1463239"
+}

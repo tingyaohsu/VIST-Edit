@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6232158922-6231639667-6232174432-6231655267-6232184294",
+  "photo_sequence_ids": [
+    "6232158922",
+    "6231639667",
+    "6232174432",
+    "6231655267",
+    "6232184294"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the farm . they drove around the city . they saw a lot of cool things . they had a great time at the park . they ended the day with a beautiful sunset .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went to the farm and then they drove around the city. they saw a lot of cool things and had a great time at the park. the day ended with a beautiful sunset.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farm and then they drove around the city .",
+        "they saw a lot of cool things and had a great time at the park .",
+        "the day ended with a beautiful sunset ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the family went to grandfather\u0027s farm . they drove around the city looking at the sites . they saw a lot of cool things like fountains and statues . they had a great time playing baseball at the park . they ended the day watching a beautiful sunset .",
+      "normalized_edited_story_text_sent": [
+        "the family went to grandfather \u0027s farm .",
+        "they drove around the city looking at the sites .",
+        "they saw a lot of cool things like fountains and statues .",
+        "they had a great time playing baseball at the park .",
+        "they ended the day watching a beautiful sunset ."
+      ]
+    },
+    {
+      "worker_id": "APILOZNIFB92X",
+      "edited_story_text": "our family went to the farm, after they drove around the city . they saw a lot of cool things . they had a great time at the park listening to a band and then they ended the day with a beautiful sunset .",
+      "normalized_edited_story_text_sent": [
+        "our family went to the farm , after they drove around the city .",
+        "they saw a lot of cool things .",
+        "they had a great time at the park listening to a band and then they ended the day with a beautiful sunset ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We all went to the farm today.  We brought our portable stage and played for the folks that were visiting the orchard.  Nice sunset too!!!",
+      "normalized_edited_story_text_sent": [
+        "we all went to the farm today .",
+        "we brought our portable stage and played for the folks that were visiting the orchard .",
+        "nice sunset too !!!"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the picnic . there was even a band that played. they put on a good show",
+      "normalized_edited_story_text_sent": [
+        "the family went to the picnic .",
+        "there was even a band that played .",
+        "they put on a good show"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627864675956",
+  "model": "GLAC"
+}

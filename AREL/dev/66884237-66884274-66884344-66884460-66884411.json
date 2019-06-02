@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "66884237-66884274-66884344-66884460-66884411",
+  "photo_sequence_ids": [
+    "66884237",
+    "66884274",
+    "66884344",
+    "66884460",
+    "66884411"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/29/66884237_6f5430c009_o.jpg",
+    "https://farm1.staticflickr.com/31/66884274_97a50df2fb_o.jpg",
+    "https://farm1.staticflickr.com/24/66884344_1c7adf0c96_o.jpg",
+    "https://farm1.staticflickr.com/34/66884460_fc2c7fc907_o.jpg",
+    "https://farm1.staticflickr.com/31/66884411_e9c94b8466_o.jpg"
+  ],
+  "auto_story_text_normalized": "the turkey was all set up to prepare the turkey . the turkey is ready to be cooked . the food was delicious and the food was delicious . after dinner , we played some games in the living room . everyone was having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "Tonight I cooked a turkey and some dessert for game night with friends. the food was delicious and the food was delicious . after dinner , we played some games in the living room . everyone had a good time .",
+      "normalized_edited_story_text_sent": [
+        "tonight i cooked a turkey and some dessert for game night with friends .",
+        "the food was delicious and the food was delicious .",
+        "after dinner , we played some games in the living room .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "the turkey was all set up and prepared . the turkey is ready to be cooked . the food was delicious and the food was hot . after dinner , we played some games in the living room . everyone had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the turkey was all set up and prepared .",
+        "the turkey is ready to be cooked .",
+        "the food was delicious and the food was hot .",
+        "after dinner , we played some games in the living room .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the turkey was all set up to be prepared . the turkey is ready to be cooked . the food was tasty and awesome. after dinner , we played some games in the living room . everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the turkey was all set up to be prepared .",
+        "the turkey is ready to be cooked .",
+        "the food was tasty and awesome .",
+        "after dinner , we played some games in the living room .",
+        "everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the turkey was good to all set up the turkey . the turkey is prepared to be cooked . the food was delightful and the food was delectable . after dinner , we played some games in the family room . everyone was having a decent time .",
+      "normalized_edited_story_text_sent": [
+        "the turkey was good to all set up the turkey .",
+        "the turkey is prepared to be cooked .",
+        "the food was delightful and the food was delectable .",
+        "after dinner , we played some games in the family room .",
+        "everyone was having a decent time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The turkey was sitting on top of the roaster, ready to be eaten. Everyone quickly ate the turkey, which was delicious. Dessert was even more delicious. After we had dinner, we played board games together in the living room. Everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the turkey was sitting on top of the roaster , ready to be eaten .",
+        "everyone quickly ate the turkey , which was delicious .",
+        "dessert was even more delicious .",
+        "after we had dinner , we played board games together in the living room .",
+        "everyone had a good time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1443082"
+}

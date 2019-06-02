@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "28088458-28088661-28088727-28088842-28088502",
+  "photo_sequence_ids": [
+    "28088458",
+    "28088661",
+    "28088727",
+    "28088842",
+    "28088502"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . they had a lot of fun decorations . they had lots of cool things to do . they even had a pinata . the dog was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The sofa is in old condition with dated orange and brown patterns.",
+      "normalized_edited_story_text_sent": [
+        "the sofa is in old condition with dated orange and brown patterns ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family got together for a giant party . they had a lot of fun decorations . they had lots of neat things to do . they even had a pinata . the dog was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a giant party .",
+        "they had a lot of fun decorations .",
+        "they had lots of neat things to do .",
+        "they even had a pinata .",
+        "the dog was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The antique chair had been in the family for years. It was grandmas favorite chair. It had many ornate designs and scenes all over it. It was a great chair.",
+      "normalized_edited_story_text_sent": [
+        "the antique chair had been in the family for years .",
+        "it was grandmas favorite chair .",
+        "it had many ornate designs and scenes all over it .",
+        "it was a great chair ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "A dog sat next to an old rustic loveseat . The seat had a lot of farm decorations . One cool decoration on the seat was a well. the dog was very happy to sit next to the seat .",
+      "normalized_edited_story_text_sent": [
+        "a dog sat next to an old rustic loveseat .",
+        "the seat had a lot of farm decorations .",
+        "one cool decoration on the seat was a well .",
+        "the dog was very happy to sit next to the seat ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My family got together for a party. We had a lot of fun decorations and lots of cool things to do. We even had a pinata. The dog was certainly very happy .",
+      "normalized_edited_story_text_sent": [
+        "my family got together for a party .",
+        "we had a lot of fun decorations and lots of cool things to do .",
+        "we even had a pinata .",
+        "the dog was certainly very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "634613",
+  "model": "GLAC"
+}

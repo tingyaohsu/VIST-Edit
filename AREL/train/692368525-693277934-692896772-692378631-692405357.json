@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "692368525-693277934-692896772-692378631-692405357",
+  "photo_sequence_ids": [
+    "692368525",
+    "693277934",
+    "692896772",
+    "692378631",
+    "692405357"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1404/692368525_687a325622_o.jpg",
+    "https://farm2.staticflickr.com/1101/693277934_c0d7d3f2ac_o.jpg",
+    "https://farm2.staticflickr.com/1025/692896772_a0b2c8d49a_o.jpg",
+    "https://farm2.staticflickr.com/1215/692378631_20853a2eef_o.jpg",
+    "https://farm2.staticflickr.com/1178/692405357_bf0f655cb6_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the farm today . my son really liked the bird . the trees were so beautiful . the scenery was beautiful and we had a great time . this is a picture of a farm .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We all went to the farm today. We saw animals, including a pretty butterfly. The trees were really pretty. The natural scenery was so nice. We had fun at the farm.",
+      "normalized_edited_story_text_sent": [
+        "we all went to the farm today .",
+        "we saw animals , including a pretty butterfly .",
+        "the trees were really pretty .",
+        "the natural scenery was so nice .",
+        "we had fun at the farm ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to the farm today . my son really liked the bird . the trees were so beautiful and we had a great time . this is a picture of a farm that I came across.",
+      "normalized_edited_story_text_sent": [
+        "we went to the farm today .",
+        "my son really liked the bird .",
+        "the trees were so beautiful and we had a great time .",
+        "this is a picture of a farm that i came across ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "we got to visit the farm today . my son really liked this bird . the trees were absolutely  beautiful . All of the scenery was beautiful and we had a great time . Here is a picture of the farm .",
+      "normalized_edited_story_text_sent": [
+        "we got to visit the farm today .",
+        "my son really liked this bird .",
+        "the trees were absolutely beautiful .",
+        "all of the scenery was beautiful and we had a great time .",
+        "here is a picture of the farm ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to the farm today . my son saw a cat and a butterfly . the trees were so beautiful . the scenery was beautiful and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went to the farm today .",
+        "my son saw a cat and a butterfly .",
+        "the trees were so beautiful .",
+        "the scenery was beautiful and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to the farm today! My son really liked the butterfly. The trees were so beautiful, and the scenery was beautiful. Here\u0027s a picture of the farm.",
+      "normalized_edited_story_text_sent": [
+        "we went to the farm today !",
+        "my son really liked the butterfly .",
+        "the trees were so beautiful , and the scenery was beautiful .",
+        "here \u0027s a picture of the farm ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600600643506"
+}

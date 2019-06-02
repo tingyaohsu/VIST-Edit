@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "496411664-496409902-496439853-496405800-496402482",
+  "photo_sequence_ids": [
+    "496411664",
+    "496409902",
+    "496439853",
+    "496405800",
+    "496402482"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were many interesting costumes . the floats were very colorful . the flowers were so beautiful . the horses were also a big hit .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade concluded with . there were many intriguing costumes . the floats were very colorful and flowery . afterwards, people when to the park to see beautiful flowers . the horses were also a big attention grabber .",
+      "normalized_edited_story_text_sent": [
+        "the parade concluded with .",
+        "there were many intriguing costumes .",
+        "the floats were very colorful and flowery .",
+        "afterwards , people when to the park to see beautiful flowers .",
+        "the horses were also a big attention grabber ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the park was a lot of fun . there were many interesting flowers blooming . the flowers were very colorful . the flowers were so beautiful . the people climbed the tree.",
+      "normalized_edited_story_text_sent": [
+        "the park was a lot of fun .",
+        "there were many interesting flowers blooming .",
+        "the flowers were very colorful .",
+        "the flowers were so beautiful .",
+        "the people climbed the tree ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the parade was a lot of fun . there were many interesting costumes . the flowers were so beautiful and the horses were also a big hit .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many interesting costumes .",
+        "the flowers were so beautiful and the horses were also a big hit ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the park was a lot of fun. the weather was perfect. a lot of people came out",
+      "normalized_edited_story_text_sent": [
+        "the park was a lot of fun .",
+        "the weather was perfect .",
+        "a lot of people came out"
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The lilacs are out in full bloom this wonderful spring day.  The arboretum has some great displays of this awesome flower.  The kids even got to climb a tree!!!",
+      "normalized_edited_story_text_sent": [
+        "the lilacs are out in full bloom this wonderful spring day .",
+        "the arboretum has some great displays of this awesome flower .",
+        "the kids even got to climb a tree !!!"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600210655682",
+  "model": "GLAC"
+}

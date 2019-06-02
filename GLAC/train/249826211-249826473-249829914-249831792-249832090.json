@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "249826211-249826473-249829914-249831792-249832090",
+  "photo_sequence_ids": [
+    "249826211",
+    "249826473",
+    "249829914",
+    "249831792",
+    "249832090"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the race was about to begin . the police were there to help the spectators . the crowd was very excited . the race was over and the winner was the final finish . the winner was the last one .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the race was about to begin . the police were there to help the spectators . the crowd was very excited . the race was over and the winner was the final finish . it was a closely contested race.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the police were there to help the spectators .",
+        "the crowd was very excited .",
+        "the race was over and the winner was the final finish .",
+        "it was a closely contested race ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the race was about to begin. the police were there to help the spectators . the crowd was very excited . the race was over and the winner was at the finish.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the police were there to help the spectators .",
+        "the crowd was very excited .",
+        "the race was over and the winner was at the finish ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the race was about to begin and the crowd was very excited, getting very close so they could see the cars in action . people stood around the curves behind cords so they could watch the cars kicking up dust and speeding down the hill. the race was over and the winner was the final finisher .",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin and the crowd was very excited , getting very close so they could see the cars in action .",
+        "people stood around the curves behind cords so they could watch the cars kicking up dust and speeding down the hill .",
+        "the race was over and the winner was the final finisher ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the race was about to begin right at noon . the police were there to help the spectators stay safe from the cars. the crowd was very excited that the ropes were close to the course . the race was over and the winner was the final finish which was in record time . the winner was the last one who didn\u0027t whip out.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin right at noon .",
+        "the police were there to help the spectators stay safe from the cars .",
+        "the crowd was very excited that the ropes were close to the course .",
+        "the race was over and the winner was the final finish which was in record time .",
+        "the winner was the last one who did n\u0027t whip out ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The race was about to begin. The police were there to help the spectators and the crowd was very excited.  The race was over and the winner was the first to finish.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the police were there to help the spectators and the crowd was very excited .",
+        "the race was over and the winner was the first to finish ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594295140238",
+  "model": "GLAC"
+}

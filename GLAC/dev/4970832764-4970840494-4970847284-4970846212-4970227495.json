@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4970832764-4970840494-4970847284-4970846212-4970227495",
+  "photo_sequence_ids": [
+    "4970832764",
+    "4970840494",
+    "4970847284",
+    "4970846212",
+    "4970227495"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the art gallery was full of interesting things . the artwork was amazing . the paintings were very detailed . the paintings were beautiful . the paintings were so intricate .",
+  "edited_stories": [
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the art gallery was full of interesting artworks . the artwork was amazing and well thought out . the paintings were very detailed and made you think about the meaning . the paintings were beautiful . the paintings were so intricate , the artists are very talented .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was full of interesting artworks .",
+        "the artwork was amazing and well thought out .",
+        "the paintings were very detailed and made you think about the meaning .",
+        "the paintings were beautiful .",
+        "the paintings were so intricate , the artists are very talented ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the art gallery was full of interesting things . the artwork was amazing . There were sketches of different things. There was also a globe.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was full of interesting things .",
+        "the artwork was amazing .",
+        "there were sketches of different things .",
+        "there was also a globe ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the art gallery was full of interesting things pictures and photos . the artwork was amazing and very unique for its type . the paintings were very detailed and drawn with pencil as well as craynon . the paintings were beautiful and amazing . the paintings were so intricate and well thought out.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was full of interesting things pictures and photos .",
+        "the artwork was amazing and very unique for its type .",
+        "the paintings were very detailed and drawn with pencil as well as craynon .",
+        "the paintings were beautiful and amazing .",
+        "the paintings were so intricate and well thought out ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the art gallery was full of interesting things . the artwork of the cat was amazing . the drawings were very detailed . the paintings were strange. the paintings were so intricate .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was full of interesting things .",
+        "the artwork of the cat was amazing .",
+        "the drawings were very detailed .",
+        "the paintings were strange .",
+        "the paintings were so intricate ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the art gallery was full of interesting things . the artwork had many drawings by kids . the paintings were very detailed . the paintings were beautiful . the showcase was worth attending .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was full of interesting things .",
+        "the artwork had many drawings by kids .",
+        "the paintings were very detailed .",
+        "the paintings were beautiful .",
+        "the showcase was worth attending ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624907734984",
+  "model": "GLAC"
+}

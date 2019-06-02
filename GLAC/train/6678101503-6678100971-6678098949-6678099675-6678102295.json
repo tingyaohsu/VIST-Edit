@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "6678101503-6678100971-6678098949-6678099675-6678102295",
+  "photo_sequence_ids": [
+    "6678101503",
+    "6678100971",
+    "6678098949",
+    "6678099675",
+    "6678102295"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were so excited to be at the party . they had a lot of fun and games . they played lots of games . they also had a great time . they even had a pinata !",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the kids were so excited to be at the party . they had a lot of fun and games . they played lots of games . they also had a great time . they even had a pinata !",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the kids were so excited to be at the party .",
+        "they had a lot of fun and games .",
+        "they played lots of games .",
+        "they also had a great time .",
+        "they even had a pinata !"
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the kids were so excited to be at the party . they had a lot of good food . the women worked all day on the refreshments . the party also had a boutique where participants could sell things . after the party, [female] took a rest .",
+      "normalized_edited_story_text_sent": [
+        "the kids were so excited to be at the party .",
+        "they had a lot of good food .",
+        "the women worked all day on the refreshments .",
+        "the party also had a boutique where participants could sell things .",
+        "after the party , [female] took a rest ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "The kids had a good time at the party. There were plenty of games available . they also had a great time . they even had a pinata !",
+      "normalized_edited_story_text_sent": [
+        "the kids had a good time at the party .",
+        "there were plenty of games available .",
+        "they also had a great time .",
+        "they even had a pinata !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "everyone was spending their day working.",
+      "normalized_edited_story_text_sent": [
+        "everyone was spending their day working ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were so excited to be at the party . there was a lot of shopping . they played lots of games . they also had a great time . they even had a pinata !",
+      "normalized_edited_story_text_sent": [
+        "the kids were so excited to be at the party .",
+        "there was a lot of shopping .",
+        "they played lots of games .",
+        "they also had a great time .",
+        "they even had a pinata !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628821312617",
+  "model": "GLAC"
+}

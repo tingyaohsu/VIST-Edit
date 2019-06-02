@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4307785441-4301630997-4302379940-4304582871-4302380500",
+  "photo_sequence_ids": [
+    "4307785441",
+    "4301630997",
+    "4302379940",
+    "4304582871",
+    "4302380500"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the race was about to begin . the crowd was anxious for the race . the race was underway . the winner was very happy . the man was running in the lead .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "The Zamboni cleared the ice before the race. Everyone was anxious as they prepared for the race. Underway the participants zoomed across the ice. The race winner was elated. This was the man who lead the race.",
+      "normalized_edited_story_text_sent": [
+        "the zamboni cleared the ice before the race .",
+        "everyone was anxious as they prepared for the race .",
+        "underway the participants zoomed across the ice .",
+        "the race winner was elated .",
+        "this was the man who lead the race ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "the game getting ready to start. the crowd was extremely excited for it to begin. the game finally started. the champion was overjoyed at his victory. we were all really happy to have witnessed it.",
+      "normalized_edited_story_text_sent": [
+        "the game getting ready to start .",
+        "the crowd was extremely excited for it to begin .",
+        "the game finally started .",
+        "the champion was overjoyed at his victory .",
+        "we were all really happy to have witnessed it ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the game was about to commence . the crowd shifted anxiously . the game was then underway . the winner was celebratory . a player ran happily after the lead was finalized .",
+      "normalized_edited_story_text_sent": [
+        "the game was about to commence .",
+        "the crowd shifted anxiously .",
+        "the game was then underway .",
+        "the winner was celebratory .",
+        "a player ran happily after the lead was finalized ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The ice was being prepared. They turned off the lights to introduce the team. The hockey game began. The goalie blocked a shot.",
+      "normalized_edited_story_text_sent": [
+        "the ice was being prepared .",
+        "they turned off the lights to introduce the team .",
+        "the hockey game began .",
+        "the goalie blocked a shot ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the game was about to begin . the crowd was anxious for the game . the game was underway . the man was very happy when he scored. the man was excited .",
+      "normalized_edited_story_text_sent": [
+        "the game was about to begin .",
+        "the crowd was anxious for the game .",
+        "the game was underway .",
+        "the man was very happy when he scored .",
+        "the man was excited ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623277682842",
+  "model": "GLAC"
+}

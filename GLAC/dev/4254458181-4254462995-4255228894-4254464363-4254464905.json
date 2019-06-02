@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4254458181-4254462995-4255228894-4254464363-4254464905",
+  "photo_sequence_ids": [
+    "4254458181",
+    "4254462995",
+    "4255228894",
+    "4254464363",
+    "4254464905"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of good food . some people had a great time . everyone was having a great time . the night was very relaxing .",
+  "edited_stories": [
+    {
+      "worker_id": "A30DFNV9FV487C",
+      "edited_story_text": "There was so many people at the party and lots of seafood. We at crablegs like it was french fries. I had to walk my drunk girlfriend home and then there was a party on the beach.",
+      "normalized_edited_story_text_sent": [
+        "there was so many people at the party and lots of seafood .",
+        "we at crablegs like it was french fries .",
+        "i had to walk my drunk girlfriend home and then there was a party on the beach ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . there were a lot of good food . some people had a great time . everyone was dancing . the night was very relaxing .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of good food .",
+        "some people had a great time .",
+        "everyone was dancing .",
+        "the night was very relaxing ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the party was a lot of fun . there were a lot of good sea food . all the people had a great time . everyone was having a great time . the night was very relaxing on the beach .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of good sea food .",
+        "all the people had a great time .",
+        "everyone was having a great time .",
+        "the night was very relaxing on the beach ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the party was a lot of fun. there was a ton of good food. everyone was having a great time. overall, the night was very relaxing.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there was a ton of good food .",
+        "everyone was having a great time .",
+        "overall , the night was very relaxing ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the party was a lot of fun . there were a lot of good food . some people drank too much.  kids were playing around at night.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of good food .",
+        "some people drank too much .",
+        "kids were playing around at night ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623162647704",
+  "model": "GLAC"
+}

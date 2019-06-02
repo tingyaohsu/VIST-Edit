@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "82713049-82713055-82714080-82714772-82715890",
+  "photo_sequence_ids": [
+    "82713049",
+    "82713055",
+    "82714080",
+    "82714772",
+    "82715890"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready for the wedding . the couple is walking down the aisle . the family is waiting to be married . the bride and groom pose with their parents . the bride and groom are dancing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bride and groom are preparing for the wedding . the couple is going down the aisle . the family awaits the exchange of vows . the bride and groom pose for photos with their parents . the bride and groom dance in front of spectators .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are preparing for the wedding .",
+        "the couple is going down the aisle .",
+        "the family awaits the exchange of vows .",
+        "the bride and groom pose for photos with their parents .",
+        "the bride and groom dance in front of spectators ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bride and groom are getting ready for the wedding . The family waited for the ceremony. Everyone posed for pictures. The bride and groom danced.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the family waited for the ceremony .",
+        "everyone posed for pictures .",
+        "the bride and groom danced ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bride and groom are getting ready for the wedding . the couple is walking down the aisle .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the couple is walking down the aisle ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Amanda and Jason are getting ready for their wedding . the couple is walking down the aisle and smiling at everyone who came . the family is waiting to see Amanda and Jason get married . Amanda and Jason pose with their parents and their other relatives . Amanda and Jason finally get to dance .",
+      "normalized_edited_story_text_sent": [
+        "amanda and jason are getting ready for their wedding .",
+        "the couple is walking down the aisle and smiling at everyone who came .",
+        "the family is waiting to see amanda and jason get married .",
+        "amanda and jason pose with their parents and their other relatives .",
+        "amanda and jason finally get to dance ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the bride and groom are getting ready for the wedding . the couple is walking down the aisle . the family is waiting to be married . the bride and groom pose with their parents . the bride and groom are dancing .\r\rBoth the bride and groom are prepping themselves for their wedding. The coupled looked so good walking down the aisle! Both families had been waiting to be joined in marriage. The bride and the groom wanted to get pictures with their parents. They newlyweds also danced to their favorite song.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the couple is walking down the aisle .",
+        "the family is waiting to be married .",
+        "the bride and groom pose with their parents .",
+        "the bride and groom are dancing .",
+        "both the bride and groom are prepping themselves for their wedding .",
+        "the coupled looked so good walking down the aisle !",
+        "both families had been waiting to be joined in marriage .",
+        "the bride and the groom wanted to get pictures with their parents .",
+        "they newlyweds also danced to their favorite song ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1767427",
+  "model": "GLAC"
+}

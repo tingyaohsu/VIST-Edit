@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "39459416-39459617-40364150-40741245-40741268",
+  "photo_sequence_ids": [
+    "39459416",
+    "39459617",
+    "40364150",
+    "40741245",
+    "40741268"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/30/39459416_c5b0f470f2_o.jpg",
+    "https://farm1.staticflickr.com/27/39459617_bf0201fa50_o.jpg",
+    "https://farm1.staticflickr.com/22/40364150_6d54823832.jpg",
+    "https://farm1.staticflickr.com/23/40741245_875eecd876.jpg",
+    "https://farm1.staticflickr.com/28/40741268_f86f1957d0_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park today . i decided to take a ride on the ferris wheel . this is a picture of a sign . there were so many rides . there were so many different kinds of plants .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to the amusement park. I passed a long train. I decided to take a ride on the roller coaster. There were also some neat plants there. It was a fun day..",
+      "normalized_edited_story_text_sent": [
+        "i went to the amusement park .",
+        "i passed a long train .",
+        "i decided to take a ride on the roller coaster .",
+        "there were also some neat plants there .",
+        "it was a fun day .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the park today. I decided to take a ride on the Ferris wheel. Here\u0027s a picture of the sign. There were so many rules! There were so many different kinds of plants there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park today .",
+        "i decided to take a ride on the ferris wheel .",
+        "here \u0027s a picture of the sign .",
+        "there were so many rules !",
+        "there were so many different kinds of plants there ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i saw a train on the way to the amusement park today . i decided to take a ride on the roller coaster . this is a picture of a sign . there were so many rides . there were so many different kinds of plants .",
+      "normalized_edited_story_text_sent": [
+        "i saw a train on the way to the amusement park today .",
+        "i decided to take a ride on the roller coaster .",
+        "this is a picture of a sign .",
+        "there were so many rides .",
+        "there were so many different kinds of plants ."
+      ]
+    },
+    {
+      "worker_id": "ADAKTHXLJRCI7",
+      "edited_story_text": "I passed a train when I went to the park today . I decided to take a ride on the ferris wheel . There was a sign near it with a lot of warnings and safety precautions . There were so many rides under umbrella tops. There were so many different kinds of plants with colorful leaves.",
+      "normalized_edited_story_text_sent": [
+        "i passed a train when i went to the park today .",
+        "i decided to take a ride on the ferris wheel .",
+        "there was a sign near it with a lot of warnings and safety precautions .",
+        "there were so many rides under umbrella tops .",
+        "there were so many different kinds of plants with colorful leaves ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to the park today and i saw a train on the way . i decided to take a ride on the roller coaster . this is a picture of a sign . there were so many rides . there were also so many different kinds of plants .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park today and i saw a train on the way .",
+        "i decided to take a ride on the roller coaster .",
+        "this is a picture of a sign .",
+        "there were so many rides .",
+        "there were also so many different kinds of plants ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "868353"
+}

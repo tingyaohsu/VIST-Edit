@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4725948651-4725949925-4726600016-4725945673-4726595156",
+  "photo_sequence_ids": [
+    "4725948651",
+    "4725949925",
+    "4726600016",
+    "4725945673",
+    "4726595156"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . they had a lot of fun . they saw lots of different things . they even had a snake . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family went to the park. they looked at fresh vegetables . they saw lots of different vegetables . they picked them from the garden. the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park .",
+        "they looked at fresh vegetables .",
+        "they saw lots of different vegetables .",
+        "they picked them from the garden .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family went to the farmers market . they had a lot of fun . they got fresh produce  . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farmers market .",
+        "they had a lot of fun .",
+        "they got fresh produce .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "My family went to the zoo on Saturday . my kids had a lot of fun looking at the animals . they saw lots of different things and many animals . they even held a snake . the food we had for lunch was delicious .",
+      "normalized_edited_story_text_sent": [
+        "my family went to the zoo on saturday .",
+        "my kids had a lot of fun looking at the animals .",
+        "they saw lots of different things and many animals .",
+        "they even held a snake .",
+        "the food we had for lunch was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the family went to the zoo . they had a lot of fun . they saw lots of different things . they even had a snake . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the family went to the zoo .",
+        "they had a lot of fun .",
+        "they saw lots of different things .",
+        "they even had a snake .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went to the farmer\u0027s market . they thought it was fun . they saw lots of different vegetables . they even saw a snake . the food they bought was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farmer \u0027s market .",
+        "they thought it was fun .",
+        "they saw lots of different vegetables .",
+        "they even saw a snake .",
+        "the food they bought was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624337173194",
+  "model": "GLAC"
+}

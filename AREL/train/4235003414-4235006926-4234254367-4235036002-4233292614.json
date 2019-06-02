@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4235003414-4235006926-4234254367-4235036002-4233292614",
+  "photo_sequence_ids": [
+    "4235003414",
+    "4235006926",
+    "4234254367",
+    "4235036002",
+    "4233292614"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2604/4235003414_5d5d2fcda9_o.jpg",
+    "https://farm3.staticflickr.com/2650/4235006926_23b0ebd47f_o.jpg",
+    "https://farm3.staticflickr.com/2594/4234254367_439c48f320_o.jpg",
+    "https://farm5.staticflickr.com/4023/4235036002_881c7f1433_o.jpg",
+    "https://farm5.staticflickr.com/4015/4233292614_134612571b_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to my friend \u0027s house yesterday . i \u0027m not sure what to expect . we had a lot of food to eat . [male] was having a good time . the cat was very happy to be at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "AZSB87DCJL4QB",
+      "edited_story_text": "I went to my friend\u0027s house yesterday . I wasn\u0027t sure what to expect. We had a lot of food to eat. [John] was having a good time. The cat was very happy to be at the party.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday .",
+        "i was n\u0027t sure what to expect .",
+        "we had a lot of food to eat .",
+        "[male] was having a good time .",
+        "the cat was very happy to be at the party ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to my friend \u0027s house yesterday for her party. we had a lot of food to eat . [male] was having a good time, so i took his picture. the cat was very happy to be at the party because he was getting lots of attention.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday for her party .",
+        "we had a lot of food to eat .",
+        "[male] was having a good time , so i took his picture .",
+        "the cat was very happy to be at the party because he was getting lots of attention ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to my friend \u0027s house yesterday . i \u0027m not sure what to expect and we had a lot of food to eat . [male] was having a good time . the cat was very happy to be at the party .",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday .",
+        "i \u0027m not sure what to expect and we had a lot of food to eat .",
+        "[male] was having a good time .",
+        "the cat was very happy to be at the party ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to my friend\u0027s house to record with my band yesterday. I wasn\u0027t sure what to expect during the recording session. The studio was set up in his house. During our break we got something to drink. I met my friend\u0027s cat and pet it.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house to record with my band yesterday .",
+        "i was n\u0027t sure what to expect during the recording session .",
+        "the studio was set up in his house .",
+        "during our break we got something to drink .",
+        "i met my friend \u0027s cat and pet it ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "I went to my friend\u0027s house yesterday. I was not sure what to expect. \rWe had a lot of food to eat, and John was having a good time. The cat was very happy to be at the party .",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday .",
+        "i was not sure what to expect .",
+        "we had a lot of food to eat , and john was having a good time .",
+        "the cat was very happy to be at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622991071411"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4594101811-4594715218-4594103489-4594714102-4594102391",
+  "photo_sequence_ids": [
+    "4594101811",
+    "4594715218",
+    "4594103489",
+    "4594714102",
+    "4594102391"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to graduate . they were all so proud of their accomplishments . the graduates were very happy . the family was there for a long time . the graduates were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the soldiers were excited to graduate . they were all so proud of their accomplishments . they were very nervous about the discussion . the family was there for a long time . the graduates were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were excited to graduate .",
+        "they were all so proud of their accomplishments .",
+        "they were very nervous about the discussion .",
+        "the family was there for a long time .",
+        "the graduates were very proud ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "maria and lisa were glad the students were excited to graduate . they were all so proud of their accomplishments . the graduates were very happy . the family was there for a long time . the graduates were very proud .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the students were excited to graduate .",
+        "they were all so proud of their accomplishments .",
+        "the graduates were very happy .",
+        "the family was there for a long time .",
+        "the graduates were very proud ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The students were all very excited and happy to graduate, and were so proud of their accomplishments. The families were also there for a while, too.",
+      "normalized_edited_story_text_sent": [
+        "the students were all very excited and happy to graduate , and were so proud of their accomplishments .",
+        "the families were also there for a while , too ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the students were excited to graduate from the military academy . they were all so proud of their accomplishments and hard work. the graduates were very happy that they got to see their family as well as their friends. the family was there for a long time and spent the night. the graduates were very proud of each other .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate from the military academy .",
+        "they were all so proud of their accomplishments and hard work .",
+        "the graduates were very happy that they got to see their family as well as their friends .",
+        "the family was there for a long time and spent the night .",
+        "the graduates were very proud of each other ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the student soldiers were excited to graduate . they were all so proud of their accomplishments at bootcamp . the graduates were very happy to have their families attend. the family sat in the bleachers for a long time . the graduates were very proud of their base.",
+      "normalized_edited_story_text_sent": [
+        "the student soldiers were excited to graduate .",
+        "they were all so proud of their accomplishments at bootcamp .",
+        "the graduates were very happy to have their families attend .",
+        "the family sat in the bleachers for a long time .",
+        "the graduates were very proud of their base ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624030292358",
+  "model": "GLAC"
+}

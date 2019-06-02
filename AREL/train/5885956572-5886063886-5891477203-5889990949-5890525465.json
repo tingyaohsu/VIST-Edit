@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5885956572-5886063886-5891477203-5889990949-5890525465",
+  "photo_sequence_ids": [
+    "5885956572",
+    "5886063886",
+    "5891477203",
+    "5889990949",
+    "5890525465"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5223/5885956572_ab636d0bb6_o.jpg",
+    "https://farm6.staticflickr.com/5183/5886063886_37aa54aeaa_o.jpg",
+    "https://farm6.staticflickr.com/5119/5891477203_f55aa66d8b_o.jpg",
+    "https://farm6.staticflickr.com/5316/5889990949_53816e61ab_o.jpg",
+    "https://farm6.staticflickr.com/5062/5890525465_83d49ff189_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach yesterday . the men and women are standing in front of the building . the boat was a sight to behold . we had a great time there . then there were the most popular boats in the beach .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the beach yesterday . the men and women are standing in front of the building . the boat was a sight to behold . we had a great time there . then there were the most popular boats in the beach  It was great",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "the men and women are standing in front of the building .",
+        "the boat was a sight to behold .",
+        "we had a great time there .",
+        "then there were the most popular boats in the beach it was great"
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to the beach yesterday . these men and women are standing in front of the building . the boat was a sight to behold . we had a great time there . these were the most popular boats in the beach .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "these men and women are standing in front of the building .",
+        "the boat was a sight to behold .",
+        "we had a great time there .",
+        "these were the most popular boats in the beach ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the bay yesterday . the men and women are standing on the ship. the boat was a sight to behold . we had a great time there . then there were the most popular big boats in the bay .",
+      "normalized_edited_story_text_sent": [
+        "i went to the bay yesterday .",
+        "the men and women are standing on the ship .",
+        "the boat was a sight to behold .",
+        "we had a great time there .",
+        "then there were the most popular big boats in the bay ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the beach yesterday. Here are some people standing in the boat. The boat was a sight to behold! We had a great time here. These are some of the most popular boats at the beach.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "here are some people standing in the boat .",
+        "the boat was a sight to behold !",
+        "we had a great time here .",
+        "these are some of the most popular boats at the beach ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "i went to the coast guard memorial yesterday . Members in uniform were there to answer any questions and take photos . the boat was a sight to behold . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the coast guard memorial yesterday .",
+        "members in uniform were there to answer any questions and take photos .",
+        "the boat was a sight to behold .",
+        "we had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626958486375"
+}

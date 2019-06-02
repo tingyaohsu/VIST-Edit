@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "348043918-348044130-348044325-348045105-348045224",
+  "photo_sequence_ids": [
+    "348043918",
+    "348044130",
+    "348044325",
+    "348045105",
+    "348045224"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/144/348043918_ed76a4e0fc_o.jpg",
+    "https://farm1.staticflickr.com/161/348044130_ebe16e7423_o.jpg",
+    "https://farm1.staticflickr.com/134/348044325_9c5e4cfc02_o.jpg",
+    "https://farm1.staticflickr.com/134/348045105_7cb91870bc_o.jpg",
+    "https://farm1.staticflickr.com/163/348045224_e48fec96bb_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the restaurant today . there were a lot of food there . the food was delicious . and , there was no one else there . after a long day , we decided to go home .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i had a great time at the restaurant today . there was a lot of food there, and it was delicious.  we seemed to be the only people there, but we still enjoyed it.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the restaurant today .",
+        "there was a lot of food there , and it was delicious .",
+        "we seemed to be the only people there , but we still enjoyed it ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the restaurant. They had a lot of food, it was delicious, and there was no one else there. After a long day, we decided to go home.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the restaurant .",
+        "they had a lot of food , it was delicious , and there was no one else there .",
+        "after a long day , we decided to go home ."
+      ]
+    },
+    {
+      "worker_id": "A3IDBFPW2T9P5D",
+      "edited_story_text": "I had a great time at the restaurant today. There was a lot of food there. The food was delicious, and I cleaned my plate. There was no one else there. After a long day, we decided to go home.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the restaurant today .",
+        "there was a lot of food there .",
+        "the food was delicious , and i cleaned my plate .",
+        "there was no one else there .",
+        "after a long day , we decided to go home ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "I had an amazing time at lunch today! There were so many different dishes to choose from! All the food was insanely delicious and there was no one else there, so we had it all to ourselves!  After a long day like that, we decided to go home before our buttons popped.",
+      "normalized_edited_story_text_sent": [
+        "i had an amazing time at lunch today !",
+        "there were so many different dishes to choose from !",
+        "all the food was insanely delicious and there was no one else there , so we had it all to ourselves !",
+        "after a long day like that , we decided to go home before our buttons popped ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I had a great time at the restaurant today, there was a lot of delicious food there. We were the only ones there, and after eating, we went home.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the restaurant today , there was a lot of delicious food there .",
+        "we were the only ones there , and after eating , we went home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594463433934"
+}

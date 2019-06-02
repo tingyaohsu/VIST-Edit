@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "11301909-11252935-11251358-11250886-11249989",
+  "photo_sequence_ids": [
+    "11301909",
+    "11252935",
+    "11251358",
+    "11250886",
+    "11249989"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/7/11301909_a8bc22b20f_o.jpg",
+    "https://farm1.staticflickr.com/10/11252935_bc4a4ca030_o.jpg",
+    "https://farm1.staticflickr.com/6/11251358_d4cd37bbb6_o.jpg",
+    "https://farm1.staticflickr.com/7/11250886_0f4a62b3ee_o.jpg",
+    "https://farm1.staticflickr.com/10/11249989_885c8a9dab_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a great day to go to the local church . the room was empty . there was a lot of work to do . we had a great time there . it was a beautiful day and we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "It was a great day to go to the local church, the room was empty and there was a lot of work to do. It was a beautiful day and we had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day to go to the local church , the room was empty and there was a lot of work to do .",
+        "it was a beautiful day and we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "What a day to go to the local churchchurch, it was empty, but there was a lot of work to do. We had a great time there, it was a beautiful day and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "what a day to go to the local churchchurch , it was empty , but there was a lot of work to do .",
+        "we had a great time there , it was a beautiful day and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was a great day to go to the local church . the room was empty . there was a lot of work to do and we had a great time there . it was a beautiful day and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day to go to the local church .",
+        "the room was empty .",
+        "there was a lot of work to do and we had a great time there .",
+        "it was a beautiful day and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "it was a great day to go to the local church for a community event. the big room was empty when we got there. we had a lot of work to do setting everything up for the people who came. it was beautiful outside, and everyone ended up having a great time.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day to go to the local church for a community event .",
+        "the big room was empty when we got there .",
+        "we had a lot of work to do setting everything up for the people who came .",
+        "it was beautiful outside , and everyone ended up having a great time ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "it was a great day to go to the local church . the room was empty, we had a lot to do to get it ready.  the property around the church also needed work, but the grass at least was in good shape!",
+      "normalized_edited_story_text_sent": [
+        "it was a great day to go to the local church .",
+        "the room was empty , we had a lot to do to get it ready .",
+        "the property around the church also needed work , but the grass at least was in good shape !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "292343"
+}

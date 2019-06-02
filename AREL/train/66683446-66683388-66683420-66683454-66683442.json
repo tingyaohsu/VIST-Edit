@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "66683446-66683388-66683420-66683454-66683442",
+  "photo_sequence_ids": [
+    "66683446",
+    "66683388",
+    "66683420",
+    "66683454",
+    "66683442"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/35/66683446_f045935756_o.jpg",
+    "https://farm1.staticflickr.com/26/66683388_e6ef849204_o.jpg",
+    "https://farm1.staticflickr.com/26/66683420_ec81e5b94e_o.jpg",
+    "https://farm1.staticflickr.com/28/66683454_0dbd107c3a_o.jpg",
+    "https://farm1.staticflickr.com/32/66683442_9530934bfe_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last night . we had a lot of fun at the party . we had a lot of fun . he had a lot of fun playing with the kids . after a long day of work , he fell asleep on the couch .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I had a great time at the party last night. We had a lot of fun.  He had a lot of fun playing with the kids. The family ate a great meal but after a long day of work , he fell asleep on the couch .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "we had a lot of fun .",
+        "he had a lot of fun playing with the kids .",
+        "the family ate a great meal but after a long day of work , he fell asleep on the couch ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "she have a great time at the party last night . we have a lot of fun at the party . we have a lot of fun . we have a lot of fun playing with the him . after a long day of work , he fell asleep on the couch .",
+      "normalized_edited_story_text_sent": [
+        "she have a great time at the party last night .",
+        "we have a lot of fun at the party .",
+        "we have a lot of fun .",
+        "we have a lot of fun playing with the him .",
+        "after a long day of work , he fell asleep on the couch ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the party last night! We all had a lot of fun. [Male] had a lot of fun playing with the kids, but after a long day of work, he fell asleep on the couch.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night !",
+        "we all had a lot of fun .",
+        "[male] had a lot of fun playing with the kids , but after a long day of work , he fell asleep on the couch ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "i had a great time at the party last night . we all had a lot of fun  he had a lot of fun playing with the kids . after a long day of work , he fell asleep in the chair.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "we all had a lot of fun he had a lot of fun playing with the kids .",
+        "after a long day of work , he fell asleep in the chair ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i had a great time at the party last night . the dinner was a lot of fun . he had a lot of fun playing with the kids . after a long day , he fell asleep on the couch .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "the dinner was a lot of fun .",
+        "he had a lot of fun playing with the kids .",
+        "after a long day , he fell asleep on the couch ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1438619"
+}

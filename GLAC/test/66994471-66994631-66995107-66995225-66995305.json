@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "66994471-66994631-66995107-66995225-66995305",
+  "photo_sequence_ids": [
+    "66994471",
+    "66994631",
+    "66995107",
+    "66995225",
+    "66995305"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a dinner . the food was delicious . everyone was having a great time . the meal was delicious . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the whole family came to a dinner.  the food was really tasty.  the kids had a lot of fun.  in fact, everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the whole family came to a dinner .",
+        "the food was really tasty .",
+        "the kids had a lot of fun .",
+        "in fact , everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a dinner . the food was delicious . Everyone gathered around the table for the meal. Everyone enjoyed the dinner together.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a dinner .",
+        "the food was delicious .",
+        "everyone gathered around the table for the meal .",
+        "everyone enjoyed the dinner together ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "this weekend my family met up for dinner. we made delicious food. all my relatives had an amazing time. it was great to see my nieces and nephews. it was the best weekend ive had in a while.",
+      "normalized_edited_story_text_sent": [
+        "this weekend my family met up for dinner .",
+        "we made delicious food .",
+        "all my relatives had an amazing time .",
+        "it was great to see my nieces and nephews .",
+        "it was the best weekend ive had in a while ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a dinner . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a dinner .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the whole family got together for thanksgiving. the food was delicious! everyone had a lot of fun, and the kids played the entire time.",
+      "normalized_edited_story_text_sent": [
+        "the whole family got together for thanksgiving .",
+        "the food was delicious !",
+        "everyone had a lot of fun , and the kids played the entire time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1445664",
+  "model": "GLAC"
+}

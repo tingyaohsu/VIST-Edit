@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4411646952-4410882573-4411700340-4410946275-4411720288",
+  "photo_sequence_ids": [
+    "4411646952",
+    "4410882573",
+    "4411700340",
+    "4410946275",
+    "4411720288"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4054/4411646952_eaab434bda_o.jpg",
+    "https://farm5.staticflickr.com/4022/4410882573_56cb37ec46_o.jpg",
+    "https://farm5.staticflickr.com/4067/4411700340_2d6f99c607_o.jpg",
+    "https://farm5.staticflickr.com/4004/4410946275_193562383a_o.jpg",
+    "https://farm5.staticflickr.com/4030/4411720288_096e9b4108_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was [female] \u0027s birthday . we had a lot of fun . there were many people there . [male] and [male] were having a good time at the party . some of the friends were happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "it was [female] \u0027s birthday . we had a lot of fun . there were many people there . [male] and [male] were having a good time at the party . all of [female] \u0027s friends were happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s birthday .",
+        "we had a lot of fun .",
+        "there were many people there .",
+        "[male] and [male] were having a good time at the party .",
+        "all of [female] \u0027s friends were happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "it was [Nicole] \u0027s birthday . we had a lot of fun . there were many people there . [paul] and [rob] were having a good time at the party . some of the friends were happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s birthday .",
+        "we had a lot of fun .",
+        "there were many people there .",
+        "[male] and [male] were having a good time at the party .",
+        "some of the friends were happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "it was [female] \u0027s birthday she was excited for her party . we had a lot of fun catching up with friends. there were many people there for food drinks good stories and celebration. [male] and [male] were having a good time at the party they been friends since kindergarten. some of the friends were happy to be there enjoying company and all the food .",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s birthday she was excited for her party .",
+        "we had a lot of fun catching up with friends .",
+        "there were many people there for food drinks good stories and celebration .",
+        "[male] and [male] were having a good time at the party they been friends since kindergarten .",
+        "some of the friends were happy to be there enjoying company and all the food ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "It was [female]\u0027s birthday party. Everyone enjoyed themselves. A lot of people showed up. [male] and [male] sat and ate together at the party. Most everyone was happy to be at the birthday party.",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s birthday party .",
+        "everyone enjoyed themselves .",
+        "a lot of people showed up .",
+        "[male] and [male] sat and ate together at the party .",
+        "most everyone was happy to be at the birthday party ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We got together for a meal in the cafeteria. We dressed casual. The food was good. There was also wine. We kept talking when it was done.",
+      "normalized_edited_story_text_sent": [
+        "we got together for a meal in the cafeteria .",
+        "we dressed casual .",
+        "the food was good .",
+        "there was also wine .",
+        "we kept talking when it was done ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623441558787"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2645033056-2644213581-2645031732-2645034116-2644220573",
+  "photo_sequence_ids": [
+    "2645033056",
+    "2644213581",
+    "2645031732",
+    "2645034116",
+    "2644220573"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the birthday party . the kids were excited to see the baby . the boy was happy with his cake . he was so excited to be there . the little girl was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the family gathered for a picnic the kids were happy , the adults prepared food in the kitchen, the little girl was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a picnic the kids were happy , the adults prepared food in the kitchen , the little girl was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family gathered for the birthday party . the kids were excited to celebrate . the boy was happy with his cake . he was so excited it was his day . the little girl was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the kids were excited to celebrate .",
+        "the boy was happy with his cake .",
+        "he was so excited it was his day .",
+        "the little girl was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the family gathered for the birthday party . the kids were excited to see everyone . the boy was happy with his cake . he was so excited to be there . the kids were all having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the kids were excited to see everyone .",
+        "the boy was happy with his cake .",
+        "he was so excited to be there .",
+        "the kids were all having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The family got together for the birthday party. The kids were actually very excited to see the baby. And the birthday boy was happy with his cake. He was so excited to be there. Oh, and the little girl was having a great time, too!",
+      "normalized_edited_story_text_sent": [
+        "the family got together for the birthday party .",
+        "the kids were actually very excited to see the baby .",
+        "and the birthday boy was happy with his cake .",
+        "he was so excited to be there .",
+        "oh , and the little girl was having a great time , too !"
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family gathered for the birthday party . the kids were excited to see the young baby . the boy was joyous with his cake . he was so excited to be there . the little girl was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the kids were excited to see the young baby .",
+        "the boy was joyous with his cake .",
+        "he was so excited to be there .",
+        "the little girl was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606020232086",
+  "model": "GLAC"
+}

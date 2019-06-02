@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4700823945-2762840297-2763686018-4701380124-4701397532",
+  "photo_sequence_ids": [
+    "4700823945",
+    "2762840297",
+    "2763686018",
+    "4701380124",
+    "4701397532"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people there . some of them were very creative . i had a great time . the marching band was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the parade was a lot of fun . there were so many people there . some of them were very creative . i saw cool floats . the marching band was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people there .",
+        "some of them were very creative .",
+        "i saw cool floats .",
+        "the marching band was very good ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . there were so many people there . Everyone wore plaid jackets. They held a sign.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people there .",
+        "everyone wore plaid jackets .",
+        "they held a sign ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the parade was a lot of fun . there were so many people there . some of them were very creative and colorful. the marching band was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people there .",
+        "some of them were very creative and colorful .",
+        "the marching band was very good ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was plenty of fun . there were plenty of people marching . some of them got creative with costumes . i had a wonderful time . the marching band played on beat .",
+      "normalized_edited_story_text_sent": [
+        "the parade was plenty of fun .",
+        "there were plenty of people marching .",
+        "some of them got creative with costumes .",
+        "i had a wonderful time .",
+        "the marching band played on beat ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the Fourth Of July parade was a lot of fun . there were so many people and friends there . The float creators made all of them very creative . my family and i had a great time . the marching band was also very good .",
+      "normalized_edited_story_text_sent": [
+        "the fourth of july parade was a lot of fun .",
+        "there were so many people and friends there .",
+        "the float creators made all of them very creative .",
+        "my family and i had a great time .",
+        "the marching band was also very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606729818137",
+  "model": "GLAC"
+}

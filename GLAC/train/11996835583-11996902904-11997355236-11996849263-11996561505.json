@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "11996835583-11996902904-11997355236-11996849263-11996561505",
+  "photo_sequence_ids": [
+    "11996835583",
+    "11996902904",
+    "11997355236",
+    "11996849263",
+    "11996561505"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old church was a great place to visit . the statues were very interesting . the statues were amazing . the statue was beautiful . the statue was nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the statue was a great place to visit . the statues were very interesting . the statues were amazing . the statue was beautiful . the statue was nice .",
+      "normalized_edited_story_text_sent": [
+        "the statue was a great place to visit .",
+        "the statues were very interesting .",
+        "the statues were amazing .",
+        "the statue was beautiful .",
+        "the statue was nice ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The statue of Dr. Martin Luther King was a great place to visit. The statue was very interesting and beautiful.I liked that it is unfinished on the bottom",
+      "normalized_edited_story_text_sent": [
+        "the statue of dr. martin luther king was a great place to visit .",
+        "the statue was very interesting and beautiful.i liked that it is unfinished on the bottom"
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the old church was a great place to go to . the statues were very neat. the statues were great. the statue was beautiful . the statue was nice .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to go to .",
+        "the statues were very neat .",
+        "the statues were great .",
+        "the statue was beautiful .",
+        "the statue was nice ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the old church was a great place to visit . the statues were very interesting . some of them were amazing . this statue was beautiful . all the statues were nice .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the statues were very interesting .",
+        "some of them were amazing .",
+        "this statue was beautiful .",
+        "all the statues were nice ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The old church was a great place to visit and the statues were very interesting. The statues were amazing, the statue was beautiful and the statue was nice.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit and the statues were very interesting .",
+        "the statues were amazing , the statue was beautiful and the statue was nice ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157639865278703",
+  "model": "GLAC"
+}

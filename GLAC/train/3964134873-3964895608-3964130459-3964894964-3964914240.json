@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "3964134873-3964895608-3964130459-3964894964-3964914240",
+  "photo_sequence_ids": [
+    "3964134873",
+    "3964895608",
+    "3964130459",
+    "3964894964",
+    "3964914240"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the baby shower . the boy was happy to be there . the child was so happy . the kids played with the toys . the cake was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My family was excited for the baby shower. The boy was happy to be there. The young child was so happy. The kids played with toys. The cake was delicious.",
+      "normalized_edited_story_text_sent": [
+        "my family was excited for the baby shower .",
+        "the boy was happy to be there .",
+        "the young child was so happy .",
+        "the kids played with toys .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the family played foosball and ate yummy pie, the kids had a blast and loved the games.",
+      "normalized_edited_story_text_sent": [
+        "the family played foosball and ate yummy pie , the kids had a blast and loved the games ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited for the baby shower .The played games. The kids had fun. They ate pie.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the baby shower .",
+        "the played games .",
+        "the kids had fun .",
+        "they ate pie ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family was excited for my sister\u0027s baby shower . Her son was happy to be there . The child was so happy . My family\u0027s kids played with the toys . The cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "my family was excited for my sister \u0027s baby shower .",
+        "her son was happy to be there .",
+        "the child was so happy .",
+        "my family \u0027s kids played with the toys .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was excited for the baby shower . the boy was happy to be there . the family played games . the kids played with the toys . the cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the baby shower .",
+        "the boy was happy to be there .",
+        "the family played games .",
+        "the kids played with the toys .",
+        "the cake was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622352867975",
+  "model": "GLAC"
+}

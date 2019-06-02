@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4242363169-4243136776-4242364459-4243138084-4243138496",
+  "photo_sequence_ids": [
+    "4242363169",
+    "4243136776",
+    "4242364459",
+    "4243138084",
+    "4243138496"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the guitarist was very talented . the drummer was the best . the band played some great songs . the drummer was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my band is always best when they are playing music live. our talented drummer always keeps the beat. our lead guitarist is very talented. he is backed up by some of the best players in the business. we had a cool guest musician with us for this gig, which was an excellent addition.",
+      "normalized_edited_story_text_sent": [
+        "my band is always best when they are playing music live .",
+        "our talented drummer always keeps the beat .",
+        "our lead guitarist is very talented .",
+        "he is backed up by some of the best players in the business .",
+        "we had a cool guest musician with us for this gig , which was an excellent addition ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The band was playing music. They played some great songs. The guitarist was very talented, but the drummer was the best.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "they played some great songs .",
+        "the guitarist was very talented , but the drummer was the best ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the band was playing music . the drummer is very talented . the guitarist was the best . the band played some wonderful songs . the drummer was talented .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the drummer is very talented .",
+        "the guitarist was the best .",
+        "the band played some wonderful songs .",
+        "the drummer was talented ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the band was playing music . the guitarist was very talented . the drummer was the best . the band played some great songs . they were very entertaining.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the guitarist was very talented .",
+        "the drummer was the best .",
+        "the band played some great songs .",
+        "they were very entertaining ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the band was playing a gig . the guitarist was a virtuoso . the drummer was a maestro . the band played some great songs from their catalog . the drummer was the brightest star .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the guitarist was a virtuoso .",
+        "the drummer was a maestro .",
+        "the band played some great songs from their catalog .",
+        "the drummer was the brightest star ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623133202486",
+  "model": "GLAC"
+}

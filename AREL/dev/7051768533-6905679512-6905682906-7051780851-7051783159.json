@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "7051768533-6905679512-6905682906-7051780851-7051783159",
+  "photo_sequence_ids": [
+    "7051768533",
+    "6905679512",
+    "6905682906",
+    "7051780851",
+    "7051783159"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5240/7051768533_8688d41e25_o.jpg",
+    "https://farm6.staticflickr.com/5330/6905679512_51e0acf55b_o.jpg",
+    "https://farm8.staticflickr.com/7107/6905682906_ccd6c4a872_o.jpg",
+    "https://farm6.staticflickr.com/5240/7051780851_1555a9520c_o.jpg",
+    "https://farm8.staticflickr.com/7220/7051783159_be4c883d4a_o.jpg"
+  ],
+  "auto_story_text_normalized": "she was so happy to be celebrating her birthday . the food was delicious . she was so happy to be there . the restaurant was very nice . the party was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "AN2GMCKM5CLG8",
+      "edited_story_text": "[female] was so happy to be celebrating her birthday . the food was tasty . [female] was so happy to be there . the restaurant served wonderful food . everybody had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "[female] was so happy to be celebrating her birthday .",
+        "the food was tasty .",
+        "[female] was so happy to be there .",
+        "the restaurant served wonderful food .",
+        "everybody had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "She was so happy to be celebrating her birthday with friends. The food was delicious, the beer was refreshing. The restaurant was great.  The party was a success .",
+      "normalized_edited_story_text_sent": [
+        "she was so happy to be celebrating her birthday with friends .",
+        "the food was delicious , the beer was refreshing .",
+        "the restaurant was great .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "she was so happy to be celebrating her birthday . the food was delicious . she was so happy to be there . the restaurant was very nice and the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "she was so happy to be celebrating her birthday .",
+        "the food was delicious .",
+        "she was so happy to be there .",
+        "the restaurant was very nice and the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "she was so happy to be celebrating her birthday finally . the food was delicious that she tasted. she was so happy to be there with friends . the party was a success  for her and she couldn\u0027t wait until next year.",
+      "normalized_edited_story_text_sent": [
+        "she was so happy to be celebrating her birthday finally .",
+        "the food was delicious that she tasted .",
+        "she was so happy to be there with friends .",
+        "the party was a success for her and she could n\u0027t wait until next year ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "she was so cheerful to be celebrating her birthday . the food was delightful . she was so cheerful to be there . the restaurant was very nice . the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "she was so cheerful to be celebrating her birthday .",
+        "the food was delightful .",
+        "she was so cheerful to be there .",
+        "the restaurant was very nice .",
+        "the party was a success ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629391264564"
+}

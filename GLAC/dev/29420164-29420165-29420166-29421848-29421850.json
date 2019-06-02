@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "29420164-29420165-29420166-29421848-29421850",
+  "photo_sequence_ids": [
+    "29420164",
+    "29420165",
+    "29420166",
+    "29421848",
+    "29421850"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the day was very cloudy . the trees were covered in snow . the trees were covered in snow . the streets were empty . the sun was shining .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "it was fun skateboarding with my friend. we learned a few new tricks.",
+      "normalized_edited_story_text_sent": [
+        "it was fun skateboarding with my friend .",
+        "we learned a few new tricks ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Went to the park to skate, the day was sunny . we had a lot of fun, there were no people around. the sun was shining .",
+      "normalized_edited_story_text_sent": [
+        "went to the park to skate , the day was sunny .",
+        "we had a lot of fun , there were no people around .",
+        "the sun was shining ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The two boys were out skate boarding. They practiced tricks in a park with palm trees. They rode until the sun began to set. They had someone take pictures for a promotion they were doing.",
+      "normalized_edited_story_text_sent": [
+        "the two boys were out skate boarding .",
+        "they practiced tricks in a park with palm trees .",
+        "they rode until the sun began to set .",
+        "they had someone take pictures for a promotion they were doing ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the day was very cloudy . the trees were covered in cold snow . the trees were covered in snow . the streets were vacant. the sun was shining .",
+      "normalized_edited_story_text_sent": [
+        "the day was very cloudy .",
+        "the trees were covered in cold snow .",
+        "the trees were covered in snow .",
+        "the streets were vacant .",
+        "the sun was shining ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the day was very cloudy  . the boy jumped on his skateboard . the other boy flipped his skateboard . the first boy jumped steps on his skateboard . he jumped high against the sunset .",
+      "normalized_edited_story_text_sent": [
+        "the day was very cloudy .",
+        "the boy jumped on his skateboard .",
+        "the other boy flipped his skateboard .",
+        "the first boy jumped steps on his skateboard .",
+        "he jumped high against the sunset ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "665897",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "118261131-118263158-118265697-118268111-118269774",
+  "photo_sequence_ids": [
+    "118261131",
+    "118263158",
+    "118265697",
+    "118268111",
+    "118269774"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/44/118261131_e90f249c28_o.jpg",
+    "https://farm1.staticflickr.com/55/118263158_af5732f38a_o.jpg",
+    "https://farm1.staticflickr.com/45/118265697_a8a27e7c37_o.jpg",
+    "https://farm1.staticflickr.com/50/118268111_557b853f36_o.jpg",
+    "https://farm1.staticflickr.com/40/118269774_8709e86d6e_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a hike last weekend . there was a lot of snow on the road . we saw a lot of animals in the area . there was a lot of animals there . it was a great day for a walk .",
+  "edited_stories": [
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "We went on a hike last weekend. It snowed a ton. There was a lot of snow on the road as we were driving. As we hiked, we saw a lot of animals in the walking around.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hike last weekend .",
+        "it snowed a ton .",
+        "there was a lot of snow on the road as we were driving .",
+        "as we hiked , we saw a lot of animals in the walking around ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "My new girlfriend and I went on a hike last weekend unexpectly, there was a lot of snow on the road and we saw a bunch of animals!. We went past a farm, e was a lot animals there. It was a great dayand great walk .",
+      "normalized_edited_story_text_sent": [
+        "my new girlfriend and i went on a hike last weekend unexpectly , there was a lot of snow on the road and we saw a bunch of animals !",
+        ".",
+        "we went past a farm , e was a lot animals there .",
+        "it was a great dayand great walk ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "We went on a hike last weekend. There was a lot of snow on the road and a lot of animals in the area. It was a great day for a walk.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hike last weekend .",
+        "there was a lot of snow on the road and a lot of animals in the area .",
+        "it was a great day for a walk ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "we went for a walk around the farm . the trees had mostly lost all of their leaves . there was a cow relaxing on the hill . the goats were in their pen . it was a great day for a walk .",
+      "normalized_edited_story_text_sent": [
+        "we went for a walk around the farm .",
+        "the trees had mostly lost all of their leaves .",
+        "there was a cow relaxing on the hill .",
+        "the goats were in their pen .",
+        "it was a great day for a walk ."
+      ]
+    },
+    {
+      "worker_id": "A1VHFLDO4EPKT4",
+      "edited_story_text": "we went on a hike in the woods last weekend . the road was bare except for some leaves . we saw a cow on a hill . there were two goats in a stall . it was a great day for a walk .",
+      "normalized_edited_story_text_sent": [
+        "we went on a hike in the woods last weekend .",
+        "the road was bare except for some leaves .",
+        "we saw a cow on a hill .",
+        "there were two goats in a stall .",
+        "it was a great day for a walk ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594091145852"
+}

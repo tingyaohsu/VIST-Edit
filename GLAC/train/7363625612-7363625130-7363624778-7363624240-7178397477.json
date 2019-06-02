@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "7363625612-7363625130-7363624778-7363624240-7178397477",
+  "photo_sequence_ids": [
+    "7363625612",
+    "7363625130",
+    "7363624778",
+    "7363624240",
+    "7178397477"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very engaging . he was very proud of his work . he was very passionate . he had a great time . he was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the speaker was very engaging . he was very proud of his work .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging .",
+        "he was very proud of his work ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The new police cadets were welcomed to the staff.  We had some emotional guest speakers and they got their pins applied.",
+      "normalized_edited_story_text_sent": [
+        "the new police cadets were welcomed to the staff .",
+        "we had some emotional guest speakers and they got their pins applied ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The speaker was extremely proud of his work and it clearly showed during his speech. His passion was on a whole different level.  Engaging, captivating, and just having a great time smashing it.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was extremely proud of his work and it clearly showed during his speech .",
+        "his passion was on a whole different level .",
+        "engaging , captivating , and just having a great time smashing it ."
+      ]
+    },
+    {
+      "worker_id": "A1COPEOCGVLLZ2",
+      "edited_story_text": "The speaker was very engaging. He was very passionate, and proud of his work. He had a great time, and was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging .",
+        "he was very passionate , and proud of his work .",
+        "he had a great time , and was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very engaging with all the police . he was very proud of his work with this team . he was very passionate when talking to the officers. he had a great time with them at the academy . he was very happy with the final results .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging with all the police .",
+        "he was very proud of his work with this team .",
+        "he was very passionate when talking to the officers .",
+        "he had a great time with them at the academy .",
+        "he was very happy with the final results ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630107880142",
+  "model": "GLAC"
+}

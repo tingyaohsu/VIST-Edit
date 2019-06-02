@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4389436257-4390204096-4390204132-4389436285-4389436249",
+  "photo_sequence_ids": [
+    "4389436257",
+    "4390204096",
+    "4390204132",
+    "4389436285",
+    "4389436249"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2726/4389436257_2bb8c88521_o.jpg",
+    "https://farm3.staticflickr.com/2747/4390204096_72329c68dd_o.jpg",
+    "https://farm5.staticflickr.com/4006/4390204132_87276a3fb4_o.jpg",
+    "https://farm5.staticflickr.com/4017/4389436285_fdbea58b2b_o.jpg",
+    "https://farm5.staticflickr.com/4052/4389436249_98a7e864cb_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the meeting yesterday . the man is giving a speech to the audience . he was very happy to be there . the speaker gave a speech . after a long day of work , he decided to take a break .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a meeting yesterday where a man was very happy to be there giving a speech .",
+      "normalized_edited_story_text_sent": [
+        "i went to a meeting yesterday where a man was very happy to be there giving a speech ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I attended a business meeting yesterday. The owner of the company spent a lot of time going over sales figures and trying to motivate us to work harder. Afterwards, my boss dismissed us.",
+      "normalized_edited_story_text_sent": [
+        "i attended a business meeting yesterday .",
+        "the owner of the company spent a lot of time going over sales figures and trying to motivate us to work harder .",
+        "afterwards , my boss dismissed us ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the meeting yesterday.  The speakers gave speeches.  It was very good.  I really enjoyed learning new things.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "the speakers gave speeches .",
+        "it was very good .",
+        "i really enjoyed learning new things ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the meeting yesterday . the man is giving a speech to the audience . he was very happy to be there . the speaker gave a speech . after a long day of work , he decided to end the meeting early.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "the man is giving a speech to the audience .",
+        "he was very happy to be there .",
+        "the speaker gave a speech .",
+        "after a long day of work , he decided to end the meeting early ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the meeting yesterday . the man is giving a speech to the audience . he was very happy to be there . The speaker did a good job. . after a long day of work , he decided to take a break .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "the man is giving a speech to the audience .",
+        "he was very happy to be there .",
+        "the speaker did a good job .",
+        ".",
+        "after a long day of work , he decided to take a break ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623513338444"
+}

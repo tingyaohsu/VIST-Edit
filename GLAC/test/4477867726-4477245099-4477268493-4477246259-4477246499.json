@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4477867726-4477245099-4477268493-4477246259-4477246499",
+  "photo_sequence_ids": [
+    "4477867726",
+    "4477245099",
+    "4477268493",
+    "4477246259",
+    "4477246499"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he was a bit nervous . he had to ask questions . he was a little confused . he was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "The speaker we met was quite intelligent. but he was nervous in front of the group. There was also a Q\u0026A section. One of the speakers was a bit confused though. This group of speakers were the best though.",
+      "normalized_edited_story_text_sent": [
+        "the speaker we met was quite intelligent .",
+        "but he was nervous in front of the group .",
+        "there was also a q \u0026 a section .",
+        "one of the speakers was a bit confused though .",
+        "this group of speakers were the best though ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Everyone enjoyed the conference and it inspired the entire sales team.",
+      "normalized_edited_story_text_sent": [
+        "everyone enjoyed the conference and it inspired the entire sales team ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very knowledgeable about the schools . he was a bit nervous about speaking to the group . he had to ask questions to remember some of the information . he was a little confused when no one clapped . he was the best speaker they could find.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable about the schools .",
+        "he was a bit nervous about speaking to the group .",
+        "he had to ask questions to remember some of the information .",
+        "he was a little confused when no one clapped .",
+        "he was the best speaker they could find ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker shared his extensive knowledge . he was a bit nervous to begin the talk . he had to ask some clarifying questions . he was a little confused during that time . he was at his best later in the speech .",
+      "normalized_edited_story_text_sent": [
+        "the speaker shared his extensive knowledge .",
+        "he was a bit nervous to begin the talk .",
+        "he had to ask some clarifying questions .",
+        "he was a little confused during that time .",
+        "he was at his best later in the speech ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "Mary was excited to receive the award. The speaker was very knowledgeable. The employees were proud of their presentation at their booth. The speaker continued with his speech. The staff gathered for a group photo.",
+      "normalized_edited_story_text_sent": [
+        "[female] was excited to receive the award .",
+        "the speaker was very knowledgeable .",
+        "the employees were proud of their presentation at their booth .",
+        "the speaker continued with his speech .",
+        "the staff gathered for a group photo ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623613552907",
+  "model": "GLAC"
+}

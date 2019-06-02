@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "3391020018-3396002740-3396002698-3395989942-3395969090",
+  "photo_sequence_ids": [
+    "3391020018",
+    "3396002740",
+    "3396002698",
+    "3395989942",
+    "3395969090"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3451/3391020018_3d741e9f67_o.jpg",
+    "https://farm4.staticflickr.com/3556/3396002740_2f65620708_o.jpg",
+    "https://farm4.staticflickr.com/3458/3396002698_be01a68b47_o.jpg",
+    "https://farm4.staticflickr.com/3449/3395989942_9b4a7f7774_o.jpg",
+    "https://farm4.staticflickr.com/3631/3395969090_00b71ccd20_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on a tour of the city . we saw many beautiful flowers . this is a picture of flowers . this is a picture of a lake . we went to the church to see the architecture .",
+  "edited_stories": [
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "I went on a tour of the city, and saw many beautiful flowers. This is a picture of a lake, with some of the flowers in the background. We also went to a local church here to see the architecture.",
+      "normalized_edited_story_text_sent": [
+        "i went on a tour of the city , and saw many beautiful flowers .",
+        "this is a picture of a lake , with some of the flowers in the background .",
+        "we also went to a local church here to see the architecture ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went on a tour of the city.  We saw many beautiful flowers along the way. The drive along the pictureous lake was so relaxing.  We went to an amazing church that has a beautiful architecture.",
+      "normalized_edited_story_text_sent": [
+        "i went on a tour of the city .",
+        "we saw many beautiful flowers along the way .",
+        "the drive along the pictureous lake was so relaxing .",
+        "we went to an amazing church that has a beautiful architecture ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went on a tour of the city with my friend. we saw many beautiful flowers that were in bloom, and i took pictures of them. we stopped by the lake to check out the view. then we went to a famous church to see the architecture.",
+      "normalized_edited_story_text_sent": [
+        "i went on a tour of the city with my friend .",
+        "we saw many beautiful flowers that were in bloom , and i took pictures of them .",
+        "we stopped by the lake to check out the view .",
+        "then we went to a famous church to see the architecture ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I went on a tour of the city. We saw many beautiful flowers in the park. We took a lot of pictures of flowers. We took a picture of lake, and it was beautiful. We went to the church to see the architecture of the building.",
+      "normalized_edited_story_text_sent": [
+        "i went on a tour of the city .",
+        "we saw many beautiful flowers in the park .",
+        "we took a lot of pictures of flowers .",
+        "we took a picture of lake , and it was beautiful .",
+        "we went to the church to see the architecture of the building ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went on a bus tour of the city . we saw many beautiful flowers . this is a picture of flowers . we drove by a lake . we went to the church to see the architecture .",
+      "normalized_edited_story_text_sent": [
+        "i went on a bus tour of the city .",
+        "we saw many beautiful flowers .",
+        "this is a picture of flowers .",
+        "we drove by a lake .",
+        "we went to the church to see the architecture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622888449176"
+}

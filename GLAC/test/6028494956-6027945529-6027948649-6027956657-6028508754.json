@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6028494956-6027945529-6027948649-6027956657-6028508754",
+  "photo_sequence_ids": [
+    "6028494956",
+    "6027945529",
+    "6027948649",
+    "6027956657",
+    "6028508754"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was a beautiful event . the bride and groom were very happy . they had a great time at the reception . the couple were so excited . the bride and groom were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "John and Lisa\u0027s wedding!  So beautiful!  The bride and groom had a great time as did all of us!",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] \u0027s wedding !",
+        "so beautiful !",
+        "the bride and groom had a great time as did all of us !"
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the musicians were tuning up their instruments. . the bride and groom looked amazing. the ceremony was beautiful. All of the guests enjoyed the reception. The bride and groom looked so happy.",
+      "normalized_edited_story_text_sent": [
+        "the musicians were tuning up their instruments .",
+        "the bride and groom looked amazing .",
+        "the ceremony was beautiful .",
+        "all of the guests enjoyed the reception .",
+        "the bride and groom looked so happy ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The wedding was a truly beautiful outdoor event.  You could just tell how happy the bride and groom were.  Everyone had a great time at the reception.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a truly beautiful outdoor event .",
+        "you could just tell how happy the bride and groom were .",
+        "everyone had a great time at the reception ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the wedding was a beautiful event . the bride and groom were very happy . they had a great time at the reception . the couple were so excited . the bride and groom were very happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "they had a great time at the reception .",
+        "the couple were so excited .",
+        "the bride and groom were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy . they had a great time at the reception . the couple were so excited . the bride and groom were very happy .\r\rLisa\u0027s wedding was the most beautiful event. Both Lisa and John seemed so happy! Everyone was having a fantastic time at the reception. Lisa and john were so excited. They just seemed so happy and in love!",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "they had a great time at the reception .",
+        "the couple were so excited .",
+        "the bride and groom were very happy .",
+        "[female] \u0027s wedding was the most beautiful event .",
+        "both [female] and [male] seemed so happy !",
+        "everyone was having a fantastic time at the reception .",
+        "[female] and [male] were so excited .",
+        "they just seemed so happy and in love !"
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627275106773",
+  "model": "GLAC"
+}

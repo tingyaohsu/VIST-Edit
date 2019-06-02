@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "8333638083-8333646653-8334705680-8334706984-8333655991",
+  "photo_sequence_ids": [
+    "8333638083",
+    "8333646653",
+    "8334705680",
+    "8334706984",
+    "8333655991"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the guitarist was very talented . the drummer was getting ready to sing . the crowd was having a great time . the audience was really into it .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the band was playing indoors . the guitarist had skills . the drummer also sang . the crowd was very amused . the audience was really supportive .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing indoors .",
+        "the guitarist had skills .",
+        "the drummer also sang .",
+        "the crowd was very amused .",
+        "the audience was really supportive ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the friends were playing music . the couple both played guitars . the woman in the hat sang . the crowd was having a great time . they were all really into it .",
+      "normalized_edited_story_text_sent": [
+        "the friends were playing music .",
+        "the couple both played guitars .",
+        "the woman in the hat sang .",
+        "the crowd was having a great time .",
+        "they were all really into it ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was playing music . the guitarist was very talented . it was a great evening",
+      "normalized_edited_story_text_sent": [
+        "the family was playing music .",
+        "the guitarist was very talented .",
+        "it was a great evening"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the band was playing music . the guitarist was very talented . the drummer was getting ready to sing . the crowd was having a great time . the audience was really into it .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the band was playing music .",
+        "the guitarist was very talented .",
+        "the drummer was getting ready to sing .",
+        "the crowd was having a great time .",
+        "the audience was really into it ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The band was performing, and the guitarist was very talented. The drummer was getting ready to sing. The audience was having a great time and was was really into it .",
+      "normalized_edited_story_text_sent": [
+        "the band was performing , and the guitarist was very talented .",
+        "the drummer was getting ready to sing .",
+        "the audience was having a great time and was was really into it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632405596244",
+  "model": "GLAC"
+}

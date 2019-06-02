@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "80264991-80264993-80264995-80277381-80298962",
+  "photo_sequence_ids": [
+    "80264991",
+    "80264993",
+    "80264995",
+    "80277381",
+    "80298962"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/43/80264991_265ad8f598_o.jpg",
+    "https://farm1.staticflickr.com/41/80264993_a66922a8f5_o.jpg",
+    "https://farm1.staticflickr.com/38/80264995_fadf10d383_o.jpg",
+    "https://farm1.staticflickr.com/36/80277381_77c269d7bd_o.jpg",
+    "https://farm1.staticflickr.com/42/80298962_df2ba6083d_o.jpg"
+  ],
+  "auto_story_text_normalized": "the group of friends went out for a night out . there were a lot of people there . we had a great time at the party . we had a lot of fun at the party . the night ended with a beautiful view of the city .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The group of friends went out for a night out. There were a lot of people there. THEY had a great time at the party. THERE WAS A LOT OF DRINKING. The night ended with a beautiful view of the city.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends went out for a night out .",
+        "there were a lot of people there .",
+        "they had a great time at the party .",
+        "there was a lot of drinking .",
+        "the night ended with a beautiful view of the city ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "My friends and I went out on the town. It was really crowded and everyone was drinking. At the end of the night we climbed on top of a building and got a beautiful view of the city.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went out on the town .",
+        "it was really crowded and everyone was drinking .",
+        "at the end of the night we climbed on top of a building and got a beautiful view of the city ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "My group of friends went out for the night! There were a lot of people there, and we all had a great time at the party. The night ended with a beautiful view of the city.",
+      "normalized_edited_story_text_sent": [
+        "my group of friends went out for the night !",
+        "there were a lot of people there , and we all had a great time at the party .",
+        "the night ended with a beautiful view of the city ."
+      ]
+    },
+    {
+      "worker_id": "A2OATZCX1YXE77",
+      "edited_story_text": "the group of friends went out for a cold night in the city. there were a lot of people at the bar partying and having fun. we had a great time drinking and taking pictures. the night ended with a beautiful view of the city skyline.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends went out for a cold night in the city .",
+        "there were a lot of people at the bar partying and having fun .",
+        "we had a great time drinking and taking pictures .",
+        "the night ended with a beautiful view of the city skyline ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The group of friends hung out drinking and smoking cigars. There were a lot of people there.  It was a great time and fun to spend time with good friends.  We were outside and had a great view of the city.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends hung out drinking and smoking cigars .",
+        "there were a lot of people there .",
+        "it was a great time and fun to spend time with good friends .",
+        "we were outside and had a great view of the city ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1718007"
+}

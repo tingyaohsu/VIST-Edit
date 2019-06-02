@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "128200732-128200663-128205365-128205421-128205462",
+  "photo_sequence_ids": [
+    "128200732",
+    "128200663",
+    "128205365",
+    "128205421",
+    "128205462"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/56/128200732_1948b11d35_o.jpg",
+    "https://farm1.staticflickr.com/47/128200663_954f848698_o.jpg",
+    "https://farm1.staticflickr.com/52/128205365_98c4c11740_o.jpg",
+    "https://farm1.staticflickr.com/53/128205421_ce1b2673f3_o.jpg",
+    "https://farm1.staticflickr.com/55/128205462_2082836df8_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to a halloween party . in the middle of the party , the guy was dressed up and ready for the party . this guy was dressed as a pirate . we had a lot of fun dancing . and this is a picture of a woman .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to a Halloween party.  In the middle of the room, this guy was dressing up like a scarecrow and just stood there.  There were clowns and Disco guy there as well.  There\u0027s a picture of a woman that we don\u0027t knowm what she dressed up as.",
+      "normalized_edited_story_text_sent": [
+        "we went to a halloween party .",
+        "in the middle of the room , this guy was dressing up like a scarecrow and just stood there .",
+        "there were clowns and disco guy there as well .",
+        "there \u0027s a picture of a woman that we do n\u0027t knowm what she dressed up as ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "We went to a halloween party, in middle of the party , this guy was dressed up and all ready to party. This guy was crazy and  dressed as a pirate. We had a lot of fun dancing  with the women .",
+      "normalized_edited_story_text_sent": [
+        "we went to a halloween party , in middle of the party , this guy was dressed up and all ready to party .",
+        "this guy was crazy and dressed as a pirate .",
+        "we had a lot of fun dancing with the women ."
+      ]
+    },
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "We went to a Halloween party. This guy was dressed up as a pirate. This is a picture of a random woman; we were all dancing and having fun!",
+      "normalized_edited_story_text_sent": [
+        "we went to a halloween party .",
+        "this guy was dressed up as a pirate .",
+        "this is a picture of a random woman ; we were all dancing and having fun !"
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to a Halloween party. This is the middle of the party, a guy was dressed up and ready for the party. This guy was dressed as a pirate! We had a lot of fun dancing. Here is another woman who was at the party.",
+      "normalized_edited_story_text_sent": [
+        "we went to a halloween party .",
+        "this is the middle of the party , a guy was dressed up and ready for the party .",
+        "this guy was dressed as a pirate !",
+        "we had a lot of fun dancing .",
+        "here is another woman who was at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we travelled to a halloween party . in the middle of the party , the guy was in a costume and ready for the celebration . this man was in the costume of a pirate . we had a great time dancing . and her is a photo  of a lady .",
+      "normalized_edited_story_text_sent": [
+        "we travelled to a halloween party .",
+        "in the middle of the party , the guy was in a costume and ready for the celebration .",
+        "this man was in the costume of a pirate .",
+        "we had a great time dancing .",
+        "and her is a photo of a lady ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594106619152"
+}

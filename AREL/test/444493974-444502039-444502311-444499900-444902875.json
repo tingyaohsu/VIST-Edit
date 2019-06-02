@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "444493974-444502039-444502311-444499900-444902875",
+  "photo_sequence_ids": [
+    "444493974",
+    "444502039",
+    "444502311",
+    "444499900",
+    "444902875"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/205/444493974_ec8ee3c504_o.jpg",
+    "https://farm1.staticflickr.com/180/444502039_122c1c2a2a_o.jpg",
+    "https://farm1.staticflickr.com/178/444502311_fa4f48f069_o.jpg",
+    "https://farm1.staticflickr.com/220/444499900_0dbac19b67_o.jpg",
+    "https://farm1.staticflickr.com/209/444902875_61eb54473f_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is the first day of the year . i made a lot of meat for the meal . it was delicious . we had a lot of fun . the boy was happy to be at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A3EW7EOWG8L6FI",
+      "edited_story_text": "this is the first day of the year. i made a lot of meat for the meal and it was delicious. We had a lot of fun. [male] was happy to be at the party.",
+      "normalized_edited_story_text_sent": [
+        "this is the first day of the year .",
+        "i made a lot of meat for the meal and it was delicious .",
+        "we had a lot of fun .",
+        "[male] was happy to be at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "this is the first day of the year . i made a lot of meat and veggies for the meal . it was very tasty . we had a great time. the girl was excited to be at the Passover party .",
+      "normalized_edited_story_text_sent": [
+        "this is the first day of the year .",
+        "i made a lot of meat and veggies for the meal .",
+        "it was very tasty .",
+        "we had a great time .",
+        "the girl was excited to be at the passover party ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "this is the first day of a new year. i made a lot of food for the new year\u0027s party. it was all delicious. we had a lot of fun celebrating. [male] was really happy that he could come.",
+      "normalized_edited_story_text_sent": [
+        "this is the first day of a new year .",
+        "i made a lot of food for the new year \u0027s party .",
+        "it was all delicious .",
+        "we had a lot of fun celebrating .",
+        "[male] was really happy that he could come ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "this is the first day of the year. i cooked a lot of meat for the meal. it was delicious. we had a lot of fun. the boy was happy to be at the party .",
+      "normalized_edited_story_text_sent": [
+        "this is the first day of the year .",
+        "i cooked a lot of meat for the meal .",
+        "it was delicious .",
+        "we had a lot of fun .",
+        "the boy was happy to be at the party ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a celebration.  I made a lot of meat for the meal.  I made soup and green beans.  It was delicious. The cake was decorated to celebrate Jewish holiday. It was so nice.  The girl made a pillow.",
+      "normalized_edited_story_text_sent": [
+        "this is a celebration .",
+        "i made a lot of meat for the meal .",
+        "i made soup and green beans .",
+        "it was delicious .",
+        "the cake was decorated to celebrate jewish holiday .",
+        "it was so nice .",
+        "the girl made a pillow ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600044428041"
+}

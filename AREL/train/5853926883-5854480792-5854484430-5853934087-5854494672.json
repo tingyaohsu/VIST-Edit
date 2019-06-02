@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5853926883-5854480792-5854484430-5853934087-5854494672",
+  "photo_sequence_ids": [
+    "5853926883",
+    "5854480792",
+    "5854484430",
+    "5853934087",
+    "5854494672"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5272/5853926883_3531b57136_o.jpg",
+    "https://farm6.staticflickr.com/5272/5854480792_a287b9eee6_o.jpg",
+    "https://farm4.staticflickr.com/3252/5854484430_ef472ec583_o.jpg",
+    "https://farm6.staticflickr.com/5310/5853934087_e45c076171_o.jpg",
+    "https://farm6.staticflickr.com/5316/5854494672_43fcff4d4e_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends got together to have a dinner party . they were having a good time . everyone was having a good time . some people were very happy to see each other . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "a group of friends got together to have a dinner party . they were having a good time . They were very happy to see each other.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together to have a dinner party .",
+        "they were having a good time .",
+        "they were very happy to see each other ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "All our friends got together to have a dinner party. They had a good time, everyone was having fun and some people were very happy to see each other. I had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "all our friends got together to have a dinner party .",
+        "they had a good time , everyone was having fun and some people were very happy to see each other .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "a group of friends get together to had a dinner party . they are have a good time . everyone is have a good time . some people are very happy to saw each other . we have a great time there .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends get together to had a dinner party .",
+        "they are have a good time .",
+        "everyone is have a good time .",
+        "some people are very happy to saw each other .",
+        "we have a great time there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "People were attending a lecture.  The audience listened to the speakers. They were interested in hearing what the speakers had to say. It was an interesting event.",
+      "normalized_edited_story_text_sent": [
+        "people were attending a lecture .",
+        "the audience listened to the speakers .",
+        "they were interested in hearing what the speakers had to say .",
+        "it was an interesting event ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "A group of PEOPLE WERE ATTENDING A MEETING. SOME OF THEM LOOKED VERY INTERESTED. SOME OF THEM LOOKED VERY BORED. A FEW PEOPLE LOOKED LIKE THEY WERE HAVING A VERY GOOD TIME. OTHERS LOOKED MISERABLE.`",
+      "normalized_edited_story_text_sent": [
+        "a group of people were attending a meeting .",
+        "some of them looked very interested .",
+        "some of them looked very bored .",
+        "a few people looked like they were having a very good time .",
+        "others looked miserable .",
+        "`"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626883738735"
+}

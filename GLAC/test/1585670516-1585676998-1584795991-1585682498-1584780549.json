@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "1585670516-1585676998-1584795991-1585682498-1584780549",
+  "photo_sequence_ids": [
+    "1585670516",
+    "1585676998",
+    "1584795991",
+    "1585682498",
+    "1584780549"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bird was very happy to be in the field . the flowers were blooming . the birds were eating . the geese were having a great time . the giraffe was so cute .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The bird was happy to be in the field. Flowers were blooming, birds were eating, and even the geese were having a great time. There was a giraffe too--so sweet.",
+      "normalized_edited_story_text_sent": [
+        "the bird was happy to be in the field .",
+        "flowers were blooming , birds were eating , and even the geese were having a great time .",
+        "there was a giraffe too -- so sweet ."
+      ]
+    },
+    {
+      "worker_id": "AYPRRGPMOD0AX",
+      "edited_story_text": "The bird was very happy to be in the field. The flowers were blooming and full of butterflies. The birds were eating the geese were having a great time and the giraffe was so cute .",
+      "normalized_edited_story_text_sent": [
+        "the bird was very happy to be in the field .",
+        "the flowers were blooming and full of butterflies .",
+        "the birds were eating the geese were having a great time and the giraffe was so cute ."
+      ]
+    },
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "The birds and butterflies were happy to be free in the field. All of the flowers were blooming, the birds were eating and the geese were having a great time. There was even a super cute giraffe.",
+      "normalized_edited_story_text_sent": [
+        "the birds and butterflies were happy to be free in the field .",
+        "all of the flowers were blooming , the birds were eating and the geese were having a great time .",
+        "there was even a super cute giraffe ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "just saw a very beautiful butterfly out in nature. the were on the blooming flowers . the butterflies were eating the pollen from the flowers. they looked to be enjoying their lives. there is such beauty out in nature.",
+      "normalized_edited_story_text_sent": [
+        "just saw a very beautiful butterfly out in nature .",
+        "the were on the blooming flowers .",
+        "the butterflies were eating the pollen from the flowers .",
+        "they looked to be enjoying their lives .",
+        "there is such beauty out in nature ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the butterflies was very happy to be in the field . the flowers were blooming . the butterflies were eating. the butterflies and flowers were both very beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the butterflies was very happy to be in the field .",
+        "the flowers were blooming .",
+        "the butterflies were eating .",
+        "the butterflies and flowers were both very beautiful ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602444903586",
+  "model": "GLAC"
+}

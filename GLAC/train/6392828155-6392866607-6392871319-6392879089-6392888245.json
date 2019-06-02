@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "6392828155-6392866607-6392871319-6392879089-6392888245",
+  "photo_sequence_ids": [
+    "6392828155",
+    "6392866607",
+    "6392871319",
+    "6392879089",
+    "6392888245"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the carnival was in town . there were rides . and a big rock . and a group of people were dancing . the park was full of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the carnival was in town . there were rides . The carousal was gorgeous. Everyone gathered outside. There was a cool maze.",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "there were rides .",
+        "the carousal was gorgeous .",
+        "everyone gathered outside .",
+        "there was a cool maze ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the carnival came to the park in town recently.  it was based near the big rock.  there were a lot of rides and music.  some people danced to the music.  everyone had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the carnival came to the park in town recently .",
+        "it was based near the big rock .",
+        "there were a lot of rides and music .",
+        "some people danced to the music .",
+        "everyone had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the carnival was in town . there were an atraction park . and nice gardens . and a group of people were dancing . the park was full of fun .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "there were an atraction park .",
+        "and nice gardens .",
+        "and a group of people were dancing .",
+        "the park was full of fun ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the carnival was in town . there were many fun rides . and a  great big rock .  a group of people were dancing . the park was so much fun .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "there were many fun rides .",
+        "and a great big rock .",
+        "a group of people were dancing .",
+        "the park was so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the carnival was in town for a few weeks . there were rides for all ages. and a big rock that anyone could climb. and a group of people were dancing to the band that played . the park was full of fun and lots of people .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town for a few weeks .",
+        "there were rides for all ages .",
+        "and a big rock that anyone could climb .",
+        "and a group of people were dancing to the band that played .",
+        "the park was full of fun and lots of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628033104348",
+  "model": "GLAC"
+}

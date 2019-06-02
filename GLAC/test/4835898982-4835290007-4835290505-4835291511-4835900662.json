@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4835898982-4835290007-4835290505-4835291511-4835900662",
+  "photo_sequence_ids": [
+    "4835898982",
+    "4835290007",
+    "4835290505",
+    "4835291511",
+    "4835900662"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bird was very happy to be in the water . the birds were watching the fish . the geese were having a good time . the giraffe was looking for food . the snake was getting ready .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The bird was happy to be back in the water. Other birds were watching fish, a flock of geese were having fun doing their own thing, a giraffe was scouring the trees for any source of nourishment, while a sneaky snake was prepped for something.",
+      "normalized_edited_story_text_sent": [
+        "the bird was happy to be back in the water .",
+        "other birds were watching fish , a flock of geese were having fun doing their own thing , a giraffe was scouring the trees for any source of nourishment , while a sneaky snake was prepped for something ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Some of the objects I found on display that I found interesting.  They look like birds and snakes.",
+      "normalized_edited_story_text_sent": [
+        "some of the objects i found on display that i found interesting .",
+        "they look like birds and snakes ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bird was very happy to be in the water but was colder than it thought. the birds were watching the fish that was swimming by . the geese were having a good time and came from the north . the giraffe was looking for food but couldn\u0027t find any . the snake was getting ready at attack its prey .",
+      "normalized_edited_story_text_sent": [
+        "the bird was very happy to be in the water but was colder than it thought .",
+        "the birds were watching the fish that was swimming by .",
+        "the geese were having a good time and came from the north .",
+        "the giraffe was looking for food but could n\u0027t find any .",
+        "the snake was getting ready at attack its prey ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the bird was very happy to be in the water . the birds were watching the fish . the geese were having a good time . the giraffe was looking for food . the snake was getting ready .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the bird was very happy to be in the water .",
+        "the birds were watching the fish .",
+        "the geese were having a good time .",
+        "the giraffe was looking for food .",
+        "the snake was getting ready ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There were cool horns. They were in different shapes. They were red and yellowish in color. Some were curved and some straight.",
+      "normalized_edited_story_text_sent": [
+        "there were cool horns .",
+        "they were in different shapes .",
+        "they were red and yellowish in color .",
+        "some were curved and some straight ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624597178924",
+  "model": "GLAC"
+}

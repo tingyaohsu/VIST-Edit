@@ -1,0 +1,62 @@
+{
+  "photo_sequence_id": "4334910270-4334910546-4334169739-4334169637-4334170381",
+  "photo_sequence_ids": [
+    "4334910270",
+    "4334910546",
+    "4334169739",
+    "4334169637",
+    "4334170381"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was full of people . the artwork was amazing . the costumes were very detailed . the masks were a lot of fun . the streets were lit up .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The city sparkling with lights and packed to the brim with people. There was an array of dazzling art and costumes on display for dressing up. It was a lot of fun trying on the various masks.",
+      "normalized_edited_story_text_sent": [
+        "the city sparkling with lights and packed to the brim with people .",
+        "there was an array of dazzling art and costumes on display for dressing up .",
+        "it was a lot of fun trying on the various masks ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was full of people . the shop was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the shop was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The city was full of people, the artwork was amazing,the costumes were very detailed ,the pictures came out great.",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people , the artwork was amazing , the costumes were very detailed , the pictures came out great ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the city was empty . the artwork was amazing . the costumes were very detailed . the pictures were a lot of fun . the buildings were lit up .",
+      "normalized_edited_story_text_sent": [
+        "the city was empty .",
+        "the artwork was amazing .",
+        "the costumes were very detailed .",
+        "the pictures were a lot of fun .",
+        "the buildings were lit up ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The city was full of people and the artwork was amazing. The costumers were very detailed and the masks were a lot of fun. The streets were lit up.",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people and the artwork was amazing .",
+        "the costumers were very detailed and the masks were a lot of fun .",
+        "the streets were lit up ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623364325932",
+  "model": "GLAC"
+}

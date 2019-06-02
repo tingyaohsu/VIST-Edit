@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "96146749-96148648-96149970-96149168-96149295",
+  "photo_sequence_ids": [
+    "96146749",
+    "96148648",
+    "96149970",
+    "96149168",
+    "96149295"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the guys were excited to be in the game . the players were ready for the game . the team was getting ready . the teams were tied up . the fans were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the guys were excited to be in the game . the kids were playing outside. I took a picture with my favorite player.  our team lost, but we all have so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the guys were excited to be in the game .",
+        "the kids were playing outside .",
+        "i took a picture with my favorite player .",
+        "our team lost , but we all have so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The guys were ready for the game to begin. Equally, so were the players. Both going through their usual routines, from warm ups to fetching a beer. At one point during the game, both teams were at a stalemate, which got the fans riled up and filled with excitement.",
+      "normalized_edited_story_text_sent": [
+        "the guys were ready for the game to begin .",
+        "equally , so were the players .",
+        "both going through their usual routines , from warm ups to fetching a beer .",
+        "at one point during the game , both teams were at a stalemate , which got the fans riled up and filled with excitement ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the guys were excited to be in the game . the players were ready for the game .",
+      "normalized_edited_story_text_sent": [
+        "the guys were excited to be in the game .",
+        "the players were ready for the game ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the guys were excited to be in the game . The players took the field. He grabbed the football. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the guys were excited to be in the game .",
+        "the players took the field .",
+        "he grabbed the football .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "All of the guys were excited to be in the game. Each of the players were dressed and ready for the game. The team was getting pumped up and ready for the game. The teams were all tied up. Every one of the fans were very proud of their team.",
+      "normalized_edited_story_text_sent": [
+        "all of the guys were excited to be in the game .",
+        "each of the players were dressed and ready for the game .",
+        "the team was getting pumped up and ready for the game .",
+        "the teams were all tied up .",
+        "every one of the fans were very proud of their team ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594059978402",
+  "model": "GLAC"
+}

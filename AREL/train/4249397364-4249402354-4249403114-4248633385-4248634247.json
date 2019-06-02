@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4249397364-4249402354-4249403114-4248633385-4248634247",
+  "photo_sequence_ids": [
+    "4249397364",
+    "4249402354",
+    "4249403114",
+    "4248633385",
+    "4248634247"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4016/4249397364_e371cfd5c8_o.jpg",
+    "https://farm5.staticflickr.com/4021/4249402354_303cdb2a6c_o.jpg",
+    "https://farm3.staticflickr.com/2802/4249403114_8a5e707630_o.jpg",
+    "https://farm5.staticflickr.com/4002/4248633385_687f012124_o.jpg",
+    "https://farm5.staticflickr.com/4051/4248634247_a468667a9b_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a house . the inside of the house was beautiful . there was a lot of water there . the house was beautiful . the inside of the house was very old .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went on a sightseeing trip today.  This is a picture of a famous historical house.  The inside of the house was beautiful.  The house was old and has great views.  We walked around and looked at interesting buildings.",
+      "normalized_edited_story_text_sent": [
+        "we went on a sightseeing trip today .",
+        "this is a picture of a famous historical house .",
+        "the inside of the house was beautiful .",
+        "the house was old and has great views .",
+        "we walked around and looked at interesting buildings ."
+      ]
+    },
+    {
+      "worker_id": "A2HHQJVM3JJQ8F",
+      "edited_story_text": "this is the view from the house . the view from the french doors in the bedroom was beautiful . the water can be seen from the balcony . the front door to the house was beautiful . the inside of the house was very old .",
+      "normalized_edited_story_text_sent": [
+        "this is the view from the house .",
+        "the view from the french doors in the bedroom was beautiful .",
+        "the water can be seen from the balcony .",
+        "the front door to the house was beautiful .",
+        "the inside of the house was very old ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a house . the inside of the house were beautiful . there is a lot of water there . the house is beautiful . the inside of the house is very old .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a house .",
+        "the inside of the house were beautiful .",
+        "there is a lot of water there .",
+        "the house is beautiful .",
+        "the inside of the house is very old ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a house . the inside of the house was beautiful . there was a lot of water there and the house was beautiful . the inside of the house was very old .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house .",
+        "the inside of the house was beautiful .",
+        "there was a lot of water there and the house was beautiful .",
+        "the inside of the house was very old ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "There is a light green house on the corner of the street. It has a beautiful interior and overlooked water. The house was beautiful but the inside of the house was very old.",
+      "normalized_edited_story_text_sent": [
+        "there is a light green house on the corner of the street .",
+        "it has a beautiful interior and overlooked water .",
+        "the house was beautiful but the inside of the house was very old ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623165416012"
+}

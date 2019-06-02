@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4426043960-4426044670-4467965708-4467193341-4467193103",
+  "photo_sequence_ids": [
+    "4426043960",
+    "4426044670",
+    "4467965708",
+    "4467193341",
+    "4467193103"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4004/4426043960_4c5b62cab9_o.jpg",
+    "https://farm3.staticflickr.com/2717/4426044670_166e4ffe6d_o.jpg",
+    "https://farm3.staticflickr.com/2801/4467965708_7ffa158fb7_o.jpg",
+    "https://farm3.staticflickr.com/2703/4467193341_cb54c6c63c_o.jpg",
+    "https://farm5.staticflickr.com/4047/4467193103_8cb5023f3d_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the old building to see what was going on . we saw a lot of old buildings . there was a lot of food at the market . this is a picture of a building . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to the old building to see what was going on . we saw a lot of old buildings  all around us. there was a lot of food at the market that we bought. . this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "we went to the old building to see what was going on .",
+        "we saw a lot of old buildings all around us .",
+        "there was a lot of food at the market that we bought .",
+        ".",
+        "this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A2FXD55FJV1RSV",
+      "edited_story_text": "we went to the old building to see what was going on. we saw a lot of old buildings. there was a lot of food at the market . this is a picture of a building we saw after going to the market.",
+      "normalized_edited_story_text_sent": [
+        "we went to the old building to see what was going on .",
+        "we saw a lot of old buildings .",
+        "there was a lot of food at the market .",
+        "this is a picture of a building we saw after going to the market ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to the old building to see what was going on and we saw a lot of old buildings . there was a lot of food at the market . we also took a pic of this building",
+      "normalized_edited_story_text_sent": [
+        "we went to the old building to see what was going on and we saw a lot of old buildings .",
+        "there was a lot of food at the market .",
+        "we also took a pic of this building"
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "we visited the old building to see what was going on . we saw a lot of old buildings . there was a lot of food at the market . this is a picture of a building there and this is a picture of another building .",
+      "normalized_edited_story_text_sent": [
+        "we visited the old building to see what was going on .",
+        "we saw a lot of old buildings .",
+        "there was a lot of food at the market .",
+        "this is a picture of a building there and this is a picture of another building ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we were curious about the old building, so we decided to check it out. we saw a lot of old buildings and even a farmer . the market was loaded to the walls with food. one building had a statue between the windows. i just had to take another picture of that building.",
+      "normalized_edited_story_text_sent": [
+        "we were curious about the old building , so we decided to check it out .",
+        "we saw a lot of old buildings and even a farmer .",
+        "the market was loaded to the walls with food .",
+        "one building had a statue between the windows .",
+        "i just had to take another picture of that building ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623714894246"
+}

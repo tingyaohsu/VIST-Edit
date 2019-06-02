@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "32782558-32598105-32598123-32598206-32780353",
+  "photo_sequence_ids": [
+    "32782558",
+    "32598105",
+    "32598123",
+    "32598206",
+    "32780353"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was having a great time . the family was all there . the child was happy . the little girl was so happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The baby was having a great time. My family was all there. The child was happy. The little girl was so happy.",
+      "normalized_edited_story_text_sent": [
+        "the baby was having a great time .",
+        "my family was all there .",
+        "the child was happy .",
+        "the little girl was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was all there . fun and games were had before sight seeing. it was a fun vacation.",
+      "normalized_edited_story_text_sent": [
+        "the family was all there .",
+        "fun and games were had before sight seeing .",
+        "it was a fun vacation ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "there were some funny things there.  the girls were having a great time .  The girls liked to have fun.  The whole family went out to explore the city.",
+      "normalized_edited_story_text_sent": [
+        "there were some funny things there .",
+        "the girls were having a great time .",
+        "the girls liked to have fun .",
+        "the whole family went out to explore the city ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the gnome was having a great time . the family was all there . the child was in bed . the little girl was so happy they had a pillow fight . the whole family went out .",
+      "normalized_edited_story_text_sent": [
+        "the gnome was having a great time .",
+        "the family was all there .",
+        "the child was in bed .",
+        "the little girl was so happy they had a pillow fight .",
+        "the whole family went out ."
+      ]
+    },
+    {
+      "worker_id": "A2KW26KE43UBRS",
+      "edited_story_text": "A booty statue greeted us on the stairs. The sisters were all there. They were happy . The younger sister was so happy. The whole family enjoyed their time there.",
+      "normalized_edited_story_text_sent": [
+        "a booty statue greeted us on the stairs .",
+        "the sisters were all there .",
+        "they were happy .",
+        "the younger sister was so happy .",
+        "the whole family enjoyed their time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600249357838",
+  "model": "GLAC"
+}

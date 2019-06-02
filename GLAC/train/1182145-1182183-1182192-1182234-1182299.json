@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "1182145-1182183-1182192-1182234-1182299",
+  "photo_sequence_ids": [
+    "1182145",
+    "1182183",
+    "1182192",
+    "1182234",
+    "1182299"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . the costumes were very good .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The men were having a lot of fun dressed up in women\u0027s clothing.",
+      "normalized_edited_story_text_sent": [
+        "the men were having a lot of fun dressed up in women \u0027s clothing ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we attended an amazing parade yesterday.  the floats were so fun to see.  everyone was dressed up in amazing costumed. some guys went as cheerleaders, which was funny. some people were almost naked, it was crazy.",
+      "normalized_edited_story_text_sent": [
+        "we attended an amazing parade yesterday .",
+        "the floats were so fun to see .",
+        "everyone was dressed up in amazing costumed .",
+        "some guys went as cheerleaders , which was funny .",
+        "some people were almost naked , it was crazy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a blast . there were a lot of people dressed up . some of them were very creative. it was a very fun day. one i won\u0027t soon forget.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a blast .",
+        "there were a lot of people dressed up .",
+        "some of them were very creative .",
+        "it was a very fun day .",
+        "one i wo n\u0027t soon forget ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun due to all the people there . there were a lot of people dressed up for the occasion. some of them were very creative while others had simple costume . i had a great time meeting new people. the costumes were very good and better than last year .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun due to all the people there .",
+        "there were a lot of people dressed up for the occasion .",
+        "some of them were very creative while others had simple costume .",
+        "i had a great time meeting new people .",
+        "the costumes were very good and better than last year ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . the costumes were very fun.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "the costumes were very fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "30323",
+  "model": "GLAC"
+}

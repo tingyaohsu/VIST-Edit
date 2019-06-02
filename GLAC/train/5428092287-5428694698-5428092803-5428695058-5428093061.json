@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5428092287-5428694698-5428092803-5428695058-5428093061",
+  "photo_sequence_ids": [
+    "5428092287",
+    "5428694698",
+    "5428092803",
+    "5428695058",
+    "5428093061"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to be at the game . the coach was very proud of his team . the cheerleaders were in the stands . the crowd was cheering . the players were ready for the game .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family was excited to be at the game . the coach was very proud of his team . the cheerleaders were in the stands . the crowd was cheering . the players were ready for the game .\r\rMy family was pumped to be at the game. It looked like the coach was very proud of his team. The Cheerleaders were giving their support from the stands. The crowd was a ball of excitement. The players were on point and ready for this game.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the game .",
+        "the coach was very proud of his team .",
+        "the cheerleaders were in the stands .",
+        "the crowd was cheering .",
+        "the players were ready for the game .",
+        "my family was pumped to be at the game .",
+        "it looked like the coach was very proud of his team .",
+        "the cheerleaders were giving their support from the stands .",
+        "the crowd was a ball of excitement .",
+        "the players were on point and ready for this game ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was excited to be at the game . everyone involved had high emotions.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the game .",
+        "everyone involved had high emotions ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited to be at the game . They wore face paint and ate. The team lined up on the field. The fans had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the game .",
+        "they wore face paint and ate .",
+        "the team lined up on the field .",
+        "the fans had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The family was excited to be at the game. The coach was very proud of his team. The cheerleaders were in the stands, and the crowd was cheering. The players were ready for the game .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the game .",
+        "the coach was very proud of his team .",
+        "the cheerleaders were in the stands , and the crowd was cheering .",
+        "the players were ready for the game ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "Before the soccer game, cheerleaders were catering pizza to attendees. After that, the soccer players lined up on the field as attendees started cheering from the bleachers.",
+      "normalized_edited_story_text_sent": [
+        "before the soccer game , cheerleaders were catering pizza to attendees .",
+        "after that , the soccer players lined up on the field as attendees started cheering from the bleachers ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626005088368",
+  "model": "GLAC"
+}

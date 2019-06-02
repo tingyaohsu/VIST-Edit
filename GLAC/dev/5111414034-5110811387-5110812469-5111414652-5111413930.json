@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5111414034-5110811387-5110812469-5111414652-5111413930",
+  "photo_sequence_ids": [
+    "5111414034",
+    "5110811387",
+    "5110812469",
+    "5111414652",
+    "5111413930"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of crazy costumes . some of the costumes were very scary . the winner was very good . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of dolls for decorations . some of them were very scary . the winner was very good . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of dolls for decorations .",
+        "some of them were very scary .",
+        "the winner was very good .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the halloween party was amusing . weird costumes abounded . some of the costumes were horrifying . the winner was a very good designer . everyone had fun .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was amusing .",
+        "weird costumes abounded .",
+        "some of the costumes were horrifying .",
+        "the winner was a very good designer .",
+        "everyone had fun ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The Halloween decorations at this place were really cool.  Just check out these pictures of the creepy dolls.  Perfect!",
+      "normalized_edited_story_text_sent": [
+        "the halloween decorations at this place were really cool .",
+        "just check out these pictures of the creepy dolls .",
+        "perfect !"
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the halloween party was a lot of fun . there was a very unique display of dolls in costumes . each doll was seated in a different pose . I was intrigued and had to take a photo of each doll individually . everyone had a great time at the party . which doll would you pick to win a contest ?",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there was a very unique display of dolls in costumes .",
+        "each doll was seated in a different pose .",
+        "i was intrigued and had to take a photo of each doll individually .",
+        "everyone had a great time at the party .",
+        "which doll would you pick to win a contest ?"
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of crazy costumes, and scary dolls . the doll織s contest was my favorite. we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of crazy costumes , and scary dolls .",
+        "the doll \u0027s contest was my favorite .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625231799556",
+  "model": "GLAC"
+}

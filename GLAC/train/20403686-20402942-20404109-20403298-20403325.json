@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "20403686-20402942-20404109-20403298-20403325",
+  "photo_sequence_ids": [
+    "20403686",
+    "20402942",
+    "20404109",
+    "20403298",
+    "20403325"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the beach was a great place to visit . the water was calm and peaceful . the people were very friendly . the city was full of culture . the beaches were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the beach was a great place to visit . the water was calm and peaceful . the people were very friendly . it was a nice break from reality.",
+      "normalized_edited_story_text_sent": [
+        "the beach was a great place to visit .",
+        "the water was calm and peaceful .",
+        "the people were very friendly .",
+        "it was a nice break from reality ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the beach was a great place to visit and had a beautiful view . there was a light breeze, and the water was calm and peaceful . the people were very friendly and made us feel welcome despite the fact that we didn\u0027t speak the language . the city was full of culture . the beaches were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the beach was a great place to visit and had a beautiful view .",
+        "there was a light breeze , and the water was calm and peaceful .",
+        "the people were very friendly and made us feel welcome despite the fact that we did n\u0027t speak the language .",
+        "the city was full of culture .",
+        "the beaches were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "The beach is always a great place to visit. The water was so calm and peaceful and the people were really friendly. The city is full of culture and the beaches are beautiful/",
+      "normalized_edited_story_text_sent": [
+        "the beach is always a great place to visit .",
+        "the water was so calm and peaceful and the people were really friendly .",
+        "the city is full of culture and the beaches are beautiful /"
+      ]
+    },
+    {
+      "worker_id": "A1XEZ0X9ABFUDP",
+      "edited_story_text": "The beaches were beautiful, a great place to visit.  The water was calm and peaceful.  The people were very friendly and the city was full of culture.",
+      "normalized_edited_story_text_sent": [
+        "the beaches were beautiful , a great place to visit .",
+        "the water was calm and peaceful .",
+        "the people were very friendly and the city was full of culture ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The beach was a great place to visit, the water was calm and peaceful and the beaches were beautiful.  The people were very friendly and the city was full of culture.",
+      "normalized_edited_story_text_sent": [
+        "the beach was a great place to visit , the water was calm and peaceful and the beaches were beautiful .",
+        "the people were very friendly and the city was full of culture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "476406",
+  "model": "GLAC"
+}

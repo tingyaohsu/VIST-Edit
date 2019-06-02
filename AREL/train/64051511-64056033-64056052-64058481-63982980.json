@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "64051511-64056033-64056052-64058481-63982980",
+  "photo_sequence_ids": [
+    "64051511",
+    "64056033",
+    "64056052",
+    "64058481",
+    "63982980"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/32/64051511_60bd98ae9c_o.jpg",
+    "https://farm1.staticflickr.com/29/64056033_3a535988ba_o.jpg",
+    "https://farm1.staticflickr.com/31/64056052_3370e40347_o.jpg",
+    "https://farm1.staticflickr.com/32/64058481_5543957ec3_o.jpg",
+    "https://farm1.staticflickr.com/35/63982980_32bb5395b6_o.jpg"
+  ],
+  "auto_story_text_normalized": "the group of friends got together for a group photo . the man is taking a picture with his friend [male] . [female] was so happy to be there . they had a lot of fun . we all had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2X2CN7XX6C96N",
+      "edited_story_text": "[kimberly] and i got together to take a photo . [rashad] took a photo . [jessica] was so happy to be there . the rest of the group had a lot of fun . we all had a great time and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] and i got together to take a photo .",
+        "[male] took a photo .",
+        "[female] was so happy to be there .",
+        "the rest of the group had a lot of fun .",
+        "we all had a great time and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the group of friends got together for a group photo . the man is taking a picture with his friend [Kenny] . [Julia] was so happy to be there to be a part of it . they had a lot of fun . They had such a great time and couldn\u0027t wait to do it again.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together for a group photo .",
+        "the man is taking a picture with his friend [male] .",
+        "[female] was so happy to be there to be a part of it .",
+        "they had a lot of fun .",
+        "they had such a great time and could n\u0027t wait to do it again ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the group of friends got together for a group picture . the man is taking a photo with his friend [male] . [female] was so cheerful to be there . they had a great deal of fun . we all had a awesome time and had a incredible time .",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together for a group picture .",
+        "the man is taking a photo with his friend [male] .",
+        "[female] was so cheerful to be there .",
+        "they had a great deal of fun .",
+        "we all had a awesome time and had a incredible time ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "Everyone got together for photos. The girls took photos together first. [Steve] took a photo alone.  [ Susan ] also took a photo. The group had cake and a photo together.",
+      "normalized_edited_story_text_sent": [
+        "everyone got together for photos .",
+        "the girls took photos together first .",
+        "[male] took a photo alone .",
+        "[female] also took a photo .",
+        "the group had cake and a photo together ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "All our friends got together for a group photo. This man was taking a picture with his friend [male]. [Female] was happy to be there too. We had a lot of fun, we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "all our friends got together for a group photo .",
+        "this man was taking a picture with his friend [male] .",
+        "[female] was happy to be there too .",
+        "we had a lot of fun , we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1399396"
+}

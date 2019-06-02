@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "3627411224-3626595055-3627409856-3627409966-3627410884",
+  "photo_sequence_ids": [
+    "3627411224",
+    "3626595055",
+    "3627409856",
+    "3627409966",
+    "3627410884"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a lot of fun . the students were very excited . the students were so happy to be graduating . the graduates were very proud . the family was very proud of their accomplishments .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the graduation ceremony was a lot of fun . the students were very excited . the students were  happy to be graduating . the graduates were also very proud . the family was very proud of their accomplishments as well .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "the students were very excited .",
+        "the students were happy to be graduating .",
+        "the graduates were also very proud .",
+        "the family was very proud of their accomplishments as well ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "congratulations to the graduates. the graduation ceremony was a lot of fun . the students were excited to be done. the family was very proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "congratulations to the graduates .",
+        "the graduation ceremony was a lot of fun .",
+        "the students were excited to be done .",
+        "the family was very proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the graduation ceremony was a lot of fun . the students were very excited to finally graduate and be able to take their skills out into the job force . the students were so happy to be graduating after all their hard work over the past four years . the graduates were very proud . the family was very proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "the students were very excited to finally graduate and be able to take their skills out into the job force .",
+        "the students were so happy to be graduating after all their hard work over the past four years .",
+        "the graduates were very proud .",
+        "the family was very proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "Today I graduated with an M.S degree. My friends, David and John, whom I met as part of my cohort also graduated with me today. We stood around outside waiting for the ceremony to start.",
+      "normalized_edited_story_text_sent": [
+        "today i graduated with an m.s degree .",
+        "my friends , [male] and [male] , whom i met as part of my cohort also graduated with me today .",
+        "we stood around outside waiting for the ceremony to start ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My graduation ceremony was a lot of fun . My fellow students were very excited . We were so happy to be graduating . We graduates were very proud . Our families were very proud of our accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "my graduation ceremony was a lot of fun .",
+        "my fellow students were very excited .",
+        "we were so happy to be graduating .",
+        "we graduates were very proud .",
+        "our families were very proud of our accomplishments ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157619680518585",
+  "model": "GLAC"
+}

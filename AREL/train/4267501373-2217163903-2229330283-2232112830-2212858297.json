@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4267501373-2217163903-2229330283-2232112830-2212858297",
+  "photo_sequence_ids": [
+    "4267501373",
+    "2217163903",
+    "2229330283",
+    "2232112830",
+    "2212858297"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4019/4267501373_0dd9e3ee8d_o.jpg",
+    "https://farm3.staticflickr.com/2355/2217163903_95aefe6564_o.jpg",
+    "https://farm3.staticflickr.com/2341/2229330283_81e87b92a0_o.jpg",
+    "https://farm3.staticflickr.com/2411/2232112830_356f510e39_o.jpg",
+    "https://farm3.staticflickr.com/2206/2212858297_1c64077faf_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach yesterday . i was able to see a lot of birds in the snow . the sheep were very friendly . the view from the top of the mountain was amazing . this is a picture of a car .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to the mountains yesterday . i was able to see a lot of deer in the snow . the eagles were very friendly . the view from the top of the mountain was amazing . this is a picture of a helicopter .",
+      "normalized_edited_story_text_sent": [
+        "i went to the mountains yesterday .",
+        "i was able to see a lot of deer in the snow .",
+        "the eagles were very friendly .",
+        "the view from the top of the mountain was amazing .",
+        "this is a picture of a helicopter ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went on a trip to the mountains with my friend. we took a walk in the snow, and i was able to see a lot of birds. the deer were very beautiful. the view from the top of the mountain was amazing.",
+      "normalized_edited_story_text_sent": [
+        "i went on a trip to the mountains with my friend .",
+        "we took a walk in the snow , and i was able to see a lot of birds .",
+        "the deer were very beautiful .",
+        "the view from the top of the mountain was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3D5BMOC6B7XNQ",
+      "edited_story_text": "I went to the grand canyon national park. I saw an eagle.  The deer were very friendly.  The view of the mountains was amazing.  This is a picture of a helicopter.",
+      "normalized_edited_story_text_sent": [
+        "i went to the grand canyon national park .",
+        "i saw an eagle .",
+        "the deer were very friendly .",
+        "the view of the mountains was amazing .",
+        "this is a picture of a helicopter ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the beach yesterday . i was able to see a lot of birds in the snow . the animals were very friendly . the view from the top of the mountain was amazing . this is a picture of a car .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "i was able to see a lot of birds in the snow .",
+        "the animals were very friendly .",
+        "the view from the top of the mountain was amazing .",
+        "this is a picture of a car ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "i went to the a beautiful mountainous region yeterday. i was able to see a lot of birds in the snow . I saw a Bald Eagle yesterday and lots of deer! very cool . the view from the top of the mountain was amazing . At the end of our hike, we got to ride in a helicopter to see the mountains",
+      "normalized_edited_story_text_sent": [
+        "i went to the a beautiful mountainous region yeterday .",
+        "i was able to see a lot of birds in the snow .",
+        "i saw a bald eagle yesterday and lots of deer !",
+        "very cool .",
+        "the view from the top of the mountain was amazing .",
+        "at the end of our hike , we got to ride in a helicopter to see the mountains"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603781151759"
+}

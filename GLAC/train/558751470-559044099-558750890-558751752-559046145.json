@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "558751470-559044099-558750890-558751752-559046145",
+  "photo_sequence_ids": [
+    "558751470",
+    "559044099",
+    "558750890",
+    "558751752",
+    "559046145"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the stadium was packed with fans . the players were ready for the game . the coach was very excited . the band was playing . the team was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The stadium was at full capacity. The team was ready to enter the field. The coach was pumped, a band was playing music that further filled the arena with energy, and the game itself was spectacular. You could tell that the team was having a fantastic game by their expressions.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was at full capacity .",
+        "the team was ready to enter the field .",
+        "the coach was pumped , a band was playing music that further filled the arena with energy , and the game itself was spectacular .",
+        "you could tell that the team was having a fantastic game by their expressions ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the stadium was packed with fans for the baseball game . the players were ready for the game to start . the coach was very excited that the season had finally started . the band was playing some pregame music . the team was having a great time because they were winning.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed with fans for the baseball game .",
+        "the players were ready for the game to start .",
+        "the coach was very excited that the season had finally started .",
+        "the band was playing some pregame music .",
+        "the team was having a great time because they were winning ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the stadium was packed to the brim with fans . the mascots were very entertaining . the players were ready for the game and the coach was very excited . the band played upbeat tunes. the teammates cheered each other on and were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed to the brim with fans .",
+        "the mascots were very entertaining .",
+        "the players were ready for the game and the coach was very excited .",
+        "the band played upbeat tunes .",
+        "the teammates cheered each other on and were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the stadium was packed with fans . the players were ready for the game . the coach was very excited . the band was playing . the team was having a a fun time as they watched parklane players.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed with fans .",
+        "the players were ready for the game .",
+        "the coach was very excited .",
+        "the band was playing .",
+        "the team was having a a fun time as they watched parklane players ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the stadium was packed with fans . The mascots were on the field. The fans watched on. The scoreboard was lit up. The team was on the field.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed with fans .",
+        "the mascots were on the field .",
+        "the fans watched on .",
+        "the scoreboard was lit up .",
+        "the team was on the field ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600377471472",
+  "model": "GLAC"
+}

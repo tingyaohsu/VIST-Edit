@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4460288142-4460292766-4459523729-4459537723-4460339166",
+  "photo_sequence_ids": [
+    "4460288142",
+    "4460292766",
+    "4459523729",
+    "4459537723",
+    "4460339166"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the house was very clean . the cat was looking around . the dog was not happy . the dog was walking . the dog was not too interested .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the house was neat and clean . the housecat was crawling around . a dog was a bit anxious . the dog walked nervously . the dog was not too interested by the new guest .",
+      "normalized_edited_story_text_sent": [
+        "the house was neat and clean .",
+        "the housecat was crawling around .",
+        "a dog was a bit anxious .",
+        "the dog walked nervously .",
+        "the dog was not too interested by the new guest ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John thought the house was very clean . the cat was looking around . the dog was not happy . the dog was walking . the dog was not too interested .",
+      "normalized_edited_story_text_sent": [
+        "[male] thought the house was very clean .",
+        "the cat was looking around .",
+        "the dog was not happy .",
+        "the dog was walking .",
+        "the dog was not too interested ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "House was being cleaned today.  Looked out the window and saw these beautiful birds.  My cat was not happy!",
+      "normalized_edited_story_text_sent": [
+        "house was being cleaned today .",
+        "looked out the window and saw these beautiful birds .",
+        "my cat was not happy !"
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "They had this room cleaned up nicely. The cat was looking around for the bird. The dog was not happy about the bird. The dog kept waking around looking for it. But the dog soon lost interest in the bird.",
+      "normalized_edited_story_text_sent": [
+        "they had this room cleaned up nicely .",
+        "the cat was looking around for the bird .",
+        "the dog was not happy about the bird .",
+        "the dog kept waking around looking for it .",
+        "but the dog soon lost interest in the bird ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The birds were perched comfortably on the chairs in the office.",
+      "normalized_edited_story_text_sent": [
+        "the birds were perched comfortably on the chairs in the office ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623560377845",
+  "model": "GLAC"
+}

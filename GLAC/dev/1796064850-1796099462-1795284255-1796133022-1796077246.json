@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "1796064850-1796099462-1795284255-1796133022-1796077246",
+  "photo_sequence_ids": [
+    "1796064850",
+    "1796099462",
+    "1795284255",
+    "1796133022",
+    "1796077246"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were lots of decorations . the costumes were amazing . the girls were having a great time . the night was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were lots of decorations and designs everywhere . the girls were having a great time . the night was a huge success .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were lots of decorations and designs everywhere .",
+        "the girls were having a great time .",
+        "the night was a huge success ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "That bash was a blast! Everything was decked out. The costumes people showed up in were stellar, and the girls were having the time of their lives. Another night of successful partying.",
+      "normalized_edited_story_text_sent": [
+        "that bash was a blast !",
+        "everything was decked out .",
+        "the costumes people showed up in were stellar , and the girls were having the time of their lives .",
+        "another night of successful partying ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The females gathered together and took their artsy pictures and selfies in many different settings.",
+      "normalized_edited_story_text_sent": [
+        "the females gathered together and took their artsy pictures and selfies in many different settings ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The party was a lot of fun, and there were a lot of decorations. The costumes were all amazing--and the girls were having a great time the entire night. I\u0027d definitely call the night a success .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun , and there were a lot of decorations .",
+        "the costumes were all amazing -- and the girls were having a great time the entire night .",
+        "i \u0027d definitely call the night a success ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for the girls who came . there were lots of decorations on the wall. the costumes were amazing and must of costed a few dollars to make . the girls were having a great time chilling on the floor. the night was a success due to everyone having fun .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for the girls who came .",
+        "there were lots of decorations on the wall .",
+        "the costumes were amazing and must of costed a few dollars to make .",
+        "the girls were having a great time chilling on the floor .",
+        "the night was a success due to everyone having fun ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602772357974",
+  "model": "GLAC"
+}

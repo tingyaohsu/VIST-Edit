@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4433197035-4433971274-4433971786-4433198409-4433972608",
+  "photo_sequence_ids": [
+    "4433197035",
+    "4433971274",
+    "4433971786",
+    "4433198409",
+    "4433972608"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they played in the sand . they walked around the lake . they saw a lot of trees . they also took a picture of the waterfall .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "Our family went to the beach. the kids played in the sand, and we walked the shore along the cliffs.",
+      "normalized_edited_story_text_sent": [
+        "our family went to the beach .",
+        "the kids played in the sand , and we walked the shore along the cliffs ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went to the beach after dining. they played in the sand, walked around the water, and saw a lot of trees. they also took a picture by the fence.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach after dining .",
+        "they played in the sand , walked around the water , and saw a lot of trees .",
+        "they also took a picture by the fence ."
+      ]
+    },
+    {
+      "worker_id": "AVIH7MSMSTZCW",
+      "edited_story_text": "I went with my family to the beach . We had fun playing in the sand . We were feeling adventurous so we took a walk around the lake . We saw a lot of beautiful trees . Of course, we had to stop by the waterfall to take some pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went with my family to the beach .",
+        "we had fun playing in the sand .",
+        "we were feeling adventurous so we took a walk around the lake .",
+        "we saw a lot of beautiful trees .",
+        "of course , we had to stop by the waterfall to take some pictures ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family went to the beach .  they had lunch.  they walked on the boardwalk. they walked around the lake . they took pictures with statues.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they had lunch .",
+        "they walked on the boardwalk .",
+        "they walked around the lake .",
+        "they took pictures with statues ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The whole family went to the beach for the day. Everyone played in the sand. They leisurely strolled around the lake. Lisa and John saw a lot of trees on the cliffs. They also took some pictures of the waterfall.",
+      "normalized_edited_story_text_sent": [
+        "the whole family went to the beach for the day .",
+        "everyone played in the sand .",
+        "they leisurely strolled around the lake .",
+        "[female] and [male] saw a lot of trees on the cliffs .",
+        "they also took some pictures of the waterfall ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623496934551",
+  "model": "GLAC"
+}

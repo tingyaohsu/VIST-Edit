@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "2810227720-2810228582-2810228224-2810229492-2809381151",
+  "photo_sequence_ids": [
+    "2810227720",
+    "2810228582",
+    "2810228224",
+    "2810229492",
+    "2809381151"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3190/2810227720_81e709f984_o.jpg",
+    "https://farm4.staticflickr.com/3053/2810228582_804671a4a9_o.jpg",
+    "https://farm4.staticflickr.com/3088/2810228224_be7b5a6d10_o.jpg",
+    "https://farm4.staticflickr.com/3269/2810229492_2210f93e12_o.jpg",
+    "https://farm4.staticflickr.com/3238/2809381151_b66c622d14_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time . here i am with my friend [male] . there were a lot of interesting things to see . we got to see a lot of old cars . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "I had a great time . here i am with my friend [Rob] . there were a lot of interesting things to see . we got to see a lot of old cars . we had a great time there  .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time .",
+        "here i am with my friend [male] .",
+        "there were a lot of interesting things to see .",
+        "we got to see a lot of old cars .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had a wonderful time . here i am with my buddy [male] . there were many fascinating things to see . we got to see many old cars . we had a fantastic time there .",
+      "normalized_edited_story_text_sent": [
+        "we had a wonderful time .",
+        "here i am with my buddy [male] .",
+        "there were many fascinating things to see .",
+        "we got to see many old cars .",
+        "we had a fantastic time there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time visiting the museum. i took a picture with my friend [male]. there were a lot of interesting things to see, like some old cars. we had a fun day.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time visiting the museum .",
+        "i took a picture with my friend [male] .",
+        "there were a lot of interesting things to see , like some old cars .",
+        "we had a fun day ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "I am here with [Bob] and we took a trip together. There were lots of interesting things to see such as a replica of the space shuttle and a virtual reality car. We even took a tram tour! We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i am here with [male] and we took a trip together .",
+        "there were lots of interesting things to see such as a replica of the space shuttle and a virtual reality car .",
+        "we even took a tram tour !",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had a great time.  Here i am with my friend [male]. There were a lot of interesting things to see. We got to see a lot of old cars. We went on rides and had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time .",
+        "here i am with my friend [male] .",
+        "there were a lot of interesting things to see .",
+        "we got to see a lot of old cars .",
+        "we went on rides and had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157607018707495"
+}

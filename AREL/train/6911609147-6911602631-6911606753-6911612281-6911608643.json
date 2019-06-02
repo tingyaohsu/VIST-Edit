@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6911609147-6911602631-6911606753-6911612281-6911608643",
+  "photo_sequence_ids": [
+    "6911609147",
+    "6911602631",
+    "6911606753",
+    "6911612281",
+    "6911608643"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7197/6911609147_87e945a570_o.jpg",
+    "https://farm8.staticflickr.com/7047/6911602631_f8f17506b3_o.jpg",
+    "https://farm8.staticflickr.com/7182/6911606753_7b311855ec_o.jpg",
+    "https://farm8.staticflickr.com/7062/6911612281_703558a7aa_o.jpg",
+    "https://farm8.staticflickr.com/7066/6911608643_2a420f60e3_o.jpg"
+  ],
+  "auto_story_text_normalized": "the students waited patiently for the game to begin . she is getting ready to go to the library . the team was ready for the game to begin . the audience was very excited . it was a great day for a group photo .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The students waited patiently for the PERFORMANCE to begin. THE AUDITORIUM WAS HUGE . The PERFORMERS WERE ready for the SHOW to begin. The audience was very excited. EVERYONE ENJOYED THE PERFORMANCE.",
+      "normalized_edited_story_text_sent": [
+        "the students waited patiently for the performance to begin .",
+        "the auditorium was huge .",
+        "the performers were ready for the show to begin .",
+        "the audience was very excited .",
+        "everyone enjoyed the performance ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The students waited patiently for the conference to begin. First, they got ready to go to the library. The team was all ready for the conference to begin, and the audience was very excited. They all took a group photo.",
+      "normalized_edited_story_text_sent": [
+        "the students waited patiently for the conference to begin .",
+        "first , they got ready to go to the library .",
+        "the team was all ready for the conference to begin , and the audience was very excited .",
+        "they all took a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "the room was set up for the rally . the sales team  got everyone energized with a cheer. the audience listened attentively to the speakers. the audience clap to show their appreciation. it was a great presentation.",
+      "normalized_edited_story_text_sent": [
+        "the room was set up for the rally .",
+        "the sales team got everyone energized with a cheer .",
+        "the audience listened attentively to the speakers .",
+        "the audience clap to show their appreciation .",
+        "it was a great presentation ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the students waiting patiently for the game to begin . she was getting ready to went to the library . the team is ready for the game to begin . the audience is very excited . it is a great day for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "the students waiting patiently for the game to begin .",
+        "she was getting ready to went to the library .",
+        "the team is ready for the game to begin .",
+        "the audience is very excited .",
+        "it is a great day for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "it was almost time for the event to start, and the students were ready. she is getting ready to go to the library to get a paper, but they were provided at the vent. once on stage, the team was ready to start . the presentation excited the audience . with everyone together today, group shots were easy .",
+      "normalized_edited_story_text_sent": [
+        "it was almost time for the event to start , and the students were ready .",
+        "she is getting ready to go to the library to get a paper , but they were provided at the vent .",
+        "once on stage , the team was ready to start .",
+        "the presentation excited the audience .",
+        "with everyone together today , group shots were easy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629406351257"
+}

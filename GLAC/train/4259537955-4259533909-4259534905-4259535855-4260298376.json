@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4259537955-4259533909-4259534905-4259535855-4260298376",
+  "photo_sequence_ids": [
+    "4259537955",
+    "4259533909",
+    "4259534905",
+    "4259535855",
+    "4260298376"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the house was very nice . the room was well furnished . the bedroom was clean . the bed was nicely decorated . the living room was also organized .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The house was very nice and had a lovely fence. The kitchen was small, but modern. The dining room had plenty of seating. The living room was cozy and warm. The bathroom was very clean and had a classic look.",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice and had a lovely fence .",
+        "the kitchen was small , but modern .",
+        "the dining room had plenty of seating .",
+        "the living room was cozy and warm .",
+        "the bathroom was very clean and had a classic look ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the house was very nice . the room was well lit. the dining room was clean . the sofa was nicely decorated with pillows . the bathroom was also organized well.",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice .",
+        "the room was well lit .",
+        "the dining room was clean .",
+        "the sofa was nicely decorated with pillows .",
+        "the bathroom was also organized well ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "MARY AND JOHN SAID the house was very nice . the room was well furnished . the bedroom was clean . the bed was nicely decorated . the living room was also organized .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] said the house was very nice .",
+        "the room was well furnished .",
+        "the bedroom was clean .",
+        "the bed was nicely decorated .",
+        "the living room was also organized ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The house I was in was very nice. The rooms were well furnished. The bedroom was clean. The bed was nicely decorated. The living room was also organized.",
+      "normalized_edited_story_text_sent": [
+        "the house i was in was very nice .",
+        "the rooms were well furnished .",
+        "the bedroom was clean .",
+        "the bed was nicely decorated .",
+        "the living room was also organized ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the house was very nice . the rooms were well furnished . the bedroom was clean and spacious. the bed was nicely decorated . the living room was also organized .",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice .",
+        "the rooms were well furnished .",
+        "the bedroom was clean and spacious .",
+        "the bed was nicely decorated .",
+        "the living room was also organized ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623174760750",
+  "model": "GLAC"
+}

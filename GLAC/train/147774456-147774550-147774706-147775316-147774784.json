@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "147774456-147774550-147774706-147775316-147774784",
+  "photo_sequence_ids": [
+    "147774456",
+    "147774550",
+    "147774706",
+    "147775316",
+    "147774784"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . they took a lot of pictures . they were so happy to be married . the couple was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "this wedding was very lovely.  lisa and david were very glad to be married.  a lot of pictures were taken of the couple and their family.",
+      "normalized_edited_story_text_sent": [
+        "this wedding was very lovely .",
+        "[female] and [male] were very glad to be married .",
+        "a lot of pictures were taken of the couple and their family ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was beautiful . the bride and groom had a small ceremony . they took a lot of pictures . they were so happy to be together . the couple had their family at the wedding.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom had a small ceremony .",
+        "they took a lot of pictures .",
+        "they were so happy to be together .",
+        "the couple had their family at the wedding ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the wedding was beautiful . the bride and groom stood at the altar . they took a lot of pictures and danced the night away . The family posed for pictures.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom stood at the altar .",
+        "they took a lot of pictures and danced the night away .",
+        "the family posed for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the wedding was inside a church. the preacher read the bride and groom their vows. they were so happy to be married . the couple enjoyed the first dance.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was inside a church .",
+        "the preacher read the bride and groom their vows .",
+        "they were so happy to be married .",
+        "the couple enjoyed the first dance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594136895808",
+  "model": "GLAC"
+}

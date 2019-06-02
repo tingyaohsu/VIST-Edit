@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4328630747-4328653829-4328608203-4328532945-4329064552",
+  "photo_sequence_ids": [
+    "4328630747",
+    "4328653829",
+    "4328608203",
+    "4328532945",
+    "4329064552"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the art gallery . there were many paintings . the buildings were all very old . they were also beautiful . they had a lot of food .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "I stopped by an art gallery. They had so many great paintings. The building itself was ancient. But is was so pretty to look at. And the gallery even served us a huge delicious meal.",
+      "normalized_edited_story_text_sent": [
+        "i stopped by an art gallery .",
+        "they had so many great paintings .",
+        "the building itself was ancient .",
+        "but is was so pretty to look at .",
+        "and the gallery even served us a huge delicious meal ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "i went to the art gallery where there were many paintings. the buildings were all very old and beautiful. they also had a lot of food.",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery where there were many paintings .",
+        "the buildings were all very old and beautiful .",
+        "they also had a lot of food ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i went to the art gallery . there were many paintings . the buildings were all very old . the architecture was amazing .they had a lot of food .",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery .",
+        "there were many paintings .",
+        "the buildings were all very old .",
+        "the architecture was amazing .",
+        "they had a lot of food ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The flea market was interesting. The building had a lot of character. The food was good also. We had breakfast.",
+      "normalized_edited_story_text_sent": [
+        "the flea market was interesting .",
+        "the building had a lot of character .",
+        "the food was good also .",
+        "we had breakfast ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "i went to the tchotchke museum . there were many old items . the buildings were all very old . they were also beautiful . they had a great breakfast .",
+      "normalized_edited_story_text_sent": [
+        "i went to the tchotchke museum .",
+        "there were many old items .",
+        "the buildings were all very old .",
+        "they were also beautiful .",
+        "they had a great breakfast ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623132152719",
+  "model": "GLAC"
+}

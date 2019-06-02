@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "16140010998-16141365699-16139972608-16140010448-16327542235",
+  "photo_sequence_ids": [
+    "16140010998",
+    "16141365699",
+    "16139972608",
+    "16140010448",
+    "16327542235"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the parade . the streets were filled with people . the streets were full of people . the streets were lined up . the police officers were on the route .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the workers got ready for the parade . the people looked through the windows at the streets. the streets were full of people lined up. People were riding bike on the route .",
+      "normalized_edited_story_text_sent": [
+        "the workers got ready for the parade .",
+        "the people looked through the windows at the streets .",
+        "the streets were full of people lined up .",
+        "people were riding bike on the route ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the crowd gathered for the demonstration . the streets were filled with people holding signs .People walked together in protest . the streets were lined up . the police officers were on the route and some people were on bikes .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the demonstration .",
+        "the streets were filled with people holding signs .",
+        "people walked together in protest .",
+        "the streets were lined up .",
+        "the police officers were on the route and some people were on bikes ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The streets were full as the crowd were walking toward the festivities.",
+      "normalized_edited_story_text_sent": [
+        "the streets were full as the crowd were walking toward the festivities ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the crowd gathered for the parade to start . the streets were filled with people who came to see the parade . the streets were full of people that were hungry as well as thirsty . the streets were lined up from wall to wall . the police officers were on the route to make sure no one got hurt .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade to start .",
+        "the streets were filled with people who came to see the parade .",
+        "the streets were full of people that were hungry as well as thirsty .",
+        "the streets were lined up from wall to wall .",
+        "the police officers were on the route to make sure no one got hurt ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the crowd gathered for the parade . the streets were lined with people. the police officers were on the route. people walked and bicycled through the route.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade .",
+        "the streets were lined with people .",
+        "the police officers were on the route .",
+        "people walked and bicycled through the route ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157650387632771",
+  "model": "GLAC"
+}

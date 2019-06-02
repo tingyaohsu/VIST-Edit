@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4416927966-4415774417-4416235721-4416958160-4416252043",
+  "photo_sequence_ids": [
+    "4416927966",
+    "4415774417",
+    "4416235721",
+    "4416958160",
+    "4416252043"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old building was very tall . the trees were in full bloom . the road was covered with snow . the buildings were well maintained . the view from the top was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "We visited an old town. We first saw an old post office and then we let kids play in the river. Afterwards we took to the roads and saw the great plains overlooking the beautiful land.",
+      "normalized_edited_story_text_sent": [
+        "we visited an old town .",
+        "we first saw an old post office and then we let kids play in the river .",
+        "afterwards we took to the roads and saw the great plains overlooking the beautiful land ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the old architecture towered over the place. the trees were in season . the snow had blanketed the street roads . the buildings\u0027 presentation showed that they were in good hands . the panorama from the top, spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the old architecture towered over the place .",
+        "the trees were in season .",
+        "the snow had blanketed the street roads .",
+        "the buildings \u0027 presentation showed that they were in good hands .",
+        "the panorama from the top , spectacular ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the old building was very tall . The post office was in a cool, ornate building. The kids went swimming. The views of the mountains were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the old building was very tall .",
+        "the post office was in a cool , ornate building .",
+        "the kids went swimming .",
+        "the views of the mountains were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the old building was very tall, I wonder if it has always been a post office . I noticed the trees were in full bloom as I watched the children play in the stream. this road was covered with snow the last time I came to visit his town . the buildings were well maintained, they only needed minor touch up painting around the bricks above the window . the view from the top was amazing, I could see all the way to my hometown from there .",
+      "normalized_edited_story_text_sent": [
+        "the old building was very tall , i wonder if it has always been a post office .",
+        "i noticed the trees were in full bloom as i watched the children play in the stream .",
+        "this road was covered with snow the last time i came to visit his town .",
+        "the buildings were well maintained , they only needed minor touch up painting around the bricks above the window .",
+        "the view from the top was amazing , i could see all the way to my hometown from there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the old building was wide and tall . it was lined by fully grown trees . the town\u0027s roads were wide . the buildings were well preserved . the view from the top of a building was mesmerizing .",
+      "normalized_edited_story_text_sent": [
+        "the old building was wide and tall .",
+        "it was lined by fully grown trees .",
+        "the town \u0027s roads were wide .",
+        "the buildings were well preserved .",
+        "the view from the top of a building was mesmerizing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623578109828",
+  "model": "GLAC"
+}

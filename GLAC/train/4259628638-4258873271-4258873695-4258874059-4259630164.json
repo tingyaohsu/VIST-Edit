@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4259628638-4258873271-4258873695-4258874059-4259630164",
+  "photo_sequence_ids": [
+    "4259628638",
+    "4258873271",
+    "4258873695",
+    "4258874059",
+    "4259630164"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was giving a speech . the speaker was very happy . he had a great time . the audience was full . the crowd was packed .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The city was bustling with life. People were everywhere. It was such a great time. Everyone was super nice to us.",
+      "normalized_edited_story_text_sent": [
+        "the city was bustling with life .",
+        "people were everywhere .",
+        "it was such a great time .",
+        "everyone was super nice to us ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man was giving a speech .He checked out the sights. There were pretty yellow flowers. The architecture was amazing. The streets were filled with people.",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech .",
+        "he checked out the sights .",
+        "there were pretty yellow flowers .",
+        "the architecture was amazing .",
+        "the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The man was giving a speech, and he was very happy about it. He had a great time doing it. The audience seating area was very much packed with lots of people.",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech , and he was very happy about it .",
+        "he had a great time doing it .",
+        "the audience seating area was very much packed with lots of people ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the man was making food . the person was taking a photo of a structure . he had a great time . the street was full . they were shopping .",
+      "normalized_edited_story_text_sent": [
+        "the man was making food .",
+        "the person was taking a photo of a structure .",
+        "he had a great time .",
+        "the street was full .",
+        "they were shopping ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "During our tour in China, we saw venders selling food and some creative artwork graffiti-ed on concrete walls. There was some beautiful architecture on our way to a restaurant that had a line going outside the front door.",
+      "normalized_edited_story_text_sent": [
+        "during our tour in china , we saw venders selling food and some creative artwork graffiti-ed on concrete walls .",
+        "there was some beautiful architecture on our way to a restaurant that had a line going outside the front door ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623173423580",
+  "model": "GLAC"
+}

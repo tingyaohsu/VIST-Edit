@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "127561240-127562531-127563547-127563975-127564434",
+  "photo_sequence_ids": [
+    "127561240",
+    "127562531",
+    "127563547",
+    "127563975",
+    "127564434"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited for the party . the children were having a great time . the family was happy to be together . the baby was very happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were excited for the party .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the party ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the kids were excited for the party on the last day of school. the children were having a great time at the pizza parlor . the family was happy to be together . the kids clothes for lots of photos. the whole family was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the party on the last day of school .",
+        "the children were having a great time at the pizza parlor .",
+        "the family was happy to be together .",
+        "the kids clothes for lots of photos .",
+        "the whole family was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My kids were excited for the party. They had a great time. My family was happy to be together. My baby was very happy. The whole family was there.",
+      "normalized_edited_story_text_sent": [
+        "my kids were excited for the party .",
+        "they had a great time .",
+        "my family was happy to be together .",
+        "my baby was very happy .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited for the party . the children wore graduation hats. the family was happy to be together . the kids smiled while they ate . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the party .",
+        "the children wore graduation hats .",
+        "the family was happy to be together .",
+        "the kids smiled while they ate .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the kids were excited for the party . WE GOT TO SEE THE CALENDAR THEY USE IN CLASS. the children were having a great time EATING PIZZA . the family was happy to be together . the baby was very happy, BUT I DIDN\u0027T GET A PICTURE OF HIM . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the party .",
+        "we got to see the calendar they use in class .",
+        "the children were having a great time eating pizza .",
+        "the family was happy to be together .",
+        "the baby was very happy , but i did n\u0027t get a picture of him .",
+        "the whole family was there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594105488493",
+  "model": "GLAC"
+}

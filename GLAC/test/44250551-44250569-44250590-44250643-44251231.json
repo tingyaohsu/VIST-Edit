@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "44250551-44250569-44250590-44250643-44251231",
+  "photo_sequence_ids": [
+    "44250551",
+    "44250569",
+    "44250590",
+    "44250643",
+    "44251231"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was very excited to be in the park . the family was having a great time together . the water was calm and peaceful . the beach was a nice place to visit . the kids enjoyed the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we saw a stray cat in the park. the family had a great time together at lunch, and then we visited the beach. the water was a little choppy from the wind, but overall it was such a nice way to spend the day!",
+      "normalized_edited_story_text_sent": [
+        "we saw a stray cat in the park .",
+        "the family had a great time together at lunch , and then we visited the beach .",
+        "the water was a little choppy from the wind , but overall it was such a nice way to spend the day !"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert was glad the dog was very excited to be in the park . the family was having a great time together . the water was calm and peaceful . the beach was a nice place to visit . the kids enjoyed the day .",
+      "normalized_edited_story_text_sent": [
+        "[male] was glad the dog was very excited to be in the park .",
+        "the family was having a great time together .",
+        "the water was calm and peaceful .",
+        "the beach was a nice place to visit .",
+        "the kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the cat was sitting in the kitchen floor looking unamused . the family was having a great time together near the ocean . the water was calm and peaceful . the beach was a nice place to visit . the kids enjoyed the day .",
+      "normalized_edited_story_text_sent": [
+        "the cat was sitting in the kitchen floor looking unamused .",
+        "the family was having a great time together near the ocean .",
+        "the water was calm and peaceful .",
+        "the beach was a nice place to visit .",
+        "the kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the cat was there. the guys were having a great time together . the water was calm and peaceful . there was no beach. the people enjoyed the day .",
+      "normalized_edited_story_text_sent": [
+        "the cat was there .",
+        "the guys were having a great time together .",
+        "the water was calm and peaceful .",
+        "there was no beach .",
+        "the people enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the cat was glad to be outdoors . the family then had a plan for a great time . the ocean was mostly calm and peaceful . the beach was a nice place to see waves break . the kids enjoyed the beach immensely .",
+      "normalized_edited_story_text_sent": [
+        "the cat was glad to be outdoors .",
+        "the family then had a plan for a great time .",
+        "the ocean was mostly calm and peaceful .",
+        "the beach was a nice place to see waves break .",
+        "the kids enjoyed the beach immensely ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "968378",
+  "model": "GLAC"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "7155162371-7155164541-7340366362-7340369856-7340371720",
+  "photo_sequence_ids": [
+    "7155162371",
+    "7155164541",
+    "7340366362",
+    "7340369856",
+    "7340371720"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the men were in attendance . they were having a great time . they were very happy . they were all ready for the ceremony . they were so proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the men were in attendance . they were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the men were in attendance .",
+        "they were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the men were in attendance . The soldiers were in uniform. The listened to the speaker. They all celebrated at the end.",
+      "normalized_edited_story_text_sent": [
+        "the men were in attendance .",
+        "the soldiers were in uniform .",
+        "the listened to the speaker .",
+        "they all celebrated at the end ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the men were in attendance . they were ready for the speech . they were very happy . they were all ready for the ceremony . they were very pleased .",
+      "normalized_edited_story_text_sent": [
+        "the men were in attendance .",
+        "they were ready for the speech .",
+        "they were very happy .",
+        "they were all ready for the ceremony .",
+        "they were very pleased ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the men were in attendance . they were having a great time . they were very happy . they were all ready for the ceremony . they were so proud .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the men were in attendance .",
+        "they were having a great time .",
+        "they were very happy .",
+        "they were all ready for the ceremony .",
+        "they were so proud ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "Today the Afghanistan army had a promotion ceremony for the officers. ten officers were promoted to captain. I am so glad i got to be there to see it. they are great men and will serve their country well.",
+      "normalized_edited_story_text_sent": [
+        "today the afghanistan army had a promotion ceremony for the officers .",
+        "ten officers were promoted to captain .",
+        "i am so glad i got to be there to see it .",
+        "they are great men and will serve their country well ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630056039634",
+  "model": "GLAC"
+}

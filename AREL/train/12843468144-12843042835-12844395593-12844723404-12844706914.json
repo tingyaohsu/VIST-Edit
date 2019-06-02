@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "12843468144-12843042835-12844395593-12844723404-12844706914",
+  "photo_sequence_ids": [
+    "12843468144",
+    "12843042835",
+    "12844395593",
+    "12844723404",
+    "12844706914"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7437/12843468144_1e0ee68b05_o.jpg",
+    "https://farm3.staticflickr.com/2859/12843042835_962aba7b38_o.jpg",
+    "https://farm4.staticflickr.com/3731/12844395593_f9406ea4a4_o.jpg",
+    "https://farm4.staticflickr.com/3807/12844723404_d54657891c_o.jpg",
+    "https://farm4.staticflickr.com/3689/12844706914_a629c0873c_o.jpg"
+  ],
+  "auto_story_text_normalized": "i bought a lot of ingredients . it was a lot of fun . a lot of the food was served . i bought a lot of food . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I purchased some extra ingredients. It was so much fun. A bigger amount of food portions were served. I purchased a good amount of food. I thoroughly enjoyed it.",
+      "normalized_edited_story_text_sent": [
+        "i purchased some extra ingredients .",
+        "it was so much fun .",
+        "a bigger amount of food portions were served .",
+        "i purchased a good amount of food .",
+        "i thoroughly enjoyed it ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i bought a lot of things at [location] . i had a fun time at [location] . the patrons were served a lot of food . i ordered a lot and had a great meal . the food was so great that i couldn\u0027t help but enjoy my time there.",
+      "normalized_edited_story_text_sent": [
+        "i bought a lot of things at [location] .",
+        "i had a fun time at [location] .",
+        "the patrons were served a lot of food .",
+        "i ordered a lot and had a great meal .",
+        "the food was so great that i could n\u0027t help but enjoy my time there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I ordered a lot of food at the restaurant.  I had a lot of fun.  The restaurant serves some interesting ingredients. The food was unique and interesting. I finished my meal off with a cappuccino.  I found an interesting book too.",
+      "normalized_edited_story_text_sent": [
+        "i ordered a lot of food at the restaurant .",
+        "i had a lot of fun .",
+        "the restaurant serves some interesting ingredients .",
+        "the food was unique and interesting .",
+        "i finished my meal off with a cappuccino .",
+        "i found an interesting book too ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i bought a lot of ingredients to make dinner.  it was a lot of fun to decorate the plates and send them out to the patrons.  i thought they looked vibrant and beautiful!",
+      "normalized_edited_story_text_sent": [
+        "i bought a lot of ingredients to make dinner .",
+        "it was a lot of fun to decorate the plates and send them out to the patrons .",
+        "i thought they looked vibrant and beautiful !"
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "We tried a new restaurant. The dish had a lot of ingredients. There were a variety of food choices. A lot of the food was served. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we tried a new restaurant .",
+        "the dish had a lot of ingredients .",
+        "there were a variety of food choices .",
+        "a lot of the food was served .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157641674917713"
+}

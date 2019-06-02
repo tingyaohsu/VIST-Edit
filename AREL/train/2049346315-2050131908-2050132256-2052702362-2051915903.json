@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "2049346315-2050131908-2050132256-2052702362-2051915903",
+  "photo_sequence_ids": [
+    "2049346315",
+    "2050131908",
+    "2050132256",
+    "2052702362",
+    "2051915903"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2343/2049346315_87081ca169_o.jpg",
+    "https://farm3.staticflickr.com/2322/2050131908_8881a87ca3_o.jpg",
+    "https://farm3.staticflickr.com/2058/2050132256_582fe1e417_o.jpg",
+    "https://farm3.staticflickr.com/2067/2052702362_ac6388812e_o.jpg",
+    "https://farm3.staticflickr.com/2192/2051915903_2e52cd5377_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to visit the local museum . there were a lot of flowers there . there were a lot of things to choose from . i had a great time there . the street vendors were very busy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SZZB104QVWS8",
+      "edited_story_text": "This morning on our way out of the house we noticed the leaves changing and new flower blooms in our garden. To make the day better we got a great deal on the machine we needed from ampm before going to lunch at our favorite authentic Chinese restaurant",
+      "normalized_edited_story_text_sent": [
+        "this morning on our way out of the house we noticed the leaves changing and new flower blooms in our garden .",
+        "to make the day better we got a great deal on the machine we needed from ampm before going to lunch at our favorite authentic chinese restaurant"
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "We went to visit the local museum. There were a lot of flowers there and a lot of things to choose from. I had a great time there. The street vendors were very busy .",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the local museum .",
+        "there were a lot of flowers there and a lot of things to choose from .",
+        "i had a great time there .",
+        "the street vendors were very busy ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we visited the local museum . there were so many flowers there . there were many things to choose from . i had an awesome time there . the street vendors were very active working .",
+      "normalized_edited_story_text_sent": [
+        "we visited the local museum .",
+        "there were so many flowers there .",
+        "there were many things to choose from .",
+        "i had an awesome time there .",
+        "the street vendors were very active working ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to visit the local museum . there were a lot of flowers there . there were a lot of things to choose from and i had a great time there . the street vendors were very busy .",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the local museum .",
+        "there were a lot of flowers there .",
+        "there were a lot of things to choose from and i had a great time there .",
+        "the street vendors were very busy ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "We went to visit the local museum. There were a lot of flowers there. The street vendors were very busy. They had a lot of things to choose from. I had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the local museum .",
+        "there were a lot of flowers there .",
+        "the street vendors were very busy .",
+        "they had a lot of things to choose from .",
+        "i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603248353977"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "2688787325-2688792633-2688793679-2688793245-2688786489",
+  "photo_sequence_ids": [
+    "2688787325",
+    "2688792633",
+    "2688793679",
+    "2688793245",
+    "2688786489"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3226/2688787325_4451a27836_o.jpg",
+    "https://farm4.staticflickr.com/3230/2688792633_7691651e1a_o.jpg",
+    "https://farm4.staticflickr.com/3077/2688793679_1d997ebf8a_o.jpg",
+    "https://farm4.staticflickr.com/3186/2688793245_dc1bbe484b_o.jpg",
+    "https://farm4.staticflickr.com/3092/2688786489_25c8262901_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went to the park for a picnic . there was a lot of people there . they were able to get to the top of the finish line . the first stop was to the top of the hill . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "the family went to the park for a picnic . there was a lot of people there . they were able to get to play games . the first was to play catch . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a picnic .",
+        "there was a lot of people there .",
+        "they were able to get to play games .",
+        "the first was to play catch .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "The family went to the park for a picnic, there was a lot of people there that day. The first stop was the top of the hill. They were able to get to the finish line at the top of the hill - it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a picnic , there was a lot of people there that day .",
+        "the first stop was the top of the hill .",
+        "they were able to get to the finish line at the top of the hill - it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the family went to the park for a picnic . there was a lot of people there . we played games . there were folding chairs for those who did not participate . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a picnic .",
+        "there was a lot of people there .",
+        "we played games .",
+        "there were folding chairs for those who did not participate .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the family went to the park for a picnic . there was a lot of people there . They had a race there.that we all joined in on. We were able to get to the top of the finish line just in time . The race started at the top of the hill . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a picnic .",
+        "there was a lot of people there .",
+        "they had a race there.that we all joined in on .",
+        "we were able to get to the top of the finish line just in time .",
+        "the race started at the top of the hill .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "The whole family went to the park for a scenic outing. There was a team of people in the field there. They looked like they won the game. The team looked like they were playing some kind of softball with catching mitts. It was a very pleasant day.",
+      "normalized_edited_story_text_sent": [
+        "the whole family went to the park for a scenic outing .",
+        "there was a team of people in the field there .",
+        "they looked like they won the game .",
+        "the team looked like they were playing some kind of softball with catching mitts .",
+        "it was a very pleasant day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157606307817709"
+}

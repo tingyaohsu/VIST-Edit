@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4361738007-4362482338-4362483008-4362483642-4362484314",
+  "photo_sequence_ids": [
+    "4361738007",
+    "4362482338",
+    "4362483008",
+    "4362483642",
+    "4362484314"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4008/4361738007_6e855a13fb_o.jpg",
+    "https://farm5.staticflickr.com/4039/4362482338_3ddcefe6b7_o.jpg",
+    "https://farm5.staticflickr.com/4051/4362483008_9c3826cfcc_o.jpg",
+    "https://farm3.staticflickr.com/2769/4362483642_0736e9609b_o.jpg",
+    "https://farm3.staticflickr.com/2735/4362484314_5391a07314_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the train station . there were a lot of interesting things to see . there were many trains to see . the trains were very old . this is a picture of a train .",
+  "edited_stories": [
+    {
+      "worker_id": "A3I4GTLPDHWT8J",
+      "edited_story_text": "I went to the train station to see the Edward Thomas Train exhibit.  There were many trains but I enjoyed the green train the most.",
+      "normalized_edited_story_text_sent": [
+        "i went to the train station to see the edward thomas train exhibit .",
+        "there were many trains but i enjoyed the green train the most ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i took a trip to the trains station at [location]. the station was full of interesting sights. plenty of trains were there, like this beautiful green one . the trains were very old, but were still visually appealing . i really liked capturing this train .",
+      "normalized_edited_story_text_sent": [
+        "i took a trip to the trains station at [location] .",
+        "the station was full of interesting sights .",
+        "plenty of trains were there , like this beautiful green one .",
+        "the trains were very old , but were still visually appealing .",
+        "i really liked capturing this train ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the train station . there were a lot of interesting things to see . there were many trains to see . the trains were very old . this is a picture of a train It was beautiful",
+      "normalized_edited_story_text_sent": [
+        "i went to the train station .",
+        "there were a lot of interesting things to see .",
+        "there were many trains to see .",
+        "the trains were very old .",
+        "this is a picture of a train it was beautiful"
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "i went to the train station. there were a lot of interesting things to see there including many trains. the trains were very old. I took picture of some of the trains I saw there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the train station .",
+        "there were a lot of interesting things to see there including many trains .",
+        "the trains were very old .",
+        "i took picture of some of the trains i saw there ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to the train station. They had lots of interesting things to see. There was a green train with a red passenger car. The trains looked very old. I enjoyed seeing these vintage trains.",
+      "normalized_edited_story_text_sent": [
+        "i went to the train station .",
+        "they had lots of interesting things to see .",
+        "there was a green train with a red passenger car .",
+        "the trains looked very old .",
+        "i enjoyed seeing these vintage trains ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623321729475"
+}

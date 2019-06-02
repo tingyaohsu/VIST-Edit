@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "210929866-210929621-210933153-210931584-210929473",
+  "photo_sequence_ids": [
+    "210929866",
+    "210929621",
+    "210933153",
+    "210931584",
+    "210929473"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the big day . the young girl was excited to be there . the kids were excited . the children were all dressed up . the families were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was ready for the big day, this was their favorite event of the year . the young girl was excited to be there because they were supporting their brother . the kids were excited to play golf . the children were all dressed up as this was a corporate event . the families were very proud of the money they rasied .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day , this was their favorite event of the year .",
+        "the young girl was excited to be there because they were supporting their brother .",
+        "the kids were excited to play golf .",
+        "the children were all dressed up as this was a corporate event .",
+        "the families were very proud of the money they rasied ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the golf tournament was finally happening and we were very prepared for the big day. david and john kidded each other about who would be the winner that day. almost every horizon employee was expected to attend. david impressed us all with his powerful swing. my boyfriend robert ended up winning, and i was so proud of him.",
+      "normalized_edited_story_text_sent": [
+        "the golf tournament was finally happening and we were very prepared for the big day .",
+        "[male] and [male] kidded each other about who would be the winner that day .",
+        "almost every horizon employee was expected to attend .",
+        "[male] impressed us all with his powerful swing .",
+        "my boyfriend [male] ended up winning , and i was so proud of him ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the clubhouse was prepared for golf tournament.  Everyone was excited to play.  Each hole had a different sponsor.  We prepared by hitting balls from the driving range.  Afterwards we took photos to remember the day.",
+      "normalized_edited_story_text_sent": [
+        "the clubhouse was prepared for golf tournament .",
+        "everyone was excited to play .",
+        "each hole had a different sponsor .",
+        "we prepared by hitting balls from the driving range .",
+        "afterwards we took photos to remember the day ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the family was ready for the big day . the young girl was excited to be there, since she had never participated in a golf tournament before . the kids were excited and ran around to burn off energy . the children were all dressed up in their best golf uniforms. the families were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "the young girl was excited to be there , since she had never participated in a golf tournament before .",
+        "the kids were excited and ran around to burn off energy .",
+        "the children were all dressed up in their best golf uniforms .",
+        "the families were very proud ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was ready for the big golf tournament . We took some swing to warm up on the driving range. We enjoyed the day of golfing.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big golf tournament .",
+        "we took some swing to warm up on the driving range .",
+        "we enjoyed the day of golfing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594230490220",
+  "model": "GLAC"
+}

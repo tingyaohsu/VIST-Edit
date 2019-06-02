@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6392870391-6304391025-6392902839-6392911633-6392922517",
+  "photo_sequence_ids": [
+    "6392870391",
+    "6304391025",
+    "6392902839",
+    "6392911633",
+    "6392922517"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the carnival . they rode on the carousel . they also played some games . they also visited a museum . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the carnival . they rode on the carousel . it was a fun time.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the carnival .",
+        "they rode on the carousel .",
+        "it was a fun time ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Family fun day! First stop is the carousel!  Then visited a cool museum and had a great day!",
+      "normalized_edited_story_text_sent": [
+        "family fun day !",
+        "first stop is the carousel !",
+        "then visited a cool museum and had a great day !"
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The family went to on vacation. They rode on the carousel . They also saw some beautiful buildings . They visited a museum . It was a long day but they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to on vacation .",
+        "they rode on the carousel .",
+        "they also saw some beautiful buildings .",
+        "they visited a museum .",
+        "it was a long day but they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went to the city center . they paid for a carousel ride . they played several games . they got to see a museum . they had fun together .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the city center .",
+        "they paid for a carousel ride .",
+        "they played several games .",
+        "they got to see a museum .",
+        "they had fun together ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went to the carnival . they rode on the carousel . they also played some games . they also visited a museum . they walked around a lot and loved it all.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the carnival .",
+        "they rode on the carousel .",
+        "they also played some games .",
+        "they also visited a museum .",
+        "they walked around a lot and loved it all ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628033104348",
+  "model": "GLAC"
+}

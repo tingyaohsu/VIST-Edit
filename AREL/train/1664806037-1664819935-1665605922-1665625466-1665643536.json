@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "1664806037-1664819935-1665605922-1665625466-1665643536",
+  "photo_sequence_ids": [
+    "1664806037",
+    "1664819935",
+    "1665605922",
+    "1665625466",
+    "1665643536"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2063/1664806037_9174ba1fe4_o.jpg",
+    "https://farm3.staticflickr.com/2220/1664819935_9839c95384_o.jpg",
+    "https://farm3.staticflickr.com/2060/1665605922_f22dd01722_o.jpg",
+    "https://farm3.staticflickr.com/2073/1665625466_0e34f71a47_o.jpg",
+    "https://farm3.staticflickr.com/2411/1665643536_e1e26f7ce6_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a lot of fun at the halloween party last night . we had a lot of fun . there were lots of pumpkins . the pumpkins are ready for the night . we finished the night with a pumpkin carving .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we had a lot of fun at the halloween party last night . we ate halloween themed snacks . there were lots of pumpkins . the pumpkins were ready for the night . we finished the night with a pumpkin carving .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the halloween party last night .",
+        "we ate halloween themed snacks .",
+        "there were lots of pumpkins .",
+        "the pumpkins were ready for the night .",
+        "we finished the night with a pumpkin carving ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a lot of fun at the halloween party last night . we had a lot of fun . there were lots of pumpkins and the pumpkins are ready for the night . we finished the night with a pumpkin carving .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the halloween party last night .",
+        "we had a lot of fun .",
+        "there were lots of pumpkins and the pumpkins are ready for the night .",
+        "we finished the night with a pumpkin carving ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "last night\u0027s halloween party was great and so were the treats . we had a lot of fun carving the pumpkins. there were lots of pumpkins with funny faces . once the pumpkins were lit, they were ready . the pumpkin carving was a great finale for the night.",
+      "normalized_edited_story_text_sent": [
+        "last night \u0027s halloween party was great and so were the treats .",
+        "we had a lot of fun carving the pumpkins .",
+        "there were lots of pumpkins with funny faces .",
+        "once the pumpkins were lit , they were ready .",
+        "the pumpkin carving was a great finale for the night ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We had a lot of fun at the Halloween party last night and there were lots of pumpkins. Towards the end of the party we carved the pumpkins and lit them up.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the halloween party last night and there were lots of pumpkins .",
+        "towards the end of the party we carved the pumpkins and lit them up ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "We had a lot of fun at the Halloween party last night. There were lots of pumpkins that were ready for the night. We finished the night with a pumpkin carving.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the halloween party last night .",
+        "there were lots of pumpkins that were ready for the night .",
+        "we finished the night with a pumpkin carving ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602571938321"
+}

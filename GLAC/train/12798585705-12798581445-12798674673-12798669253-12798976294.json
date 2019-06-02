@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "12798585705-12798581445-12798674673-12798669253-12798976294",
+  "photo_sequence_ids": [
+    "12798585705",
+    "12798581445",
+    "12798674673",
+    "12798669253",
+    "12798976294"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people that were dressed up . some of them were very creative . they were all very fast . they were also very fast .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The parade was a lot of fun. Some of the people that dressed up were very creative. The horses were very fast. It was a great time.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "some of the people that dressed up were very creative .",
+        "the horses were very fast .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big parade was a lot of fun and there were so many people that were dressed up . some of them were very creative . they were all very fast . they were also very fast .",
+      "normalized_edited_story_text_sent": [
+        "the big parade was a lot of fun and there were so many people that were dressed up .",
+        "some of them were very creative .",
+        "they were all very fast .",
+        "they were also very fast ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the parade was a lot of fun . there were so many people dressed up . some of them were very creative . they were all very authentic . they were also very friendly .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people dressed up .",
+        "some of them were very creative .",
+        "they were all very authentic .",
+        "they were also very friendly ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun due to the great crowd . there were so many people that were dressed up for the event . some of them were very creative while others just wore a suit . they were all very fast at helping anyone who needed it . they were also very fast at riding the horses .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun due to the great crowd .",
+        "there were so many people that were dressed up for the event .",
+        "some of them were very creative while others just wore a suit .",
+        "they were all very fast at helping anyone who needed it .",
+        "they were also very fast at riding the horses ."
+      ]
+    },
+    {
+      "worker_id": "A2PSVYL53CDVJ3",
+      "edited_story_text": "The parade that I went to was very fun. In this first photo there are several men riding a horse in a carriage, which was very cool in the procession. I also took a photo with a group of people that attended. There were also men riding some horses during the show, which you can see in this photo. They were dressed really well and had hats on, which I thought was neat.",
+      "normalized_edited_story_text_sent": [
+        "the parade that i went to was very fun .",
+        "in this first photo there are several men riding a horse in a carriage , which was very cool in the procession .",
+        "i also took a photo with a group of people that attended .",
+        "there were also men riding some horses during the show , which you can see in this photo .",
+        "they were dressed really well and had hats on , which i thought was neat ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157641572652875",
+  "model": "GLAC"
+}

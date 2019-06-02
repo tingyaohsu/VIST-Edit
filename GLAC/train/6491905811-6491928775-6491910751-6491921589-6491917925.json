@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6491905811-6491928775-6491910751-6491921589-6491917925",
+  "photo_sequence_ids": [
+    "6491905811",
+    "6491928775",
+    "6491910751",
+    "6491921589",
+    "6491917925"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was lit up at night . the buildings were tall and majestic . the streets were empty . the streets were empty . the artwork was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the highway was lit up near the exit . the hotels and restaurants beckoned tired drivers . the night streets were empty . the streets had no visible people . the logos were corporate .",
+      "normalized_edited_story_text_sent": [
+        "the highway was lit up near the exit .",
+        "the hotels and restaurants beckoned tired drivers .",
+        "the night streets were empty .",
+        "the streets had no visible people .",
+        "the logos were corporate ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was lit up at night . We went to the gas station and to get some food. The Christmas tree was all ready.",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "we went to the gas station and to get some food .",
+        "the christmas tree was all ready ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was lit up at night . from the hotel to a kfc",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "from the hotel to a kfc"
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "i decided to get a different perspective of the city lit up at night. the buildings were tall and majestic in the city lights while the streets were empty. it was so peaceful!",
+      "normalized_edited_story_text_sent": [
+        "i decided to get a different perspective of the city lit up at night .",
+        "the buildings were tall and majestic in the city lights while the streets were empty .",
+        "it was so peaceful !"
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the city was lit up at night . the buildings were tall and majestic . the streets were empty . the streets were empty . the artwork was beautiful .\r\rI\u0027ll never forget how the city just lit up at night. The buildings were so large and majestic. The streets were so empty, it was kind of nice! The artwork along the way, was memorable!",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "the buildings were tall and majestic .",
+        "the streets were empty .",
+        "the streets were empty .",
+        "the artwork was beautiful .",
+        "i \u0027ll never forget how the city just lit up at night .",
+        "the buildings were so large and majestic .",
+        "the streets were so empty , it was kind of nice !",
+        "the artwork along the way , was memorable !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628370536917",
+  "model": "GLAC"
+}

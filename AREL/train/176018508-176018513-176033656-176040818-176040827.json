@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "176018508-176018513-176033656-176040818-176040827",
+  "photo_sequence_ids": [
+    "176018508",
+    "176018513",
+    "176033656",
+    "176040818",
+    "176040827"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/55/176018508_d93686cbb8_o.jpg",
+    "https://farm1.staticflickr.com/73/176018513_300f3e1b72_o.jpg",
+    "https://farm1.staticflickr.com/74/176033656_29a8a3b98a_o.jpg",
+    "https://farm1.staticflickr.com/67/176040818_e59c7c3b54_o.jpg",
+    "https://farm1.staticflickr.com/60/176040827_5d0cc43247_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the baseball game today . there was a lot of people there . there were a lot of people there . we had a great time at the festival . at the end of the day , the grand finale was the best part .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the baseball game today. there were a lot of people in the crowd. the game was a lot of fun, and the team\u0027s mascot was really entertaining.  our team won the game.",
+      "normalized_edited_story_text_sent": [
+        "we went to the baseball game today .",
+        "there were a lot of people in the crowd .",
+        "the game was a lot of fun , and the team \u0027s mascot was really entertaining .",
+        "our team won the game ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "We went to the watch baseball today. There was a good turn out of fans. The bleachers were almost full. We had a good view from the front. The Mascot came down right in front of us, the final score was the best part .",
+      "normalized_edited_story_text_sent": [
+        "we went to the watch baseball today .",
+        "there was a good turn out of fans .",
+        "the bleachers were almost full .",
+        "we had a good view from the front .",
+        "the mascot came down right in front of us , the final score was the best part ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we took a trip to the baseball game today . there was a crowd there . there were so many people there . we had an awesome time at the festival . in the evening , the grand finale was the best part of all .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the baseball game today .",
+        "there was a crowd there .",
+        "there were so many people there .",
+        "we had an awesome time at the festival .",
+        "in the evening , the grand finale was the best part of all ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we went to the baseball game today and got to walk on the field. That was pretty awesome . there was a lot of people there . The stands were filled with fans. we had a great time at the game and a child got to hug the mascot . at the end of the day , the grand finale was the best part .",
+      "normalized_edited_story_text_sent": [
+        "we went to the baseball game today and got to walk on the field .",
+        "that was pretty awesome .",
+        "there was a lot of people there .",
+        "the stands were filled with fans .",
+        "we had a great time at the game and a child got to hug the mascot .",
+        "at the end of the day , the grand finale was the best part ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "we went to the baseball game today. there was a lot of people there. during the break, the mascot came out and entertained us. We had a great time watching the game and the mascot. The grand finale was the best part.",
+      "normalized_edited_story_text_sent": [
+        "we went to the baseball game today .",
+        "there was a lot of people there .",
+        "during the break , the mascot came out and entertained us .",
+        "we had a great time watching the game and the mascot .",
+        "the grand finale was the best part ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594178913581"
+}

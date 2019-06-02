@@ -1,0 +1,81 @@
+{
+  "photo_sequence_id": "12846319-12846321-12846326-12846352-12846413",
+  "photo_sequence_ids": [
+    "12846319",
+    "12846321",
+    "12846326",
+    "12846352",
+    "12846413"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/9/12846319_bf01d1d693_o.jpg",
+    "https://farm1.staticflickr.com/10/12846321_1b47e69bfb_o.jpg",
+    "https://farm1.staticflickr.com/9/12846326_b8a4d3e2e2_o.jpg",
+    "https://farm1.staticflickr.com/10/12846352_31697fccc7_o.jpg",
+    "https://farm1.staticflickr.com/11/12846413_772804433e_o.jpg"
+  ],
+  "auto_story_text_normalized": "[female] was very excited to be at the wedding . the kids were so excited to be there . they were so happy to be married . i was so happy that i had to take a picture of him . this is a picture of the bride and groom .",
+  "edited_stories": [
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "[Nicole] was very excited to be at the wedding . the ladies were so excited to be there . they were so happy to be married . i was so happy that i had to take a picture of him . this is a picture of the bride  .",
+      "normalized_edited_story_text_sent": [
+        "[female] was very excited to be at the wedding .",
+        "the ladies were so excited to be there .",
+        "they were so happy to be married .",
+        "i was so happy that i had to take a picture of him .",
+        "this is a picture of the bride ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "[female] was very eager to be at the wedding . the children were so eager to be there . they were so great to be married . i was so happy that i had to take a photo of him . this is a photo of the bride and groom .",
+      "normalized_edited_story_text_sent": [
+        "[female] was very eager to be at the wedding .",
+        "the children were so eager to be there .",
+        "they were so great to be married .",
+        "i was so happy that i had to take a photo of him .",
+        "this is a photo of the bride and groom ."
+      ]
+    },
+    {
+      "worker_id": "A9WGDBDXUNLOD",
+      "edited_story_text": "The flower girl was very excited to be at the wedding . The bridesmaids were so excited to be there . They were so happy to be married. This is a picture of the bride and groom . I was so happy that I had to take a picture of him. I couldn\u0027t wipe the grin off my face.",
+      "normalized_edited_story_text_sent": [
+        "the flower girl was very excited to be at the wedding .",
+        "the bridesmaids were so excited to be there .",
+        "they were so happy to be married .",
+        "this is a picture of the bride and groom .",
+        "i was so happy that i had to take a picture of him .",
+        "i could n\u0027t wipe the grin off my face ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "[female] was very excited to be at the wedding.  The kids were so excited to be there in the wedding party.  The bride and groom were so happy to be married. I\u0027m glad I got a picture of the ring bearer.  He was so cute in his little outfit.  This is a picture of the bride and groom cutting the cake.  I have a picture of the bride ready to toss the bouquet.",
+      "normalized_edited_story_text_sent": [
+        "[female] was very excited to be at the wedding .",
+        "the kids were so excited to be there in the wedding party .",
+        "the bride and groom were so happy to be married .",
+        "i \u0027m glad i got a picture of the ring bearer .",
+        "he was so cute in his little outfit .",
+        "this is a picture of the bride and groom cutting the cake .",
+        "i have a picture of the bride ready to toss the bouquet ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "[female] was very excited to be at the wedding . the kids were so excited to be there . they were so happy to be married and i was so happy that i had to take a picture of him . this is a picture of the bride and groom .",
+      "normalized_edited_story_text_sent": [
+        "[female] was very excited to be at the wedding .",
+        "the kids were so excited to be there .",
+        "they were so happy to be married and i was so happy that i had to take a picture of him .",
+        "this is a picture of the bride and groom ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "313345"
+}

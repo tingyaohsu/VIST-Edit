@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "7828346032-7828346282-7828347648-7828348188-7828349988",
+  "photo_sequence_ids": [
+    "7828346032",
+    "7828346282",
+    "7828347648",
+    "7828348188",
+    "7828349988"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited for the halloween party . they dressed up as a devil . they even got to hold a costume . the adults were having a great time . the family was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Here is my daughter and her first modeling shots.  We took these outside at the park and on the park bench with our dog.",
+      "normalized_edited_story_text_sent": [
+        "here is my daughter and her first modeling shots .",
+        "we took these outside at the park and on the park bench with our dog ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "graduation pictures turned out to be a success. great quality on every one",
+      "normalized_edited_story_text_sent": [
+        "graduation pictures turned out to be a success .",
+        "great quality on every one"
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the kids were excited for the halloween party that was that night . they dressed up as a devil and also as a ghost . they even got to hold a costume from a horror movie that was being filmed . the adults were having a great time as the kids played . the family was very happy everyone had fun.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the halloween party that was that night .",
+        "they dressed up as a devil and also as a ghost .",
+        "they even got to hold a costume from a horror movie that was being filmed .",
+        "the adults were having a great time as the kids played .",
+        "the family was very happy everyone had fun ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "There were a bunch of kids who were excited for the halloween party. One dressed up as a devil, another got to hold a costume. Even the adults were having a great time--the whole family was happy.",
+      "normalized_edited_story_text_sent": [
+        "there were a bunch of kids who were excited for the halloween party .",
+        "one dressed up as a devil , another got to hold a costume .",
+        "even the adults were having a great time -- the whole family was happy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "She sat on a blanket reading books. She posed with her dog as well. She was happy to pose in a black hat. The pictures turned out well.",
+      "normalized_edited_story_text_sent": [
+        "she sat on a blanket reading books .",
+        "she posed with her dog as well .",
+        "she was happy to pose in a black hat .",
+        "the pictures turned out well ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631169645326",
+  "model": "GLAC"
+}

@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "2229841519-2229841259-2230633970-2229824167-2229832331",
+  "photo_sequence_ids": [
+    "2229841519",
+    "2229841259",
+    "2230633970",
+    "2229824167",
+    "2229832331"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the tree was covered in snow . the trees were bare and the leaves were still . the flowers were blooming . the plants were growing on the ground . the trees were covered with snow .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The tree were bare aside from being covered with the snow, though there were, maybe, a few still leaves. But the flowers were blooming, and plants were beginning to grow on the ground.",
+      "normalized_edited_story_text_sent": [
+        "the tree were bare aside from being covered with the snow , though there were , maybe , a few still leaves .",
+        "but the flowers were blooming , and plants were beginning to grow on the ground ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the moon was full . the trees were bare and the leaves were still . it was fall . the plants were growing on the ground . the trees were getting ready for winter .",
+      "normalized_edited_story_text_sent": [
+        "the moon was full .",
+        "the trees were bare and the leaves were still .",
+        "it was fall .",
+        "the plants were growing on the ground .",
+        "the trees were getting ready for winter ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the tree was covered in snow . the flowers were blooming . the plants were growing on the ground .",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow .",
+        "the flowers were blooming .",
+        "the plants were growing on the ground ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big tree was covered in snow . the trees were bare and the leaves were still . the flowers were blooming and the plants were growing on the ground . the trees were covered with snow .",
+      "normalized_edited_story_text_sent": [
+        "the big tree was covered in snow .",
+        "the trees were bare and the leaves were still .",
+        "the flowers were blooming and the plants were growing on the ground .",
+        "the trees were covered with snow ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the tree was covered in snow . the trees were bare and the leaves were still . the flowers lost their petals . the plants were growing on the ground . the ground felt hard.",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow .",
+        "the trees were bare and the leaves were still .",
+        "the flowers lost their petals .",
+        "the plants were growing on the ground .",
+        "the ground felt hard ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603819121906",
+  "model": "GLAC"
+}

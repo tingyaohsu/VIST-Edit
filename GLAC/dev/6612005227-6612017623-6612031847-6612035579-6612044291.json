@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6612005227-6612017623-6612031847-6612035579-6612044291",
+  "photo_sequence_ids": [
+    "6612005227",
+    "6612017623",
+    "6612031847",
+    "6612035579",
+    "6612044291"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was busy . there were many people at the event . the streets were empty . the streets were filled with people . the streets were crowded .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was busy . there were many people at the event . the streets were filled . people were having fun . the streets stay crowded .",
+      "normalized_edited_story_text_sent": [
+        "the city was busy .",
+        "there were many people at the event .",
+        "the streets were filled .",
+        "people were having fun .",
+        "the streets stay crowded ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "When we first set out, the streets were empty.  After some travels we saw the night life and we walked around the neighborhood.",
+      "normalized_edited_story_text_sent": [
+        "when we first set out , the streets were empty .",
+        "after some travels we saw the night life and we walked around the neighborhood ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was busy . there were many people walking in the street. The streets were empty later at night. We enjoyed the city nightlife.",
+      "normalized_edited_story_text_sent": [
+        "the city was busy .",
+        "there were many people walking in the street .",
+        "the streets were empty later at night .",
+        "we enjoyed the city nightlife ."
+      ]
+    },
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the city was busy . it was dak out . the streets were empty . there were only a few people on the streets",
+      "normalized_edited_story_text_sent": [
+        "the city was busy .",
+        "it was dak out .",
+        "the streets were empty .",
+        "there were only a few people on the streets"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was busy . there were many people at the event .",
+      "normalized_edited_story_text_sent": [
+        "the city was busy .",
+        "there were many people at the event ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628662080341",
+  "model": "GLAC"
+}

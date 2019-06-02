@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "6739429279-6739431151-6739438181-6739441963-6739443471",
+  "photo_sequence_ids": [
+    "6739429279",
+    "6739431151",
+    "6739438181",
+    "6739441963",
+    "6739443471"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the park today . there were a lot of people out on the street . the kids were having a great time . the kids were very tired . the kids were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I volunteered with with my youth group to plant trees alongside the road. We made a lot of progress and got a lot of help.",
+      "normalized_edited_story_text_sent": [
+        "i volunteered with with my youth group to plant trees alongside the road .",
+        "we made a lot of progress and got a lot of help ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "we had a recreational trip today . many people were volunteering on the street . kids were having fun . the kids were soon worn out . the kids were still happy, though .",
+      "normalized_edited_story_text_sent": [
+        "we had a recreational trip today .",
+        "many people were volunteering on the street .",
+        "kids were having fun .",
+        "the kids were soon worn out .",
+        "the kids were still happy , though ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "we went outside today . we dug some holes. we had a great time planting some trees . we were very tired . we were very happy .",
+      "normalized_edited_story_text_sent": [
+        "we went outside today .",
+        "we dug some holes .",
+        "we had a great time planting some trees .",
+        "we were very tired .",
+        "we were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the park today to help clean up the city . there were a lot of people out on the street and were wearing boots . the kids were having a great time playing in the dirt. the kids were very tired so they went home. the kids were very happy that the park was cleaned.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today to help clean up the city .",
+        "there were a lot of people out on the street and were wearing boots .",
+        "the kids were having a great time playing in the dirt .",
+        "the kids were very tired so they went home .",
+        "the kids were very happy that the park was cleaned ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the park today . there were a lot of people out on the street .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "there were a lot of people out on the street ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628974721157",
+  "model": "GLAC"
+}

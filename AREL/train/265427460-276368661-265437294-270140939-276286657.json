@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "265427460-276368661-265437294-270140939-276286657",
+  "photo_sequence_ids": [
+    "265427460",
+    "276368661",
+    "265437294",
+    "270140939",
+    "276286657"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/112/265427460_c17ab606b5_o.jpg",
+    "https://farm1.staticflickr.com/121/276368661_fbd1378269_o.jpg",
+    "https://farm1.staticflickr.com/99/265437294_6eefd06a0b_o.jpg",
+    "https://farm1.staticflickr.com/99/270140939_2e342a8eeb_o.jpg",
+    "https://farm1.staticflickr.com/81/276286657_c7f6fb4bd1_o.jpg"
+  ],
+  "auto_story_text_normalized": "the party was a lot of fun . everyone was having a great time . we had a fire . [male] and [male] had a lot of fun . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the party is a lot of fun . everyone is having a great time . we have a fire . [male] and [male] have a lot of fun . everyone have a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party is a lot of fun .",
+        "everyone is having a great time .",
+        "we have a fire .",
+        "[male] and [male] have a lot of fun .",
+        "everyone have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "the party was a lot of fun. everyone was sitting around having a great time. There was even a fire built. [male] and [male] had a lot of fun roasting food over the fire. everyone had a great time chatting and hanging together.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was sitting around having a great time .",
+        "there was even a fire built .",
+        "[male] and [male] had a lot of fun roasting food over the fire .",
+        "everyone had a great time chatting and hanging together ."
+      ]
+    },
+    {
+      "worker_id": "A1PBRKFHSF1OF8",
+      "edited_story_text": "The party was a lot of fun . Everyone had a great time . We had a fire that burned through the night. [male] and [male] had a lot of fun drinking.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone had a great time .",
+        "we had a fire that burned through the night .",
+        "[male] and [male] had a lot of fun drinking ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "The party at the bonfire was a lot of fun. Everyone was having a great time. [male] and [male] made a lot of jokes and cracked everyone up the whole time. It was a great night.",
+      "normalized_edited_story_text_sent": [
+        "the party at the bonfire was a lot of fun .",
+        "everyone was having a great time .",
+        "[male] and [male] made a lot of jokes and cracked everyone up the whole time .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The party was a lot of fun. We drank, ate and had the best time.  The man even put a bonfire on.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we drank , ate and had the best time .",
+        "the man even put a bonfire on ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594320730897"
+}

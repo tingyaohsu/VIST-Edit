@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4235249212-4234474743-4235250164-4235250692-4235251634",
+  "photo_sequence_ids": [
+    "4235249212",
+    "4234474743",
+    "4235250164",
+    "4235250692",
+    "4235251634"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4009/4235249212_3ec645463b_o.jpg",
+    "https://farm5.staticflickr.com/4046/4234474743_e9b7ecdd93_o.jpg",
+    "https://farm3.staticflickr.com/2618/4235250164_89e4716cd3_o.jpg",
+    "https://farm3.staticflickr.com/2518/4235250692_32a4d6f8c8_o.jpg",
+    "https://farm3.staticflickr.com/2591/4235251634_028f30a7cb_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park yesterday . this is a picture of a building . this is a picture of a tree . all of the kids had a great time at the fair . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "i went to the park yesterday . It was a beautiful days and I loved the scenery of the buildings and plants   . all of the kids had a great time at the fair . i had a great time walking around and watching the other tourists check out the sights.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "it was a beautiful days and i loved the scenery of the buildings and plants .",
+        "all of the kids had a great time at the fair .",
+        "i had a great time walking around and watching the other tourists check out the sights ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "i went to the park yesterday . this is a picture of a building that was there and here is a Christmas tree. all of the kids had a great time at the fair that was going on in the park . i had a wonderful time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "this is a picture of a building that was there and here is a christmas tree .",
+        "all of the kids had a great time at the fair that was going on in the park .",
+        "i had a wonderful time there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the park yesterday. Here is a picture of a building that I passed, and here\u0027s a picture of a tree. All of the kids had a great time at the fair, and so did I.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "here is a picture of a building that i passed , and here \u0027s a picture of a tree .",
+        "all of the kids had a great time at the fair , and so did i."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went sight seeing yesterday and saw some cool buildings and trees.  There was also a street fair everyone had a great time at.",
+      "normalized_edited_story_text_sent": [
+        "i went sight seeing yesterday and saw some cool buildings and trees .",
+        "there was also a street fair everyone had a great time at ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the park yesterday . this is a picture of a building . this is a picture of a tree . all of the kids had a great time at the fair and i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "this is a picture of a building .",
+        "this is a picture of a tree .",
+        "all of the kids had a great time at the fair and i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622991639957"
+}

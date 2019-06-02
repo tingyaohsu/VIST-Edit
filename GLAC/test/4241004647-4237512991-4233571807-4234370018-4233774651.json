@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4241004647-4237512991-4233571807-4234370018-4233774651",
+  "photo_sequence_ids": [
+    "4241004647",
+    "4237512991",
+    "4233571807",
+    "4234370018",
+    "4233774651"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was a great speaker . he was very proud . he was a bit nervous . he had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the speaker was very happy to be there . he was a great speaker . he was very proud . he was a bit nervous . he did a great job .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was a great speaker .",
+        "he was very proud .",
+        "he was a bit nervous .",
+        "he did a great job ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the male speaker was very serious in his speech.  The woman was a great speaker . Another man on stage was very proud of his talk. The crowd was large and had a table of people with laptops in the front . Everyone on stage had a great time bonding together for a common cause.",
+      "normalized_edited_story_text_sent": [
+        "the male speaker was very serious in his speech .",
+        "the woman was a great speaker .",
+        "another man on stage was very proud of his talk .",
+        "the crowd was large and had a table of people with laptops in the front .",
+        "everyone on stage had a great time bonding together for a common cause ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "The speakers were happy to attend the event . one woman made some pretty good jokes . another man was a bit smug . but the turnout for the event was great . and we all got a picture to commemorate our great time .",
+      "normalized_edited_story_text_sent": [
+        "the speakers were happy to attend the event .",
+        "one woman made some pretty good jokes .",
+        "another man was a bit smug .",
+        "but the turnout for the event was great .",
+        "and we all got a picture to commemorate our great time ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the speaker was very happy to be there . he was a great speaker and also was very proud . he was a bit nervous . he had a great time and a great presentation.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was a great speaker and also was very proud .",
+        "he was a bit nervous .",
+        "he had a great time and a great presentation ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The speakers were very happy to be there. They all gave a great speach. One was a bit nervous. All seemed to have a great time.",
+      "normalized_edited_story_text_sent": [
+        "the speakers were very happy to be there .",
+        "they all gave a great speach .",
+        "one was a bit nervous .",
+        "all seemed to have a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623240659927",
+  "model": "GLAC"
+}

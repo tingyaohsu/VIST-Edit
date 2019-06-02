@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "7984257787-7984263526-7984231808-7984126102-7984258025",
+  "photo_sequence_ids": [
+    "7984257787",
+    "7984263526",
+    "7984231808",
+    "7984126102",
+    "7984258025"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was full of people . the men were walking around the streets . they were having a great time . the man was happy to be there . the stained glass was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the church was full of people . the men were walking around the streets .",
+      "normalized_edited_story_text_sent": [
+        "the church was full of people .",
+        "the men were walking around the streets ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The church was packed with people. Outside, there were men walking about in the streets, with some entering into the church. One man that came in seemed relieved to make it through the door. As I peered around, everyone was having a good time, though I could not help but be entranced by the stained glass at the far end of the church. My, what a magnificent sight it was to behold.",
+      "normalized_edited_story_text_sent": [
+        "the church was packed with people .",
+        "outside , there were men walking about in the streets , with some entering into the church .",
+        "one man that came in seemed relieved to make it through the door .",
+        "as i peered around , everyone was having a good time , though i could not help but be entranced by the stained glass at the far end of the church .",
+        "my , what a magnificent sight it was to behold ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the church was full of people . the recruits were walking around . there was a large black poster. the man walked between two women . the altar was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the church was full of people .",
+        "the recruits were walking around .",
+        "there was a large black poster .",
+        "the man walked between two women .",
+        "the altar was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the church was full of people . the men were walking around the church . they were having a great time . everyone was happy to be there . the stained glass was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the church was full of people .",
+        "the men were walking around the church .",
+        "they were having a great time .",
+        "everyone was happy to be there .",
+        "the stained glass was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The church had lovely stained glass, and was full of people. There were plenty of men walking around in the streets. They were having a great time, too. There was a man who was happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the church had lovely stained glass , and was full of people .",
+        "there were plenty of men walking around in the streets .",
+        "they were having a great time , too .",
+        "there was a man who was happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631530976322",
+  "model": "GLAC"
+}

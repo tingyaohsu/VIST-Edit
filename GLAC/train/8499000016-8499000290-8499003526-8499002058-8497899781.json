@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "8499000016-8499000290-8499003526-8499002058-8497899781",
+  "photo_sequence_ids": [
+    "8499000016",
+    "8499000290",
+    "8499003526",
+    "8499002058",
+    "8497899781"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sky was beautiful . the family was walking around . they were smiling . the girl was happy . they were all smiles .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the family took a walk today.  the sky was very pretty.  the girl was happy.  everyone in the family was smiling.",
+      "normalized_edited_story_text_sent": [
+        "the family took a walk today .",
+        "the sky was very pretty .",
+        "the girl was happy .",
+        "everyone in the family was smiling ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the sky was beautiful . the family was walking around . they were smiling . the girl was happy . they were all smiles .\r\rThe sky was clear, the sun was shining, and the day was beautiful. My family and I walked around for a bit. The were smiling ear to ear. Even Lisa was happy! Everyone was smiling!",
+      "normalized_edited_story_text_sent": [
+        "the sky was beautiful .",
+        "the family was walking around .",
+        "they were smiling .",
+        "the girl was happy .",
+        "they were all smiles .",
+        "the sky was clear , the sun was shining , and the day was beautiful .",
+        "my family and i walked around for a bit .",
+        "the were smiling ear to ear .",
+        "even [female] was happy !",
+        "everyone was smiling !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the sky was beautiful . the family was walking around .",
+      "normalized_edited_story_text_sent": [
+        "the sky was beautiful .",
+        "the family was walking around ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the sky look amazing . the family was milling about. they were all smiles . the girl seemed on cloud nine . they were all delighted .",
+      "normalized_edited_story_text_sent": [
+        "the sky look amazing .",
+        "the family was milling about .",
+        "they were all smiles .",
+        "the girl seemed on cloud nine .",
+        "they were all delighted ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the sky was beautiful . the family was walking around . they were smiling . the family was happy . they loved the weather .",
+      "normalized_edited_story_text_sent": [
+        "the sky was beautiful .",
+        "the family was walking around .",
+        "they were smiling .",
+        "the family was happy .",
+        "they loved the weather ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632828469673",
+  "model": "GLAC"
+}

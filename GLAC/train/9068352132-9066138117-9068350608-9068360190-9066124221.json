@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "9068352132-9066138117-9068350608-9068360190-9066124221",
+  "photo_sequence_ids": [
+    "9068352132",
+    "9066138117",
+    "9068350608",
+    "9068360190",
+    "9066124221"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the beach . they had a great time . they rode the boat . they also took a picture of the ocean . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went on a trip to the beach . The scenery was gorgeous. The boat ride was fun. Everyone loved tubing.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "the scenery was gorgeous .",
+        "the boat ride was fun .",
+        "everyone loved tubing ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went on a trip to the lake . they had lots of fun . they rented a boat . they took pictures of the water . they had a grand time .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the lake .",
+        "they had lots of fun .",
+        "they rented a boat .",
+        "they took pictures of the water .",
+        "they had a grand time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went on a trip to the beach . they were excited . they rode the boat . they also took a picture of the ocean . the weather was perfect .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "they were excited .",
+        "they rode the boat .",
+        "they also took a picture of the ocean .",
+        "the weather was perfect ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went on a trip to the beach . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the family drove to the beach today.  they rode a power boat.  they snapped photos of the ocean.  everyone had a grand time.",
+      "normalized_edited_story_text_sent": [
+        "the family drove to the beach today .",
+        "they rode a power boat .",
+        "they snapped photos of the ocean .",
+        "everyone had a grand time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157634173512359",
+  "model": "GLAC"
+}

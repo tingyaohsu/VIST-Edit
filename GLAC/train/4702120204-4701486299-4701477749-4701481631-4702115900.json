@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4702120204-4701486299-4701477749-4701481631-4702115900",
+  "photo_sequence_ids": [
+    "4702120204",
+    "4701486299",
+    "4701477749",
+    "4701481631",
+    "4702115900"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to graduate . the graduates were all smiles . the graduates were ready for the ceremony . the graduates were very proud . the valedictorian gave a speech .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David saw that the students were excited to graduate . the graduates were all smiles . the graduates were ready for the ceremony . the graduates were very proud . the valedictorian gave a speech .",
+      "normalized_edited_story_text_sent": [
+        "[male] saw that the students were excited to graduate .",
+        "the graduates were all smiles .",
+        "the graduates were ready for the ceremony .",
+        "the graduates were very proud .",
+        "the valedictorian gave a speech ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the students were thrilled to graduate.  they were all smiling and were eager for the ceremony.  the graduates were proud of their work.  the valedictorian delivered a good speech.",
+      "normalized_edited_story_text_sent": [
+        "the students were thrilled to graduate .",
+        "they were all smiling and were eager for the ceremony .",
+        "the graduates were proud of their work .",
+        "the valedictorian delivered a good speech ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the students were happy to graduate . the graduates were grinning ceaselessly . the graduates were prepared for the ceremony . the graduates found pride in graduating . the valedictorian gave a customary speech .",
+      "normalized_edited_story_text_sent": [
+        "the students were happy to graduate .",
+        "the graduates were grinning ceaselessly .",
+        "the graduates were prepared for the ceremony .",
+        "the graduates found pride in graduating .",
+        "the valedictorian gave a customary speech ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "All the young students were excited to be graduating. Every one of the graduates were smiling. They were all ready for the ceremony to begin. The parents of the graduates were very proud. The valedictorian gave a speech at the ceremony.",
+      "normalized_edited_story_text_sent": [
+        "all the young students were excited to be graduating .",
+        "every one of the graduates were smiling .",
+        "they were all ready for the ceremony to begin .",
+        "the parents of the graduates were very proud .",
+        "the valedictorian gave a speech at the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The elementary school students were smiling at the graduation ceremony. They all held their certificates before reciting the pledge of allegiance. The principle spoke to the crowd before a military vet started handing diplomas.",
+      "normalized_edited_story_text_sent": [
+        "the elementary school students were smiling at the graduation ceremony .",
+        "they all held their certificates before reciting the pledge of allegiance .",
+        "the principle spoke to the crowd before a military vet started handing diplomas ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624153192795",
+  "model": "GLAC"
+}

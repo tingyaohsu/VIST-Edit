@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4233989059-4233994753-4233989489-4234767088-4234766166",
+  "photo_sequence_ids": [
+    "4233989059",
+    "4233994753",
+    "4233989489",
+    "4234767088",
+    "4234766166"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2596/4233989059_36553f2f67_o.jpg",
+    "https://farm3.staticflickr.com/2730/4233994753_1d372d73e9_o.jpg",
+    "https://farm5.staticflickr.com/4053/4233989489_00eace10ac_o.jpg",
+    "https://farm3.staticflickr.com/2770/4234767088_ef31787c17_o.jpg",
+    "https://farm3.staticflickr.com/2708/4234766166_62f68faf23_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of people gathered to watch the fireworks . the view from the top was amazing . there were a lot of people there . the water was calm and the weather was cold . then we went to the beach and saw a lot of people there .",
+  "edited_stories": [
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "A group of people gathered to watch the fireworks. The view from up high was amazing. There were a lot of people there. The water was calm and the weather was cold. There were a lot of people at the beach.",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered to watch the fireworks .",
+        "the view from up high was amazing .",
+        "there were a lot of people there .",
+        "the water was calm and the weather was cold .",
+        "there were a lot of people at the beach ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "A group of people gathered to watch the fireworks, and the view from the top was amazing. There were a lot of people watching. The water was calm and the weather was cold, after we went to the beach and saw a lot of people there.",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered to watch the fireworks , and the view from the top was amazing .",
+        "there were a lot of people watching .",
+        "the water was calm and the weather was cold , after we went to the beach and saw a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "a group of people gathered to watch the people jump in the water . the view was hilarious . there were a lot of people there . the water was calm and the weather was cold . there were sheets of ice on the lake .",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered to watch the people jump in the water .",
+        "the view was hilarious .",
+        "there were a lot of people there .",
+        "the water was calm and the weather was cold .",
+        "there were sheets of ice on the lake ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "a group of people assembled to watch the fireworks . the view from the top was stunning . there were many people there . the water was calm and the weather was cool . then we went to the shoreline and saw many people there .",
+      "normalized_edited_story_text_sent": [
+        "a group of people assembled to watch the fireworks .",
+        "the view from the top was stunning .",
+        "there were many people there .",
+        "the water was calm and the weather was cool .",
+        "then we went to the shoreline and saw many people there ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "A group of people gathered to jump in the freezing cold water. It was a perfect day at the lake to jump in the icy cold water. There was a good amount of people show up. The water was not too icy \u0026 the weather wasn\u0027t too cold for the challenge. Afterwards, everyone gathered on the beach with dry clothes \u0026 blankets.",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered to jump in the freezing cold water .",
+        "it was a perfect day at the lake to jump in the icy cold water .",
+        "there was a good amount of people show up .",
+        "the water was not too icy \u0026 the weather was n\u0027t too cold for the challenge .",
+        "afterwards , everyone gathered on the beach with dry clothes \u0026 blankets ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622990628531"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "183022985-183022820-183022174-183021957-183021394",
+  "photo_sequence_ids": [
+    "183022985",
+    "183022820",
+    "183022174",
+    "183021957",
+    "183021394"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready for the wedding . the ceremony is held outside . the bride and groom are very happy . the couple is having a great time . the family is gathered together .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bride and groom are getting ready for the wedding. the ceremony is outside. the bride is with some of her bridesmaids. the groom is having a great time  the wedding party is gathered together.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the ceremony is outside .",
+        "the bride is with some of her bridesmaids .",
+        "the groom is having a great time the wedding party is gathered together ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bride and groom are getting ready for the wedding, the weather outside was beautiful . the ceremony is held outside which was unique . the bride and groom are very happy that the weather was good and all those who attended . the couple is having a great time with their friends  . the family is gathered together as they wish the bridge and groom a happy married life .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding , the weather outside was beautiful .",
+        "the ceremony is held outside which was unique .",
+        "the bride and groom are very happy that the weather was good and all those who attended .",
+        "the couple is having a great time with their friends .",
+        "the family is gathered together as they wish the bridge and groom a happy married life ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The bride and groom are very happy as they get ready for the wedding. The ceremony is held outside. The bride and groom are very happy, and the large wedding party is having a great time as it gathers for the group photo.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are very happy as they get ready for the wedding .",
+        "the ceremony is held outside .",
+        "the bride and groom are very happy , and the large wedding party is having a great time as it gathers for the group photo ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "The Bride and the Groom are preparing themselves for the wedding. Which the ceremony will be held outside. The Bride and Groom are so happy. The couple is having a wonderful time with friends and family gathered together.",
+      "normalized_edited_story_text_sent": [
+        "the bride and the groom are preparing themselves for the wedding .",
+        "which the ceremony will be held outside .",
+        "the bride and groom are so happy .",
+        "the couple is having a wonderful time with friends and family gathered together ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the bride and groom are getting ready for the wedding . the ceremony is held outside on a beautiful sunny day. . the bride and groom are very happy . they are having a great time . the family is gathered together .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the ceremony is held outside on a beautiful sunny day .",
+        "the bride and groom are very happy .",
+        "they are having a great time .",
+        "the family is gathered together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594189042441",
+  "model": "GLAC"
+}

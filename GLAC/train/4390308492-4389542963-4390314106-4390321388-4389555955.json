@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4390308492-4389542963-4390314106-4390321388-4389555955",
+  "photo_sequence_ids": [
+    "4390308492",
+    "4389542963",
+    "4390314106",
+    "4390321388",
+    "4389555955"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the cemetery . they were excited to see the kids . they saw the tombstones . they walked through the town . they found a beautiful garden .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the family went on a trip to the cemetery . grandpa was excited to see the kids . they saw the tombstones which were very unique. they walked through the cemetery. they found a beautiful garden with the wall of hand prints.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the cemetery .",
+        "grandpa was excited to see the kids .",
+        "they saw the tombstones which were very unique .",
+        "they walked through the cemetery .",
+        "they found a beautiful garden with the wall of hand prints ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family went on a trip to the cemetery to visit the graves . they were excited to see the kids on this special occasion . they saw the tombstones and then walked the river . they walked through the town and talked as they walked . they found a beautiful garden to take a break at .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the cemetery to visit the graves .",
+        "they were excited to see the kids on this special occasion .",
+        "they saw the tombstones and then walked the river .",
+        "they walked through the town and talked as they walked .",
+        "they found a beautiful garden to take a break at ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the family went on a trip to the park . they were excited to see the kids . they saw all the statues. they walked through the area . they found a beautiful sculpture.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the park .",
+        "they were excited to see the kids .",
+        "they saw all the statues .",
+        "they walked through the area .",
+        "they found a beautiful sculpture ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went on a trip. they saw the tombstones. they walked through the town and found a beautiful garden.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip .",
+        "they saw the tombstones .",
+        "they walked through the town and found a beautiful garden ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family visited a cemetery . the kids were glad to go . they saw commemorative tombstones . they walked through the sad town . they uplifted their moods in a beautiful garden .",
+      "normalized_edited_story_text_sent": [
+        "the family visited a cemetery .",
+        "the kids were glad to go .",
+        "they saw commemorative tombstones .",
+        "they walked through the sad town .",
+        "they uplifted their moods in a beautiful garden ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623389431321",
+  "model": "GLAC"
+}

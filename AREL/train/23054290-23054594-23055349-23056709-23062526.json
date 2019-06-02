@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "23054290-23054594-23055349-23056709-23062526",
+  "photo_sequence_ids": [
+    "23054290",
+    "23054594",
+    "23055349",
+    "23056709",
+    "23062526"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/19/23054290_6ba26db30b_o.jpg",
+    "https://farm1.staticflickr.com/16/23054594_f5709c165f_o.jpg",
+    "https://farm1.staticflickr.com/19/23055349_77f2c79b04_o.jpg",
+    "https://farm1.staticflickr.com/18/23056709_820530193d_o.jpg",
+    "https://farm1.staticflickr.com/17/23062526_08eb88e396_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a protest in location . we had a lot of fun there . this is a picture of a sign . it was a lot of fun . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "there was a protest in the middle of town today. we had a lot of fun participating. many people carried signs they\u0027d made themselves. It was a good experience for everyone.",
+      "normalized_edited_story_text_sent": [
+        "there was a protest in the middle of town today .",
+        "we had a lot of fun participating .",
+        "many people carried signs they \u0027d made themselves .",
+        "it was a good experience for everyone ."
+      ]
+    },
+    {
+      "worker_id": "A28AZTW9BRRPBL",
+      "edited_story_text": "there was a protest in the location . we had a lot of fun there . this is a picture of a protest sign about food . there was a lot of fun at the protest . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "there was a protest in the location .",
+        "we had a lot of fun there .",
+        "this is a picture of a protest sign about food .",
+        "there was a lot of fun at the protest .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "there was a protest in location.  these are pictures of some ofthe signs i had a great time there it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "there was a protest in location .",
+        "these are pictures of some ofthe signs i had a great time there it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "There was a protest in location. We went out there to support the cause. It makes me feel good to be a part of the movement.",
+      "normalized_edited_story_text_sent": [
+        "there was a protest in location .",
+        "we went out there to support the cause .",
+        "it makes me feel good to be a part of the movement ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "there was a protest on the street . we were very passionate . this is a picture of a sign . there was gay pride and an anti bush movement . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "there was a protest on the street .",
+        "we were very passionate .",
+        "this is a picture of a sign .",
+        "there was gay pride and an anti bush movement .",
+        "i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "531768"
+}

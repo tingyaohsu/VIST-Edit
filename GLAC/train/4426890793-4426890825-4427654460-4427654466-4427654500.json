@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4426890793-4426890825-4427654460-4427654466-4427654500",
+  "photo_sequence_ids": [
+    "4426890793",
+    "4426890825",
+    "4427654460",
+    "4427654466",
+    "4427654500"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he was very engaging . he spoke to the audience . he was very passionate . he was a good speaker .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the speaker was very knowledgeable . he was very engaging . he spoke to the audience . everyone was listening to him attentively while he gave a presentation. he was very passionate . he was given a small token of appreciation in the end.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he was very engaging .",
+        "he spoke to the audience .",
+        "everyone was listening to him attentively while he gave a presentation .",
+        "he was very passionate .",
+        "he was given a small token of appreciation in the end ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The speaker was very knowledgable and engaging. He was very passionate as he spoke to the audience. He was a great speaker.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgable and engaging .",
+        "he was very passionate as he spoke to the audience .",
+        "he was a great speaker ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Attended a lecture today at school.  The teacher was very passionate and we all learned a lot.  David is an excellent teacher!",
+      "normalized_edited_story_text_sent": [
+        "attended a lecture today at school .",
+        "the teacher was very passionate and we all learned a lot .",
+        "[male] is an excellent teacher !"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker had a wide breadth of knowledge . he was engaged the audience with facts . he spoke to the audience\u0027s hearts and minds . he was passionate about the topic . he was a great speaker .",
+      "normalized_edited_story_text_sent": [
+        "the speaker had a wide breadth of knowledge .",
+        "he was engaged the audience with facts .",
+        "he spoke to the audience \u0027s hearts and minds .",
+        "he was passionate about the topic .",
+        "he was a great speaker ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the speaker was very knowledgeable . he was very engaging . he spoke to the audience . he was very passionate . he kept the attention of everyone .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he was very engaging .",
+        "he spoke to the audience .",
+        "he was very passionate .",
+        "he kept the attention of everyone ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623606566942",
+  "model": "GLAC"
+}

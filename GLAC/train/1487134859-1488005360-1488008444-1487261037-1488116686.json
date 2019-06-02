@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "1487134859-1488005360-1488008444-1487261037-1488116686",
+  "photo_sequence_ids": [
+    "1487134859",
+    "1488005360",
+    "1488008444",
+    "1487261037",
+    "1488116686"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the stadium was packed . the players were ready to play . the crowd was excited . the game was about to begin . the team was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the stadium was packed and the players were ready to play. the game was about to begin and the crowd was excited. the team was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed and the players were ready to play .",
+        "the game was about to begin and the crowd was excited .",
+        "the team was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the stadium was packed with people . the players were ready to play . the crowd was lit. the game was about to begin . the team was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed with people .",
+        "the players were ready to play .",
+        "the crowd was lit .",
+        "the game was about to begin .",
+        "the team was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the stadium was packed . the players were ready to play . the crowd was thrilled . the game was about to begin . and what a game it was.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed .",
+        "the players were ready to play .",
+        "the crowd was thrilled .",
+        "the game was about to begin .",
+        "and what a game it was ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The stadium was packed and the players were ready to play. The massive crowd was excited. The game was about to begin. The team was very happy and hopeful for a win.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed and the players were ready to play .",
+        "the massive crowd was excited .",
+        "the game was about to begin .",
+        "the team was very happy and hopeful for a win ."
+      ]
+    },
+    {
+      "worker_id": "A1C5S8FZ0UGYZX",
+      "edited_story_text": "The stadium was packed and the players were ready to play . The crowd was excited.  The military band played the anthem and we saluted.  Then the game began.  The players were happy.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed and the players were ready to play .",
+        "the crowd was excited .",
+        "the military band played the anthem and we saluted .",
+        "then the game began .",
+        "the players were happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602272641871",
+  "model": "GLAC"
+}

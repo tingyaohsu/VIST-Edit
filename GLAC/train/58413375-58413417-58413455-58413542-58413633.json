@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "58413375-58413417-58413455-58413542-58413633",
+  "photo_sequence_ids": [
+    "58413375",
+    "58413417",
+    "58413455",
+    "58413542",
+    "58413633"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people there . the performers were very talented . some of them were very creative . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2GMFKPE64NQQC",
+      "edited_story_text": "The pirate-themed wedding was a lot of fun. All the guests took their seats to watch the couple get married. The couple walked up to the stage together. They were dressed for the theme.  All the guests were dressed up as part of the wedding, too.",
+      "normalized_edited_story_text_sent": [
+        "the pirate-themed wedding was a lot of fun .",
+        "all the guests took their seats to watch the couple get married .",
+        "the couple walked up to the stage together .",
+        "they were dressed for the theme .",
+        "all the guests were dressed up as part of the wedding , too ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "the parade was a lot of fun . there tons of people there . the performers were very talented and some were very creative . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there tons of people there .",
+        "the performers were very talented and some were very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The event was a lot of fun and there were a lot of people there. The performers were very talented, some of them were very creative. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the event was a lot of fun and there were a lot of people there .",
+        "the performers were very talented , some of them were very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was amusing . many were in attendance . the performers showed off their skills . some creative people showcased their creations . i was certainly entertained .",
+      "normalized_edited_story_text_sent": [
+        "the parade was amusing .",
+        "many were in attendance .",
+        "the performers showed off their skills .",
+        "some creative people showcased their creations .",
+        "i was certainly entertained ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The Pirate Cruise ship was a lot of fun.  It took us to many ports of interest and there was even a couple that got married in full pirate ware.",
+      "normalized_edited_story_text_sent": [
+        "the pirate cruise ship was a lot of fun .",
+        "it took us to many ports of interest and there was even a couple that got married in full pirate ware ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1266780",
+  "model": "GLAC"
+}

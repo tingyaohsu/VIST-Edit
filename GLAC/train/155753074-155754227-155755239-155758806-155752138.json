@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "155753074-155754227-155755239-155758806-155752138",
+  "photo_sequence_ids": [
+    "155753074",
+    "155754227",
+    "155755239",
+    "155758806",
+    "155752138"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were many people that showed up . some of the people were very creative . they had a marching band . they were all very talented .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "An honorable parade has a street closed down.",
+      "normalized_edited_story_text_sent": [
+        "an honorable parade has a street closed down ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun. There were many people in uniforms and playing music. some of the people were very creative . they had a marching band . they were all very talented . A man gave a speech.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many people in uniforms and playing music .",
+        "some of the people were very creative .",
+        "they had a marching band .",
+        "they were all very talented .",
+        "a man gave a speech ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the parade was a lot of fun . there were many people that showed up . some of the people were very creative . there also was a marching band . they were all very talented .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many people that showed up .",
+        "some of the people were very creative .",
+        "there also was a marching band .",
+        "they were all very talented ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the parade was a lot of fun and so relaxed that the cops were just chilling . there were many veterans that showed up . some of the people were very creative . they had a great marching band . they were all very talented .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun and so relaxed that the cops were just chilling .",
+        "there were many veterans that showed up .",
+        "some of the people were very creative .",
+        "they had a great marching band .",
+        "they were all very talented ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the parade was a lot of fun . an officer stands guard at the closed street. the speaker was interesting. they had a marching band . they were all very talented .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "an officer stands guard at the closed street .",
+        "the speaker was interesting .",
+        "they had a marching band .",
+        "they were all very talented ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594148848294",
+  "model": "GLAC"
+}

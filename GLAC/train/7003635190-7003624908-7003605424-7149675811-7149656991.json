@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "7003635190-7003624908-7003605424-7149675811-7149656991",
+  "photo_sequence_ids": [
+    "7003635190",
+    "7003624908",
+    "7003605424",
+    "7149675811",
+    "7149656991"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were having a great time at the party . the adults were playing in the pool . the baby was enjoying the festivities . the family enjoyed the day . the whole family had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were having a great time at the party . Grandpa rested while others swam. The baby rested to. People enjoyed swimming and visiting.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "grandpa rested while others swam .",
+        "the baby rested to .",
+        "people enjoyed swimming and visiting ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were having a great time at the party . the adults were playing in the pool .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "the adults were playing in the pool ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the kids were having a great time at the party . the adults were playing in the pool . the baby was enjoying the festivities . the family enjoyed the day . the whole family had a good time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the kids were having a great time at the party .",
+        "the adults were playing in the pool .",
+        "the baby was enjoying the festivities .",
+        "the family enjoyed the day .",
+        "the whole family had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the whole family was at the party.  the adults were in the pool.  the kids had a great time playing with each other.  the baby enjoyed the party.  everybody in the family had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the whole family was at the party .",
+        "the adults were in the pool .",
+        "the kids had a great time playing with each other .",
+        "the baby enjoyed the party .",
+        "everybody in the family had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the kids were having a great time at the party . the adults were playing in the pool . the baby was enjoying the festivities . the family enjoyed the day . the whole family had a good time .\r\rMy kids had a wonderful time at the party. David, his wife Lisa, along with me and my husband Robert were playing in the pool. My baby was enjoying the party. My family really thought the day was a lot of fun. I\u0027m glad my family had a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "the adults were playing in the pool .",
+        "the baby was enjoying the festivities .",
+        "the family enjoyed the day .",
+        "the whole family had a good time .",
+        "my kids had a wonderful time at the party .",
+        "[male] , his wife [female] , along with me and my husband [male] were playing in the pool .",
+        "my baby was enjoying the party .",
+        "my family really thought the day was a lot of fun .",
+        "i \u0027m glad my family had a wonderful time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629616247290",
+  "model": "GLAC"
+}

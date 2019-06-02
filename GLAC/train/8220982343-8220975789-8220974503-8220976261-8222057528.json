@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "8220982343-8220975789-8220974503-8220976261-8222057528",
+  "photo_sequence_ids": [
+    "8220982343",
+    "8220975789",
+    "8220974503",
+    "8220976261",
+    "8222057528"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the party . the kids were having a great time . the girls were happy to be together . the food was delicious . the children enjoyed themselves .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "We were all gathered together. The family was whole for this occasion. Filled with cheer and delight, the girls laughed with each other over stories and gossip. The children enjoyed themselves, occupied with phantom activities manifested from imagination. And best of all was the food. Cuisine which could compel warmth and love, purely from devouring a single morsel.",
+      "normalized_edited_story_text_sent": [
+        "we were all gathered together .",
+        "the family was whole for this occasion .",
+        "filled with cheer and delight , the girls laughed with each other over stories and gossip .",
+        "the children enjoyed themselves , occupied with phantom activities manifested from imagination .",
+        "and best of all was the food .",
+        "cuisine which could compel warmth and love , purely from devouring a single morsel ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family gathered for the party . the kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the party .",
+        "the kids were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a party . the kids were playing . the girls were happy to reunite . the food was tasty . the children enjoyed playing .",
+      "normalized_edited_story_text_sent": [
+        "the family had a party .",
+        "the kids were playing .",
+        "the girls were happy to reunite .",
+        "the food was tasty .",
+        "the children enjoyed playing ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The family gathered for the party. The kids were having a great time, and the girls were happy to be together. The food was delicious, and the children enjoyed themselves.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the party .",
+        "the kids were having a great time , and the girls were happy to be together .",
+        "the food was delicious , and the children enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We finally had a family reunion at the old farm house.  Dad fell asleep in the chair.  Even got a pic of me in the kitchen.",
+      "normalized_edited_story_text_sent": [
+        "we finally had a family reunion at the old farm house .",
+        "dad fell asleep in the chair .",
+        "even got a pic of me in the kitchen ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632109434318",
+  "model": "GLAC"
+}

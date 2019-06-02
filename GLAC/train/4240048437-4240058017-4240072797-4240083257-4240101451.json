@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4240048437-4240058017-4240072797-4240083257-4240101451",
+  "photo_sequence_ids": [
+    "4240048437",
+    "4240058017",
+    "4240072797",
+    "4240083257",
+    "4240101451"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very tall . the buildings were so old . the architecture was amazing . the building was also a beautiful place . the streets were busy with people .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the statue we visited was very tall. the buildings we saw were so very old. But the architecture was amazing . the building was such a beautiful place. As we continued on our trip, we noticed that the streets were busy with people .",
+      "normalized_edited_story_text_sent": [
+        "the statue we visited was very tall .",
+        "the buildings we saw were so very old .",
+        "but the architecture was amazing .",
+        "the building was such a beautiful place .",
+        "as we continued on our trip , we noticed that the streets were busy with people ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the city has very tall . the buildings were old . the architecture was amazing . the building was also a beautiful place . the streets were not busy with people .",
+      "normalized_edited_story_text_sent": [
+        "the city has very tall .",
+        "the buildings were old .",
+        "the architecture was amazing .",
+        "the building was also a beautiful place .",
+        "the streets were not busy with people ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the city was very tall . the buildings were so ancient. the architecture was pretty. the building was also a beautiful place . the streets were busy with people .",
+      "normalized_edited_story_text_sent": [
+        "the city was very tall .",
+        "the buildings were so ancient .",
+        "the architecture was pretty .",
+        "the building was also a beautiful place .",
+        "the streets were busy with people ."
+      ]
+    },
+    {
+      "worker_id": "A3S67QA0SQVPUJ",
+      "edited_story_text": "The buildings in this city are so tall.  Supposedly, they were built a long time ago. David was amazed by the architecture. I don\u0027t think I have seen buildings that were as beautiful as I have seen here. The streets always seemed to be packed with people.",
+      "normalized_edited_story_text_sent": [
+        "the buildings in this city are so tall .",
+        "supposedly , they were built a long time ago .",
+        "[male] was amazed by the architecture .",
+        "i do n\u0027t think i have seen buildings that were as beautiful as i have seen here .",
+        "the streets always seemed to be packed with people ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the buidlings were very tall . the buildings were so old . the architecture was amazing . the building was also a beautiful place . the streets were empty and the statue was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the buidlings were very tall .",
+        "the buildings were so old .",
+        "the architecture was amazing .",
+        "the building was also a beautiful place .",
+        "the streets were empty and the statue was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623128165856",
+  "model": "GLAC"
+}

@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4361745963-4362484314-4362527752-4361742331-4362497214",
+  "photo_sequence_ids": [
+    "4361745963",
+    "4362484314",
+    "4362527752",
+    "4361742331",
+    "4362497214"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very old . the car was parked in the middle of the street . the cars were red and green . the road was full of debris . the dog was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The depot was very old. Red and green train cars were parked in the middle of the street. The dog was happy to be there!",
+      "normalized_edited_story_text_sent": [
+        "the depot was very old .",
+        "red and green train cars were parked in the middle of the street .",
+        "the dog was happy to be there !"
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The train station was a remake of old fashioned steam engines everyone including the dog had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the train station was a remake of old fashioned steam engines everyone including the dog had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "the building was very old . Robert\u0027s said car was parked in the middle of the street . the cars were red and green . the road was full of debris . Mary\u0027s dog was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the building was very old .",
+        "[male] \u0027s said car was parked in the middle of the street .",
+        "the cars were red and green .",
+        "the road was full of debris .",
+        "[female] \u0027s dog was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the building was very old . the train was parked.. the cars were red and green . the road was empty . the dog was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the building was very old .",
+        "the train was parked .",
+        "the cars were red and green .",
+        "the road was empty .",
+        "the dog was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the building was ancient . a car was parked in the street . there were red and green cars . the road was full of trash . despite this, the dog was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the building was ancient .",
+        "a car was parked in the street .",
+        "there were red and green cars .",
+        "the road was full of trash .",
+        "despite this , the dog was happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623321729475",
+  "model": "GLAC"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5583656456-5583656730-5583656966-5583070109-5583657538",
+  "photo_sequence_ids": [
+    "5583656456",
+    "5583656730",
+    "5583656966",
+    "5583070109",
+    "5583657538"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing their instruments . the guitarist was very talented . the drummer was really good . the lead singer sang a song . the crowd was excited .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the band was playing their instruments . The man sang while another played guitar/ The woman was at the mic also. The boy played drums.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing their instruments .",
+        "the man sang while another played guitar / the woman was at the mic also .",
+        "the boy played drums ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the band was playing their instruments . the guitarist was very talented .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing their instruments .",
+        "the guitarist was very talented ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the band was playing their instruments . the guitarist was very talented . the drummer was really good . the lead singer sang a song . the crowd was excited .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the band was playing their instruments .",
+        "the guitarist was very talented .",
+        "the drummer was really good .",
+        "the lead singer sang a song .",
+        "the crowd was excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the band was playing a gig . the guitarist showed his talent . the drummer showed his talent . the lead singer mastered a song . the crowd was pumped up .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the guitarist showed his talent .",
+        "the drummer showed his talent .",
+        "the lead singer mastered a song .",
+        "the crowd was pumped up ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "All the band members were playing their instruments. The guitarist was very talented and showed of his skills. The drummer was really good and knew how to play. The lead singer sang a song and had such a sexy voice. The crowd was entertained and they were excited.",
+      "normalized_edited_story_text_sent": [
+        "all the band members were playing their instruments .",
+        "the guitarist was very talented and showed of his skills .",
+        "the drummer was really good and knew how to play .",
+        "the lead singer sang a song and had such a sexy voice .",
+        "the crowd was entertained and they were excited ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626290154193",
+  "model": "GLAC"
+}

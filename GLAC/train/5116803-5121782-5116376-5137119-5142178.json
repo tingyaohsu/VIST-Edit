@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5116803-5121782-5116376-5137119-5142178",
+  "photo_sequence_ids": [
+    "5116803",
+    "5121782",
+    "5116376",
+    "5137119",
+    "5142178"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was dressed up as a monkey . the woman was in a bowl of makeup . the man was not amused . the girl was not happy . the two men were smiling .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the lady was dressed up as a monkey . the woman was in a bowl of makeup . the man was not amused . the girl was not happy . the two men were smiling .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the lady was dressed up as a monkey .",
+        "the woman was in a bowl of makeup .",
+        "the man was not amused .",
+        "the girl was not happy .",
+        "the two men were smiling ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "at karaoke there was a lady dressed up as a monkey . the woman was in a bowl of makeup . The man with her was not happy and it was crazy time!",
+      "normalized_edited_story_text_sent": [
+        "at karaoke there was a lady dressed up as a monkey .",
+        "the woman was in a bowl of makeup .",
+        "the man with her was not happy and it was crazy time !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "A lady is in black. The cake had candles on it. There is a sign for karaoke. They relaxed on the couch.",
+      "normalized_edited_story_text_sent": [
+        "a lady is in black .",
+        "the cake had candles on it .",
+        "there is a sign for karaoke .",
+        "they relaxed on the couch ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "There was a lady dressed up as a monkey with a lot of makeup. There was a man, and he was not amused. The girl was not smiling but there were two men, and they were.",
+      "normalized_edited_story_text_sent": [
+        "there was a lady dressed up as a monkey with a lot of makeup .",
+        "there was a man , and he was not amused .",
+        "the girl was not smiling but there were two men , and they were ."
+      ]
+    },
+    {
+      "worker_id": "A2RLL9U1JBY31Q",
+      "edited_story_text": "The lady was dressed up for a funeral. the woman was in a lot of makeup . The man was not amused and the girl was not happy. in the end the two of them were smiling .",
+      "normalized_edited_story_text_sent": [
+        "the lady was dressed up for a funeral .",
+        "the woman was in a lot of makeup .",
+        "the man was not amused and the girl was not happy .",
+        "in the end the two of them were smiling ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "129512",
+  "model": "GLAC"
+}

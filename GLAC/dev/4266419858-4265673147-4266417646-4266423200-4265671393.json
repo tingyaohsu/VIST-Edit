@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4266419858-4265673147-4266417646-4266423200-4265671393",
+  "photo_sequence_ids": [
+    "4266419858",
+    "4265673147",
+    "4266417646",
+    "4266423200",
+    "4265671393"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the bridesmaids were very excited . the couple was so happy to be married . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and Robert thought the wedding was beautiful . the bride and groom were very happy . the bridesmaids were very excited . the couple was so happy to be married . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] thought the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the bridesmaids were very excited .",
+        "the couple was so happy to be married .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the wedding was beautiful and was expensive . the bride and groom were very happy that people enjoyed themselves . the bridesmaids were very excited that they got to keep their dresses . the couple was so happy to be married . they had a great time and will remember this forever.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful and was expensive .",
+        "the bride and groom were very happy that people enjoyed themselves .",
+        "the bridesmaids were very excited that they got to keep their dresses .",
+        "the couple was so happy to be married .",
+        "they had a great time and will remember this forever ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "even though it was winter the wedding was beautiful . the bride and groom were very happy as they walked down the aisle . the bridesmaids were very excited and they were all so beautiful . the couple was so happy to be married they embraced in joy . david and mary had a great time with their friends and family.",
+      "normalized_edited_story_text_sent": [
+        "even though it was winter the wedding was beautiful .",
+        "the bride and groom were very happy as they walked down the aisle .",
+        "the bridesmaids were very excited and they were all so beautiful .",
+        "the couple was so happy to be married they embraced in joy .",
+        "[male] and [female] had a great time with their friends and family ."
+      ]
+    },
+    {
+      "worker_id": "ANZR2DCSMD0NX",
+      "edited_story_text": "the wedding was beautiful . the bridesmaids were very excited . the bride and groom were very happy to be married . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bridesmaids were very excited .",
+        "the bride and groom were very happy to be married .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were very happy . the bridesmaids were very excited . the couple was so happy to be married . they took many nice pics .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the bridesmaids were very excited .",
+        "the couple was so happy to be married .",
+        "they took many nice pics ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623064224327",
+  "model": "GLAC"
+}

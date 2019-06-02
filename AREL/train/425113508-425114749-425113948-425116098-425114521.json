@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "425113508-425114749-425113948-425116098-425114521",
+  "photo_sequence_ids": [
+    "425113508",
+    "425114749",
+    "425113948",
+    "425116098",
+    "425114521"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/173/425113508_0604058f9c_o.jpg",
+    "https://farm1.staticflickr.com/188/425114749_f902f608b2_o.jpg",
+    "https://farm1.staticflickr.com/172/425113948_47f2de2103_o.jpg",
+    "https://farm1.staticflickr.com/158/425116098_854ac19f1b_o.jpg",
+    "https://farm1.staticflickr.com/155/425114521_06f4b8b851_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends decided to go on a hike . we made sure to take a break . the cave is very old . we took a lot of pictures . we finished the day with a few drinks .",
+  "edited_stories": [
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "My friends decided to go on a hike , but we made sure to take a break, in a cave , very old cave. We took a lot of pictures. Then wen to the bar, finished the day with a few drinks.",
+      "normalized_edited_story_text_sent": [
+        "my friends decided to go on a hike , but we made sure to take a break , in a cave , very old cave .",
+        "we took a lot of pictures .",
+        "then wen to the bar , finished the day with a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "a group of buddies decided to go on a hike . we made sure to take a rest . the cave is ancient . we took a lot of photos . we ended the day with a few libations .",
+      "normalized_edited_story_text_sent": [
+        "a group of buddies decided to go on a hike .",
+        "we made sure to take a rest .",
+        "the cave is ancient .",
+        "we took a lot of photos .",
+        "we ended the day with a few libations ."
+      ]
+    },
+    {
+      "worker_id": "ADOVF9SBJJK33",
+      "edited_story_text": "a group of friends decided to go on a hike by A lake . we made sure to take a many pictures. . the tree is very old . we finished the exploring an old house.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to go on a hike by a lake .",
+        "we made sure to take a many pictures .",
+        ".",
+        "the tree is very old .",
+        "we finished the exploring an old house ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "A group of friends decided to go on a hike. We made sure to take a break half way through. We then went in a very old cave. We took a lot of pictures inside there. Afterwards we finished the day with a few drinks.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to go on a hike .",
+        "we made sure to take a break half way through .",
+        "we then went in a very old cave .",
+        "we took a lot of pictures inside there .",
+        "afterwards we finished the day with a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "a group of friends decided to go on a hike . we stopped a lot to take photos of nature and animals, including this unique tree.  when we got to the top we found a ranger\u0027s station.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to go on a hike .",
+        "we stopped a lot to take photos of nature and animals , including this unique tree .",
+        "when we got to the top we found a ranger \u0027s station ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600006405360"
+}

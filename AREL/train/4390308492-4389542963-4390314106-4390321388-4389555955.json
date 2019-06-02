@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4390308492-4389542963-4390314106-4390321388-4389555955",
+  "photo_sequence_ids": [
+    "4390308492",
+    "4389542963",
+    "4390314106",
+    "4390321388",
+    "4389555955"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2730/4390308492_0abd91c3c1_o.jpg",
+    "https://farm3.staticflickr.com/2684/4389542963_555b7487e4_o.jpg",
+    "https://farm5.staticflickr.com/4020/4390314106_658ec91222_o.jpg",
+    "https://farm5.staticflickr.com/4067/4390321388_3b9c3d07a3_o.jpg",
+    "https://farm5.staticflickr.com/4053/4389555955_33bd8bcdc8_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to visit my friend \u0027s house . my husband and i decided to take a tour of the city . there were a lot of people there . we saw a lot of old buildings . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I went to visit my friend\u0027s house. My husband and I decided to take a tour of the city. We walked in a very pretty park by a pond. We saw a lot of old buildings. I had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house .",
+        "my husband and i decided to take a tour of the city .",
+        "we walked in a very pretty park by a pond .",
+        "we saw a lot of old buildings .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to visit my friend \u0027s house . my husband and i decided to take a tour of the city . there were a lot of people all around and we saw a lot of old buildings . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house .",
+        "my husband and i decided to take a tour of the city .",
+        "there were a lot of people all around and we saw a lot of old buildings .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "I went to visit my friend\u0027s house and while we were there my husband and I decided to take a tour of the city. There were a lot of people walking around the city and we saw a lot of old buildings. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house and while we were there my husband and i decided to take a tour of the city .",
+        "there were a lot of people walking around the city and we saw a lot of old buildings .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to visit my friend \u0027s house in the great big city the other day. This is when my husband and I walked around the city to view the different types of scenery . there were not many people walking around. . we saw a lot of old buildings and different monuments . i had a total blast there.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house in the great big city the other day .",
+        "this is when my husband and i walked around the city to view the different types of scenery .",
+        "there were not many people walking around .",
+        ".",
+        "we saw a lot of old buildings and different monuments .",
+        "i had a total blast there ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to a memorial park. There were other people there. It was filled with monuments. There was a lovely reflecting pool. It was decorated with wreaths on the outside.",
+      "normalized_edited_story_text_sent": [
+        "i went to a memorial park .",
+        "there were other people there .",
+        "it was filled with monuments .",
+        "there was a lovely reflecting pool .",
+        "it was decorated with wreaths on the outside ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623389431321"
+}

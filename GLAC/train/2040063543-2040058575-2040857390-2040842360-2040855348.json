@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "2040063543-2040058575-2040857390-2040842360-2040855348",
+  "photo_sequence_ids": [
+    "2040063543",
+    "2040058575",
+    "2040857390",
+    "2040842360",
+    "2040855348"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sign was very interesting . the trees were all around . the horses were in the wind . the statue was about to happen . the man was looking at the rocks .",
+  "edited_stories": [
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the sign was very interesting, it showed different milages to places. trees were everywhere it was so pretty. you could hear horses in the wind . We made a rock stature and the man was looking at it.",
+      "normalized_edited_story_text_sent": [
+        "the sign was very interesting , it showed different milages to places .",
+        "trees were everywhere it was so pretty .",
+        "you could hear horses in the wind .",
+        "we made a rock stature and the man was looking at it ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the sign was very interesting for this type of park . the trees were all around and the leaves were all orange . the horses were in the windy conditions . the statue was about to happen  but had to be paused for now . the man was looking at the rocks as he called his wife over.",
+      "normalized_edited_story_text_sent": [
+        "the sign was very interesting for this type of park .",
+        "the trees were all around and the leaves were all orange .",
+        "the horses were in the windy conditions .",
+        "the statue was about to happen but had to be paused for now .",
+        "the man was looking at the rocks as he called his wife over ."
+      ]
+    },
+    {
+      "worker_id": "A2GMFKPE64NQQC",
+      "edited_story_text": "The trail signs were very interesting and informative. The trees were all around as we walked through the woods. There were rocks to walk around on the trail. We made a statue with some of the rocks we found. The men were relaxing on a rock when we took a break during the hike.",
+      "normalized_edited_story_text_sent": [
+        "the trail signs were very interesting and informative .",
+        "the trees were all around as we walked through the woods .",
+        "there were rocks to walk around on the trail .",
+        "we made a statue with some of the rocks we found .",
+        "the men were relaxing on a rock when we took a break during the hike ."
+      ]
+    },
+    {
+      "worker_id": "A2ZDXFFGSPHGBE",
+      "edited_story_text": "the sign was very interesting and informative . the trees were all around .there were horses in the distance . the statue was unique . the man was looking at the rocks .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very interesting and informative .",
+        "the trees were all around .",
+        "there were horses in the distance .",
+        "the statue was unique .",
+        "the man was looking at the rocks ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the sign was very interesting . the trees were everywhere. the horses were in the wind . the statue was pretty cool. the man was looking at the unusual rocks .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very interesting .",
+        "the trees were everywhere .",
+        "the horses were in the wind .",
+        "the statue was pretty cool .",
+        "the man was looking at the unusual rocks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603215309500",
+  "model": "GLAC"
+}

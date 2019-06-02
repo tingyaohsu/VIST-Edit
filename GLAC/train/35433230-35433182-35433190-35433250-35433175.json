@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "35433230-35433182-35433190-35433250-35433175",
+  "photo_sequence_ids": [
+    "35433230",
+    "35433182",
+    "35433190",
+    "35433250",
+    "35433175"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the protest . the protesters were in attendance . the protestors were getting ready . the march was peaceful . the crowd was very passionate .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "It was the day of the marathon. David was stoked to run. His family was there to support him. He crossed the finish line. His family was proud",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the marathon .",
+        "[male] was stoked to run .",
+        "his family was there to support him .",
+        "he crossed the finish line .",
+        "his family was proud"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the man was happy to be at the protest . emotions were high. they all believed in what they were fighting for.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the protest .",
+        "emotions were high .",
+        "they all believed in what they were fighting for ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "A man was very happy to be at the protest . all the protesters were in attendance . all the protesters were getting ready . the march was peaceful but loud . the crowd was very passionate about the protest .",
+      "normalized_edited_story_text_sent": [
+        "a man was very happy to be at the protest .",
+        "all the protesters were in attendance .",
+        "all the protesters were getting ready .",
+        "the march was peaceful but loud .",
+        "the crowd was very passionate about the protest ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "david attended the protest, and was happy to do so.  he joined the protesters getting ready.  the march itself was peaceful, but the crowd was passionate.",
+      "normalized_edited_story_text_sent": [
+        "[male] attended the protest , and was happy to do so .",
+        "he joined the protesters getting ready .",
+        "the march itself was peaceful , but the crowd was passionate ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the man was happy to be at the protest . the protesters were in attendance . the people were very excited . the march was peaceful . the crowd was very passionate .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the protest .",
+        "the protesters were in attendance .",
+        "the people were very excited .",
+        "the march was peaceful .",
+        "the crowd was very passionate ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "784072",
+  "model": "GLAC"
+}

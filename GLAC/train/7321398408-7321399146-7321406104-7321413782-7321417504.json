@@ -1,0 +1,62 @@
+{
+  "photo_sequence_id": "7321398408-7321399146-7321406104-7321413782-7321417504",
+  "photo_sequence_ids": [
+    "7321398408",
+    "7321399146",
+    "7321406104",
+    "7321413782",
+    "7321417504"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the wedding . the bride and groom were very happy . the couple was so happy . the father was also in the middle of the ceremony . the cake was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "lisa\u0027s graduation party was a huge success! we took pictures with everyone, and enjoyed a really good cake with strawberries. we\u0027re all so proud of her!",
+      "normalized_edited_story_text_sent": [
+        "[female] \u0027s graduation party was a huge success !",
+        "we took pictures with everyone , and enjoyed a really good cake with strawberries .",
+        "we \u0027re all so proud of her !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was ready for the wedding . the bride and groom were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the wedding .",
+        "the bride and groom were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "My little sister finally graduated.  We all got together and even made a nice cake.",
+      "normalized_edited_story_text_sent": [
+        "my little sister finally graduated .",
+        "we all got together and even made a nice cake ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the family was all set for the wedding. both the bride and the groom were very happy.  the father was in the ceremony.  the wedding cake tasted great.",
+      "normalized_edited_story_text_sent": [
+        "the family was all set for the wedding .",
+        "both the bride and the groom were very happy .",
+        "the father was in the ceremony .",
+        "the wedding cake tasted great ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family was ready for the graduation. The students were very happy. The cake was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the graduation .",
+        "the students were very happy .",
+        "the cake was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630013916068",
+  "model": "GLAC"
+}

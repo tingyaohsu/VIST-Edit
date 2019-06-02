@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "14443472923-14443473773-14236702198-14236701078-14423296985",
+  "photo_sequence_ids": [
+    "14443472923",
+    "14443473773",
+    "14236702198",
+    "14236701078",
+    "14423296985"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the stadium was packed with people . the mascot was excited to be there . the players were ready for the game . the fans were in the arena . the game was about to begin .",
+  "edited_stories": [
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "the baseball stadium was packed with people.  We took the time out to take in the view from outside the stadium, and even took some pictures.  We took a family picture inside the stadium and had great seats in center field. We watched the game and saw an official review take place.",
+      "normalized_edited_story_text_sent": [
+        "the baseball stadium was packed with people .",
+        "we took the time out to take in the view from outside the stadium , and even took some pictures .",
+        "we took a family picture inside the stadium and had great seats in center field .",
+        "we watched the game and saw an official review take place ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the stadium was packed with people . the mascot was excited to be there . the players were ready for the game . the fans were packed in the arena . this was a good game .",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed with people .",
+        "the mascot was excited to be there .",
+        "the players were ready for the game .",
+        "the fans were packed in the arena .",
+        "this was a good game ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The stadium was huge. It was packed with people . We were so excited to be there . The players were ready. The game was about to begin.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was huge .",
+        "it was packed with people .",
+        "we were so excited to be there .",
+        "the players were ready .",
+        "the game was about to begin ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The stadium was packed to the brim with people . The mascot was excited to be there performing. The players were anxious for the game to start. The fans were standing and sitting throughout the arena . The game was about to begin soon.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed to the brim with people .",
+        "the mascot was excited to be there performing .",
+        "the players were anxious for the game to start .",
+        "the fans were standing and sitting throughout the arena .",
+        "the game was about to begin soon ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the stadium was packed with people and it was huge. I posed on the top floor. We all posed in front of the field. The scoreboard was huge.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed with people and it was huge .",
+        "i posed on the top floor .",
+        "we all posed in front of the field .",
+        "the scoreboard was huge ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157644777317969",
+  "model": "GLAC"
+}

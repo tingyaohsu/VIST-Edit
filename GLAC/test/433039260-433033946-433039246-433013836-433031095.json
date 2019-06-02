@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "433039260-433033946-433039246-433013836-433031095",
+  "photo_sequence_ids": [
+    "433039260",
+    "433033946",
+    "433039246",
+    "433013836",
+    "433031095"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the couple was so happy . the wedding was also fun . the cake was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the wedding was beautiful. everyone was happy for the couple. the bride and groom were very happy.  they cut the beautiful cake.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "everyone was happy for the couple .",
+        "the bride and groom were very happy .",
+        "they cut the beautiful cake ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the wedding was beautiful . the bridal party was very happy . everyone looked so happy . the wedding was a lot of\r fun . the cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bridal party was very happy .",
+        "everyone looked so happy .",
+        "the wedding was a lot of fun .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the bride was happy . the bride and groom were very happy . the couple was so happy . the wedding was two layers . the cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the bride was happy .",
+        "the bride and groom were very happy .",
+        "the couple was so happy .",
+        "the wedding was two layers .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was beautiful . the bride relaxed before the ceremony . the couple was so happy . the wedding was also fun . the cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride relaxed before the ceremony .",
+        "the couple was so happy .",
+        "the wedding was also fun .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was a beautiful affair . the bride and groom were merry . the future husband and wife were so happy . the wedding was also a fun event . the cake tasted great .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful affair .",
+        "the bride and groom were merry .",
+        "the future husband and wife were so happy .",
+        "the wedding was also a fun event .",
+        "the cake tasted great ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600024838608",
+  "model": "GLAC"
+}

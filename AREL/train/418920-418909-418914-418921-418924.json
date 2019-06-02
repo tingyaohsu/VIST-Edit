@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "418920-418909-418914-418921-418924",
+  "photo_sequence_ids": [
+    "418920",
+    "418909",
+    "418914",
+    "418921",
+    "418924"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/1/418920_8a6f0b597f_o.jpg",
+    "https://farm1.staticflickr.com/1/418909_2457a1ecb6_o.jpg",
+    "https://farm1.staticflickr.com/1/418914_2fa04d9387_o.jpg",
+    "https://farm1.staticflickr.com/1/418921_8aa6b0024f_o.jpg",
+    "https://farm1.staticflickr.com/1/418924_8326faa102_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the beach today . the kids had a great time there . some of the performers were very good . it was a lot of fun . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the beach today . the kids had a great time there . some of the performers were very good . it was a lot of fun and we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "the kids had a great time there .",
+        "some of the performers were very good .",
+        "it was a lot of fun and we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to the beach today . we all had a great time there, including the kids . some of the performers were quite good . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "we all had a great time there , including the kids .",
+        "some of the performers were quite good .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "We went to the beach today. The kids had a great time there. There were some performers there that were very good. it was a lot of fun. we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "the kids had a great time there .",
+        "there were some performers there that were very good .",
+        "it was a lot of fun .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went to the beach today . the kids had a great time there . some of the performers were very good . it was a lot of fun . there were a ton of people there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "the kids had a great time there .",
+        "some of the performers were very good .",
+        "it was a lot of fun .",
+        "there were a ton of people there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The concert was awesome.  Some of the performers were very good. It was very crowded. We had fun killing time playing the hollahoops.",
+      "normalized_edited_story_text_sent": [
+        "the concert was awesome .",
+        "some of the performers were very good .",
+        "it was very crowded .",
+        "we had fun killing time playing the hollahoops ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "10332"
+}

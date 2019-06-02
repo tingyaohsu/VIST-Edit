@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4321318264-4320586329-4320586553-4320586707-4321319472",
+  "photo_sequence_ids": [
+    "4321318264",
+    "4320586329",
+    "4320586553",
+    "4320586707",
+    "4321319472"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2708/4321318264_3fa2051a44_o.jpg",
+    "https://farm5.staticflickr.com/4013/4320586329_5033e6a947_o.jpg",
+    "https://farm5.staticflickr.com/4045/4320586553_e6d718a2dd_o.jpg",
+    "https://farm5.staticflickr.com/4057/4320586707_3850c67949_o.jpg",
+    "https://farm5.staticflickr.com/4011/4321319472_d292c19387_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the market . there were many shops . we saw a lot of old buildings . the inside of the hotel was a lot of fun . i went to the local market .",
+  "edited_stories": [
+    {
+      "worker_id": "A2XR8TBWW9DJN3",
+      "edited_story_text": "[male] and I went to the market this morning . there were so many shops, one of which was a coffee shop where we stopped to get our morning coffee. we saw a lot of old buildings . the best place that we was the inside of the hotel and that was a lot of fun . i went to the local market with [male] .",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to the market this morning .",
+        "there were so many shops , one of which was a coffee shop where we stopped to get our morning coffee .",
+        "we saw a lot of old buildings .",
+        "the best place that we was the inside of the hotel and that was a lot of fun .",
+        "i went to the local market with [male] ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we went to the local coffee breakfast shop The coffee was so good. I loved the old building design and the food was great.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local coffee breakfast shop the coffee was so good .",
+        "i loved the old building design and the food was great ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to the market there were many shops along the way and we saw a lot of old buildings . the inside of the hotel was very fun looking. . i went to the local market .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market there were many shops along the way and we saw a lot of old buildings .",
+        "the inside of the hotel was very fun looking .",
+        ".",
+        "i went to the local market ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the market and there were many shops . we saw a lot of old buildings . the inside of the hotel was a lot of fun . i went to the local market .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market and there were many shops .",
+        "we saw a lot of old buildings .",
+        "the inside of the hotel was a lot of fun .",
+        "i went to the local market ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we went to the market . we have breakfast . we saw a lot of old buildings . the inside of the hotel was a lot of fun . i went to the local market .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market .",
+        "we have breakfast .",
+        "we saw a lot of old buildings .",
+        "the inside of the hotel was a lot of fun .",
+        "i went to the local market ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632386835732"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4830640188-4830640420-4830029085-4830643376-4830032941",
+  "photo_sequence_ids": [
+    "4830640188",
+    "4830640420",
+    "4830029085",
+    "4830643376",
+    "4830032941"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4140/4830640188_75b8ec384e_o.jpg",
+    "https://farm5.staticflickr.com/4142/4830640420_b106506512_o.jpg",
+    "https://farm5.staticflickr.com/4081/4830029085_79753dea6a_o.jpg",
+    "https://farm5.staticflickr.com/4136/4830643376_1dd0af382c_o.jpg",
+    "https://farm5.staticflickr.com/4101/4830032941_8ed37f69c1_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends got together for a meeting . there were a lot of people there . the professor is taking a picture of the inside of the building . i had a great time . there was also a lot of water .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "a group of friends got together for the meeting. they had a good discussion about the schedule for their project. everyone was satisfied with what they\u0027d accomplished.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for the meeting .",
+        "they had a good discussion about the schedule for their project .",
+        "everyone was satisfied with what they \u0027d accomplished ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "A group of friends got together for dinner in the evening. Their bikes were all parked in a row outside. One of the friends was looking at a project calendar for their group project. They had all of their project supplies laid out on the table. They got some of the paint on the floor while they worked.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for dinner in the evening .",
+        "their bikes were all parked in a row outside .",
+        "one of the friends was looking at a project calendar for their group project .",
+        "they had all of their project supplies laid out on the table .",
+        "they got some of the paint on the floor while they worked ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "A group of friends got together for a meeting, there were a lot of people there. The professor took a nice photo of the inside of the building. I enjoyed myself and saw great artwork.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a meeting , there were a lot of people there .",
+        "the professor took a nice photo of the inside of the building .",
+        "i enjoyed myself and saw great artwork ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "a large group of friends got together for a meeting . the professor took a picture of the inside of the building . i had a great time . there was also a lot of water .",
+      "normalized_edited_story_text_sent": [
+        "a large group of friends got together for a meeting .",
+        "the professor took a picture of the inside of the building .",
+        "i had a great time .",
+        "there was also a lot of water ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "a group of friends got together for a meeting . there were a lot of people there . the professor is taking a picture of the inside of the building . i had a great time . there was also a lot of water It was wonderful",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a meeting .",
+        "there were a lot of people there .",
+        "the professor is taking a picture of the inside of the building .",
+        "i had a great time .",
+        "there was also a lot of water it was wonderful"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624585498856"
+}

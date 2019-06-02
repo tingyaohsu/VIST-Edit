@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "7321398408-7321399146-7321400152-7321412260-7321415840",
+  "photo_sequence_ids": [
+    "7321398408",
+    "7321399146",
+    "7321400152",
+    "7321412260",
+    "7321415840"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was so happy to be together . they were very excited . they were able to see each other . they took pictures with their parents . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was so happy to be together for graduation. She posed with her cap and gown. the cake was decorated with umbrellas.",
+      "normalized_edited_story_text_sent": [
+        "the family was so happy to be together for graduation .",
+        "she posed with her cap and gown .",
+        "the cake was decorated with umbrellas ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family was so happy to be together . they were very excited . they were able to see each other . they took pictures with their parents . they had a great time .\r\rMy family was really happy to finally be together. Everyone was excited! We were finally able to see one another. The kids took pictures with their parents! We had such a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "the family was so happy to be together .",
+        "they were very excited .",
+        "they were able to see each other .",
+        "they took pictures with their parents .",
+        "they had a great time .",
+        "my family was really happy to finally be together .",
+        "everyone was excited !",
+        "we were finally able to see one another .",
+        "the kids took pictures with their parents !",
+        "we had such a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We are so proud of our daughter graduation from college today.  Here aunties made a scene and check out her colorful cake.",
+      "normalized_edited_story_text_sent": [
+        "we are so proud of our daughter graduation from college today .",
+        "here aunties made a scene and check out her colorful cake ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family was excited to be together. They took pictures together. Then they ate cake and they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be together .",
+        "they took pictures together .",
+        "then they ate cake and they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was glad to be reunited . they were enthusiastic . they hadn\u0027t seen each other in a while . they took group photos . they had fun .",
+      "normalized_edited_story_text_sent": [
+        "the family was glad to be reunited .",
+        "they were enthusiastic .",
+        "they had n\u0027t seen each other in a while .",
+        "they took group photos .",
+        "they had fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630013916068",
+  "model": "GLAC"
+}

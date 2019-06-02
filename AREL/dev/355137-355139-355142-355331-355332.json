@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "355137-355139-355142-355331-355332",
+  "photo_sequence_ids": [
+    "355137",
+    "355139",
+    "355142",
+    "355331",
+    "355332"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/1/355137_bd2ca7917d_o.jpg",
+    "https://farm1.staticflickr.com/1/355139_d99f1edeca_o.jpg",
+    "https://farm1.staticflickr.com/1/355142_81ceb56e6e_o.jpg",
+    "https://farm1.staticflickr.com/1/355331_3e197ef2dc_o.jpg",
+    "https://farm1.staticflickr.com/1/355332_7851bf13a4_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the park today . the kids had a lot of fun on the rides . the kids had fun playing in the park . there was a lot of cool things to see . the kids had a great time at the pool party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the park today . the kids had a lot of fun on the rides . the kids had fun playing in the park . there was a lot of cool things to see . the kids had a great time at the games along the strpe. They also really enjoyed looking at the planes.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the park today .",
+        "the kids had a lot of fun on the rides .",
+        "the kids had fun playing in the park .",
+        "there was a lot of cool things to see .",
+        "the kids had a great time at the games along the strpe .",
+        "they also really enjoyed looking at the planes ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "We had a great time at the park today. There was a lot of cool things to see there. The kids had a lot of fun on the carnival rides.  Then afterwards the kids went to a pool party and had a blast.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the park today .",
+        "there was a lot of cool things to see there .",
+        "the kids had a lot of fun on the carnival rides .",
+        "then afterwards the kids went to a pool party and had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the park today . the kids had a lot of fun on the rides and playing in the park . there was a lot of cool things to see and do. the kids had a great time at the pool party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the park today .",
+        "the kids had a lot of fun on the rides and playing in the park .",
+        "there was a lot of cool things to see and do .",
+        "the kids had a great time at the pool party ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the fair today. the kids had a lot of fun on the rides. there were some cool things to see and lots of lights. everyone enjoyed themselves.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the fair today .",
+        "the kids had a lot of fun on the rides .",
+        "there were some cool things to see and lots of lights .",
+        "everyone enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "A3IDBFPW2T9P5D",
+      "edited_story_text": "We had a great time at the park today. The kids had a lot of fun on the rides, and playing in the park. There were a lot of cool things to see. The kids had a great time at the park taking everything in.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the park today .",
+        "the kids had a lot of fun on the rides , and playing in the park .",
+        "there were a lot of cool things to see .",
+        "the kids had a great time at the park taking everything in ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "8139"
+}

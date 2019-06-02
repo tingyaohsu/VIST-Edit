@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4247886911-4247867651-4248644562-4247874315-4247891519",
+  "photo_sequence_ids": [
+    "4247886911",
+    "4247867651",
+    "4248644562",
+    "4247874315",
+    "4247891519"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2740/4247886911_3d688b100d_o.jpg",
+    "https://farm5.staticflickr.com/4066/4247867651_d6df23b1eb_o.jpg",
+    "https://farm5.staticflickr.com/4060/4248644562_b0e197fc4a_o.jpg",
+    "https://farm3.staticflickr.com/2748/4247874315_a8c823c96b_o.jpg",
+    "https://farm3.staticflickr.com/2730/4247891519_855c3b0475_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends decided to have a party . there were a lot of people there . [male] and [male] had a great time . he was so happy to see me . we all had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "a group of people decided to have a holiday party . there was a lot of good food and drink . [male] and [male] had a great time and were all smiles . Everyone was ready to pose with their best smiles . we all had a great time, even the chicken .",
+      "normalized_edited_story_text_sent": [
+        "a group of people decided to have a holiday party .",
+        "there was a lot of good food and drink .",
+        "[male] and [male] had a great time and were all smiles .",
+        "everyone was ready to pose with their best smiles .",
+        "we all had a great time , even the chicken ."
+      ]
+    },
+    {
+      "worker_id": "A3IB7YJHP04OHI",
+      "edited_story_text": "We decided to have a party . There were a lot of people there . [Bob] and [Carl] had a great time . [Bob] was so happy to see me . We all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we decided to have a party .",
+        "there were a lot of people there .",
+        "[male] and [male] had a great time .",
+        "[male] was so happy to see me .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "A group of friends decided to have a holiday party.  Many people came. [male] and [male] had a great time. [male] was so happy to see me, he posed for some crazy pictures. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to have a holiday party .",
+        "many people came .",
+        "[male] and [male] had a great time .",
+        "[male] was so happy to see me , he posed for some crazy pictures .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2F9V69F6TZIAB",
+      "edited_story_text": "a group of my friends decided to have a party . there were a lot of people there . [male] and [male] had a great time . [male] and [female] were so happy to see me . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "a group of my friends decided to have a party .",
+        "there were a lot of people there .",
+        "[male] and [male] had a great time .",
+        "[male] and [female] were so happy to see me .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "our group of friends decided to have a party . there were a lot of people there . [male] and [male] had a great time . he was so happy to see me . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "our group of friends decided to have a party .",
+        "there were a lot of people there .",
+        "[male] and [male] had a great time .",
+        "he was so happy to see me .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623021292833"
+}

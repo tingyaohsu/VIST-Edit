@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4952490752-4951900321-4951900811-4952492716-4952493476",
+  "photo_sequence_ids": [
+    "4952490752",
+    "4951900321",
+    "4951900811",
+    "4952492716",
+    "4952493476"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was very excited . he was a bit nervous . he was so proud . he was given a certificate .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We went to the basketball museum yesterday.  There were come great photo ops.  Also got to watch a game on the court they have inside.",
+      "normalized_edited_story_text_sent": [
+        "we went to the basketball museum yesterday .",
+        "there were come great photo ops .",
+        "also got to watch a game on the court they have inside ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the man signed some paperwork desk. Another man stood by a large sports trophy in the building as a crowd gathered.   Fans watched some pro basketball players play a game. The mascot ran toward the crowd. The crowd cheered in unison.",
+      "normalized_edited_story_text_sent": [
+        "the man signed some paperwork desk .",
+        "another man stood by a large sports trophy in the building as a crowd gathered .",
+        "fans watched some pro basketball players play a game .",
+        "the mascot ran toward the crowd .",
+        "the crowd cheered in unison ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the speaker was very happy to be there . he was very excited . it led into a great basketball game",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was very excited .",
+        "it led into a great basketball game"
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the speaker was very happy to be there . he was very excited . he was a bit nervous . he was so proud . he was given a certificate .\r\rThe speaker told me they were delighted to be there. He was really pumped. Although I think he was a bit nervous! He was a proud man. He was later presented with a certificate.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was very excited .",
+        "he was a bit nervous .",
+        "he was so proud .",
+        "he was given a certificate .",
+        "the speaker told me they were delighted to be there .",
+        "he was really pumped .",
+        "although i think he was a bit nervous !",
+        "he was a proud man .",
+        "he was later presented with a certificate ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the the speaker was very happy to be there . he was very excited . he was a bit nervous . he was so proud . he was given a certificate .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the the speaker was very happy to be there .",
+        "he was very excited .",
+        "he was a bit nervous .",
+        "he was so proud .",
+        "he was given a certificate ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207406112",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4335682616-4334937829-4335685096-4334938719-4335679242",
+  "photo_sequence_ids": [
+    "4335682616",
+    "4334937829",
+    "4335685096",
+    "4334938719",
+    "4335679242"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the trees were covered in snow . the people were walking around . the tree was covered in snow . the man was dressed up . the horses were very thick .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the view was amazing. We took a tour of the area including inside a mine.  I was glad to be back outside!",
+      "normalized_edited_story_text_sent": [
+        "the view was amazing .",
+        "we took a tour of the area including inside a mine .",
+        "i was glad to be back outside !"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the trees were covered in snow . the people were walking around . the snow was everywhere . the man was dressed up . the horses were very thick .",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in snow .",
+        "the people were walking around .",
+        "the snow was everywhere .",
+        "the man was dressed up .",
+        "the horses were very thick ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the trees were covered in mist. the people were walking around getting ready for the day . the tree limbs covered the old shack . the woman was dressed up for the event . the horse was very thin.",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in mist .",
+        "the people were walking around getting ready for the day .",
+        "the tree limbs covered the old shack .",
+        "the woman was dressed up for the event .",
+        "the horse was very thin ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the trees were covered in snow but only at the top . the people were walking around looking for food . the tree was covered in water due to the recent rain . the man was dressed up in his traditional outfit . the horses were very thick which would be good for steak later .",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in snow but only at the top .",
+        "the people were walking around looking for food .",
+        "the tree was covered in water due to the recent rain .",
+        "the man was dressed up in his traditional outfit .",
+        "the horses were very thick which would be good for steak later ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The mountain was covered in trees. The people of the village were walking around the market. The house they used for gatherings was covered in poles. The woman held a candle. The horses walked the farm land.",
+      "normalized_edited_story_text_sent": [
+        "the mountain was covered in trees .",
+        "the people of the village were walking around the market .",
+        "the house they used for gatherings was covered in poles .",
+        "the woman held a candle .",
+        "the horses walked the farm land ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623366569792",
+  "model": "GLAC"
+}

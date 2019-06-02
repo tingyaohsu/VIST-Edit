@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "18364210964-18799098210-18366117233-18364211804-18989788991",
+  "photo_sequence_ids": [
+    "18364210964",
+    "18799098210",
+    "18366117233",
+    "18364211804",
+    "18989788991"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the city today . there were many interesting statues . the streets were full of people . the signs were very impressive . the buildings were so tall .",
+  "edited_stories": [
+    {
+      "worker_id": "AYPRRGPMOD0AX",
+      "edited_story_text": "We went to the city today and saw many interesting statues . The streets were full of people,Impressive signs and tall buildings.",
+      "normalized_edited_story_text_sent": [
+        "we went to the city today and saw many interesting statues .",
+        "the streets were full of people , impressive signs and tall buildings ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "we went to the city today to attend a bourbon tasting that the group had organized . there were many interesting statues outside the distillery . the streets were full of people in town for the festival . the signs were very impressive . the buildings were so tall and impressive .",
+      "normalized_edited_story_text_sent": [
+        "we went to the city today to attend a bourbon tasting that the group had organized .",
+        "there were many interesting statues outside the distillery .",
+        "the streets were full of people in town for the festival .",
+        "the signs were very impressive .",
+        "the buildings were so tall and impressive ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the city today . there were many interesting statues . the streets were empty . the signs were very impressive . the buildings were so tall and the weather was perfect.",
+      "normalized_edited_story_text_sent": [
+        "we went to the city today .",
+        "there were many interesting statues .",
+        "the streets were empty .",
+        "the signs were very impressive .",
+        "the buildings were so tall and the weather was perfect ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "we went to the big city today . there were many neat statues . the streets were full of cool people . the signs were very impressive . the buildings were so tall .",
+      "normalized_edited_story_text_sent": [
+        "we went to the big city today .",
+        "there were many neat statues .",
+        "the streets were full of cool people .",
+        "the signs were very impressive .",
+        "the buildings were so tall ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the city today because it was the weekend . there were many interesting statues as well as paintings . the streets were full of people who also enjoyed the statues . the signs were very impressive due to the color used . the buildings were so tall I could hardly see over them.",
+      "normalized_edited_story_text_sent": [
+        "we went to the city today because it was the weekend .",
+        "there were many interesting statues as well as paintings .",
+        "the streets were full of people who also enjoyed the statues .",
+        "the signs were very impressive due to the color used .",
+        "the buildings were so tall i could hardly see over them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157652488541824",
+  "model": "GLAC"
+}

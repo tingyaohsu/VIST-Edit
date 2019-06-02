@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6392828155-6392866607-6392871319-6392879089-6392888245",
+  "photo_sequence_ids": [
+    "6392828155",
+    "6392866607",
+    "6392871319",
+    "6392879089",
+    "6392888245"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7143/6392828155_07a8084698_o.jpg",
+    "https://farm8.staticflickr.com/7021/6392866607_3b3b31c502_o.jpg",
+    "https://farm8.staticflickr.com/7154/6392871319_5da2032f89_o.jpg",
+    "https://farm8.staticflickr.com/7025/6392879089_242e05cca7_o.jpg",
+    "https://farm8.staticflickr.com/7023/6392888245_daf4c1b1b8_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the amusement park . there was a lot of fun at the carnival . then we got to see a lot of cool things . the kids were having a great time at the festival . we ended the day by taking a picture of a fountain .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the amusement park and at the carnival . we got to see a lot of cool things . the kids were having a great time at the festival . we ended the day by taking a picture of a fountain .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the amusement park and at the carnival .",
+        "we got to see a lot of cool things .",
+        "the kids were having a great time at the festival .",
+        "we ended the day by taking a picture of a fountain ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "We had a great time at the amusement park  There was a roller coaster and merry go around. We ended the day by taking a picture of a fountain.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the amusement park there was a roller coaster and merry go around .",
+        "we ended the day by taking a picture of a fountain ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "We had a great time at the amusement park. There was a lot of fun available at the carnival. We got to see a lot of cool things. The kids were having a great time at the festival. We ended the day by taking a picture of a fountain .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the amusement park .",
+        "there was a lot of fun available at the carnival .",
+        "we got to see a lot of cool things .",
+        "the kids were having a great time at the festival .",
+        "we ended the day by taking a picture of a fountain ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "We had a great time at the amusement park . There was a lot OF RIDES. Then we got to see a lot of cool things. The kids were having a great time SEEING ALL THE SIGHTS. We ended the day by taking a picture of a fountain.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the amusement park .",
+        "there was a lot of rides .",
+        "then we got to see a lot of cool things .",
+        "the kids were having a great time seeing all the sights .",
+        "we ended the day by taking a picture of a fountain ."
+      ]
+    },
+    {
+      "worker_id": "A26376A6PIQ58H",
+      "edited_story_text": "We had a great time at the amusement park.  We had a lot of fun at the carnival, and then we got to see a lot of cool things.  The kids had a great time at the festival.  We ended the day by taking a picture of a fountain.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the amusement park .",
+        "we had a lot of fun at the carnival , and then we got to see a lot of cool things .",
+        "the kids had a great time at the festival .",
+        "we ended the day by taking a picture of a fountain ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628033104348"
+}

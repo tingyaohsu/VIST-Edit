@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "9860784-9860783-9860785-9686701-9860786",
+  "photo_sequence_ids": [
+    "9860784",
+    "9860783",
+    "9860785",
+    "9686701",
+    "9860786"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . some of them were very creative . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up in horror wear . some of the costumes were very scary . some of them were very creative . others were disgusting .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up in horror wear .",
+        "some of the costumes were very scary .",
+        "some of them were very creative .",
+        "others were disgusting ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . some of them were very creative . there was a lot of blood .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "some of them were very creative .",
+        "there was a lot of blood ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the Halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . some of them were very creative. Everyone seemed to have a blood-covered costume of some sort.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "some of them were very creative .",
+        "everyone seemed to have a blood-covered costume of some sort ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . some of them were very creative . i had a great time .\r\rThe Halloween party was so much fun! So many people dressed up! Some of the costumes actually looked scary this time. I liked the amount of effort some people put into their costumes! I had such a good time!",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "the halloween party was so much fun !",
+        "so many people dressed up !",
+        "some of the costumes actually looked scary this time .",
+        "i liked the amount of effort some people put into their costumes !",
+        "i had such a good time !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "246334",
+  "model": "GLAC"
+}

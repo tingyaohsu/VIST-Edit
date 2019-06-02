@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4799392071-4800007338-4799940834-4799942142-4799946376",
+  "photo_sequence_ids": [
+    "4799392071",
+    "4800007338",
+    "4799940834",
+    "4799942142",
+    "4799946376"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a lot of fun . the students were very excited . the graduates were very happy . the families were all smiles . the family was so proud of them .",
+  "edited_stories": [
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the graduation ceremony was very sentimental . the students were very excited about their future . the graduates were very happy . the families were all smiles . the family was so proud of them .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was very sentimental .",
+        "the students were very excited about their future .",
+        "the graduates were very happy .",
+        "the families were all smiles .",
+        "the family was so proud of them ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the graduation ceremony was a lot of fun . the students were ready to leave school . the graduates were very happy . the families were all smiles . the family was so proud of them .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "the students were ready to leave school .",
+        "the graduates were very happy .",
+        "the families were all smiles .",
+        "the family was so proud of them ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The graduation was a success.  I am so proud of my daughter and her friends, all graduated a semester early.  Good luck in the future.",
+      "normalized_edited_story_text_sent": [
+        "the graduation was a success .",
+        "i am so proud of my daughter and her friends , all graduated a semester early .",
+        "good luck in the future ."
+      ]
+    },
+    {
+      "worker_id": "A1I72NHC21347A",
+      "edited_story_text": "The graduation ceremony took place at the school. Family and friends attended the event. Th weather was veyr nice and everyone had a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony took place at the school .",
+        "family and friends attended the event .",
+        "th weather was veyr nice and everyone had a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the graduation ceremony was a lot of fun . the students were so excited . the graduates families were very happy . everyone was all smiles . their families wer so proud of them .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "the students were so excited .",
+        "the graduates families were very happy .",
+        "everyone was all smiles .",
+        "their families wer so proud of them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624516029402",
+  "model": "GLAC"
+}

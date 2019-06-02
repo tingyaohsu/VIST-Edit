@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "7828347648-7828346574-7828346824-7828348366-7828349080",
+  "photo_sequence_ids": [
+    "7828347648",
+    "7828346574",
+    "7828346824",
+    "7828348366",
+    "7828349080"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8445/7828347648_b2b6838c11_o.jpg",
+    "https://farm9.staticflickr.com/8283/7828346574_7652e11ea2_o.jpg",
+    "https://farm8.staticflickr.com/7132/7828346824_5c2838cf2e_o.jpg",
+    "https://farm8.staticflickr.com/7133/7828348366_89180b1174_o.jpg",
+    "https://farm9.staticflickr.com/8295/7828349080_49ece5ff10_o.jpg"
+  ],
+  "auto_story_text_normalized": "the girl was happy to be at her birthday party . she was so happy to be there . she was so happy to be there . she was so happy to be there . and he was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "[Female] was happy to be at her birthday party, and so was [male].",
+      "normalized_edited_story_text_sent": [
+        "[female] was happy to be at her birthday party , and so was [male] ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "the girl was happy and poses for a picture with her dog at her birthday party . she was so happy to receive books. she was hoping for new books . she was so thrilled to pose in new clothes. her dog was very happy to be there too.",
+      "normalized_edited_story_text_sent": [
+        "the girl was happy and poses for a picture with her dog at her birthday party .",
+        "she was so happy to receive books .",
+        "she was hoping for new books .",
+        "she was so thrilled to pose in new clothes .",
+        "her dog was very happy to be there too ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The girls posed for the pictures. She was so happy to be there.  She took a picture with her dog.  The photos in the park turned out very nice.",
+      "normalized_edited_story_text_sent": [
+        "the girls posed for the pictures .",
+        "she was so happy to be there .",
+        "she took a picture with her dog .",
+        "the photos in the park turned out very nice ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the girl was happy to be at her photoshoot.",
+      "normalized_edited_story_text_sent": [
+        "the girl was happy to be at her photoshoot ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the girl was happy to be with her dog . she also enjoys reading . she is trying to become a model.",
+      "normalized_edited_story_text_sent": [
+        "the girl was happy to be with her dog .",
+        "she also enjoys reading .",
+        "she is trying to become a model ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631169645326"
+}

@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "58237786-58237787-58237784-58237785-58331499",
+  "photo_sequence_ids": [
+    "58237786",
+    "58237787",
+    "58237784",
+    "58237785",
+    "58331499"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom were getting ready for the wedding . the bride and groom were very happy . the couple was so excited to be married . the family was all smiles . the new husband and wife were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the bride and groom were getting ready for the wedding . the bride and groom were very happy . the couple was so excited to be married . the family was all smiles . the new husband and wife were very happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the bride and groom were getting ready for the wedding .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the family was all smiles .",
+        "the new husband and wife were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A14M2EERU7E8KD",
+      "edited_story_text": "The whole family attended a wedding. After we all took pictures at the reception. We enjoyed dancing and seeing the bride and groom have their dance. After, we partied on the dance floor.",
+      "normalized_edited_story_text_sent": [
+        "the whole family attended a wedding .",
+        "after we all took pictures at the reception .",
+        "we enjoyed dancing and seeing the bride and groom have their dance .",
+        "after , we partied on the dance floor ."
+      ]
+    },
+    {
+      "worker_id": "A2LH2CAU6CXVW",
+      "edited_story_text": "The big day had finally arrived.  The bride and groom were very happy to finally be getting married.  The couple was so excited, and the family was all smiles. The bride and groom had a fairy tale day!",
+      "normalized_edited_story_text_sent": [
+        "the big day had finally arrived .",
+        "the bride and groom were very happy to finally be getting married .",
+        "the couple was so excited , and the family was all smiles .",
+        "the bride and groom had a fairy tale day !"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the bride and groom were getting ready for the wedding . they were very happy . the couple was so excited to be married . the family was all smiles . the wedding went very well .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready for the wedding .",
+        "they were very happy .",
+        "the couple was so excited to be married .",
+        "the family was all smiles .",
+        "the wedding went very well ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the bride and groom were getting ready for the wedding . the bride and groom were very happy . the couple was so excited to be married . the family was all smiles . the new husband and wife were very happy .\r\rBoth the bride and the groom were prepping themselves for the wedding. They were both just so happy. When they finally got married, I could tell how much in love they both were. Both families were nothing but smiles. The newlyweds were overwhelmed with joy.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready for the wedding .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the family was all smiles .",
+        "the new husband and wife were very happy .",
+        "both the bride and the groom were prepping themselves for the wedding .",
+        "they were both just so happy .",
+        "when they finally got married , i could tell how much in love they both were .",
+        "both families were nothing but smiles .",
+        "the newlyweds were overwhelmed with joy ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1260032",
+  "model": "GLAC"
+}

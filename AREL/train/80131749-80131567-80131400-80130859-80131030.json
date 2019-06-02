@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "80131749-80131567-80131400-80130859-80131030",
+  "photo_sequence_ids": [
+    "80131749",
+    "80131567",
+    "80131400",
+    "80130859",
+    "80131030"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/40/80131749_e8400bcc7c_o.jpg",
+    "https://farm1.staticflickr.com/37/80131567_aab77d8ca3_o.jpg",
+    "https://farm1.staticflickr.com/40/80131400_97c62cf441_o.jpg",
+    "https://farm1.staticflickr.com/36/80130859_81b1d3a1eb_o.jpg",
+    "https://farm1.staticflickr.com/39/80131030_eb62c7e2f2_o.jpg"
+  ],
+  "auto_story_text_normalized": "the train was ready for the event . we all gathered around the room for a picture . the students were excited to see the tour . they had a lot of fun . they were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "the train was ready for the event . we all gathered around for a picture. the students were excited to see the tour . they had a lot of fun, even though it was crowded.",
+      "normalized_edited_story_text_sent": [
+        "the train was ready for the event .",
+        "we all gathered around for a picture .",
+        "the students were excited to see the tour .",
+        "they had a lot of fun , even though it was crowded ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the train was ready for the event . we all gathered around the train for a picture . the students were excited to see the tour . they had a lot of fun . they were very glad to be there .",
+      "normalized_edited_story_text_sent": [
+        "the train was ready for the event .",
+        "we all gathered around the train for a picture .",
+        "the students were excited to see the tour .",
+        "they had a lot of fun .",
+        "they were very glad to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The train was ready for the big event. We all gathered into one room to take a picture. The students were excited for the tour, and they had a lot of fun. They were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the train was ready for the big event .",
+        "we all gathered into one room to take a picture .",
+        "the students were excited for the tour , and they had a lot of fun .",
+        "they were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "the train was ready for the celebration. we all gathered around the room for a photo. the students were eager to see the tour . they had a great deal of fun . they were very cheerful to be there .",
+      "normalized_edited_story_text_sent": [
+        "the train was ready for the celebration .",
+        "we all gathered around the room for a photo .",
+        "the students were eager to see the tour .",
+        "they had a great deal of fun .",
+        "they were very cheerful to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the train was ready to go forward . The people all gathered around the room for a picture . the students were excited to see the tour they were going on later.",
+      "normalized_edited_story_text_sent": [
+        "the train was ready to go forward .",
+        "the people all gathered around the room for a picture .",
+        "the students were excited to see the tour they were going on later ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1716566"
+}

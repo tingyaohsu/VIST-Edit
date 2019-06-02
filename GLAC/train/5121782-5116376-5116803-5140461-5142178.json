@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5121782-5116376-5116803-5140461-5142178",
+  "photo_sequence_ids": [
+    "5121782",
+    "5116376",
+    "5116803",
+    "5140461",
+    "5142178"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . they were very good . they had a great time . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the party was a lot of fun . there were a lot of good people there having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of good people there having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for all the adults . there were a lot of people there including some kids . they were very good at dancing to the music . they had a great time with all the people . everyone had a great time and ecided to do it again next weekend .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for all the adults .",
+        "there were a lot of people there including some kids .",
+        "they were very good at dancing to the music .",
+        "they had a great time with all the people .",
+        "everyone had a great time and ecided to do it again next weekend ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the engagement party was a lot of fun and we had karaoke . there were a lot of family and friend there . they were all very good at singing . they had a great time performing for the engaged couple . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the engagement party was a lot of fun and we had karaoke .",
+        "there were a lot of family and friend there .",
+        "they were all very good at singing .",
+        "they had a great time performing for the engaged couple .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was fun for the attendants . masses were present . they were all good . they had a great time that reminded them how good life was . everyone went home to sleep after a good time .",
+      "normalized_edited_story_text_sent": [
+        "the party was fun for the attendants .",
+        "masses were present .",
+        "they were all good .",
+        "they had a great time that reminded them how good life was .",
+        "everyone went home to sleep after a good time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the party was a lot of fun . there were a lot of people there . they were very good . they had a great time . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the party was a lot of fun .",
+        "there were a lot of people there .",
+        "they were very good .",
+        "they had a great time .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "129512",
+  "model": "GLAC"
+}

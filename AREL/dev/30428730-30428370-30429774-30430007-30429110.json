@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "30428730-30428370-30429774-30430007-30429110",
+  "photo_sequence_ids": [
+    "30428730",
+    "30428370",
+    "30429774",
+    "30430007",
+    "30429110"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/22/30428730_8619335d87_o.jpg",
+    "https://farm1.staticflickr.com/22/30428370_1643aef5a0_o.jpg",
+    "https://farm1.staticflickr.com/21/30429774_fecd785791_o.jpg",
+    "https://farm1.staticflickr.com/21/30430007_a85da7e00c_o.jpg",
+    "https://farm1.staticflickr.com/23/30429110_148f7bc100_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party last week . we had a lot of fun at the party . we had a great time . the little girl was having a good time at the party . [male] and [male] had a great time at the party and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a blast at the party last week . It was a lot of fun . the little girl had a great time. [male] and [male] also had fun.",
+      "normalized_edited_story_text_sent": [
+        "we had a blast at the party last week .",
+        "it was a lot of fun .",
+        "the little girl had a great time .",
+        "[male] and [male] also had fun ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "we had a great time at the party last week . we had a lot of fun at the party . we had a great time . the little girl was having a good time at the party . [male] and [male] had a great time at the party and had a great time I loved",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "we had a lot of fun at the party .",
+        "we had a great time .",
+        "the little girl was having a good time at the party .",
+        "[male] and [male] had a great time at the party and had a great time i loved"
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at my friend\u0027s party last week. we hung out by their pool and went for a swim. later, we went inside and danced to music. [male] and [male] had a good time, so i took their picture.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at my friend \u0027s party last week .",
+        "we hung out by their pool and went for a swim .",
+        "later , we went inside and danced to music .",
+        "[male] and [male] had a good time , so i took their picture ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "we had a great time at the birthday party last week. we really had a great time . the little girl was the life of the party  . [male] and [male] put on quite the show .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the birthday party last week .",
+        "we really had a great time .",
+        "the little girl was the life of the party .",
+        "[male] and [male] put on quite the show ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "We had a great time at the party last week. [Bob] and [Janice] danced and drank beer out of a hose and funnel. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "[male] and [female] danced and drank beer out of a hose and funnel .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594171848171"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "1085999374-1085999140-1085138331-1085138447-1085997480",
+  "photo_sequence_ids": [
+    "1085999374",
+    "1085999140",
+    "1085138331",
+    "1085138447",
+    "1085997480"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the tree was covered in snow . the birds were walking around the yard . the little girl was looking out the window . the dog was enjoying the view . the dog was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the tree was covered in snow . the birds were walking around the yard . the woman was holding a chicken . there was a chick in the lady\u0027s hand.",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow .",
+        "the birds were walking around the yard .",
+        "the woman was holding a chicken .",
+        "there was a chick in the lady \u0027s hand ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the tree was covered in snow . the small birds were walking around the yard . the little girl was looking out the window . the dog was enjoying the view and the dog was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow .",
+        "the small birds were walking around the yard .",
+        "the little girl was looking out the window .",
+        "the dog was enjoying the view and the dog was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the tree was covered in snow. the chickens were walking around the yard. the little girl was looking out the window. the dog was enjoying the view. the girl and the dog were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow .",
+        "the chickens were walking around the yard .",
+        "the little girl was looking out the window .",
+        "the dog was enjoying the view .",
+        "the girl and the dog were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the tree was covered in snow . the birds were walking around the yard . the little girl was looking out the window . the dog was enjoying the view and happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow .",
+        "the birds were walking around the yard .",
+        "the little girl was looking out the window .",
+        "the dog was enjoying the view and happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the tree was covered in snow . the birds were lookin great for feed . the little girl was looking out the window . I held a baby rat . the also held a chicken  .",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow .",
+        "the birds were lookin great for feed .",
+        "the little girl was looking out the window .",
+        "i held a baby rat .",
+        "the also held a chicken ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601372125786",
+  "model": "GLAC"
+}

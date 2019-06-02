@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5358177034-5358144384-5358148912-5357536883-5357539959",
+  "photo_sequence_ids": [
+    "5358177034",
+    "5358144384",
+    "5358148912",
+    "5357536883",
+    "5357539959"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5084/5358177034_1fcbb73f6d_o.jpg",
+    "https://farm6.staticflickr.com/5124/5358144384_b6350182cb_o.jpg",
+    "https://farm6.staticflickr.com/5287/5358148912_390975c4dd_o.jpg",
+    "https://farm6.staticflickr.com/5289/5357536883_f53b5e9d84_o.jpg",
+    "https://farm6.staticflickr.com/5010/5357539959_1dbf64cbcc_o.jpg"
+  ],
+  "auto_story_text_normalized": "the police were on the way to the funeral . there were a lot of people there . there were a lot of people there . there were a lot of people there . the soldiers were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "the police were on the way to the funeral . there were a lot of people there. everyone was respectful and kind to the family.",
+      "normalized_edited_story_text_sent": [
+        "the police were on the way to the funeral .",
+        "there were a lot of people there .",
+        "everyone was respectful and kind to the family ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the police were on the way to the funeral . there were a lot of people there . there were a lot of people there . there were a lot of people there . the soldiers were very proud of what was happening",
+      "normalized_edited_story_text_sent": [
+        "the police were on the way to the funeral .",
+        "there were a lot of people there .",
+        "there were a lot of people there .",
+        "there were a lot of people there .",
+        "the soldiers were very proud of what was happening"
+      ]
+    },
+    {
+      "worker_id": "A1591LK9JIOJU1",
+      "edited_story_text": "The cops were on their way to the funeral, there were a ton of people there. All the soldiers were really proud to be part of the service.",
+      "normalized_edited_story_text_sent": [
+        "the cops were on their way to the funeral , there were a ton of people there .",
+        "all the soldiers were really proud to be part of the service ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "the police were on the way to the funeral of one of their own. there were a lot of police from all over there . there were a lot of people crying and sad . It was a very sad day . the parents of the fallen officer were very proud of him.",
+      "normalized_edited_story_text_sent": [
+        "the police were on the way to the funeral of one of their own .",
+        "there were a lot of police from all over there .",
+        "there were a lot of people crying and sad .",
+        "it was a very sad day .",
+        "the parents of the fallen officer were very proud of him ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The police were there guarding the funeral. There were a lot of people there paying respect to the deceased.   The soldiers were very proud to carry the coffin.  They load the coffin in the car. The priest greeted everyone.",
+      "normalized_edited_story_text_sent": [
+        "the police were there guarding the funeral .",
+        "there were a lot of people there paying respect to the deceased .",
+        "the soldiers were very proud to carry the coffin .",
+        "they load the coffin in the car .",
+        "the priest greeted everyone ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625830823704"
+}

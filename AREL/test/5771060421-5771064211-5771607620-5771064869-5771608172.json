@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5771060421-5771064211-5771607620-5771064869-5771608172",
+  "photo_sequence_ids": [
+    "5771060421",
+    "5771064211",
+    "5771607620",
+    "5771064869",
+    "5771608172"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5150/5771060421_769660fa32_o.jpg",
+    "https://farm4.staticflickr.com/3636/5771064211_13d14bf845_o.jpg",
+    "https://farm6.staticflickr.com/5107/5771607620_ff5a297a0f_o.jpg",
+    "https://farm6.staticflickr.com/5304/5771064869_c6b323efd2_o.jpg",
+    "https://farm6.staticflickr.com/5143/5771608172_4f1482e8d8_o.jpg"
+  ],
+  "auto_story_text_normalized": "the bird was a bird . we saw a lot of birds in the sky . to the top of the tower , the bird is standing in front of the tower . there were a lot of animals there . this guy was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the bird was a bird . we saw a lot of birds in the sky . to the top of the tower , the bird is standing in front of the fence.",
+      "normalized_edited_story_text_sent": [
+        "the bird was a bird .",
+        "we saw a lot of birds in the sky .",
+        "to the top of the tower , the bird is standing in front of the fence ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the bird was a falcon . we saw a lot of birds in the sky .The bird trainer also had and owl. there were a lot of animals there . The bird trainer was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the bird was a falcon .",
+        "we saw a lot of birds in the sky .",
+        "the bird trainer also had and owl .",
+        "there were a lot of animals there .",
+        "the bird trainer was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here is one of the birds we saw. We saw a lot of birds in the sky, and on top of the tower, and in front of the tower. There were a lot of other animals there too. This guy was very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "here is one of the birds we saw .",
+        "we saw a lot of birds in the sky , and on top of the tower , and in front of the tower .",
+        "there were a lot of other animals there too .",
+        "this guy was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "the bird was a raptor . we saw a lot of birds in the sky . Near the top of the tower , the bird is perched in front of the tower . there were a lot of animals there . this guy was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the bird was a raptor .",
+        "we saw a lot of birds in the sky .",
+        "near the top of the tower , the bird is perched in front of the tower .",
+        "there were a lot of animals there .",
+        "this guy was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to a park and saw birds. One man had a pet eagle. It would land on his hand! There was also an owl there. We saw it flying.",
+      "normalized_edited_story_text_sent": [
+        "we went to a park and saw birds .",
+        "one man had a pet eagle .",
+        "it would land on his hand !",
+        "there was also an owl there .",
+        "we saw it flying ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626831653238"
+}

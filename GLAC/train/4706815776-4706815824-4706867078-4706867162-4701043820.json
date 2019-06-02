@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4706815776-4706815824-4706867078-4706867162-4701043820",
+  "photo_sequence_ids": [
+    "4706815776",
+    "4706815824",
+    "4706867078",
+    "4706867162",
+    "4701043820"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sign was very busy . the police were there to protest . the protesters were upset . the protestors were not happy . the march was peaceful .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the sign was very busy . the police were there to protest . the protesters were upset . the protestors tried to make a point . the march was peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very busy .",
+        "the police were there to protest .",
+        "the protesters were upset .",
+        "the protestors tried to make a point .",
+        "the march was peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the sign was very emotional . the police were there at the protest . the protesters were upset with them . the protesters were not happy with the verdict . the march was nonetheless peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very emotional .",
+        "the police were there at the protest .",
+        "the protesters were upset with them .",
+        "the protesters were not happy with the verdict .",
+        "the march was nonetheless peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the signs were very busy. people were there to protest, because they were upset and unhappy. the march was peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the signs were very busy .",
+        "people were there to protest , because they were upset and unhappy .",
+        "the march was peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "there were a lot of people at the protest. the police were there to protest . the protesters were upset . the protestors were not happy . the march was peaceful .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the protest .",
+        "the police were there to protest .",
+        "the protesters were upset .",
+        "the protestors were not happy .",
+        "the march was peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the event was very busy . the police were there to protest . the protesters were upset . the protest was antsy . the march was effective .",
+      "normalized_edited_story_text_sent": [
+        "the event was very busy .",
+        "the police were there to protest .",
+        "the protesters were upset .",
+        "the protest was antsy .",
+        "the march was effective ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624150850699",
+  "model": "GLAC"
+}

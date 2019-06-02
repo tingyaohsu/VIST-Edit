@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6678096507-6678097759-6678099675-6678096011-6678100971",
+  "photo_sequence_ids": [
+    "6678096507",
+    "6678097759",
+    "6678099675",
+    "6678096011",
+    "6678100971"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the new city . they saw lots of different things . they had a lot of fun and activities . they even had a craft store . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "The kids were excited to move to a new city. The things they got to see were so different. You should have seen all the fun activities they had. There was even a craft store for them to go to. Even in the last store we went to they had a fantastic time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to move to a new city .",
+        "the things they got to see were so different .",
+        "you should have seen all the fun activities they had .",
+        "there was even a craft store for them to go to .",
+        "even in the last store we went to they had a fantastic time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were excited to be in the new city . they saw lots of different things .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the new city .",
+        "they saw lots of different things ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Our trip!  Kids loved exploring the new city.  They enjoyed all the different sights and did various activities!  It was such a cool experience!",
+      "normalized_edited_story_text_sent": [
+        "our trip !",
+        "kids loved exploring the new city .",
+        "they enjoyed all the different sights and did various activities !",
+        "it was such a cool experience !"
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kids were excited to be in the new city, where they saw many different things. they had a lot of fun and activities and a craft store. they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the new city , where they saw many different things .",
+        "they had a lot of fun and activities and a craft store .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "This coastal city was full of surprises.  I loved the all the little shops that I saw.  Here are some pics of them.",
+      "normalized_edited_story_text_sent": [
+        "this coastal city was full of surprises .",
+        "i loved the all the little shops that i saw .",
+        "here are some pics of them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628821312617",
+  "model": "GLAC"
+}

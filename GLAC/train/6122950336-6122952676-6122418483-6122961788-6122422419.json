@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "6122950336-6122952676-6122418483-6122961788-6122422419",
+  "photo_sequence_ids": [
+    "6122950336",
+    "6122952676",
+    "6122418483",
+    "6122961788",
+    "6122422419"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was happy to be at the party . he was excited for the new year . he was so happy to see his sister . he was very proud of the family . the baby was a bit too shy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the baby was happy to be at the party . he was excited for the new year . he was so happy to see his sister . he was very proud of the family . the baby was a bit too shy .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the baby was happy to be at the party .",
+        "he was excited for the new year .",
+        "he was so happy to see his sister .",
+        "he was very proud of the family .",
+        "the baby was a bit too shy ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the baby was happy to be at the party . he was excited for the new year . he was so happy to see his sister . he was very proud of the family . the baby was a bit too shy .\r\rMy little one was so happy to be at the party. She couldn\u0027t wait for the new year, she was so excited. You can tell how happy he is to see his sister. He was so proud of his family. Although, I think my little one was too shy.",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be at the party .",
+        "he was excited for the new year .",
+        "he was so happy to see his sister .",
+        "he was very proud of the family .",
+        "the baby was a bit too shy .",
+        "my little one was so happy to be at the party .",
+        "she could n\u0027t wait for the new year , she was so excited .",
+        "you can tell how happy he is to see his sister .",
+        "he was so proud of his family .",
+        "although , i think my little one was too shy ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the girl was happy to get ready for school. she was excited for the new year . her mom was so happy to see her little girl go to school . The children lined up proud to go to school . the baby was cheering them on as well with a sign.",
+      "normalized_edited_story_text_sent": [
+        "the girl was happy to get ready for school .",
+        "she was excited for the new year .",
+        "her mom was so happy to see her little girl go to school .",
+        "the children lined up proud to go to school .",
+        "the baby was cheering them on as well with a sign ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the baby was happy to be at the party . The kids lined up with their lunch boxes. He held up his paper to show it off!",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be at the party .",
+        "the kids lined up with their lunch boxes .",
+        "he held up his paper to show it off !"
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the baby was happy to be at the party . he was excited for the new year . he was so happy to see his sister . he was very proud of the family . the baby was having a great time playing outside .",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be at the party .",
+        "he was excited for the new year .",
+        "he was so happy to see his sister .",
+        "he was very proud of the family .",
+        "the baby was having a great time playing outside ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627613240028",
+  "model": "GLAC"
+}

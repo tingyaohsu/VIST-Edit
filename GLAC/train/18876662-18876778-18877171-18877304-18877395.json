@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "18876662-18876778-18877171-18877304-18877395",
+  "photo_sequence_ids": [
+    "18876662",
+    "18876778",
+    "18877171",
+    "18877304",
+    "18877395"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a ton of people . some of them were very creative . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3S67QA0SQVPUJ",
+      "edited_story_text": "We had a lot of fun at the parade.  The parade was packed full of people. Some of the costumes were very creative. David and I had a great time . The person who won the parade\u0027s costume contest looked amazing.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the parade .",
+        "the parade was packed full of people .",
+        "some of the costumes were very creative .",
+        "[male] and i had a great time .",
+        "the person who won the parade \u0027s costume contest looked amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1MKCTVKE7J0ZP",
+      "edited_story_text": "The parade was a lot of fun. There were a ton of people. Some of them were very creative. I had a great time. A night we camped out in tents.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a ton of people .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "a night we camped out in tents ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "We decided to camp out on Times Square last night . there were a ton of people watching us . some of them were very creative and actually gave us a hand. We had such a great time because of the nice people that lended us a hand.",
+      "normalized_edited_story_text_sent": [
+        "we decided to camp out on times square last night .",
+        "there were a ton of people watching us .",
+        "some of them were very creative and actually gave us a hand .",
+        "we had such a great time because of the nice people that lended us a hand ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "Camping out was a lot of fun. Everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "camping out was a lot of fun .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the parade was a lot of fun . there were a ton of people . some of them were very creative and camped out in tents . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a ton of people .",
+        "some of them were very creative and camped out in tents .",
+        "i had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "444564",
+  "model": "GLAC"
+}

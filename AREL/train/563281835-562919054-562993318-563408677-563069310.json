@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "563281835-562919054-562993318-563408677-563069310",
+  "photo_sequence_ids": [
+    "563281835",
+    "562919054",
+    "562993318",
+    "563408677",
+    "563069310"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1384/563281835_7bac2d072a_o.jpg",
+    "https://farm2.staticflickr.com/1085/562919054_471bb7d4ef_o.jpg",
+    "https://farm2.staticflickr.com/1155/562993318_e162339729_o.jpg",
+    "https://farm2.staticflickr.com/1280/563408677_f5153ece25_o.jpg",
+    "https://farm2.staticflickr.com/1113/563069310_025d532d48_o.jpg"
+  ],
+  "auto_story_text_normalized": "the flowers were so beautiful . the flowers were so beautiful . the flowers were in bloom . the flowers were so beautiful . i also bought a lot of flowers .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The flowers were so beautiful! A lot of the flowers were in bloom, and we bought a lot of flowers.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were so beautiful !",
+        "a lot of the flowers were in bloom , and we bought a lot of flowers ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the flowers are so beautiful . the flowers are so beautiful . the flowers are in bloom . the flowers are so beautiful . i also buy a lot of flowers .",
+      "normalized_edited_story_text_sent": [
+        "the flowers are so beautiful .",
+        "the flowers are so beautiful .",
+        "the flowers are in bloom .",
+        "the flowers are so beautiful .",
+        "i also buy a lot of flowers ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The flowers were very beautiful. They were in full bloom. They came in lots of colors, including pink. There were even bloomed purple flowers. A squirrel was in the garden, too.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were very beautiful .",
+        "they were in full bloom .",
+        "they came in lots of colors , including pink .",
+        "there were even bloomed purple flowers .",
+        "a squirrel was in the garden , too ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the flowers were so beautiful . the flowers were so beautiful . the flowers were in bloom .i also bought a lot of flowers for my family.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were so beautiful .",
+        "the flowers were so beautiful .",
+        "the flowers were in bloom .",
+        "i also bought a lot of flowers for my family ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "the flowers were so delightful. the flowers were so delightful . the flowers were in sprout . the flowers were so beautiful . i also bought a more flowers .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were so delightful .",
+        "the flowers were so delightful .",
+        "the flowers were in sprout .",
+        "the flowers were so beautiful .",
+        "i also bought a more flowers ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600386539756"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "2253573-2253553-2253485-2253482-2253508",
+  "photo_sequence_ids": [
+    "2253573",
+    "2253553",
+    "2253485",
+    "2253482",
+    "2253508"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/2253573_3a94d92bc2_o.jpg",
+    "https://farm1.staticflickr.com/1/2253553_84b2830927_o.jpg",
+    "https://farm1.staticflickr.com/2/2253485_b20116d5b1_o.jpg",
+    "https://farm1.staticflickr.com/1/2253482_34ae539c45_o.jpg",
+    "https://farm1.staticflickr.com/1/2253508_2b8c86dd7b_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of people gathered in the streets . this is a picture of a sign . they marched in the parade . the signs were very popular . the streets were filled with people .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "a group of people gathered in the streets, they were protesting with signs. they marched in the parade. the signs were very popular and the streets were filled with people .",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered in the streets , they were protesting with signs .",
+        "they marched in the parade .",
+        "the signs were very popular and the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "a group of people gathered in the streets for a protest. some of them held signs with messages on them. they marched in the protest, and the streets were filled with people .",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered in the streets for a protest .",
+        "some of them held signs with messages on them .",
+        "they marched in the protest , and the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "There was a group of protestors in the streets. They held up signs supporting their point of view. Some people even held up flags in addition to signs. There was a big march down the road. The streets were filled with people but it was very orderly.",
+      "normalized_edited_story_text_sent": [
+        "there was a group of protestors in the streets .",
+        "they held up signs supporting their point of view .",
+        "some people even held up flags in addition to signs .",
+        "there was a big march down the road .",
+        "the streets were filled with people but it was very orderly ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "a group of people gathered in the streets. Some were carrying signs. they marched in the parade. the signs were very popular. the streets were filled with people.",
+      "normalized_edited_story_text_sent": [
+        "a group of people gathered in the streets .",
+        "some were carrying signs .",
+        "they marched in the parade .",
+        "the signs were very popular .",
+        "the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "A1PBRKFHSF1OF8",
+      "edited_story_text": "A large group of people gathered in the streets for a protest. You can see the different signs people were holding as they marched in the parade.  the signs were very popular. the streets were filled with people.",
+      "normalized_edited_story_text_sent": [
+        "a large group of people gathered in the streets for a protest .",
+        "you can see the different signs people were holding as they marched in the parade .",
+        "the signs were very popular .",
+        "the streets were filled with people ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "56858"
+}

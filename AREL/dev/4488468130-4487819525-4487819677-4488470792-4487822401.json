@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4488468130-4487819525-4487819677-4488470792-4487822401",
+  "photo_sequence_ids": [
+    "4488468130",
+    "4487819525",
+    "4487819677",
+    "4488470792",
+    "4487822401"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4039/4488468130_bef1a4e5eb_o.jpg",
+    "https://farm5.staticflickr.com/4042/4487819525_0bcf3fd280_o.jpg",
+    "https://farm5.staticflickr.com/4046/4487819677_a45453c602_o.jpg",
+    "https://farm3.staticflickr.com/2697/4488470792_e9b91ca669_o.jpg",
+    "https://farm3.staticflickr.com/2682/4487822401_1589b87952_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to an art museum . we took a lot of pictures . we saw a lot of old buildings . some of the buildings were very old . our dog had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to see graffiti art . we took a lot of pictures . then we went to my friends house to see his horse.",
+      "normalized_edited_story_text_sent": [
+        "we went to see graffiti art .",
+        "we took a lot of pictures .",
+        "then we went to my friends house to see his horse ."
+      ]
+    },
+    {
+      "worker_id": "A2LH2CAU6CXVW",
+      "edited_story_text": "While on vacation, we went to an art museum.  We took lots of pictures. We saw some interesting architecture.  Some of the buildings we saw were very old.  Our dog had a great time exploring new places.",
+      "normalized_edited_story_text_sent": [
+        "while on vacation , we went to an art museum .",
+        "we took lots of pictures .",
+        "we saw some interesting architecture .",
+        "some of the buildings we saw were very old .",
+        "our dog had a great time exploring new places ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went downtown. Graffiti covered a building. We met some people and went to their house. They had a horse. It was friendly.",
+      "normalized_edited_story_text_sent": [
+        "we went downtown .",
+        "graffiti covered a building .",
+        "we met some people and went to their house .",
+        "they had a horse .",
+        "it was friendly ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We took a lot of pictures on the trip.  There were a lot of old buildings.   We walked on the street and came to a barn.  There was a horse there.  We met a few other tourists and we spoke to them.",
+      "normalized_edited_story_text_sent": [
+        "we took a lot of pictures on the trip .",
+        "there were a lot of old buildings .",
+        "we walked on the street and came to a barn .",
+        "there was a horse there .",
+        "we met a few other tourists and we spoke to them ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to an art museum. i took a lot of pictures there. then we walked around the city and saw a lot of old buildings. both my friend and i had a good time.",
+      "normalized_edited_story_text_sent": [
+        "we went to an art museum .",
+        "i took a lot of pictures there .",
+        "then we walked around the city and saw a lot of old buildings .",
+        "both my friend and i had a good time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623639739647"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "344867930-344869553-344871581-344874225-345895086",
+  "photo_sequence_ids": [
+    "344867930",
+    "344869553",
+    "344871581",
+    "344874225",
+    "345895086"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the street was open and ready for the day . the signs were posted on the wall . the food was delicious . the buildings were very tall .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the building was very tall and also quite wide . the street was open and ready for the day to being . the signs were posted on the wall but couldn\u0027t be read well . the food was delicious and was made at the counter of the resturant . the buildings were very tall to all the children .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall and also quite wide .",
+        "the street was open and ready for the day to being .",
+        "the signs were posted on the wall but could n\u0027t be read well .",
+        "the food was delicious and was made at the counter of the resturant .",
+        "the buildings were very tall to all the children ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the building was very tall . the street was open and ready for the day .  the food was healthy and delicious . the buildings were very tall .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the street was open and ready for the day .",
+        "the food was healthy and delicious .",
+        "the buildings were very tall ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the building was very tall and inviting. we walked into the restaurant and saw a huge variety of food on display and an extensive menu.  i decided to order the bacon cheeseburger.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall and inviting .",
+        "we walked into the restaurant and saw a huge variety of food on display and an extensive menu .",
+        "i decided to order the bacon cheeseburger ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the building that we visited was very tall. When we arrived, the street was open and ready for the day. there were signs posted on the wall . the food was delicious and we really enjoyed it. Upon further observation, I noticed that all of the buildings we saw that day were very tall .",
+      "normalized_edited_story_text_sent": [
+        "the building that we visited was very tall .",
+        "when we arrived , the street was open and ready for the day .",
+        "there were signs posted on the wall .",
+        "the food was delicious and we really enjoyed it .",
+        "upon further observation , i noticed that all of the buildings we saw that day were very tall ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the building was only two floors . the store was open and ready for the day . the signs were posted on the wall with lots of options . the food was delicious . the houses were connected to each other .",
+      "normalized_edited_story_text_sent": [
+        "the building was only two floors .",
+        "the store was open and ready for the day .",
+        "the signs were posted on the wall with lots of options .",
+        "the food was delicious .",
+        "the houses were connected to each other ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594458032284",
+  "model": "GLAC"
+}

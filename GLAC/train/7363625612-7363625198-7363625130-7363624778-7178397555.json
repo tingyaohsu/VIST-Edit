@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "7363625612-7363625198-7363625130-7363624778-7178397555",
+  "photo_sequence_ids": [
+    "7363625612",
+    "7363625198",
+    "7363625130",
+    "7363624778",
+    "7178397555"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the president of the company was excited to be honored for the new year \u0027s eve . the crowd was very large and well prepared . the man was the first speaker . the audience was pleased with the performance . the main award was presented by a group of friends .",
+  "edited_stories": [
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The graduation of ceremony began with the National Anthem. There was a large crowd in attendance for the cadets\u0027 graduation from the academy. The top cadet spoke and this was followed by the traditional pinning ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the graduation of ceremony began with the national anthem .",
+        "there was a large crowd in attendance for the cadets \u0027 graduation from the academy .",
+        "the top cadet spoke and this was followed by the traditional pinning ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "the cadet graduation is always a special day.  Here we have the color guard followed by a few formal presentations.  David is seen here getting his pin.",
+      "normalized_edited_story_text_sent": [
+        "the cadet graduation is always a special day .",
+        "here we have the color guard followed by a few formal presentations .",
+        "[male] is seen here getting his pin ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The uniformed men displayed the flag. There was a large audience. Then he had his badge pinned on. It was a great ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the uniformed men displayed the flag .",
+        "there was a large audience .",
+        "then he had his badge pinned on .",
+        "it was a great ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the the president of the company was excited to be honored for the new year \u0027s eve . the crowd was very large and well prepared . the man was the first speaker . the audience was pleased with the performance . the main award was presented by a group of friends .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the the president of the company was excited to be honored for the new year \u0027s eve .",
+        "the crowd was very large and well prepared .",
+        "the man was the first speaker .",
+        "the audience was pleased with the performance .",
+        "the main award was presented by a group of friends ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the president of the company was excited to be honored for the new year \u0027s eve . the crowd was very large and well prepared .",
+      "normalized_edited_story_text_sent": [
+        "the president of the company was excited to be honored for the new year \u0027s eve .",
+        "the crowd was very large and well prepared ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630107880142",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "141640351-141640454-141640509-141640548-141640600",
+  "photo_sequence_ids": [
+    "141640351",
+    "141640454",
+    "141640509",
+    "141640548",
+    "141640600"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/56/141640351_6e2b3b8109_o.jpg",
+    "https://farm1.staticflickr.com/53/141640454_2ec1426e08_o.jpg",
+    "https://farm1.staticflickr.com/45/141640509_908b779a74_o.jpg",
+    "https://farm1.staticflickr.com/45/141640548_0effe7e561_o.jpg",
+    "https://farm1.staticflickr.com/49/141640600_033098d8c1_o.jpg"
+  ],
+  "auto_story_text_normalized": "the flowers were very beautiful . the trees were so beautiful . this is a picture of a tree . the couple took a picture of the beautiful scenery . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "I was lucky enough to visit this wonderful place filled with beautiful flowers and trees. We enjoyed photographing the scenery and had a great time!",
+      "normalized_edited_story_text_sent": [
+        "i was lucky enough to visit this wonderful place filled with beautiful flowers and trees .",
+        "we enjoyed photographing the scenery and had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the flowers were very pretty . the trees were pretty as well . here is a photo of a tree . the couple took a photo of the awesome scenery . we had a wonderful time .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were very pretty .",
+        "the trees were pretty as well .",
+        "here is a photo of a tree .",
+        "the couple took a photo of the awesome scenery .",
+        "we had a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the flowers were very beautiful and colorful . the gorgeous trees were so full of life . there was a funny tree hanging down through a structure. the couple took a picture of the beautiful scenery while [male] posed near part of the hanging tree . we had a great time looking at the beauty of nature.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were very beautiful and colorful .",
+        "the gorgeous trees were so full of life .",
+        "there was a funny tree hanging down through a structure .",
+        "the couple took a picture of the beautiful scenery while [male] posed near part of the hanging tree .",
+        "we had a great time looking at the beauty of nature ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "The flowers were very stunning. The trees were so so vibrant and full of flowers. This is the view from underneath. The couple took a picture of the beautiful flowers flowing underneath the trellis. We had so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were very stunning .",
+        "the trees were so so vibrant and full of flowers .",
+        "this is the view from underneath .",
+        "the couple took a picture of the beautiful flowers flowing underneath the trellis .",
+        "we had so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "the flowers and trees were very beautiful. Look at this  picture of a beautiful tree . This couple took a picture of the beautiful scenery there. we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the flowers and trees were very beautiful .",
+        "look at this picture of a beautiful tree .",
+        "this couple took a picture of the beautiful scenery there .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594127440513"
+}

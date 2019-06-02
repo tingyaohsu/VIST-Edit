@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "233409656-233409008-233408702-233408447-233408619",
+  "photo_sequence_ids": [
+    "233409656",
+    "233409008",
+    "233408702",
+    "233408447",
+    "233408619"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/90/233409656_2de1ba0622_o.jpg",
+    "https://farm1.staticflickr.com/83/233409008_d86d5e544d_o.jpg",
+    "https://farm1.staticflickr.com/84/233408702_287fe83839_o.jpg",
+    "https://farm1.staticflickr.com/85/233408447_f7d6551074_o.jpg",
+    "https://farm1.staticflickr.com/92/233408619_944ebf7a2f_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a house . it was a lot of fun . we had a great time at the party . it was a lot of fun . the birthday boy is having a good time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a house and it was a lot of fun . we had a great time at the party . the birthday boy was having a good time at the party .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house and it was a lot of fun .",
+        "we had a great time at the party .",
+        "the birthday boy was having a good time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "this is a picture of my house .we throw a birthday party for our nephew. . it was a lot of fun . the birthday boy, our nephew  is having a good time at his birthday party .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of my house .",
+        "we throw a birthday party for our nephew .",
+        ".",
+        "it was a lot of fun .",
+        "the birthday boy , our nephew is having a good time at his birthday party ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this is a picture of a house we went to for the party. it was a lot of fun . Everyone had a blast . it was a lot of fun . the birthday boy is having a good time at the party .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house we went to for the party .",
+        "it was a lot of fun .",
+        "everyone had a blast .",
+        "it was a lot of fun .",
+        "the birthday boy is having a good time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a house . it was a lot of fun . we had a great time at the party and it was a lot of fun . the birthday boy is having a good time at the party .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house .",
+        "it was a lot of fun .",
+        "we had a great time at the party and it was a lot of fun .",
+        "the birthday boy is having a good time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "this is a picture of the decorations of the house . it was a lot of fun . we had a great time at the party, especially the dogs . it was a lot of fun seeing [male] open cards. the birthday boy is enjoying the party and the funny cards.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of the decorations of the house .",
+        "it was a lot of fun .",
+        "we had a great time at the party , especially the dogs .",
+        "it was a lot of fun seeing [male] open cards .",
+        "the birthday boy is enjoying the party and the funny cards ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594267605245"
+}

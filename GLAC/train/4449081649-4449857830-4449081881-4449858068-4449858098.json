@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4449081649-4449857830-4449081881-4449858068-4449858098",
+  "photo_sequence_ids": [
+    "4449081649",
+    "4449857830",
+    "4449081881",
+    "4449858068",
+    "4449858098"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was excited to be at the party . she had a great time with her boyfriend . the food was delicious . the man was happy to see him . the cake was good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the woman was excited to visit the party . she had a great time dancing with her boyfriend . the food was great . the host was happy to see her . the cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the woman was excited to visit the party .",
+        "she had a great time dancing with her boyfriend .",
+        "the food was great .",
+        "the host was happy to see her .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the guys were excited to be at the party . they had a great time . the food was delicious . the man was happy to see him . the drinks were strong .",
+      "normalized_edited_story_text_sent": [
+        "the guys were excited to be at the party .",
+        "they had a great time .",
+        "the food was delicious .",
+        "the man was happy to see him .",
+        "the drinks were strong ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the lady was excited to be at the party . she had a great time with her boyfriend . the food was delicious . the man was happy to have a drink. the cake was good .",
+      "normalized_edited_story_text_sent": [
+        "the lady was excited to be at the party .",
+        "she had a great time with her boyfriend .",
+        "the food was delicious .",
+        "the man was happy to have a drink .",
+        "the cake was good ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "i was excited to be at the party . I had a great time with my boyfriend . his buddy was happy to see him . the food was delicious and the cake was excellent .",
+      "normalized_edited_story_text_sent": [
+        "i was excited to be at the party .",
+        "i had a great time with my boyfriend .",
+        "his buddy was happy to see him .",
+        "the food was delicious and the cake was excellent ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The men posed for the picture. There was a lot of food. The band was on stage. There were cocktails too.",
+      "normalized_edited_story_text_sent": [
+        "the men posed for the picture .",
+        "there was a lot of food .",
+        "the band was on stage .",
+        "there were cocktails too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623660677964",
+  "model": "GLAC"
+}

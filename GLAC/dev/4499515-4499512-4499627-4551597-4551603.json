@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4499515-4499512-4499627-4551597-4551603",
+  "photo_sequence_ids": [
+    "4499515",
+    "4499512",
+    "4499627",
+    "4551597",
+    "4551603"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . afterward we all got together for a group photo .",
+  "edited_stories": [
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "Everyone had a lot of fun at the party. there were so many people people there. Some of the people played music and were very good. I had an awesome time. When the party was over, we all got together for a group photo.",
+      "normalized_edited_story_text_sent": [
+        "everyone had a lot of fun at the party .",
+        "there were so many people people there .",
+        "some of the people played music and were very good .",
+        "i had an awesome time .",
+        "when the party was over , we all got together for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . some were having drinks . i had a great time . afterward we all got together for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "some were having drinks .",
+        "i had a great time .",
+        "afterward we all got together for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . There was a Star Wars toy. i had a great time . afterward we all got together for a group photo . We plated music together. He played the guitar.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "there was a star wars toy .",
+        "i had a great time .",
+        "afterward we all got together for a group photo .",
+        "we plated music together .",
+        "he played the guitar ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was amusing . many attended . some of them were very good on instruments . i certainly had a good time . afterwards, we took a picture together .",
+      "normalized_edited_story_text_sent": [
+        "the party was amusing .",
+        "many attended .",
+        "some of them were very good on instruments .",
+        "i certainly had a good time .",
+        "afterwards , we took a picture together ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the teens at the party were having a lot of fun . Some people enjoyed the robotic display . some of them were smiling . A group of people had a great time listening to a guitarist . A man played the electric guitar alone in one room.",
+      "normalized_edited_story_text_sent": [
+        "the teens at the party were having a lot of fun .",
+        "some people enjoyed the robotic display .",
+        "some of them were smiling .",
+        "a group of people had a great time listening to a guitarist .",
+        "a man played the electric guitar alone in one room ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "661616",
+  "model": "GLAC"
+}

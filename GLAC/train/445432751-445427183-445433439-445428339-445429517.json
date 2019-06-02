@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "445432751-445427183-445433439-445428339-445429517",
+  "photo_sequence_ids": [
+    "445432751",
+    "445427183",
+    "445433439",
+    "445428339",
+    "445429517"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for dinner . the father was excited to be there . the turkey was delicious . the food was delicious . the family enjoyed the meal .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the family assembled at the dinner table . the father was in high spirits . the turkey\u0027s taste captured the joyful mood . the food was fabulous. the family shared the meal in unforgettable concord.",
+      "normalized_edited_story_text_sent": [
+        "the family assembled at the dinner table .",
+        "the father was in high spirits .",
+        "the turkey \u0027s taste captured the joyful mood .",
+        "the food was fabulous .",
+        "the family shared the meal in unforgettable concord ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the family gathered for a nice dinner . the father was excited to be there . the turkey was incredible . the food was delicious . the family enjoyed the meal very much.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a nice dinner .",
+        "the father was excited to be there .",
+        "the turkey was incredible .",
+        "the food was delicious .",
+        "the family enjoyed the meal very much ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the family gathered for dinner and sat at the long formal table. everyone enjoyed the meal, including soup and a variety of deserts, then took photos together after the dinner.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for dinner and sat at the long formal table .",
+        "everyone enjoyed the meal , including soup and a variety of deserts , then took photos together after the dinner ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family gathered for dinner . the son and father was excited to be there . the pie was delicious . the food was so filling . the family enjoyed the meal .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for dinner .",
+        "the son and father was excited to be there .",
+        "the pie was delicious .",
+        "the food was so filling .",
+        "the family enjoyed the meal ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family is gathered for dinner . the older boys are sitting quietly at the table . the turkey soup was delicious . the baked food was amazing . the family enjoyed the meal and sat together for a picture in the living room .",
+      "normalized_edited_story_text_sent": [
+        "the family is gathered for dinner .",
+        "the older boys are sitting quietly at the table .",
+        "the turkey soup was delicious .",
+        "the baked food was amazing .",
+        "the family enjoyed the meal and sat together for a picture in the living room ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600046387670",
+  "model": "GLAC"
+}

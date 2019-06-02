@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "472201649-472201659-472201653-472195092-472195090",
+  "photo_sequence_ids": [
+    "472201649",
+    "472201659",
+    "472201653",
+    "472195092",
+    "472195090"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the art gallery was very interesting . the paintings were so intricate . the ceiling was amazing . the artwork was beautiful . the stained glass was a great touch .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the art gallery was very interesting . it was a clean space.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very interesting .",
+        "it was a clean space ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "We attended an interesting art gallery once. The paintings and works of art were both stunning and intricate. The stained glass lent a unique atmosphere while the high ceiling was a breath-taking sight.",
+      "normalized_edited_story_text_sent": [
+        "we attended an interesting art gallery once .",
+        "the paintings and works of art were both stunning and intricate .",
+        "the stained glass lent a unique atmosphere while the high ceiling was a breath-taking sight ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the art gallery was very interesting . the paintings were so intricate . the architecture was inspiring . the artwork was beautiful . the stained glass was a great touch .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very interesting .",
+        "the paintings were so intricate .",
+        "the architecture was inspiring .",
+        "the artwork was beautiful .",
+        "the stained glass was a great touch ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "here is the picture of the church.  The interiors are OK.  Not sure why the walls are pink.  We may be looking at other venues.",
+      "normalized_edited_story_text_sent": [
+        "here is the picture of the church .",
+        "the interiors are ok .",
+        "not sure why the walls are pink .",
+        "we may be looking at other venues ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the art gallery was  interesting . the paintings were so intricate and the ceiling was amazing . the artwork was beautiful . the stained glass was a great touch .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was interesting .",
+        "the paintings were so intricate and the ceiling was amazing .",
+        "the artwork was beautiful .",
+        "the stained glass was a great touch ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600124891007",
+  "model": "GLAC"
+}

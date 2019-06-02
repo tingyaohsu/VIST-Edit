@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "2463115734-2463096102-2463100404-2463090994-2463108694",
+  "photo_sequence_ids": [
+    "2463115734",
+    "2463096102",
+    "2463100404",
+    "2463090994",
+    "2463108694"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the party last week . there were a lot of people there . some of them were very creative . they were all very good . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We posed for pictures.There were cool old cans in bright colors. A monkey statue in glasses. We posed by all the cool bricks.",
+      "normalized_edited_story_text_sent": [
+        "we posed for pictures.there were cool old cans in bright colors .",
+        "a monkey statue in glasses .",
+        "we posed by all the cool bricks ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the party last week . there were a lot of people there . it was a fun time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last week .",
+        "there were a lot of people there .",
+        "it was a fun time ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "me and [female] were having fun taking photos. We took photos of some old cans we found.  [female] put sunglasses on a monkey statue so I could take a photo.  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "me and [female] were having fun taking photos .",
+        "we took photos of some old cans we found .",
+        "[female] put sunglasses on a monkey statue so i could take a photo .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "Smiling is something I like to do often. These cans are very interesting to look at. My friends like to smile and be happy. This monkey statue is so cute. Catching a pose that is so real always makes a great picture.",
+      "normalized_edited_story_text_sent": [
+        "smiling is something i like to do often .",
+        "these cans are very interesting to look at .",
+        "my friends like to smile and be happy .",
+        "this monkey statue is so cute .",
+        "catching a pose that is so real always makes a great picture ."
+      ]
+    },
+    {
+      "worker_id": "AKP3UXJ0TDPVO",
+      "edited_story_text": "I went to a bridal shower last week. All the girls from work were there and many brought creative gifts for the bride-to be. She received some wonderful gifts for her new home and garden. We were all so happy for our friend.",
+      "normalized_edited_story_text_sent": [
+        "i went to a bridal shower last week .",
+        "all the girls from work were there and many brought creative gifts for the bride-to be .",
+        "she received some wonderful gifts for her new home and garden .",
+        "we were all so happy for our friend ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157604869582203",
+  "model": "GLAC"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4683460114-4682829875-4682832421-4683461418-4683466664",
+  "photo_sequence_ids": [
+    "4683460114",
+    "4682829875",
+    "4682832421",
+    "4683461418",
+    "4683466664"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the beach . they played in the water . they walked along the shore . they stopped for a quick picture . then they ate some delicious food .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "our family went on a trip to the beach . we played in the water and took a fun boat ride . we enjoyed walking along the shore . we stopped for a quick picture . then we ate some delicious food .",
+      "normalized_edited_story_text_sent": [
+        "our family went on a trip to the beach .",
+        "we played in the water and took a fun boat ride .",
+        "we enjoyed walking along the shore .",
+        "we stopped for a quick picture .",
+        "then we ate some delicious food ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "This was the time the family took a trip to the beach. We swam and played games in the water. We took peaceful walks along the shore, and even stopped a few times to snap some pics for the memories. At the end of it all, we settled down to chow on some amazing cooking!",
+      "normalized_edited_story_text_sent": [
+        "this was the time the family took a trip to the beach .",
+        "we swam and played games in the water .",
+        "we took peaceful walks along the shore , and even stopped a few times to snap some pics for the memories .",
+        "at the end of it all , we settled down to chow on some amazing cooking !"
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The family went on a trip to the beach.  They played in the water and walked along the shore.  They stopped for a quick picture, then they ate some delicious food.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "they played in the water and walked along the shore .",
+        "they stopped for a quick picture , then they ate some delicious food ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Me and my brothers went out on a boat today.  We fished and waled along the beach.  We also had a great home cooked breakfast in the ship cabin.",
+      "normalized_edited_story_text_sent": [
+        "me and my brothers went out on a boat today .",
+        "we fished and waled along the beach .",
+        "we also had a great home cooked breakfast in the ship cabin ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The family went on a trip to the beach. They played in the water, relaxed on a boat, and walked along the shore. They stopped for a quick picture and then ate some delicious food .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "they played in the water , relaxed on a boat , and walked along the shore .",
+        "they stopped for a quick picture and then ate some delicious food ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624109110897",
+  "model": "GLAC"
+}

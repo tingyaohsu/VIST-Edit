@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4281973885-4282718892-4281976931-4281977367-4281977833",
+  "photo_sequence_ids": [
+    "4281973885",
+    "4282718892",
+    "4281976931",
+    "4281977367",
+    "4281977833"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2682/4281973885_f8f7556d95_o.jpg",
+    "https://farm3.staticflickr.com/2797/4282718892_203eaa8fe4_o.jpg",
+    "https://farm5.staticflickr.com/4023/4281976931_e289a522bd_o.jpg",
+    "https://farm5.staticflickr.com/4013/4281977367_b6914235cf_o.jpg",
+    "https://farm5.staticflickr.com/4038/4281977833_e3ba8998c2_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park last weekend . there was a lot of snow on the road . this is a picture of a sand . i had a great time there . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the park with my friends last weekend. It had snowed a few days before, and a lot of it was still on the ground. it was cold, but we had fun anyway.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park with my friends last weekend .",
+        "it had snowed a few days before , and a lot of it was still on the ground .",
+        "it was cold , but we had fun anyway ."
+      ]
+    },
+    {
+      "worker_id": "A2HHQJVM3JJQ8F",
+      "edited_story_text": "i went to the church last weekend . there was a lot of snow on the road . this is a picture of the snow covering the graves . i placed flowers on the grave . a picture of the grave after the snow was cleared .",
+      "normalized_edited_story_text_sent": [
+        "i went to the church last weekend .",
+        "there was a lot of snow on the road .",
+        "this is a picture of the snow covering the graves .",
+        "i placed flowers on the grave .",
+        "a picture of the grave after the snow was cleared ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i visited the park last weekend . there was a lot of snow on the street . this is a photo of  sand . i had fun there . it was awesome.",
+      "normalized_edited_story_text_sent": [
+        "i visited the park last weekend .",
+        "there was a lot of snow on the street .",
+        "this is a photo of sand .",
+        "i had fun there .",
+        "it was awesome ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the park last weekend. There was a lot of snow on the road, and snow at the park, but I had a great time, and we had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park last weekend .",
+        "there was a lot of snow on the road , and snow at the park , but i had a great time , and we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a snow covered park last weekend. We were there to visit a grave . it was a somber experience.",
+      "normalized_edited_story_text_sent": [
+        "i went to a snow covered park last weekend .",
+        "we were there to visit a grave .",
+        "it was a somber experience ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623104927681"
+}

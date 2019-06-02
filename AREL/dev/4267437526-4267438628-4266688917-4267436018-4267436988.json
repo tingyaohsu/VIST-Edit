@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4267437526-4267438628-4266688917-4267436018-4267436988",
+  "photo_sequence_ids": [
+    "4267437526",
+    "4267438628",
+    "4266688917",
+    "4267436018",
+    "4267436988"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2723/4267437526_fd7fe4c727_o.jpg",
+    "https://farm3.staticflickr.com/2732/4267438628_bb22e51198_o.jpg",
+    "https://farm3.staticflickr.com/2785/4266688917_e0fe63c9e5_o.jpg",
+    "https://farm3.staticflickr.com/2730/4267436018_8221df5647_o.jpg",
+    "https://farm5.staticflickr.com/4021/4267436988_98f49dee3a_o.jpg"
+  ],
+  "auto_story_text_normalized": "the meeting was about to begin . the speaker gave a great speech . they had a lot of questions to do . he was very happy to be there . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The meeting was about to begin and eventually the speaker gave a great speech. They had a lot of questions to answer, he was very happy to do so. Everyone enjoyed themselves.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin and eventually the speaker gave a great speech .",
+        "they had a lot of questions to answer , he was very happy to do so .",
+        "everyone enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "The one on one meetings had begun. The speaker spoke with everyone. They had a lot of questions for him. He was very happy to be there answering them. In the end everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the one on one meetings had begun .",
+        "the speaker spoke with everyone .",
+        "they had a lot of questions for him .",
+        "he was very happy to be there answering them .",
+        "in the end everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The meeting was about to begin. The speaker\u0027s speech was great! A lot of people asked questions, and he was happy to answer him. Everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "the speaker \u0027s speech was great !",
+        "a lot of people asked questions , and he was happy to answer him .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": ". the speaker gave a great speech . the kids had a lot of questions. had a lot of questions to do . he was very happy to be there . the speaker was very friendly and gave the kids plenty of one on one time.",
+      "normalized_edited_story_text_sent": [
+        ".",
+        "the speaker gave a great speech .",
+        "the kids had a lot of questions .",
+        "had a lot of questions to do .",
+        "he was very happy to be there .",
+        "the speaker was very friendly and gave the kids plenty of one on one time ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the meeting was about to begin . the speaker gave a great speech . they had a lot of questions to ask . he was very happy to be there . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "the speaker gave a great speech .",
+        "they had a lot of questions to ask .",
+        "he was very happy to be there .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623192175390"
+}

@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "472201649-472201659-472201653-472195092-472195090",
+  "photo_sequence_ids": [
+    "472201649",
+    "472201659",
+    "472201653",
+    "472195092",
+    "472195090"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/220/472201649_522afbcf5f_o.jpg",
+    "https://farm1.staticflickr.com/180/472201659_f751cee6d3_o.jpg",
+    "https://farm1.staticflickr.com/217/472201653_f31f3c2f64_o.jpg",
+    "https://farm1.staticflickr.com/189/472195092_b8d314761a_o.jpg",
+    "https://farm1.staticflickr.com/197/472195090_44e843ffb4_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the museum today . the hallway was a mess . it was a lot of fun . this is a picture of a building . this is a picture of a sign .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to a historical church today. One of the rooms was empty. Most of the rooms were very quiet. There were some pretty church paintings on the wall. We were very quiet the entire time because of a sign that asked for silence.",
+      "normalized_edited_story_text_sent": [
+        "i went to a historical church today .",
+        "one of the rooms was empty .",
+        "most of the rooms were very quiet .",
+        "there were some pretty church paintings on the wall .",
+        "we were very quiet the entire time because of a sign that asked for silence ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the museum today . the hallway was very clean . it was a lot of fun admiring the pieces . this is a picture of a building that I saw. this is a picture of a sign that I noticed.",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum today .",
+        "the hallway was very clean .",
+        "it was a lot of fun admiring the pieces .",
+        "this is a picture of a building that i saw .",
+        "this is a picture of a sign that i noticed ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "i went to see the church today . the hall was very small . there were decorative arches . this is a picture of some of the artwork in the church . this is a picture of a sign in the church .",
+      "normalized_edited_story_text_sent": [
+        "i went to see the church today .",
+        "the hall was very small .",
+        "there were decorative arches .",
+        "this is a picture of some of the artwork in the church .",
+        "this is a picture of a sign in the church ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the museum today, and it looked like a church . the hallway was a mess before they cleaned it . it was a lot of fun seeing the different rooms . this is a picture of a building and it\u0027s marvelous mural. this sign warns everyone to be quiet .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum today , and it looked like a church .",
+        "the hallway was a mess before they cleaned it .",
+        "it was a lot of fun seeing the different rooms .",
+        "this is a picture of a building and it \u0027s marvelous mural .",
+        "this sign warns everyone to be quiet ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "i went to the museum kind of church today . the hallway was a big and bright . it was a lot of fun seeing all the artwork . this is a picture of the building . There was also a sign for silence on the wall .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum kind of church today .",
+        "the hallway was a big and bright .",
+        "it was a lot of fun seeing all the artwork .",
+        "this is a picture of the building .",
+        "there was also a sign for silence on the wall ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600124891007"
+}

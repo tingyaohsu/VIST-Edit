@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4296805164-4296805256-4296805386-4296059691-4298518331",
+  "photo_sequence_ids": [
+    "4296805164",
+    "4296805256",
+    "4296805386",
+    "4296059691",
+    "4298518331"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the park today . there was a lot of people there . the flowers were so big . the birds were everywhere . the colors were amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The street was pretty at night. There were large buildings. A lake was there. There was a kite in the tree.",
+      "normalized_edited_story_text_sent": [
+        "the street was pretty at night .",
+        "there were large buildings .",
+        "a lake was there .",
+        "there was a kite in the tree ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "we went to the park today . the buildings were tall. the cones were so big . the water was calm. the colors were amazing .  the sky is blue.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "the buildings were tall .",
+        "the cones were so big .",
+        "the water was calm .",
+        "the colors were amazing .",
+        "the sky is blue ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "We went to the park today. The streets were abandoned. It was cloudy right before the storm, and the colors were amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "the streets were abandoned .",
+        "it was cloudy right before the storm , and the colors were amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "we went to the city today via the highway. there was a lot of tall buildings in the city. the grass was fairly tall in one area . there were cloudy areas with grass as well. A kite was stuck in a tree .",
+      "normalized_edited_story_text_sent": [
+        "we went to the city today via the highway .",
+        "there was a lot of tall buildings in the city .",
+        "the grass was fairly tall in one area .",
+        "there were cloudy areas with grass as well .",
+        "a kite was stuck in a tree ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "we went to the park today. the flowers were so big. the birds were everywhere. i was amazed by the colors.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "the flowers were so big .",
+        "the birds were everywhere .",
+        "i was amazed by the colors ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623140181961",
+  "model": "GLAC"
+}

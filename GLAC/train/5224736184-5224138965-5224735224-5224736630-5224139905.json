@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5224736184-5224138965-5224735224-5224736630-5224139905",
+  "photo_sequence_ids": [
+    "5224736184",
+    "5224138965",
+    "5224735224",
+    "5224736630",
+    "5224139905"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people there . some of them were very creative . they were all very talented . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the march was a lot of fun . there were so many people there . some of them were very creative with their signs . they were all very motivated . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the march was a lot of fun .",
+        "there were so many people there .",
+        "some of them were very creative with their signs .",
+        "they were all very motivated .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the protest was crowded . there were so many people there carrying signs. two people read speeches . they used a coffin as a prop at the protest . some supporters sat in chairs and watched the protest .",
+      "normalized_edited_story_text_sent": [
+        "the protest was crowded .",
+        "there were so many people there carrying signs .",
+        "two people read speeches .",
+        "they used a coffin as a prop at the protest .",
+        "some supporters sat in chairs and watched the protest ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The peaceful march had many good speakers.  We went past the white house with our signs of protest.  Here are some pics of us.",
+      "normalized_edited_story_text_sent": [
+        "the peaceful march had many good speakers .",
+        "we went past the white house with our signs of protest .",
+        "here are some pics of us ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the protest was a lot of fun . there were so many people there . some of them were very creative . they were all very talented . i had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the protest was a lot of fun .",
+        "there were so many people there .",
+        "some of them were very creative .",
+        "they were all very talented .",
+        "i had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the parade was a lot of fun and very crowded. they were all very talented and some were creative. i had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun and very crowded .",
+        "they were all very talented and some were creative .",
+        "i had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625509057442",
+  "model": "GLAC"
+}

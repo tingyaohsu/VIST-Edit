@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6230428074-6230428362-6230428878-6229911981-6229912911",
+  "photo_sequence_ids": [
+    "6230428074",
+    "6230428362",
+    "6230428878",
+    "6229911981",
+    "6229912911"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the parade . the streets were filled with people . the young man was excited to be there . the mayor was very proud of his accomplishments . the children were happy and ready to go home .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the crowd gathered for the parade . the streets were filled with people . the young man was excited to be there . the people held signs . the children were happy but ready to go home .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade .",
+        "the streets were filled with people .",
+        "the young man was excited to be there .",
+        "the people held signs .",
+        "the children were happy but ready to go home ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the crowd gathered for the march . the streets were filled with people fighting for our rights . the young man was excited to be there . the mayor was very proud of his accomplishments . the children were happy and ready to go home .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the march .",
+        "the streets were filled with people fighting for our rights .",
+        "the young man was excited to be there .",
+        "the mayor was very proud of his accomplishments .",
+        "the children were happy and ready to go home ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the crowd gathered for the parade on the side of the streets . the streets were filled with people who came to protest . the young man was excited to be there and held his sign with pride. the mayor was very proud of his accomplishments even thou he didn\u0027t agree with him . the children were happy and ready to go home when it got dark outside.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade on the side of the streets .",
+        "the streets were filled with people who came to protest .",
+        "the young man was excited to be there and held his sign with pride .",
+        "the mayor was very proud of his accomplishments even thou he did n\u0027t agree with him .",
+        "the children were happy and ready to go home when it got dark outside ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the crowd gathered for the demonstration . the streets were filled with people . the man was excited to be there . the protesters was very proud of their accomplishments . the people were holding signs .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the demonstration .",
+        "the streets were filled with people .",
+        "the man was excited to be there .",
+        "the protesters was very proud of their accomplishments .",
+        "the people were holding signs ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd gathered for the parade . the streets were filled with people .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade .",
+        "the streets were filled with people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627860505746",
+  "model": "GLAC"
+}

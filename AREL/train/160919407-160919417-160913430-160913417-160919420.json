@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "160919407-160919417-160913430-160913417-160919420",
+  "photo_sequence_ids": [
+    "160919407",
+    "160919417",
+    "160913430",
+    "160913417",
+    "160919420"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/55/160919407_655a10deb8_o.jpg",
+    "https://farm1.staticflickr.com/51/160919417_25b0fd91f9_o.jpg",
+    "https://farm1.staticflickr.com/62/160913430_e53ee98790_o.jpg",
+    "https://farm1.staticflickr.com/46/160913417_b9f5d051dd_o.jpg",
+    "https://farm1.staticflickr.com/69/160919420_e6010afe99_o.jpg"
+  ],
+  "auto_story_text_normalized": "today we went to a wedding . the bride and groom were walking down the aisle . the bride and groom walked down the aisle . the bride and groom were very happy to be married . the reception was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "Today we went to a wedding.  The bride and groom walked down the aisle.  The bride and groom were very happy to be married.  They took great photos of the bride and groom.  The reception was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a wedding .",
+        "the bride and groom walked down the aisle .",
+        "the bride and groom were very happy to be married .",
+        "they took great photos of the bride and groom .",
+        "the reception was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Today, we went to a wedding. The bride and groom walked down the aisle. They were very happy to be married. The reception was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "today , we went to a wedding .",
+        "the bride and groom walked down the aisle .",
+        "they were very happy to be married .",
+        "the reception was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "Today we went to a wedding. The bride and groom walked down the aisle. They exchanged vows and stopped for pictures. They were happy to be married. After the wedding, the reception was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a wedding .",
+        "the bride and groom walked down the aisle .",
+        "they exchanged vows and stopped for pictures .",
+        "they were happy to be married .",
+        "after the wedding , the reception was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "today we went to a wedding and the bride and groom were walking down the aisle . the bride and groom were very happy to be married . the reception was a whole lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a wedding and the bride and groom were walking down the aisle .",
+        "the bride and groom were very happy to be married .",
+        "the reception was a whole lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "today we went to a wedding . the bride and groom were walking down the aisle . the bride and groom promised to love each other no matter what . the bride and groom were very happy to be married . the reception was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a wedding .",
+        "the bride and groom were walking down the aisle .",
+        "the bride and groom promised to love each other no matter what .",
+        "the bride and groom were very happy to be married .",
+        "the reception was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594156380350"
+}

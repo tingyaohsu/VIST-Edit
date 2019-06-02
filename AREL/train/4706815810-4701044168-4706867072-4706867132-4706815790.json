@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4706815810-4701044168-4706867072-4706867132-4706815790",
+  "photo_sequence_ids": [
+    "4706815810",
+    "4701044168",
+    "4706867072",
+    "4706867132",
+    "4706815790"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4022/4706815810_5f32d0cde4_o.jpg",
+    "https://farm5.staticflickr.com/4070/4701044168_4c533b35aa_o.jpg",
+    "https://farm5.staticflickr.com/4014/4706867072_92a5ee4cb1_o.jpg",
+    "https://farm5.staticflickr.com/4029/4706867132_78d920bcdd_o.jpg",
+    "https://farm5.staticflickr.com/4013/4706815790_913d8c0056_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the parade last week . this is a picture of a sign . there were a lot of signs . they had a lot of fun together . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i went to the procession last week . this is a photo of a sign . there were a great deal of signs . they had a great deal of fun together . it was a great deal of fun .",
+      "normalized_edited_story_text_sent": [
+        "i went to the procession last week .",
+        "this is a photo of a sign .",
+        "there were a great deal of signs .",
+        "they had a great deal of fun together .",
+        "it was a great deal of fun ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to the protest last week. People made signs and held them up. Almost everyone brought large signs. Some people brought smaller signs with pictures of people. It was an engaging protest.",
+      "normalized_edited_story_text_sent": [
+        "i went to the protest last week .",
+        "people made signs and held them up .",
+        "almost everyone brought large signs .",
+        "some people brought smaller signs with pictures of people .",
+        "it was an engaging protest ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the parade last week . this is a picture of a sign . there were a lot of signs . they had a lot of fun together and it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i went to the parade last week .",
+        "this is a picture of a sign .",
+        "there were a lot of signs .",
+        "they had a lot of fun together and it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went to the parade last week, here are pictures of banners. There were lots of banners, everyone had fun together.",
+      "normalized_edited_story_text_sent": [
+        "i went to the parade last week , here are pictures of banners .",
+        "there were lots of banners , everyone had fun together ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "last week, i went to the parade . here is a picture of a sign, of which there were many . they had a lot of fun together . overall, it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "last week , i went to the parade .",
+        "here is a picture of a sign , of which there were many .",
+        "they had a lot of fun together .",
+        "overall , it was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624150850699"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "393763246-393763253-393763258-393748691-393763256",
+  "photo_sequence_ids": [
+    "393763246",
+    "393763253",
+    "393763258",
+    "393748691",
+    "393763256"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the first day of school . the kids were very excited to be in the new world . the teacher was ready to go . the teacher was a little nervous . the students were so excited .",
+  "edited_stories": [
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family was excited for the first day of school . My kids were very excited to be in the new world . Their teacher was ready to go . Their teacher was a little nervous . Her students were so excited .",
+      "normalized_edited_story_text_sent": [
+        "my family was excited for the first day of school .",
+        "my kids were very excited to be in the new world .",
+        "their teacher was ready to go .",
+        "their teacher was a little nervous .",
+        "her students were so excited ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the weather was frigid and cold. snow covering the ground. it was hard to walk through it all.",
+      "normalized_edited_story_text_sent": [
+        "the weather was frigid and cold .",
+        "snow covering the ground .",
+        "it was hard to walk through it all ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "they sat on the chair.  they pet the dog.   they walked in the snow.   there was a lot of graffiti.   they had ideas.",
+      "normalized_edited_story_text_sent": [
+        "they sat on the chair .",
+        "they pet the dog .",
+        "they walked in the snow .",
+        "there was a lot of graffiti .",
+        "they had ideas ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "My family was excited for the kids first day of school. The kids were equally excited to be out in the new world. At school, the teacher was ready to go and get the school day started. the teacher was a little bit nervous because it was the first day. But the students were so excited .",
+      "normalized_edited_story_text_sent": [
+        "my family was excited for the kids first day of school .",
+        "the kids were equally excited to be out in the new world .",
+        "at school , the teacher was ready to go and get the school day started .",
+        "the teacher was a little bit nervous because it was the first day .",
+        "but the students were so excited ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was excited for the first day of school . the kids were ready to start . the teacher was ready to go . the teacher was a little nervous . the students were so excited .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the first day of school .",
+        "the kids were ready to start .",
+        "the teacher was ready to go .",
+        "the teacher was a little nervous .",
+        "the students were so excited ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594541874242",
+  "model": "GLAC"
+}

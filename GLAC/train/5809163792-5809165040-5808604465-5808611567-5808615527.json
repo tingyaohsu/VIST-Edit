@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "5809163792-5809165040-5808604465-5808611567-5808615527",
+  "photo_sequence_ids": [
+    "5809163792",
+    "5809165040",
+    "5808604465",
+    "5808611567",
+    "5808615527"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a big hit . the students were excited to graduate . the speaker was very motivational . the students were very proud . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the graduation ceremony was popular . the students were eager to graduate . the speaker was engaging . the students were proud of their grades . they were happy to join the workforce .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was popular .",
+        "the students were eager to graduate .",
+        "the speaker was engaging .",
+        "the students were proud of their grades .",
+        "they were happy to join the workforce ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the graduation ceremony was a big hit . the students were excited to graduate .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big hit .",
+        "the students were excited to graduate ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The graduation ceremony was successful. The students were excited to graduate, and the speaker was very motivational. The students were very proud and happy.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was successful .",
+        "the students were excited to graduate , and the speaker was very motivational .",
+        "the students were very proud and happy ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the spring graduation ceremony was a big hit . the students were all excited to graduate from art school. the speaker was very motivational and made us laugh. the students were very proud to be walking with their classmates. . they were very happy to change the tassel to the other side.",
+      "normalized_edited_story_text_sent": [
+        "the spring graduation ceremony was a big hit .",
+        "the students were all excited to graduate from art school .",
+        "the speaker was very motivational and made us laugh .",
+        "the students were very proud to be walking with their classmates .",
+        "they were very happy to change the tassel to the other side ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "It was a proud moment to see my cousin graduate with his fellow classmates.  The guest speaker was also very inspiring.  I am so glad I could attend.",
+      "normalized_edited_story_text_sent": [
+        "it was a proud moment to see my cousin graduate with his fellow classmates .",
+        "the guest speaker was also very inspiring .",
+        "i am so glad i could attend ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626784170543",
+  "model": "GLAC"
+}

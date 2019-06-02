@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "30304726-30304682-30304661-30304643-30304638",
+  "photo_sequence_ids": [
+    "30304726",
+    "30304682",
+    "30304661",
+    "30304643",
+    "30304638"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we had a great time at the party . there were a lot of people there . i had a great time . everyone was very happy . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was a place of great fun . many had gathered . i had lots of fun . there were happy people everywhere . afterwards, a group picture was taken .",
+      "normalized_edited_story_text_sent": [
+        "the party was a place of great fun .",
+        "many had gathered .",
+        "i had lots of fun .",
+        "there were happy people everywhere .",
+        "afterwards , a group picture was taken ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "we had a great time at the fun party . there were a lot of friends there . i had a great time . everyone was very happy . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the fun party .",
+        "there were a lot of friends there .",
+        "i had a great time .",
+        "everyone was very happy .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We had fun at the party. They kissed and everyone hung out. We all had fun together.",
+      "normalized_edited_story_text_sent": [
+        "we had fun at the party .",
+        "they kissed and everyone hung out .",
+        "we all had fun together ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "David and Lisa shared a kiss.  we had a great time at the party . there were a lot of people there talking and laughing . everyone was very happy . John is in the last picture as e were leaving the party.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] shared a kiss .",
+        "we had a great time at the party .",
+        "there were a lot of people there talking and laughing .",
+        "everyone was very happy .",
+        "[male] is in the last picture as e were leaving the party ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "678460",
+  "model": "GLAC"
+}

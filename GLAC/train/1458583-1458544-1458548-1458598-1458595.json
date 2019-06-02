@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "1458583-1458544-1458548-1458598-1458595",
+  "photo_sequence_ids": [
+    "1458583",
+    "1458544",
+    "1458548",
+    "1458598",
+    "1458595"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . the guys were having a great time . the girls were happy . they had a good time . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "The party was a lot of fun . The guys were having a great time, the girls were happy . They all had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the guys were having a great time , the girls were happy .",
+        "they all had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a hoot . the guys were having a great time . the girls were happy . it lasted well into the morning hours.",
+      "normalized_edited_story_text_sent": [
+        "the party was a hoot .",
+        "the guys were having a great time .",
+        "the girls were happy .",
+        "it lasted well into the morning hours ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the party was a lot of fun . the guys were having a great time . the girls were happy . they played drinking games . they drank from a funnel .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the guys were having a great time .",
+        "the girls were happy .",
+        "they played drinking games .",
+        "they drank from a funnel ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun and everyone enjoyed the drinks . the guys were having a great time and talking alot . the girls were happy also due to the good food . they had a good time till the wee hours . they had a great time until they all got drunk .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and everyone enjoyed the drinks .",
+        "the guys were having a great time and talking alot .",
+        "the girls were happy also due to the good food .",
+        "they had a good time till the wee hours .",
+        "they had a great time until they all got drunk ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the party was a lot of fun . the guys were in a grumpy mood . the boys were happy . they had a good time . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the guys were in a grumpy mood .",
+        "the boys were happy .",
+        "they had a good time .",
+        "they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "37189",
+  "model": "GLAC"
+}

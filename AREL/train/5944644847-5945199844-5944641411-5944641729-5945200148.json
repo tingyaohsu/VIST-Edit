@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5944644847-5945199844-5944641411-5944641729-5945200148",
+  "photo_sequence_ids": [
+    "5944644847",
+    "5945199844",
+    "5944641411",
+    "5944641729",
+    "5945200148"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6131/5944644847_3500c5c672_o.jpg",
+    "https://farm7.staticflickr.com/6016/5945199844_648bf759ab_o.jpg",
+    "https://farm7.staticflickr.com/6142/5944641411_6c8d13c18e_o.jpg",
+    "https://farm7.staticflickr.com/6150/5944641729_77d5032e61_o.jpg",
+    "https://farm7.staticflickr.com/6010/5945200148_2c56a4b302_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party last week . the kids were so happy to see each other . the kids were having a great time at the party . the kids had a great time playing in the playground . all of the kids had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "we had a party for [John] last weekend. [John]\u0027s wife and I poised for pictures. the kids played together and loved each. another. the kids played in our new playground on the  swings. [John] even tried his hand as a nanny. we all had a good time and can\u0027t wait to get together again .",
+      "normalized_edited_story_text_sent": [
+        "we had a party for [male] last weekend .",
+        "[male] \u0027s wife and i poised for pictures .",
+        "the kids played together and loved each .",
+        "another .",
+        "the kids played in our new playground on the swings .",
+        "[male] even tried his hand as a nanny .",
+        "we all had a good time and ca n\u0027t wait to get together again ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had a great time at the party last week . the kids were so happy to see each other . the kids were having a great time at the party . the kids had a wonderful time playing in the playground . all of the kids had fun at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "the kids were so happy to see each other .",
+        "the kids were having a great time at the party .",
+        "the kids had a wonderful time playing in the playground .",
+        "all of the kids had fun at the party ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the party last week. The kids were so happy to see each other. They all had a great time at the party, and had fun playing on the playground.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "the kids were so happy to see each other .",
+        "they all had a great time at the party , and had fun playing on the playground ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we had a great time at the party last week . the kids were so happy to see each other . the kids were having a great time at the party . the kids had a great time playing in the playground  together.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "the kids were so happy to see each other .",
+        "the kids were having a great time at the party .",
+        "the kids had a great time playing in the playground together ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We invited friends over to our new home. The men talked inside while the women talked outside. The kids came, too. They played on the new swingset. The loved the swings.",
+      "normalized_edited_story_text_sent": [
+        "we invited friends over to our new home .",
+        "the men talked inside while the women talked outside .",
+        "the kids came , too .",
+        "they played on the new swingset .",
+        "the loved the swings ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627211702284"
+}

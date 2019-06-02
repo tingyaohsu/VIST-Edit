@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5224736184-5224138965-5224735224-5224736630-5224139905",
+  "photo_sequence_ids": [
+    "5224736184",
+    "5224138965",
+    "5224735224",
+    "5224736630",
+    "5224139905"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4128/5224736184_afeb6377bb_o.jpg",
+    "https://farm6.staticflickr.com/5130/5224138965_da35182cf6_o.jpg",
+    "https://farm5.staticflickr.com/4125/5224735224_3df4a05b44_o.jpg",
+    "https://farm5.staticflickr.com/4092/5224736630_ae8c1e9b2e_o.jpg",
+    "https://farm5.staticflickr.com/4131/5224139905_32d578aac1_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a lot of people there . it was a great day for a march . the man in the red shirt was holding a sign . it was a very solemn event . we had a great time and we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "it was a great day for a march . there were a lot of people there . the man in the red shirt was holding a sign . it was a very solemn event . we had a great time, though .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a march .",
+        "there were a lot of people there .",
+        "the man in the red shirt was holding a sign .",
+        "it was a very solemn event .",
+        "we had a great time , though ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "there was a lot of people there and it was a great day for a march . the man in the red shirt was holding a sign . it was a very solemn event . we had a great time and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of people there and it was a great day for a march .",
+        "the man in the red shirt was holding a sign .",
+        "it was a very solemn event .",
+        "we had a great time and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Today I went to a rally and it was a great day for a march. There were lots of people holding signs at this somber event. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "today i went to a rally and it was a great day for a march .",
+        "there were lots of people holding signs at this somber event .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "there were a lot of people there, it was a good time for a march, a man in red was holding a sign. It was a very eye opening event. We had a great time out there.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people there , it was a good time for a march , a man in red was holding a sign .",
+        "it was a very eye opening event .",
+        "we had a great time out there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "there is a lot of people there . it is a great day for a march . the man in the black shirt is holding a sign . it is a very solemn event . we have a great time and we have a great time .",
+      "normalized_edited_story_text_sent": [
+        "there is a lot of people there .",
+        "it is a great day for a march .",
+        "the man in the black shirt is holding a sign .",
+        "it is a very solemn event .",
+        "we have a great time and we have a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625509057442"
+}

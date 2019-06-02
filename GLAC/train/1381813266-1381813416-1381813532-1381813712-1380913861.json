@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1381813266-1381813416-1381813532-1381813712-1380913861",
+  "photo_sequence_ids": [
+    "1381813266",
+    "1381813416",
+    "1381813532",
+    "1381813712",
+    "1380913861"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the statue was very interesting . the statues were amazing . the statues were so detailed . the view was spectacular . the buildings were amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the statue was very neat. the statues were grand. the statues were so detailed . the view was spectacular . the buildings were amazing .",
+      "normalized_edited_story_text_sent": [
+        "the statue was very neat .",
+        "the statues were grand .",
+        "the statues were so detailed .",
+        "the view was spectacular .",
+        "the buildings were amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the incredibly tall statue was very interesting . the statues were incredible. the camels were so intriguing . the view of the city was spectacular . the carvings and pyramids were amazing .",
+      "normalized_edited_story_text_sent": [
+        "the incredibly tall statue was very interesting .",
+        "the statues were incredible .",
+        "the camels were so intriguing .",
+        "the view of the city was spectacular .",
+        "the carvings and pyramids were amazing ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the statue of the pharaoh was very interesting . a lot of work must have gone into their construction, because the statues were amazing . the statues were so detailed for having been built with ancient tools . the view was spectacular . the buildings were amazing .",
+      "normalized_edited_story_text_sent": [
+        "the statue of the pharaoh was very interesting .",
+        "a lot of work must have gone into their construction , because the statues were amazing .",
+        "the statues were so detailed for having been built with ancient tools .",
+        "the view was spectacular .",
+        "the buildings were amazing ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The statue was actually amazing, and very interesting. The statues overall were incredibly detailed. The view was spectacular, and the buildings were great too.",
+      "normalized_edited_story_text_sent": [
+        "the statue was actually amazing , and very interesting .",
+        "the statues overall were incredibly detailed .",
+        "the view was spectacular , and the buildings were great too ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the statue was very interesting due to its shape . the statues were amazing at one time. the statues were so detailed even thou they were made from stone . the view was spectacular and was once in a lifetime opportunity. the buildings were amazing and very big .",
+      "normalized_edited_story_text_sent": [
+        "the statue was very interesting due to its shape .",
+        "the statues were amazing at one time .",
+        "the statues were so detailed even thou they were made from stone .",
+        "the view was spectacular and was once in a lifetime opportunity .",
+        "the buildings were amazing and very big ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602004965238",
+  "model": "GLAC"
+}

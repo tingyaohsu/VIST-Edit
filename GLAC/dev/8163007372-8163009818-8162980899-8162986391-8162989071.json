@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "8163007372-8163009818-8162980899-8162986391-8162989071",
+  "photo_sequence_ids": [
+    "8163007372",
+    "8163009818",
+    "8162980899",
+    "8162986391",
+    "8162989071"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the parade . they had a lot of fun . they had lots of fun . they had a great time . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to play in costumes. It was a great fall day. He had a sword. The sun was shining.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play in costumes .",
+        "it was a great fall day .",
+        "he had a sword .",
+        "the sun was shining ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be in the parade . they had a lot of fun . wearing a costume was the best part . they had a great time . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade .",
+        "they had a lot of fun .",
+        "wearing a costume was the best part .",
+        "they had a great time .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "my son dressed up in an awesome cartoon. he was very excited to show it off.",
+      "normalized_edited_story_text_sent": [
+        "my son dressed up in an awesome cartoon .",
+        "he was very excited to show it off ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kid was excited to play around . he dressed up in costumes  . he had lots of fun . they played with swords . Only one boy was there .",
+      "normalized_edited_story_text_sent": [
+        "the kid was excited to play around .",
+        "he dressed up in costumes .",
+        "he had lots of fun .",
+        "they played with swords .",
+        "only one boy was there ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the kids were excited to be in the parade . they had a lot of fun . they had lots of fun . they had a great time . the whole family was there .\r\rMy kids were excited to go to the parade! They had an absolute blast. It was a lot of fun for them. I could tell they were having a great time. The whole family showed up!",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade .",
+        "they had a lot of fun .",
+        "they had lots of fun .",
+        "they had a great time .",
+        "the whole family was there .",
+        "my kids were excited to go to the parade !",
+        "they had an absolute blast .",
+        "it was a lot of fun for them .",
+        "i could tell they were having a great time .",
+        "the whole family showed up !"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631949230901",
+  "model": "GLAC"
+}

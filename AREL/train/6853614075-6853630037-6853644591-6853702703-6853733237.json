@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6853614075-6853630037-6853644591-6853702703-6853733237",
+  "photo_sequence_ids": [
+    "6853614075",
+    "6853630037",
+    "6853644591",
+    "6853702703",
+    "6853733237"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7016/6853614075_5eec5a0a57_o.jpg",
+    "https://farm8.staticflickr.com/7141/6853630037_a527bfbf37_o.jpg",
+    "https://farm8.staticflickr.com/7004/6853644591_3f2d096cc3_o.jpg",
+    "https://farm8.staticflickr.com/7040/6853702703_8770cf8cd3_o.jpg",
+    "https://farm8.staticflickr.com/7189/6853733237_c7e3871bfd_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the market yesterday . there were many people there . there were lots of booths to choose from . we had a lot of fun at the bar . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the market yesterday . there were many people there . there were lots of booths to choose from . I had a lot of fun at the bar . I had a great time there around every one.",
+      "normalized_edited_story_text_sent": [
+        "i went to the market yesterday .",
+        "there were many people there .",
+        "there were lots of booths to choose from .",
+        "i had a lot of fun at the bar .",
+        "i had a great time there around every one ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to the market yesterday . it was crowded . there were a lot of booths to choose from . we had a lot of fun at the bar .",
+      "normalized_edited_story_text_sent": [
+        "i went to the market yesterday .",
+        "it was crowded .",
+        "there were a lot of booths to choose from .",
+        "we had a lot of fun at the bar ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "i was able to go to  the market yesterday . there were so  many people already  there . I was surprised by how many  booths there was to choose from . we did have a lot of fun at the bar . we all seemed to have a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i was able to go to the market yesterday .",
+        "there were so many people already there .",
+        "i was surprised by how many booths there was to choose from .",
+        "we did have a lot of fun at the bar .",
+        "we all seemed to have a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "yesterday we went to the market downtown. there were alot of people everywhere. the kids of course, found the taco stand. there were so many food booths . people were at every booth. we had a good time.",
+      "normalized_edited_story_text_sent": [
+        "yesterday we went to the market downtown .",
+        "there were alot of people everywhere .",
+        "the kids of course , found the taco stand .",
+        "there were so many food booths .",
+        "people were at every booth .",
+        "we had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i went to the market yesterday . there were lot off people there . there were lots of booths to choose from . we had a great deal of fun at the bar . we had a awesome time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the market yesterday .",
+        "there were lot off people there .",
+        "there were lots of booths to choose from .",
+        "we had a great deal of fun at the bar .",
+        "we had a awesome time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629263336881"
+}

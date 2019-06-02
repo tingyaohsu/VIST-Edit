@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "6481837747-6481838601-6481840541-6481273937-6481841137",
+  "photo_sequence_ids": [
+    "6481837747",
+    "6481838601",
+    "6481840541",
+    "6481273937",
+    "6481841137"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the event . he was doing a great job . he was very proud of his work . he was very excited . he was so proud of the award .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the man was happy to be at the event with his family . he was doing a great job a giving a speech after getting his award. he was very proud of his work in the military . he was very excited to share this moment with his family . he was so proud of the award .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the event with his family .",
+        "he was doing a great job a giving a speech after getting his award .",
+        "he was very proud of his work in the military .",
+        "he was very excited to share this moment with his family .",
+        "he was so proud of the award ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the man was happy to be at the event . he was glad to be back home.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the event .",
+        "he was glad to be back home ."
+      ]
+    },
+    {
+      "worker_id": "A2ASAECAHB8WSZ",
+      "edited_story_text": "The men were so happy to reunite with family. John held his son close. Robert just had a son whom he was meeting for the first time. David held his toddler daughter close in his arms. David\u0027s oldest daughter offered to carry his bag to the car.",
+      "normalized_edited_story_text_sent": [
+        "the men were so happy to reunite with family .",
+        "[male] held his son close .",
+        "[male] just had a son whom he was meeting for the first time .",
+        "[male] held his toddler daughter close in his arms .",
+        "[male] \u0027s oldest daughter offered to carry his bag to the car ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The military men were happy to be home. Many of them held their babies and young children. One young teen posed carrying her father\u0027s heavy backpack.",
+      "normalized_edited_story_text_sent": [
+        "the military men were happy to be home .",
+        "many of them held their babies and young children .",
+        "one young teen posed carrying her father \u0027s heavy backpack ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The man was happy to be back with his family . He did a great job over seas. He was very proud of his work. He was very excited to be home. He had really missed his family .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be back with his family .",
+        "he did a great job over seas .",
+        "he was very proud of his work .",
+        "he was very excited to be home .",
+        "he had really missed his family ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628343838277",
+  "model": "GLAC"
+}

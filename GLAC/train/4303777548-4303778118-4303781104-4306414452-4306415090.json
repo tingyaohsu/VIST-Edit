@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4303777548-4303778118-4303781104-4306414452-4306415090",
+  "photo_sequence_ids": [
+    "4303777548",
+    "4303778118",
+    "4303781104",
+    "4306414452",
+    "4306415090"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sign was very tall and interesting . the building was a bit more modern . the statue was a nice place to stay . the street was full of cars . the shop was open and empty .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the decorations were interesting . the building was a bit older across the street . the sign showed which way traffic flowed .  People parked at the meters. the shop was full of items to sell .",
+      "normalized_edited_story_text_sent": [
+        "the decorations were interesting .",
+        "the building was a bit older across the street .",
+        "the sign showed which way traffic flowed .",
+        "people parked at the meters .",
+        "the shop was full of items to sell ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the sign was very tall and interesting . the building was a bit more modern . the statue was a nice place to stay . the street was full of cars . the shop was open and empty .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the sign was very tall and interesting .",
+        "the building was a bit more modern .",
+        "the statue was a nice place to stay .",
+        "the street was full of cars .",
+        "the shop was open and empty ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the sign was very tall and interesting. the building was a bit more modern. the street was full of cars. the shop was open, but empty.",
+      "normalized_edited_story_text_sent": [
+        "the sign was very tall and interesting .",
+        "the building was a bit more modern .",
+        "the street was full of cars .",
+        "the shop was open , but empty ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we visited a lovely shop while on vacation. the shop was a bit more modern than the building outside. the city was a nice place to stay. the street was full of cars everywhere!",
+      "normalized_edited_story_text_sent": [
+        "we visited a lovely shop while on vacation .",
+        "the shop was a bit more modern than the building outside .",
+        "the city was a nice place to stay .",
+        "the street was full of cars everywhere !"
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Walked down the street today and saw this bent sign.  Also walked by the storefront and apartment complex.  Picture of my shelf when I went home.",
+      "normalized_edited_story_text_sent": [
+        "walked down the street today and saw this bent sign .",
+        "also walked by the storefront and apartment complex .",
+        "picture of my shelf when i went home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623156198707",
+  "model": "GLAC"
+}

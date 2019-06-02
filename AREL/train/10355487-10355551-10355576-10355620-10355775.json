@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "10355487-10355551-10355576-10355620-10355775",
+  "photo_sequence_ids": [
+    "10355487",
+    "10355551",
+    "10355576",
+    "10355620",
+    "10355775"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/3/10355487_e4c3ba0734_o.jpg",
+    "https://farm1.staticflickr.com/5/10355551_05fbba82ab_o.jpg",
+    "https://farm1.staticflickr.com/7/10355576_60a1f8392e_o.jpg",
+    "https://farm1.staticflickr.com/7/10355620_a6d7731979_o.jpg",
+    "https://farm1.staticflickr.com/5/10355775_909092b4e7_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the beach today . the bride and groom were so excited to be there . the boat was on the water , but it was a great day . it was a great day . we had a great time on the boat .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to the beach today . the bride and groom were so excited to be there . the boat was on the water , but it was a great day . I really enjoyed the design of the boat.",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "the bride and groom were so excited to be there .",
+        "the boat was on the water , but it was a great day .",
+        "i really enjoyed the design of the boat ."
+      ]
+    },
+    {
+      "worker_id": "AN3KQZCYPYFL9",
+      "edited_story_text": "I went to the beach today. the bride and groom were so excited to be there. The boat was on the water, but it was a great day. it was a great day. we had a great time on the boat.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach today .",
+        "the bride and groom were so excited to be there .",
+        "the boat was on the water , but it was a great day .",
+        "it was a great day .",
+        "we had a great time on the boat ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "we went to a beach boat wedding today. the bride and groom were so excited to be there. the boat was on the water and it was a great day. we had a great time on the boat.",
+      "normalized_edited_story_text_sent": [
+        "we went to a beach boat wedding today .",
+        "the bride and groom were so excited to be there .",
+        "the boat was on the water and it was a great day .",
+        "we had a great time on the boat ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We went to the beach today where the bride and groom were excited to be married on the water.  It was a great day on the boat and everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today where the bride and groom were excited to be married on the water .",
+        "it was a great day on the boat and everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we went to the wedding today . the bride and groom were so excited to be there . the boat was on the water , and the sun was shining . it was a great day . we had a great time at the reception .",
+      "normalized_edited_story_text_sent": [
+        "we went to the wedding today .",
+        "the bride and groom were so excited to be there .",
+        "the boat was on the water , and the sun was shining .",
+        "it was a great day .",
+        "we had a great time at the reception ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "255653"
+}

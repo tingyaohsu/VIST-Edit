@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5112037066-5110797611-5110798423-5110795457-5111467108",
+  "photo_sequence_ids": [
+    "5112037066",
+    "5110797611",
+    "5110798423",
+    "5110795457",
+    "5111467108"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1106/5112037066_5161c6f417_o.jpg",
+    "https://farm2.staticflickr.com/1321/5110797611_c048698cfe_o.jpg",
+    "https://farm2.staticflickr.com/1185/5110798423_bc2a672ea1_o.jpg",
+    "https://farm2.staticflickr.com/1077/5110795457_e1381d97aa_o.jpg",
+    "https://farm5.staticflickr.com/4112/5111467108_abb6ca3caa_o.jpg"
+  ],
+  "auto_story_text_normalized": "the cat was so excited to be there . they had a lot of fun playing around . he was very happy to be there . the man was very happy to be there . one of the guys was a little too much to drink .",
+  "edited_stories": [
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The cat looked so excited to be there. The couple had a lot of fun playing around. The man was very happy to be there and the woman was very happy to be there too. One of the guys had a little too much to drink.",
+      "normalized_edited_story_text_sent": [
+        "the cat looked so excited to be there .",
+        "the couple had a lot of fun playing around .",
+        "the man was very happy to be there and the woman was very happy to be there too .",
+        "one of the guys had a little too much to drink ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The cat was happy to be there. They had a lot of fun playing around, and [male] was happy to be there. One of the guys had a little too much to drink.",
+      "normalized_edited_story_text_sent": [
+        "the cat was happy to be there .",
+        "they had a lot of fun playing around , and [male] was happy to be there .",
+        "one of the guys had a little too much to drink ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the cat was so excited to be there and they had a lot of fun playing around . he was very happy to be there . the man was very happy to be there . one of the guys was a little too much to drink .",
+      "normalized_edited_story_text_sent": [
+        "the cat was so excited to be there and they had a lot of fun playing around .",
+        "he was very happy to be there .",
+        "the man was very happy to be there .",
+        "one of the guys was a little too much to drink ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "the cat was very happy to be there, he had a lot of fun playing around. One guy was there and he had too much to drink.",
+      "normalized_edited_story_text_sent": [
+        "the cat was very happy to be there , he had a lot of fun playing around .",
+        "one guy was there and he had too much to drink ."
+      ]
+    },
+    {
+      "worker_id": "AN2GMCKM5CLG8",
+      "edited_story_text": "the cat was so excited to be there . they had a lot of fun playing around . he was very happy to be there . [male] was very happy to be there . one of the guys was a little too much to drink .",
+      "normalized_edited_story_text_sent": [
+        "the cat was so excited to be there .",
+        "they had a lot of fun playing around .",
+        "he was very happy to be there .",
+        "[male] was very happy to be there .",
+        "one of the guys was a little too much to drink ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625231750582"
+}

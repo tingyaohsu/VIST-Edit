@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4769802173-4769802729-4769803479-4770444660-4769803123",
+  "photo_sequence_ids": [
+    "4769802173",
+    "4769802729",
+    "4769803479",
+    "4770444660",
+    "4769803123"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was very excited to be at the party . he was so happy that he could n\u0027t get his picture taken . the fireworks were beautiful . the fireworks were amazing . the family was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the dog was very excited to be at the party . he was so happy that he could n\u0027t get his picture taken . the fireworks were beautiful . the fireworks were bright . the family was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the dog was very excited to be at the party .",
+        "he was so happy that he could n\u0027t get his picture taken .",
+        "the fireworks were beautiful .",
+        "the fireworks were bright .",
+        "the family was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The dogs had to be kept calm during the fireworks by their owner.",
+      "normalized_edited_story_text_sent": [
+        "the dogs had to be kept calm during the fireworks by their owner ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The dogs were having fun playing on the deck during the 4th of July. Then the fireworks started exploding and the dogs ran back inside.",
+      "normalized_edited_story_text_sent": [
+        "the dogs were having fun playing on the deck during the 4th of july .",
+        "then the fireworks started exploding and the dogs ran back inside ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the dog, so excited at the party, swung his tail . he was so moved that trying to take a picture of him became a big old challenge. the fireworks delighted everybody. they were such an awesome sight. the family was all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the dog , so excited at the party , swung his tail .",
+        "he was so moved that trying to take a picture of him became a big old challenge .",
+        "the fireworks delighted everybody .",
+        "they were such an awesome sight .",
+        "the family was all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the dogs were very excited to be at the party . mary played with the dogs as she hugged them.the fireworks were beautiful . the fireworks were amazing as they lit the sky in shades of red and gold. mary had a great time with the dogs..",
+      "normalized_edited_story_text_sent": [
+        "the dogs were very excited to be at the party .",
+        "[female] played with the dogs as she hugged them.the fireworks were beautiful .",
+        "the fireworks were amazing as they lit the sky in shades of red and gold .",
+        "[female] had a great time with the dogs ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624440382340",
+  "model": "GLAC"
+}

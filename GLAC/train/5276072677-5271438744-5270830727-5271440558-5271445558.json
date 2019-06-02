@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5276072677-5271438744-5270830727-5271440558-5271445558",
+  "photo_sequence_ids": [
+    "5276072677",
+    "5271438744",
+    "5270830727",
+    "5271440558",
+    "5271445558"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the beach yesterday . there were a lot of people there . i had a great time . the buildings were very tall . they were all very unique .",
+  "edited_stories": [
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "I went to the beach yesterday.  There were a lot of people there!  I had a great time.  The buildings were very tall. They were all very unique.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "there were a lot of people there !",
+        "i had a great time .",
+        "the buildings were very tall .",
+        "they were all very unique ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "i went to the Zuni yesterday . there were not a lot of people there, i had a great time , there was many interesting buildings.",
+      "normalized_edited_story_text_sent": [
+        "i went to the zuni yesterday .",
+        "there were not a lot of people there , i had a great time , there was many interesting buildings ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "i went to the city yesterday. there weren\u0027t many people there after dark. i had a great time wandering the streets and taking pictures. I ended the night at this great little cafe!  such a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the city yesterday .",
+        "there were n\u0027t many people there after dark .",
+        "i had a great time wandering the streets and taking pictures .",
+        "i ended the night at this great little cafe !",
+        "such a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "I took some time yesterday to head down to the beach. Even though there were a lot of people there, it was the trip to the beach that was the most fulfilling. I had a great time passing through the streets, seeing all the shops and buildings in a different light. All in different shapes, sizes, colors, and types of business.",
+      "normalized_edited_story_text_sent": [
+        "i took some time yesterday to head down to the beach .",
+        "even though there were a lot of people there , it was the trip to the beach that was the most fulfilling .",
+        "i had a great time passing through the streets , seeing all the shops and buildings in a different light .",
+        "all in different shapes , sizes , colors , and types of business ."
+      ]
+    },
+    {
+      "worker_id": "ASFR82SJYMGNU",
+      "edited_story_text": "I went to the beach yesterday. There were a lot of people there  and I ran into John. We had a great time . The buildings were very tall . They were all very unique .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach yesterday .",
+        "there were a lot of people there and i ran into [male] .",
+        "we had a great time .",
+        "the buildings were very tall .",
+        "they were all very unique ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625498117651",
+  "model": "GLAC"
+}

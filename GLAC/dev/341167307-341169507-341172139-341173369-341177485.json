@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "341167307-341169507-341172139-341173369-341177485",
+  "photo_sequence_ids": [
+    "341167307",
+    "341169507",
+    "341172139",
+    "341173369",
+    "341177485"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people dressed up . some of them were very creative . we all had a had a great time . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of them were very creative .",
+        "we all had a had a great time .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the party was a lot of fun and a lot of people came dressed up in costumes . some of them were very creative and everyone was laughing and smiling. Everyone had a great time and a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and a lot of people came dressed up in costumes .",
+        "some of them were very creative and everyone was laughing and smiling .",
+        "everyone had a great time and a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the party was a lot of fun . everyone was dressed for the occasion.  [male] enjoyed getting his photo taken.  the ladies enjoyed taken photos together.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was dressed for the occasion .",
+        "[male] enjoyed getting his photo taken .",
+        "the ladies enjoyed taken photos together ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people dressed up ."
+      ]
+    },
+    {
+      "worker_id": "A2KW26KE43UBRS",
+      "edited_story_text": "The party was a lot of fun. There were a lot of people dressed up in fancy outfits. Some of the outfits were very creative. I had a great time. Actually everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people dressed up in fancy outfits .",
+        "some of the outfits were very creative .",
+        "i had a great time .",
+        "actually everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594452246340",
+  "model": "GLAC"
+}

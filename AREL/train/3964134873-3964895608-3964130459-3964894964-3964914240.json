@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "3964134873-3964895608-3964130459-3964894964-3964914240",
+  "photo_sequence_ids": [
+    "3964134873",
+    "3964895608",
+    "3964130459",
+    "3964894964",
+    "3964914240"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2504/3964134873_a042f9c690_o.jpg",
+    "https://farm3.staticflickr.com/2563/3964895608_71c11f4179_o.jpg",
+    "https://farm3.staticflickr.com/2601/3964130459_a53ee55798_o.jpg",
+    "https://farm3.staticflickr.com/2496/3964894964_0a5ed1c254_o.jpg",
+    "https://farm3.staticflickr.com/2540/3964914240_544157d3e7_o.jpg"
+  ],
+  "auto_story_text_normalized": "the boy was excited for his birthday party . there were a lot of games to play . the baby was so happy to see him . then he played with his guitar . after that , i made sure to grab a bite to eat .",
+  "edited_stories": [
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "my nephew was excited for his birthday party . there were a lot of games to play, we had a foosball table set up. his sister, my niece was so happy for her brother. . then we played foosball  . After that, i made sure to grab a bite to eat .",
+      "normalized_edited_story_text_sent": [
+        "my nephew was excited for his birthday party .",
+        "there were a lot of games to play , we had a foosball table set up .",
+        "his sister , my niece was so happy for her brother .",
+        ".",
+        "then we played foosball .",
+        "after that , i made sure to grab a bite to eat ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The boy was excited for his birthday party. He played a lot of games. The baby was so happy to see him. He played with his guitar then ate a lot of food including a yummy cheery pie dessert.",
+      "normalized_edited_story_text_sent": [
+        "the boy was excited for his birthday party .",
+        "he played a lot of games .",
+        "the baby was so happy to see him .",
+        "he played with his guitar then ate a lot of food including a yummy cheery pie dessert ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the boy was excited for his birthday party . there were a lot of games to play . the baby was so happy to see him and then he played with his guitar and after that , i made sure to grab a bite to eat .",
+      "normalized_edited_story_text_sent": [
+        "the boy was excited for his birthday party .",
+        "there were a lot of games to play .",
+        "the baby was so happy to see him and then he played with his guitar and after that , i made sure to grab a bite to eat ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "The boy was excited for his birthday party . There were a lot of games to play . The baby was very happy to see him , then he played with his guitar. After that , I made sure to grab a bite to eat .",
+      "normalized_edited_story_text_sent": [
+        "the boy was excited for his birthday party .",
+        "there were a lot of games to play .",
+        "the baby was very happy to see him , then he played with his guitar .",
+        "after that , i made sure to grab a bite to eat ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the boy was excited for his birthday party. there were a lot of games to play. the baby was happy to see all the other children. then the boy\u0027s dad played the guitar and sang some songs. the kids loved it. i made sure to eat some of the pie because everyone said it was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the boy was excited for his birthday party .",
+        "there were a lot of games to play .",
+        "the baby was happy to see all the other children .",
+        "then the boy \u0027s dad played the guitar and sang some songs .",
+        "the kids loved it .",
+        "i made sure to eat some of the pie because everyone said it was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622352867975"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5246926106-5246327177-5246926996-5246326441-5246933152",
+  "photo_sequence_ids": [
+    "5246926106",
+    "5246327177",
+    "5246926996",
+    "5246326441",
+    "5246933152"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5084/5246926106_d0f1e20a72_o.jpg",
+    "https://farm6.staticflickr.com/5130/5246327177_79afc52e58_o.jpg",
+    "https://farm6.staticflickr.com/5130/5246926996_825188a480_o.jpg",
+    "https://farm6.staticflickr.com/5245/5246326441_5a0aff3443_o.jpg",
+    "https://farm6.staticflickr.com/5003/5246933152_95eba807da_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the concert last night . the band was very talented . the singer of the band played a lot of songs . there were a lot of people there . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went to the concert last night . the band was very talented . the singer of the band played a lot of songs . there were a lot of people there. It was a really fun night.",
+      "normalized_edited_story_text_sent": [
+        "we went to the concert last night .",
+        "the band was very talented .",
+        "the singer of the band played a lot of songs .",
+        "there were a lot of people there .",
+        "it was a really fun night ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to the concert last night that was bluegrass . the band was very amazing on the stage . the singer of the band played a lot of songs for us . there were a lot of people there in the audience. it was a great night and I wish you were there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the concert last night that was bluegrass .",
+        "the band was very amazing on the stage .",
+        "the singer of the band played a lot of songs for us .",
+        "there were a lot of people there in the audience .",
+        "it was a great night and i wish you were there ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "We went to the concert last night. The band was very talented. The show ran for 2 hours and it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "we went to the concert last night .",
+        "the band was very talented .",
+        "the show ran for 2 hours and it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We went to the concert last night and the band was very talented. The singer of the band played a lot of songs and there were lots of people in the crowd, it was a fun night!",
+      "normalized_edited_story_text_sent": [
+        "we went to the concert last night and the band was very talented .",
+        "the singer of the band played a lot of songs and there were lots of people in the crowd , it was a fun night !"
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "we went to the concert last night it was crowded, but still a lot of fun",
+      "normalized_edited_story_text_sent": [
+        "we went to the concert last night it was crowded , but still a lot of fun"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625437769119"
+}

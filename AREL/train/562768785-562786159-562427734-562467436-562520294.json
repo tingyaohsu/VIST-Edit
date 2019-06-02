@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "562768785-562786159-562427734-562467436-562520294",
+  "photo_sequence_ids": [
+    "562768785",
+    "562786159",
+    "562427734",
+    "562467436",
+    "562520294"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1403/562768785_6381623690_o.jpg",
+    "https://farm2.staticflickr.com/1360/562786159_ee87e9a416_o.jpg",
+    "https://farm2.staticflickr.com/1306/562427734_755a39dd7c_o.jpg",
+    "https://farm2.staticflickr.com/1312/562467436_bc0384a65d_o.jpg",
+    "https://farm2.staticflickr.com/1155/562520294_3b997d38ea_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to the zoo . we saw some animals in the area . they had a lot of animals to see . the snake was a bit scary , but i did n\u0027t want to leave . this is a picture of a bird .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we took a trip to the zoo . we saw some animals in the area .  the snake was a bit scary , but we didn\u0027t want to leave .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the zoo .",
+        "we saw some animals in the area .",
+        "the snake was a bit scary , but we did n\u0027t want to leave ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "we take a trip to the zoo . we see some animals in the area . they have a lot of animals to saw . the snake is a bit scary , but i did n\u0027t wanted to leave . this was a picture of a bird .",
+      "normalized_edited_story_text_sent": [
+        "we take a trip to the zoo .",
+        "we see some animals in the area .",
+        "they have a lot of animals to saw .",
+        "the snake is a bit scary , but i did n\u0027t wanted to leave .",
+        "this was a picture of a bird ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we took a trip to the zoo . we saw some animals in the area . They were all kinds of animals to see. . the snake was a bit scary , but i did n\u0027t want to leave . this is a picture of a bird .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the zoo .",
+        "we saw some animals in the area .",
+        "they were all kinds of animals to see .",
+        ".",
+        "the snake was a bit scary , but i did n\u0027t want to leave .",
+        "this is a picture of a bird ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we took a trip to the zoo . we saw some animals in the area . they had a lot of animals to see . the snake was a bit scary , but i did n\u0027t want to leave and this is a picture of a bird .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the zoo .",
+        "we saw some animals in the area .",
+        "they had a lot of animals to see .",
+        "the snake was a bit scary , but i did n\u0027t want to leave and this is a picture of a bird ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "We took a trip to the zoo. There were a variety of animals to look at. My favorite was the zebra and the owl.  We also road the zoo train.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the zoo .",
+        "there were a variety of animals to look at .",
+        "my favorite was the zebra and the owl .",
+        "we also road the zoo train ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600385894248"
+}

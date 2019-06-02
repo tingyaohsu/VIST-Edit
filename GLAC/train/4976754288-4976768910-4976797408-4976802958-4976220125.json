@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4976754288-4976768910-4976797408-4976802958-4976220125",
+  "photo_sequence_ids": [
+    "4976754288",
+    "4976768910",
+    "4976797408",
+    "4976802958",
+    "4976220125"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the trees were green . the flowers were in bloom . the birds were walking around . the man was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "I had an amazing trip. I went high in the mountains to see long rivers and towering waterfalls. I even visited Niddal Hole Point. I saw some people with a horse in a small pond, enjoying the water.",
+      "normalized_edited_story_text_sent": [
+        "i had an amazing trip .",
+        "i went high in the mountains to see long rivers and towering waterfalls .",
+        "i even visited niddal hole point .",
+        "i saw some people with a horse in a small pond , enjoying the water ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the sun was setting. the trees were green and the flowers were in bloom. birds were walking around . people were happy.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "the trees were green and the flowers were in bloom .",
+        "birds were walking around .",
+        "people were happy ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the lake was beautiful . the trees were green . the waterfall was relaxing . the horses were walking around . the woman was happy and smiling.",
+      "normalized_edited_story_text_sent": [
+        "the lake was beautiful .",
+        "the trees were green .",
+        "the waterfall was relaxing .",
+        "the horses were walking around .",
+        "the woman was happy and smiling ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "our trek up the mountain is one i\u0027ll never forget! the lush green views were spectacular, especially the waterfall. we even came across a group of horseback riders! it was such a wonderful day.",
+      "normalized_edited_story_text_sent": [
+        "our trek up the mountain is one i \u0027ll never forget !",
+        "the lush green views were spectacular , especially the waterfall .",
+        "we even came across a group of horseback riders !",
+        "it was such a wonderful day ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The country side was beautiful with waterfalls and horses to bring the people there..",
+      "normalized_edited_story_text_sent": [
+        "the country side was beautiful with waterfalls and horses to bring the people there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624923667378",
+  "model": "GLAC"
+}

@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "2322128946-2323738054-2325209008-2322920671-2322127968",
+  "photo_sequence_ids": [
+    "2322128946",
+    "2323738054",
+    "2325209008",
+    "2322920671",
+    "2322127968"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the event . he was given a speech . he was very proud . he was so happy . he was excited for the service .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the man was happy to be at the event . he was given a big speech . he was very proud . he was so joyful. he was excited for the service .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the event .",
+        "he was given a big speech .",
+        "he was very proud .",
+        "he was so joyful .",
+        "he was excited for the service ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the man was joining a crowd with flags . A woman displayed a sign of suffering children . Another man sat in the crowd while others were displaying a large flag. A woman held a sign in the crowd . A man gave a speech with a microphone in the crowd.",
+      "normalized_edited_story_text_sent": [
+        "the man was joining a crowd with flags .",
+        "a woman displayed a sign of suffering children .",
+        "another man sat in the crowd while others were displaying a large flag .",
+        "a woman held a sign in the crowd .",
+        "a man gave a speech with a microphone in the crowd ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "This was a meaningful and emotional event or march.With a lot of purpose behind it.",
+      "normalized_edited_story_text_sent": [
+        "this was a meaningful and emotional event or march.with a lot of purpose behind it ."
+      ]
+    },
+    {
+      "worker_id": "AD3176YJTD639",
+      "edited_story_text": "Robert was happy to be at the event . He was giving a speech .  He was very proud . He was so happy . Robert was excited for the service .",
+      "normalized_edited_story_text_sent": [
+        "[male] was happy to be at the event .",
+        "he was giving a speech .",
+        "he was very proud .",
+        "he was so happy .",
+        "[male] was excited for the service ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the man was happy to be at the event . he gave a speech . he was very proud .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the event .",
+        "he gave a speech .",
+        "he was very proud ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157604082858691",
+  "model": "GLAC"
+}

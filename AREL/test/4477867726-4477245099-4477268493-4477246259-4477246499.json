@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4477867726-4477245099-4477268493-4477246259-4477246499",
+  "photo_sequence_ids": [
+    "4477867726",
+    "4477245099",
+    "4477268493",
+    "4477246259",
+    "4477246499"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4069/4477867726_66484b3b2b_o.jpg",
+    "https://farm5.staticflickr.com/4028/4477245099_4efbd6d9bb_o.jpg",
+    "https://farm5.staticflickr.com/4007/4477268493_824f021c82_o.jpg",
+    "https://farm5.staticflickr.com/4050/4477246259_2f20a0e959_o.jpg",
+    "https://farm3.staticflickr.com/2697/4477246499_9d17261299_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of people at the conference last week . there were a lot of people there . they had a lot of information on the wall . the presentation was a success . after the ceremony we all posed for a group photo .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "There were a lot of people at the conference last week. They put up a lot of information on the wall. The presentation was a success! After the ceremony, we all posed for a group photo.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the conference last week .",
+        "they put up a lot of information on the wall .",
+        "the presentation was a success !",
+        "after the ceremony , we all posed for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "We met at a conference.there were a lot of people at the conference last week  . they had a lot of information on the wall . the presentation was a success . after the ceremony we all posed for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "we met at a conference.there were a lot of people at the conference last week .",
+        "they had a lot of information on the wall .",
+        "the presentation was a success .",
+        "after the ceremony we all posed for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "there were a lot of people at the conference last week .  a lot of information was up on the wall . the presentation was successful. after the ceremony we all posed for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the conference last week .",
+        "a lot of information was up on the wall .",
+        "the presentation was successful .",
+        "after the ceremony we all posed for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "There were a lot of people at the conference last week. The presentation I gave was a success. There was a lot to learn and they had a lot of information on the wall. After the presentation, we posed for a group photo.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the conference last week .",
+        "the presentation i gave was a success .",
+        "there was a lot to learn and they had a lot of information on the wall .",
+        "after the presentation , we posed for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "There were lots of people at the conference I attended last week. The room was nearly full. They had a presentation stand with information we could read. The presentation itself was a great success. After it was over, we all posed for a group photo.",
+      "normalized_edited_story_text_sent": [
+        "there were lots of people at the conference i attended last week .",
+        "the room was nearly full .",
+        "they had a presentation stand with information we could read .",
+        "the presentation itself was a great success .",
+        "after it was over , we all posed for a group photo ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623613552907"
+}

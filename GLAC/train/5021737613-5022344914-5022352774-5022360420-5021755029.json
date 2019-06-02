@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5021737613-5022344914-5022352774-5022360420-5021755029",
+  "photo_sequence_ids": [
+    "5021737613",
+    "5022344914",
+    "5022352774",
+    "5022360420",
+    "5021755029"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the football game was very exciting . the players were very talented . the cheerleaders were very good . the band was great . the marching band was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The football game was very exciting and I had fun. Every player was very talented. The cheerleaders were very entertaining. The band played great. Then the marching band performed at halftime and were amazing.",
+      "normalized_edited_story_text_sent": [
+        "the football game was very exciting and i had fun .",
+        "every player was very talented .",
+        "the cheerleaders were very entertaining .",
+        "the band played great .",
+        "then the marching band performed at halftime and were amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the football game was very exciting including the halftime show . the players were very talented and won the game big . the cheerleaders were very good at dancing . the band was great and played some great sons . the marching band was amazing and got a big cheer .",
+      "normalized_edited_story_text_sent": [
+        "the football game was very exciting including the halftime show .",
+        "the players were very talented and won the game big .",
+        "the cheerleaders were very good at dancing .",
+        "the band was great and played some great sons .",
+        "the marching band was amazing and got a big cheer ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "it was a very exciting night at the high school football game. The players did their best and the marching band and the cheerleaders entertained the crowd. The homecoming queen was even crowned at the game.",
+      "normalized_edited_story_text_sent": [
+        "it was a very exciting night at the high school football game .",
+        "the players did their best and the marching band and the cheerleaders entertained the crowd .",
+        "the homecoming queen was even crowned at the game ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the football game was very exciting . the homecoming king and queen were crowned . the football players were very talented and played tough . the cheerleaders danced and cheered their hearts out . the marching band was amazing . the whole event was super fun .",
+      "normalized_edited_story_text_sent": [
+        "the football game was very exciting .",
+        "the homecoming king and queen were crowned .",
+        "the football players were very talented and played tough .",
+        "the cheerleaders danced and cheered their hearts out .",
+        "the marching band was amazing .",
+        "the whole event was super fun ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the football game was very exciting . the players were very talented . the cheerleaders did a wonderful job . the band was great . the team won their game.",
+      "normalized_edited_story_text_sent": [
+        "the football game was very exciting .",
+        "the players were very talented .",
+        "the cheerleaders did a wonderful job .",
+        "the band was great .",
+        "the team won their game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624903751507",
+  "model": "GLAC"
+}

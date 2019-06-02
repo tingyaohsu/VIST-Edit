@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4259627880-4258872493-4259628638-4258873271-4258873695",
+  "photo_sequence_ids": [
+    "4259627880",
+    "4258872493",
+    "4259628638",
+    "4258873271",
+    "4258873695"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization was a great place to visit . the library was very interesting . the main speaker was the first speaker . the president was a bit nervous . the last thing was the day he was going to be a new project .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The organization was a great place to visit. The library was really interesting. The president was a bit nervous at the beginning of his speech. but he talked about a new project they would be doing.",
+      "normalized_edited_story_text_sent": [
+        "the organization was a great place to visit .",
+        "the library was really interesting .",
+        "the president was a bit nervous at the beginning of his speech .",
+        "but he talked about a new project they would be doing ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the organization organization was a great place to visit . the library was very interesting . the main speaker was the first speaker . the president was a bit nervous . the pretty flowers were on display  .",
+      "normalized_edited_story_text_sent": [
+        "the organization organization was a great place to visit .",
+        "the library was very interesting .",
+        "the main speaker was the first speaker .",
+        "the president was a bit nervous .",
+        "the pretty flowers were on display ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "visiting some old buildings, the lighthouse stood tall, it was old.  Inside was a museum that told the story.  Outside there were flowers planted around the lighthouse.",
+      "normalized_edited_story_text_sent": [
+        "visiting some old buildings , the lighthouse stood tall , it was old .",
+        "inside was a museum that told the story .",
+        "outside there were flowers planted around the lighthouse ."
+      ]
+    },
+    {
+      "worker_id": "A2YTQDLACTLIBA",
+      "edited_story_text": "The organization was a great place to visit.  There were many things to see including the library which was interesting.  There was a presentation by the president who was a little nervous because he was announcing a new project.",
+      "normalized_edited_story_text_sent": [
+        "the organization was a great place to visit .",
+        "there were many things to see including the library which was interesting .",
+        "there was a presentation by the president who was a little nervous because he was announcing a new project ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the lighthouse was a great place to visit . the library was very interesting . the main speaker was the first speaker . the president took pictures.  the flowers were in bloom.",
+      "normalized_edited_story_text_sent": [
+        "the lighthouse was a great place to visit .",
+        "the library was very interesting .",
+        "the main speaker was the first speaker .",
+        "the president took pictures .",
+        "the flowers were in bloom ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623173423580",
+  "model": "GLAC"
+}

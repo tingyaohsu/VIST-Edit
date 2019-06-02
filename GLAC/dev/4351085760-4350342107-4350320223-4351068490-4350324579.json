@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4351085760-4350342107-4350320223-4351068490-4350324579",
+  "photo_sequence_ids": [
+    "4351085760",
+    "4350342107",
+    "4350320223",
+    "4351068490",
+    "4350324579"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the restaurant last week . there were a lot of people there . the buildings were very old . they were all very tall . they were also very big .",
+  "edited_stories": [
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "I went to a fast food restaurant last week.  Many people were there.  When I was in the city I also saw the sites and looked at many tall buildings.",
+      "normalized_edited_story_text_sent": [
+        "i went to a fast food restaurant last week .",
+        "many people were there .",
+        "when i was in the city i also saw the sites and looked at many tall buildings ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we went to the city last week. we had a quick bite to eat, and there were a lot of people there. afterwards, we saw some really old buildings. Some of them were massive!",
+      "normalized_edited_story_text_sent": [
+        "we went to the city last week .",
+        "we had a quick bite to eat , and there were a lot of people there .",
+        "afterwards , we saw some really old buildings .",
+        "some of them were massive !"
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "last week i visited a local restaurant  . the place was a buzz. the buildings, ancient. they had high towering skyscraper elevations nearby. and ones of great dimensions.",
+      "normalized_edited_story_text_sent": [
+        "last week i visited a local restaurant .",
+        "the place was a buzz .",
+        "the buildings , ancient .",
+        "they had high towering skyscraper elevations nearby .",
+        "and ones of great dimensions ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i went to the restaurant last week . there were a lot of people there . the buildings were very old but well built . they were all very tall . the statues were interesting.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were a lot of people there .",
+        "the buildings were very old but well built .",
+        "they were all very tall .",
+        "the statues were interesting ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the restaurant last week. it was a nice time",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "it was a nice time"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623416538636",
+  "model": "GLAC"
+}

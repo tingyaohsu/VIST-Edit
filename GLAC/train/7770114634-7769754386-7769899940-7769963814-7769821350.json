@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "7770114634-7769754386-7769899940-7769963814-7769821350",
+  "photo_sequence_ids": [
+    "7770114634",
+    "7769754386",
+    "7769899940",
+    "7769963814",
+    "7769821350"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be graduating . he was so proud of his accomplishments . he was very excited . he was very proud of his accomplishments . he was a great graduate .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "lisa graduated today! she was so excited. it was so much fun meeting her other friends. it was a day full of excitement and nostalgia.",
+      "normalized_edited_story_text_sent": [
+        "[female] graduated today !",
+        "she was so excited .",
+        "it was so much fun meeting her other friends .",
+        "it was a day full of excitement and nostalgia ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the students were happy to be graduating .",
+      "normalized_edited_story_text_sent": [
+        "the students were happy to be graduating ."
+      ]
+    },
+    {
+      "worker_id": "A1AMGHYG5PT0L2",
+      "edited_story_text": "Lisa was happy to be graduating . She was so proud of her accomplishments . She was very excited .",
+      "normalized_edited_story_text_sent": [
+        "[female] was happy to be graduating .",
+        "she was so proud of her accomplishments .",
+        "she was very excited ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the man was happy to be graduating from college . he was so proud of his accomplishments he just finished . he was very excited to be done with school . he was very proud of his accomplishments and the hard work he did . he was a great graduate and finished top of her class.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be graduating from college .",
+        "he was so proud of his accomplishments he just finished .",
+        "he was very excited to be done with school .",
+        "he was very proud of his accomplishments and the hard work he did .",
+        "he was a great graduate and finished top of her class ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the man was happy to be graduating from college . he was so proud of his grades and many accomplishments . he was very excited to be getting his diploma. he was very proud of his athletic accomplishments at the college . he was a grateful graduate and hugs his mother.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be graduating from college .",
+        "he was so proud of his grades and many accomplishments .",
+        "he was very excited to be getting his diploma .",
+        "he was very proud of his athletic accomplishments at the college .",
+        "he was a grateful graduate and hugs his mother ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631041082404",
+  "model": "GLAC"
+}

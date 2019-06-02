@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "444493974-444502039-444502311-444499900-444902875",
+  "photo_sequence_ids": [
+    "444493974",
+    "444502039",
+    "444502311",
+    "444499900",
+    "444902875"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i got a new recipe for my birthday today . it was very delicious . i also made some bread . the main course was a lot of different pieces . the final product was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i got tried a new for my birthday . the food came out delicious . i also baked bread . the main course was an eclectic mix . the final dessert was the best of the meal .",
+      "normalized_edited_story_text_sent": [
+        "i got tried a new for my birthday .",
+        "the food came out delicious .",
+        "i also baked bread .",
+        "the main course was an eclectic mix .",
+        "the final dessert was the best of the meal ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i got a new recipe for my birthday today . it was very delicious .The vegetables cooked on the stove. There was lots of food. She held up her pillow for the camera.",
+      "normalized_edited_story_text_sent": [
+        "i got a new recipe for my birthday today .",
+        "it was very delicious .",
+        "the vegetables cooked on the stove .",
+        "there was lots of food .",
+        "she held up her pillow for the camera ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i got a new recipe for my birthday today . it was very delicious . i also made some bread . the main course was meat and potatoes recipes . the final product was the best .",
+      "normalized_edited_story_text_sent": [
+        "i got a new recipe for my birthday today .",
+        "it was very delicious .",
+        "i also made some bread .",
+        "the main course was meat and potatoes recipes .",
+        "the final product was the best ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i got a new recipe for my birthday today . it was very delicious . i also made some bread . the main course was a lot of different pieces . she was proud of her pillow art .",
+      "normalized_edited_story_text_sent": [
+        "i got a new recipe for my birthday today .",
+        "it was very delicious .",
+        "i also made some bread .",
+        "the main course was a lot of different pieces .",
+        "she was proud of her pillow art ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad i got a new recipe for my birthday today . it was very delicious . i also made some bread . the main course was a lot of different pieces . the final product was the best .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad i got a new recipe for my birthday today .",
+        "it was very delicious .",
+        "i also made some bread .",
+        "the main course was a lot of different pieces .",
+        "the final product was the best ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600044428041",
+  "model": "GLAC"
+}

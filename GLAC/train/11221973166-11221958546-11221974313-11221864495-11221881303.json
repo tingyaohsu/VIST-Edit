@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "11221973166-11221958546-11221974313-11221864495-11221881303",
+  "photo_sequence_ids": [
+    "11221973166",
+    "11221958546",
+    "11221974313",
+    "11221864495",
+    "11221881303"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "the halloween party was a lot of fun. there were a lot of people dressed up. some of the costumes were very scary. the costumer winner did a great job. i had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "the costumer winner did a great job .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the halloween party was a lot of fun . a lot of people dressed up . some of the costumes were very scary . i had a great time . the winner had an awesome costume.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "i had a great time .",
+        "the winner had an awesome costume ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the Halloween party was a lot of fun due to the cool atmosphere . there were a lot of people dressed up for the holiday . some of the costumes were very scary others were from movies . i had a great time hanging out with all the people. the winner was very good and spent a lot of time on their costume. .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun due to the cool atmosphere .",
+        "there were a lot of people dressed up for the holiday .",
+        "some of the costumes were very scary others were from movies .",
+        "i had a great time hanging out with all the people .",
+        "the winner was very good and spent a lot of time on their costume ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were creative . i had a great time . i will definitely come back to this party again .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were creative .",
+        "i had a great time .",
+        "i will definitely come back to this party again ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the halloween party was a success . there were a lot of people dressed up . some of the costumes were very scary . some even looked professional. it was a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a success .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "some even looked professional .",
+        "it was a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157638379440683",
+  "model": "GLAC"
+}

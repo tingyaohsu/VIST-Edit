@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "8325358-8325436-8332763-8323739-8332949",
+  "photo_sequence_ids": [
+    "8325358",
+    "8325436",
+    "8332763",
+    "8323739",
+    "8332949"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/7/8325358_3a955ea53b_o.jpg",
+    "https://farm1.staticflickr.com/8/8325436_7c8293eaa9_o.jpg",
+    "https://farm1.staticflickr.com/5/8332763_8e8daefd7b_o.jpg",
+    "https://farm1.staticflickr.com/7/8323739_dfdef07f1c_o.jpg",
+    "https://farm1.staticflickr.com/5/8332949_44ab3a80c4_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a lot of people at the parade today . there were a lot of people there . the kids had a lot of fun . some people had a lot to drink . it was a great day for a parade .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "There were a lot of people at the parade today. The kids had a lot of fun. Some people had a lot to drink, but it was a great day for a parade.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the parade today .",
+        "the kids had a lot of fun .",
+        "some people had a lot to drink , but it was a great day for a parade ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "there were a lot of people at the protest today. there were people from the community walking along together. many young people participated. police presence was light. it was a peaceful day for all in attendance.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the protest today .",
+        "there were people from the community walking along together .",
+        "many young people participated .",
+        "police presence was light .",
+        "it was a peaceful day for all in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "there was a lot of people at the parade today. the kids had a lot of fun. some people had a lot to drink. it was very sunny out and a great day for a parade.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of people at the parade today .",
+        "the kids had a lot of fun .",
+        "some people had a lot to drink .",
+        "it was very sunny out and a great day for a parade ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "there was a lot of people at the parade today .the kids had a lot of fun . some people drank a lot . it was a great day for a parade .",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of people at the parade today .",
+        "the kids had a lot of fun .",
+        "some people drank a lot .",
+        "it was a great day for a parade ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "We joined the protest downtown . there were a lot of people there . One man brought his own chair with him . The police maintained order . The downtown protest was organized and well attended .",
+      "normalized_edited_story_text_sent": [
+        "we joined the protest downtown .",
+        "there were a lot of people there .",
+        "one man brought his own chair with him .",
+        "the police maintained order .",
+        "the downtown protest was organized and well attended ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "208690"
+}

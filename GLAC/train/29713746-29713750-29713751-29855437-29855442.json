@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "29713746-29713750-29713751-29855437-29855442",
+  "photo_sequence_ids": [
+    "29713746",
+    "29713750",
+    "29713751",
+    "29855437",
+    "29855442"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the parade . the band was playing and marching . the kids were very excited to be there . the drummers were on the stage . the children were so happy that they could get together .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the crowd gathered for the big parade . the band was playing and marching . the kids were very animated to be there . the drummers were on the stage . the children were so happy that they could get together .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the big parade .",
+        "the band was playing and marching .",
+        "the kids were very animated to be there .",
+        "the drummers were on the stage .",
+        "the children were so happy that they could get together ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "yesterday we joined a crowd for a big parade. there was a marching band that played. we were all very excited to see it. there were men carrying things. all of us were happy we got to spend time together.",
+      "normalized_edited_story_text_sent": [
+        "yesterday we joined a crowd for a big parade .",
+        "there was a marching band that played .",
+        "we were all very excited to see it .",
+        "there were men carrying things .",
+        "all of us were happy we got to spend time together ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the crowd gathered for the parade . the band was playing and marching . the kids were very excited to be there . everyone had a great time. the children were so happy that they could get together .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade .",
+        "the band was playing and marching .",
+        "the kids were very excited to be there .",
+        "everyone had a great time .",
+        "the children were so happy that they could get together ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the crowd gathered for the chinese parade .  . the kids were very excited to be there . the drummers were on the stage . the children were so happy that they could get together .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the chinese parade .",
+        "the kids were very excited to be there .",
+        "the drummers were on the stage .",
+        "the children were so happy that they could get together ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the crowd gathered for the parade . the band was playing and marching . the adults were more excited than the kids to be there . the drummers were on the stage . the friends were happy they could have a drink.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade .",
+        "the band was playing and marching .",
+        "the adults were more excited than the kids to be there .",
+        "the drummers were on the stage .",
+        "the friends were happy they could have a drink ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "667714",
+  "model": "GLAC"
+}

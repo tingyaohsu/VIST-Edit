@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4240809176-4240042721-4240048437-4240058017-4240868044",
+  "photo_sequence_ids": [
+    "4240809176",
+    "4240042721",
+    "4240048437",
+    "4240058017",
+    "4240868044"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2557/4240809176_c6c31654f6_o.jpg",
+    "https://farm5.staticflickr.com/4072/4240042721_5797aa780f_o.jpg",
+    "https://farm5.staticflickr.com/4023/4240048437_4394735522_o.jpg",
+    "https://farm5.staticflickr.com/4017/4240058017_5d57d5ac47_o.jpg",
+    "https://farm5.staticflickr.com/4032/4240868044_79fa0fa3f5_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to a christmas house . there was a fountain in the center of the building . the inside of the building was beautiful . there were a lot of interesting things to see . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "we went to a christmas house . there was a fountain in the center of the building . the inside of the building was beautiful . there were a lot of interesting things to see . i had a great time there  It was very great for me",
+      "normalized_edited_story_text_sent": [
+        "we went to a christmas house .",
+        "there was a fountain in the center of the building .",
+        "the inside of the building was beautiful .",
+        "there were a lot of interesting things to see .",
+        "i had a great time there it was very great for me"
+      ]
+    },
+    {
+      "worker_id": "A1AFCTV7V6P728",
+      "edited_story_text": "We visited a Christmas house. There was a fountain in the center of the building. The inside of the building was beautiful, and there were a lot of interesting things to see. I had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "we visited a christmas house .",
+        "there was a fountain in the center of the building .",
+        "the inside of the building was beautiful , and there were a lot of interesting things to see .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to a Christmas house.  There was a fountain in the center of the building in the courtyard. The inside of the building was beautiful. There were a lot of interesting things to see. I had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to a christmas house .",
+        "there was a fountain in the center of the building in the courtyard .",
+        "the inside of the building was beautiful .",
+        "there were a lot of interesting things to see .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to a christmas house . there was a fountain in the center of the building . the inside of the building was beautiful . there were a lot of interesting things to see and i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to a christmas house .",
+        "there was a fountain in the center of the building .",
+        "the inside of the building was beautiful .",
+        "there were a lot of interesting things to see and i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to a christmas house . there was a fountain in the center of the courtyard. the outside of the building was beautiful . there were a lot of interesting things to see . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to a christmas house .",
+        "there was a fountain in the center of the courtyard .",
+        "the outside of the building was beautiful .",
+        "there were a lot of interesting things to see .",
+        "i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623128165856"
+}

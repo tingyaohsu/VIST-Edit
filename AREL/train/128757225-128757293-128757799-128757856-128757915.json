@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "128757225-128757293-128757799-128757856-128757915",
+  "photo_sequence_ids": [
+    "128757225",
+    "128757293",
+    "128757799",
+    "128757856",
+    "128757915"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/54/128757225_ea4a79a5a2_o.jpg",
+    "https://farm1.staticflickr.com/48/128757293_3c722dcf1c_o.jpg",
+    "https://farm1.staticflickr.com/55/128757799_f0e0e3460a_o.jpg",
+    "https://farm1.staticflickr.com/44/128757856_26a3c95af5_o.jpg",
+    "https://farm1.staticflickr.com/51/128757915_2b8180f816_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last night . we had a lot of fun at the party . there was a lot of delicious food . we went out to celebrate the birthday cake and lit the candles . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "i had a great time at the party last night with my friends.  . there was a lot of delicious food. There were also lots of desert. we went out to celebrate the birthday cake and lit the candles . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night with my friends .",
+        ".",
+        "there was a lot of delicious food .",
+        "there were also lots of desert .",
+        "we went out to celebrate the birthday cake and lit the candles .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I had a great time at the party last night. Lots of fun was had. There was a lot of delicious food. We went out to celebrate. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "lots of fun was had .",
+        "there was a lot of delicious food .",
+        "we went out to celebrate .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i had a great time at the party last night . we had a lot of fun, there was a lot of delicious food. we lit candles to celebrate. overall it was a great night.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "we had a lot of fun , there was a lot of delicious food .",
+        "we lit candles to celebrate .",
+        "overall it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "I had a great time at the party last night.  We had a lot of fun at the party.  There was a lot of delicious food.  There were a lot of friends and family.  We went out to celebrate and lit the candles.  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "we had a lot of fun at the party .",
+        "there was a lot of delicious food .",
+        "there were a lot of friends and family .",
+        "we went out to celebrate and lit the candles .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the party last night . we had a lot of fun at the party . there was a lot of delicious food . we went out to celebrate the birthday cake and lit the candles and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "we had a lot of fun at the party .",
+        "there was a lot of delicious food .",
+        "we went out to celebrate the birthday cake and lit the candles and we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594107464030"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5345583296-5344790579-5345591252-5345605188-5345611580",
+  "photo_sequence_ids": [
+    "5345583296",
+    "5344790579",
+    "5345591252",
+    "5345605188",
+    "5345611580"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5124/5345583296_8bcbf6fd69_o.jpg",
+    "https://farm6.staticflickr.com/5085/5344790579_e9df1acddc_o.jpg",
+    "https://farm6.staticflickr.com/5122/5345591252_aeb00274ce_o.jpg",
+    "https://farm6.staticflickr.com/5206/5345605188_af698be8bf_o.jpg",
+    "https://farm6.staticflickr.com/5287/5345611580_0a814f1372_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . we were all happy to see each other . i also had a lot of money to choose from . we had a great time . it was a great day for all .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "This is where we had the ceremony, we were all happy to see each other. I also got a lot of money as gifts, we all had a great time together and were happy to spend the day there.",
+      "normalized_edited_story_text_sent": [
+        "this is where we had the ceremony , we were all happy to see each other .",
+        "i also got a lot of money as gifts , we all had a great time together and were happy to spend the day there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of the building. We were all so happy to see each other. I had a lot of money to spend, and we had a great time. It was a great day for all of us.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of the building .",
+        "we were all so happy to see each other .",
+        "i had a lot of money to spend , and we had a great time .",
+        "it was a great day for all of us ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "this is a picture of a building where the event happened . we were all happy to see each other and the man of the hour . all of my choices were nothing compared to that ring . we had a great time with the bride. everyone had a great time conversing with each other.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building where the event happened .",
+        "we were all happy to see each other and the man of the hour .",
+        "all of my choices were nothing compared to that ring .",
+        "we had a great time with the bride .",
+        "everyone had a great time conversing with each other ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the wedding was very beautiful. i took a lot of photographs. the groom looked nervous but happy once the ceremony was over. we were all happy to see our friends and family who had come. it was a great day for everyone.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was very beautiful .",
+        "i took a lot of photographs .",
+        "the groom looked nervous but happy once the ceremony was over .",
+        "we were all happy to see our friends and family who had come .",
+        "it was a great day for everyone ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this was a picture of a building . we are all happy to see each other . i also have a lot of money to choose from . we have a great time . it is a great day for all .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a building .",
+        "we are all happy to see each other .",
+        "i also have a lot of money to choose from .",
+        "we have a great time .",
+        "it is a great day for all ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625671844609"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5805904377-5806469750-5805907303-5805912431-5805935457",
+  "photo_sequence_ids": [
+    "5805904377",
+    "5806469750",
+    "5805907303",
+    "5805912431",
+    "5805935457"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2583/5805904377_07b20041fc_o.jpg",
+    "https://farm3.staticflickr.com/2158/5806469750_1c22c74dc5_o.jpg",
+    "https://farm4.staticflickr.com/3131/5805907303_f6ccf756b9_o.jpg",
+    "https://farm3.staticflickr.com/2160/5805912431_571f95bd75_o.jpg",
+    "https://farm4.staticflickr.com/3210/5805935457_2f5db4de17_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to location . this is a picture of a bridge . i had a great time there . the architecture was amazing . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We took a trip to [location]. There was a historical bridge there. I liked the older architecture. We saw an old cathedral with amazing architecture. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to [location] .",
+        "there was a historical bridge there .",
+        "i liked the older architecture .",
+        "we saw an old cathedral with amazing architecture .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we took a trip to Europe . this is a picture of a bridge . i had a great time there wandering the streets. the old architecture was amazing . we had a great time there just enjoying the city.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to europe .",
+        "this is a picture of a bridge .",
+        "i had a great time there wandering the streets .",
+        "the old architecture was amazing .",
+        "we had a great time there just enjoying the city ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "We decided to travel to London . We took photos of the old standing bridges in town . Later we took photos of the houses in town . We had a great time in front of an historical church. The structure was amazing to behold. We retired in a beautiful inn near the town . we had a great day.",
+      "normalized_edited_story_text_sent": [
+        "we decided to travel to london .",
+        "we took photos of the old standing bridges in town .",
+        "later we took photos of the houses in town .",
+        "we had a great time in front of an historical church .",
+        "the structure was amazing to behold .",
+        "we retired in a beautiful inn near the town .",
+        "we had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we took a trip to location . this is a picture of a bridge . this is an old roof . the architecture was amazing . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to location .",
+        "this is a picture of a bridge .",
+        "this is an old roof .",
+        "the architecture was amazing .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We took a trip to an old city, this is a picture of a bridge, and I had a great time there. The architecture was amazing and we all enjoyed sightseeing.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to an old city , this is a picture of a bridge , and i had a great time there .",
+        "the architecture was amazing and we all enjoyed sightseeing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626778373335"
+}

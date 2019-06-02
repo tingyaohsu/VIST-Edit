@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6011707300-6011268647-6012374762-6010708753-6011165607",
+  "photo_sequence_ids": [
+    "6011707300",
+    "6011268647",
+    "6012374762",
+    "6010708753",
+    "6011165607"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very shiny . the yellow car was the most popular . the cars were so big . the blue one was my favorite . the race was about to begin .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "All the cars were really shiny but the yellow car really stood out . I really like the  blue one but all of them were pretty nice.",
+      "normalized_edited_story_text_sent": [
+        "all the cars were really shiny but the yellow car really stood out .",
+        "i really like the blue one but all of them were pretty nice ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The first car I saw was very shiny. the yellow car was the most popular at the event. All of the cars were so big. the blue one was definitely my favorite of all the cars. Here\u0027s where the race was about to begin.",
+      "normalized_edited_story_text_sent": [
+        "the first car i saw was very shiny .",
+        "the yellow car was the most popular at the event .",
+        "all of the cars were so big .",
+        "the blue one was definitely my favorite of all the cars .",
+        "here \u0027s where the race was about to begin ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The cars were lined up on the track. The racing team stood next to the car. The men sat on top of the car at the finish line. The race was great.",
+      "normalized_edited_story_text_sent": [
+        "the cars were lined up on the track .",
+        "the racing team stood next to the car .",
+        "the men sat on top of the car at the finish line .",
+        "the race was great ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Maria were glad the car was very shiny . the yellow car was the most popular . the cars were so big . the blue one was my favorite . the race was about to begin .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the car was very shiny .",
+        "the yellow car was the most popular .",
+        "the cars were so big .",
+        "the blue one was my favorite .",
+        "the race was about to begin ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the cars were very shiny . the red car was the most popular . the cars were so fast. the blue one was my favorite . the race was about to begin .",
+      "normalized_edited_story_text_sent": [
+        "the cars were very shiny .",
+        "the red car was the most popular .",
+        "the cars were so fast .",
+        "the blue one was my favorite .",
+        "the race was about to begin ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627215779095",
+  "model": "GLAC"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "5825628321-5826203924-5826204720-5825648267-5825649497",
+  "photo_sequence_ids": [
+    "5825628321",
+    "5826203924",
+    "5826204720",
+    "5825648267",
+    "5825649497"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was very exciting . the players were very good . they were very good . they had a lot of fun . the teams were very talented .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the soccer game was exciting. The players chased the ball. The kid in red makes his way with the ball on the field.",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was exciting .",
+        "the players chased the ball .",
+        "the kid in red makes his way with the ball on the field ."
+      ]
+    },
+    {
+      "worker_id": "A197GEXK2G2RA",
+      "edited_story_text": "John and David struggled for control during their soccer match - each playing switching possession of the ball. Ultimately, Robert came in and scored for John\u0027s team.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] struggled for control during their soccer match - each playing switching possession of the ball .",
+        "ultimately , [male] came in and scored for [male] \u0027s team ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the soccer game was very exciting . the players were very good and played hard . they were very good at passing . they had a lot of fun even thou it was a competitive game . the teams were very talented and were all all stars .",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was very exciting .",
+        "the players were very good and played hard .",
+        "they were very good at passing .",
+        "they had a lot of fun even thou it was a competitive game .",
+        "the teams were very talented and were all all stars ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the boys\u0027 soccer game was fast-paced and exciting! many boys played their best and had a lot of fun too. The boys were very talented and we had fun watching the game.",
+      "normalized_edited_story_text_sent": [
+        "the boys \u0027 soccer game was fast-paced and exciting !",
+        "many boys played their best and had a lot of fun too .",
+        "the boys were very talented and we had fun watching the game ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "Got to see and exciting soccer game. The teams had really good players. They were quite talented indeed. But they had a blast playing. All in all two quite talented teams.",
+      "normalized_edited_story_text_sent": [
+        "got to see and exciting soccer game .",
+        "the teams had really good players .",
+        "they were quite talented indeed .",
+        "but they had a blast playing .",
+        "all in all two quite talented teams ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626821743987",
+  "model": "GLAC"
+}

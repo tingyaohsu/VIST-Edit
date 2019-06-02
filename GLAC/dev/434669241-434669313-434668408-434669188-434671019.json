@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "434669241-434669313-434668408-434669188-434671019",
+  "photo_sequence_ids": [
+    "434669241",
+    "434669313",
+    "434668408",
+    "434669188",
+    "434671019"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bird was very happy to be in the water . the bird was so cute . the flowers were blooming . the birds were hungry . the flowers were pretty .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the bird was very happy to be in the water . the bird was so cute . the flowers were blooming . the birds were ready to fly . the flowers were pretty .",
+      "normalized_edited_story_text_sent": [
+        "the bird was very happy to be in the water .",
+        "the bird was so cute .",
+        "the flowers were blooming .",
+        "the birds were ready to fly .",
+        "the flowers were pretty ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bird was very happy to be in the water and swim with other birds . the bird was so cute as it flew in the sky. the flowers were blooming and the plants were green . the birds were hungry and tried to find worms to eat . the flowers were pretty and bloomed at the right time .",
+      "normalized_edited_story_text_sent": [
+        "the bird was very happy to be in the water and swim with other birds .",
+        "the bird was so cute as it flew in the sky .",
+        "the flowers were blooming and the plants were green .",
+        "the birds were hungry and tried to find worms to eat .",
+        "the flowers were pretty and bloomed at the right time ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The pictures of nature was very good. The squirrel was eat a nut.  The leafs were very green.",
+      "normalized_edited_story_text_sent": [
+        "the pictures of nature was very good .",
+        "the squirrel was eat a nut .",
+        "the leafs were very green ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the bird was very happy to be in the water . the bird was so cute . the flowers were blooming . the birds were hungry . the flowers were pretty .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the bird was very happy to be in the water .",
+        "the bird was so cute .",
+        "the flowers were blooming .",
+        "the birds were hungry .",
+        "the flowers were pretty ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the insect was on the rock. the plants were beautiful. the squirrel was hungry. the flowers was blooming.",
+      "normalized_edited_story_text_sent": [
+        "the insect was on the rock .",
+        "the plants were beautiful .",
+        "the squirrel was hungry .",
+        "the flowers was blooming ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600027450140",
+  "model": "GLAC"
+}

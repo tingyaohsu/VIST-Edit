@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4947668254-4947079783-4947079919-4947668638-4947080653",
+  "photo_sequence_ids": [
+    "4947668254",
+    "4947079783",
+    "4947079919",
+    "4947668638",
+    "4947080653"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4088/4947668254_cc149c82e1_o.jpg",
+    "https://farm5.staticflickr.com/4117/4947079783_65cd23cd0a_o.jpg",
+    "https://farm5.staticflickr.com/4136/4947079919_359aa57a9e_o.jpg",
+    "https://farm5.staticflickr.com/4091/4947668638_7a8f3c9630_o.jpg",
+    "https://farm5.staticflickr.com/4152/4947080653_015d52714e_o.jpg"
+  ],
+  "auto_story_text_normalized": "the football game was a great game . the players were very hard to win . the crowd was very excited . the players were ready for the game . it was a great game .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the basketball game was great . the players tried very hard to win . the crowd was very excited . the players were ready for the game . it was a great game .",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was great .",
+        "the players tried very hard to win .",
+        "the crowd was very excited .",
+        "the players were ready for the game .",
+        "it was a great game ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "The basketball game was a great game. The cheerleaders were fun to watch. The coach was yelling a lot and was really intense.",
+      "normalized_edited_story_text_sent": [
+        "the basketball game was a great game .",
+        "the cheerleaders were fun to watch .",
+        "the coach was yelling a lot and was really intense ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The football game was very exciting. The cheerleaders supported their teams. The band played to help the crowd feel excited. The crowd cheer as the cheerleaders did their routine. Overall, it was a great game.",
+      "normalized_edited_story_text_sent": [
+        "the football game was very exciting .",
+        "the cheerleaders supported their teams .",
+        "the band played to help the crowd feel excited .",
+        "the crowd cheer as the cheerleaders did their routine .",
+        "overall , it was a great game ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the football game was a great game . the players were very hard to win . the crowd was very excited . the players were ready for the game . it was a great game I love the game",
+      "normalized_edited_story_text_sent": [
+        "the football game was a great game .",
+        "the players were very hard to win .",
+        "the crowd was very excited .",
+        "the players were ready for the game .",
+        "it was a great game i love the game"
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the football game was a wonderful game . the players were very difficult to win . the crowd was exceptionally energized . the players were prepared for the game . it was a incredible game .",
+      "normalized_edited_story_text_sent": [
+        "the football game was a wonderful game .",
+        "the players were very difficult to win .",
+        "the crowd was exceptionally energized .",
+        "the players were prepared for the game .",
+        "it was a incredible game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625082566321"
+}

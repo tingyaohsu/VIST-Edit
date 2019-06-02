@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "1565939996-1565083739-1565093813-1565981998-1565972884",
+  "photo_sequence_ids": [
+    "1565939996",
+    "1565083739",
+    "1565093813",
+    "1565981998",
+    "1565972884"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2144/1565939996_1b5e54bc47_o.jpg",
+    "https://farm3.staticflickr.com/2083/1565083739_ada77a51b5_o.jpg",
+    "https://farm3.staticflickr.com/2014/1565093813_df0ad1ffa6_o.jpg",
+    "https://farm3.staticflickr.com/2116/1565981998_97eaa77a60_o.jpg",
+    "https://farm3.staticflickr.com/2078/1565972884_b04cb5ca0d_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the park to watch the fireworks . it was a lot of fun . there was a lot of snow on the ground . there was a lot of snow on the ground . a lot of people came to the top of the tower .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the park to go for a long walk. it was a lot of fun to be out in nature. there was still some snow on the ground that hadn\u0027t melted yet. we saw a lot of people at the park.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to go for a long walk .",
+        "it was a lot of fun to be out in nature .",
+        "there was still some snow on the ground that had n\u0027t melted yet .",
+        "we saw a lot of people at the park ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Today we went to the park. It was very foggy out and the headlights on the road looked like fireworks. We even saw a spider eating a bumble bee! There were several other people there.",
+      "normalized_edited_story_text_sent": [
+        "today we went to the park .",
+        "it was very foggy out and the headlights on the road looked like fireworks .",
+        "we even saw a spider eating a bumble bee !",
+        "there were several other people there ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the park to watch the fireworks . it was a lot of fun . there was a lot of snow on the ground . there was a lot of snow on the ground and a lot of people came to the top of the tower .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to watch the fireworks .",
+        "it was a lot of fun .",
+        "there was a lot of snow on the ground .",
+        "there was a lot of snow on the ground and a lot of people came to the top of the tower ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we went to the park to watch the fireworks . it was a lot of fun seen the cars pass by on the way to the park . at the park, there was a lot of snow on the ground, but the late wasn\u0027t frozen . the ground was filled with snow, and a tree had fallen in the lake . a lot of people came to the top of the tower, where there was a spider with a hornet in its web .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to watch the fireworks .",
+        "it was a lot of fun seen the cars pass by on the way to the park .",
+        "at the park , there was a lot of snow on the ground , but the late was n\u0027t frozen .",
+        "the ground was filled with snow , and a tree had fallen in the lake .",
+        "a lot of people came to the top of the tower , where there was a spider with a hornet in its web ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to the park to watch the fireworks . we had a lot of fun . there was a lot of snow on the ground . a lot of people came to the top of the tower .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to watch the fireworks .",
+        "we had a lot of fun .",
+        "there was a lot of snow on the ground .",
+        "a lot of people came to the top of the tower ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602410720603"
+}

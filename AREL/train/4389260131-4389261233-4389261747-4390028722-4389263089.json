@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4389260131-4389261233-4389261747-4390028722-4389263089",
+  "photo_sequence_ids": [
+    "4389260131",
+    "4389261233",
+    "4389261747",
+    "4390028722",
+    "4389263089"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2803/4389260131_afe5e0c824_o.jpg",
+    "https://farm3.staticflickr.com/2733/4389261233_1e3c59172a_o.jpg",
+    "https://farm3.staticflickr.com/2688/4389261747_1a406f90eb_o.jpg",
+    "https://farm3.staticflickr.com/2769/4390028722_1287fdaae0_o.jpg",
+    "https://farm5.staticflickr.com/4044/4389263089_2b60ac30dc_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party today . there was a lot of food there . there were many people at the party . it was a great time . they had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the party today. there was a lot of food there, and we all sat down and ate together. there were many people at the party, some of whom i hadn\u0027t seen in a while. the kids also had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today .",
+        "there was a lot of food there , and we all sat down and ate together .",
+        "there were many people at the party , some of whom i had n\u0027t seen in a while .",
+        "the kids also had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AASWAMYQ9PXMQ",
+      "edited_story_text": "We had a great time at the party today. There was a lot of food there. There were many people at the party. There were also costumed characters from kids television shows at the party. The kids enjoyed taking pictures with them.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today .",
+        "there was a lot of food there .",
+        "there were many people at the party .",
+        "there were also costumed characters from kids television shows at the party .",
+        "the kids enjoyed taking pictures with them ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We had a great time at the party today and enjoyed lots of good food. There were many people at the party and it was a great time, everyone had lots of fun!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today and enjoyed lots of good food .",
+        "there were many people at the party and it was a great time , everyone had lots of fun !"
+      ]
+    },
+    {
+      "worker_id": "A1AFCTV7V6P728",
+      "edited_story_text": "We had a great time at the Sesame Street party today. There was plenty of good food there and there were a lot of guests. It was a lot of fun. The kids had a great time meeting their favorite characters.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the sesame street party today .",
+        "there was plenty of good food there and there were a lot of guests .",
+        "it was a lot of fun .",
+        "the kids had a great time meeting their favorite characters ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the party today . there was a lot of food there . there were many people at the party . it was a great time and they had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today .",
+        "there was a lot of food there .",
+        "there were many people at the party .",
+        "it was a great time and they had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623389582731"
+}

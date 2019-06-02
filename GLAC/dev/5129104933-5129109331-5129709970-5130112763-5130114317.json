@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5129104933-5129109331-5129709970-5130112763-5130114317",
+  "photo_sequence_ids": [
+    "5129104933",
+    "5129109331",
+    "5129709970",
+    "5130112763",
+    "5130114317"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of decorations . the pumpkin was very scary . the lights were all lit up . the pumpkins were also carved .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of decorations . the pumpkin was very scary . the lights were all lit up . the housed looked like a haunted house .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of decorations .",
+        "the pumpkin was very scary .",
+        "the lights were all lit up .",
+        "the housed looked like a haunted house ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The Halloween party was a lot of fun.  The house was spectacularly decorated and the pumpkins were amazing lit up at night.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "the house was spectacularly decorated and the pumpkins were amazing lit up at night ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of decorations . the pumpkin was very scary . the lights were all lit up .  they had carved the pumpkin .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of decorations .",
+        "the pumpkin was very scary .",
+        "the lights were all lit up .",
+        "they had carved the pumpkin ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the halloween party drew a fun crowd . there were many decorations . the pumpkin was carved very scary . the lights were illuminating . the pumpkins glowed in the dark .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party drew a fun crowd .",
+        "there were many decorations .",
+        "the pumpkin was carved very scary .",
+        "the lights were illuminating .",
+        "the pumpkins glowed in the dark ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary was glad the halloween party was a lot of fun . there were a lot of decorations . the pumpkin was very scary . the lights were all lit up . the pumpkins were also carved .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the halloween party was a lot of fun .",
+        "there were a lot of decorations .",
+        "the pumpkin was very scary .",
+        "the lights were all lit up .",
+        "the pumpkins were also carved ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625150106939",
+  "model": "GLAC"
+}

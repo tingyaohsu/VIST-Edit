@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1167270301-1167270475-1168126734-1167270917-1168127344",
+  "photo_sequence_ids": [
+    "1167270301",
+    "1167270475",
+    "1168126734",
+    "1167270917",
+    "1168127344"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the mall yesterday . there were a lot of people there . it was a lot of fun . we had a great time . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "ANZR2DCSMD0NX",
+      "edited_story_text": "i went to the mall yesterday and saw a lot of people there. we had a great time and afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went to the mall yesterday and saw a lot of people there .",
+        "we had a great time and afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "i went to the store yesterday to get carbs for my marathon. there were a lot of people at the marathon . it was a lot of fun . we got medals. afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went to the store yesterday to get carbs for my marathon .",
+        "there were a lot of people at the marathon .",
+        "it was a lot of fun .",
+        "we got medals .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the mall yesterday . there were a lot of people there . we had a great time . afterward we all got together for pictures . it was a successful day.",
+      "normalized_edited_story_text_sent": [
+        "i went to the mall yesterday .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "afterward we all got together for pictures .",
+        "it was a successful day ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "yesterday, after eating breakfast, I went to the mall. there were a lot of people there. I joined in a marathon run. it was a lot of fun. we had a great time. after the marathon, we all got together for pictures.",
+      "normalized_edited_story_text_sent": [
+        "yesterday , after eating breakfast , i went to the mall .",
+        "there were a lot of people there .",
+        "i joined in a marathon run .",
+        "it was a lot of fun .",
+        "we had a great time .",
+        "after the marathon , we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i went to the mall yesterday to buy some cereal . there were a lot of people there which caused me to be there longer than i wanted. it was a lot of fun running with my friends . we had a great time at the post race party. afterward we all got together for pictures and had a few drinks.",
+      "normalized_edited_story_text_sent": [
+        "i went to the mall yesterday to buy some cereal .",
+        "there were a lot of people there which caused me to be there longer than i wanted .",
+        "it was a lot of fun running with my friends .",
+        "we had a great time at the post race party .",
+        "afterward we all got together for pictures and had a few drinks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601536678322",
+  "model": "GLAC"
+}

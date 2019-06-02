@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "339659501-339676370-339685786-339685790-346521947",
+  "photo_sequence_ids": [
+    "339659501",
+    "339676370",
+    "339685786",
+    "339685790",
+    "346521947"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing a gig . the crowd was getting ready for the show . the band was rocking . the drummer was very talented . the guitarist played a solo .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The band was playing a gig and the crowd was ready for the show. The band was rocking, the drummer was very talented. The guitarist played a solo.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig and the crowd was ready for the show .",
+        "the band was rocking , the drummer was very talented .",
+        "the guitarist played a solo ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "it was an eventful night. people were shooting a movie.",
+      "normalized_edited_story_text_sent": [
+        "it was an eventful night .",
+        "people were shooting a movie ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the band was playing a big gig . the crowd was getting ready for the giant show . the band was rocking . the drummer was very skilled. the guitarist played a solo .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a big gig .",
+        "the crowd was getting ready for the giant show .",
+        "the band was rocking .",
+        "the drummer was very skilled .",
+        "the guitarist played a solo ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The band was playing a gig. The crowd I was a part of was getting ready for the show. The band was rocking. The drummer was very talented. The guitarist played a solo.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the crowd i was a part of was getting ready for the show .",
+        "the band was rocking .",
+        "the drummer was very talented .",
+        "the guitarist played a solo ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "The band James and I like was playing a gig . The rest of the crowd was getting ready for the performance . The band was rocking and played really well. Jason, the drummer, is very talented .  Mike the guitarist played a couple of solos .",
+      "normalized_edited_story_text_sent": [
+        "the band james and i like was playing a gig .",
+        "the rest of the crowd was getting ready for the performance .",
+        "the band was rocking and played really well .",
+        "jason , the drummer , is very talented .",
+        "mike the guitarist played a couple of solos ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594460777407",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4259628638-4258873271-4258873695-4258874059-4259630164",
+  "photo_sequence_ids": [
+    "4259628638",
+    "4258873271",
+    "4258873695",
+    "4258874059",
+    "4259630164"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2706/4259628638_ec98e887fc_o.jpg",
+    "https://farm5.staticflickr.com/4036/4258873271_5b2c7a93b3_o.jpg",
+    "https://farm5.staticflickr.com/4019/4258873695_d18c24eb9e_o.jpg",
+    "https://farm3.staticflickr.com/2702/4258874059_a39b35b6aa_o.jpg",
+    "https://farm3.staticflickr.com/2694/4259630164_2dc5be82ee_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the art museum today . this is a picture of a building . this is a picture of a building . this is a picture of a building . it was a great day for all of them .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the art museum today to check out the latest exhibit. the art museum itself is a really cool building. Later we got something to eat at a really cool restaurant. It was a fun day.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today to check out the latest exhibit .",
+        "the art museum itself is a really cool building .",
+        "later we got something to eat at a really cool restaurant .",
+        "it was a fun day ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we went to the art museum today . The pictures of the buildings and flowers were beautiful. The architecture design was impressive . it was a great day for us.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "the pictures of the buildings and flowers were beautiful .",
+        "the architecture design was impressive .",
+        "it was a great day for us ."
+      ]
+    },
+    {
+      "worker_id": "A2GKDQGHV5A5TT",
+      "edited_story_text": "we went to the art museum today. There was a man selling homemade snacks outside. I took this picture of an ancient building . this is a picture of the buildings in this city view. this is a picture of another historical building . it was a great day for all of them .",
+      "normalized_edited_story_text_sent": [
+        "we went to the art museum today .",
+        "there was a man selling homemade snacks outside .",
+        "i took this picture of an ancient building .",
+        "this is a picture of the buildings in this city view .",
+        "this is a picture of another historical building .",
+        "it was a great day for all of them ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "he go to the art museum today . this was a picture of a building . this was a picture of a building . this was a picture of a building . it is a great day for all of them .",
+      "normalized_edited_story_text_sent": [
+        "he go to the art museum today .",
+        "this was a picture of a building .",
+        "this was a picture of a building .",
+        "this was a picture of a building .",
+        "it is a great day for all of them ."
+      ]
+    },
+    {
+      "worker_id": "A34VIKOCYAW0F3",
+      "edited_story_text": "We went to the museum today and really enjoyed our time. We took pictures of buildings.",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum today and really enjoyed our time .",
+        "we took pictures of buildings ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623173423580"
+}

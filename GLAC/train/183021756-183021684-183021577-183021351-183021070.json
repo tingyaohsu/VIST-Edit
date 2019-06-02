@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "183021756-183021684-183021577-183021351-183021070",
+  "photo_sequence_ids": [
+    "183021756",
+    "183021684",
+    "183021577",
+    "183021351",
+    "183021070"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom were getting ready for the wedding . the bride and groom were very happy . the ceremony was beautiful . the couple took a picture together . the cake was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The bride and groom took some beautiful pictures together and it was a beautiful day.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom took some beautiful pictures together and it was a beautiful day ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "the bride and groom were getting ready to get married, and took pictures after the ceremony.  the bride and groom were very happy.  The ceremony was very beautiful, and the entire family stayed back to get pictures with the bride and groom.  The cake that the bride and groom cut into was yummy.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready to get married , and took pictures after the ceremony .",
+        "the bride and groom were very happy .",
+        "the ceremony was very beautiful , and the entire family stayed back to get pictures with the bride and groom .",
+        "the cake that the bride and groom cut into was yummy ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "the bride and groom prepared for their wedding . they were giggling with pride and joy . It was such a beautiful ceremony . They took some terrific pictures . the cake even tasted as good as it looked .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom prepared for their wedding .",
+        "they were giggling with pride and joy .",
+        "it was such a beautiful ceremony .",
+        "they took some terrific pictures .",
+        "the cake even tasted as good as it looked ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bride and groom were getting ready for the wedding to begin . the bride and groom were very happy that the weather was good . the ceremony was beautiful without a cloud in the sky. the couple took a picture together to get the party started . the cake was delicious as it was made by the best baker in town .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready for the wedding to begin .",
+        "the bride and groom were very happy that the weather was good .",
+        "the ceremony was beautiful without a cloud in the sky .",
+        "the couple took a picture together to get the party started .",
+        "the cake was delicious as it was made by the best baker in town ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bride and groom were getting ready for the wedding . the ceremony was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready for the wedding .",
+        "the ceremony was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594189042441",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5128809-5128817-5128826-5128846-5129813",
+  "photo_sequence_ids": [
+    "5128809",
+    "5128817",
+    "5128826",
+    "5128846",
+    "5129813"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/4/5128809_51a2aaa083_o.jpg",
+    "https://farm1.staticflickr.com/4/5128817_cad398c837_o.jpg",
+    "https://farm1.staticflickr.com/5/5128826_4879f59536_o.jpg",
+    "https://farm1.staticflickr.com/3/5128846_221063541f_o.jpg",
+    "https://farm1.staticflickr.com/5/5129813_e05478c20d_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends got together for a party . we had a lot of food to eat . everyone was having a great time . some of the people were very happy . everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "a group of friends got together for a party . we had a more food to eat . everybody was having a incredible time . some of the people were very happy . everybody was having a awesome time .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a party .",
+        "we had a more food to eat .",
+        "everybody was having a incredible time .",
+        "some of the people were very happy .",
+        "everybody was having a awesome time ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "a group of friends got together for a party . we had a lot of food to eat, and everyone loved the drinks . everyone was having a great time while taking shots . some of the people were very happy, especially with a little alcohol in their system . everyone was having a great time and really feeling buzzed .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a party .",
+        "we had a lot of food to eat , and everyone loved the drinks .",
+        "everyone was having a great time while taking shots .",
+        "some of the people were very happy , especially with a little alcohol in their system .",
+        "everyone was having a great time and really feeling buzzed ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "a group of my friends got together for a party. we had a lot of food to eat, and we all had a few drinks. everyone was having a great time. we laughed a lot.",
+      "normalized_edited_story_text_sent": [
+        "a group of my friends got together for a party .",
+        "we had a lot of food to eat , and we all had a few drinks .",
+        "everyone was having a great time .",
+        "we laughed a lot ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "a group of friends got together for a party . we had a lot of food to eat . everyone was having a great time . some of the people were very happy . everyone was having a great time it was an amazing day",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a party .",
+        "we had a lot of food to eat .",
+        "everyone was having a great time .",
+        "some of the people were very happy .",
+        "everyone was having a great time it was an amazing day"
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "a group of friends got together for a party . we had a lot of drinks . everyone was having a great time . some of the people were very drunk .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a party .",
+        "we had a lot of drinks .",
+        "everyone was having a great time .",
+        "some of the people were very drunk ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "129154"
+}

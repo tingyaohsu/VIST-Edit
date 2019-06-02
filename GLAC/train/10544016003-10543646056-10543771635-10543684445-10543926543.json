@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "10544016003-10543646056-10543771635-10543684445-10543926543",
+  "photo_sequence_ids": [
+    "10544016003",
+    "10543646056",
+    "10543771635",
+    "10543684445",
+    "10543926543"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . everyone was having a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the halloween party was a lot of fun . a lot of people dressed up . some of the costumes were very scary . everyone was having a great time . the winner was quite creative.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "everyone was having a great time .",
+        "the winner was quite creative ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the halloween party was a blast . there were a lot of people dressed up . some of the costumes were very scary and creative . some kids dressed up as Mario and others were dressed as witches. everyone was having a great time . the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a blast .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary and creative .",
+        "some kids dressed up as mario and others were dressed as witches .",
+        "everyone was having a great time .",
+        "the winner was very good ."
+      ]
+    },
+    {
+      "worker_id": "A2DWSKGD9RNKMJ",
+      "edited_story_text": "the halloween party was super fun . there were a lot of cute costumes. some of the costumes were scary for the little kids. everyone was having a great time . the winner was a handsome superman!\r.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was super fun .",
+        "there were a lot of cute costumes .",
+        "some of the costumes were scary for the little kids .",
+        "everyone was having a great time .",
+        "the winner was a handsome superman !"
+      ]
+    },
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . everyone was having a great time . the winner was very good .\r\rThe Halloween party was so fun!  Everyone had a great time, most people dressed up and the winner of the costume contest was fantastic!",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "everyone was having a great time .",
+        "the winner was very good .",
+        "the halloween party was so fun !",
+        "everyone had a great time , most people dressed up and the winner of the costume contest was fantastic !"
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the halloween party was a lot of fun . all of the kids dressed up . the costumes were very cute . everyone was having a great time . the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "all of the kids dressed up .",
+        "the costumes were very cute .",
+        "everyone was having a great time .",
+        "the winner was very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157637055790775",
+  "model": "GLAC"
+}

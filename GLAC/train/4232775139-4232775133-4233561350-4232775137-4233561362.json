@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4232775139-4232775133-4233561350-4232775137-4233561362",
+  "photo_sequence_ids": [
+    "4232775139",
+    "4232775133",
+    "4233561350",
+    "4232775137",
+    "4233561362"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow covered the roads . the car was covered in snow . the trees were covered with snow . the tree was covered in snow . the house was still standing .",
+  "edited_stories": [
+    {
+      "worker_id": "A7B2Y319WCO02",
+      "edited_story_text": "the snow covered the roads . the car was buried in snow . the trees were heavy with snow . kids play in the snow. the house was still standing .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the car was buried in snow .",
+        "the trees were heavy with snow .",
+        "kids play in the snow .",
+        "the house was still standing ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the snow covered the icy roads and the car was covered in snow . the trees were covered with snow . the tree was covered in snow . the house was still standing .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the icy roads and the car was covered in snow .",
+        "the trees were covered with snow .",
+        "the tree was covered in snow .",
+        "the house was still standing ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "went outside during the snow storm. the snow covered the roads . the car was covered in snow . the trees were covered with snow . the snow had not been disturbed.",
+      "normalized_edited_story_text_sent": [
+        "went outside during the snow storm .",
+        "the snow covered the roads .",
+        "the car was covered in snow .",
+        "the trees were covered with snow .",
+        "the snow had not been disturbed ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The snow covered the roads . The cars lining the street were covered in snow. The trees were heavy with the snow dripping off the branches. The kids built a snowman in the yard. The house had snow all over the roof .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the cars lining the street were covered in snow .",
+        "the trees were heavy with the snow dripping off the branches .",
+        "the kids built a snowman in the yard .",
+        "the house had snow all over the roof ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the snow covered the roads . the car was covered in snow in the street . the trees were covered with snow . The kids made a snowman. It was a great snow day.",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the car was covered in snow in the street .",
+        "the trees were covered with snow .",
+        "the kids made a snowman .",
+        "it was a great snow day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623112594684",
+  "model": "GLAC"
+}

@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "343877260-343881685-343881686-343900147-343900150",
+  "photo_sequence_ids": [
+    "343877260",
+    "343881685",
+    "343881686",
+    "343900147",
+    "343900150"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very nice . the car was parked in the middle of the street . the road was empty . the streets were empty . the man was walking around .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the police blocked the road. the car drove on the road . the road had cars on it . the police followed the car . the man was watching .",
+      "normalized_edited_story_text_sent": [
+        "the police blocked the road .",
+        "the car drove on the road .",
+        "the road had cars on it .",
+        "the police followed the car .",
+        "the man was watching ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the couple took their car and went sight seeing in the town.",
+      "normalized_edited_story_text_sent": [
+        "the couple took their car and went sight seeing in the town ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The police car was blocking the street. Other car cops were on the street. People watched along the side.",
+      "normalized_edited_story_text_sent": [
+        "the police car was blocking the street .",
+        "other car cops were on the street .",
+        "people watched along the side ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "The police car was very nice. The car was parked in the middle of the street. The road was mostly empty. The streets were empty expect for the police. This man was walking around and watching.",
+      "normalized_edited_story_text_sent": [
+        "the police car was very nice .",
+        "the car was parked in the middle of the street .",
+        "the road was mostly empty .",
+        "the streets were empty expect for the police .",
+        "this man was walking around and watching ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "The police car was maneuvering on a busy freeway. Several cars passed by us beneath the over pass and several police cars followed behind. Some people watched the action on the road.",
+      "normalized_edited_story_text_sent": [
+        "the police car was maneuvering on a busy freeway .",
+        "several cars passed by us beneath the over pass and several police cars followed behind .",
+        "some people watched the action on the road ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594456421119",
+  "model": "GLAC"
+}

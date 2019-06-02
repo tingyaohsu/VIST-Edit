@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5818566702-5818566916-5817999775-5818868892-5818567574",
+  "photo_sequence_ids": [
+    "5818566702",
+    "5818566916",
+    "5817999775",
+    "5818868892",
+    "5818567574"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2223/5818566702_2e216066d4_o.jpg",
+    "https://farm3.staticflickr.com/2695/5818566916_e5353dae56_o.jpg",
+    "https://farm4.staticflickr.com/3428/5817999775_d2122212e4_o.jpg",
+    "https://farm3.staticflickr.com/2040/5818868892_52620ae5de_o.jpg",
+    "https://farm6.staticflickr.com/5117/5818567574_b671eee079_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to a soccer game today . the players were getting ready to play . the players were very hard to win . he won the win . after the game , the team was ready to win .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to a sports tournament today. The participants were ready to go. It was a very intense competition for every sport. One man won a swimming race. The tennis player really wanted to win.",
+      "normalized_edited_story_text_sent": [
+        "i went to a sports tournament today .",
+        "the participants were ready to go .",
+        "it was a very intense competition for every sport .",
+        "one man won a swimming race .",
+        "the tennis player really wanted to win ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "i went to a sports tournament today . There was track, jumping, baseball, swimming, and tennis all to watch . the players all tried very hard to win . I had so much fun watching everyone participate in their own sport!",
+      "normalized_edited_story_text_sent": [
+        "i went to a sports tournament today .",
+        "there was track , jumping , baseball , swimming , and tennis all to watch .",
+        "the players all tried very hard to win .",
+        "i had so much fun watching everyone participate in their own sport !"
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to a game today. The players all got ready to play, and they played very hard to win. They did win the game! After that game, the team was ready to win again.",
+      "normalized_edited_story_text_sent": [
+        "i went to a game today .",
+        "the players all got ready to play , and they played very hard to win .",
+        "they did win the game !",
+        "after that game , the team was ready to win again ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "I went to a track meet today. The runners were getting ready to run. They tried very hard to win. After the meet, I watched people swim and play tennis.",
+      "normalized_edited_story_text_sent": [
+        "i went to a track meet today .",
+        "the runners were getting ready to run .",
+        "they tried very hard to win .",
+        "after the meet , i watched people swim and play tennis ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "i went to a multi sport competition today. the players were getting ready to compete in various contests. the players were in great physical condition. a friend surprised us when he won the swim meet. after the warm up the players were ready for some competition.",
+      "normalized_edited_story_text_sent": [
+        "i went to a multi sport competition today .",
+        "the players were getting ready to compete in various contests .",
+        "the players were in great physical condition .",
+        "a friend surprised us when he won the swim meet .",
+        "after the warm up the players were ready for some competition ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626805179777"
+}

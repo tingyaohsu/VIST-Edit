@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "2582417232-2582414424-2581592241-2581594339-2582414024",
+  "photo_sequence_ids": [
+    "2582417232",
+    "2582414424",
+    "2581592241",
+    "2581594339",
+    "2582414024"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3082/2582417232_afe4a45f20_o.jpg",
+    "https://farm4.staticflickr.com/3081/2582414424_9f5a01a287_o.jpg",
+    "https://farm4.staticflickr.com/3092/2581592241_80e35c0840_o.jpg",
+    "https://farm4.staticflickr.com/3104/2581594339_2141d23c71_o.jpg",
+    "https://farm4.staticflickr.com/3012/2582414024_508fff2aff_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a bike ride . he took his bike to the beach . we decided to take a boat ride on the lake . the man is taking a break from the boat . at the end of the day , they were exhausted .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went on a bike ride to the beach. Then we decided to take a boat ride on the lake. At the end of the day, we were both pretty exhausted.",
+      "normalized_edited_story_text_sent": [
+        "we went on a bike ride to the beach .",
+        "then we decided to take a boat ride on the lake .",
+        "at the end of the day , we were both pretty exhausted ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "we went on a bike ride . he took his bike to the beach . we decided to take a boat ride on the lake . the man is taking a break from the boat . at the end of the day , they were exhausted .\r\rWe went on a bike ride today. [Male] took his bike to the beach. We decided to take a boat ride on the lake. Here he is taking a break from the boat. At the end of the day, they were so exhausted.",
+      "normalized_edited_story_text_sent": [
+        "we went on a bike ride .",
+        "he took his bike to the beach .",
+        "we decided to take a boat ride on the lake .",
+        "the man is taking a break from the boat .",
+        "at the end of the day , they were exhausted .",
+        "we went on a bike ride today .",
+        "[male] took his bike to the beach .",
+        "we decided to take a boat ride on the lake .",
+        "here he is taking a break from the boat .",
+        "at the end of the day , they were so exhausted ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went on a bike ride to the beach.  We decided to take a boat ride on the lake.  The boy was so tired from the bike ride.  He fell asleep in the car on the ride back.",
+      "normalized_edited_story_text_sent": [
+        "we went on a bike ride to the beach .",
+        "we decided to take a boat ride on the lake .",
+        "the boy was so tired from the bike ride .",
+        "he fell asleep in the car on the ride back ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went on a bike ride . he took his bike to the beach . we decided to take a boat ride on the lake . the man is taking a break from the boat and at the end of the day , they were exhausted .",
+      "normalized_edited_story_text_sent": [
+        "we went on a bike ride .",
+        "he took his bike to the beach .",
+        "we decided to take a boat ride on the lake .",
+        "the man is taking a break from the boat and at the end of the day , they were exhausted ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "I went on a bike ride . he took his bike to the beach . we decided to take a boat ride on the lake . the man is taking a break from the boat . at the end of the day , they were exhausted and I fell asleep .",
+      "normalized_edited_story_text_sent": [
+        "i went on a bike ride .",
+        "he took his bike to the beach .",
+        "we decided to take a boat ride on the lake .",
+        "the man is taking a break from the boat .",
+        "at the end of the day , they were exhausted and i fell asleep ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157605629519358"
+}

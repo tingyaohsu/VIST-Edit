@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4454539332-4453760201-4454539222-4454539140-4454539104",
+  "photo_sequence_ids": [
+    "4454539332",
+    "4453760201",
+    "4454539222",
+    "4454539140",
+    "4454539104"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was given a speech . he was very proud . he was presented with a medal . he was congratulated by the end of the night .",
+  "edited_stories": [
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "A man was giving a speech. The subject was serious. He wears eye glasses. He had a pin on his lapel. He had silver hair.",
+      "normalized_edited_story_text_sent": [
+        "a man was giving a speech .",
+        "the subject was serious .",
+        "he wears eye glasses .",
+        "he had a pin on his lapel .",
+        "he had silver hair ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the speaker was very interesting.  He has lead a very amazing life. he was presented with a medal at the end of the night, too.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very interesting .",
+        "he has lead a very amazing life .",
+        "he was presented with a medal at the end of the night , too ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The speaker was quite happy and proud to be giving a speech at the event. He was even presented with a medal and before the night was over he had been congratulated.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was quite happy and proud to be giving a speech at the event .",
+        "he was even presented with a medal and before the night was over he had been congratulated ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "There was an elderly gentleman giving a speech. A proud-looking man that carried himself well. At the end of the evening, he was presented a medal, and congratulated for his deeds. He seemed content.",
+      "normalized_edited_story_text_sent": [
+        "there was an elderly gentleman giving a speech .",
+        "a proud-looking man that carried himself well .",
+        "at the end of the evening , he was presented a medal , and congratulated for his deeds .",
+        "he seemed content ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the speaker seemed very happy to be there giving his speech. he was very proud when he was presented with a medal. he was congratulated by everyone the end of the night.",
+      "normalized_edited_story_text_sent": [
+        "the speaker seemed very happy to be there giving his speech .",
+        "he was very proud when he was presented with a medal .",
+        "he was congratulated by everyone the end of the night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623670920286",
+  "model": "GLAC"
+}

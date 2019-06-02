@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "345894487-344869553-344871581-344870673-344874225",
+  "photo_sequence_ids": [
+    "345894487",
+    "344869553",
+    "344871581",
+    "344870673",
+    "344874225"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sign was very tall and nice . the market was full of fresh produce . the store had a variety of different items . the food was delicious . the salad was also very tasty .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the market was full of fresh produce .",
+      "normalized_edited_story_text_sent": [
+        "the market was full of fresh produce ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the sign was very tall and nice . the market was full of fresh produce . the store had a variety of different food items . the food was delicious . the salad was tasty .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very tall and nice .",
+        "the market was full of fresh produce .",
+        "the store had a variety of different food items .",
+        "the food was delicious .",
+        "the salad was tasty ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The sign for the market was big and easy to see. It was full of fresh produce and other different items. The food was delicious, especially the salad.",
+      "normalized_edited_story_text_sent": [
+        "the sign for the market was big and easy to see .",
+        "it was full of fresh produce and other different items .",
+        "the food was delicious , especially the salad ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the sign was drew us into the restaurant.  at the counter, there was a wide variety of food to chose from and a large menu.  desserts were on display also. i ordered a delicious bacon cheeseburger.",
+      "normalized_edited_story_text_sent": [
+        "the sign was drew us into the restaurant .",
+        "at the counter , there was a wide variety of food to chose from and a large menu .",
+        "desserts were on display also .",
+        "i ordered a delicious bacon cheeseburger ."
+      ]
+    },
+    {
+      "worker_id": "A2YTQDLACTLIBA",
+      "edited_story_text": "Outside the market was a very tall sign.  Inside there were a variety of salads and sandwiches which were all delicious. \r There were some other food items available too.",
+      "normalized_edited_story_text_sent": [
+        "outside the market was a very tall sign .",
+        "inside there were a variety of salads and sandwiches which were all delicious .",
+        "there were some other food items available too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594458032284",
+  "model": "GLAC"
+}

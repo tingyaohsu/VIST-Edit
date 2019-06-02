@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4946079883-4946081337-4946081945-4946671908-4946673512",
+  "photo_sequence_ids": [
+    "4946079883",
+    "4946081337",
+    "4946081945",
+    "4946671908",
+    "4946673512"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the big game . the fans were excited to be there . the cheerleaders were very talented . the band was great . the audience was really good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "I heard the clacking of drum sticks that night. It started with the band striking up their instruments, filling the void of the stadium with sound and spectacle. An audience, enamored and enhanced by songs of triumph, cheered once the cheerleaders came out. All of them, performing skillfully precised and well rehearsed routines, were outstanding!",
+      "normalized_edited_story_text_sent": [
+        "i heard the clacking of drum sticks that night .",
+        "it started with the band striking up their instruments , filling the void of the stadium with sound and spectacle .",
+        "an audience , enamored and enhanced by songs of triumph , cheered once the cheerleaders came out .",
+        "all of them , performing skillfully precised and well rehearsed routines , were outstanding !"
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the crowd was ready for the dance marathon . the people were excited to be there . the cheerleaders were very talented . the music was great . the audience was really excited.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the dance marathon .",
+        "the people were excited to be there .",
+        "the cheerleaders were very talented .",
+        "the music was great .",
+        "the audience was really excited ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the crowd was gathered and ready for the big game . the fans were all excited to be there. the cheerleaders performed and they were very talented. the band was great as well. A pretty good audience was in attendance for the game.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was gathered and ready for the big game .",
+        "the fans were all excited to be there .",
+        "the cheerleaders performed and they were very talented .",
+        "the band was great as well .",
+        "a pretty good audience was in attendance for the game ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "big game was on, the crowd couldn\u0027t wait. the fans had showed up and ready to take in the spectacle. the cheerleaders\u0027 top talents showed . the band elevated all of this to heightened pleasures. the audience took it all in friendly spirit.",
+      "normalized_edited_story_text_sent": [
+        "big game was on , the crowd could n\u0027t wait .",
+        "the fans had showed up and ready to take in the spectacle .",
+        "the cheerleaders \u0027 top talents showed .",
+        "the band elevated all of this to heightened pleasures .",
+        "the audience took it all in friendly spirit ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the crowd was ready for the grand performance . fans were bubbling . cheerleaders displayed their talents . the band had a good performance . the audience was really receptive .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the grand performance .",
+        "fans were bubbling .",
+        "cheerleaders displayed their talents .",
+        "the band had a good performance .",
+        "the audience was really receptive ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207418354",
+  "model": "GLAC"
+}

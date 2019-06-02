@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5021737613-5022344914-5022346142-5022346764-5021744021",
+  "photo_sequence_ids": [
+    "5021737613",
+    "5022344914",
+    "5022346142",
+    "5022346764",
+    "5021744021"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4124/5021737613_c5e0a7d58d_o.jpg",
+    "https://farm5.staticflickr.com/4088/5022344914_28dbea380f_o.jpg",
+    "https://farm5.staticflickr.com/4089/5022346142_b1b2a34251_o.jpg",
+    "https://farm5.staticflickr.com/4105/5022346764_e324e981be_o.jpg",
+    "https://farm5.staticflickr.com/4129/5021744021_2ec07516bb_o.jpg"
+  ],
+  "auto_story_text_normalized": "the fans were excited for the game . the players were very excited to be there . the football team is getting ready for the game . the cheerleaders were there to show their support . at the end of the game , the team won .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "It was homecoming. the fans were excited for the game . the players were very excited to be there .  the cheerleaders were there to show their support . at the end of the game , the team won .",
+      "normalized_edited_story_text_sent": [
+        "it was homecoming .",
+        "the fans were excited for the game .",
+        "the players were very excited to be there .",
+        "the cheerleaders were there to show their support .",
+        "at the end of the game , the team won ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The fans were excited for the game, and the players were excited to be there. Here is a picture of the team getting ready for the game, and the cheerleaders showing their support. At the end of the game, the team had won.",
+      "normalized_edited_story_text_sent": [
+        "the fans were excited for the game , and the players were excited to be there .",
+        "here is a picture of the team getting ready for the game , and the cheerleaders showing their support .",
+        "at the end of the game , the team had won ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the fans were excited for the football game. the players were also very excited to get out on the field and play. the cheerleaders were there supporting them. the team won the game.",
+      "normalized_edited_story_text_sent": [
+        "the fans were excited for the football game .",
+        "the players were also very excited to get out on the field and play .",
+        "the cheerleaders were there supporting them .",
+        "the team won the game ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The homecoming king and queen were excited for the game. The cheerleaders were practicing their moves. The cheerleaders showed their support for the team. The fans were there to cheer the team on. In the end, the team won their game.",
+      "normalized_edited_story_text_sent": [
+        "the homecoming king and queen were excited for the game .",
+        "the cheerleaders were practicing their moves .",
+        "the cheerleaders showed their support for the team .",
+        "the fans were there to cheer the team on .",
+        "in the end , the team won their game ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the fans were happy to be at the game . the players were very excited to be there . the flag squad is getting ready for the game . the cheerleaders were there to show their support . at the end of the game , the best team won .",
+      "normalized_edited_story_text_sent": [
+        "the fans were happy to be at the game .",
+        "the players were very excited to be there .",
+        "the flag squad is getting ready for the game .",
+        "the cheerleaders were there to show their support .",
+        "at the end of the game , the best team won ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624903751507"
+}

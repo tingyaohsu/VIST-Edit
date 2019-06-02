@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4373640885-4373640607-4374396660-4374398514-4373644657",
+  "photo_sequence_ids": [
+    "4373640885",
+    "4373640607",
+    "4374396660",
+    "4374398514",
+    "4373644657"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to go to the museum . he saw many interesting things . he also saw a big airplane . he even had a new laptop . he was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the man was excited to go to the museum . he saw many interesting things . he also saw a big airplane . he even had a new laptop . he was very happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the man was excited to go to the museum .",
+        "he saw many interesting things .",
+        "he also saw a big airplane .",
+        "he even had a new laptop .",
+        "he was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the man was excited to go make drinks for the day.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to go make drinks for the day ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the man was excited to go to the museum. he saw many interesting things including a big airplane. he also got a new coffee machine that made him very happy.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to go to the museum .",
+        "he saw many interesting things including a big airplane .",
+        "he also got a new coffee machine that made him very happy ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the man was excited to go to the museum . he saw many interesting things . he also saw a coffee roastery . he finished the day with a cup of coffee.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to go to the museum .",
+        "he saw many interesting things .",
+        "he also saw a coffee roastery .",
+        "he finished the day with a cup of coffee ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the man was carrying his baby and talking to two people . he saw many interesting things like a business . There was an electric oven that was interesting. Another device to make drinks was there as well.  A man poured coffee intently.",
+      "normalized_edited_story_text_sent": [
+        "the man was carrying his baby and talking to two people .",
+        "he saw many interesting things like a business .",
+        "there was an electric oven that was interesting .",
+        "another device to make drinks was there as well .",
+        "a man poured coffee intently ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623351074567",
+  "model": "GLAC"
+}

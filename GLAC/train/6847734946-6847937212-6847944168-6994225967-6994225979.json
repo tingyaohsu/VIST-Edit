@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6847734946-6847937212-6847944168-6994225967-6994225979",
+  "photo_sequence_ids": [
+    "6847734946",
+    "6847937212",
+    "6847944168",
+    "6994225967",
+    "6994225979"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the race was about to begin . the runners were off ! the bikers were neck and neck . the race was very close . the winner was crowned and won !",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the race was about to begin. the bikers were off! the bikers were neck and neck and the race was very close. the winner was finally crowned.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the bikers were off !",
+        "the bikers were neck and neck and the race was very close .",
+        "the winner was finally crowned ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the race was about to begin .The workers looked on. Hey lined up at the starting line. They took off on their motorcycles.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the workers looked on .",
+        "hey lined up at the starting line .",
+        "they took off on their motorcycles ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the race was about to begin . the bikers took pics . the race was very close . the winner crossed the finish line . the winner was crowned and won !",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the bikers took pics .",
+        "the race was very close .",
+        "the winner crossed the finish line .",
+        "the winner was crowned and won !"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the race was almost starting . the bikers soon set off ! the top bikers were neck and neck . the race was wasn\u0027t decided until the end . the winner was proudly crowned !",
+      "normalized_edited_story_text_sent": [
+        "the race was almost starting .",
+        "the bikers soon set off !",
+        "the top bikers were neck and neck .",
+        "the race was was n\u0027t decided until the end .",
+        "the winner was proudly crowned !"
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the race was about to begin . People were holding flags from their countries. the bikers were neck and neck . the race was very close an had a lot of competitors . they started the race close together.",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "people were holding flags from their countries .",
+        "the bikers were neck and neck .",
+        "the race was very close an had a lot of competitors .",
+        "they started the race close together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629613256003",
+  "model": "GLAC"
+}

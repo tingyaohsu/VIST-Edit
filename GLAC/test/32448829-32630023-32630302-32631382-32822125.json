@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "32448829-32630023-32630302-32631382-32822125",
+  "photo_sequence_ids": [
+    "32448829",
+    "32630023",
+    "32630302",
+    "32631382",
+    "32822125"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was very happy to be at the wedding . the groom was ready for the ceremony . the bride and groom were so excited . the man was presented with the sermon . the men were in attendance .",
+  "edited_stories": [
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "My sister was getting married. She was very happy to be at the wedding . Her groom was ready for the ceremony . They were so excited . The priest  presented the sermon . I was there to help. Many people were in attendance .",
+      "normalized_edited_story_text_sent": [
+        "my sister was getting married .",
+        "she was very happy to be at the wedding .",
+        "her groom was ready for the ceremony .",
+        "they were so excited .",
+        "the priest presented the sermon .",
+        "i was there to help .",
+        "many people were in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "Lisa was very happy to be attending the wedding. The groom was ready for the ceremony to begin. Both the bride and groom were so excited to be getting married. John presented the sermon for the ceremony. All of the men were in attendance for the sermon.",
+      "normalized_edited_story_text_sent": [
+        "[female] was very happy to be attending the wedding .",
+        "the groom was ready for the ceremony to begin .",
+        "both the bride and groom were so excited to be getting married .",
+        "[male] presented the sermon for the ceremony .",
+        "all of the men were in attendance for the sermon ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the lady was very happy to be at the wedding of her best friend . the groom was ready for the ceremony and was a little nervous . the bride and groom were so excited they couldn\u0027t stop shaking . the man was presented with the sermon as well as some gifts. the men were in attendance and started a dance party .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the wedding of her best friend .",
+        "the groom was ready for the ceremony and was a little nervous .",
+        "the bride and groom were so excited they could n\u0027t stop shaking .",
+        "the man was presented with the sermon as well as some gifts .",
+        "the men were in attendance and started a dance party ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the lady was very happy to be at the wedding . the groom was ready for the ceremony . the flower girls were so excited . they took pictures.  the woman posed .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the wedding .",
+        "the groom was ready for the ceremony .",
+        "the flower girls were so excited .",
+        "they took pictures .",
+        "the woman posed ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the lady was very happy to be at the wedding . the kneeling groom was ready for the ceremony . the flower girls were so excited . the photographer was snapping pictures . A woman watched as the wedding began .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the wedding .",
+        "the kneeling groom was ready for the ceremony .",
+        "the flower girls were so excited .",
+        "the photographer was snapping pictures .",
+        "a woman watched as the wedding began ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "722094",
+  "model": "GLAC"
+}

@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "23168597-23168771-23168841-23168954-23473996",
+  "photo_sequence_ids": [
+    "23168597",
+    "23168771",
+    "23168841",
+    "23168954",
+    "23473996"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the party last night . there were a lot of people there . they were very good . they were all very happy . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i went to the party last night . there were a lot of people there . the food and drinks were the best. they were all very happy . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "there were a lot of people there .",
+        "the food and drinks were the best .",
+        "they were all very happy .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the party last night . there were a lot of people there . they were very good . they were all very happy . it was a very happening night.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "there were a lot of people there .",
+        "they were very good .",
+        "they were all very happy .",
+        "it was a very happening night ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "i went to the party last night . there were a lot of people there including a guy with a tattoo. He was hot . The band was excellent . they were all very happy . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "there were a lot of people there including a guy with a tattoo .",
+        "he was hot .",
+        "the band was excellent .",
+        "they were all very happy .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "i went to the party last night and we compared tattoo\u0027s. there were a lot of people there and good band. they played very good . Everyone was all very happy . afterward we all got together group pictures outside .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night and we compared tattoo \u0027s .",
+        "there were a lot of people there and good band .",
+        "they played very good .",
+        "everyone was all very happy .",
+        "afterward we all got together group pictures outside ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I went downtown with friends for a show and dinner. The doorman had a fascinating leg tattoo, which helped illustrate the extravagant show to come. After the band we went to a Japanese restaurant with beautiful decor, including hanging lanterns. We had fun getting drunk until we encountered traffic in the streets on our way home.",
+      "normalized_edited_story_text_sent": [
+        "i went downtown with friends for a show and dinner .",
+        "the doorman had a fascinating leg tattoo , which helped illustrate the extravagant show to come .",
+        "after the band we went to a japanese restaurant with beautiful decor , including hanging lanterns .",
+        "we had fun getting drunk until we encountered traffic in the streets on our way home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "533977",
+  "model": "GLAC"
+}

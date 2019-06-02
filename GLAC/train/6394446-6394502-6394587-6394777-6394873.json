@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "6394446-6394502-6394587-6394777-6394873",
+  "photo_sequence_ids": [
+    "6394446",
+    "6394502",
+    "6394587",
+    "6394777",
+    "6394873"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a birthday party . the kids were excited to see the new baby . the boy was very happy . the whole family was there . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the whole family got together for a surprise birthday party . the kids were excited to see their favorite uncle, [David] . [David] was very surprised and happy to see everyone. It was great that the whole family was able to be there . Everyone had fun posing for the group picture.",
+      "normalized_edited_story_text_sent": [
+        "the whole family got together for a surprise birthday party .",
+        "the kids were excited to see their favorite uncle , [male] .",
+        "[male] was very surprised and happy to see everyone .",
+        "it was great that the whole family was able to be there .",
+        "everyone had fun posing for the group picture ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family got together for a birthday party for the kids that had a birthday that month . the kids were excited to see the new baby who was just born . the boy was very happy that he had so many friends . the whole family was there and they all brought gifts . the whole family was there for a few hours.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party for the kids that had a birthday that month .",
+        "the kids were excited to see the new baby who was just born .",
+        "the boy was very happy that he had so many friends .",
+        "the whole family was there and they all brought gifts .",
+        "the whole family was there for a few hours ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family got together for someone\u0027s birthday . the kids were eager to see the new baby . a boy was euphoric . the whole family was in attendance . the whole family was reunited there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for someone \u0027s birthday .",
+        "the kids were eager to see the new baby .",
+        "a boy was euphoric .",
+        "the whole family was in attendance .",
+        "the whole family was reunited there ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family got together for a birthday party . the man was very happy about the cake . the whole family was there . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the man was very happy about the cake .",
+        "the whole family was there .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the family got together for a going-away party . everyone knew they would miss [male] . [male] loved his party cake . the whole family was there . everyone gathered for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a going-away party .",
+        "everyone knew they would miss [male] .",
+        "[male] loved his party cake .",
+        "the whole family was there .",
+        "everyone gathered for a group photo ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "159626",
+  "model": "GLAC"
+}

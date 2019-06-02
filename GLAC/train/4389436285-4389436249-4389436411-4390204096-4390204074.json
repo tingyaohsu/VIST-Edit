@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4389436285-4389436249-4389436411-4390204096-4390204074",
+  "photo_sequence_ids": [
+    "4389436285",
+    "4389436249",
+    "4389436411",
+    "4390204096",
+    "4390204074"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was very proud of his work . he had a great time . he was very excited . he had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The speaker was very happy to be there and he was very proud of his work. He had a great time and he was very excited. The speaker had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there and he was very proud of his work .",
+        "he had a great time and he was very excited .",
+        "the speaker had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "were were at a workshop. we were very excited to be there. the speaker was very proud of his work. we learnt so much from him.",
+      "normalized_edited_story_text_sent": [
+        "were were at a workshop .",
+        "we were very excited to be there .",
+        "the speaker was very proud of his work .",
+        "we learnt so much from him ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "all the speaker was very happy to be there that evening . he also was very proud of his work he had done . he had a great time speaking to every one . he was very excited to tell how he did. he had a great time it lasted two hours .",
+      "normalized_edited_story_text_sent": [
+        "all the speaker was very happy to be there that evening .",
+        "he also was very proud of his work he had done .",
+        "he had a great time speaking to every one .",
+        "he was very excited to tell how he did .",
+        "he had a great time it lasted two hours ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the speaker was very happy to be there . he was very proud of his work . he had a great time . he was very excited . he knew he had his audience .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was very proud of his work .",
+        "he had a great time .",
+        "he was very excited .",
+        "he knew he had his audience ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the speaker was talking . he was very proud of his work . he had a great time . he was very excited . he had a great time explaining the charts.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was talking .",
+        "he was very proud of his work .",
+        "he had a great time .",
+        "he was very excited .",
+        "he had a great time explaining the charts ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623513338444",
+  "model": "GLAC"
+}

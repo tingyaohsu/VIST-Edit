@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "5129104933-5129109331-5129709970-5130112763-5130114317",
+  "photo_sequence_ids": [
+    "5129104933",
+    "5129109331",
+    "5129709970",
+    "5130112763",
+    "5130114317"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1158/5129104933_91e92187b5_o.jpg",
+    "https://farm2.staticflickr.com/1257/5129109331_e89fd68643_o.jpg",
+    "https://farm2.staticflickr.com/1399/5129709970_f343a89061_o.jpg",
+    "https://farm5.staticflickr.com/4001/5130112763_026b89f99f_o.jpg",
+    "https://farm5.staticflickr.com/4022/5130114317_1b2298ef06_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to a pumpkin carving contest . there was a lot of cool things to see . this is a picture of a pumpkin . the house was lit up with christmas lights . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to a pumpkin carving contest . there was a lot of cool things to see . this is a picture of a pumpkin . the house was lit up with jack-o-lanterns . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to a pumpkin carving contest .",
+        "there was a lot of cool things to see .",
+        "this is a picture of a pumpkin .",
+        "the house was lit up with jack-o-lanterns .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went to a pumpkin carving contest . there was a lot of cool things to see . this is a picture of a pumpkin .The house was even decorated spooky . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to a pumpkin carving contest .",
+        "there was a lot of cool things to see .",
+        "this is a picture of a pumpkin .",
+        "the house was even decorated spooky .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to a pumpkin carving contest! There were a lot of cool things to see. Here\u0027s a picture of our pumpkin. The house was lit up with Halloween lights. It was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "we went to a pumpkin carving contest !",
+        "there were a lot of cool things to see .",
+        "here \u0027s a picture of our pumpkin .",
+        "the house was lit up with halloween lights .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to a pumpkin carving contest . there was a lot of cool things to see . this is a picture of a pumpkin that we carved . the house was lit up with halloween lights . it was a lot of fun for us.",
+      "normalized_edited_story_text_sent": [
+        "we went to a pumpkin carving contest .",
+        "there was a lot of cool things to see .",
+        "this is a picture of a pumpkin that we carved .",
+        "the house was lit up with halloween lights .",
+        "it was a lot of fun for us ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went to a special pumpkin carving contest. There were lots of cool pumpkins in the contest. Everyone had unique entries. At night, the pumpkins were lit up and they looked very cool. It was a really fun time.",
+      "normalized_edited_story_text_sent": [
+        "we went to a special pumpkin carving contest .",
+        "there were lots of cool pumpkins in the contest .",
+        "everyone had unique entries .",
+        "at night , the pumpkins were lit up and they looked very cool .",
+        "it was a really fun time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625150106939"
+}

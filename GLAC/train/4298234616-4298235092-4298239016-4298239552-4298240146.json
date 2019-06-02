@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4298234616-4298235092-4298239016-4298239552-4298240146",
+  "photo_sequence_ids": [
+    "4298234616",
+    "4298235092",
+    "4298239016",
+    "4298239552",
+    "4298240146"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old church was a great place to visit . the grounds were beautiful . the buildings were very tall . the statues were interesting . the artwork was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the old church was a great place to visit . the grounds had so much history . the buildings were very tall . the statues were interesting . the artwork was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the grounds had so much history .",
+        "the buildings were very tall .",
+        "the statues were interesting .",
+        "the artwork was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Visited an old church today which was a great place to visit.  The castles were very tall and the artwork very interesting.  Enjoyed all the architecture and views!",
+      "normalized_edited_story_text_sent": [
+        "visited an old church today which was a great place to visit .",
+        "the castles were very tall and the artwork very interesting .",
+        "enjoyed all the architecture and views !"
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the old church was a great place to visit, it was an old castle . the grounds were beautiful you could see this pretty lake from there . the buildings were very tall and made of stone  . the statues were interesting and somebody put this poster board in front of one of them  . the artwork was amazing, I think the words are written in german .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit , it was an old castle .",
+        "the grounds were beautiful you could see this pretty lake from there .",
+        "the buildings were very tall and made of stone .",
+        "the statues were interesting and somebody put this poster board in front of one of them .",
+        "the artwork was amazing , i think the words are written in german ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we visited a terrific old church. it was surrounded by beautiful natural sites. the building were so incredibly tall. there was so much to take in. my favorite was the church\u0027s artwork.",
+      "normalized_edited_story_text_sent": [
+        "we visited a terrific old church .",
+        "it was surrounded by beautiful natural sites .",
+        "the building were so incredibly tall .",
+        "there was so much to take in .",
+        "my favorite was the church \u0027s artwork ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the old church was a great place to visit . the grounds were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the grounds were beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623268567982",
+  "model": "GLAC"
+}

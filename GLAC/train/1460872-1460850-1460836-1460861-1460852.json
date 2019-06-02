@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "1460872-1460850-1460836-1460861-1460852",
+  "photo_sequence_ids": [
+    "1460872",
+    "1460850",
+    "1460836",
+    "1460861",
+    "1460852"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to see his friends . he was so happy that he was able to get the chance . he was very happy with the results . he was the best . he was a great friend .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man was excited to see his friends .We enjoyed guitar music. He posed with Darth Vadar . They played video games . he was the best . he was a great friend .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to see his friends .",
+        "we enjoyed guitar music .",
+        "he posed with darth vadar .",
+        "they played video games .",
+        "he was the best .",
+        "he was a great friend ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the man was excited to see his friends . he was so happy that he was able to get the chance .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to see his friends .",
+        "he was so happy that he was able to get the chance ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the man was excited to see his friends because he hadn\u0027t seen them in a while . he was so happy that he was able to get the chance to finally have some fun . he was very happy with the results of his exam so he could party. he was the best friend  . he was a great friend to anyone who was kind .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to see his friends because he had n\u0027t seen them in a while .",
+        "he was so happy that he was able to get the chance to finally have some fun .",
+        "he was very happy with the results of his exam so he could party .",
+        "he was the best friend .",
+        "he was a great friend to anyone who was kind ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The man was excited to see his friends . He was so happy that he was able to get the chance to play some music. He was very happy to see a friend dressed up. He was the best video game player there. He was a great friend. They left the controllers on the floor when they were done.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to see his friends .",
+        "he was so happy that he was able to get the chance to play some music .",
+        "he was very happy to see a friend dressed up .",
+        "he was the best video game player there .",
+        "he was a great friend .",
+        "they left the controllers on the floor when they were done ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "I was so excited to see my friends. We haven\u0027t been together like this in years. We played a lot of fun games all afternoon. David won almost all of our competitions. He was very happy with himself - what we didn\u0027t know was that it would be the last time we would get to see him...",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to see my friends .",
+        "we have n\u0027t been together like this in years .",
+        "we played a lot of fun games all afternoon .",
+        "[male] won almost all of our competitions .",
+        "he was very happy with himself - what we did n\u0027t know was that it would be the last time we would get to see him ..."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "37246",
+  "model": "GLAC"
+}

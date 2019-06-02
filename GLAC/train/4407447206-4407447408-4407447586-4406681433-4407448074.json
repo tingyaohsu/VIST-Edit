@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4407447206-4407447408-4407447586-4406681433-4407448074",
+  "photo_sequence_ids": [
+    "4407447206",
+    "4407447408",
+    "4407447586",
+    "4406681433",
+    "4407448074"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the art gallery was very creative . the paintings were amazing . some of them were quite detailed . others were just as boring . they were all very interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The Robotech diagram was very detailed.",
+      "normalized_edited_story_text_sent": [
+        "the robotech diagram was very detailed ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the art gallery was very creative and red. the paintings were detailed. some of them were quite detailed . others were just as boring . they were all very interesting .  they were all robots.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very creative and red .",
+        "the paintings were detailed .",
+        "some of them were quite detailed .",
+        "others were just as boring .",
+        "they were all very interesting .",
+        "they were all robots ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The art gallery was very creative and the paintings were amazing. Some of them were quite detailed and others were just as boring. They were all very interesting.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very creative and the paintings were amazing .",
+        "some of them were quite detailed and others were just as boring .",
+        "they were all very interesting ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the art gallery was very creative and was having an event . the paintings were amazing and very unique. some of them were quite detailed with amazing pencil work . others were just as boring as a kids drawing . they were all very interesting and i would go again .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very creative and was having an event .",
+        "the paintings were amazing and very unique .",
+        "some of them were quite detailed with amazing pencil work .",
+        "others were just as boring as a kids drawing .",
+        "they were all very interesting and i would go again ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the art gallery was very creative . the paintings were amazing and some were quite detailed. others were just as boring, but they were all very interesting.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very creative .",
+        "the paintings were amazing and some were quite detailed .",
+        "others were just as boring , but they were all very interesting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623555688218",
+  "model": "GLAC"
+}

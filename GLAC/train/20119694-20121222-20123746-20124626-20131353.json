@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "20119694-20121222-20123746-20124626-20131353",
+  "photo_sequence_ids": [
+    "20119694",
+    "20121222",
+    "20123746",
+    "20124626",
+    "20131353"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people dressed up . some of them were very creative . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun due to going with friends . there were so many people dressed up and danced on the street . some of them were very creative while dancing . i had a great time and danced along . the winner was very good at dancing on one leg.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun due to going with friends .",
+        "there were so many people dressed up and danced on the street .",
+        "some of them were very creative while dancing .",
+        "i had a great time and danced along .",
+        "the winner was very good at dancing on one leg ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the parade was a lot of fun . there were so many people who dressed up . some of the costumes were very creative . i had a great time . the snacks were pretty good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people who dressed up .",
+        "some of the costumes were very creative .",
+        "i had a great time .",
+        "the snacks were pretty good ."
+      ]
+    },
+    {
+      "worker_id": "A2WWDCN2KF1HGN",
+      "edited_story_text": "the parade was a lot of fun. there were so many people dressed up . some of them were very creative and colorful. i had a great time watching the parade and eating treats. the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people dressed up .",
+        "some of them were very creative and colorful .",
+        "i had a great time watching the parade and eating treats .",
+        "the winner was very good ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the parade was a lot of fun . there were many people who dressed up . some of the costumes were very creative . i had a great time . the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many people who dressed up .",
+        "some of the costumes were very creative .",
+        "i had a great time .",
+        "the winner was very good ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The parade was a lot of fun. There were so many people dressed up, and some of them wore very creative costumes. The winner of the costume contest was outstanding. I had a great time at the parade.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people dressed up , and some of them wore very creative costumes .",
+        "the winner of the costume contest was outstanding .",
+        "i had a great time at the parade ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "489485",
+  "model": "GLAC"
+}

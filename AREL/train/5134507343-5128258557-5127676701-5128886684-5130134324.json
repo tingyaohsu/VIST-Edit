@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5134507343-5128258557-5127676701-5128886684-5130134324",
+  "photo_sequence_ids": [
+    "5134507343",
+    "5128258557",
+    "5127676701",
+    "5128886684",
+    "5130134324"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1364/5134507343_091f22f706_o.jpg",
+    "https://farm5.staticflickr.com/4058/5128258557_8205c0e419_o.jpg",
+    "https://farm2.staticflickr.com/1432/5127676701_2d83400218_o.jpg",
+    "https://farm5.staticflickr.com/4091/5128886684_412e9cdd4d_o.jpg",
+    "https://farm5.staticflickr.com/4130/5130134324_c200cacc27_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to my friend \u0027s house yesterday . i had a great time . i bought a lot of cards . she also had a lot of fun playing with it . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "i went to my friend \u0027s house yesterday . We looked up how to make a mask for halloween. It was a lot of fun. i bought a lot of cards . she also had a lot of fun playing with it . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday .",
+        "we looked up how to make a mask for halloween .",
+        "it was a lot of fun .",
+        "i bought a lot of cards .",
+        "she also had a lot of fun playing with it .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AAM0DED1KWUNZ",
+      "edited_story_text": "I went to my friend \u0027s house yesterday and had a great time . I brought a lot of cards. She also had a lot of fun playing cards. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday and had a great time .",
+        "i brought a lot of cards .",
+        "she also had a lot of fun playing cards .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to my friend \u0027s house yesterday . i had a great time . i bought a lot of cards . she also had a lot of fun playing with it and i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday .",
+        "i had a great time .",
+        "i bought a lot of cards .",
+        "she also had a lot of fun playing with it and i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "i go to my friend \u0027s house yesterday . i have a great time . i buy a lot of cards . she also have a lot of fun playing with it . i have a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i go to my friend \u0027s house yesterday .",
+        "i have a great time .",
+        "i buy a lot of cards .",
+        "she also have a lot of fun playing with it .",
+        "i have a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to my friend \u0027s house yesterday. then we went shopping. I bought a card game, and she and i went back to her house and played it. she had a lot of fund and so did i.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s house yesterday .",
+        "then we went shopping .",
+        "i bought a card game , and she and i went back to her house and played it .",
+        "she had a lot of fund and so did i."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625276203234"
+}

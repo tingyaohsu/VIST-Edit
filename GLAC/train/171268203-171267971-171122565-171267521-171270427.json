@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "171268203-171267971-171122565-171267521-171270427",
+  "photo_sequence_ids": [
+    "171268203",
+    "171267971",
+    "171122565",
+    "171267521",
+    "171270427"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for a dinner . the first thing was the turkey . the main course was the chicken . the family enjoyed the meal . the baby was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family gathered for a dinner . the main course was the chicken . the family enjoyed the feast .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a dinner .",
+        "the main course was the chicken .",
+        "the family enjoyed the feast ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family gathered for a dinner to honor America . the first thing was the turkey which was followed by the burgers . the main course was the chicken which was grilled on the BBQ . the family enjoyed the meal as they all talked . the baby was happy that he could swim .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a dinner to honor america .",
+        "the first thing was the turkey which was followed by the burgers .",
+        "the main course was the chicken which was grilled on the bbq .",
+        "the family enjoyed the meal as they all talked .",
+        "the baby was happy that he could swim ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "IT WAS THE 4TH OF JULY AND the family gathered for a COOKOUT. the first thing was the turkey . the main course was the chicken . the family enjoyed the meal . the baby was happy .",
+      "normalized_edited_story_text_sent": [
+        "it was the 4th of july and the family gathered for a cookout .",
+        "the first thing was the turkey .",
+        "the main course was the chicken .",
+        "the family enjoyed the meal .",
+        "the baby was happy ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the family gathered for a Barbecue. the first thing to be done was to cook the chicken which was the chicken . the family enjoyed the meal . the baby was happy .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a barbecue .",
+        "the first thing to be done was to cook the chicken which was the chicken .",
+        "the family enjoyed the meal .",
+        "the baby was happy ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family gathered for BBQ . the first thing was roasting the turkey . the main course was the chicken . the family enjoyed the meal . even the baby was happy .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for bbq .",
+        "the first thing was roasting the turkey .",
+        "the main course was the chicken .",
+        "the family enjoyed the meal .",
+        "even the baby was happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594171836398",
+  "model": "GLAC"
+}

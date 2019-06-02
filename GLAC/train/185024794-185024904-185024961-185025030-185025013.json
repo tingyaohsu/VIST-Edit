@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "185024794-185024904-185024961-185025030-185025013",
+  "photo_sequence_ids": [
+    "185024794",
+    "185024904",
+    "185024961",
+    "185025030",
+    "185025013"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . we had a great time . everyone was very happy . afterward we all went home .",
+  "edited_stories": [
+    {
+      "worker_id": "A7NZ814Q5MX2R",
+      "edited_story_text": "Robert thought it would be funny to wear a leopard print jacket to the party. Robert enjoyed making drinks for many of the people there . John took time out from the party to do his taxes. [male] and [male] began to loosen their ties after a few drinks. after the party, when we all went home, there was quite a bit of clean up to do.",
+      "normalized_edited_story_text_sent": [
+        "[male] thought it would be funny to wear a leopard print jacket to the party .",
+        "[male] enjoyed making drinks for many of the people there .",
+        "[male] took time out from the party to do his taxes .",
+        "[male] and [male] began to loosen their ties after a few drinks .",
+        "after the party , when we all went home , there was quite a bit of clean up to do ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the party last night was a lot of fun . there were a lot of my friends there and we had such a great time . everyone dressed up and we drank red bulls together . afterward we all went home .",
+      "normalized_edited_story_text_sent": [
+        "the party last night was a lot of fun .",
+        "there were a lot of my friends there and we had such a great time .",
+        "everyone dressed up and we drank red bulls together .",
+        "afterward we all went home ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for all those who came . there were a lot of people there which was not a shock . we had a great time dressing up . everyone was very happy that there were lots of drinks . afterward we all went home and went to sleep.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for all those who came .",
+        "there were a lot of people there which was not a shock .",
+        "we had a great time dressing up .",
+        "everyone was very happy that there were lots of drinks .",
+        "afterward we all went home and went to sleep ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . we had a great time . everyone was very joyous. afterward we all went back home .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "everyone was very joyous .",
+        "afterward we all went back home ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "He was ready for the party.  He had a lot of fun making drinks for everyone. Everyone had a lot of fun.  Then it was time to get ready for the big event.  They left evidence of the party behind in the room.",
+      "normalized_edited_story_text_sent": [
+        "he was ready for the party .",
+        "he had a lot of fun making drinks for everyone .",
+        "everyone had a lot of fun .",
+        "then it was time to get ready for the big event .",
+        "they left evidence of the party behind in the room ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594192099361",
+  "model": "GLAC"
+}

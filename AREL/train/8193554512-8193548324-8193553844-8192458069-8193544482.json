@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "8193554512-8193548324-8193553844-8192458069-8193544482",
+  "photo_sequence_ids": [
+    "8193554512",
+    "8193548324",
+    "8193553844",
+    "8192458069",
+    "8193544482"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8342/8193554512_91ff3c8ff6_o.jpg",
+    "https://farm9.staticflickr.com/8345/8193548324_cf92c8caf4_o.jpg",
+    "https://farm9.staticflickr.com/8063/8193553844_c2a05070f2_o.jpg",
+    "https://farm9.staticflickr.com/8340/8192458069_a4017afd07_o.jpg",
+    "https://farm9.staticflickr.com/8068/8193544482_b6f3966ff4_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] was ready to go on a hike . the terrain was so long , but it was hard to get to the top . the views were spectacular . the views were spectacular . finally we got back to the cabin and we were able to get a good view of the snow .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "[male] was excited to go on a hike. the terrain was steep, so it was hard to get to the top. the views were spectacular however. it was well worth it. finally we got back to the cabin and relaxed. we were all exhausted.",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited to go on a hike .",
+        "the terrain was steep , so it was hard to get to the top .",
+        "the views were spectacular however .",
+        "it was well worth it .",
+        "finally we got back to the cabin and relaxed .",
+        "we were all exhausted ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "[male] was all  ready to go on a hike . the terrain seemed pretty long , and it was really hard to get up to the top . the views were spectacular though  . All of the views were amazing.  when we finally got back to the cabin we were able to get a good view of the snow .",
+      "normalized_edited_story_text_sent": [
+        "[male] was all ready to go on a hike .",
+        "the terrain seemed pretty long , and it was really hard to get up to the top .",
+        "the views were spectacular though .",
+        "all of the views were amazing .",
+        "when we finally got back to the cabin we were able to get a good view of the snow ."
+      ]
+    },
+    {
+      "worker_id": "A2OATZCX1YXE77",
+      "edited_story_text": "[male] was ready to go on a hike with a walking stick and gear. the terrain was rugged and challenging with a far distance cover. However, the views were spectacular and made the hard work worth it. We saw mountains and waterfalls. Finally we got back to the cabin in a red pick up truck.",
+      "normalized_edited_story_text_sent": [
+        "[male] was ready to go on a hike with a walking stick and gear .",
+        "the terrain was rugged and challenging with a far distance cover .",
+        "however , the views were spectacular and made the hard work worth it .",
+        "we saw mountains and waterfalls .",
+        "finally we got back to the cabin in a red pick up truck ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "[Steve] was ready to go on a hike . the terrain was so long , but it was hard to get to the top . the views were spectacular . finally he got back to the cabin and was able to get a good view of the snow .",
+      "normalized_edited_story_text_sent": [
+        "[male] was ready to go on a hike .",
+        "the terrain was so long , but it was hard to get to the top .",
+        "the views were spectacular .",
+        "finally he got back to the cabin and was able to get a good view of the snow ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "[male] was ready to go on a hike. The hike was so long, and it was hard to get to the top. The views were spectacular. The mountain view was the most spectacular. Finally we got back to the truck and we were able to get a good view of the surrounding country.",
+      "normalized_edited_story_text_sent": [
+        "[male] was ready to go on a hike .",
+        "the hike was so long , and it was hard to get to the top .",
+        "the views were spectacular .",
+        "the mountain view was the most spectacular .",
+        "finally we got back to the truck and we were able to get a good view of the surrounding country ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632050169766"
+}

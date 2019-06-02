@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "142408086-142408389-142408540-142408647-142409086",
+  "photo_sequence_ids": [
+    "142408086",
+    "142408389",
+    "142408540",
+    "142408647",
+    "142409086"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the event . the first speaker was the director of the group . the main speaker was very passionate . the audience was happy to be there . the man was presented with a speech .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the crowd gathered for the event that was about to start . the first speaker was the director of the group and was well respected . the main speaker was very passionate about the subject he spoke of . the audience was happy to be there and was happy it was free to attend . the man was presented with a speech mic and he stated talking .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event that was about to start .",
+        "the first speaker was the director of the group and was well respected .",
+        "the main speaker was very passionate about the subject he spoke of .",
+        "the audience was happy to be there and was happy it was free to attend .",
+        "the man was presented with a speech mic and he stated talking ."
+      ]
+    },
+    {
+      "worker_id": "A1MKCTVKE7J0ZP",
+      "edited_story_text": "The crowd gathered for the convention. It was an overcast day. Thankfully, the convention was primarily indoors. The people had a lot of fun. They spent time exploring the convention.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the convention .",
+        "it was an overcast day .",
+        "thankfully , the convention was primarily indoors .",
+        "the people had a lot of fun .",
+        "they spent time exploring the convention ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the crowd gathered for the event . the first speaker was the director of the group, who introduced the session by outlining the future for women within the organization . the main speaker was very passionate, and presented some very good points . the audience was happy to be there . the man was presented with a speech .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "the first speaker was the director of the group , who introduced the session by outlining the future for women within the organization .",
+        "the main speaker was very passionate , and presented some very good points .",
+        "the audience was happy to be there .",
+        "the man was presented with a speech ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd gathered for the event . the first speaker was the director of the group . the main speaker was very passionate . the audience was happy to be there . it was a day to remember.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "the first speaker was the director of the group .",
+        "the main speaker was very passionate .",
+        "the audience was happy to be there .",
+        "it was a day to remember ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "Everyone had gathered for the event. There were speaking that spoke at the event, and everyone looked like they were having a great time.",
+      "normalized_edited_story_text_sent": [
+        "everyone had gathered for the event .",
+        "there were speaking that spoke at the event , and everyone looked like they were having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594128484139",
+  "model": "GLAC"
+}

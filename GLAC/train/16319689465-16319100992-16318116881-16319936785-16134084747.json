@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "16319689465-16319100992-16318116881-16319936785-16134084747",
+  "photo_sequence_ids": [
+    "16319689465",
+    "16319100992",
+    "16318116881",
+    "16319936785",
+    "16134084747"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very engaging . he was a bit nervous . he was very passionate . he had a great time . he was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the speakers were very engaging. one speaker was a bit nervous. they were very passionate and greeted guests after speaking. we had a great time. We were very happy.",
+      "normalized_edited_story_text_sent": [
+        "the speakers were very engaging .",
+        "one speaker was a bit nervous .",
+        "they were very passionate and greeted guests after speaking .",
+        "we had a great time .",
+        "we were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "Even thought the speaker was a bit nervous he was very engaging . he was very passionate and happy, I think he had a great time.",
+      "normalized_edited_story_text_sent": [
+        "even thought the speaker was a bit nervous he was very engaging .",
+        "he was very passionate and happy , i think he had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "The speaker was very engaging. He was a bit nervous, but he was also very passionate. He had a great time. He was very happy with the results.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging .",
+        "he was a bit nervous , but he was also very passionate .",
+        "he had a great time .",
+        "he was very happy with the results ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the speaker was very engaging . he was a bit nervous .  but he was very passionate . he had a good time . he seemed very happy .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging .",
+        "he was a bit nervous .",
+        "but he was very passionate .",
+        "he had a good time .",
+        "he seemed very happy ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the speaker was very engaging, and addressed several concerns that the students have regarding the school\u0027s behavior . he was a bit nervous, but made very good points . he was very passionate . he had a great time . he was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging , and addressed several concerns that the students have regarding the school \u0027s behavior .",
+        "he was a bit nervous , but made very good points .",
+        "he was very passionate .",
+        "he had a great time .",
+        "he was very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157650366560532",
+  "model": "GLAC"
+}

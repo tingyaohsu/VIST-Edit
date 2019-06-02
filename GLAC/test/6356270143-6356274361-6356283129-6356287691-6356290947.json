@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "6356270143-6356274361-6356283129-6356287691-6356290947",
+  "photo_sequence_ids": [
+    "6356270143",
+    "6356274361",
+    "6356283129",
+    "6356287691",
+    "6356290947"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the players were ready for the game . the team was getting ready . the white team scored . the goalie was winning . the team was very close .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the soccer players were chasing the ball . the ball went up into the air . one of the blue team went to kick the ball . the other players jumped up . the ball went into goal .",
+      "normalized_edited_story_text_sent": [
+        "the soccer players were chasing the ball .",
+        "the ball went up into the air .",
+        "one of the blue team went to kick the ball .",
+        "the other players jumped up .",
+        "the ball went into goal ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "All the players were warming up for the game. They practiced as the start of the game loomed. The team in white scored a goal. This player was a really good goalie. In the end the scores for both teams was very close.",
+      "normalized_edited_story_text_sent": [
+        "all the players were warming up for the game .",
+        "they practiced as the start of the game loomed .",
+        "the team in white scored a goal .",
+        "this player was a really good goalie .",
+        "in the end the scores for both teams was very close ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the players and team were ready for the game. the white team scored. the goalie was winning. the team was very close.",
+      "normalized_edited_story_text_sent": [
+        "the players and team were ready for the game .",
+        "the white team scored .",
+        "the goalie was winning .",
+        "the team was very close ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the players were ready for the game .The soccer players went for the ball. The players approached the goal.",
+      "normalized_edited_story_text_sent": [
+        "the players were ready for the game .",
+        "the soccer players went for the ball .",
+        "the players approached the goal ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the players were ready for the game . it was a closely contested soccer match.",
+      "normalized_edited_story_text_sent": [
+        "the players were ready for the game .",
+        "it was a closely contested soccer match ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628032301395",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4869383376-4869391472-4869028791-4869399328-4868793735",
+  "photo_sequence_ids": [
+    "4869383376",
+    "4869391472",
+    "4869028791",
+    "4869399328",
+    "4868793735"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4142/4869383376_b98814c134_o.jpg",
+    "https://farm5.staticflickr.com/4138/4869391472_a382abe0cf_o.jpg",
+    "https://farm5.staticflickr.com/4141/4869028791_2a9918d223_o.jpg",
+    "https://farm5.staticflickr.com/4143/4869399328_d3c626312a_o.jpg",
+    "https://farm5.staticflickr.com/4079/4868793735_71ac958479_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park yesterday . the flowers were so beautiful . i had a lot of fun there . this is a picture of flowers . this is a picture of a tree .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to the park yesterday . the flowers were so beautiful . i had a lot of fun there . this is a picture of flowers and here is a picture of a tree.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "the flowers were so beautiful .",
+        "i had a lot of fun there .",
+        "this is a picture of flowers and here is a picture of a tree ."
+      ]
+    },
+    {
+      "worker_id": "A2XOB292ZJ5G6Y",
+      "edited_story_text": "i had fun at the park yesterday. i saw beautiful flowers and trees.",
+      "normalized_edited_story_text_sent": [
+        "i had fun at the park yesterday .",
+        "i saw beautiful flowers and trees ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the park yesterday . the flowers were so beautiful . i had a lot of fun there . this is a picture of flowers . this is a picture of a tree It was very beautiful",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "the flowers were so beautiful .",
+        "i had a lot of fun there .",
+        "this is a picture of flowers .",
+        "this is a picture of a tree it was very beautiful"
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a park yesterday and saw some beautiful flowers.",
+      "normalized_edited_story_text_sent": [
+        "i went to a park yesterday and saw some beautiful flowers ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the park yesterday . the flowers were so beautiful . i had a lot of fun there . this is a picture of flowers and this is a picture of a tree .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "the flowers were so beautiful .",
+        "i had a lot of fun there .",
+        "this is a picture of flowers and this is a picture of a tree ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624549191891"
+}

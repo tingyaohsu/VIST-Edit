@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4741999203-4742518254-4742518298-4742518306-4742560266",
+  "photo_sequence_ids": [
+    "4741999203",
+    "4742518254",
+    "4742518298",
+    "4742518306",
+    "4742560266"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the park . they had a great time learning all the different things . they had a lot of fun playing with the animals . they even got to play a game of basketball . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The kids were excited to be out of the classroom. They had a great time learning all the different things.  They all made their own sandwiches and did some finishing. They had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be out of the classroom .",
+        "they had a great time learning all the different things .",
+        "they all made their own sandwiches and did some finishing .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the kids were excited to be in the park for the first time this school year . they had a great time learning all the different things that the leader taught . they had a lot of fun playing with the animals and fishing on the river . they even got to play a game of basketball with another school . the kids had a great time and it was a great way to start the school year.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the park for the first time this school year .",
+        "they had a great time learning all the different things that the leader taught .",
+        "they had a lot of fun playing with the animals and fishing on the river .",
+        "they even got to play a game of basketball with another school .",
+        "the kids had a great time and it was a great way to start the school year ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The kids had a good time in the park today.  They learned a lot of different things and fished and played with the animals.  They also enjoyed a game of basketball afterwards!  A great day for the kids!",
+      "normalized_edited_story_text_sent": [
+        "the kids had a good time in the park today .",
+        "they learned a lot of different things and fished and played with the animals .",
+        "they also enjoyed a game of basketball afterwards !",
+        "a great day for the kids !"
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The child\u0027s craft day was a lot of fun for the adults and kids.",
+      "normalized_edited_story_text_sent": [
+        "the child \u0027s craft day was a lot of fun for the adults and kids ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be in the park . they had a great  time fishing in the water . they had a lot of fun playing with the animals . they even got to play a game of basketball . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the park .",
+        "they had a great time fishing in the water .",
+        "they had a lot of fun playing with the animals .",
+        "they even got to play a game of basketball .",
+        "the kids had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624251724973",
+  "model": "GLAC"
+}

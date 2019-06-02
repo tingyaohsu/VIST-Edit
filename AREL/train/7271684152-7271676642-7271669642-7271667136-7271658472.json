@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "7271684152-7271676642-7271669642-7271667136-7271658472",
+  "photo_sequence_ids": [
+    "7271684152",
+    "7271676642",
+    "7271669642",
+    "7271667136",
+    "7271658472"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7103/7271684152_944e516eae_o.jpg",
+    "https://farm8.staticflickr.com/7230/7271676642_52eecaedf8_o.jpg",
+    "https://farm9.staticflickr.com/8014/7271669642_e2fabdd789_o.jpg",
+    "https://farm8.staticflickr.com/7079/7271667136_6909b7f303_o.jpg",
+    "https://farm8.staticflickr.com/7240/7271658472_70c27d7fb7_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the halloween party last night . we had a lot of fun at the party . we had a lot of fun . everyone had a great time . a few of them were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "We had a great time at the Halloween party last night. Everyone there had fun!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "everyone there had fun !"
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "we had a incredible time at the halloween party previous night . we had more fun at the party . we had a great deal of fun . everyone had a incredible time . a few of them were having a extraordinary time .",
+      "normalized_edited_story_text_sent": [
+        "we had a incredible time at the halloween party previous night .",
+        "we had more fun at the party .",
+        "we had a great deal of fun .",
+        "everyone had a incredible time .",
+        "a few of them were having a extraordinary time ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "the halloween party was a blast all my friends were there. [Jan] started the night with a cocktail  . several friends took photos in front of a nude mural. [Karen] took a poised with her new boyfriend. everyone was having a good time.  of course, some never moved away from the drinks.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a blast all my friends were there .",
+        "[male] started the night with a cocktail .",
+        "several friends took photos in front of a nude mural .",
+        "[female] took a poised with her new boyfriend .",
+        "everyone was having a good time .",
+        "of course , some never moved away from the drinks ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the Halloween party last night. Everyone had a great time! A few other people had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "everyone had a great time !",
+        "a few other people had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the halloween party last night . everyone had fun .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "everyone had fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629900151022"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4460685193-4461464560-4461469324-4461476084-4461480266",
+  "photo_sequence_ids": [
+    "4460685193",
+    "4461464560",
+    "4461469324",
+    "4461476084",
+    "4461480266"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the restaurant was set up for the wedding . the bride and groom were in the front of the car . the church was beautiful . the tables were decorated with nice decorations . the room was very elegant .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the airport was set up for the wedding . the plane was ready for the bride and groom. the sky was beautiful . the lobby was decorated with nice decorations . the plane was very elegant .",
+      "normalized_edited_story_text_sent": [
+        "the airport was set up for the wedding .",
+        "the plane was ready for the bride and groom .",
+        "the sky was beautiful .",
+        "the lobby was decorated with nice decorations .",
+        "the plane was very elegant ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria told Robert that the restaurant was set up for the wedding . the bride and groom were in the front of the car . the church was beautiful . the tables were decorated with nice decorations . the room was very elegant .",
+      "normalized_edited_story_text_sent": [
+        "[female] told [male] that the restaurant was set up for the wedding .",
+        "the bride and groom were in the front of the car .",
+        "the church was beautiful .",
+        "the tables were decorated with nice decorations .",
+        "the room was very elegant ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the restaurant was nice. There were large seats on the plane. There was a pretty sunset at the airport. We enjoyed the large seats.",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was nice .",
+        "there were large seats on the plane .",
+        "there was a pretty sunset at the airport .",
+        "we enjoyed the large seats ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the business class lounge at the airport was very neat and well stocked. the seat on the plane looked comfortable. the plane was ready to take off. we then arrived at the transit airport. The lounge there was even better with very comfortable sofas. The seats on the next flight were decent.",
+      "normalized_edited_story_text_sent": [
+        "the business class lounge at the airport was very neat and well stocked .",
+        "the seat on the plane looked comfortable .",
+        "the plane was ready to take off .",
+        "we then arrived at the transit airport .",
+        "the lounge there was even better with very comfortable sofas .",
+        "the seats on the next flight were decent ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The restaurant was set up for the wedding. The bride and groom were in front of the car and the church was beautiful. The tables were decorated with nice decorations and the room was very elegant.",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was set up for the wedding .",
+        "the bride and groom were in front of the car and the church was beautiful .",
+        "the tables were decorated with nice decorations and the room was very elegant ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623687984190",
+  "model": "GLAC"
+}

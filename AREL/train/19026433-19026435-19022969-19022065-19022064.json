@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "19026433-19026435-19022969-19022065-19022064",
+  "photo_sequence_ids": [
+    "19026433",
+    "19026435",
+    "19022969",
+    "19022065",
+    "19022064"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/12/19026433_d413fd6a95_o.jpg",
+    "https://farm1.staticflickr.com/13/19026435_4756b5eca0_o.jpg",
+    "https://farm1.staticflickr.com/14/19022969_47137b8ce5_o.jpg",
+    "https://farm1.staticflickr.com/14/19022065_7c4da16257_o.jpg",
+    "https://farm1.staticflickr.com/15/19022064_e676fab55a_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day for a wedding . the bride and groom were very happy . they all had a great time together . after the wedding we all went out to eat . we danced the night away .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "The weather was no nice on the day of the wedding. The bride and groom were ecstatic. They all had so much fun there. After the wedding, we all went  to enjoy some food together. We continued to dance throughout the night.",
+      "normalized_edited_story_text_sent": [
+        "the weather was no nice on the day of the wedding .",
+        "the bride and groom were ecstatic .",
+        "they all had so much fun there .",
+        "after the wedding , we all went to enjoy some food together .",
+        "we continued to dance throughout the night ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "it was a beautiful day for a wedding . the bride and groom were very happy . they all had a great time together . after the wedding we Went to the reception. we danced the night away .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "the bride and groom were very happy .",
+        "they all had a great time together .",
+        "after the wedding we went to the reception .",
+        "we danced the night away ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "It was a beautiful day for a wedding. The bride and groom were very happy. Everyone had a great time together. After the wedding, we all went out to eat. Then we danced the night away.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "the bride and groom were very happy .",
+        "everyone had a great time together .",
+        "after the wedding , we all went out to eat .",
+        "then we danced the night away ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "it was a beautiful day for a wedding . the bride and groom were very happy . we all had a great time together . after the wedding we all went out to eat . we danced the night away .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "the bride and groom were very happy .",
+        "we all had a great time together .",
+        "after the wedding we all went out to eat .",
+        "we danced the night away ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "it was a beautiful day for a wedding . the bride and groom were very happy to be together . all of the family and friends had a great time together . after the wedding we all went out to eat . we danced and sang the night away .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "the bride and groom were very happy to be together .",
+        "all of the family and friends had a great time together .",
+        "after the wedding we all went out to eat .",
+        "we danced and sang the night away ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "447662"
+}

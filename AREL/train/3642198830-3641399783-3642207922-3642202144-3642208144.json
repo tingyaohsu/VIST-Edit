@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "3642198830-3641399783-3642207922-3642202144-3642208144",
+  "photo_sequence_ids": [
+    "3642198830",
+    "3641399783",
+    "3642207922",
+    "3642202144",
+    "3642208144"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3298/3642198830_17fed48a1e_o.jpg",
+    "https://farm4.staticflickr.com/3628/3641399783_622c459c61_o.jpg",
+    "https://farm3.staticflickr.com/2445/3642207922_3074cd26bb_o.jpg",
+    "https://farm3.staticflickr.com/2219/3642202144_dafc241995_o.jpg",
+    "https://farm3.staticflickr.com/2429/3642208144_72f5c8f37e_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last week . she was so excited to be there . the whole family was there to celebrate . they were very happy to be there . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i had a great time at the party last week. she was excited to be there . the whole family was there to celebrate . everyoe was very cheerful. i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "she was excited to be there .",
+        "the whole family was there to celebrate .",
+        "everyoe was very cheerful .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I had a great time at the party last week and she was so excited to be there. The whole family was there to celebrate and see each other. We all enjoyed each other\u0027s company!",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week and she was so excited to be there .",
+        "the whole family was there to celebrate and see each other .",
+        "we all enjoyed each other \u0027s company !"
+      ]
+    },
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "i had a great time at the party last week . she wasn\u0027t excited to be there . the whole family was there to celebrate . they were very happy to be there . i had a great time with my family .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "she was n\u0027t excited to be there .",
+        "the whole family was there to celebrate .",
+        "they were very happy to be there .",
+        "i had a great time with my family ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "I had a great time at the party last week. [Female] was so excited to be there to celebrate with the entire family. They were very happy to be there. I really had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "[female] was so excited to be there to celebrate with the entire family .",
+        "they were very happy to be there .",
+        "i really had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "i had a great time at dinner with the whole family last week",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at dinner with the whole family last week"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157619880943327"
+}

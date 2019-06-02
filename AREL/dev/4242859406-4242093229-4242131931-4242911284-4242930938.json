@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4242859406-4242093229-4242131931-4242911284-4242930938",
+  "photo_sequence_ids": [
+    "4242859406",
+    "4242093229",
+    "4242131931",
+    "4242911284",
+    "4242930938"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4036/4242859406_6a15037b15_o.jpg",
+    "https://farm3.staticflickr.com/2730/4242093229_2a14a6874f_o.jpg",
+    "https://farm5.staticflickr.com/4035/4242131931_62f5117298_o.jpg",
+    "https://farm3.staticflickr.com/2757/4242911284_0d1de600bb_o.jpg",
+    "https://farm5.staticflickr.com/4043/4242930938_099a5103c9_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on vacation last weekend . and , they were on the side of the road . the city is very old . it was a lot of fun . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went on a unique vacation last weekend. I saw some old factory signs. The factory was a building built right on the water. The buildings were old and rusted. It was a unique but fun experience.",
+      "normalized_edited_story_text_sent": [
+        "i went on a unique vacation last weekend .",
+        "i saw some old factory signs .",
+        "the factory was a building built right on the water .",
+        "the buildings were old and rusted .",
+        "it was a unique but fun experience ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went on vacation last weekend to visit a new city. we went down to the docks to see some of the old buildings along the water. the city itself is very old. it was a lot of fun. it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend to visit a new city .",
+        "we went down to the docks to see some of the old buildings along the water .",
+        "the city itself is very old .",
+        "it was a lot of fun .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I went on a great vacation last weekend. Lots of scenic sight seeing. The city is very old. It was a lot of fun. I\u0027m glad I went.",
+      "normalized_edited_story_text_sent": [
+        "i went on a great vacation last weekend .",
+        "lots of scenic sight seeing .",
+        "the city is very old .",
+        "it was a lot of fun .",
+        "i \u0027m glad i went ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went on vacation last weekend . these were on the side of the road . the city is very old . it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend .",
+        "these were on the side of the road .",
+        "the city is very old .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went on vacation last weekend, and there were buildings on the side of the road. The city is very old and it was a lot of fun to see and experience.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend , and there were buildings on the side of the road .",
+        "the city is very old and it was a lot of fun to see and experience ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623132781720"
+}

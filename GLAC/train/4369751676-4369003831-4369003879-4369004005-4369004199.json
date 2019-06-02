@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "4369751676-4369003831-4369003879-4369004005-4369004199",
+  "photo_sequence_ids": [
+    "4369751676",
+    "4369003831",
+    "4369003879",
+    "4369004005",
+    "4369004199"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the costume party was a lot of fun . there were lots of costumes . some of the costumes were very scary . others were also very creative . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "Lisa wanted to be in a lingerie commercial so she took several pictures in various wears.",
+      "normalized_edited_story_text_sent": [
+        "[female] wanted to be in a lingerie commercial so she took several pictures in various wears ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the lingerie party was a lot of fun . there were lots of lingerie . some of the lingerie were very sexy . others were also very creative . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the lingerie party was a lot of fun .",
+        "there were lots of lingerie .",
+        "some of the lingerie were very sexy .",
+        "others were also very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The posed in a white and black outfit. She posed in a red outfit. She posed without her top.",
+      "normalized_edited_story_text_sent": [
+        "the posed in a white and black outfit .",
+        "she posed in a red outfit .",
+        "she posed without her top ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The photoshoot was lots of fun",
+      "normalized_edited_story_text_sent": [
+        "the photoshoot was lots of fun"
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the costume party was a lot of fun . people came in lots of costumes . some of the costumes were very risque . others were  very creative .everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the costume party was a lot of fun .",
+        "people came in lots of costumes .",
+        "some of the costumes were very risque .",
+        "others were very creative .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623339819153",
+  "model": "GLAC"
+}

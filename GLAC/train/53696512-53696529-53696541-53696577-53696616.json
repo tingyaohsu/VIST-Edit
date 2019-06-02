@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "53696512-53696529-53696541-53696577-53696616",
+  "photo_sequence_ids": [
+    "53696512",
+    "53696529",
+    "53696541",
+    "53696577",
+    "53696616"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the plane was ready for the day . the pilot was excited . the captain was given a helicopter . the soldiers were all prepared . the soldier was finally done .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the truck was ready for the day . the driver was excited . the driver was ready to leave . the group was all prepared . the drivers were finally done .",
+      "normalized_edited_story_text_sent": [
+        "the truck was ready for the day .",
+        "the driver was excited .",
+        "the driver was ready to leave .",
+        "the group was all prepared .",
+        "the drivers were finally done ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the truck was ready for the day . the driver was excited . the captain was given a helicopter . the soldiers were all prepared . the soldier was finally done .",
+      "normalized_edited_story_text_sent": [
+        "the truck was ready for the day .",
+        "the driver was excited .",
+        "the captain was given a helicopter .",
+        "the soldiers were all prepared .",
+        "the soldier was finally done ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the driver was ready for a day\u0027s work . the driver was pumped up by coffee . his manager gave him a pep talk . the workers were all prepared . the driver was finally finished .",
+      "normalized_edited_story_text_sent": [
+        "the driver was ready for a day \u0027s work .",
+        "the driver was pumped up by coffee .",
+        "his manager gave him a pep talk .",
+        "the workers were all prepared .",
+        "the driver was finally finished ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The convoy was lined up on the rainy road. The drivers had their documentation. Everyone posed for a group picture. Robert, John, and David posed for a photo in front of John\u0027s truck.",
+      "normalized_edited_story_text_sent": [
+        "the convoy was lined up on the rainy road .",
+        "the drivers had their documentation .",
+        "everyone posed for a group picture .",
+        "[male] , [male] , and [male] posed for a photo in front of [male] \u0027s truck ."
+      ]
+    },
+    {
+      "worker_id": "A2LH2CAU6CXVW",
+      "edited_story_text": "The truck was packed and ready for the journey.  The driver was excited to make the trip.  The driver was given instructions by his supervisor.  The team was prepared for the project ahead.  And, it was time to take off!",
+      "normalized_edited_story_text_sent": [
+        "the truck was packed and ready for the journey .",
+        "the driver was excited to make the trip .",
+        "the driver was given instructions by his supervisor .",
+        "the team was prepared for the project ahead .",
+        "and , it was time to take off !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1164233",
+  "model": "GLAC"
+}

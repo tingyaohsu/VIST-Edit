@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4319455817-4320182786-4319450901-4319452497-4319453925",
+  "photo_sequence_ids": [
+    "4319455817",
+    "4320182786",
+    "4319450901",
+    "4319452497",
+    "4319453925"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the farm . they had a lot of fun . they had a great time . they got to play with the kids . they also had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A31GERKX2SZETD",
+      "edited_story_text": "The family drove to their relatives home in a nice neighborhood. They had a lot of fun.  There were children and adults.  Family was juggling for the kids. The kids enjoyed it.",
+      "normalized_edited_story_text_sent": [
+        "the family drove to their relatives home in a nice neighborhood .",
+        "they had a lot of fun .",
+        "there were children and adults .",
+        "family was juggling for the kids .",
+        "the kids enjoyed it ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went to the farm . they had a lot of fun . they had a great time . they got to play with the kids . the kids ran around .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farm .",
+        "they had a lot of fun .",
+        "they had a great time .",
+        "they got to play with the kids .",
+        "the kids ran around ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the road looked deserted but beautiful. Lisa and Mary had a lot of fun.  Maria was juggling balls with her friend . they had a great time . they got to play with the kids .",
+      "normalized_edited_story_text_sent": [
+        "the road looked deserted but beautiful .",
+        "[female] and [female] had a lot of fun .",
+        "[female] was juggling balls with her friend .",
+        "they had a great time .",
+        "they got to play with the kids ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "i went to my relatives\u0027 neighborhood for a visit this weekend. it was always fun to see my fun-loving cousins. everyone was trying to learn how to juggle, just for fun. my aunt mary started to get the hang of it. my aunt maria wasn\u0027t as good at it, however.",
+      "normalized_edited_story_text_sent": [
+        "i went to my relatives \u0027 neighborhood for a visit this weekend .",
+        "it was always fun to see my fun-loving cousins .",
+        "everyone was trying to learn how to juggle , just for fun .",
+        "my aunt [female] started to get the hang of it .",
+        "my aunt [female] was n\u0027t as good at it , however ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family went to the farm for the first time that season. they had a lot of fun in the kitchen. they had a great time looking up at the sky . they got to play with the kids and relax a little . they also had a good time when they drove home.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farm for the first time that season .",
+        "they had a lot of fun in the kitchen .",
+        "they had a great time looking up at the sky .",
+        "they got to play with the kids and relax a little .",
+        "they also had a good time when they drove home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623322062438",
+  "model": "GLAC"
+}

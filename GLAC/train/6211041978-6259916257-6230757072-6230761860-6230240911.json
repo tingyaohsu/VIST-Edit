@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6211041978-6259916257-6230757072-6230761860-6230240911",
+  "photo_sequence_ids": [
+    "6211041978",
+    "6259916257",
+    "6230757072",
+    "6230761860",
+    "6230240911"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the meeting was a success . the audience was very excited . the speaker was very motivational . he had a great time . he was a bit nervous .",
+  "edited_stories": [
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the meeting was a success . a lot of business leaders got together with each other. the speaker was very motivational . he had a great time but i could tell he was a bit nervous . his speech was great though",
+      "normalized_edited_story_text_sent": [
+        "the meeting was a success .",
+        "a lot of business leaders got together with each other .",
+        "the speaker was very motivational .",
+        "he had a great time but i could tell he was a bit nervous .",
+        "his speech was great though"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the meeting was a success . the audience was very excited . the speaker was very motivational . he had a great time . he was a bit nervous .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the meeting was a success .",
+        "the audience was very excited .",
+        "the speaker was very motivational .",
+        "he had a great time .",
+        "he was a bit nervous ."
+      ]
+    },
+    {
+      "worker_id": "A6N1OQ1G78GLB",
+      "edited_story_text": "The meeting was a success . The audience was very excited about the motivational speaker.  The speaker was a bit nervous, but he had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was a success .",
+        "the audience was very excited about the motivational speaker .",
+        "the speaker was a bit nervous , but he had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the meeting achieved its objectives . the audience was energetic . the speaker was mesmerizing . he had fun performing . he was a bit nervous at first, though .",
+      "normalized_edited_story_text_sent": [
+        "the meeting achieved its objectives .",
+        "the audience was energetic .",
+        "the speaker was mesmerizing .",
+        "he had fun performing .",
+        "he was a bit nervous at first , though ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The meeting was a success. Everyone posed outside for pictures. They did an interview. The day was a success.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was a success .",
+        "everyone posed outside for pictures .",
+        "they did an interview .",
+        "the day was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627815812442",
+  "model": "GLAC"
+}

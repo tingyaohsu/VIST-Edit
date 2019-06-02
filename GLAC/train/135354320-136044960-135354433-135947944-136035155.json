@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "135354320-136044960-135354433-135947944-136035155",
+  "photo_sequence_ids": [
+    "135354320",
+    "136044960",
+    "135354433",
+    "135947944",
+    "136035155"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old building was very tall . the view was amazing . the buildings were so beautiful . the horses were also pretty . the bridge was a great place to visit .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Great day and views! the old building was very tall . the view was amazing . the buildings were so beautiful . the bridge was a great sight to see.",
+      "normalized_edited_story_text_sent": [
+        "great day and views !",
+        "the old building was very tall .",
+        "the view was amazing .",
+        "the buildings were so beautiful .",
+        "the bridge was a great sight to see ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the old church was very tall . the river was very calm and the view was amazing . the buildings and scenery were all so beautiful . the bridges were also pretty . the bridge was our favorite place to visit .",
+      "normalized_edited_story_text_sent": [
+        "the old church was very tall .",
+        "the river was very calm and the view was amazing .",
+        "the buildings and scenery were all so beautiful .",
+        "the bridges were also pretty .",
+        "the bridge was our favorite place to visit ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the old architecture was very awe inspiring. the view of the lake was amazing . the houses were so charming. the gator statue was pretty cool. the bridges were great places to visit .",
+      "normalized_edited_story_text_sent": [
+        "the old architecture was very awe inspiring .",
+        "the view of the lake was amazing .",
+        "the houses were so charming .",
+        "the gator statue was pretty cool .",
+        "the bridges were great places to visit ."
+      ]
+    },
+    {
+      "worker_id": "A2K2S0P331IZHL",
+      "edited_story_text": "This beautiful old building was so tall! What a great view! All the buildings were so attractive. The horses were amazing! This bridge was such a nice place to visit!",
+      "normalized_edited_story_text_sent": [
+        "this beautiful old building was so tall !",
+        "what a great view !",
+        "all the buildings were so attractive .",
+        "the horses were amazing !",
+        "this bridge was such a nice place to visit !"
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "on my tour of historic stuctures, one old building was very tall and impressive. the surrounding views were amazing. the nearby streets and buildings were so beautiful. all of the scenery was just breathtaking. one of the highlights was the recently remodeled bridge.",
+      "normalized_edited_story_text_sent": [
+        "on my tour of historic stuctures , one old building was very tall and impressive .",
+        "the surrounding views were amazing .",
+        "the nearby streets and buildings were so beautiful .",
+        "all of the scenery was just breathtaking .",
+        "one of the highlights was the recently remodeled bridge ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594117511166",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4459852419-4459852549-4459852765-4459852863-4460631402",
+  "photo_sequence_ids": [
+    "4459852419",
+    "4459852549",
+    "4459852765",
+    "4459852863",
+    "4460631402"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the museum had many interesting artifacts . the exhibits were very detailed . the paintings were amazing . the artwork was great . the art was so good .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the museum had many interesting artifacts and old fashioned posters . the exhibits were very detailed and filled with old displays of doctor offices . the paintings showing off equipment were amazing . the artwork was interesting and well done . the art for the medicine was so good .",
+      "normalized_edited_story_text_sent": [
+        "the museum had many interesting artifacts and old fashioned posters .",
+        "the exhibits were very detailed and filled with old displays of doctor offices .",
+        "the paintings showing off equipment were amazing .",
+        "the artwork was interesting and well done .",
+        "the art for the medicine was so good ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the museum had many interesting and detailed artifacts. the paintings were amazing. the artwork was great.",
+      "normalized_edited_story_text_sent": [
+        "the museum had many interesting and detailed artifacts .",
+        "the paintings were amazing .",
+        "the artwork was great ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the museum had many interesting artifacts . the exhibits were very detailed . the handouts were amazing . the artwork was great . the spoons were neat .",
+      "normalized_edited_story_text_sent": [
+        "the museum had many interesting artifacts .",
+        "the exhibits were very detailed .",
+        "the handouts were amazing .",
+        "the artwork was great .",
+        "the spoons were neat ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the museum had many interesting artifacts as well as some articles . the exhibits were very detailed and took a while to read . the paintings were amazing and required a lot of detail . the artwork was great and very colorful . the art was so good and unique.",
+      "normalized_edited_story_text_sent": [
+        "the museum had many interesting artifacts as well as some articles .",
+        "the exhibits were very detailed and took a while to read .",
+        "the paintings were amazing and required a lot of detail .",
+        "the artwork was great and very colorful .",
+        "the art was so good and unique ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the museum had many interesting artifacts . the exhibits were very detailed .There were lots of old prints. We saw old advertisements as well.",
+      "normalized_edited_story_text_sent": [
+        "the museum had many interesting artifacts .",
+        "the exhibits were very detailed .",
+        "there were lots of old prints .",
+        "we saw old advertisements as well ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623566889139",
+  "model": "GLAC"
+}

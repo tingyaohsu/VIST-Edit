@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "15221234241-15037747857-15037746997-15223945162-15037628670",
+  "photo_sequence_ids": [
+    "15221234241",
+    "15037747857",
+    "15037746997",
+    "15223945162",
+    "15037628670"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was full of people . there were many different things to choose from . the kids were having a great time . they were all very happy . the children were also in the spirit .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the office was stacked with people . there were many different things to choose from . the kids were having a great time . they were all very excited . it was a very festive atmosphere .",
+      "normalized_edited_story_text_sent": [
+        "the office was stacked with people .",
+        "there were many different things to choose from .",
+        "the kids were having a great time .",
+        "they were all very excited .",
+        "it was a very festive atmosphere ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the store was full of people. there were many different things to choose from . the kids were having a great time , every one was in the spirit and very happy.",
+      "normalized_edited_story_text_sent": [
+        "the store was full of people .",
+        "there were many different things to choose from .",
+        "the kids were having a great time , every one was in the spirit and very happy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We had a great time at the Pokemon store . there were many different things to choose from . the kids posed for pictures . they were all very happy . We enjoyed the presentation too.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the pokemon store .",
+        "there were many different things to choose from .",
+        "the kids posed for pictures .",
+        "they were all very happy .",
+        "we enjoyed the presentation too ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "It was madness over Pokemon for everyone at the game booth.",
+      "normalized_edited_story_text_sent": [
+        "it was madness over pokemon for everyone at the game booth ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "the office was full of people . there were many different things to choose from.  There were toys, and there as food. The stuffed animals were plenty.  All of the kids were taking pictures and having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the office was full of people .",
+        "there were many different things to choose from .",
+        "there were toys , and there as food .",
+        "the stuffed animals were plenty .",
+        "all of the kids were taking pictures and having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157647537163181",
+  "model": "GLAC"
+}

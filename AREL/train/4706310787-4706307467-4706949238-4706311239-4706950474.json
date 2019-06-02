@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4706310787-4706307467-4706949238-4706311239-4706950474",
+  "photo_sequence_ids": [
+    "4706310787",
+    "4706307467",
+    "4706949238",
+    "4706311239",
+    "4706950474"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1305/4706310787_dff96c0e56_o.jpg",
+    "https://farm2.staticflickr.com/1301/4706307467_f8b51826c9_o.jpg",
+    "https://farm5.staticflickr.com/4007/4706949238_4f7e4b68e5_o.jpg",
+    "https://farm5.staticflickr.com/4006/4706311239_81c213caa1_o.jpg",
+    "https://farm2.staticflickr.com/1288/4706950474_4ed59fc25c_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day of the big game . the players were excited for the game to start . it was a very exciting game . the game was very intense . the players were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "today the girls were ready for their championship game. the girls were on the field ready to play. all the girls had written their own names on their shirts. the girls played hard. each girl gave her best. the referees were classmates. it was great game.",
+      "normalized_edited_story_text_sent": [
+        "today the girls were ready for their championship game .",
+        "the girls were on the field ready to play .",
+        "all the girls had written their own names on their shirts .",
+        "the girls played hard .",
+        "each girl gave her best .",
+        "the referees were classmates .",
+        "it was great game ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "today was the day of the big game . the players were excited for the game to start . it was a very exciting game and the game was very intense . the players were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big game .",
+        "the players were excited for the game to start .",
+        "it was a very exciting game and the game was very intense .",
+        "the players were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "today was the day of the big game . the players were excited for the game to start . it was a very exciting game . the game was very intense . the players were very happy to be there  It is very good for everyone",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big game .",
+        "the players were excited for the game to start .",
+        "it was a very exciting game .",
+        "the game was very intense .",
+        "the players were very happy to be there it is very good for everyone"
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "Today was the day of the big game. The players were excited for the game to start. It was a very exciting game. The game was very intense, and the players were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big game .",
+        "the players were excited for the game to start .",
+        "it was a very exciting game .",
+        "the game was very intense , and the players were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "today was the day of the big flag football game. the players were excited. it was a very good game. the game was intense and very competitive. the winning team definitely fought hard for their victory.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big flag football game .",
+        "the players were excited .",
+        "it was a very good game .",
+        "the game was intense and very competitive .",
+        "the winning team definitely fought hard for their victory ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624289348266"
+}

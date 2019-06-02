@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4946129225-4946129617-4946720048-4946132173-4946134091",
+  "photo_sequence_ids": [
+    "4946129225",
+    "4946129617",
+    "4946720048",
+    "4946132173",
+    "4946134091"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4083/4946129225_07c757c7f6_o.jpg",
+    "https://farm5.staticflickr.com/4147/4946129617_e7ecf025bd_o.jpg",
+    "https://farm5.staticflickr.com/4120/4946720048_d8b8985760_o.jpg",
+    "https://farm5.staticflickr.com/4134/4946132173_c87d8cb2ee_o.jpg",
+    "https://farm5.staticflickr.com/4153/4946134091_28bd554ebc_o.jpg"
+  ],
+  "auto_story_text_normalized": "the speaker gave a speech . the audience listened intently . the speaker was very happy to see him . they were very happy to be there . after the ceremony we all went out to eat .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the speaker addressed the crowd . the audience listened intently . the speaker was very happy to see him . they were very happy to be there . after the ceremony we all went out to eat .",
+      "normalized_edited_story_text_sent": [
+        "the speaker addressed the crowd .",
+        "the audience listened intently .",
+        "the speaker was very happy to see him .",
+        "they were very happy to be there .",
+        "after the ceremony we all went out to eat ."
+      ]
+    },
+    {
+      "worker_id": "A3QJX8VGVADUEX",
+      "edited_story_text": "The speaker gave a speech. The audience listened intently. The speaker was very happy to see them. They were very happy to be there. After the ceremony, they all went out to eat.",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech .",
+        "the audience listened intently .",
+        "the speaker was very happy to see them .",
+        "they were very happy to be there .",
+        "after the ceremony , they all went out to eat ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The audience listened intently to the band. The singer was so good too. I enjoyed listening to the music.  It was so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the audience listened intently to the band .",
+        "the singer was so good too .",
+        "i enjoyed listening to the music .",
+        "it was so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the speaker gave a speech . the audience listened intently . the speaker was very happy to see him . they were very happy to be there and after the ceremony we all went out to eat .",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech .",
+        "the audience listened intently .",
+        "the speaker was very happy to see him .",
+        "they were very happy to be there and after the ceremony we all went out to eat ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the speaker gave a speech . the audience listened intently . the speaker was happy the audience was so engaged. they were very happy to be there . after the ceremony we all went out to eat .",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech .",
+        "the audience listened intently .",
+        "the speaker was happy the audience was so engaged .",
+        "they were very happy to be there .",
+        "after the ceremony we all went out to eat ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625082582503"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2640358274-2640358974-2639543307-2640365112-2640373568",
+  "photo_sequence_ids": [
+    "2640358274",
+    "2640358974",
+    "2639543307",
+    "2640365112",
+    "2640373568"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fireworks were very loud . they were so bright and beautiful . the colors were amazing . the finale was spectacular . the grand finale was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "I love fireworks.  the fireworks were very loud . they were so bright and beautiful . the colors were amazing . the finale was spectacular  .",
+      "normalized_edited_story_text_sent": [
+        "i love fireworks .",
+        "the fireworks were very loud .",
+        "they were so bright and beautiful .",
+        "the colors were amazing .",
+        "the finale was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The fireworks I saw were very loud. They were also so bright and beautiful. The colors that they displayed were amazing. The finale was grand and spectacular. Actually, the grand finale of the fireworks show was the best .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks i saw were very loud .",
+        "they were also so bright and beautiful .",
+        "the colors that they displayed were amazing .",
+        "the finale was grand and spectacular .",
+        "actually , the grand finale of the fireworks show was the best ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the fireworks were very loud and so bright and beautiful . the colors were amazing . the finale was spectacular because the grand finale was the best .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were very loud and so bright and beautiful .",
+        "the colors were amazing .",
+        "the finale was spectacular because the grand finale was the best ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the fireworks were very loud . they were super bright and beautiful . the colors were great. the finale was spectacular . the grand finale was the best .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were very loud .",
+        "they were super bright and beautiful .",
+        "the colors were great .",
+        "the finale was spectacular .",
+        "the grand finale was the best ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the fireworks boomed across the sky . they lit up the sky beautifully . the colors were spectacular . the finale had rapid fireworks more colorful . the grand finale was a fitting ending .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks boomed across the sky .",
+        "they lit up the sky beautifully .",
+        "the colors were spectacular .",
+        "the finale had rapid fireworks more colorful .",
+        "the grand finale was a fitting ending ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157605997253353",
+  "model": "GLAC"
+}

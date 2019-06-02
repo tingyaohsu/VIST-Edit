@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "379401173-379402087-379402741-379407052-379403570",
+  "photo_sequence_ids": [
+    "379401173",
+    "379402087",
+    "379402741",
+    "379407052",
+    "379403570"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/146/379401173_a715a450b8_o.jpg",
+    "https://farm1.staticflickr.com/187/379402087_a8e6b21a0f_o.jpg",
+    "https://farm1.staticflickr.com/185/379402741_5747a00e55_o.jpg",
+    "https://farm1.staticflickr.com/160/379407052_5b6c96e810_o.jpg",
+    "https://farm1.staticflickr.com/169/379403570_cf849e7eab_o.jpg"
+  ],
+  "auto_story_text_normalized": "the local zoo was a lot of fun . the animals were there to see the animals . this is a picture of a bird . i saw a snake . this is a picture of a tree .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the local zoo was a lot of fun . we saw tigers, lions, giraffes, and snakes. it was really cool to check out all of the animals they had.",
+      "normalized_edited_story_text_sent": [
+        "the local zoo was a lot of fun .",
+        "we saw tigers , lions , giraffes , and snakes .",
+        "it was really cool to check out all of the animals they had ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the local zoo was a lot of fun . We went to see the animals . this is a picture of a bird . i saw a snake . this is a picture of a tree .",
+      "normalized_edited_story_text_sent": [
+        "the local zoo was a lot of fun .",
+        "we went to see the animals .",
+        "this is a picture of a bird .",
+        "i saw a snake .",
+        "this is a picture of a tree ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "The local zoo park was so much fun. It was so nice to see all the different kinds of animals. Here is a picture of a bird that I saw. I also saw a snake. Here is a picture of a giraffe in the tree.",
+      "normalized_edited_story_text_sent": [
+        "the local zoo park was so much fun .",
+        "it was so nice to see all the different kinds of animals .",
+        "here is a picture of a bird that i saw .",
+        "i also saw a snake .",
+        "here is a picture of a giraffe in the tree ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the zoo was a lot of fun. We saw the animals, including a bird and a snake.",
+      "normalized_edited_story_text_sent": [
+        "the zoo was a lot of fun .",
+        "we saw the animals , including a bird and a snake ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the local zoo was a lot of fun . we were there to see the animals . this is a picture of a bird . i saw a snake . this is a picture of a tree .",
+      "normalized_edited_story_text_sent": [
+        "the local zoo was a lot of fun .",
+        "we were there to see the animals .",
+        "this is a picture of a bird .",
+        "i saw a snake .",
+        "this is a picture of a tree ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594517283383"
+}

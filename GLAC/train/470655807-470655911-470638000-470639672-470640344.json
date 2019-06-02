@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "470655807-470655911-470638000-470639672-470640344",
+  "photo_sequence_ids": [
+    "470655807",
+    "470655911",
+    "470638000",
+    "470639672",
+    "470640344"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the couple were so happy . the family was there . the couple was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa thought the wedding was beautiful . the bride and groom were very happy . the couple were so happy . the family was there . the couple was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] thought the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the couple were so happy .",
+        "the family was there .",
+        "the couple was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The wedding was beautiful. The bride and groom were very happy--the couple was so happy. The family was all there. The couple was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy -- the couple was so happy .",
+        "the family was all there .",
+        "the couple was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The family had a great time together and enjoyed each other\u0027s company and the girls got to dress up beautifully.",
+      "normalized_edited_story_text_sent": [
+        "the family had a great time together and enjoyed each other \u0027s company and the girls got to dress up beautifully ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the boy was excitedly smiling . the guest were very happy eating some good food . the flower girls were so happy that they danced in the gazebo . the family joined them there for a picture. A woman showed with a smile that she was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the boy was excitedly smiling .",
+        "the guest were very happy eating some good food .",
+        "the flower girls were so happy that they danced in the gazebo .",
+        "the family joined them there for a picture .",
+        "a woman showed with a smile that she was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The wedding was a beautiful event. The bride and groom were all smiles and very happy. The couple was ready for their new adventure together. Both families were present for the occassion. The newlyweds and their families were having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were all smiles and very happy .",
+        "the couple was ready for their new adventure together .",
+        "both families were present for the occassion .",
+        "the newlyweds and their families were having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600116992263",
+  "model": "GLAC"
+}

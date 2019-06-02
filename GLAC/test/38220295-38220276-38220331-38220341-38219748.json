@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "38220295-38220276-38220331-38220341-38219748",
+  "photo_sequence_ids": [
+    "38220295",
+    "38220276",
+    "38220331",
+    "38220341",
+    "38219748"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the architecture was amazing . the stained glass windows were so intricate . the lights were beautiful . the building was lit up with a light . the church was also a sight to behold .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the architecture of the building was amazing . the stained glass windows were so beautiful and intricate. the lights were beautiful too. the building was lit up. the church was also a nice sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "the architecture of the building was amazing .",
+        "the stained glass windows were so beautiful and intricate .",
+        "the lights were beautiful too .",
+        "the building was lit up .",
+        "the church was also a nice sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we visited an historic church.  we admired the architecture and the intricate stained glass windows.  the building was lit up with beautiful lights.  the church was a really stunning sight.",
+      "normalized_edited_story_text_sent": [
+        "we visited an historic church .",
+        "we admired the architecture and the intricate stained glass windows .",
+        "the building was lit up with beautiful lights .",
+        "the church was a really stunning sight ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "went to the city to see the tree. the architecture was amazing . the stained glass windows were so intricate . the lights were beautiful . the building was lit up with a light . the church was also a sight to behold .",
+      "normalized_edited_story_text_sent": [
+        "went to the city to see the tree .",
+        "the architecture was amazing .",
+        "the stained glass windows were so intricate .",
+        "the lights were beautiful .",
+        "the building was lit up with a light .",
+        "the church was also a sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the architecture was amazing . the stained glass windows were so intricate . The city was pretty at knight. There was a Christmas tree.",
+      "normalized_edited_story_text_sent": [
+        "the architecture was amazing .",
+        "the stained glass windows were so intricate .",
+        "the city was pretty at knight .",
+        "there was a christmas tree ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the architecture was amazing . the stained glass windows were so intricate .",
+      "normalized_edited_story_text_sent": [
+        "the architecture was amazing .",
+        "the stained glass windows were so intricate ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "842625",
+  "model": "GLAC"
+}

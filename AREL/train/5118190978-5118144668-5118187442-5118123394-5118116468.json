@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5118190978-5118144668-5118187442-5118123394-5118116468",
+  "photo_sequence_ids": [
+    "5118190978",
+    "5118144668",
+    "5118187442",
+    "5118123394",
+    "5118116468"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1354/5118190978_713d7c520d_o.jpg",
+    "https://farm2.staticflickr.com/1414/5118144668_ba46c341f7_o.jpg",
+    "https://farm2.staticflickr.com/1062/5118187442_e4a7dba87f_o.jpg",
+    "https://farm5.staticflickr.com/4130/5118123394_df945e6b3e_o.jpg",
+    "https://farm2.staticflickr.com/1373/5118116468_bd7fbfce6b_o.jpg"
+  ],
+  "auto_story_text_normalized": "the baby was excited for his first day of school . the kids were so happy to see them . he was so happy to see him . he had a great time . they had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "the baby was excited for Halloween. the kids were so happy to see each other. he was so happy to see his mom . he had a great time . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited for halloween .",
+        "the kids were so happy to see each other .",
+        "he was so happy to see his mom .",
+        "he had a great time .",
+        "they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The baby was excited for his first day of school and the other kids were so happy to see them. He had lots of fun making new friends.",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited for his first day of school and the other kids were so happy to see them .",
+        "he had lots of fun making new friends ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "The baby was excited for his first day of school, and [Jackson] was happy to see [Devon]. The school brought in a petting zoo, and the kids were happy to see the animals, they had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited for his first day of school , and [male] was happy to see [female] .",
+        "the school brought in a petting zoo , and the kids were happy to see the animals , they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the baby was excited to go trick or treating . the kids were so happy to be wearing cool costumes . he was so happy to be a little pumpkin . he had a great time . the kids had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited to go trick or treating .",
+        "the kids were so happy to be wearing cool costumes .",
+        "he was so happy to be a little pumpkin .",
+        "he had a great time .",
+        "the kids had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "The baby was excited for his first day of school. His friends were excited to see him and he was happy to see his friends again. The kids dressed up in costumes and had a great time. The first day of school was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited for his first day of school .",
+        "his friends were excited to see him and he was happy to see his friends again .",
+        "the kids dressed up in costumes and had a great time .",
+        "the first day of school was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625129431759"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4482338138-4481693935-4482346446-4481698573-4482350160",
+  "photo_sequence_ids": [
+    "4482338138",
+    "4481693935",
+    "4482346446",
+    "4481698573",
+    "4482350160"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he spoke with the audience . he was also given a speech . he was very happy to be there . he had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The speaker was very knowledgeable as he gave his speech to the audience. He seemed to have a good time and seemed happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable as he gave his speech to the audience .",
+        "he seemed to have a good time and seemed happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the speaker was very knowledgeable. he presented a speech to the audience. he was very happy to be there and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he presented a speech to the audience .",
+        "he was very happy to be there and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria said that the speaker was very knowledgeable . he spoke with the audience . he was also given a speech . he was very happy to be there . he had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] said that the speaker was very knowledgeable .",
+        "he spoke with the audience .",
+        "he was also given a speech .",
+        "he was very happy to be there .",
+        "he had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the speaker was very knowledgeable . he spoke with the other soldiers . he was also given a speech . he was very happy to be there . he had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he spoke with the other soldiers .",
+        "he was also given a speech .",
+        "he was very happy to be there .",
+        "he had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The military people were getting ready for an event and one of the men received a new pin.",
+      "normalized_edited_story_text_sent": [
+        "the military people were getting ready for an event and one of the men received a new pin ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623624264675",
+  "model": "GLAC"
+}

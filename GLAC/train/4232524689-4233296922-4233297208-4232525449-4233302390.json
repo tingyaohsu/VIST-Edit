@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4232524689-4233296922-4233297208-4232525449-4233302390",
+  "photo_sequence_ids": [
+    "4232524689",
+    "4233296922",
+    "4233297208",
+    "4232525449",
+    "4233302390"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . the friends were having a great time . the night was very festive . the fireworks were beautiful . the sky was bright and blue .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the party was a lot of fun . my friends were having a great time . the night was very festive . the dark sky was perfect for fireworks. the sky was filled with fireworks.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "my friends were having a great time .",
+        "the night was very festive .",
+        "the dark sky was perfect for fireworks .",
+        "the sky was filled with fireworks ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a great time was had by the party . friends met up for fun . a festive night ensued . outside, the fireworks left a beautiful impression . the sky was brightened by blue fireworks .",
+      "normalized_edited_story_text_sent": [
+        "a great time was had by the party .",
+        "friends met up for fun .",
+        "a festive night ensued .",
+        "outside , the fireworks left a beautiful impression .",
+        "the sky was brightened by blue fireworks ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The family got together for photos and a fun filled night with star gazing.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for photos and a fun filled night with star gazing ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family was very close. the woman finished racing which was a great time . the night was very festive celebrating the victory. A crowd gathered outside in the dark. the fireworks were beautiful in the bright blue sky.",
+      "normalized_edited_story_text_sent": [
+        "the family was very close .",
+        "the woman finished racing which was a great time .",
+        "the night was very festive celebrating the victory .",
+        "a crowd gathered outside in the dark .",
+        "the fireworks were beautiful in the bright blue sky ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "David, Lisa and Mary took a few pictures at home before the event. they also clicked some pictures at the event. there were a lot of people there. the friends were having a great time . the night was very festive . the fireworks covered the sky and were beautiful . the sky was lit up with beautiful colors.",
+      "normalized_edited_story_text_sent": [
+        "[male] , [female] and [female] took a few pictures at home before the event .",
+        "they also clicked some pictures at the event .",
+        "there were a lot of people there .",
+        "the friends were having a great time .",
+        "the night was very festive .",
+        "the fireworks covered the sky and were beautiful .",
+        "the sky was lit up with beautiful colors ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622987335991",
+  "model": "GLAC"
+}

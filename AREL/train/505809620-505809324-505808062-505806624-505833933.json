@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "505809620-505809324-505808062-505806624-505833933",
+  "photo_sequence_ids": [
+    "505809620",
+    "505809324",
+    "505808062",
+    "505806624",
+    "505833933"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/192/505809620_0cd77fc5f1_o.jpg",
+    "https://farm1.staticflickr.com/223/505809324_4cbebfb767_o.jpg",
+    "https://farm1.staticflickr.com/201/505808062_a8876effec_o.jpg",
+    "https://farm1.staticflickr.com/192/505806624_500583af29_o.jpg",
+    "https://farm1.staticflickr.com/199/505833933_72255f9a97_o.jpg"
+  ],
+  "auto_story_text_normalized": "i was so excited to be graduating today . this is a picture of a sign . the graduates lined up to receive their diplomas . [male] was very proud of his accomplishments . we all posed for a picture with their parents .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I was so excited to be graduating today, this is my graduation ticket. All of the graduates lined up to receive their diplomas.[brad] was very proud of his accomplishments, everyone posed for a picture with their parents.",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be graduating today , this is my graduation ticket .",
+        "all of the graduates lined up to receive their diplomas .",
+        "[male] was very proud of his accomplishments , everyone posed for a picture with their parents ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "I was so excited to be graduating today. This is a picture of a ticket.The graduates lined up to receive their diplomas. [male] was very proud of his accomplishments. We all posed for a picture with our parents.",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be graduating today .",
+        "this is a picture of a ticket.the graduates lined up to receive their diplomas .",
+        "[male] was very proud of his accomplishments .",
+        "we all posed for a picture with our parents ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "My brother was excited to be graduating. This is my ticket. Graduation took place inside. My brother showed his diploma. He posed with mom.",
+      "normalized_edited_story_text_sent": [
+        "my brother was excited to be graduating .",
+        "this is my ticket .",
+        "graduation took place inside .",
+        "my brother showed his diploma .",
+        "he posed with mom ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i was so excited to be graduating today finally . this is a picture of a sign indicating the commencement . the graduates lined up to receive their diplomas . [Joseph] was very proud of his accomplishments . we all posed for a picture with our parents out on the lawn .",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be graduating today finally .",
+        "this is a picture of a sign indicating the commencement .",
+        "the graduates lined up to receive their diplomas .",
+        "[male] was very proud of his accomplishments .",
+        "we all posed for a picture with our parents out on the lawn ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i was so excited to be graduating today. all the graduates lined up to receive their diplomas. my friend [male] was very proud of his accomplishments. everyone posed for a picture with their parents .",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be graduating today .",
+        "all the graduates lined up to receive their diplomas .",
+        "my friend [male] was very proud of his accomplishments .",
+        "everyone posed for a picture with their parents ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600234507180"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "66994313-66994709-66995305-66994032-67693915",
+  "photo_sequence_ids": [
+    "66994313",
+    "66994709",
+    "66995305",
+    "66994032",
+    "67693915"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/26/66994313_406f1bad5d_o.jpg",
+    "https://farm1.staticflickr.com/29/66994709_07d1eea50a_o.jpg",
+    "https://farm1.staticflickr.com/28/66995305_d76385459c_o.jpg",
+    "https://farm1.staticflickr.com/33/66994032_35738ba08b_o.jpg",
+    "https://farm1.staticflickr.com/30/67693915_6418f22da1_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the restaurant . we had a lot of fun at the party . we had a lot of fun . it was a beautiful day . we had a lot of fun at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A3EW7EOWG8L6FI",
+      "edited_story_text": "We had a great time at the restaurant. The party was a lot of fun. It was a beautiful day.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the restaurant .",
+        "the party was a lot of fun .",
+        "it was a beautiful day ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the restaurant with our friends. then we went for a walk since it was a beautiful day outside. we had a lot of fun spending time together.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the restaurant with our friends .",
+        "then we went for a walk since it was a beautiful day outside .",
+        "we had a lot of fun spending time together ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We decided to visit a restaurant together. Everyone enjoyed the food. People chatted and visited after they were done eating. It was a beautiful day outside. After we went inside, we looked at my piano.",
+      "normalized_edited_story_text_sent": [
+        "we decided to visit a restaurant together .",
+        "everyone enjoyed the food .",
+        "people chatted and visited after they were done eating .",
+        "it was a beautiful day outside .",
+        "after we went inside , we looked at my piano ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we had a great time at the dinner party. it was a lot of fun . it was a beautiful day . we had a lot of fun listening to the piano .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the dinner party .",
+        "it was a lot of fun .",
+        "it was a beautiful day .",
+        "we had a lot of fun listening to the piano ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We went to a party at the restaurant.  It was a beautiful day, great time, and everyone had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "we went to a party at the restaurant .",
+        "it was a beautiful day , great time , and everyone had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1445664"
+}

@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "28261010-28261439-28261224-28261247-28261401",
+  "photo_sequence_ids": [
+    "28261010",
+    "28261439",
+    "28261224",
+    "28261247",
+    "28261401"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/23/28261010_15f6a0e212_o.jpg",
+    "https://farm1.staticflickr.com/21/28261439_b6cf8769e5_o.jpg",
+    "https://farm1.staticflickr.com/23/28261224_4976097685_o.jpg",
+    "https://farm1.staticflickr.com/23/28261247_1e70bc0a63_o.jpg",
+    "https://farm1.staticflickr.com/22/28261401_02b268bd84_o.jpg"
+  ],
+  "auto_story_text_normalized": "the group of friends got together for a party . there were a lot of people there . then they went to the bar to get some drinks . the lights were all lit up . everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AMYURTQIMAC8T",
+      "edited_story_text": "the group of friends got together for some drinks . there were a lot of people there . then they went to a bar to get some drinks . the lights were flashing . everyone was killing it.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together for some drinks .",
+        "there were a lot of people there .",
+        "then they went to a bar to get some drinks .",
+        "the lights were flashing .",
+        "everyone was killing it ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the group of friends got together for a party . there were a lot of people there . After dinner, they went to the bar to get some drinks . the lights were all lit up . everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together for a party .",
+        "there were a lot of people there .",
+        "after dinner , they went to the bar to get some drinks .",
+        "the lights were all lit up .",
+        "everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The friends got together for a party. They went to the bar to get some drinks, and there were a lot of people there. All the lights were lit up at the bar, and everyone was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the friends got together for a party .",
+        "they went to the bar to get some drinks , and there were a lot of people there .",
+        "all the lights were lit up at the bar , and everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "The group got together to celebrate their friend\u0027s birthday. there were a lot of people there. then they went to the bar to get some drinks. Everyone talked until late and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the group got together to celebrate their friend \u0027s birthday .",
+        "there were a lot of people there .",
+        "then they went to the bar to get some drinks .",
+        "everyone talked until late and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the group of friends get together for a party . there was a lot of people there . then they go to the bar to got some drinks . the lights are all lit up . everyone is having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the group of friends get together for a party .",
+        "there was a lot of people there .",
+        "then they go to the bar to got some drinks .",
+        "the lights are all lit up .",
+        "everyone is having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "638064"
+}

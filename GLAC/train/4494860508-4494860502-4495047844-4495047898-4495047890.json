@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4494860508-4494860502-4495047844-4495047898-4495047890",
+  "photo_sequence_ids": [
+    "4494860508",
+    "4494860502",
+    "4495047844",
+    "4495047898",
+    "4495047890"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the statue was in a museum . the statues were interesting . the building was tall . the paintings were very detailed . the flowers were also beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the black statue sat in a museum . the statues were intriguing . the museum was a tall building . there were also detailed paintings . beautiful flowers were lined on grounds near the museum .",
+      "normalized_edited_story_text_sent": [
+        "the black statue sat in a museum .",
+        "the statues were intriguing .",
+        "the museum was a tall building .",
+        "there were also detailed paintings .",
+        "beautiful flowers were lined on grounds near the museum ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the statue was in a museum . the statues were a bit on the morbid side . the building was tall since it still has the steep . the paintings were very detailed . the flowers were also beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the statue was in a museum .",
+        "the statues were a bit on the morbid side .",
+        "the building was tall since it still has the steep .",
+        "the paintings were very detailed .",
+        "the flowers were also beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the bat was in a museum . the statues were interesting . the building was tall . the tombs were very detailed . the flowers were also beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the bat was in a museum .",
+        "the statues were interesting .",
+        "the building was tall .",
+        "the tombs were very detailed .",
+        "the flowers were also beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the statue was in a museum . the statues were interesting . the walls were tall . the paintings were very detailed . the artistry was fine quality  .",
+      "normalized_edited_story_text_sent": [
+        "the statue was in a museum .",
+        "the statues were interesting .",
+        "the walls were tall .",
+        "the paintings were very detailed .",
+        "the artistry was fine quality ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The statue was in a museum.  It was very interesting.  The building was tall.  The paintings were very detailed and the flowers were also beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the statue was in a museum .",
+        "it was very interesting .",
+        "the building was tall .",
+        "the paintings were very detailed and the flowers were also beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623653330993",
+  "model": "GLAC"
+}

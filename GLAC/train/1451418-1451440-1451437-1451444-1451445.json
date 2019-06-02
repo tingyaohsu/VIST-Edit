@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "1451418-1451440-1451437-1451444-1451445",
+  "photo_sequence_ids": [
+    "1451418",
+    "1451440",
+    "1451437",
+    "1451444",
+    "1451445"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the restaurant . there were a lot of options . i had a great time . the food was delicious . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i had a great time at the restaurant . there were a lot of options . i had a great time . the food was delicious . i ate great waffles made by Eggo.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the restaurant .",
+        "there were a lot of options .",
+        "i had a great time .",
+        "the food was delicious .",
+        "i ate great waffles made by eggo ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "I went to a restaurant and had a great time. There were a lot of options! The food was very delicious and it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i went to a restaurant and had a great time .",
+        "there were a lot of options !",
+        "the food was very delicious and it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "i had a great time at the restaurant . there were a lot of options .they had a great menu . the food was delicious . it was a good time..",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the restaurant .",
+        "there were a lot of options .",
+        "they had a great menu .",
+        "the food was delicious .",
+        "it was a good time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Great time to get some food at the store and enjoy it at home.",
+      "normalized_edited_story_text_sent": [
+        "great time to get some food at the store and enjoy it at home ."
+      ]
+    },
+    {
+      "worker_id": "A2DWSKGD9RNKMJ",
+      "edited_story_text": "i had delicious waffles at the restaurant . there were a lot of options, including good syrup . i had a great time . the food was tasty . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i had delicious waffles at the restaurant .",
+        "there were a lot of options , including good syrup .",
+        "i had a great time .",
+        "the food was tasty .",
+        "it was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "37058",
+  "model": "GLAC"
+}

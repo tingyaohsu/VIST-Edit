@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "15978645897-16173780292-16162517841-15987093758-16173780402",
+  "photo_sequence_ids": [
+    "15978645897",
+    "16173780292",
+    "16162517841",
+    "15987093758",
+    "16173780402"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the night was a great time . the lights were bright and beautiful . the bar was decorated with drinks . the friends were happy to be there . the costumes were very fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The bar had a good wine selection . the lights were bright and beautiful . We posed for pictures.We enjoyed to food and drinks. What a great night.",
+      "normalized_edited_story_text_sent": [
+        "the bar had a good wine selection .",
+        "the lights were bright and beautiful .",
+        "we posed for pictures.we enjoyed to food and drinks .",
+        "what a great night ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the night was a great time . the lights were bright and beautiful . the bar was decorated with drinks and party favors for people to take . the friends were happy to be there . the night was a success.",
+      "normalized_edited_story_text_sent": [
+        "the night was a great time .",
+        "the lights were bright and beautiful .",
+        "the bar was decorated with drinks and party favors for people to take .",
+        "the friends were happy to be there .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the night was a great time . the lights were bright and beautiful . it was a night to remember.",
+      "normalized_edited_story_text_sent": [
+        "the night was a great time .",
+        "the lights were bright and beautiful .",
+        "it was a night to remember ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Happy New year all!  Partying with a few friends at the bar.",
+      "normalized_edited_story_text_sent": [
+        "happy new year all !",
+        "partying with a few friends at the bar ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the night was a great time for everyone who came . the lights were bright and beautiful and kept the room lit . the bar was decorated with drinks which everyone drank . the friends were happy to be there and wanted to stay all night . the costumes were very fun which was unique cause there was no theme.",
+      "normalized_edited_story_text_sent": [
+        "the night was a great time for everyone who came .",
+        "the lights were bright and beautiful and kept the room lit .",
+        "the bar was decorated with drinks which everyone drank .",
+        "the friends were happy to be there and wanted to stay all night .",
+        "the costumes were very fun which was unique cause there was no theme ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157649987300306",
+  "model": "GLAC"
+}

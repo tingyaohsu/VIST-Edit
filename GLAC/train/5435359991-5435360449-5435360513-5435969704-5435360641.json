@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5435359991-5435360449-5435360513-5435969704-5435360641",
+  "photo_sequence_ids": [
+    "5435359991",
+    "5435360449",
+    "5435360513",
+    "5435969704",
+    "5435360641"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the event . the first firework was the biggest . the second one was the red . the next one was a little bit more . the final shot was the last .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the crowd gathered for the event . the first firework was the biggest . the second one was the red . the next one was a little bit more . they loved being by the water.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "the first firework was the biggest .",
+        "the second one was the red .",
+        "the next one was a little bit more .",
+        "they loved being by the water ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The crowd gathered for the event. There were plenty of antique ships on display as well as a few modern ones.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "there were plenty of antique ships on display as well as a few modern ones ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The crowd gathered up for the big fireworks event. The first firework to go off was the biggest, and the second one had this nice red color. The next one was just...more...wow. Just wow.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered up for the big fireworks event .",
+        "the first firework to go off was the biggest , and the second one had this nice red color .",
+        "the next one was just ... more ... wow .",
+        "just wow ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the crowd gathered for the event . The ship is large. The mast looked pretty against the sunset. The boat is on the water.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "the ship is large .",
+        "the mast looked pretty against the sunset .",
+        "the boat is on the water ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the crowd gathered for the meet up . the first ship they saw was the biggest . the second one was dyed red by the setting sun . the next one was a little bit more modern . the final ship was one they had last seen at another outing .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the meet up .",
+        "the first ship they saw was the biggest .",
+        "the second one was dyed red by the setting sun .",
+        "the next one was a little bit more modern .",
+        "the final ship was one they had last seen at another outing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626023683282",
+  "model": "GLAC"
+}

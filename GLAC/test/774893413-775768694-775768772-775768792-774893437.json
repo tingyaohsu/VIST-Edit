@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "774893413-775768694-775768772-775768792-774893437",
+  "photo_sequence_ids": [
+    "774893413",
+    "775768694",
+    "775768772",
+    "775768792",
+    "774893437"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sky was clear and the sun was setting . the trees were covered in snow . the man was walking around the forest . he was taking a picture of the tree . the family was happy to be on the beach .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the sky was clear and the sun was setting . the trees were covered in snow .",
+      "normalized_edited_story_text_sent": [
+        "the sky was clear and the sun was setting .",
+        "the trees were covered in snow ."
+      ]
+    },
+    {
+      "worker_id": "A1JCKICNOC7DAB",
+      "edited_story_text": "the sky was clear and the sun was setting . the trees were covered in snow . the man was walking around the forest . he was taking a picture of the tree . the family was happy to be on the beach .\r\rThe family was happy on the beach , while the man was walking around the forest taking pictures of the snow covered trees. The sky was clear and the sun was setting.",
+      "normalized_edited_story_text_sent": [
+        "the sky was clear and the sun was setting .",
+        "the trees were covered in snow .",
+        "the man was walking around the forest .",
+        "he was taking a picture of the tree .",
+        "the family was happy to be on the beach .",
+        "the family was happy on the beach , while the man was walking around the forest taking pictures of the snow covered trees .",
+        "the sky was clear and the sun was setting ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the sky was clear and the sun was setting . the trees were covered in snow . the man was walking around the forest . he was taking a picture of the tree . the family was happy to be on the beach .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the sky was clear and the sun was setting .",
+        "the trees were covered in snow .",
+        "the man was walking around the forest .",
+        "he was taking a picture of the tree .",
+        "the family was happy to be on the beach ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "We had a great time on vacation! Some of the highlights were the cityscapes, and our trip to the lake. Most of the time, we got a crystal clear view of the buildings, but one day, it snowed. it was magical! you can tell robert really enjoyed the lake.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time on vacation !",
+        "some of the highlights were the cityscapes , and our trip to the lake .",
+        "most of the time , we got a crystal clear view of the buildings , but one day , it snowed .",
+        "it was magical !",
+        "you can tell [male] really enjoyed the lake ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the sky was clear and the sun was setting on the city. the trees were covered in snow . david was walking around the forest near the creek and found a ladybug. he was taking a picture of the tree . it was a successful trip.",
+      "normalized_edited_story_text_sent": [
+        "the sky was clear and the sun was setting on the city .",
+        "the trees were covered in snow .",
+        "[male] was walking around the forest near the creek and found a ladybug .",
+        "he was taking a picture of the tree .",
+        "it was a successful trip ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600759188796",
+  "model": "GLAC"
+}

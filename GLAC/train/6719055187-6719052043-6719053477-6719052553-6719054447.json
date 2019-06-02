@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "6719055187-6719052043-6719053477-6719052553-6719054447",
+  "photo_sequence_ids": [
+    "6719055187",
+    "6719052043",
+    "6719053477",
+    "6719052553",
+    "6719054447"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the wedding . the bride and groom were very happy . the father and his wife were so happy . the couple was so happy to be married . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My extended family was gathered for a fancy dinner party at our favorite downtown restaurant. We took plenty of pictures around the venue since we bought it out for the night.",
+      "normalized_edited_story_text_sent": [
+        "my extended family was gathered for a fancy dinner party at our favorite downtown restaurant .",
+        "we took plenty of pictures around the venue since we bought it out for the night ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "a couple planned out a great wedding and all their family and friends came out. many people celebrated the marriage of the couple",
+      "normalized_edited_story_text_sent": [
+        "a couple planned out a great wedding and all their family and friends came out .",
+        "many people celebrated the marriage of the couple"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family gathered and posed for pictures.Everyone was happy to be there. The tables were set formally and the chairs had pretty green covers.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered and posed for pictures.everyone was happy to be there .",
+        "the tables were set formally and the chairs had pretty green covers ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family united at the wedding . the bride and groom were jubilant . the father and his wife were euphoric . the couple was in ecstasy being married . the entire family went .",
+      "normalized_edited_story_text_sent": [
+        "the family united at the wedding .",
+        "the bride and groom were jubilant .",
+        "the father and his wife were euphoric .",
+        "the couple was in ecstasy being married .",
+        "the entire family went ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the whole family gathered for the wedding last june . the bride and groom were very happy to be finally getting married . the father and his wife were so happy to be getting such a great son in law . the couple was so happy to be married in their hometown. the entire family was there to celebrate .",
+      "normalized_edited_story_text_sent": [
+        "the whole family gathered for the wedding last june .",
+        "the bride and groom were very happy to be finally getting married .",
+        "the father and his wife were so happy to be getting such a great son in law .",
+        "the couple was so happy to be married in their hometown .",
+        "the entire family was there to celebrate ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628922775473",
+  "model": "GLAC"
+}

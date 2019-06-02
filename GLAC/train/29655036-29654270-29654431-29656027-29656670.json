@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "29655036-29654270-29654431-29656027-29656670",
+  "photo_sequence_ids": [
+    "29655036",
+    "29654270",
+    "29654431",
+    "29656027",
+    "29656670"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a nice dinner . the girls were excited to be there . the friends were having a great time . the guys were happy to see each other . they had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "the family got together for a nice dinner .Mary and the girls were excited to be there . Robert\u0027s friends were having a great time .  David and the guys were happy to see each other . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "[female] and the girls were excited to be there .",
+        "[male] \u0027s friends were having a great time .",
+        "[male] and the guys were happy to see each other .",
+        "they had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big family got together for a nice dinner and the girls were excited to be there . the friends were having a great time . the guys were happy to see each other . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the big family got together for a nice dinner and the girls were excited to be there .",
+        "the friends were having a great time .",
+        "the guys were happy to see each other .",
+        "they had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the family got together for a nice dinner . everyone was excited to be there. we had drinks and talked about life for a long time. we laughed all night.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "everyone was excited to be there .",
+        "we had drinks and talked about life for a long time .",
+        "we laughed all night ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "our family got together for a nice dinner . the girls were especially excited to be there . the friends were having a great time . the guys were happy to see each other . everyone had a good time .",
+      "normalized_edited_story_text_sent": [
+        "our family got together for a nice dinner .",
+        "the girls were especially excited to be there .",
+        "the friends were having a great time .",
+        "the guys were happy to see each other .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The family got together for a nice dinner . EVERYONE WAS excited to be there . the friends were having a great time . EVERYBODY ATE AND GOT CAUGHT UP WITH EACH OTHER . they ALL SAID THEY NEEDED TO GET TOGETHER AGAIN VERY SOON .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "everyone was excited to be there .",
+        "the friends were having a great time .",
+        "everybody ate and got caught up with each other .",
+        "they all said they needed to get together again very soon ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "666831",
+  "model": "GLAC"
+}

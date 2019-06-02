@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "15984878087-16198971361-16200845285-15578419354-16014741319",
+  "photo_sequence_ids": [
+    "15984878087",
+    "16198971361",
+    "16200845285",
+    "15578419354",
+    "16014741319"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the couple was excited to be on vacation . they saw a beautiful waterfall . they also found a small farm . they also visited a local park . they took a break and relaxed at the end of the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the couple was thrilled to be on vacation . they saw a beautiful waterfall . they also found a small farm . they also visited a local park . they took a break and relaxed at the end of the day . it was a nice break from reality.",
+      "normalized_edited_story_text_sent": [
+        "the couple was thrilled to be on vacation .",
+        "they saw a beautiful waterfall .",
+        "they also found a small farm .",
+        "they also visited a local park .",
+        "they took a break and relaxed at the end of the day .",
+        "it was a nice break from reality ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the couple was excited to be on vacation . they saw a beautiful waterfall . they also found a small farm . they also visited a local park . they took a break and relaxed at the end of the day .\r\rDavid and I are excited to finally be on vacation. We saw a beautiful waterfall. Along the way, we saw a cute little farm. The state park we visited was nice! It was such a long day, we stopped to take a break and relax.",
+      "normalized_edited_story_text_sent": [
+        "the couple was excited to be on vacation .",
+        "they saw a beautiful waterfall .",
+        "they also found a small farm .",
+        "they also visited a local park .",
+        "they took a break and relaxed at the end of the day .",
+        "[male] and i are excited to finally be on vacation .",
+        "we saw a beautiful waterfall .",
+        "along the way , we saw a cute little farm .",
+        "the state park we visited was nice !",
+        "it was such a long day , we stopped to take a break and relax ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "It was a cold winter day and everyone was dressed in their winter gear to go for a family walk including the dog.",
+      "normalized_edited_story_text_sent": [
+        "it was a cold winter day and everyone was dressed in their winter gear to go for a family walk including the dog ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the couple was excited to be on vacation for the first time in a while . they saw a beautiful waterfall but it was frozen. they also found a small farm that had some dogs on the land. they also visited a local park that was covered in snow . they took a break and relaxed at the end of the day before going home .",
+      "normalized_edited_story_text_sent": [
+        "the couple was excited to be on vacation for the first time in a while .",
+        "they saw a beautiful waterfall but it was frozen .",
+        "they also found a small farm that had some dogs on the land .",
+        "they also visited a local park that was covered in snow .",
+        "they took a break and relaxed at the end of the day before going home ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The couple was excited to be on vacation and were smiling . They saw a beautiful frozen lake. They also found a small farm. They also visited a local park and took a walk in the woods. They took a break and relaxed at the end of the day .",
+      "normalized_edited_story_text_sent": [
+        "the couple was excited to be on vacation and were smiling .",
+        "they saw a beautiful frozen lake .",
+        "they also found a small farm .",
+        "they also visited a local park and took a walk in the woods .",
+        "they took a break and relaxed at the end of the day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157649714582760",
+  "model": "GLAC"
+}

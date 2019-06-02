@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "7798080-7798097-7798169-7798491-7798575",
+  "photo_sequence_ids": [
+    "7798080",
+    "7798097",
+    "7798169",
+    "7798491",
+    "7798575"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready to go down the aisle . the bride and groom are walking down the aisle . the couple is happy and smiling . the wedding cake is being prepared . the bride and groom are having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bride and groom danced at the reception. They cut the cake. Everyone posed for pictures together. The wedding was a success.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom danced at the reception .",
+        "they cut the cake .",
+        "everyone posed for pictures together .",
+        "the wedding was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the bride and groom are getting ready to go down the aisle . the bride and groom are walking down the aisle . the couple is happy and smiling . the wedding cake is being prepared . the bride and groom are having a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the bride and groom are getting ready to go down the aisle .",
+        "the bride and groom are walking down the aisle .",
+        "the couple is happy and smiling .",
+        "the wedding cake is being prepared .",
+        "the bride and groom are having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the bride and groom are getting ready to go down the aisle . the family was in attendance . the couple is happy and smiling . the wedding cake was prepared . the bride and groom took many pics .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to go down the aisle .",
+        "the family was in attendance .",
+        "the couple is happy and smiling .",
+        "the wedding cake was prepared .",
+        "the bride and groom took many pics ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the bridge and groom walked down the aisle after getting married.  they were happy and smiled to the crowd.  the wedding cake was presented.  the couple had a really good time.",
+      "normalized_edited_story_text_sent": [
+        "the bridge and groom walked down the aisle after getting married .",
+        "they were happy and smiled to the crowd .",
+        "the wedding cake was presented .",
+        "the couple had a really good time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Look at how happy the bride and groom look as they have the first dance and cut the wedding cake.  We took a group pic at the end, look at me!!!",
+      "normalized_edited_story_text_sent": [
+        "look at how happy the bride and groom look as they have the first dance and cut the wedding cake .",
+        "we took a group pic at the end , look at me !!!"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "194658",
+  "model": "GLAC"
+}

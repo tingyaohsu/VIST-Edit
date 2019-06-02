@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4410744-4410528-4410809-4410646-4410842",
+  "photo_sequence_ids": [
+    "4410744",
+    "4410528",
+    "4410809",
+    "4410646",
+    "4410842"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the store was very busy . i stopped at a cafe to grab some food . there was a lot of good food . i bought a lot of souvenirs . afterward i went back home .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "I stopped at the store to get some food and drinks. there was a lot of good food and drinks from which to chose. i bought a lot of food and drink and then went home.",
+      "normalized_edited_story_text_sent": [
+        "i stopped at the store to get some food and drinks .",
+        "there was a lot of good food and drinks from which to chose .",
+        "i bought a lot of food and drink and then went home ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the store was very busy . i stopped at a cafe to grab some food . there was a lot of healthy options . i bought a lot of souvenirs . afterward i went back home and cooked dinner.",
+      "normalized_edited_story_text_sent": [
+        "the store was very busy .",
+        "i stopped at a cafe to grab some food .",
+        "there was a lot of healthy options .",
+        "i bought a lot of souvenirs .",
+        "afterward i went back home and cooked dinner ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the store was very busy for a weekday . i stopped at a cafe to grab some food for the upcoming party . there was a lot of good food as well as some drinks. i bought a lot of souvenirs at the gift shop . afterward i went back home and put the food away.",
+      "normalized_edited_story_text_sent": [
+        "the store was very busy for a weekday .",
+        "i stopped at a cafe to grab some food for the upcoming party .",
+        "there was a lot of good food as well as some drinks .",
+        "i bought a lot of souvenirs at the gift shop .",
+        "afterward i went back home and put the food away ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the store was very busy . i stopped at a cafe to grab some food . there was a lot of good food . i bought a lot of souvenirs . i was happy with it .",
+      "normalized_edited_story_text_sent": [
+        "the store was very busy .",
+        "i stopped at a cafe to grab some food .",
+        "there was a lot of good food .",
+        "i bought a lot of souvenirs .",
+        "i was happy with it ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the store was having a busy hour . i had grabbed food at the deli . there were good options . i bought a lot of canned goods . afterwards, i drove back home .",
+      "normalized_edited_story_text_sent": [
+        "the store was having a busy hour .",
+        "i had grabbed food at the deli .",
+        "there were good options .",
+        "i bought a lot of canned goods .",
+        "afterwards , i drove back home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "111086",
+  "model": "GLAC"
+}

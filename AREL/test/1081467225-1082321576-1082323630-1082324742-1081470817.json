@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "1081467225-1082321576-1082323630-1082324742-1081470817",
+  "photo_sequence_ids": [
+    "1081467225",
+    "1082321576",
+    "1082323630",
+    "1082324742",
+    "1081470817"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1021/1081467225_f58e7aec58_o.jpg",
+    "https://farm2.staticflickr.com/1321/1082321576_97e882c0d0_o.jpg",
+    "https://farm2.staticflickr.com/1085/1082323630_4d6f608879_o.jpg",
+    "https://farm2.staticflickr.com/1092/1082324742_a4b607a16d_o.jpg",
+    "https://farm2.staticflickr.com/1293/1081470817_df39e1b9c6_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach last weekend . we took a lot of pictures . he was so happy to see him . then we went to the park to get a picture of a sign . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to the beach last weekend and we took a lot of pictures. We even got a picture with the sign at the entrance to the park.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend and we took a lot of pictures .",
+        "we even got a picture with the sign at the entrance to the park ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the beach last weekend . we took a lot of pictures . I was happy to see my friend there. . then we went to the park to get a picture of a sign . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend .",
+        "we took a lot of pictures .",
+        "i was happy to see my friend there .",
+        ".",
+        "then we went to the park to get a picture of a sign .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i went to the beach last weekend . we took a lot of pictures . even the baby had fun!  it was a great time together at the Ford event too.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend .",
+        "we took a lot of pictures .",
+        "even the baby had fun !",
+        "it was a great time together at the ford event too ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "I went to the beach last weekend with my friend. I was so happy to see him. We took a lot of pictures of random objects including a baby with a funny binkie. We explored Diamond Head State Monument.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend with my friend .",
+        "i was so happy to see him .",
+        "we took a lot of pictures of random objects including a baby with a funny binkie .",
+        "we explored diamond head state monument ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "I went out to a beach last weekend and took loads of pictures. Was really happy to see him and we went to take a picture of a sign standing next to it. We had a really good time together and being there.",
+      "normalized_edited_story_text_sent": [
+        "i went out to a beach last weekend and took loads of pictures .",
+        "was really happy to see him and we went to take a picture of a sign standing next to it .",
+        "we had a really good time together and being there ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157601365594266"
+}

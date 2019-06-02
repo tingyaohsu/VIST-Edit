@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5818566916-5818567574-5818568172-5818888658-5818301885",
+  "photo_sequence_ids": [
+    "5818566916",
+    "5818567574",
+    "5818568172",
+    "5818888658",
+    "5818301885"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was a lot of fun . the players were very good . the teams were great . the players were very talented . the cheerleaders were the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V2H0UF94ATWY",
+      "edited_story_text": "the track event was a lot of fun . the high jumper was very good . the tennis players were great . the horseback riders were very talented . the basketball players had the most fun .",
+      "normalized_edited_story_text_sent": [
+        "the track event was a lot of fun .",
+        "the high jumper was very good .",
+        "the tennis players were great .",
+        "the horseback riders were very talented .",
+        "the basketball players had the most fun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "sports of all sorts were happening across the grounds. from tennis to horse racing to basketball!",
+      "normalized_edited_story_text_sent": [
+        "sports of all sorts were happening across the grounds .",
+        "from tennis to horse racing to basketball !"
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the game was a lot of fun . the players were very good . the teams put forth a lot of effort . the players were very talented . the cheerleaders were the best .",
+      "normalized_edited_story_text_sent": [
+        "the game was a lot of fun .",
+        "the players were very good .",
+        "the teams put forth a lot of effort .",
+        "the players were very talented .",
+        "the cheerleaders were the best ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the baseball game was a lot of fun except for the rain . the players were very good at playing their sports . the teams were great and took photos with all the fans after . the players were very talented and many would go pro. the cheerleaders were the best due to their amazing dances .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was a lot of fun except for the rain .",
+        "the players were very good at playing their sports .",
+        "the teams were great and took photos with all the fans after .",
+        "the players were very talented and many would go pro .",
+        "the cheerleaders were the best due to their amazing dances ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We did the high jump. Then we played tennis. People watched the tennis match. Then there was horseback riding and a basketball game.",
+      "normalized_edited_story_text_sent": [
+        "we did the high jump .",
+        "then we played tennis .",
+        "people watched the tennis match .",
+        "then there was horseback riding and a basketball game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626805179777",
+  "model": "GLAC"
+}

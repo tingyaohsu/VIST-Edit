@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5964210041-5964210171-5964767550-5964768114-5964768424",
+  "photo_sequence_ids": [
+    "5964210041",
+    "5964210171",
+    "5964767550",
+    "5964768114",
+    "5964768424"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was a beautiful place to visit . the statues were very ornate . the statues were amazing . the architecture was amazing . the artwork was interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the church was a beautiful place to visit . the statues were very ornate . the history was rich . the architecture was amazing . the artwork was creative .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place to visit .",
+        "the statues were very ornate .",
+        "the history was rich .",
+        "the architecture was amazing .",
+        "the artwork was creative ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the church was a beautiful piece of architecture . visitors gawked at the statues . the statues were extraordinary . the architecture was intriguing . the artwork was mesmerizing .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful piece of architecture .",
+        "visitors gawked at the statues .",
+        "the statues were extraordinary .",
+        "the architecture was intriguing .",
+        "the artwork was mesmerizing ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the church was a beautiful place to visit . The man was working on the clock tower. The man was on scaffolding.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place to visit .",
+        "the man was working on the clock tower .",
+        "the man was on scaffolding ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the church was a beautiful place to visit . the statues were very ornate . delicate and very detailed.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place to visit .",
+        "the statues were very ornate .",
+        "delicate and very detailed ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the church was a beautiful place to visit . the statues were very ornate . the statues were being worked on . the architecture was amazing . the artwork was interesting .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place to visit .",
+        "the statues were very ornate .",
+        "the statues were being worked on .",
+        "the architecture was amazing .",
+        "the artwork was interesting ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627256006852",
+  "model": "GLAC"
+}

@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4291059130-4291059184-4290317743-4288286860-4287551075",
+  "photo_sequence_ids": [
+    "4291059130",
+    "4291059184",
+    "4290317743",
+    "4288286860",
+    "4287551075"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to be in the city . they met up with friends and had a great time . they stopped for a quick photo before the big event . the man was happy to see his brother . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary was glad the family was excited to be in the city . they met up with friends and had a great time . they stopped for a quick photo before the big event . the man was happy to see his brother . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the family was excited to be in the city .",
+        "they met up with friends and had a great time .",
+        "they stopped for a quick photo before the big event .",
+        "the man was happy to see his brother .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The young adults got together to support the cause for the day.",
+      "normalized_edited_story_text_sent": [
+        "the young adults got together to support the cause for the day ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "The group was excited to be in the city . everyone gathered in the main hall . we were shown to our places in the auditorium . a friend got his picture taken because he was so excited . we were joined by man who were just as interested as us .",
+      "normalized_edited_story_text_sent": [
+        "the group was excited to be in the city .",
+        "everyone gathered in the main hall .",
+        "we were shown to our places in the auditorium .",
+        "a friend got his picture taken because he was so excited .",
+        "we were joined by man who were just as interested as us ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The entire family was excited to be in the city for a visit.They met up with friends and everyone had a great time. Everyone stopped and posed for a quick photo before the big event. Robert was really happy to see his brother. The entire family was there for the event.",
+      "normalized_edited_story_text_sent": [
+        "the entire family was excited to be in the city for a visit.they met up with friends and everyone had a great time .",
+        "everyone stopped and posed for a quick photo before the big event .",
+        "[male] was really happy to see his brother .",
+        "the entire family was there for the event ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family was excited to be in the big city and they met up with friends and had a great time . they stopped for a quick photo before the big event . the man was happy to see his brother . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be in the big city and they met up with friends and had a great time .",
+        "they stopped for a quick photo before the big event .",
+        "the man was happy to see his brother .",
+        "the whole family was there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623117965103",
+  "model": "GLAC"
+}

@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "23755094-23755303-23755304-23898908-23755484",
+  "photo_sequence_ids": [
+    "23755094",
+    "23755303",
+    "23755304",
+    "23898908",
+    "23755484"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/18/23755094_06802574c5_o.jpg",
+    "https://farm1.staticflickr.com/18/23755303_6621f6423b_o.jpg",
+    "https://farm1.staticflickr.com/18/23755304_63fe1a8d48_o.jpg",
+    "https://farm1.staticflickr.com/18/23898908_ba8da9d015_o.jpg",
+    "https://farm1.staticflickr.com/18/23755484_6eeee2320c_o.jpg"
+  ],
+  "auto_story_text_normalized": "my friends and i went to a party . we had a lot of fun playing games . we had a lot of fun . we had a great time playing in the park . [male] was a little too much to drink . he was so happy that he had to get a picture of him .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "my friends and i went to a party . we had a lot of fun playing games outdoors and enjoying the weather .  . we played in the park. [male] had a little too much to drink but [male] was hilarious. he was so happy that he had to get a picture of him .",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party .",
+        "we had a lot of fun playing games outdoors and enjoying the weather .",
+        ".",
+        "we played in the park .",
+        "[male] had a little too much to drink but [male] was hilarious .",
+        "he was so happy that he had to get a picture of him ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "my friends and i went to a tour. we had a great deal of fun playing games . we had a lot of enjoyment . we had a awesome time playing in the park . [male] was a little too much to drink . he was happy to the point  he had to get a picture of him .",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a tour .",
+        "we had a great deal of fun playing games .",
+        "we had a lot of enjoyment .",
+        "we had a awesome time playing in the park .",
+        "[male] was a little too much to drink .",
+        "he was happy to the point he had to get a picture of him ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "My friends and I went to a party. We had a lot of fun playing games in the park. Rob was a little too much to drink. He was so happy that he had to take a picture.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party .",
+        "we had a lot of fun playing games in the park .",
+        "rob was a little too much to drink .",
+        "he was so happy that he had to take a picture ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "Me and my friends  went to a party. We had a lot of fun playing games in the park.  [male] had a little too much to drink though. He was so happy that he wanted to take selfies on everyone\u0027s phone.",
+      "normalized_edited_story_text_sent": [
+        "me and my friends went to a party .",
+        "we had a lot of fun playing games in the park .",
+        "[male] had a little too much to drink though .",
+        "he was so happy that he wanted to take selfies on everyone \u0027s phone ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "my friends and i went to a party at the park. we had a lot of fun playing games. we had fun with my friends. [male] had a little too much to drink . he was so happy that we had to get a picture of him .",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party at the park .",
+        "we had a lot of fun playing games .",
+        "we had fun with my friends .",
+        "[male] had a little too much to drink .",
+        "he was so happy that we had to get a picture of him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "544979"
+}

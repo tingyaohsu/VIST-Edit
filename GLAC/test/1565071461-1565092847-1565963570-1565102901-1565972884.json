@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1565071461-1565092847-1565963570-1565102901-1565972884",
+  "photo_sequence_ids": [
+    "1565071461",
+    "1565092847",
+    "1565963570",
+    "1565102901",
+    "1565972884"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family is having a picnic . the dogs are playing in the yard . the baby is taking a picture . the bird is eating a snack . the boy is watching the fireworks .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family is having a picnic . the dogs are playing in the yard . the baby loved having his picture taken . the bird is eating a snack from the people . the boy is watching the fireworks together.",
+      "normalized_edited_story_text_sent": [
+        "the family is having a picnic .",
+        "the dogs are playing in the yard .",
+        "the baby loved having his picture taken .",
+        "the bird is eating a snack from the people .",
+        "the boy is watching the fireworks together ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family is having a picnic . the dogs are playing out in the yard . the baby tries to take a picture . the bird is eating a snack . the boy is intensely watching the fireworks .",
+      "normalized_edited_story_text_sent": [
+        "the family is having a picnic .",
+        "the dogs are playing out in the yard .",
+        "the baby tries to take a picture .",
+        "the bird is eating a snack .",
+        "the boy is intensely watching the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family had a picnic and the dogs played in the yard. the baby had his picture taken. A spider ate a snack in its web. They had a wonderful day.",
+      "normalized_edited_story_text_sent": [
+        "the family had a picnic and the dogs played in the yard .",
+        "the baby had his picture taken .",
+        "a spider ate a snack in its web .",
+        "they had a wonderful day ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the family is having a picnic. the dogs are playing in the yard. i take a picture of the baby. the bird is eating a snack. the boy is watching the fireworks. Being outdoors, it is very interesting to see nature up close.",
+      "normalized_edited_story_text_sent": [
+        "the family is having a picnic .",
+        "the dogs are playing in the yard .",
+        "i take a picture of the baby .",
+        "the bird is eating a snack .",
+        "the boy is watching the fireworks .",
+        "being outdoors , it is very interesting to see nature up close ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the little boy was playing.  mushrooms grew in the grass.  a spider made a web and climbed its web.",
+      "normalized_edited_story_text_sent": [
+        "the little boy was playing .",
+        "mushrooms grew in the grass .",
+        "a spider made a web and climbed its web ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602410720603",
+  "model": "GLAC"
+}

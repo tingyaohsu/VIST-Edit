@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "66595026-66595047-69252331-69252425-69252370",
+  "photo_sequence_ids": [
+    "66595026",
+    "66595047",
+    "69252331",
+    "69252425",
+    "69252370"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/25/66595026_40be9fb8ae_o.jpg",
+    "https://farm1.staticflickr.com/27/66595047_c8aef69b16_o.jpg",
+    "https://farm1.staticflickr.com/15/69252331_80a4b5c265_o.jpg",
+    "https://farm1.staticflickr.com/9/69252425_20c15c2ef8_o.jpg",
+    "https://farm1.staticflickr.com/6/69252370_80a050bf01_o.jpg"
+  ],
+  "auto_story_text_normalized": "the meat was ready to be cooked . i made a lot of food . there was a lot of food there . i bought a lot of vegetables . finally , it was time to cut the dough .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the meat was ready to be cooked . i made a lot of food for the feast .i bought a lot of vegetables and some meat . finally , it was time to cut the dough and start eating the meal with my family .",
+      "normalized_edited_story_text_sent": [
+        "the meat was ready to be cooked .",
+        "i made a lot of food for the feast .",
+        "i bought a lot of vegetables and some meat .",
+        "finally , it was time to cut the dough and start eating the meal with my family ."
+      ]
+    },
+    {
+      "worker_id": "A6QG9LM5WL0AQ",
+      "edited_story_text": "the turkey was wrapped in bacon and ready to be cooked . i made a ton of food. there is so much food I hope everyone can eat it all . i bought a lot of vegetables too.  After everything was cooked it was time to cut the turkey .",
+      "normalized_edited_story_text_sent": [
+        "the turkey was wrapped in bacon and ready to be cooked .",
+        "i made a ton of food .",
+        "there is so much food i hope everyone can eat it all .",
+        "i bought a lot of vegetables too .",
+        "after everything was cooked it was time to cut the turkey ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the bacon wrapped meat was ready to be cooked . i made a lot of food and the meat looked delicious . there was a lot of food there besides only meat . to go with the meal, i bought vegetables.  at last, the dough and the meat were ready to be cut.",
+      "normalized_edited_story_text_sent": [
+        "the bacon wrapped meat was ready to be cooked .",
+        "i made a lot of food and the meat looked delicious .",
+        "there was a lot of food there besides only meat .",
+        "to go with the meal , i bought vegetables .",
+        "at last , the dough and the meat were ready to be cut ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The meat was ready to be cooked. I made a lot of food, and I bought a lot of vegetables. Finally, it was time to cut the dough.",
+      "normalized_edited_story_text_sent": [
+        "the meat was ready to be cooked .",
+        "i made a lot of food , and i bought a lot of vegetables .",
+        "finally , it was time to cut the dough ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the meat was ready to be cooked . i made a lot of food . there was a lot of food there . i also had some lettuce . finally , it was time to cut the chicken .",
+      "normalized_edited_story_text_sent": [
+        "the meat was ready to be cooked .",
+        "i made a lot of food .",
+        "there was a lot of food there .",
+        "i also had some lettuce .",
+        "finally , it was time to cut the chicken ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1437238"
+}

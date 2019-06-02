@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "12966126-13648208-13650765-13648211-13649594",
+  "photo_sequence_ids": [
+    "12966126",
+    "13648208",
+    "13650765",
+    "13648211",
+    "13649594"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited for the halloween party . they had lots of fun activities . they even had a pumpkin carving contest . the adults had a lot of fun . the night ended with a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were excited for the halloween party . they had lots of fun activities . they even had a pumpkin carving contest . the adults had a lot of fun . the night ended with a fun time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the halloween party .",
+        "they had lots of fun activities .",
+        "they even had a pumpkin carving contest .",
+        "the adults had a lot of fun .",
+        "the night ended with a fun time ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "we all got together to carve pumpkins.  Adults and kids both enjoyed working on them.  All the carved pumpkins were placed on a table. Then we went inside for some rest.  When it got dark we lite all the pumpkins so they could glow in the dark.",
+      "normalized_edited_story_text_sent": [
+        "we all got together to carve pumpkins .",
+        "adults and kids both enjoyed working on them .",
+        "all the carved pumpkins were placed on a table .",
+        "then we went inside for some rest .",
+        "when it got dark we lite all the pumpkins so they could glow in the dark ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were excited for the halloween party . they had lots of fun activities . they even had a pumpkin carving contest . the adults had a lot of fun too . the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the halloween party .",
+        "they had lots of fun activities .",
+        "they even had a pumpkin carving contest .",
+        "the adults had a lot of fun too .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "The kids were excited for the Halloween party as we were carving pumpkins together. They had lots of fun activities for us to do. Best part was the pumpkin carving contest . The adults had a lot of fun also. The night ended with us all having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the halloween party as we were carving pumpkins together .",
+        "they had lots of fun activities for us to do .",
+        "best part was the pumpkin carving contest .",
+        "the adults had a lot of fun also .",
+        "the night ended with us all having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we had a halloween party last night.  the kids came. there were a lot of fun things to do, including pumpkin carving.  the kids got excited.  the adults had a great time as well.  the night ended on a high note.",
+      "normalized_edited_story_text_sent": [
+        "we had a halloween party last night .",
+        "the kids came .",
+        "there were a lot of fun things to do , including pumpkin carving .",
+        "the kids got excited .",
+        "the adults had a great time as well .",
+        "the night ended on a high note ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "330946",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5951382735-5951383939-5951939538-5951938350-5951384653",
+  "photo_sequence_ids": [
+    "5951382735",
+    "5951383939",
+    "5951939538",
+    "5951938350",
+    "5951384653"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the parade . they had a lot of fun activities . the children were having a great time . the clowns were very good . the whole family had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be in the parade . they had a lot of fun activities  . the clowns were very good . the whole family had a great time and the kids got their faces painted.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade .",
+        "they had a lot of fun activities .",
+        "the clowns were very good .",
+        "the whole family had a great time and the kids got their faces painted ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the kids were excited for the fair . there were lots of activities catered to kids . the children were having great fun . the clowns were good with their tricks . the whole family was entertained .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the fair .",
+        "there were lots of activities catered to kids .",
+        "the children were having great fun .",
+        "the clowns were good with their tricks .",
+        "the whole family was entertained ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the kids were excited to be at the event . they had a lot of fun activities . the children were having a great time . all the children got their faces painted . the whole organization had fun for a good cause .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the event .",
+        "they had a lot of fun activities .",
+        "the children were having a great time .",
+        "all the children got their faces painted .",
+        "the whole organization had fun for a good cause ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "the kids were excited to be in the parade, they had been looking forward to it!  they had a lot of fun activities, face painting and jumping! the children were having a great time . We all loved the clowns. Everyone had a blast!.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade , they had been looking forward to it !",
+        "they had a lot of fun activities , face painting and jumping !",
+        "the children were having a great time .",
+        "we all loved the clowns .",
+        "everyone had a blast !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to be outside. She sat a game table. Face painting was fun. Everyone got on the jumpy house also.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be outside .",
+        "she sat a game table .",
+        "face painting was fun .",
+        "everyone got on the jumpy house also ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627101810461",
+  "model": "GLAC"
+}

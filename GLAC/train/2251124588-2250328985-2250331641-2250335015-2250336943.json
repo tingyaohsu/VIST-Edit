@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2251124588-2250328985-2250331641-2250335015-2250336943",
+  "photo_sequence_ids": [
+    "2251124588",
+    "2250328985",
+    "2250331641",
+    "2250335015",
+    "2250336943"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the town was very old . there were many statues . the buildings were amazing . the views were spectacular . the city was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the town was very ancient. there were numerous statues . the buildings were amazing . the views were spectacular . the city was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the town was very ancient .",
+        "there were numerous statues .",
+        "the buildings were amazing .",
+        "the views were spectacular .",
+        "the city was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the town was very old . there were many statues of historical figures . the views were spectacular . the city was a lot of fun and the beach was very calming.",
+      "normalized_edited_story_text_sent": [
+        "the town was very old .",
+        "there were many statues of historical figures .",
+        "the views were spectacular .",
+        "the city was a lot of fun and the beach was very calming ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "i always enjoy visiting the town square area. there are many statues and monuments to see. the buildings are amazing and the architecture is noteworthy. the views from the nearby beach are spectacular, too. if you obey the rules and stay out of trouble, the city center is always a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i always enjoy visiting the town square area .",
+        "there are many statues and monuments to see .",
+        "the buildings are amazing and the architecture is noteworthy .",
+        "the views from the nearby beach are spectacular , too .",
+        "if you obey the rules and stay out of trouble , the city center is always a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the town was very old . there were many statues . the buildings were amazing . the views of the water were spectacular . There were palm trees and pretty beaches .",
+      "normalized_edited_story_text_sent": [
+        "the town was very old .",
+        "there were many statues .",
+        "the buildings were amazing .",
+        "the views of the water were spectacular .",
+        "there were palm trees and pretty beaches ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the town was very old, with many statues. the buildings were amazing, and the views were spectacular. the beach was gorgeous. the city was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the town was very old , with many statues .",
+        "the buildings were amazing , and the views were spectacular .",
+        "the beach was gorgeous .",
+        "the city was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603870972242",
+  "model": "GLAC"
+}

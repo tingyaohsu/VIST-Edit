@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "44908327-44908959-44909283-44910176-44911123",
+  "photo_sequence_ids": [
+    "44908327",
+    "44908959",
+    "44909283",
+    "44910176",
+    "44911123"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . we had a great time . everyone was having a good time . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was a fun success . many attended . we all had a good time . everyone was entertained . the night was excellent .",
+      "normalized_edited_story_text_sent": [
+        "the party was a fun success .",
+        "many attended .",
+        "we all had a good time .",
+        "everyone was entertained .",
+        "the night was excellent ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The party was a lot of fun. There were a lot of people there, and we played some pool.  Everyone seemed to be enjoying themselves, and we had a great night of fun.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there , and we played some pool .",
+        "everyone seemed to be enjoying themselves , and we had a great night of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and MARY SAID  the party was a lot of fun . there were a lot of people there . we had a great time . everyone was having a good time . it was a great night .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] said the party was a lot of fun .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "everyone was having a good time .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for a few hours . there were a lot of people there and a few kids . we had a great time playing pool . everyone was having a good time except for my sister. it was a great night and wish it would of been longer.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for a few hours .",
+        "there were a lot of people there and a few kids .",
+        "we had a great time playing pool .",
+        "everyone was having a good time except for my sister .",
+        "it was a great night and wish it would of been longer ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . We played pool and hung out. Everyone had a great time. The guys posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we played pool and hung out .",
+        "everyone had a great time .",
+        "the guys posed for a picture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "981650",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4439081106-4439087920-4438319351-4440815296-4440050155",
+  "photo_sequence_ids": [
+    "4439081106",
+    "4439087920",
+    "4438319351",
+    "4440815296",
+    "4440050155"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2524/4439081106_99cd6bc037_o.jpg",
+    "https://farm5.staticflickr.com/4026/4439087920_e8fc6603eb_o.jpg",
+    "https://farm3.staticflickr.com/2706/4438319351_9531dfaf0d_o.jpg",
+    "https://farm5.staticflickr.com/4072/4440815296_c8b2ba7ace_o.jpg",
+    "https://farm5.staticflickr.com/4028/4440050155_7097e0e9d0_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day . the soldiers were very happy to be there . some of them were very friendly . the man is giving a speech to the soldiers . the soldiers were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Today was the day! The soldiers were happy to be there, and some of them were very friendly. The man gave them a speech.",
+      "normalized_edited_story_text_sent": [
+        "today was the day !",
+        "the soldiers were happy to be there , and some of them were very friendly .",
+        "the man gave them a speech ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "today was the day . the soldiers were very happy to be there . some of them were very friendly . the man is giving a speech to the soldiers . the soldiers were very happy to be there  It was a very good afternoon",
+      "normalized_edited_story_text_sent": [
+        "today was the day .",
+        "the soldiers were very happy to be there .",
+        "some of them were very friendly .",
+        "the man is giving a speech to the soldiers .",
+        "the soldiers were very happy to be there it was a very good afternoon"
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "Today was the meeting . the soldiers were very happy to be there . some of them were very friendly . the man is giving a speech to the soldiers . the soldiers were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "today was the meeting .",
+        "the soldiers were very happy to be there .",
+        "some of them were very friendly .",
+        "the man is giving a speech to the soldiers .",
+        "the soldiers were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "today is the day . the soldiers are very happy to be there . some of them are very friendly . the man was giving a speech to the soldiers . the soldiers are very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "today is the day .",
+        "the soldiers are very happy to be there .",
+        "some of them are very friendly .",
+        "the man was giving a speech to the soldiers .",
+        "the soldiers are very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the soldiers came today . they were eager to help wherever they could . although they were serious military men,some of them were very friendly . the soldiers listened to this man speak .the soldiers were glad to volunteer their time .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers came today .",
+        "they were eager to help wherever they could .",
+        "although they were serious military men , some of them were very friendly .",
+        "the soldiers listened to this man speak .",
+        "the soldiers were glad to volunteer their time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623509449753"
+}

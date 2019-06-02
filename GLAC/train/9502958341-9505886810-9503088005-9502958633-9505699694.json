@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "9502958341-9505886810-9503088005-9502958633-9505699694",
+  "photo_sequence_ids": [
+    "9502958341",
+    "9505886810",
+    "9503088005",
+    "9502958633",
+    "9505699694"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . the band was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the rally was a lot of fun . there were a lot of people in attendance.",
+      "normalized_edited_story_text_sent": [
+        "the rally was a lot of fun .",
+        "there were a lot of people in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the parade was spectacular. there parties, dressed up for the occasion . the creativity display was irresistible  . i was enchanted . the band stole the show.",
+      "normalized_edited_story_text_sent": [
+        "the parade was spectacular .",
+        "there parties , dressed up for the occasion .",
+        "the creativity display was irresistible .",
+        "i was enchanted .",
+        "the band stole the show ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . the band was very good .\r\rWe had a great time at the parade! There were so many people dressed up! There was a lot of creativity this year. I had an awesome time! The Lisa David band was amazing!",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "the band was very good .",
+        "we had a great time at the parade !",
+        "there were so many people dressed up !",
+        "there was a lot of creativity this year .",
+        "i had an awesome time !",
+        "the [female] [male] band was amazing !"
+      ]
+    },
+    {
+      "worker_id": "ADBDQ7FTFHKCR",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people dressed up . some of them were very colorful . i had a great time . the band played great music .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of them were very colorful .",
+        "i had a great time .",
+        "the band played great music ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The sights were amazing to see. We posed on the steps in front of them. There were people with signs and others sitting by the water.",
+      "normalized_edited_story_text_sent": [
+        "the sights were amazing to see .",
+        "we posed on the steps in front of them .",
+        "there were people with signs and others sitting by the water ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157635062356920",
+  "model": "GLAC"
+}

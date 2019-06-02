@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "15686222925-15687819652-15501023147-15501324907-15501708120",
+  "photo_sequence_ids": [
+    "15686222925",
+    "15687819652",
+    "15501023147",
+    "15501324907",
+    "15501708120"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . we had a great time . everyone was very happy . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family\u0027s party was a lot of fun . There were a lot of people there . My family had a great time . Everyone was very happy . Afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "my family \u0027s party was a lot of fun .",
+        "there were a lot of people there .",
+        "my family had a great time .",
+        "everyone was very happy .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the party was a ton of fun . there were a lot of neat people there . we had a fantastic time . everyone was super happy . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the party was a ton of fun .",
+        "there were a lot of neat people there .",
+        "we had a fantastic time .",
+        "everyone was super happy .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the party was a lot of fun .many people showed up. we all had a great time . everyone was very playful . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "many people showed up .",
+        "we all had a great time .",
+        "everyone was very playful .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "the party we went to last night wound up being great. the house was dark and spooky. there were a lot of neat decorations. we made some really interesting kids of foods. Mary was a great host and im glad she invited me.",
+      "normalized_edited_story_text_sent": [
+        "the party we went to last night wound up being great .",
+        "the house was dark and spooky .",
+        "there were a lot of neat decorations .",
+        "we made some really interesting kids of foods .",
+        "[female] was a great host and im glad she invited me ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157648674018690",
+  "model": "GLAC"
+}

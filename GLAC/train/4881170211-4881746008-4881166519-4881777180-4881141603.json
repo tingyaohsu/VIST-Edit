@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4881170211-4881746008-4881166519-4881777180-4881141603",
+  "photo_sequence_ids": [
+    "4881170211",
+    "4881746008",
+    "4881166519",
+    "4881777180",
+    "4881141603"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was ready for the concert . the crowd was excited . the band was playing well . the crowd was very happy . the fans were so excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the wedding was beautiful. the crowd was excited . the music was playing . the crowd was very happy . their family was so excited .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the crowd was excited .",
+        "the music was playing .",
+        "the crowd was very happy .",
+        "their family was so excited ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the bride and groom looked very happy and in love. they were on the stage and they performed while the guests watched them dance. . the crowd was excited . the bride was looking beautiful in red and the groom was wearing a matching color. everything looked perfect.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom looked very happy and in love .",
+        "they were on the stage and they performed while the guests watched them dance .",
+        "the crowd was excited .",
+        "the bride was looking beautiful in red and the groom was wearing a matching color .",
+        "everything looked perfect ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the couple was dancing. the crowd was excited to watch. the couple danced well, making the crowd was very happy and excited.",
+      "normalized_edited_story_text_sent": [
+        "the couple was dancing .",
+        "the crowd was excited to watch .",
+        "the couple danced well , making the crowd was very happy and excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding band was ready to perform . the crowd was pumped . the band was playing at its peak . the crowd was very happy for the band and new couple . the fans of both band and couple were energetic .",
+      "normalized_edited_story_text_sent": [
+        "the wedding band was ready to perform .",
+        "the crowd was pumped .",
+        "the band was playing at its peak .",
+        "the crowd was very happy for the band and new couple .",
+        "the fans of both band and couple were energetic ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the band was ready for the concert to start  . the crowd was excited that the married couple danced . the band was playing well into the night. the crowd was very happy that the band played all night . the fans were so excited to see the movie stars .",
+      "normalized_edited_story_text_sent": [
+        "the band was ready for the concert to start .",
+        "the crowd was excited that the married couple danced .",
+        "the band was playing well into the night .",
+        "the crowd was very happy that the band played all night .",
+        "the fans were so excited to see the movie stars ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624700649708",
+  "model": "GLAC"
+}

@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6232157436-6232157164-6231655909-6232174432-6232184294",
+  "photo_sequence_ids": [
+    "6232157436",
+    "6232157164",
+    "6231655909",
+    "6232174432",
+    "6232184294"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6157/6232157436_d3eac9e5d5_o.jpg",
+    "https://farm7.staticflickr.com/6105/6232157164_52a09d1d84_o.jpg",
+    "https://farm7.staticflickr.com/6052/6231655909_0a11743e91_o.jpg",
+    "https://farm7.staticflickr.com/6099/6232174432_dde8471672_o.jpg",
+    "https://farm7.staticflickr.com/6166/6232184294_d7895588a6_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to a car show . and the kids were having a great time . there were a lot of people there . after the show , the crowd gathered to watch the band play . this is a picture of a crowd .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to a car show. The kids had a great time. There were a lot of people there, and then after the show, the crowd gathered to watch the band play. Here\u0027s a picture of the crowd!",
+      "normalized_edited_story_text_sent": [
+        "we went to a car show .",
+        "the kids had a great time .",
+        "there were a lot of people there , and then after the show , the crowd gathered to watch the band play .",
+        "here \u0027s a picture of the crowd !"
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to a football game and the kids were having a great time. There were a lot of people there.  After the game, we had an after party.  The crowd gathered to watch the band play. This is a picture of a crowd .",
+      "normalized_edited_story_text_sent": [
+        "we went to a football game and the kids were having a great time .",
+        "there were a lot of people there .",
+        "after the game , we had an after party .",
+        "the crowd gathered to watch the band play .",
+        "this is a picture of a crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to a football game . the kids were having a great time . there were a lot of people there . after the game , the crowd gathered to watch the band play . the day ended with a beautiful sunset. .",
+      "normalized_edited_story_text_sent": [
+        "we went to a football game .",
+        "the kids were having a great time .",
+        "there were a lot of people there .",
+        "after the game , the crowd gathered to watch the band play .",
+        "the day ended with a beautiful sunset .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "A39ZJ6GDHFZRJW",
+      "edited_story_text": "We saw cars on the road .  The kids were playing football.  there were a lot of people there . after the game, the crowd gathered to watch the band play . this is a picture of a sunset .",
+      "normalized_edited_story_text_sent": [
+        "we saw cars on the road .",
+        "the kids were playing football .",
+        "there were a lot of people there .",
+        "after the game , the crowd gathered to watch the band play .",
+        "this is a picture of a sunset ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we went to a football game . and the kids were having a great time . there was a crowd . after the show , the people gathered to watch the band play . this is a photo of a crowd .",
+      "normalized_edited_story_text_sent": [
+        "we went to a football game .",
+        "and the kids were having a great time .",
+        "there was a crowd .",
+        "after the show , the people gathered to watch the band play .",
+        "this is a photo of a crowd ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627864675956"
+}

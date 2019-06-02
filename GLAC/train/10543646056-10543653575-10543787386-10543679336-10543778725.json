@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "10543646056-10543653575-10543787386-10543679336-10543778725",
+  "photo_sequence_ids": [
+    "10543646056",
+    "10543653575",
+    "10543787386",
+    "10543679336",
+    "10543778725"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was all ready for the big day . the kids were excited to be in the parade . the children were dressed up . the girls were having a great time . the man was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was all ready for the big day . The kids were in costume and getting ready for the parade.The girls were witches. She had to kiss Darth Vadar.",
+      "normalized_edited_story_text_sent": [
+        "the family was all ready for the big day .",
+        "the kids were in costume and getting ready for the parade.the girls were witches .",
+        "she had to kiss darth vadar ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "And then, came the big day. The entire family had everything ready to go. The kids were dressed up and exhilarated because they were going to be a part of the parade! The girls had a great time while one man looked extremely happy.",
+      "normalized_edited_story_text_sent": [
+        "and then , came the big day .",
+        "the entire family had everything ready to go .",
+        "the kids were dressed up and exhilarated because they were going to be a part of the parade !",
+        "the girls had a great time while one man looked extremely happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was all ready for the grand day . the kids were animated to be in the parade . the children were dressed up . the girls were having a great time . the man was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the family was all ready for the grand day .",
+        "the kids were animated to be in the parade .",
+        "the children were dressed up .",
+        "the girls were having a great time .",
+        "the man was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was all ready for the big day . the kids were excited to be at the party.",
+      "normalized_edited_story_text_sent": [
+        "the family was all ready for the big day .",
+        "the kids were excited to be at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2WWDCN2KF1HGN",
+      "edited_story_text": "the family was all ready for the big day . the kids were all dressed up and excited to be in the parade.  There were many different types of costumes. two girls dressed up as witches with a matching color theme.  a star wars character even got a kiss on the cheek from a fan.",
+      "normalized_edited_story_text_sent": [
+        "the family was all ready for the big day .",
+        "the kids were all dressed up and excited to be in the parade .",
+        "there were many different types of costumes .",
+        "two girls dressed up as witches with a matching color theme .",
+        "a star wars character even got a kiss on the cheek from a fan ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157637055790775",
+  "model": "GLAC"
+}

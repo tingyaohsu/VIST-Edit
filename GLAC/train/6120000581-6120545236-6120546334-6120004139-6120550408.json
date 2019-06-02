@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6120000581-6120545236-6120546334-6120004139-6120550408",
+  "photo_sequence_ids": [
+    "6120000581",
+    "6120545236",
+    "6120546334",
+    "6120004139",
+    "6120550408"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was about to begin . the players were ready for the game . the team was excited . the stadium was full of fans . the game was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We got to the football game so early!!! Look at how the stadium looks when it is empty!!! This did not last long, it was soon packed. Go Clemson!!!!",
+      "normalized_edited_story_text_sent": [
+        "we got to the football game so early !!!",
+        "look at how the stadium looks when it is empty !!!",
+        "this did not last long , it was soon packed .",
+        "go clemson !!!!"
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the football stadium was so cool before the game began. we got there early to try to get good seats. it was so cool seeing it empty like that! and, of course, it was a great game.",
+      "normalized_edited_story_text_sent": [
+        "the football stadium was so cool before the game began .",
+        "we got there early to try to get good seats .",
+        "it was so cool seeing it empty like that !",
+        "and , of course , it was a great game ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the baseball game was about to begin . the players were ready for the game . the team was excited . the stadium would soon be full of fans . the game was a really fun event",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to begin .",
+        "the players were ready for the game .",
+        "the team was excited .",
+        "the stadium would soon be full of fans .",
+        "the game was a really fun event"
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Baseball Game!!  Everyone was excited!  The stadium filled up and we won!!",
+      "normalized_edited_story_text_sent": [
+        "baseball game !!",
+        "everyone was excited !",
+        "the stadium filled up and we won !!"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the baseball game was about to commence . the players were pumped . the team was bubbling . fans filled the stadium . the game was sold out successfully .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to commence .",
+        "the players were pumped .",
+        "the team was bubbling .",
+        "fans filled the stadium .",
+        "the game was sold out successfully ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631742265391",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4634730580-4634738318-4634744278-4634150669-4634153005",
+  "photo_sequence_ids": [
+    "4634730580",
+    "4634738318",
+    "4634744278",
+    "4634150669",
+    "4634153005"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4026/4634730580_50845e6d4a_o.jpg",
+    "https://farm5.staticflickr.com/4024/4634738318_373616d9bb_o.jpg",
+    "https://farm4.staticflickr.com/3333/4634744278_8e4b863e8c_o.jpg",
+    "https://farm5.staticflickr.com/4070/4634150669_a88ec92709_o.jpg",
+    "https://farm4.staticflickr.com/3364/4634153005_c97a5966b9_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of people at the convention . there were a lot of people there . the speaker gave a lot of speeches . the man in black and white wig is a picture of a man wearing a hat . i \u0027m not sure what to do .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "There were a lot of people at the movie contention. [female] gave a speech about her performance. [male] talked to the people in the crowd. There were convention-goers who dressed in costumes. I saw someone with a pretend chainsaw covered in fake blood.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the movie contention .",
+        "[female] gave a speech about her performance .",
+        "[male] talked to the people in the crowd .",
+        "there were convention-goers who dressed in costumes .",
+        "i saw someone with a pretend chainsaw covered in fake blood ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to a horror convention. There were a lot of people there dressed up a horror figures. Directors and actors spoke to the crowd about their experiences. Some of the cosplayers frightened me with their costumes.",
+      "normalized_edited_story_text_sent": [
+        "we went to a horror convention .",
+        "there were a lot of people there dressed up a horror figures .",
+        "directors and actors spoke to the crowd about their experiences .",
+        "some of the cosplayers frightened me with their costumes ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "there are a lot of people at the convention . there are a lot of people there . the speaker give a lot of speeches . the man in black and white wig was a picture of a man wearing a hat . i \u0027m not sure what to do .",
+      "normalized_edited_story_text_sent": [
+        "there are a lot of people at the convention .",
+        "there are a lot of people there .",
+        "the speaker give a lot of speeches .",
+        "the man in black and white wig was a picture of a man wearing a hat .",
+        "i \u0027m not sure what to do ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "there were a lot of people at the convention that were speaking . there were a lot of people there in the audience as well. the speaker gave a lot of speeches . the man in black and white wig is a picture of a man wearing a hat .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the convention that were speaking .",
+        "there were a lot of people there in the audience as well .",
+        "the speaker gave a lot of speeches .",
+        "the man in black and white wig is a picture of a man wearing a hat ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the convention in [location] was a big draw for lots of people .many people attended, including [female]. [male] talked for quite a while .a black and white man with a hat posed for a picture . i\u0027m confused about how to react to the chainsaw man .",
+      "normalized_edited_story_text_sent": [
+        "the convention in [location] was a big draw for lots of people .",
+        "many people attended , including [female] .",
+        "[male] talked for quite a while .",
+        "a black and white man with a hat posed for a picture .",
+        "i \u0027m confused about how to react to the chainsaw man ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623999649361"
+}

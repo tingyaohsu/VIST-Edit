@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5088133887-5088706570-5088121045-5088122887-5088734170",
+  "photo_sequence_ids": [
+    "5088133887",
+    "5088706570",
+    "5088121045",
+    "5088122887",
+    "5088734170"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was having a great time . he was excited to be there . he was so happy . he was the first person . he was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3P6IXUM1ND35A",
+      "edited_story_text": "the younger child was having a great time . he was so happy and excited to be there. he was the second person, the girl was the first.",
+      "normalized_edited_story_text_sent": [
+        "the younger child was having a great time .",
+        "he was so happy and excited to be there .",
+        "he was the second person , the girl was the first ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My kids were having fun picking out pumpkins. They each took pictures with the pumpkins they picked from the patch.",
+      "normalized_edited_story_text_sent": [
+        "my kids were having fun picking out pumpkins .",
+        "they each took pictures with the pumpkins they picked from the patch ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were having a great time . he was excited to be there . he was so happy . he was the first person to get a pumpkin . he was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time .",
+        "he was excited to be there .",
+        "he was so happy .",
+        "he was the first person to get a pumpkin .",
+        "he was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "mary sat with pumpkins around her for a picture. next lisa and david got their pictures taken with pumpkins in their hands. everyone was having a great time at the park. the pictures came out very well. there were a bunch of pumpkins for the kids to get the pictures with.",
+      "normalized_edited_story_text_sent": [
+        "[female] sat with pumpkins around her for a picture .",
+        "next [female] and [male] got their pictures taken with pumpkins in their hands .",
+        "everyone was having a great time at the park .",
+        "the pictures came out very well .",
+        "there were a bunch of pumpkins for the kids to get the pictures with ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the girl was having a great time . the kids were excited to be there . she was so happy . they posed with the pumpkins . they was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the girl was having a great time .",
+        "the kids were excited to be there .",
+        "she was so happy .",
+        "they posed with the pumpkins .",
+        "they was very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625179918732",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4234468087-4234468591-4234469093-4234469417-4234517129",
+  "photo_sequence_ids": [
+    "4234468087",
+    "4234468591",
+    "4234469093",
+    "4234469417",
+    "4234517129"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . the friends were having a great time . the guys were all drinking . the drinks were flowing . the night was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The party was a lot of fun.  The friends were having a great time and the guys were all drinking.  The drinks were flowing and the night was a success.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the friends were having a great time and the guys were all drinking .",
+        "the drinks were flowing and the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the party was a lot of fun for this guy . the friends were having a great time . the guys were all drinking . the conversation was flowing . they watched fireworks from the balcony .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for this guy .",
+        "the friends were having a great time .",
+        "the guys were all drinking .",
+        "the conversation was flowing .",
+        "they watched fireworks from the balcony ."
+      ]
+    },
+    {
+      "worker_id": "A76JOAFEPGZH2",
+      "edited_story_text": "the party was a lot of fun. Everyone had a great time! The drinks were flowing. The night was a success .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone had a great time !",
+        "the drinks were flowing .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the party was a lot of fun . the friends were having a great time . the friends were standing together . the drinks were flowing . the night was a success and ended with fireworks .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the friends were having a great time .",
+        "the friends were standing together .",
+        "the drinks were flowing .",
+        "the night was a success and ended with fireworks ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My party was a lot of fun . My friends were having a great time . My guys were all drinking . The drinks were flowing . My night was a success .",
+      "normalized_edited_story_text_sent": [
+        "my party was a lot of fun .",
+        "my friends were having a great time .",
+        "my guys were all drinking .",
+        "the drinks were flowing .",
+        "my night was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622991566633",
+  "model": "GLAC"
+}

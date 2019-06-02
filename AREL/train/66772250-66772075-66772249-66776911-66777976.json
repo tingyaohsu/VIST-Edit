@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "66772250-66772075-66772249-66776911-66777976",
+  "photo_sequence_ids": [
+    "66772250",
+    "66772075",
+    "66772249",
+    "66776911",
+    "66777976"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/33/66772250_ad040a0bbe_o.jpg",
+    "https://farm1.staticflickr.com/27/66772075_1f214f1ad1_o.jpg",
+    "https://farm1.staticflickr.com/32/66772249_96c7de2441_o.jpg",
+    "https://farm1.staticflickr.com/32/66776911_a4ac427ade_o.jpg",
+    "https://farm1.staticflickr.com/33/66777976_909183c0bd_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a table . the table was set and ready for the dinner . there was a lot of decorations . the menu is a great place for the family . we had a great meal and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I set up my music player on the table for the party. The table was all set and ready for dinner. The living room was cleaned up in case people wanted to relax. I had a menu set for the dinner I made. I set the dinner on the table and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i set up my music player on the table for the party .",
+        "the table was all set and ready for dinner .",
+        "the living room was cleaned up in case people wanted to relax .",
+        "i had a menu set for the dinner i made .",
+        "i set the dinner on the table and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to my grandmother\u0027s house for dinner. she had set the table very nicely. her house always has decorations up. we had a great meal and had a good time.",
+      "normalized_edited_story_text_sent": [
+        "we went to my grandmother \u0027s house for dinner .",
+        "she had set the table very nicely .",
+        "her house always has decorations up .",
+        "we had a great meal and had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We planned a big thanksgiving dinner. The table was set and ready for the dinner. There was a lot of decorations. We made the stuffing from a recipe. The dinner turned out great.",
+      "normalized_edited_story_text_sent": [
+        "we planned a big thanksgiving dinner .",
+        "the table was set and ready for the dinner .",
+        "there was a lot of decorations .",
+        "we made the stuffing from a recipe .",
+        "the dinner turned out great ."
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "We had a wonderful family dinner. The table was nicely set with several decorations. The meal was delicious and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a wonderful family dinner .",
+        "the table was nicely set with several decorations .",
+        "the meal was delicious and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "this is a picture of a cooking timer . the table was set and ready for the dinner . the living room was relaxing . the stuffing recipe was great . we had a great meal and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a cooking timer .",
+        "the table was set and ready for the dinner .",
+        "the living room was relaxing .",
+        "the stuffing recipe was great .",
+        "we had a great meal and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1440568"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2713347363-2712931445-2712910707-2713971964-2714829954",
+  "photo_sequence_ids": [
+    "2713347363",
+    "2712931445",
+    "2712910707",
+    "2713971964",
+    "2714829954"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for a party . they had a lot of fun . they played games . they also had a great time . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family gathered for a party . the lady got sick . they ran tests . She got her sleep . she soon felt better  .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a party .",
+        "the lady got sick .",
+        "they ran tests .",
+        "she got her sleep .",
+        "she soon felt better ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the woman ate at the restaurant . she was in the hospital . vitals were good . she rested . they had a great time and felt better.",
+      "normalized_edited_story_text_sent": [
+        "the woman ate at the restaurant .",
+        "she was in the hospital .",
+        "vitals were good .",
+        "she rested .",
+        "they had a great time and felt better ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family gathered together . they spent time with their sick mom. they played games . they also had a great time . they enjoyed seeing each other.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered together .",
+        "they spent time with their sick mom .",
+        "they played games .",
+        "they also had a great time .",
+        "they enjoyed seeing each other ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "Lisa is a good woman. She had a little accident, but now she\u0027s back to teaching.",
+      "normalized_edited_story_text_sent": [
+        "[female] is a good woman .",
+        "she had a little accident , but now she \u0027s back to teaching ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family gathered for a party to honor their aunt . they had a lot of fun eating at the restaurant . they played games and told stories . they also had a great time relaxing . they had a great time discussing next weeks party. .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a party to honor their aunt .",
+        "they had a lot of fun eating at the restaurant .",
+        "they played games and told stories .",
+        "they also had a great time relaxing .",
+        "they had a great time discussing next weeks party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606437775436",
+  "model": "GLAC"
+}

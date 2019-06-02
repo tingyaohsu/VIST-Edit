@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4676983947-4676680145-4676677913-4677307734-4676679113",
+  "photo_sequence_ids": [
+    "4676983947",
+    "4676680145",
+    "4676677913",
+    "4677307734",
+    "4676679113"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graveyard was a beautiful site . the tombstones were very old . they had many interesting things . some of them were huge . the graves were lovely .",
+  "edited_stories": [
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The graveyard was a beautiful site to see. All of the tombstones were very old. The tombstones had many interesting sayings on the. Some of them were really big. The graves in the graveyard were lovely to see.",
+      "normalized_edited_story_text_sent": [
+        "the graveyard was a beautiful site to see .",
+        "all of the tombstones were very old .",
+        "the tombstones had many interesting sayings on the .",
+        "some of them were really big .",
+        "the graves in the graveyard were lovely to see ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The gravestones were very old and interesting to look at with many green trees and bushes made it a very peaceful place.",
+      "normalized_edited_story_text_sent": [
+        "the gravestones were very old and interesting to look at with many green trees and bushes made it a very peaceful place ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the graveyard is a beautiful site that we always enjoy visiting. the tombstones are very old and worn. they are all inscribed with many interesting things. most of the headstones are modest in size. all in all, the graves are haunting and lovely .",
+      "normalized_edited_story_text_sent": [
+        "the graveyard is a beautiful site that we always enjoy visiting .",
+        "the tombstones are very old and worn .",
+        "they are all inscribed with many interesting things .",
+        "most of the headstones are modest in size .",
+        "all in all , the graves are haunting and lovely ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john told Mary that the graveyard was a beautiful site . the tombstones were very old . they had many interesting things . some of them were huge . the graves were lovely .",
+      "normalized_edited_story_text_sent": [
+        "[male] told [female] that the graveyard was a beautiful site .",
+        "the tombstones were very old .",
+        "they had many interesting things .",
+        "some of them were huge .",
+        "the graves were lovely ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the graveyard was a beautiful site. the tombstones were very old. they had many interesting things written on them. some of them were huge. the graves were lovely.",
+      "normalized_edited_story_text_sent": [
+        "the graveyard was a beautiful site .",
+        "the tombstones were very old .",
+        "they had many interesting things written on them .",
+        "some of them were huge .",
+        "the graves were lovely ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624096000559",
+  "model": "GLAC"
+}

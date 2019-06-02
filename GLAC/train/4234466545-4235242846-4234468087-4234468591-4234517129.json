@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4234466545-4235242846-4234468087-4234468591-4234517129",
+  "photo_sequence_ids": [
+    "4234466545",
+    "4235242846",
+    "4234468087",
+    "4234468591",
+    "4234517129"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we had a great time at the party . there were a lot of people there . i had a great time . everyone was having a good time . afterward we all went out to watch the fireworks .",
+  "edited_stories": [
+    {
+      "worker_id": "A2KW26KE43UBRS",
+      "edited_story_text": "We had a wonderful time at the party. There were quite a few people there. I even had a great time . Everyone was having a good time. After the party, we all went out to watch the fireworks.",
+      "normalized_edited_story_text_sent": [
+        "we had a wonderful time at the party .",
+        "there were quite a few people there .",
+        "i even had a great time .",
+        "everyone was having a good time .",
+        "after the party , we all went out to watch the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "we had a great time at the party . there were a lot of people there . i had a great time . everyone had a good time too. afterwards we all went outside to watch the fireworks .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "there were a lot of people there .",
+        "i had a great time .",
+        "everyone had a good time too .",
+        "afterwards we all went outside to watch the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "we had a ball at the party . the place was up to full capacity. i had the most amassing experience. indeed, everyone did . later we all took in the fireworks display.",
+      "normalized_edited_story_text_sent": [
+        "we had a ball at the party .",
+        "the place was up to full capacity .",
+        "i had the most amassing experience .",
+        "indeed , everyone did .",
+        "later we all took in the fireworks display ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the festive party and  there were a lot of people there . i had a great time . everyone was having a good time . afterward we all went out to watch the fireworks .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festive party and there were a lot of people there .",
+        "i had a great time .",
+        "everyone was having a good time .",
+        "afterward we all went out to watch the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "we had a fun time . lots of people were at the party . i was one of those that had fun . everyone else was also having fun . afterwards, we got to see a fireworks display .",
+      "normalized_edited_story_text_sent": [
+        "we had a fun time .",
+        "lots of people were at the party .",
+        "i was one of those that had fun .",
+        "everyone else was also having fun .",
+        "afterwards , we got to see a fireworks display ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622991566633",
+  "model": "GLAC"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "8933097-8933130-8933145-8933147-8933169",
+  "photo_sequence_ids": [
+    "8933097",
+    "8933130",
+    "8933145",
+    "8933147",
+    "8933169"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/5/8933097_55e3943c84_o.jpg",
+    "https://farm1.staticflickr.com/5/8933130_a7eef5318f_o.jpg",
+    "https://farm1.staticflickr.com/8/8933145_4b9b62f4da_o.jpg",
+    "https://farm1.staticflickr.com/6/8933147_3da762f2dc_o.jpg",
+    "https://farm1.staticflickr.com/4/8933169_6837d8cad9_o.jpg"
+  ],
+  "auto_story_text_normalized": "the baby was very excited to see his new baby . the little girl was so excited to see the baby . the little girl is looking at the camera . he was very happy to see him . the baby was very happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The sister was so excited to meet the new baby. The little girl was excited to see the baby too. She looked over the the camera. [Male] was so happy to hold the baby, and the baby was very happy to see him too.",
+      "normalized_edited_story_text_sent": [
+        "the sister was so excited to meet the new baby .",
+        "the little girl was excited to see the baby too .",
+        "she looked over the the camera .",
+        "[male] was so happy to hold the baby , and the baby was very happy to see him too ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "[Tom] was very excited to see his new baby . the little girl was so excited to see the baby sister . the little girl is looking at the camera happily . [Tom] was very happy to see him . the baby was very happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "[male] was very excited to see his new baby .",
+        "the little girl was so excited to see the baby sister .",
+        "the little girl is looking at the camera happily .",
+        "[male] was very happy to see him .",
+        "the baby was very happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the baby is very excited to saw his new baby . the little girl is so excited to saw the baby . the little girl was looking at the camera . he is very happy to saw him . the baby is very happy to saw him .",
+      "normalized_edited_story_text_sent": [
+        "the baby is very excited to saw his new baby .",
+        "the little girl is so excited to saw the baby .",
+        "the little girl was looking at the camera .",
+        "he is very happy to saw him .",
+        "the baby is very happy to saw him ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "the woman was very excited to see his new baby . the little girl was excited to see the baby too .everyone enjoyed meeting the new family addition.",
+      "normalized_edited_story_text_sent": [
+        "the woman was very excited to see his new baby .",
+        "the little girl was excited to see the baby too .",
+        "everyone enjoyed meeting the new family addition ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The boy and the women were very excited to see his new baby. The little girl is looking at the camera.  She was so adorable.",
+      "normalized_edited_story_text_sent": [
+        "the boy and the women were very excited to see his new baby .",
+        "the little girl is looking at the camera .",
+        "she was so adorable ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "227929"
+}

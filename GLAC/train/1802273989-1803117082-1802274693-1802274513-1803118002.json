@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "1802273989-1803117082-1802274693-1802274513-1803118002",
+  "photo_sequence_ids": [
+    "1802273989",
+    "1803117082",
+    "1802274693",
+    "1802274513",
+    "1803118002"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was on vacation . they visited the park . they stopped at a local restaurant . they saw a lot of animals . they also had a great meal .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was on vacation . they visited the park . they stopped at a local restaurant . they saw a lot of ducks in the water . they also had a great meal with bacon.",
+      "normalized_edited_story_text_sent": [
+        "the family was on vacation .",
+        "they visited the park .",
+        "they stopped at a local restaurant .",
+        "they saw a lot of ducks in the water .",
+        "they also had a great meal with bacon ."
+      ]
+    },
+    {
+      "worker_id": "A1XEZ0X9ABFUDP",
+      "edited_story_text": "The family was on vacation. They visited the park, stopped at a local restaurant, saw a lot of animals and had a great meal.",
+      "normalized_edited_story_text_sent": [
+        "the family was on vacation .",
+        "they visited the park , stopped at a local restaurant , saw a lot of animals and had a great meal ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "On vacation we visited the park . Came across a fund raiser run for prostate cancer. We were able to join the walk and then eat a meal with all the other participants.",
+      "normalized_edited_story_text_sent": [
+        "on vacation we visited the park .",
+        "came across a fund raiser run for prostate cancer .",
+        "we were able to join the walk and then eat a meal with all the other participants ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was on vacation . they visited the park . they stopped at a local restaurant . they had a great meal . including bacon and delicious pancakes.",
+      "normalized_edited_story_text_sent": [
+        "the family was on vacation .",
+        "they visited the park .",
+        "they stopped at a local restaurant .",
+        "they had a great meal .",
+        "including bacon and delicious pancakes ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family was on vacation . they visited the park . we stopped at a local restaurant . they saw a lot of animals .we also had a great meal there.",
+      "normalized_edited_story_text_sent": [
+        "the family was on vacation .",
+        "they visited the park .",
+        "we stopped at a local restaurant .",
+        "they saw a lot of animals .",
+        "we also had a great meal there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602795343231",
+  "model": "GLAC"
+}

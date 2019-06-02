@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "447843320-447847629-447844640-447849525-447844892",
+  "photo_sequence_ids": [
+    "447843320",
+    "447847629",
+    "447844640",
+    "447849525",
+    "447844892"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for a dinner . the family was all together . the brothers were having a great time . the food was delicious . the meal was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family gathered together for a dinner. the brothers were having a great time. the meal was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered together for a dinner .",
+        "the brothers were having a great time .",
+        "the meal was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family gathered for holiday dinner . the family was reunited on christmas . the brothers were enjoying themselves . the food was tasty . the meal was cooked by an expert .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for holiday dinner .",
+        "the family was reunited on christmas .",
+        "the brothers were enjoying themselves .",
+        "the food was tasty .",
+        "the meal was cooked by an expert ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the family gathered for a dinner and drinks. the family was all together, they were singing songs. everyone was having a great time . the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a dinner and drinks .",
+        "the family was all together , they were singing songs .",
+        "everyone was having a great time .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the family gathered for a dinner and were having a great time . the food was delicious and everyone enjoyed a variety of drinks. everyone took photos together and even laughed about some Christmas carols re-written as satirical parodies.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a dinner and were having a great time .",
+        "the food was delicious and everyone enjoyed a variety of drinks .",
+        "everyone took photos together and even laughed about some christmas carols re-written as satirical parodies ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family gathered for a dinner . The family sat around the table. They are and posed for pictures. They sang Christmas songs. There were lots of drinks.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a dinner .",
+        "the family sat around the table .",
+        "they are and posed for pictures .",
+        "they sang christmas songs .",
+        "there were lots of drinks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600050438193",
+  "model": "GLAC"
+}

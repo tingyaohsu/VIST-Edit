@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4241985748-4241455859-4242293664-4241577091-4241594539",
+  "photo_sequence_ids": [
+    "4241985748",
+    "4241455859",
+    "4242293664",
+    "4241577091",
+    "4241594539"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the woman was in a dress . she was having a great time . the lady was taking a break . she was looking for food . she was going to be a good day .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The Buddha statue was cool. There was a lot of food for sale on the street. The streets were crowded and we checked out a lot of different things. The boat ride capped off a great day.",
+      "normalized_edited_story_text_sent": [
+        "the buddha statue was cool .",
+        "there was a lot of food for sale on the street .",
+        "the streets were crowded and we checked out a lot of different things .",
+        "the boat ride capped off a great day ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the woman was a statue . a man was near many items to sell . the lady was taking a break . she was looking for food . it was going to be a good day .",
+      "normalized_edited_story_text_sent": [
+        "the woman was a statue .",
+        "a man was near many items to sell .",
+        "the lady was taking a break .",
+        "she was looking for food .",
+        "it was going to be a good day ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the woman was in a dress . she was having a great time . the lady was taking a break . she was looking for food . she was going to be a good day .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the woman was in a dress .",
+        "she was having a great time .",
+        "the lady was taking a break .",
+        "she was looking for food .",
+        "she was going to be a good day ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the statue was faded golden metal. A man was selling food at the market . A lady was also selling items at the market on the street. Some people were in costumes at the market. Today was also going to be a good day outside at the lake.",
+      "normalized_edited_story_text_sent": [
+        "the statue was faded golden metal .",
+        "a man was selling food at the market .",
+        "a lady was also selling items at the market on the street .",
+        "some people were in costumes at the market .",
+        "today was also going to be a good day outside at the lake ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the woman was wearing a gold dress the same color as the statue. she was having a great time on vacation. the lady was taking a break from walking around . she was looking for a meal from the vendors . she was going to be a good day .",
+      "normalized_edited_story_text_sent": [
+        "the woman was wearing a gold dress the same color as the statue .",
+        "she was having a great time on vacation .",
+        "the lady was taking a break from walking around .",
+        "she was looking for a meal from the vendors .",
+        "she was going to be a good day ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623010818465",
+  "model": "GLAC"
+}

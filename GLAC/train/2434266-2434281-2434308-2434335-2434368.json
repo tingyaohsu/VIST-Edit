@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "2434266-2434281-2434308-2434335-2434368",
+  "photo_sequence_ids": [
+    "2434266",
+    "2434281",
+    "2434308",
+    "2434335",
+    "2434368"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the girl was very happy to be at the party . she was having a great time . she was excited to see the new things . she was so excited . she was ready for the night .",
+  "edited_stories": [
+    {
+      "worker_id": "A30BPQ2QGZOXN8",
+      "edited_story_text": "In the evening, the workers had a Christmas party with snacks, gingerbread men, and tree decorating. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "in the evening , the workers had a christmas party with snacks , gingerbread men , and tree decorating .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the girl was very happy to be at the party . she was having a great time . she was excited to see the new things . the tree was decorated . she was ready for the night .",
+      "normalized_edited_story_text_sent": [
+        "the girl was very happy to be at the party .",
+        "she was having a great time .",
+        "she was excited to see the new things .",
+        "the tree was decorated .",
+        "she was ready for the night ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "We had Christmas decorations and food at the office,someone made cookies,it was almost 5 and ready to go.",
+      "normalized_edited_story_text_sent": [
+        "we had christmas decorations and food at the office , someone made cookies , it was almost 5 and ready to go ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the girl was very happy to be at the party for her father. she was having a great time making cookies. she was excited to see the new things that she was getting for christmas . she was so excited that she could be with her father . she was ready for the night to end so she could sleep .",
+      "normalized_edited_story_text_sent": [
+        "the girl was very happy to be at the party for her father .",
+        "she was having a great time making cookies .",
+        "she was excited to see the new things that she was getting for christmas .",
+        "she was so excited that she could be with her father .",
+        "she was ready for the night to end so she could sleep ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the man was very happy to be at the party .the tree was decorated . the clock said it was time to leave . he was so excited he forgot his shoes. he came home to find gingerbreak cookies.",
+      "normalized_edited_story_text_sent": [
+        "the man was very happy to be at the party .",
+        "the tree was decorated .",
+        "the clock said it was time to leave .",
+        "he was so excited he forgot his shoes .",
+        "he came home to find gingerbreak cookies ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "61237",
+  "model": "GLAC"
+}

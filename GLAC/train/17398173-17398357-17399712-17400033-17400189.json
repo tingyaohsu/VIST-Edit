@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "17398173-17398357-17399712-17400033-17400189",
+  "photo_sequence_ids": [
+    "17398173",
+    "17398357",
+    "17399712",
+    "17400033",
+    "17400189"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the restaurant . the food was delicious . the main course was amazing . the meal was delicious . the dessert was also very good .",
+  "edited_stories": [
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the family was having a great time at the restaurant . the soup was delicious . the main course was amazing . the entire meal was perfect. the dessert was also very good .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the restaurant .",
+        "the soup was delicious .",
+        "the main course was amazing .",
+        "the entire meal was perfect .",
+        "the dessert was also very good ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was having a great time at the restaurant . the food was delicious . the main course was the best part . the meal was an ethic food . the dessert was also very tasty .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the restaurant .",
+        "the food was delicious .",
+        "the main course was the best part .",
+        "the meal was an ethic food .",
+        "the dessert was also very tasty ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We all enjoyed a meal together at the restaurant . the food was delicious . the main course was amazing. We had a lot of different dishes. the dessert was also very good .",
+      "normalized_edited_story_text_sent": [
+        "we all enjoyed a meal together at the restaurant .",
+        "the food was delicious .",
+        "the main course was amazing .",
+        "we had a lot of different dishes .",
+        "the dessert was also very good ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a great time at the restaurant . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the restaurant .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1FO99U5T2TBBP",
+      "edited_story_text": "the family was having a great time at the restaurant. the food was so delicious. the main course was amazing as well. the dessert was also very good. We were all stuffed at the end.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the restaurant .",
+        "the food was so delicious .",
+        "the main course was amazing as well .",
+        "the dessert was also very good .",
+        "we were all stuffed at the end ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "413663",
+  "model": "GLAC"
+}

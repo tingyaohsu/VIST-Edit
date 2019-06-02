@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "286774142-286774214-286774224-286774190-286774160",
+  "photo_sequence_ids": [
+    "286774142",
+    "286774214",
+    "286774224",
+    "286774190",
+    "286774160"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/117/286774142_39d9bc142f_o.jpg",
+    "https://farm1.staticflickr.com/101/286774214_843dfd4971_o.jpg",
+    "https://farm1.staticflickr.com/111/286774224_f2c7adf162_o.jpg",
+    "https://farm1.staticflickr.com/103/286774190_fe51a42ced_o.jpg",
+    "https://farm1.staticflickr.com/108/286774160_dcf3f17c93_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was the first time at the birthday party . she was so happy to be there . [male] and [female] were very happy to see each other . my family was so proud of me . we all had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "it was her birthday party . she was so happy to be there . [male] and [female] were very happy to see each other . my family was so fun to talk to . we all had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "it was her birthday party .",
+        "she was so happy to be there .",
+        "[male] and [female] were very happy to see each other .",
+        "my family was so fun to talk to .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "she is the first time at the birthday party . she is so happy to be there . [male] and [female] are very happy to see each other . my family is so proud of me . we all have a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "she is the first time at the birthday party .",
+        "she is so happy to be there .",
+        "[male] and [female] are very happy to see each other .",
+        "my family is so proud of me .",
+        "we all have a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "It was the first time in a long while for me to see [female] at the birthday party. She was so happy to be there. [Male] and [female] were very happy to see each other. My family was so proud of me for reconnecting with her. We all had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "it was the first time in a long while for me to see [female] at the birthday party .",
+        "she was so happy to be there .",
+        "[male] and [female] were very happy to see each other .",
+        "my family was so proud of me for reconnecting with her .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "it was the first time at the birthday party. she was so happy to be there and [male] and [female] were very happy to see each other. my family was so proud of me. we all had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "it was the first time at the birthday party .",
+        "she was so happy to be there and [male] and [female] were very happy to see each other .",
+        "my family was so proud of me .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "It was the first time going to a birthday party. [Sally] was so happy to be there . [john] and [sally] were very happy to see each other. My family was so proud of me and we all had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "it was the first time going to a birthday party .",
+        "[female] was so happy to be there .",
+        "[male] and [female] were very happy to see each other .",
+        "my family was so proud of me and we all had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594357207240"
+}

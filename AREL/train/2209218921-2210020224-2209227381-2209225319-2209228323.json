@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "2209218921-2210020224-2209227381-2209225319-2209228323",
+  "photo_sequence_ids": [
+    "2209218921",
+    "2210020224",
+    "2209227381",
+    "2209225319",
+    "2209228323"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2001/2209218921_df17465827_o.jpg",
+    "https://farm3.staticflickr.com/2251/2210020224_191079e1c0_o.jpg",
+    "https://farm3.staticflickr.com/2155/2209227381_881a632b7b_o.jpg",
+    "https://farm3.staticflickr.com/2381/2209225319_3a1672566b_o.jpg",
+    "https://farm3.staticflickr.com/2028/2209228323_2710e98c44_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park last weekend . we saw a lot of interesting things . i saw a lot of interesting things . i was so happy to see me . even the sheep were there , i think i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I explored the wilderness last weekend. Everything was so amazing. I enjoyed seeing new surroundings. I was just so happy and calm. There was a small tarantula in the dirt, but I still had a good time.",
+      "normalized_edited_story_text_sent": [
+        "i explored the wilderness last weekend .",
+        "everything was so amazing .",
+        "i enjoyed seeing new surroundings .",
+        "i was just so happy and calm .",
+        "there was a small tarantula in the dirt , but i still had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to the park last weekend . we saw a lot of interesting things . i got some food . i was so happy to relax . even though i saw a big spider , i think i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park last weekend .",
+        "we saw a lot of interesting things .",
+        "i got some food .",
+        "i was so happy to relax .",
+        "even though i saw a big spider , i think i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "My friend and I went to the park last weekend. We saw lots of interesting wildlife including a large raptor and a huge spider! We went to the camp store but they didn\u0027t have much for sale. My friend and I were happy to be able to spend time together and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to the park last weekend .",
+        "we saw lots of interesting wildlife including a large raptor and a huge spider !",
+        "we went to the camp store but they did n\u0027t have much for sale .",
+        "my friend and i were happy to be able to spend time together and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the park last weekend with some friends. we saw some interesting birds there. Later, we went to the store to buy dinner, and then we went back to my friend\u0027s house and relaxed in their backyard. He showed me his pet tarantula.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park last weekend with some friends .",
+        "we saw some interesting birds there .",
+        "later , we went to the store to buy dinner , and then we went back to my friend \u0027s house and relaxed in their backyard .",
+        "he showed me his pet tarantula ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "It was so nice to be outside in the riparian area.  There was a little display of interesting thing to see.  [man] was relaxing on the patio.  They even had a Halloween decoration.",
+      "normalized_edited_story_text_sent": [
+        "it was so nice to be outside in the riparian area .",
+        "there was a little display of interesting thing to see .",
+        "[male] was relaxing on the patio .",
+        "they even had a halloween decoration ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603766250446"
+}

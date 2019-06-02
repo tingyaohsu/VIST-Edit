@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "52858723-52858455-52858573-52858091-52858201",
+  "photo_sequence_ids": [
+    "52858723",
+    "52858455",
+    "52858573",
+    "52858091",
+    "52858201"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the tree was beautiful . the family was having a great time . the whole family was there . the lake was calm . the water was calm .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the trees were beautiful in this exquisite natural escape . our family had a great time taking in the awesome views . the mountainside was serene and the massive lake water was calm .",
+      "normalized_edited_story_text_sent": [
+        "the trees were beautiful in this exquisite natural escape .",
+        "our family had a great time taking in the awesome views .",
+        "the mountainside was serene and the massive lake water was calm ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the tree was beautiful . She posed for a picture in front of the trees. The mountains were pretty. There was a lake in front of the mountains.",
+      "normalized_edited_story_text_sent": [
+        "the tree was beautiful .",
+        "she posed for a picture in front of the trees .",
+        "the mountains were pretty .",
+        "there was a lake in front of the mountains ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the trip to the lake was nice. the tree was beautiful and the house amazing.  the whole family was there. the family was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the trip to the lake was nice .",
+        "the tree was beautiful and the house amazing .",
+        "the whole family was there .",
+        "the family was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A14M2EERU7E8KD",
+      "edited_story_text": "we went on a hike in the mountains. we were having a great time. it was just the two of us. the air on the mountains were fresh and the lake there was very calm.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hike in the mountains .",
+        "we were having a great time .",
+        "it was just the two of us .",
+        "the air on the mountains were fresh and the lake there was very calm ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The trees this time of year were beautiful and the family loved it. The lake was also very calm and beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the trees this time of year were beautiful and the family loved it .",
+        "the lake was also very calm and beautiful ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1146517",
+  "model": "GLAC"
+}

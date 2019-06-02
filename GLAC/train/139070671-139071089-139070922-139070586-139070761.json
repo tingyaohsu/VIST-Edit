@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "139070671-139071089-139070922-139070586-139070761",
+  "photo_sequence_ids": [
+    "139070671",
+    "139071089",
+    "139070922",
+    "139070586",
+    "139070761"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was empty . the room was empty . the computer was open . the doors were starting . the roof was very nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the computer room needed some maintenance this week. the wiring has been problematic. every new piece of equipment makes it worse. after a lot of hard work, we managed to untangle a lot of the mess. everyone thinks the area looks a lot nicer now.",
+      "normalized_edited_story_text_sent": [
+        "the computer room needed some maintenance this week .",
+        "the wiring has been problematic .",
+        "every new piece of equipment makes it worse .",
+        "after a lot of hard work , we managed to untangle a lot of the mess .",
+        "everyone thinks the area looks a lot nicer now ."
+      ]
+    },
+    {
+      "worker_id": "A3PQVDFT21IISU",
+      "edited_story_text": "the office was a mess . the room was overcrowded with electronics . the computer was wide open . the machines were starting . the end result was very nice .",
+      "normalized_edited_story_text_sent": [
+        "the office was a mess .",
+        "the room was overcrowded with electronics .",
+        "the computer was wide open .",
+        "the machines were starting .",
+        "the end result was very nice ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "it was a really slow day at the office yesterday. it was just david and i working. we were work the giant computers. the computer rom is very loud and big. it nice to have low stress days at the job.",
+      "normalized_edited_story_text_sent": [
+        "it was a really slow day at the office yesterday .",
+        "it was just [male] and i working .",
+        "we were work the giant computers .",
+        "the computer rom is very loud and big .",
+        "it nice to have low stress days at the job ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the office was empty because it was a Saturday . the room was empty due to no one showing up for maintenance . the computer was open as there was a problem on Friday . the doors were starting to open without force . the roof was very nice but needed to be fixed due to the rain.",
+      "normalized_edited_story_text_sent": [
+        "the office was empty because it was a saturday .",
+        "the room was empty due to no one showing up for maintenance .",
+        "the computer was open as there was a problem on friday .",
+        "the doors were starting to open without force .",
+        "the roof was very nice but needed to be fixed due to the rain ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "Working in the switch room was a busy job. There were wires everywhere and they all had to be just right or the system would not work. There were screens and computers everywhere. It was hard work.",
+      "normalized_edited_story_text_sent": [
+        "working in the switch room was a busy job .",
+        "there were wires everywhere and they all had to be just right or the system would not work .",
+        "there were screens and computers everywhere .",
+        "it was hard work ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594123141054",
+  "model": "GLAC"
+}

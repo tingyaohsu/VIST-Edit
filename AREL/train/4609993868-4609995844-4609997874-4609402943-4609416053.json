@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4609993868-4609995844-4609997874-4609402943-4609416053",
+  "photo_sequence_ids": [
+    "4609993868",
+    "4609995844",
+    "4609997874",
+    "4609402943",
+    "4609416053"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1362/4609993868_e4098f006f_o.jpg",
+    "https://farm4.staticflickr.com/3307/4609995844_0ae7330fe0_o.jpg",
+    "https://farm4.staticflickr.com/3338/4609997874_867a51b84d_o.jpg",
+    "https://farm2.staticflickr.com/1225/4609402943_6e945d1fab_o.jpg",
+    "https://farm5.staticflickr.com/4037/4609416053_dd63b91b99_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the beach last weekend . i had a great time . they had a lot of fun playing in the water . we had a lot of fun . we had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the beach last weekend. my friends had a lot of fun playing in the water. it\u0027s was a beautiful day. it\u0027s always fun to hang out together.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the beach last weekend .",
+        "my friends had a lot of fun playing in the water .",
+        "it \u0027s was a beautiful day .",
+        "it \u0027s always fun to hang out together ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the beach last weekend . they had lots of fun playing in the water . we all had a lot of fun . we also had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the beach last weekend .",
+        "they had lots of fun playing in the water .",
+        "we all had a lot of fun .",
+        "we also had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We had a really great time at the park last weekend. I enjoyed myself a lot. My friends had fun playing on the picnic blanket. We even did some exercise in the park. We even threw a great party that everyone loved.",
+      "normalized_edited_story_text_sent": [
+        "we had a really great time at the park last weekend .",
+        "i enjoyed myself a lot .",
+        "my friends had fun playing on the picnic blanket .",
+        "we even did some exercise in the park .",
+        "we even threw a great party that everyone loved ."
+      ]
+    },
+    {
+      "worker_id": "A1AFCTV7V6P728",
+      "edited_story_text": "We had a great time at the park last weekend.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the park last weekend ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the beach last weekend and i had a great time . We had a lot of fun playing in the water we also had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the beach last weekend and i had a great time .",
+        "we had a lot of fun playing in the water we also had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624067292822"
+}

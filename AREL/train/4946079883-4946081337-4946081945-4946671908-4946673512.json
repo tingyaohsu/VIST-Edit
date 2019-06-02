@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4946079883-4946081337-4946081945-4946671908-4946673512",
+  "photo_sequence_ids": [
+    "4946079883",
+    "4946081337",
+    "4946081945",
+    "4946671908",
+    "4946673512"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4097/4946079883_fb33a14a79_o.jpg",
+    "https://farm5.staticflickr.com/4127/4946081337_539baae41e_o.jpg",
+    "https://farm5.staticflickr.com/4083/4946081945_7a7fe9f5e7_o.jpg",
+    "https://farm5.staticflickr.com/4146/4946671908_71d4b9c2dc_o.jpg",
+    "https://farm5.staticflickr.com/4116/4946673512_dae9e5897e_o.jpg"
+  ],
+  "auto_story_text_normalized": "a lot of people showed up to the event . there was a lot of dancing . the music was very good . there was a lot of dancing . it was a great event .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "Great event! Tons of people showed up. Lots of dancing and very good music.",
+      "normalized_edited_story_text_sent": [
+        "great event !",
+        "tons of people showed up .",
+        "lots of dancing and very good music ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "There were a lot of people at the college event. Some of the kids played with hula hoops. There was an acrobatic dancing team from the college. We listened to some public speakers talk about their families. There were a lot of people at this wonderful event.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the college event .",
+        "some of the kids played with hula hoops .",
+        "there was an acrobatic dancing team from the college .",
+        "we listened to some public speakers talk about their families .",
+        "there were a lot of people at this wonderful event ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "a lot of people showed up to the event . people danced a lot . the music was very good . it was a great event .",
+      "normalized_edited_story_text_sent": [
+        "a lot of people showed up to the event .",
+        "people danced a lot .",
+        "the music was very good .",
+        "it was a great event ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "There was a dance marathon. Even little kids danced. Some guys did tricks. A woman spoke. A lot of money was raised.",
+      "normalized_edited_story_text_sent": [
+        "there was a dance marathon .",
+        "even little kids danced .",
+        "some guys did tricks .",
+        "a woman spoke .",
+        "a lot of money was raised ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "A lot of people showed up to the event. There was a lot of dancing to some very good music. Some guys even did dance stunts and jumped up in the air.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people showed up to the event .",
+        "there was a lot of dancing to some very good music .",
+        "some guys even did dance stunts and jumped up in the air ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625207418354"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5790275576-5790276418-5789723597-5789723949-5790280384",
+  "photo_sequence_ids": [
+    "5790275576",
+    "5790276418",
+    "5789723597",
+    "5789723949",
+    "5790280384"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were many people dressed up . some of the horses were very scary . the costumes were very detailed . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and lisa were glad the parade was a lot of fun . there were many people dressed up . some of the horses were very scary . the costumes were very detailed . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the parade was a lot of fun .",
+        "there were many people dressed up .",
+        "some of the horses were very scary .",
+        "the costumes were very detailed .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the horse parade was a lot of fun . there were many people dressed up . some of the horses were very beautiful .some costumes were very detailed . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the horse parade was a lot of fun .",
+        "there were many people dressed up .",
+        "some of the horses were very beautiful .",
+        "some costumes were very detailed .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun for all the kids . there were many people dressed up for the occasion. some of the horses were very scary but most were nice . the costumes were very detailed and must of taken hours to be made . i had a great time at this event .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun for all the kids .",
+        "there were many people dressed up for the occasion .",
+        "some of the horses were very scary but most were nice .",
+        "the costumes were very detailed and must of taken hours to be made .",
+        "i had a great time at this event ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I took horse riding lesson from the volunteers of the National Park. We wore helmets in case we fell off to prevent injury. The instructor and the horses themselves were very patient and I got the drift after a short amount of time.",
+      "normalized_edited_story_text_sent": [
+        "i took horse riding lesson from the volunteers of the national park .",
+        "we wore helmets in case we fell off to prevent injury .",
+        "the instructor and the horses themselves were very patient and i got the drift after a short amount of time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "horse race training was a success. a lot of learning involved by everyone.",
+      "normalized_edited_story_text_sent": [
+        "horse race training was a success .",
+        "a lot of learning involved by everyone ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626743581057",
+  "model": "GLAC"
+}

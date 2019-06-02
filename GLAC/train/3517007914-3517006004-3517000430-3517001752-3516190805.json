@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "3517007914-3517006004-3517000430-3517001752-3516190805",
+  "photo_sequence_ids": [
+    "3517007914",
+    "3517006004",
+    "3517000430",
+    "3517001752",
+    "3516190805"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to graduate . the graduates were all smiles . the dean gave a speech . the graduates were very proud . the family was so happy for the graduation .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The students were all very proud to graduate.  The dean gave a speech and everyone could tell how proud the families were.  It was a fantastic day.",
+      "normalized_edited_story_text_sent": [
+        "the students were all very proud to graduate .",
+        "the dean gave a speech and everyone could tell how proud the families were .",
+        "it was a fantastic day ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the students were all excited to graduate on this day. All of the graduates were all smiles. the dean gave a keynote speech. All of the graduates were very proud. the families were so happy for the graduates .",
+      "normalized_edited_story_text_sent": [
+        "the students were all excited to graduate on this day .",
+        "all of the graduates were all smiles .",
+        "the dean gave a keynote speech .",
+        "all of the graduates were very proud .",
+        "the families were so happy for the graduates ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the students were excited to graduate.  they lined up to walk in front of their families, and waited in line to go on stage and get their diplomas. after the ceremony, the graduates posed for pictures with their families and diplomas.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "they lined up to walk in front of their families , and waited in line to go on stage and get their diplomas .",
+        "after the ceremony , the graduates posed for pictures with their families and diplomas ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the students were excited to graduate . they were all smiles . the dean gave a  rousing speech . the graduates were very proud . the family was so happy and proud.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "they were all smiles .",
+        "the dean gave a rousing speech .",
+        "the graduates were very proud .",
+        "the family was so happy and proud ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the students were excited to graduate . the graduates were all smiles . a new chapter was about to begin in their lives.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "the graduates were all smiles .",
+        "a new chapter was about to begin in their lives ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157617832818157",
+  "model": "GLAC"
+}

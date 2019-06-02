@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "922348117-923196966-923197202-923197710-923198776",
+  "photo_sequence_ids": [
+    "922348117",
+    "923196966",
+    "923197202",
+    "923197710",
+    "923198776"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1140/922348117_e24fe645cb_o.jpg",
+    "https://farm2.staticflickr.com/1150/923196966_7f8463b227_o.jpg",
+    "https://farm2.staticflickr.com/1372/923197202_36b46b32d0_o.jpg",
+    "https://farm2.staticflickr.com/1181/923197710_49e4c2a083_o.jpg",
+    "https://farm2.staticflickr.com/1365/923198776_74d5f23ea2_o.jpg"
+  ],
+  "auto_story_text_normalized": "the city was beautiful . there were a lot of people there . some of the buildings were very old . there was a lot of people there . there was a lot of people at the event .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the city was beautiful when I visited it. there were a lot of people there outside . some of the buildings were very old you could tell . there was a lot of people at the event that we went to.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful when i visited it .",
+        "there were a lot of people there outside .",
+        "some of the buildings were very old you could tell .",
+        "there was a lot of people at the event that we went to ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The city was so beautiful! There were a lot of people there. Some of the buildings were very old, but there were a lot of people at the event.",
+      "normalized_edited_story_text_sent": [
+        "the city was so beautiful !",
+        "there were a lot of people there .",
+        "some of the buildings were very old , but there were a lot of people at the event ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "The city was beautiful at one time. There were a lot of people there who were treated very badly. Some of the buildings were very old and used for terrible things. There was a lot of very bad people in the city.  Many of those bad people were taken to court for the terrible things they did.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful at one time .",
+        "there were a lot of people there who were treated very badly .",
+        "some of the buildings were very old and used for terrible things .",
+        "there was a lot of very bad people in the city .",
+        "many of those bad people were taken to court for the terrible things they did ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The city was beautiful. The government building where the President lives is very massive.  There were a lot of people there in the city. Some of the buildings were very old. We saw a lot of old pictures in the museum.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the government building where the president lives is very massive .",
+        "there were a lot of people there in the city .",
+        "some of the buildings were very old .",
+        "we saw a lot of old pictures in the museum ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "the city is beautiful . some of the buildings are very old . there was a lot of people there at the event.",
+      "normalized_edited_story_text_sent": [
+        "the city is beautiful .",
+        "some of the buildings are very old .",
+        "there was a lot of people there at the event ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157601047470846"
+}

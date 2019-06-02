@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "67417994-67418164-67418612-67419798-67419871",
+  "photo_sequence_ids": [
+    "67417994",
+    "67418164",
+    "67418612",
+    "67419798",
+    "67419871"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was prepared for the party . the family was having a great time . the family was all together . the turkey was delicious . the whole family enjoyed the evening .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we had a great time at thanksgiving! the turkey was delicious, and the whole family got together. it was great to see everyone again.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at thanksgiving !",
+        "the turkey was delicious , and the whole family got together .",
+        "it was great to see everyone again ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the food was prepared for the party the day before. the family was having a great time talking to each other . the family was all together for the first time in a while . the turkey was delicious and was moist . the whole family enjoyed the evening and were happy they got together .",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party the day before .",
+        "the family was having a great time talking to each other .",
+        "the family was all together for the first time in a while .",
+        "the turkey was delicious and was moist .",
+        "the whole family enjoyed the evening and were happy they got together ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the food was prepared for the party . the family was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party .",
+        "the family was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the food was hot and plated and prepared for the party . the family ate dinner and was having a great time . the family was happy to be all together . the turkey was brown and delicious . the entire family certainly enjoyed the evening .",
+      "normalized_edited_story_text_sent": [
+        "the food was hot and plated and prepared for the party .",
+        "the family ate dinner and was having a great time .",
+        "the family was happy to be all together .",
+        "the turkey was brown and delicious .",
+        "the entire family certainly enjoyed the evening ."
+      ]
+    },
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the food was prepared for the feast . the family was having a great time and waitng to carve the turkey . the family was all together . the turkey was delicious . the whole family enjoyed the evening .",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the feast .",
+        "the family was having a great time and waitng to carve the turkey .",
+        "the family was all together .",
+        "the turkey was delicious .",
+        "the whole family enjoyed the evening ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1455232",
+  "model": "GLAC"
+}

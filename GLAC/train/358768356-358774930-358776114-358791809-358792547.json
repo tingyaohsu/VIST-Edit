@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "358768356-358774930-358776114-358791809-358792547",
+  "photo_sequence_ids": [
+    "358768356",
+    "358774930",
+    "358776114",
+    "358791809",
+    "358792547"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the plane was ready for the trip . the family was excited to be on vacation . the view was amazing . the resort was beautiful . the kids enjoyed the day .",
+  "edited_stories": [
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "Our plane was ready for the trip . My family was excited to be on vacation . The view was amazing . The resort was beautiful . My kids enjoyed the day .",
+      "normalized_edited_story_text_sent": [
+        "our plane was ready for the trip .",
+        "my family was excited to be on vacation .",
+        "the view was amazing .",
+        "the resort was beautiful .",
+        "my kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the family was excited to be on vacation . the went for a bike ride one day and a hike the next day. the resort was beautiful . the kids enjoyed bike riding the best.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be on vacation .",
+        "the went for a bike ride one day and a hike the next day .",
+        "the resort was beautiful .",
+        "the kids enjoyed bike riding the best ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was ready for the trip . the family was going  on vacation . the view was amazing . the resort had a beach . the kids enjoyed the day .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the trip .",
+        "the family was going on vacation .",
+        "the view was amazing .",
+        "the resort had a beach .",
+        "the kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The couple did many things together on their trip including bicycling around.",
+      "normalized_edited_story_text_sent": [
+        "the couple did many things together on their trip including bicycling around ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the plane was ready for takeoff . the family was excited for their trip . the hotel had an amazing view . the resort was beautifully planned . the kids had a blast of a day .",
+      "normalized_edited_story_text_sent": [
+        "the plane was ready for takeoff .",
+        "the family was excited for their trip .",
+        "the hotel had an amazing view .",
+        "the resort was beautifully planned .",
+        "the kids had a blast of a day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594481790103",
+  "model": "GLAC"
+}

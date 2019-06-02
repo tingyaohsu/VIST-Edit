@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4947302832-4946713379-4946713497-4946714125-4947303648",
+  "photo_sequence_ids": [
+    "4947302832",
+    "4946713379",
+    "4946713497",
+    "4946714125",
+    "4947303648"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the architecture was amazing . the artwork was interesting . the flowers were so colorful . the plants were also in bloom .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the building was tall and fortress-like . the architecture was mesmerizing . the artwork was fascinating . the flowers were so vivacious . other plants were also blooming .",
+      "normalized_edited_story_text_sent": [
+        "the building was tall and fortress-like .",
+        "the architecture was mesmerizing .",
+        "the artwork was fascinating .",
+        "the flowers were so vivacious .",
+        "other plants were also blooming ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the building was very tall . the architecture was amazing . the artwork was interesting . the flowers were so colorful . the area was really nice .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the architecture was amazing .",
+        "the artwork was interesting .",
+        "the flowers were so colorful .",
+        "the area was really nice ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the carpet had a neat design . the architecture was amazing . the pumpkins were carved. the flowers were so colorful . the plants were in bloom .",
+      "normalized_edited_story_text_sent": [
+        "the carpet had a neat design .",
+        "the architecture was amazing .",
+        "the pumpkins were carved .",
+        "the flowers were so colorful .",
+        "the plants were in bloom ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the building was very tall and ornate . the architecture was amazing . the artwork was interesting . the flowers were so colorful . There were jack-o-lanterns everywhere, and they were very professionally carved.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall and ornate .",
+        "the architecture was amazing .",
+        "the artwork was interesting .",
+        "the flowers were so colorful .",
+        "there were jack-o-lanterns everywhere , and they were very professionally carved ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the building was very tall . The architecture was pretty. There were pumpkins everywhere. The scenery was pretty with yellow flowers and trees.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the architecture was pretty .",
+        "there were pumpkins everywhere .",
+        "the scenery was pretty with yellow flowers and trees ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624852981218",
+  "model": "GLAC"
+}

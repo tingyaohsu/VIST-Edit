@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4825597605-4826208280-4826209784-4826212254-4826208856",
+  "photo_sequence_ids": [
+    "4825597605",
+    "4826208280",
+    "4826209784",
+    "4826212254",
+    "4826208856"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4121/4825597605_8417787254_o.jpg",
+    "https://farm5.staticflickr.com/4143/4826208280_1eb459227a_o.jpg",
+    "https://farm5.staticflickr.com/4080/4826209784_2fd2d289bb_o.jpg",
+    "https://farm5.staticflickr.com/4093/4826212254_a2bb93734b_o.jpg",
+    "https://farm5.staticflickr.com/4119/4826208856_b16d4c93a9_o.jpg"
+  ],
+  "auto_story_text_normalized": "the crowd gathered to watch the fireworks . the fireworks were amazing . some of the fireworks were really cool . the finale was amazing . this was the best part of the night .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We all gathered together to watch the fireworks at night. The fireworks were very intense. The fireworks show was very bright. There were lots of different colors used in the display. The fireworks show was the best part of our night.",
+      "normalized_edited_story_text_sent": [
+        "we all gathered together to watch the fireworks at night .",
+        "the fireworks were very intense .",
+        "the fireworks show was very bright .",
+        "there were lots of different colors used in the display .",
+        "the fireworks show was the best part of our night ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the crowd gathered to watch the fireworks at night . i was mesmerized by the fireworks . i really loved the look of the fireworks as they went off . the finale really blew me away. nothing else could compare to this.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered to watch the fireworks at night .",
+        "i was mesmerized by the fireworks .",
+        "i really loved the look of the fireworks as they went off .",
+        "the finale really blew me away .",
+        "nothing else could compare to this ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the crowd gathered to watch the fireworks. the entire display was amazing. some of the fireworks were really cool. the best part of the night was the finale, which everyone was really excited to watch.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered to watch the fireworks .",
+        "the entire display was amazing .",
+        "some of the fireworks were really cool .",
+        "the best part of the night was the finale , which everyone was really excited to watch ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "The crowd gathered to watch the fireworks. The fireworks were amazing and really cool. The finale was fabulous. This was the best part of the night .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered to watch the fireworks .",
+        "the fireworks were amazing and really cool .",
+        "the finale was fabulous .",
+        "this was the best part of the night ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the crowd gathered to watch the fireworks . the fireworks were amazing . some of the fireworks were really cool . the finale was amazing . this was the best part of the night it was splendid",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered to watch the fireworks .",
+        "the fireworks were amazing .",
+        "some of the fireworks were really cool .",
+        "the finale was amazing .",
+        "this was the best part of the night it was splendid"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624451310233"
+}

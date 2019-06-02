@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6491905811-6491914557-6491921589-6491928775-6491925235",
+  "photo_sequence_ids": [
+    "6491905811",
+    "6491914557",
+    "6491921589",
+    "6491928775",
+    "6491925235"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7163/6491905811_a836883da9_o.jpg",
+    "https://farm8.staticflickr.com/7025/6491914557_29b0088024_o.jpg",
+    "https://farm8.staticflickr.com/7005/6491921589_96132cdf91_o.jpg",
+    "https://farm8.staticflickr.com/7008/6491928775_088d2f7ce1_o.jpg",
+    "https://farm8.staticflickr.com/7031/6491925235_8dfae5bb91_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the local restaurant for the night . the sky was lit up and ready to go . we stopped at a local restaurant to get some food . we had a lot of food to choose from . the night ended with a beautiful light show .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went to the local restaurant for the night . the sky was lit up and ready to go . we stopped at a local restaurant to get some food . They had a  lot of options . the night ended with a beautiful light show .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local restaurant for the night .",
+        "the sky was lit up and ready to go .",
+        "we stopped at a local restaurant to get some food .",
+        "they had a lot of options .",
+        "the night ended with a beautiful light show ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "we went to the local restaurant for the night . the sky was lit up and ready to go . we stopped at a local restaurant to get some food . we had a lot of food to choose from . the night ended with a beautiful light show it was something incredible",
+      "normalized_edited_story_text_sent": [
+        "we went to the local restaurant for the night .",
+        "the sky was lit up and ready to go .",
+        "we stopped at a local restaurant to get some food .",
+        "we had a lot of food to choose from .",
+        "the night ended with a beautiful light show it was something incredible"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went out of town. We stayed at an inn the first night. We ate at a restaurant. Gas was expensive. The moon was bright.",
+      "normalized_edited_story_text_sent": [
+        "we went out of town .",
+        "we stayed at an inn the first night .",
+        "we ate at a restaurant .",
+        "gas was expensive .",
+        "the moon was bright ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to a local restaurant tonight. The sky was all lit up. We stopped at the restaurant to get some food, and there was a lot of food to choose from. The night ended with the beautiful lights.",
+      "normalized_edited_story_text_sent": [
+        "we went to a local restaurant tonight .",
+        "the sky was all lit up .",
+        "we stopped at the restaurant to get some food , and there was a lot of food to choose from .",
+        "the night ended with the beautiful lights ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": ". the sky was lit up and bright . we stopped at a local restaurant to get some food . we had a lot of food to choose from . the night ended with a beautiful full moon.",
+      "normalized_edited_story_text_sent": [
+        ".",
+        "the sky was lit up and bright .",
+        "we stopped at a local restaurant to get some food .",
+        "we had a lot of food to choose from .",
+        "the night ended with a beautiful full moon ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628370536917"
+}

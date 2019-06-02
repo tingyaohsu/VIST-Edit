@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5691506594-5690936507-5691512928-5691516476-5691519598",
+  "photo_sequence_ids": [
+    "5691506594",
+    "5690936507",
+    "5691512928",
+    "5691516476",
+    "5691519598"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5028/5691506594_27c4550674_o.jpg",
+    "https://farm6.staticflickr.com/5023/5690936507_b7bec02dbc_o.jpg",
+    "https://farm6.staticflickr.com/5024/5691512928_35ec64d85c_o.jpg",
+    "https://farm6.staticflickr.com/5182/5691516476_bc88feb463_o.jpg",
+    "https://farm6.staticflickr.com/5024/5691519598_235fbdcc05_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a box . i had to take a picture of the door . now , she is ready to get out of the car . we had to take a picture . i really like it .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "this is a picture of a box . i had to take a picture of the door . now , she is ready to get out of the car . we had to take a picture . i really like it to do that",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a box .",
+        "i had to take a picture of the door .",
+        "now , she is ready to get out of the car .",
+        "we had to take a picture .",
+        "i really like it to do that"
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I got new bags that I ordered in the mail. It is very nice.  There are a lot of compartments.  It is spacious for all my belongings.  I can\u0027t wait to use it tomorrow.",
+      "normalized_edited_story_text_sent": [
+        "i got new bags that i ordered in the mail .",
+        "it is very nice .",
+        "there are a lot of compartments .",
+        "it is spacious for all my belongings .",
+        "i ca n\u0027t wait to use it tomorrow ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "here\u0027s a box with a couple of bags. i had to get a door shot, but got in another of the black bag.she\u0027s ready to leave the car and take the bag . we had to take a picture of one bag inside the other. i really like how the bags look together .",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a box with a couple of bags .",
+        "i had to get a door shot , but got in another of the black bag.she \u0027s ready to leave the car and take the bag .",
+        "we had to take a picture of one bag inside the other .",
+        "i really like how the bags look together ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "This is a picture of a box and I had to take a picture of the door of the case in the box. I took more pictures of the case and now I am ready to get out of the car. I had to take another picture because I really like it .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a box and i had to take a picture of the door of the case in the box .",
+        "i took more pictures of the case and now i am ready to get out of the car .",
+        "i had to take another picture because i really like it ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this is a picture of a box . my new bag came in it . I just received it . we had to take a picture . i really like it .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a box .",
+        "my new bag came in it .",
+        "i just received it .",
+        "we had to take a picture .",
+        "i really like it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626655773394"
+}

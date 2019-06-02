@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5698417550-5697848519-5698427664-5697887413-5697892207",
+  "photo_sequence_ids": [
+    "5698417550",
+    "5697848519",
+    "5698427664",
+    "5697887413",
+    "5697892207"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people that were dressed up . some of them were very creative . i had a great time . everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2GMFKPE64NQQC",
+      "edited_story_text": "The soup festival was a lot of fun. Some of the people who were making soup even dressed up. Attendees of the festival could also get other things, like plants. We had a great time. It also seemed like everyone else there was having a great time, too.",
+      "normalized_edited_story_text_sent": [
+        "the soup festival was a lot of fun .",
+        "some of the people who were making soup even dressed up .",
+        "attendees of the festival could also get other things , like plants .",
+        "we had a great time .",
+        "it also seemed like everyone else there was having a great time , too ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was a good time to all . many people were in costume . some of the costumes were original . i had fun . everyone was having fun .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a good time to all .",
+        "many people were in costume .",
+        "some of the costumes were original .",
+        "i had fun .",
+        "everyone was having fun ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the event was so much fun . there were so many people with booths. some of them were very creative . i had a great time . everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the event was so much fun .",
+        "there were so many people with booths .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A143XRCI1YXAFE",
+      "edited_story_text": "My family and I had a ton of fun at the parade. there were so many people wearing fun costumes. some of them were really out there. i had a great time with my family. everyone agreed that it was a blast, we even took a few pictures to remember it by.",
+      "normalized_edited_story_text_sent": [
+        "my family and i had a ton of fun at the parade .",
+        "there were so many people wearing fun costumes .",
+        "some of them were really out there .",
+        "i had a great time with my family .",
+        "everyone agreed that it was a blast , we even took a few pictures to remember it by ."
+      ]
+    },
+    {
+      "worker_id": "A3JM2BJIOZAGM7",
+      "edited_story_text": "the parade was a lot of fun. there were so many people that were dressed up . some of them were very creative . lisa had a great time with david . I took a picture with maria. everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people that were dressed up .",
+        "some of them were very creative .",
+        "[female] had a great time with [male] .",
+        "i took a picture with [female] .",
+        "everyone was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626582851995",
+  "model": "GLAC"
+}

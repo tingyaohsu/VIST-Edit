@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6232271276-6232272972-6231756229-6231766943-6231768609",
+  "photo_sequence_ids": [
+    "6232271276",
+    "6232272972",
+    "6231756229",
+    "6231766943",
+    "6231768609"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the parade . they had a lot of fun activities . they got to see a real panda . they had a great time . the kids were having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "the kids were excited to be in the parade . they had a lot of fun activities . they got to see a real panda . they had a great time, Grandpa loved it as well! the kids were having a good time and got souvenirs. We will be back for sure!  It was great time!",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade .",
+        "they had a lot of fun activities .",
+        "they got to see a real panda .",
+        "they had a great time , grandpa loved it as well !",
+        "the kids were having a good time and got souvenirs .",
+        "we will be back for sure !",
+        "it was great time !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited for the party. Everyone registered. The kids got ready to watch. The man addressed the crowd.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the party .",
+        "everyone registered .",
+        "the kids got ready to watch .",
+        "the man addressed the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "All the kids met at the front gate and we signed in.  The kids had fun hearing the old man tell his stories.",
+      "normalized_edited_story_text_sent": [
+        "all the kids met at the front gate and we signed in .",
+        "the kids had fun hearing the old man tell his stories ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the kids were excited to be in the party. they had a lot of fun activities . they got to see a real panda . they had a great time . the kids were having a good time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the party .",
+        "they had a lot of fun activities .",
+        "they got to see a real panda .",
+        "they had a great time .",
+        "the kids were having a good time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the kids were excited to be in the parade . there was a lot of fun activities . they got to see a real panda . they had a great time . everyone was happy.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade .",
+        "there was a lot of fun activities .",
+        "they got to see a real panda .",
+        "they had a great time .",
+        "everyone was happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627739165473",
+  "model": "GLAC"
+}

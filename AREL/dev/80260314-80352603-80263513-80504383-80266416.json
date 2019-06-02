@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "80260314-80352603-80263513-80504383-80266416",
+  "photo_sequence_ids": [
+    "80260314",
+    "80352603",
+    "80263513",
+    "80504383",
+    "80266416"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/41/80260314_bb2e08a6d1_o.jpg",
+    "https://farm1.staticflickr.com/40/80352603_06b4dea585_o.jpg",
+    "https://farm1.staticflickr.com/37/80263513_1a3331926e_o.jpg",
+    "https://farm1.staticflickr.com/37/80504383_b4983c51f5_o.jpg",
+    "https://farm1.staticflickr.com/36/80266416_c04b0d2c41_o.jpg"
+  ],
+  "auto_story_text_normalized": "the baby was very happy to see him . this is a picture of me and my dad . the kids had a great time and had a great time . the baby was so happy to see him . the food was delicious and we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the baby was very happy to see his dad . this is a picture of me and my dad . the kids had a great time and we had a great time .  the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the baby was very happy to see his dad .",
+        "this is a picture of me and my dad .",
+        "the kids had a great time and we had a great time .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The baby was very happy to see her. Here is a picture of me and my dad. The kids had a great time, and the baby was so happy to see him. The food was delicious!",
+      "normalized_edited_story_text_sent": [
+        "the baby was very happy to see her .",
+        "here is a picture of me and my dad .",
+        "the kids had a great time , and the baby was so happy to see him .",
+        "the food was delicious !"
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "I was a baby with my mom and then I saw my dad. I was very happy to see him as you can see in the picture.. The kids had a great time and there was a lot of food. The food was delicious and we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i was a baby with my mom and then i saw my dad .",
+        "i was very happy to see him as you can see in the picture .",
+        ".",
+        "the kids had a great time and there was a lot of food .",
+        "the food was delicious and we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the baby was extremely glad to see him . this is a photo of me and my dad . the children had a incredible time and had a awesome time . the child was so cheerful to see him . the food was delectable and we had a incredible time .",
+      "normalized_edited_story_text_sent": [
+        "the baby was extremely glad to see him .",
+        "this is a photo of me and my dad .",
+        "the children had a incredible time and had a awesome time .",
+        "the child was so cheerful to see him .",
+        "the food was delectable and we had a incredible time ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the baby was very happy to see him . this is a photo of me and my dad . the kids had a great time . the baby was so happy to see him . the food was tasty and we had a wonderful time .",
+      "normalized_edited_story_text_sent": [
+        "the baby was very happy to see him .",
+        "this is a photo of me and my dad .",
+        "the kids had a great time .",
+        "the baby was so happy to see him .",
+        "the food was tasty and we had a wonderful time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1715903"
+}

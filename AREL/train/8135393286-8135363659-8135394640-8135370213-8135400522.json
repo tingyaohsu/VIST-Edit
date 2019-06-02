@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "8135393286-8135363659-8135394640-8135370213-8135400522",
+  "photo_sequence_ids": [
+    "8135393286",
+    "8135363659",
+    "8135394640",
+    "8135370213",
+    "8135400522"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8195/8135393286_a62ecb2e1f_o.jpg",
+    "https://farm9.staticflickr.com/8331/8135363659_18f590aa44_o.jpg",
+    "https://farm9.staticflickr.com/8185/8135394640_8c77285030_o.jpg",
+    "https://farm9.staticflickr.com/8333/8135370213_2b723d0ea0_o.jpg",
+    "https://farm9.staticflickr.com/8328/8135400522_89a83f3d79_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party today . the kids were all dressed up and ready for the party . some of them were very happy to be there . the dog is having a great time . we had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the party today! The kids were all dressed up and ready to go. Some of them were very happy to be there, and the dog had a great time too.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today !",
+        "the kids were all dressed up and ready to go .",
+        "some of them were very happy to be there , and the dog had a great time too ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We had a great time at the costume party today.  Everyone was dressed up and having fun, even dog dog enjoyed it!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the costume party today .",
+        "everyone was dressed up and having fun , even dog dog enjoyed it !"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I was at a Halloween party. My dog went with me. Some guys dressed up as turtles. Women dressed up, too. We had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "i was at a halloween party .",
+        "my dog went with me .",
+        "some guys dressed up as turtles .",
+        "women dressed up , too .",
+        "we had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "We all had a great time at the party today. The kids were excited to get dressed up in their costumes and even the dog had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we all had a great time at the party today .",
+        "the kids were excited to get dressed up in their costumes and even the dog had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "we had a great time at the party today . the kids were all dressed up and ready. some of them were very happy to be there . the dog even had a great time",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today .",
+        "the kids were all dressed up and ready .",
+        "some of them were very happy to be there .",
+        "the dog even had a great time"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631881098299"
+}

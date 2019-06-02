@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4426773083-4427535674-4427535382-4427535594-4427535416",
+  "photo_sequence_ids": [
+    "4426773083",
+    "4427535674",
+    "4427535382",
+    "4427535594",
+    "4427535416"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very engaging . he was very proud of his work . he was also given a speech . he was happy to be there . he was honored .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the speaker was very engaging during his speech. he was very proud of his work. he was honored and happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging during his speech .",
+        "he was very proud of his work .",
+        "he was honored and happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "A speaker was giving a presentation about company profits. He was very professional and engaging with the audience. He worked with two members of the IT department to make sure the presentation went well.",
+      "normalized_edited_story_text_sent": [
+        "a speaker was giving a presentation about company profits .",
+        "he was very professional and engaging with the audience .",
+        "he worked with two members of the it department to make sure the presentation went well ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker engaged the crowd . he was proud to be speaking . his work was the topic of his speech . he was happy to have been invited . he was an honored guest of the university .",
+      "normalized_edited_story_text_sent": [
+        "the speaker engaged the crowd .",
+        "he was proud to be speaking .",
+        "his work was the topic of his speech .",
+        "he was happy to have been invited .",
+        "he was an honored guest of the university ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The speaker was very engaging. Robert was very proud of his work. He gave a passionate speech. He was happy to be there. Robert said he was honored to be invited.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very engaging .",
+        "[male] was very proud of his work .",
+        "he gave a passionate speech .",
+        "he was happy to be there .",
+        "[male] said he was honored to be invited ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "John had an important presentation at the office. He had to present the new business model he has been working on. he looked very confident and explained the presentation well. he was very proud of his work . he was also given a speech . he was happy to be there . he was honored .",
+      "normalized_edited_story_text_sent": [
+        "[male] had an important presentation at the office .",
+        "he had to present the new business model he has been working on .",
+        "he looked very confident and explained the presentation well .",
+        "he was very proud of his work .",
+        "he was also given a speech .",
+        "he was happy to be there .",
+        "he was honored ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623606238012",
+  "model": "GLAC"
+}

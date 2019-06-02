@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "116534546-116534613-116534653-116534722-116534775",
+  "photo_sequence_ids": [
+    "116534546",
+    "116534613",
+    "116534653",
+    "116534722",
+    "116534775"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the runners started off the race . the runners were very close . the race was over and everyone was excited . the participants were happy to be there . the winners were presented and ready for the event .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the runners started off the race . the runners were very close . the race was over and everyone was excited . the participants were happy to be there . competition was flowing throughout the day.",
+      "normalized_edited_story_text_sent": [
+        "the runners started off the race .",
+        "the runners were very close .",
+        "the race was over and everyone was excited .",
+        "the participants were happy to be there .",
+        "competition was flowing throughout the day ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "The runners who I ran with started off the race . We were very close . The race was over and everyone was excited . We participants were happy to be there . The winners were presented and ready for the event .",
+      "normalized_edited_story_text_sent": [
+        "the runners who i ran with started off the race .",
+        "we were very close .",
+        "the race was over and everyone was excited .",
+        "we participants were happy to be there .",
+        "the winners were presented and ready for the event ."
+      ]
+    },
+    {
+      "worker_id": "A1C5S8FZ0UGYZX",
+      "edited_story_text": "We gathered early at the edge of the par and all the runners started off. The runners were very close together. Everyone was proud to finish and we all celebrated to be there.  Everyone rejoined family and friends as the winners were presented.",
+      "normalized_edited_story_text_sent": [
+        "we gathered early at the edge of the par and all the runners started off .",
+        "the runners were very close together .",
+        "everyone was proud to finish and we all celebrated to be there .",
+        "everyone rejoined family and friends as the winners were presented ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the runners started off the big race . the runners were neck and neck . the race was over and everyone was excited . the participants were happy to be there . the winners were presented and ready for the event .",
+      "normalized_edited_story_text_sent": [
+        "the runners started off the big race .",
+        "the runners were neck and neck .",
+        "the race was over and everyone was excited .",
+        "the participants were happy to be there .",
+        "the winners were presented and ready for the event ."
+      ]
+    },
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the runners started off the race . the runners were very close at the start. the spectators help signs cheering on their favorites, and everyone was excited . the participants were happy to be there . the race was over and winners were presented.",
+      "normalized_edited_story_text_sent": [
+        "the runners started off the race .",
+        "the runners were very close at the start .",
+        "the spectators help signs cheering on their favorites , and everyone was excited .",
+        "the participants were happy to be there .",
+        "the race was over and winners were presented ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594088507493",
+  "model": "GLAC"
+}

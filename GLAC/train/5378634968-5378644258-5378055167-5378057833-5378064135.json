@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5378634968-5378644258-5378055167-5378057833-5378064135",
+  "photo_sequence_ids": [
+    "5378634968",
+    "5378644258",
+    "5378055167",
+    "5378057833",
+    "5378064135"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office meeting was going on . the president was making the presentation . the speaker was very engaging . the audience was listening intently . the speaker was very well prepared .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the office meeting was going on . the president made his presentation . the speaker was very engaging . the audience was listening intently . the speaker got his point across .",
+      "normalized_edited_story_text_sent": [
+        "the office meeting was going on .",
+        "the president made his presentation .",
+        "the speaker was very engaging .",
+        "the audience was listening intently .",
+        "the speaker got his point across ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the class was a success. the teacher making the presentation was very engaging . the audience was listening intently . the speaker was very well prepared .",
+      "normalized_edited_story_text_sent": [
+        "the class was a success .",
+        "the teacher making the presentation was very engaging .",
+        "the audience was listening intently .",
+        "the speaker was very well prepared ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the office meeting was going on . the president was making the presentation . the speaker was very engaging . the audience was listening intently . the speaker was very well prepared .ere",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the office meeting was going on .",
+        "the president was making the presentation .",
+        "the speaker was very engaging .",
+        "the audience was listening intently .",
+        "the speaker was very well prepared ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the office meeting was going on as expected . the president was making the presentation but kept getting interrupted by the kids . the speaker was very engaging with all the students . the audience was listening intently to each word he said . the speaker was very well prepared for any questions asked .",
+      "normalized_edited_story_text_sent": [
+        "the office meeting was going on as expected .",
+        "the president was making the presentation but kept getting interrupted by the kids .",
+        "the speaker was very engaging with all the students .",
+        "the audience was listening intently to each word he said .",
+        "the speaker was very well prepared for any questions asked ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the office meeting was going on . the president was making the presentation . the speaker was very engaging . the audience was listening intently . the speaker was very well prepared .\r\rThe office meeting had started. He had to conduct his presentation at the meeting. I thought the speaker was a good listener. Everyone, even the audience was listening intently. I was impressed the that speaker was so prepared.",
+      "normalized_edited_story_text_sent": [
+        "the office meeting was going on .",
+        "the president was making the presentation .",
+        "the speaker was very engaging .",
+        "the audience was listening intently .",
+        "the speaker was very well prepared .",
+        "the office meeting had started .",
+        "he had to conduct his presentation at the meeting .",
+        "i thought the speaker was a good listener .",
+        "everyone , even the audience was listening intently .",
+        "i was impressed the that speaker was so prepared ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625881901406",
+  "model": "GLAC"
+}

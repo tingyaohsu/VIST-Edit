@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4379270527-4379271193-4380028382-4380028572-4380031072",
+  "photo_sequence_ids": [
+    "4379270527",
+    "4379271193",
+    "4380028382",
+    "4380028572",
+    "4380031072"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very large . the building was well known . the red tractor was the best . the shop was full of books . the outside was a nice place .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The car was very large and the building was well known. The red tractor was the best. The shop was full of books. The outside was a nice place.",
+      "normalized_edited_story_text_sent": [
+        "the car was very large and the building was well known .",
+        "the red tractor was the best .",
+        "the shop was full of books .",
+        "the outside was a nice place ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the broken van was very large . the tires filled the junk yard . the old van junker was the best . the shop was full of junk too . the outside building was a terrible place .",
+      "normalized_edited_story_text_sent": [
+        "the broken van was very large .",
+        "the tires filled the junk yard .",
+        "the old van junker was the best .",
+        "the shop was full of junk too .",
+        "the outside building was a terrible place ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the car was very large . the building was well known . the red tractor was the best . the shop was full of books . the antiques filled the place .",
+      "normalized_edited_story_text_sent": [
+        "the car was very large .",
+        "the building was well known .",
+        "the red tractor was the best .",
+        "the shop was full of books .",
+        "the antiques filled the place ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "this had been one behemoth of a vehicle. the building had a popular history. the red tractor had been rated best. the literary shop was full of books . the outsides were a sight to behold.",
+      "normalized_edited_story_text_sent": [
+        "this had been one behemoth of a vehicle .",
+        "the building had a popular history .",
+        "the red tractor had been rated best .",
+        "the literary shop was full of books .",
+        "the outsides were a sight to behold ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The old car was very large. The building was well known by many people. The red tractor was my favorite. It was full of many different books. Even the outside was a nice place.",
+      "normalized_edited_story_text_sent": [
+        "the old car was very large .",
+        "the building was well known by many people .",
+        "the red tractor was my favorite .",
+        "it was full of many different books .",
+        "even the outside was a nice place ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623488082540",
+  "model": "GLAC"
+}

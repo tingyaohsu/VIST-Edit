@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "3686899823-3686900307-3686900831-3687702922-3687703662",
+  "photo_sequence_ids": [
+    "3686899823",
+    "3686900307",
+    "3686900831",
+    "3687702922",
+    "3687703662"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was lit up at night . the streets were empty . the people were excited . the fireworks were bright . the fireworks were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was lit up at night . the streets were swarming wit her people . the people were excited . the fireworks were bright . the fireworks were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "the streets were swarming wit her people .",
+        "the people were excited .",
+        "the fireworks were bright .",
+        "the fireworks were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "people gathered at the park for the celebration.  the buildings were tall. later at night they had fireworks. the fireworks were bright . the fireworks were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "people gathered at the park for the celebration .",
+        "the buildings were tall .",
+        "later at night they had fireworks .",
+        "the fireworks were bright .",
+        "the fireworks were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the city was bright . the streets were empty . the people were excited . the fireworks were bright . the fireworks were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the city was bright .",
+        "the streets were empty .",
+        "the people were excited .",
+        "the fireworks were bright .",
+        "the fireworks were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city was brightened at night . the streets had less people before dusk . then the people excitedly gathered . the fireworks brightened everyone\u0027s mood . they were a beautiful source of light .",
+      "normalized_edited_story_text_sent": [
+        "the city was brightened at night .",
+        "the streets had less people before dusk .",
+        "then the people excitedly gathered .",
+        "the fireworks brightened everyone \u0027s mood .",
+        "they were a beautiful source of light ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The city was lit up at night by some really bright and beautiful fireworks. The streets were empty, though the people were really excited!",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night by some really bright and beautiful fireworks .",
+        "the streets were empty , though the people were really excited !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157620811678257",
+  "model": "GLAC"
+}

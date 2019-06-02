@@ -1,0 +1,61 @@
+{
+  "photo_sequence_id": "4432098824-4432099612-4432102780-4432104266-4431335509",
+  "photo_sequence_ids": [
+    "4432098824",
+    "4432099612",
+    "4432102780",
+    "4432104266",
+    "4431335509"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was happy to be at the party . she was having a great time . the woman was smiling . the man was drinking . the girl was not amused .",
+  "edited_stories": [
+    {
+      "worker_id": "ASFR82SJYMGNU",
+      "edited_story_text": "Mary was happy to be at the party . She was having a great time . Lisa was smiling . Robert was drinking . The girl was not amused .",
+      "normalized_edited_story_text_sent": [
+        "[female] was happy to be at the party .",
+        "she was having a great time .",
+        "[female] was smiling .",
+        "[male] was drinking .",
+        "the girl was not amused ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The lady was at the party having a good time.  The man was also drinking and having a good time.  A great party tonight!",
+      "normalized_edited_story_text_sent": [
+        "the lady was at the party having a good time .",
+        "the man was also drinking and having a good time .",
+        "a great party tonight !"
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The lady was happy to be at the party because she was having a great time. As the woman was smiled, the man was drinking but the girl was not amused.",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the party because she was having a great time .",
+        "as the woman was smiled , the man was drinking but the girl was not amused ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "The photos could not load",
+      "normalized_edited_story_text_sent": [
+        "the photos could not load"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the lady was happy to be at the party . she was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the party .",
+        "she was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623492838109",
+  "model": "GLAC"
+}

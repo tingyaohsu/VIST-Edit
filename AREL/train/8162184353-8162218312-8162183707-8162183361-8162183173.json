@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "8162184353-8162218312-8162183707-8162183361-8162183173",
+  "photo_sequence_ids": [
+    "8162184353",
+    "8162218312",
+    "8162183707",
+    "8162183361",
+    "8162183173"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7140/8162184353_a6217377ae_o.jpg",
+    "https://farm9.staticflickr.com/8486/8162218312_078aa90a9a_o.jpg",
+    "https://farm8.staticflickr.com/7125/8162183707_324c8447de_o.jpg",
+    "https://farm9.staticflickr.com/8070/8162183361_271a92d997_o.jpg",
+    "https://farm9.staticflickr.com/8344/8162183173_54be4b4eeb_o.jpg"
+  ],
+  "auto_story_text_normalized": "the kids were excited to be at the halloween party . the kids had a great time at the party . even the kids had a great time . there were a lot of people there . this is a picture of a woman .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The kids were excited to be at the halloween party. They were all dressed up in costumes.  They had a great time at the party  This is a picture of a woman with the kids.  They had fun doing crafts.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the halloween party .",
+        "they were all dressed up in costumes .",
+        "they had a great time at the party this is a picture of a woman with the kids .",
+        "they had fun doing crafts ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The kids were so excited to be at the Halloween party. They had a great time! There were a lot of people there. Here is a picture of [female].",
+      "normalized_edited_story_text_sent": [
+        "the kids were so excited to be at the halloween party .",
+        "they had a great time !",
+        "there were a lot of people there .",
+        "here is a picture of [female] ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the kids were excited to be at the halloween party . some of the kidsmade their own costumes. even the baby had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the halloween party .",
+        "some of the kidsmade their own costumes .",
+        "even the baby had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the kids were excited to be at the halloween party . they had a great time at the party . there were a lot of people there . here is a picture of a woman .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the halloween party .",
+        "they had a great time at the party .",
+        "there were a lot of people there .",
+        "here is a picture of a woman ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "The kids were excited to be at the Halloween party. The kids had a great time making crafts. They even had a great time as Disney Princesses. There were a lot of super heroes there. This kid already started on his candy.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the halloween party .",
+        "the kids had a great time making crafts .",
+        "they even had a great time as disney princesses .",
+        "there were a lot of super heroes there .",
+        "this kid already started on his candy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631946128075"
+}

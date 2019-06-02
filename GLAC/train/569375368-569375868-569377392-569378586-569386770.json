@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "569375368-569375868-569377392-569378586-569386770",
+  "photo_sequence_ids": [
+    "569375368",
+    "569375868",
+    "569377392",
+    "569378586",
+    "569386770"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bikers were off to the start of the race . they were all ready for the race . the first thing they did was the finish line . the course was very close . the last part was the final jump .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bikers were off to the start of the race . they were all ready for the race . they biked into the woods. They went over a wooden bridge.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were off to the start of the race .",
+        "they were all ready for the race .",
+        "they biked into the woods .",
+        "they went over a wooden bridge ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "in the morning all the bikers were off to the start the race . every one were all ready for the race .  first thing they did was the finish line  . the course was very close to trees. before the finish was last part, the final jump  .",
+      "normalized_edited_story_text_sent": [
+        "in the morning all the bikers were off to the start the race .",
+        "every one were all ready for the race .",
+        "first thing they did was the finish line .",
+        "the course was very close to trees .",
+        "before the finish was last part , the final jump ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bikers were off to the start of the race . they had been planning for this days for weeks . the first thing they did was the finish line . the course was very close . the last part was the final jump .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were off to the start of the race .",
+        "they had been planning for this days for weeks .",
+        "the first thing they did was the finish line .",
+        "the course was very close .",
+        "the last part was the final jump ."
+      ]
+    },
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the bikers were gathered for the the start of the race . the race course ran through a forest. the racers did acrobatic jumps with their bicycles. the last part took them over a bridge.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were gathered for the the start of the race .",
+        "the race course ran through a forest .",
+        "the racers did acrobatic jumps with their bicycles .",
+        "the last part took them over a bridge ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the bikers were off to the start of the race . they were all ready for the race . the first thing they did was the finish line . the course was very close . the last part was the final jump .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the bikers were off to the start of the race .",
+        "they were all ready for the race .",
+        "the first thing they did was the finish line .",
+        "the course was very close .",
+        "the last part was the final jump ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600452998161",
+  "model": "GLAC"
+}

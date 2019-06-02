@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "3139794-3139806-3139789-3139847-3139821",
+  "photo_sequence_ids": [
+    "3139794",
+    "3139806",
+    "3139789",
+    "3139847",
+    "3139821"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/3139794_0e7cd1a2df_o.jpg",
+    "https://farm1.staticflickr.com/3/3139806_39f98e0573_o.jpg",
+    "https://farm1.staticflickr.com/1/3139789_f13b824f77_o.jpg",
+    "https://farm1.staticflickr.com/1/3139847_cfa14b6310_o.jpg",
+    "https://farm1.staticflickr.com/3/3139821_b4f87b7a2a_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family got together for a party . the man is having a good time . we had a lot of fun . we had a lot of fun . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the family got together for a party . the woman is in the kitchen . we had a lot of fun watching tv . look at this funky pose . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the woman is in the kitchen .",
+        "we had a lot of fun watching tv .",
+        "look at this funky pose .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "the family got together for a party last night . the man is having a good time and dancing the night away . we had a lot of fun  . we had a great time . It was great to see the whole family together",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party last night .",
+        "the man is having a good time and dancing the night away .",
+        "we had a lot of fun .",
+        "we had a great time .",
+        "it was great to see the whole family together"
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The family got together for a party. The man and the woman were having a good time. We had a lot of fun just hanging out.  We cooked and watched television.  The man even entertained us with his dance.  The food was so good there were a lot of empty plates.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the man and the woman were having a good time .",
+        "we had a lot of fun just hanging out .",
+        "we cooked and watched television .",
+        "the man even entertained us with his dance .",
+        "the food was so good there were a lot of empty plates ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the family got together for a party. the man had a good time. we all had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the man had a good time .",
+        "we all had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "Our family all got together for a party last weekend. Our dad had a really good time. We played games and danced. Overall, it was a whole lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "our family all got together for a party last weekend .",
+        "our dad had a really good time .",
+        "we played games and danced .",
+        "overall , it was a whole lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "78660"
+}

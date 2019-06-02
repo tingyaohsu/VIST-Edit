@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "53696512-53696529-53696541-53696577-53696616",
+  "photo_sequence_ids": [
+    "53696512",
+    "53696529",
+    "53696541",
+    "53696577",
+    "53696616"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/30/53696512_28e1819307_o.jpg",
+    "https://farm1.staticflickr.com/31/53696529_97bf820712_o.jpg",
+    "https://farm1.staticflickr.com/25/53696541_9beceafb0b_o.jpg",
+    "https://farm1.staticflickr.com/29/53696577_4ae11c2bc0_o.jpg",
+    "https://farm1.staticflickr.com/25/53696616_6154078727_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the fire truck show . the man is getting ready to go to the car show . we had to take a picture of it . the crowd gathered for a group photo . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to the truck show . the man is in the truck show . we had to take a picture of it . the crowd gathered for a group photo . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the truck show .",
+        "the man is in the truck show .",
+        "we had to take a picture of it .",
+        "the crowd gathered for a group photo .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went to a special car and truck show. The man talked to another trucker to get ready to go there together. He told him to show him his ticket. Everyone took a group photo at the car and truck show. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to a special car and truck show .",
+        "the man talked to another trucker to get ready to go there together .",
+        "he told him to show him his ticket .",
+        "everyone took a group photo at the car and truck show .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the fire truck show and the man is getting ready to go to the car show . we had to take a picture of it . the crowd gathered for a group photo . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the fire truck show and the man is getting ready to go to the car show .",
+        "we had to take a picture of it .",
+        "the crowd gathered for a group photo .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to the fire truck show . we had to take a picture of the trucks . We then gathered for a group photo . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the fire truck show .",
+        "we had to take a picture of the trucks .",
+        "we then gathered for a group photo .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "we went to the fire truck show . the man is getting preparing to go to the car show . we had to take a photo of it . the crowd assembled for a group photo . we had a awesome time there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the fire truck show .",
+        "the man is getting preparing to go to the car show .",
+        "we had to take a photo of it .",
+        "the crowd assembled for a group photo .",
+        "we had a awesome time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1164233"
+}

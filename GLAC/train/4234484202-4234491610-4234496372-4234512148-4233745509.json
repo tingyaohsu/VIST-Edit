@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4234484202-4234491610-4234496372-4234512148-4233745509",
+  "photo_sequence_ids": [
+    "4234484202",
+    "4234491610",
+    "4234496372",
+    "4234512148",
+    "4233745509"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were lots of people there . the costumes were great . the costumes were very good . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "the Christmas party was a lot of fun . a bunch of my friends showed up . they dressed up like blanket creatures . and made costumes out of plastic bags . everyone had a blast .",
+      "normalized_edited_story_text_sent": [
+        "the christmas party was a lot of fun .",
+        "a bunch of my friends showed up .",
+        "they dressed up like blanket creatures .",
+        "and made costumes out of plastic bags .",
+        "everyone had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the kids party was a lot of fun and there were lots of people there . the costumes were great . the costumes were very good . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids party was a lot of fun and there were lots of people there .",
+        "the costumes were great .",
+        "the costumes were very good .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the party was a lot of fun . the boys had a lot of fun posing and playing games. there were lots of people there . the boy wore plastic bags and made silly faces. the costumes were great .everyone had a great time . they took a lot of pictures.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the boys had a lot of fun posing and playing games .",
+        "there were lots of people there .",
+        "the boy wore plastic bags and made silly faces .",
+        "the costumes were great .",
+        "everyone had a great time .",
+        "they took a lot of pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the kids had a lot of fun . there were more than three people there . the costumes were great . the costumes were very good . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids had a lot of fun .",
+        "there were more than three people there .",
+        "the costumes were great .",
+        "the costumes were very good .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . there were lots of people there . the costumes were great . the costumes were creative . everyone loved the theme  .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were lots of people there .",
+        "the costumes were great .",
+        "the costumes were creative .",
+        "everyone loved the theme ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623114581602",
+  "model": "GLAC"
+}

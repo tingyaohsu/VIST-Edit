@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4259537955-4259533909-4259534905-4259535855-4259539091",
+  "photo_sequence_ids": [
+    "4259537955",
+    "4259533909",
+    "4259534905",
+    "4259535855",
+    "4259539091"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the house was very nice . the room was a bit smaller . the bed was big . the bedroom was huge . the living room was very clean .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the house was very nice . the room was a bit smaller . The dining room was well lit. The family room was cozy. The bedroom was nice also.",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice .",
+        "the room was a bit smaller .",
+        "the dining room was well lit .",
+        "the family room was cozy .",
+        "the bedroom was nice also ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the house was very nice . one room was a bit small . the bed was big and soft. the bedroom was huge . the living room was very clean .",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice .",
+        "one room was a bit small .",
+        "the bed was big and soft .",
+        "the bedroom was huge .",
+        "the living room was very clean ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the house was very nice . the kitchen was a bit small for the house size . the dining room was bigger . the living room was clean. the bedroom was spacious.",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice .",
+        "the kitchen was a bit small for the house size .",
+        "the dining room was bigger .",
+        "the living room was clean .",
+        "the bedroom was spacious ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the house was very nice . the room was decorated nicely . the bed was big . the bedroom was huge . the living room was very clean .",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice .",
+        "the room was decorated nicely .",
+        "the bed was big .",
+        "the bedroom was huge .",
+        "the living room was very clean ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The house was very nice. The living room was a bit smaller, but the bedroom was huge. The space was very clean and well-kept.",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice .",
+        "the living room was a bit smaller , but the bedroom was huge .",
+        "the space was very clean and well-kept ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623174760750",
+  "model": "GLAC"
+}

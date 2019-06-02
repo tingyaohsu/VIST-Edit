@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4351118966-4351119036-4351119330-4350373645-4350373715",
+  "photo_sequence_ids": [
+    "4351118966",
+    "4351119036",
+    "4351119330",
+    "4350373645",
+    "4350373715"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the conference was very boring . the speaker was very informative . he had a great time . the audience was really good . he was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the conference was going and everyone sat at the table. The presentation was given on a screen. People watched and looked on.",
+      "normalized_edited_story_text_sent": [
+        "the conference was going and everyone sat at the table .",
+        "the presentation was given on a screen .",
+        "people watched and looked on ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the conference was very boring . i couldn\u0027t wait for it to be over. the speaker was very informative .people asked questions.",
+      "normalized_edited_story_text_sent": [
+        "the conference was very boring .",
+        "i could n\u0027t wait for it to be over .",
+        "the speaker was very informative .",
+        "people asked questions ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the conference was very boring and should of been canceled . the speaker was very informative about all the new products . he had a great time and wanted to do it again next year . the audience was really good and asked great questions . he was very happy that everyone enjoyed his speech .",
+      "normalized_edited_story_text_sent": [
+        "the conference was very boring and should of been canceled .",
+        "the speaker was very informative about all the new products .",
+        "he had a great time and wanted to do it again next year .",
+        "the audience was really good and asked great questions .",
+        "he was very happy that everyone enjoyed his speech ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the conference at my work this week was very boring. the speaker was informative but still not very exciting. audience members seemed restless and not very interested. some of the speakers tried to keep things interesting. some were more successful than others at holding the crowd\u0027s attention.",
+      "normalized_edited_story_text_sent": [
+        "the conference at my work this week was very boring .",
+        "the speaker was informative but still not very exciting .",
+        "audience members seemed restless and not very interested .",
+        "some of the speakers tried to keep things interesting .",
+        "some were more successful than others at holding the crowd \u0027s attention ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The conference was very interesting and the speaker was very informative . People viewed the monitor for results.",
+      "normalized_edited_story_text_sent": [
+        "the conference was very interesting and the speaker was very informative .",
+        "people viewed the monitor for results ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623292282441",
+  "model": "GLAC"
+}

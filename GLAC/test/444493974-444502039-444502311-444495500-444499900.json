@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "444493974-444502039-444502311-444495500-444499900",
+  "photo_sequence_ids": [
+    "444493974",
+    "444502039",
+    "444502311",
+    "444495500",
+    "444499900"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i made a lot of food for tonight . there were a lot of different kinds of meat . the food was delicious . it was very good . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "I made a big meal for tonight\u0027s dinner.  Meat and vegetables served on a dinner plate!",
+      "normalized_edited_story_text_sent": [
+        "i made a big meal for tonight \u0027s dinner .",
+        "meat and vegetables served on a dinner plate !"
+      ]
+    },
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "i made a lot of food for tonight . there were a lot of different kinds of vegetables . the food was delicious . it was very good . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for tonight .",
+        "there were a lot of different kinds of vegetables .",
+        "the food was delicious .",
+        "it was very good .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i made a lot of food for tonight . there were manys kinds of meat . the food was delicious . it was all ethnic . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for tonight .",
+        "there were manys kinds of meat .",
+        "the food was delicious .",
+        "it was all ethnic .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i made a lot of food for tonight because i had friends over . there were a lot of different kinds of meat including some fried duck . the food was delicious and the drinks were tasty also . it was very good to see all my friends. i had a great time and want to do it again soon .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for tonight because i had friends over .",
+        "there were a lot of different kinds of meat including some fried duck .",
+        "the food was delicious and the drinks were tasty also .",
+        "it was very good to see all my friends .",
+        "i had a great time and want to do it again soon ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "i made soup for tonight . there were a lot of green beans. the food was delicious . it was very good . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i made soup for tonight .",
+        "there were a lot of green beans .",
+        "the food was delicious .",
+        "it was very good .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600044428041",
+  "model": "GLAC"
+}

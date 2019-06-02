@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "7828347648-7828346574-7828346824-7828348366-7828349080",
+  "photo_sequence_ids": [
+    "7828347648",
+    "7828346574",
+    "7828346824",
+    "7828348366",
+    "7828349080"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the new year . they got to see the animals . they had a lot of fun . they had a great time . they even had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "She was happy to pose with her dog. She also posed with her favorite books. There was a pretty tree. The day was perfect for photos.",
+      "normalized_edited_story_text_sent": [
+        "she was happy to pose with her dog .",
+        "she also posed with her favorite books .",
+        "there was a pretty tree .",
+        "the day was perfect for photos ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were excited to be in the new year . a new school year.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the new year .",
+        "a new school year ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the girl was excited to be in the new year . she posed with books . she stood by a tree . she had a put on a hat . she had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the girl was excited to be in the new year .",
+        "she posed with books .",
+        "she stood by a tree .",
+        "she had a put on a hat .",
+        "she had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the kids had a happy new year . they brought their pets . they had fun at a park . their time was well spent . they thought the trip to the park was fun .",
+      "normalized_edited_story_text_sent": [
+        "the kids had a happy new year .",
+        "they brought their pets .",
+        "they had fun at a park .",
+        "their time was well spent .",
+        "they thought the trip to the park was fun ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "lisa had a photoshoot with her dog today. she looks so pretty in them, especially the one by the tree. She\u0027s grown up so much i can\u0027t believe it.",
+      "normalized_edited_story_text_sent": [
+        "[female] had a photoshoot with her dog today .",
+        "she looks so pretty in them , especially the one by the tree .",
+        "she \u0027s grown up so much i ca n\u0027t believe it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631169645326",
+  "model": "GLAC"
+}

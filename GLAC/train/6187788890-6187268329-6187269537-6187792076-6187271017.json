@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6187788890-6187268329-6187269537-6187792076-6187271017",
+  "photo_sequence_ids": [
+    "6187788890",
+    "6187268329",
+    "6187269537",
+    "6187792076",
+    "6187271017"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the girls were excited to be graduating . they were all smiles and ready . the students were so proud of their accomplishments . the graduates were very happy . the family was so proud of them .",
+  "edited_stories": [
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "At halftime, the seniors were introduced with their parents while the band played in the background. A few students who did not have parents in attendance were escorted by friends but most were accompanied by at least one of their parents. Everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "at halftime , the seniors were introduced with their parents while the band played in the background .",
+        "a few students who did not have parents in attendance were escorted by friends but most were accompanied by at least one of their parents .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the girls were excited to be graduating . they were all smiles and ready .",
+      "normalized_edited_story_text_sent": [
+        "the girls were excited to be graduating .",
+        "they were all smiles and ready ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Homecoming is always the sweetest time.  Seniors escort their parents down the middle of the field and there are so many smiles.",
+      "normalized_edited_story_text_sent": [
+        "homecoming is always the sweetest time .",
+        "seniors escort their parents down the middle of the field and there are so many smiles ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the girls were excited to be graduating . they were all smiles and ready . the students were so proud of their accomplishments . the graduates were ready to leave . the family was so proud of them .",
+      "normalized_edited_story_text_sent": [
+        "the girls were excited to be graduating .",
+        "they were all smiles and ready .",
+        "the students were so proud of their accomplishments .",
+        "the graduates were ready to leave .",
+        "the family was so proud of them ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the girls were excited to be graduating . they were all smiles and ready . the students were so proud of their accomplishments . the graduates were taking part in a ceremony on the football field . the family was so proud of them .",
+      "normalized_edited_story_text_sent": [
+        "the girls were excited to be graduating .",
+        "they were all smiles and ready .",
+        "the students were so proud of their accomplishments .",
+        "the graduates were taking part in a ceremony on the football field .",
+        "the family was so proud of them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627638300109",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "323189821-323164838-323189818-323164829-323164841",
+  "photo_sequence_ids": [
+    "323189821",
+    "323164838",
+    "323189818",
+    "323164829",
+    "323164841"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/126/323189821_e5277c0fac_o.jpg",
+    "https://farm1.staticflickr.com/134/323164838_b1db338ce2_o.jpg",
+    "https://farm1.staticflickr.com/136/323189818_c744a12172_o.jpg",
+    "https://farm1.staticflickr.com/123/323164829_c5886b38b0_o.jpg",
+    "https://farm1.staticflickr.com/129/323164841_1cad107fe3_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a tree . there was a lot of trees . there were many different types of plants there . the trees were so beautiful . this is a picture of a waterfall .",
+  "edited_stories": [
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "This is a picture of a tree.  There were a lot of trees.  There were many different types of plants there too.  The trees were so beautiful.  This is a picture of a waterfall.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a tree .",
+        "there were a lot of trees .",
+        "there were many different types of plants there too .",
+        "the trees were so beautiful .",
+        "this is a picture of a waterfall ."
+      ]
+    },
+    {
+      "worker_id": "A2CAMPAA7650H2",
+      "edited_story_text": "We started out our hike at the bridge in the woods . there were a lot of trees . there were many different types of plants along the trail, as well as some cool rock formations . we came across a waterfall framed by trees; the image was so beautiful that I had to take a picture of it.  Toward the end of the trail, there was a dark cave.",
+      "normalized_edited_story_text_sent": [
+        "we started out our hike at the bridge in the woods .",
+        "there were a lot of trees .",
+        "there were many different types of plants along the trail , as well as some cool rock formations .",
+        "we came across a waterfall framed by trees ; the image was so beautiful that i had to take a picture of it .",
+        "toward the end of the trail , there was a dark cave ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a tree . there was a lot of trees . there were many different types of plants there . the trees were so beautiful and this is a picture of a waterfall .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a tree .",
+        "there was a lot of trees .",
+        "there were many different types of plants there .",
+        "the trees were so beautiful and this is a picture of a waterfall ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a tree . there is a lot of trees . there are many different types of plants there . the trees are so beautiful . this was a picture of a waterfall .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a tree .",
+        "there is a lot of trees .",
+        "there are many different types of plants there .",
+        "the trees are so beautiful .",
+        "this was a picture of a waterfall ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The nature preserve was so beautiful. There was a lot of trees. there were many different types of plants there. I saw a waterfall, a cave and a lot of great sceneries.",
+      "normalized_edited_story_text_sent": [
+        "the nature preserve was so beautiful .",
+        "there was a lot of trees .",
+        "there were many different types of plants there .",
+        "i saw a waterfall , a cave and a lot of great sceneries ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594422873458"
+}

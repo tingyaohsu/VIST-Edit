@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "16230702051-15610154464-16045049758-16046456669-16206659906",
+  "photo_sequence_ids": [
+    "16230702051",
+    "15610154464",
+    "16045049758",
+    "16046456669",
+    "16206659906"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the presentation was about to begin . the speaker was very knowledgeable and spoke . the audience was listening intently . the crowd was pleased with the performance . the crowd was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3NHJPE6326P9V",
+      "edited_story_text": "the presentation was about to begin for the speaker . david was very knowledgeable and spoke with ease . there was a panel of guest on the stage. the audience was listening intently . the crowd was pleased with the performance . the crowd was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the presentation was about to begin for the speaker .",
+        "[male] was very knowledgeable and spoke with ease .",
+        "there was a panel of guest on the stage .",
+        "the audience was listening intently .",
+        "the crowd was pleased with the performance .",
+        "the crowd was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the presentation was about to begin . the speaker was very informed and spoke . the audience was listening intently and silently . the crowd was pleased with the performance . the crowd was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the presentation was about to begin .",
+        "the speaker was very informed and spoke .",
+        "the audience was listening intently and silently .",
+        "the crowd was pleased with the performance .",
+        "the crowd was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "So proud of everyone graduating today.  the speaker was very knowledgeable and spoke . the audience was listening intently . the crowd was pleased with the performance . There was a great turnout.",
+      "normalized_edited_story_text_sent": [
+        "so proud of everyone graduating today .",
+        "the speaker was very knowledgeable and spoke .",
+        "the audience was listening intently .",
+        "the crowd was pleased with the performance .",
+        "there was a great turnout ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "at the ceremony this week, people waited patiently for the presentation to begin. the soliders stood in official formation. the speaker was very knowledgeable and spoke eloquently. afterwards, a panel of guests answered questions from the audience. the crowd was very appreciative.",
+      "normalized_edited_story_text_sent": [
+        "at the ceremony this week , people waited patiently for the presentation to begin .",
+        "the soliders stood in official formation .",
+        "the speaker was very knowledgeable and spoke eloquently .",
+        "afterwards , a panel of guests answered questions from the audience .",
+        "the crowd was very appreciative ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the presentation was about to begin . the audience was listening intently . the crowd was pleased with the performance .",
+      "normalized_edited_story_text_sent": [
+        "the presentation was about to begin .",
+        "the audience was listening intently .",
+        "the crowd was pleased with the performance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157649780970810",
+  "model": "GLAC"
+}

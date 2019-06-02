@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "68385517-68385075-68385390-68389765-68385026",
+  "photo_sequence_ids": [
+    "68385517",
+    "68385075",
+    "68385390",
+    "68389765",
+    "68385026"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/18/68385517_a2524e315d_o.jpg",
+    "https://farm1.staticflickr.com/35/68385075_b739f98a23_o.jpg",
+    "https://farm1.staticflickr.com/35/68385390_73c0e01f3b_o.jpg",
+    "https://farm1.staticflickr.com/15/68389765_caec2ad5e4_o.jpg",
+    "https://farm1.staticflickr.com/26/68385026_946ad724d4_o.jpg"
+  ],
+  "auto_story_text_normalized": "the table was set up for the party . the kids were excited to be there . we had a lot of fun at the party . the baby was so happy to see him . we all had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "the table was all set up for the party . the kids were so excited to be there. the baby was so happy to see him . we all had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the table was all set up for the party .",
+        "the kids were so excited to be there .",
+        "the baby was so happy to see him .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the table was set up for the party . the kids were thrilled to be there . we had so much fun at the party . the baby was so happy to see him . we all had an awesome time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the table was set up for the party .",
+        "the kids were thrilled to be there .",
+        "we had so much fun at the party .",
+        "the baby was so happy to see him .",
+        "we all had an awesome time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The table was set up for the party, and the kids were excited to be there. We had a lot of fun at the party, and the baby was so excited. We all had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the table was set up for the party , and the kids were excited to be there .",
+        "we had a lot of fun at the party , and the baby was so excited .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "The table was set up for the party. The kids got all dressed up to be there. We had a lot of fun at the party. The baby was so happy to show off his hat. We all had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the table was set up for the party .",
+        "the kids got all dressed up to be there .",
+        "we had a lot of fun at the party .",
+        "the baby was so happy to show off his hat .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The table was set up for the party and the kids were excited. Everyone had a lot of fun at the party . The baby was so happy to see the clown. Everyone ate food and had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the table was set up for the party and the kids were excited .",
+        "everyone had a lot of fun at the party .",
+        "the baby was so happy to see the clown .",
+        "everyone ate food and had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1475214"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4335064615-4332006810-4335809672-4335812894-4335071867",
+  "photo_sequence_ids": [
+    "4335064615",
+    "4332006810",
+    "4335809672",
+    "4335812894",
+    "4335071867"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting and the sky was clear . the sun was going down . the streets were empty . the people were walking around . the street was full of people .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the sun was setting and the sky was overcast. the view was amazing though.  Some people were walking around. We decided to stop and get some coffee to warm up.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting and the sky was overcast .",
+        "the view was amazing though .",
+        "some people were walking around .",
+        "we decided to stop and get some coffee to warm up ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "There was many different sides to this country including a mountain and a city together.",
+      "normalized_edited_story_text_sent": [
+        "there was many different sides to this country including a mountain and a city together ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "today in seattle the sun was barely visible in the hazy sky. shadows deepened as the sun began to set. the streets were lightly populated this time of day. despite the small crowds, merchants still displayed their wares. as the day waned, pedestrians traveled to and fro.",
+      "normalized_edited_story_text_sent": [
+        "today in seattle the sun was barely visible in the hazy sky .",
+        "shadows deepened as the sun began to set .",
+        "the streets were lightly populated this time of day .",
+        "despite the small crowds , merchants still displayed their wares .",
+        "as the day waned , pedestrians traveled to and fro ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the sun was setting and the sky was clear . the city was full of things to do . the streets were had many people . the people were walking around . the city had many landmarks .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting and the sky was clear .",
+        "the city was full of things to do .",
+        "the streets were had many people .",
+        "the people were walking around .",
+        "the city had many landmarks ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "When the sun was setting over the city, the streets were empty. The mountains were calm and serene. But during the day, the streets were full of people.",
+      "normalized_edited_story_text_sent": [
+        "when the sun was setting over the city , the streets were empty .",
+        "the mountains were calm and serene .",
+        "but during the day , the streets were full of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623375467685",
+  "model": "GLAC"
+}

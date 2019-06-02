@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "8139399-8139398-8138852-8139989-8140629",
+  "photo_sequence_ids": [
+    "8139399",
+    "8139398",
+    "8138852",
+    "8139989",
+    "8140629"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was beautiful . the buildings were very old . the streets were full of people . the shops were quaint . the shops were busy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The city was beautiful. The buildings were very old, and the streets were full of people. The shops were quaint, and they shops were busy.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings were very old , and the streets were full of people .",
+        "the shops were quaint , and they shops were busy ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "It was a beautiful city. The streets were full of people, bustling up and down, back and forth throughout the day. The shops, filled with patrons, were warm and cozy to visit. Each of the buildings, aged and refined, developed a personality over the years. A treasure, out in the open, cherished and unnoticed.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful city .",
+        "the streets were full of people , bustling up and down , back and forth throughout the day .",
+        "the shops , filled with patrons , were warm and cozy to visit .",
+        "each of the buildings , aged and refined , developed a personality over the years .",
+        "a treasure , out in the open , cherished and unnoticed ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was beautiful . the buildings were very old .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings were very old ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was beautiful and was on the river . the buildings were very old and needed to be fixed . the streets were full of people looking for some food . the shops were quaint and very rustic . the shops were busy as people were hungry .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful and was on the river .",
+        "the buildings were very old and needed to be fixed .",
+        "the streets were full of people looking for some food .",
+        "the shops were quaint and very rustic .",
+        "the shops were busy as people were hungry ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the city was beautiful. the buildings along the canal were very old. we went for a walk and the streets were full of people . the shops were quaint . we had a fun time looking at everything.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings along the canal were very old .",
+        "we went for a walk and the streets were full of people .",
+        "the shops were quaint .",
+        "we had a fun time looking at everything ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "202700",
+  "model": "GLAC"
+}

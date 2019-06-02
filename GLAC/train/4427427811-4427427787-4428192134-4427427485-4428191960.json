@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4427427811-4427427787-4428192134-4427427485-4428191960",
+  "photo_sequence_ids": [
+    "4427427811",
+    "4427427787",
+    "4428192134",
+    "4427427485",
+    "4428191960"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was a great speaker . he was very proud . he had a lot of questions . he was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the speaker was very happy to be there . he was a great speaker . There was a lit board behind him. He spoke to the crowd.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was a great speaker .",
+        "there was a lit board behind him .",
+        "he spoke to the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the speaker was very happy to be speaking . he was a great speaker . he was very proud . he had a lot of questions asked of him. he was very proud to teach others.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be speaking .",
+        "he was a great speaker .",
+        "he was very proud .",
+        "he had a lot of questions asked of him .",
+        "he was very proud to teach others ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we were at one of our company workshop. the speaker was very happy to be there . he was a great speaker. we learnt so much from him. It was good.",
+      "normalized_edited_story_text_sent": [
+        "we were at one of our company workshop .",
+        "the speaker was very happy to be there .",
+        "he was a great speaker .",
+        "we learnt so much from him .",
+        "it was good ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the speaker was very happy to be there . he was a great speaker . he was very proud . he gave the speech . he loved his crowd .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was a great speaker .",
+        "he was very proud .",
+        "he gave the speech .",
+        "he loved his crowd ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The speaker was very happy to be there and he was a great speaker. He was very proud and had  lot of questions.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there and he was a great speaker .",
+        "he was very proud and had lot of questions ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623483419823",
+  "model": "GLAC"
+}

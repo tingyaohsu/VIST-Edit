@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4455909831-4455910097-4456688394-4455909905-4456688604",
+  "photo_sequence_ids": [
+    "4455909831",
+    "4455910097",
+    "4456688394",
+    "4455909905",
+    "4456688604"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a great place to visit . there was a lot of food . the signs were interesting . the signs were very unique . the buildings were cool .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and lisa were glad the city was a great place to visit . there was a lot of food . the signs were interesting . the signs were very unique . the buildings were cool .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the city was a great place to visit .",
+        "there was a lot of food .",
+        "the signs were interesting .",
+        "the signs were very unique .",
+        "the buildings were cool ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the city was a great place to visit . there was a lot of food and the signs were interesting . the signs were very unique . the buildings were cool .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "there was a lot of food and the signs were interesting .",
+        "the signs were very unique .",
+        "the buildings were cool ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the city was a great place to visit! there was tons of food. some of the signs were interesting, so i took a bunch of photos for a project later.",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit !",
+        "there was tons of food .",
+        "some of the signs were interesting , so i took a bunch of photos for a project later ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was a great place to visit . We went to the market. There was a lot of food. We saw some signs outside.",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "we went to the market .",
+        "there was a lot of food .",
+        "we saw some signs outside ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The city was a great place to visit.  There was a lot of food. The signs were interesting and very unique. The buildings were also cool!",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "there was a lot of food .",
+        "the signs were interesting and very unique .",
+        "the buildings were also cool !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623675822498",
+  "model": "GLAC"
+}

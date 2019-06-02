@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "80269103-80269104-80277383-80298950-80298954",
+  "photo_sequence_ids": [
+    "80269103",
+    "80269104",
+    "80277383",
+    "80298950",
+    "80298954"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was ready for the halloween party . the girl was dressed as a devil . the man was wearing a hat . the people were having a great time . the night was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a great time. a lot of people came out",
+      "normalized_edited_story_text_sent": [
+        "the party was a great time .",
+        "a lot of people came out"
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "The trip was very fun. There was a little celebration that we came upon and we participated with drinks and blowing streamers with the crowd. Glad we decided to take a walk late into the night.",
+      "normalized_edited_story_text_sent": [
+        "the trip was very fun .",
+        "there was a little celebration that we came upon and we participated with drinks and blowing streamers with the crowd .",
+        "glad we decided to take a walk late into the night ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was ready to party . one girl was dressed as a devil for halloween . the man wore a silly hat . the people were having fun . the party night was successful .",
+      "normalized_edited_story_text_sent": [
+        "the man was ready to party .",
+        "one girl was dressed as a devil for halloween .",
+        "the man wore a silly hat .",
+        "the people were having fun .",
+        "the party night was successful ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we had a great time in the city last night. i met up with a few friends, and we wandered the town. it was packed, but the city lights were really cool.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time in the city last night .",
+        "i met up with a few friends , and we wandered the town .",
+        "it was packed , but the city lights were really cool ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "He was ready for the party with his drink. She blew a horn. There were lots of people there that night. It was dimly lit in the evening.",
+      "normalized_edited_story_text_sent": [
+        "he was ready for the party with his drink .",
+        "she blew a horn .",
+        "there were lots of people there that night .",
+        "it was dimly lit in the evening ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1718007",
+  "model": "GLAC"
+}

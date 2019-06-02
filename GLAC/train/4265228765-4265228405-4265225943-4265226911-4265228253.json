@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4265228765-4265228405-4265225943-4265226911-4265228253",
+  "photo_sequence_ids": [
+    "4265228765",
+    "4265228405",
+    "4265225943",
+    "4265226911",
+    "4265228253"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to be graduating . the speaker was very proud . the graduates were so happy . the family was all smiles . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the students were very excited to be graduating and the speaker was very proud . the graduates were so happy . the family was all smiles . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the students were very excited to be graduating and the speaker was very proud .",
+        "the graduates were so happy .",
+        "the family was all smiles .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the students were excited to be graduating . the speaker was very proud . the graduates were so happy . the family was all smiles . the students were ready to leave  .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be graduating .",
+        "the speaker was very proud .",
+        "the graduates were so happy .",
+        "the family was all smiles .",
+        "the students were ready to leave ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the people gathered together . the man played saxophone . the people were so happy . the family was all smiles . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the people gathered together .",
+        "the man played saxophone .",
+        "the people were so happy .",
+        "the family was all smiles .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "at last, the students\u0027 graduation date had come. the speaker got everyone engaged . the graduating class was delighted . their families were pumped . the food tasted quite scrumptious .",
+      "normalized_edited_story_text_sent": [
+        "at last , the students \u0027 graduation date had come .",
+        "the speaker got everyone engaged .",
+        "the graduating class was delighted .",
+        "their families were pumped .",
+        "the food tasted quite scrumptious ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the students were excited to be graduating . the speaker was very proud . the graduates were so happy while the man was playing the sax .  the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be graduating .",
+        "the speaker was very proud .",
+        "the graduates were so happy while the man was playing the sax .",
+        "the food was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623063047547",
+  "model": "GLAC"
+}

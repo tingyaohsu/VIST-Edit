@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "14050980-14051378-14051079-14051201-14051990",
+  "photo_sequence_ids": [
+    "14050980",
+    "14051378",
+    "14051079",
+    "14051201",
+    "14051990"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was preparing for the party . they had a lot of food . they had a lot of good food . they had lots of vegetables . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A30H28F41UBJGK",
+      "edited_story_text": "It was that time of year again when the Market Days came to town and my family and I attended. There were so many things to look at and a variety of items for sale such as my favorite, loafs of bread. Another neat booth sold many wonderful smelling soaps. Also, the strawberries were to die for. And, lets not forget about the jams that were so delicious!",
+      "normalized_edited_story_text_sent": [
+        "it was that time of year again when the market days came to town and my family and i attended .",
+        "there were so many things to look at and a variety of items for sale such as my favorite , loafs of bread .",
+        "another neat booth sold many wonderful smelling soaps .",
+        "also , the strawberries were to die for .",
+        "and , lets not forget about the jams that were so delicious !"
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was preparing for the party that was suppose to be last week . they had a lot of food and tons of candy. they had a lot of good food and some great drinks . they had lots of vegetables right from the farm . they had a great time and want to do it again next week .",
+      "normalized_edited_story_text_sent": [
+        "the family was preparing for the party that was suppose to be last week .",
+        "they had a lot of food and tons of candy .",
+        "they had a lot of good food and some great drinks .",
+        "they had lots of vegetables right from the farm .",
+        "they had a great time and want to do it again next week ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The family was preparing for the party and Robert was prepping the food on the table.  They had a lot of good food. There were plenty of fruits and jams. They also had lots of vegetables. They all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was preparing for the party and [male] was prepping the food on the table .",
+        "they had a lot of good food .",
+        "there were plenty of fruits and jams .",
+        "they also had lots of vegetables .",
+        "they all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the family was preparing for themarket. they had a lot of food for sale . they had a lot of goods including soaps . they had lots of fruit and jams. they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was preparing for themarket .",
+        "they had a lot of food for sale .",
+        "they had a lot of goods including soaps .",
+        "they had lots of fruit and jams .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was preparing for the big party . they had a ton of food . they had a lot of yummy food . they had lots of vegetables . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was preparing for the big party .",
+        "they had a ton of food .",
+        "they had a lot of yummy food .",
+        "they had lots of vegetables .",
+        "they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "342772",
+  "model": "GLAC"
+}

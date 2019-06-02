@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "925423901-925423977-926271380-926271470-925424227",
+  "photo_sequence_ids": [
+    "925423901",
+    "925423977",
+    "926271380",
+    "926271470",
+    "925424227"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was beautiful . the buildings were tall . the sky was blue . the skyline was amazing . the city was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "on our trip to San Francisco, the city was beautiful . the buildings were tall . the sky was blue . we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "on our trip to san francisco , the city was beautiful .",
+        "the buildings were tall .",
+        "the sky was blue .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was beautiful . the sky was serene",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the sky was serene"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was beautiful . the bridge was long over the water. The city skyline was impressive against the blue sky. The bridge was tall and red.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the bridge was long over the water .",
+        "the city skyline was impressive against the blue sky .",
+        "the bridge was tall and red ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city was gorgeous . the buildings were huge . the sky was blue with little clouds . the skyline was astonishing . the city was splendid .",
+      "normalized_edited_story_text_sent": [
+        "the city was gorgeous .",
+        "the buildings were huge .",
+        "the sky was blue with little clouds .",
+        "the skyline was astonishing .",
+        "the city was splendid ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the city was beautiful with a view of the bridge across it. the buildings were tall and tons of them. the sky was blue and sunny. the skyline was amazing especially seeing the buildings close to the water. the city was beautiful and I really liked the bridge.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful with a view of the bridge across it .",
+        "the buildings were tall and tons of them .",
+        "the sky was blue and sunny .",
+        "the skyline was amazing especially seeing the buildings close to the water .",
+        "the city was beautiful and i really liked the bridge ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601053063486",
+  "model": "GLAC"
+}

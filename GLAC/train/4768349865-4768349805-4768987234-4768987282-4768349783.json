@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4768349865-4768349805-4768987234-4768987282-4768349783",
+  "photo_sequence_ids": [
+    "4768349865",
+    "4768349805",
+    "4768987234",
+    "4768987282",
+    "4768349783"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to play in the snow . they played with bubbles . they also played basketball . they had a great time . they had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were excited to play in the snow . they played with bubbles . they also played basketball . they had a great time . there were many teachers there .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play in the snow .",
+        "they played with bubbles .",
+        "they also played basketball .",
+        "they had a great time .",
+        "there were many teachers there ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "It was so satisfying to help out the kids in the city and teach them how to take better care of themselves.",
+      "normalized_edited_story_text_sent": [
+        "it was so satisfying to help out the kids in the city and teach them how to take better care of themselves ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The kids were excited to have someone to help them and play with.  The woman was reading to the kids and giving out crafts and food.  The people were really helpful to the community.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to have someone to help them and play with .",
+        "the woman was reading to the kids and giving out crafts and food .",
+        "the people were really helpful to the community ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the kids were excited to play outside . they played with bubbles . they also played basketball . everyone had a great time . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play outside .",
+        "they played with bubbles .",
+        "they also played basketball .",
+        "everyone had a great time .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the kids were excited to play in the mud . they played with bubbles . they also rode bikes . they had a great time . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play in the mud .",
+        "they played with bubbles .",
+        "they also rode bikes .",
+        "they had a great time .",
+        "they had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624437275314",
+  "model": "GLAC"
+}

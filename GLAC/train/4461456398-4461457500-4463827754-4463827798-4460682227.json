@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4461456398-4461457500-4463827754-4463827798-4460682227",
+  "photo_sequence_ids": [
+    "4461456398",
+    "4461457500",
+    "4463827754",
+    "4463827798",
+    "4460682227"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the runners were off to the start of the race . the participants were very excited . the race was underway . the crowd was anxious for the finish line . the winner was presented with a medal .",
+  "edited_stories": [
+    {
+      "worker_id": "ADBDQ7FTFHKCR",
+      "edited_story_text": "the runners were off to the start of the race . the participants were very excited . the race was underway and exciting. the crowd was anxious for the runners to finish . the winner was presented with a medal .",
+      "normalized_edited_story_text_sent": [
+        "the runners were off to the start of the race .",
+        "the participants were very excited .",
+        "the race was underway and exciting .",
+        "the crowd was anxious for the runners to finish .",
+        "the winner was presented with a medal ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the runners were off to the start of the race . the spectators were very excited . the race was underway . the crowd was anxious at the finish line . the finishers got brunch .",
+      "normalized_edited_story_text_sent": [
+        "the runners were off to the start of the race .",
+        "the spectators were very excited .",
+        "the race was underway .",
+        "the crowd was anxious at the finish line .",
+        "the finishers got brunch ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the runners were off to the start of the race . the participants were very excited . they stood with signs. They went out to celebrate after the race.",
+      "normalized_edited_story_text_sent": [
+        "the runners were off to the start of the race .",
+        "the participants were very excited .",
+        "they stood with signs .",
+        "they went out to celebrate after the race ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the runners were off to the start of the 5k  charity race . my husband Jack and the other participants were very excited  to start. the race was underway at 10am . the crowd was anxious while waiting at the finish line . the winner was presented with a medal and a cash reward .",
+      "normalized_edited_story_text_sent": [
+        "the runners were off to the start of the 5k charity race .",
+        "my husband jack and the other participants were very excited to start .",
+        "the race was underway at 10 am .",
+        "the crowd was anxious while waiting at the finish line .",
+        "the winner was presented with a medal and a cash reward ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the runners were off to a fast start . the participants were all energetic . anticipation rose as the race was underway . the crowd was anxiously watching the finish line . the winner was given a medal in a presentation .",
+      "normalized_edited_story_text_sent": [
+        "the runners were off to a fast start .",
+        "the participants were all energetic .",
+        "anticipation rose as the race was underway .",
+        "the crowd was anxiously watching the finish line .",
+        "the winner was given a medal in a presentation ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623563366489",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4433198683-4433972608-4433971786-4433198409-4433198861",
+  "photo_sequence_ids": [
+    "4433198683",
+    "4433972608",
+    "4433971786",
+    "4433198409",
+    "4433198861"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the family went on a trip to the beach . they saw a lot of animals . the view was spectacular . the water was calm and peaceful .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the sun was setting and was beautiful . the family went on a trip to the beach . they saw a lot of people . the view was spectacular . the water was calm and peaceful . the sun set.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting and was beautiful .",
+        "the family went on a trip to the beach .",
+        "they saw a lot of people .",
+        "the view was spectacular .",
+        "the water was calm and peaceful .",
+        "the sun set ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "it was sunset . the family was vacationing on the beach . they had seen a lot of sea animals . a spectacular was for all present to behold . the tranquil water stood still .",
+      "normalized_edited_story_text_sent": [
+        "it was sunset .",
+        "the family was vacationing on the beach .",
+        "they had seen a lot of sea animals .",
+        "a spectacular was for all present to behold .",
+        "the tranquil water stood still ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the sun was setting. the family went on a trip to the beach, where they saw a lot of animals. the view was spectacular. the water was calm and peaceful, underneath the beautiful sunset.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "the family went on a trip to the beach , where they saw a lot of animals .",
+        "the view was spectacular .",
+        "the water was calm and peaceful , underneath the beautiful sunset ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The sun was setting and the family went on a trip to the beach. The family saw a lot of animals and the view was spectacular. The water was calm and peaceful.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting and the family went on a trip to the beach .",
+        "the family saw a lot of animals and the view was spectacular .",
+        "the water was calm and peaceful ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "The sun was setting . My family went on a trip to the beach . We saw a lot of animals . We saw a view that was spectacular . The water was calm and peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "my family went on a trip to the beach .",
+        "we saw a lot of animals .",
+        "we saw a view that was spectacular .",
+        "the water was calm and peaceful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623496934551",
+  "model": "GLAC"
+}

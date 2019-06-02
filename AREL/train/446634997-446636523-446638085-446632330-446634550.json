@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "446634997-446636523-446638085-446632330-446634550",
+  "photo_sequence_ids": [
+    "446634997",
+    "446636523",
+    "446638085",
+    "446632330",
+    "446634550"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/187/446634997_0b11a6db7a_o.jpg",
+    "https://farm1.staticflickr.com/179/446636523_ba410f3dc8_o.jpg",
+    "https://farm1.staticflickr.com/251/446638085_7bb507b5e7_o.jpg",
+    "https://farm1.staticflickr.com/221/446632330_2742b20323_o.jpg",
+    "https://farm1.staticflickr.com/215/446634550_33f3875132_o.jpg"
+  ],
+  "auto_story_text_normalized": "the group of friends got together to play a song . there was a lot of music . the band was great . the band was great . the band was really good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "A group of friends got together to play a song. They performed a lot of music. The band was great.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together to play a song .",
+        "they performed a lot of music .",
+        "the band was great ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the group of friends got together to play a melody . there was a considerable of music . the band was extraordinary . the band was awesome . the band was really great.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together to play a melody .",
+        "there was a considerable of music .",
+        "the band was extraordinary .",
+        "the band was awesome .",
+        "the band was really great ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "the group of friends got together to play a song. We enjoyed singing and playing the guitar. The band was great. The band is really good.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together to play a song .",
+        "we enjoyed singing and playing the guitar .",
+        "the band was great .",
+        "the band is really good ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "A group of friends go together and played together as a band. The band was amazing and the music sounded good as well!",
+      "normalized_edited_story_text_sent": [
+        "a group of friends go together and played together as a band .",
+        "the band was amazing and the music sounded good as well !"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "A group of friends got together to play in their band. They played live music. Their music was really good. The concert was really great. The band had clearly practiced hard.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together to play in their band .",
+        "they played live music .",
+        "their music was really good .",
+        "the concert was really great .",
+        "the band had clearly practiced hard ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600048223185"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "340479904-356146298-340479906-356146291-340476101",
+  "photo_sequence_ids": [
+    "340479904",
+    "356146298",
+    "340479906",
+    "356146291",
+    "340476101"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the team was ready for the game . the players were playing hard . the coach was getting the crowd pumped . the white team was having a great time . the mascot was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the kids were ready to play . they were at the top of the slip and slide . the kids were getting pumped . they were having a great time . the kid were very happy.",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready to play .",
+        "they were at the top of the slip and slide .",
+        "the kids were getting pumped .",
+        "they were having a great time .",
+        "the kid were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the kids setup a slip n slide outside the house.  They slid down the slide and had fun all day.",
+      "normalized_edited_story_text_sent": [
+        "the kids setup a slip n slide outside the house .",
+        "they slid down the slide and had fun all day ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the kids were ready to slip and slide . they lined up . they wore swimsuits . the older girl went first . her brother followed.",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready to slip and slide .",
+        "they lined up .",
+        "they wore swimsuits .",
+        "the older girl went first .",
+        "her brother followed ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids had a great time. the slip and slide was a huge success.",
+      "normalized_edited_story_text_sent": [
+        "the kids had a great time .",
+        "the slip and slide was a huge success ."
+      ]
+    },
+    {
+      "worker_id": "A31GERKX2SZETD",
+      "edited_story_text": "Four kids set up a slip and slide outside a large home. the kids were playing hard. Each kid went down the slip and slide on their back and front. They were very happy.",
+      "normalized_edited_story_text_sent": [
+        "four kids set up a slip and slide outside a large home .",
+        "the kids were playing hard .",
+        "each kid went down the slip and slide on their back and front .",
+        "they were very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594477476263",
+  "model": "GLAC"
+}

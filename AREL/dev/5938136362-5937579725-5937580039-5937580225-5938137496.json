@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5938136362-5937579725-5937580039-5937580225-5938137496",
+  "photo_sequence_ids": [
+    "5938136362",
+    "5937579725",
+    "5937580039",
+    "5937580225",
+    "5938137496"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6137/5938136362_7423bc919e_o.jpg",
+    "https://farm7.staticflickr.com/6123/5937579725_270dfa2f1a_o.jpg",
+    "https://farm7.staticflickr.com/6142/5937580039_909b5baa07_o.jpg",
+    "https://farm7.staticflickr.com/6139/5937580225_57de8cbf06_o.jpg",
+    "https://farm7.staticflickr.com/6012/5938137496_2c7678c8e9_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the festival . the kids had a lot of fun . they had a lot of fun playing in the park . i had a great time there . it was a great day for a parade .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to the festival. The kids had a lot of fun, and they played in the park. I had a great time too. It was a great day for a parade.",
+      "normalized_edited_story_text_sent": [
+        "we went to the festival .",
+        "the kids had a lot of fun , and they played in the park .",
+        "i had a great time too .",
+        "it was a great day for a parade ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "we went to the local festival . the kids had a lot of fun there and playing in the park . i had a great time as well . it was a beautiful day for a parade .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local festival .",
+        "the kids had a lot of fun there and playing in the park .",
+        "i had a great time as well .",
+        "it was a beautiful day for a parade ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to a festival . the kids had a lot of fun playing in the park . i had a great time . it was a great day for a parade .",
+      "normalized_edited_story_text_sent": [
+        "we went to a festival .",
+        "the kids had a lot of fun playing in the park .",
+        "i had a great time .",
+        "it was a great day for a parade ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "We went to the festival. The kids had a lot of fun shopping. They had a lot of fun in the park. I had a great time there. It was a great day for a bazaar.",
+      "normalized_edited_story_text_sent": [
+        "we went to the festival .",
+        "the kids had a lot of fun shopping .",
+        "they had a lot of fun in the park .",
+        "i had a great time there .",
+        "it was a great day for a bazaar ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we went to the festival with some funny instruments . the kids had a lot of fun playing around . they had a lot of fun playing in the park with the interesting statues . i had a great time there and saw some interesting items . with all of the people in attendance, it was the perfect parade day.",
+      "normalized_edited_story_text_sent": [
+        "we went to the festival with some funny instruments .",
+        "the kids had a lot of fun playing around .",
+        "they had a lot of fun playing in the park with the interesting statues .",
+        "i had a great time there and saw some interesting items .",
+        "with all of the people in attendance , it was the perfect parade day ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627071164103"
+}

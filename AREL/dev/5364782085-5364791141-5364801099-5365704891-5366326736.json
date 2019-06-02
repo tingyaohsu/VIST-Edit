@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5364782085-5364791141-5364801099-5365704891-5366326736",
+  "photo_sequence_ids": [
+    "5364782085",
+    "5364791141",
+    "5364801099",
+    "5365704891",
+    "5366326736"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5088/5364782085_e23fb55863_o.jpg",
+    "https://farm6.staticflickr.com/5285/5364791141_c4e71f91e7_o.jpg",
+    "https://farm6.staticflickr.com/5006/5364801099_af6af6981f_o.jpg",
+    "https://farm6.staticflickr.com/5088/5365704891_5c57a527f6_o.jpg",
+    "https://farm6.staticflickr.com/5169/5366326736_d447c4422b_o.jpg"
+  ],
+  "auto_story_text_normalized": "the parade was a success . there were a lot of people there . there were a lot of people there . they were all very proud of their cause . the winner of the parade was the winner of the parade .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "we went to the parade today . to our surprise there were a lot of people there today . all the marchers had signs showing how proud of who they were. other marchers were there to support love ones . a local journalist was doing interviews. the parade was great for everyone.",
+      "normalized_edited_story_text_sent": [
+        "we went to the parade today .",
+        "to our surprise there were a lot of people there today .",
+        "all the marchers had signs showing how proud of who they were .",
+        "other marchers were there to support love ones .",
+        "a local journalist was doing interviews .",
+        "the parade was great for everyone ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the parade was a success . there were a lot of people there . they were all very proud of the cause . the parade had a winner.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a success .",
+        "there were a lot of people there .",
+        "they were all very proud of the cause .",
+        "the parade had a winner ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "The parade was a massive success! So many people were there with us! An impressive number of people came out, we filed the street! Everyone was marching loud and proud for the cause! The winner of the parade was beaming ear to ear with a smile!",
+      "normalized_edited_story_text_sent": [
+        "the parade was a massive success !",
+        "so many people were there with us !",
+        "an impressive number of people came out , we filed the street !",
+        "everyone was marching loud and proud for the cause !",
+        "the winner of the parade was beaming ear to ear with a smile !"
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the parade was a success . there were a lot of people there .  they were all very proud of their cause . the winner of the parade was my friend thankfully.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a success .",
+        "there were a lot of people there .",
+        "they were all very proud of their cause .",
+        "the winner of the parade was my friend thankfully ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The protest was a great success. Lots of people attended the protest. People even gave interviews for the local media. Many people brought signs to hold up to the protest. Everyone who attended was happy to support their cause.",
+      "normalized_edited_story_text_sent": [
+        "the protest was a great success .",
+        "lots of people attended the protest .",
+        "people even gave interviews for the local media .",
+        "many people brought signs to hold up to the protest .",
+        "everyone who attended was happy to support their cause ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625850715298"
+}

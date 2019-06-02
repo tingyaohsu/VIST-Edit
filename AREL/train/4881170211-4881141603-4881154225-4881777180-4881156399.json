@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4881170211-4881141603-4881154225-4881777180-4881156399",
+  "photo_sequence_ids": [
+    "4881170211",
+    "4881141603",
+    "4881154225",
+    "4881777180",
+    "4881156399"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4095/4881170211_82ffc59cb2_o.jpg",
+    "https://farm5.staticflickr.com/4093/4881141603_3829916cdb_o.jpg",
+    "https://farm5.staticflickr.com/4093/4881154225_08db2e04e2_o.jpg",
+    "https://farm5.staticflickr.com/4142/4881777180_e7caab33d5_o.jpg",
+    "https://farm5.staticflickr.com/4073/4881156399_ff483da9d5_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the ceremony yesterday . there were many people there . there were many people there . some of the guests were very happy . the bride and groom pose for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "Went to an Indian wedding ceremony yesterday, so many people there. the guests were very happy . the bride and groom pose for a picture .",
+      "normalized_edited_story_text_sent": [
+        "went to an indian wedding ceremony yesterday , so many people there .",
+        "the guests were very happy .",
+        "the bride and groom pose for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A1SG85M8W4G6F2",
+      "edited_story_text": "i went to a wedding ceremony yesterday . there were many people there . We watched the bride and groom dance . The bride and groom were very happy. The families were very excited about the wedding.",
+      "normalized_edited_story_text_sent": [
+        "i went to a wedding ceremony yesterday .",
+        "there were many people there .",
+        "we watched the bride and groom dance .",
+        "the bride and groom were very happy .",
+        "the families were very excited about the wedding ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "I went to a wedding ceremony yesterday. The bride and groom poised for a beautiful picture. There were many people there watching them dance. They seemed happy. Some of the guests were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i went to a wedding ceremony yesterday .",
+        "the bride and groom poised for a beautiful picture .",
+        "there were many people there watching them dance .",
+        "they seemed happy .",
+        "some of the guests were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to my friend\u0027s wedding ceremony yesterday. there were many people there and everyone was very happy. the bride and groom posed for lots of pictures. then everyone danced.",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s wedding ceremony yesterday .",
+        "there were many people there and everyone was very happy .",
+        "the bride and groom posed for lots of pictures .",
+        "then everyone danced ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the ceremony yesterday . there were many people there . there were many people there . some of the guests were very happy . the bride and groom pose for a picture  It is something very beautiful for everyone",
+      "normalized_edited_story_text_sent": [
+        "i went to the ceremony yesterday .",
+        "there were many people there .",
+        "there were many people there .",
+        "some of the guests were very happy .",
+        "the bride and groom pose for a picture it is something very beautiful for everyone"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624700649708"
+}

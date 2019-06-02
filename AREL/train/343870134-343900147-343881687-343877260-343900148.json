@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "343870134-343900147-343881687-343877260-343900148",
+  "photo_sequence_ids": [
+    "343870134",
+    "343900147",
+    "343881687",
+    "343877260",
+    "343900148"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/125/343870134_d09323262f_o.jpg",
+    "https://farm1.staticflickr.com/128/343900147_9399f3beb2_o.jpg",
+    "https://farm1.staticflickr.com/160/343881687_38f6beb40d_o.jpg",
+    "https://farm1.staticflickr.com/166/343877260_306e078e9c_o.jpg",
+    "https://farm1.staticflickr.com/161/343900148_0b0bf752ec_o.jpg"
+  ],
+  "auto_story_text_normalized": "the car went down the street . i was driving down the road . i was on the road . the police were on the way to the finish line . i was so happy to see me .",
+  "edited_stories": [
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "A car went down the street, driving down the road. I was on the road, the police were on the way to the finish line, to end the street race. The drivers were not so happy to see them.",
+      "normalized_edited_story_text_sent": [
+        "a car went down the street , driving down the road .",
+        "i was on the road , the police were on the way to the finish line , to end the street race .",
+        "the drivers were not so happy to see them ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the car went down the street . i was driving down the road next to it. the police were on the way to the block the street.  i was so happy to see them.",
+      "normalized_edited_story_text_sent": [
+        "the car went down the street .",
+        "i was driving down the road next to it .",
+        "the police were on the way to the block the street .",
+        "i was so happy to see them ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The police cars blocked the traffic on the road.  There were something going on. It looks like a parade that they are controlling the traffic for.",
+      "normalized_edited_story_text_sent": [
+        "the police cars blocked the traffic on the road .",
+        "there were something going on .",
+        "it looks like a parade that they are controlling the traffic for ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "there was a police chase . i was driving down the road when it happened . i was on the scene . the police blocked off the road . i was so happy to see them keeping us safe .",
+      "normalized_edited_story_text_sent": [
+        "there was a police chase .",
+        "i was driving down the road when it happened .",
+        "i was on the scene .",
+        "the police blocked off the road .",
+        "i was so happy to see them keeping us safe ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the car went down the street . i was driving down the road . i was on the road and the police were on the way to the finish line . i was so happy to see me .",
+      "normalized_edited_story_text_sent": [
+        "the car went down the street .",
+        "i was driving down the road .",
+        "i was on the road and the police were on the way to the finish line .",
+        "i was so happy to see me ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594456421119"
+}

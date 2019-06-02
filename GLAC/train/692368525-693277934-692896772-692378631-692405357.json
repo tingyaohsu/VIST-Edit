@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "692368525-693277934-692896772-692378631-692405357",
+  "photo_sequence_ids": [
+    "692368525",
+    "693277934",
+    "692896772",
+    "692378631",
+    "692405357"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was very happy to be outside . the bird was in the water . the trees were covered in snow . the tree was frozen . the woods were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "I finally got outside today, it has been a long winter.  Everything is nice and green.  Look at the trees and animals!!!",
+      "normalized_edited_story_text_sent": [
+        "i finally got outside today , it has been a long winter .",
+        "everything is nice and green .",
+        "look at the trees and animals !!!"
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we took the dog out for a walk in the woods today.  it was still cold.  one tree was frozen.  all of the trees were covered in snow.  a bird was in the water.  our dog was still glad to be outside, despite the cold.",
+      "normalized_edited_story_text_sent": [
+        "we took the dog out for a walk in the woods today .",
+        "it was still cold .",
+        "one tree was frozen .",
+        "all of the trees were covered in snow .",
+        "a bird was in the water .",
+        "our dog was still glad to be outside , despite the cold ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the cat was very happy to be outside . the weather was great today.",
+      "normalized_edited_story_text_sent": [
+        "the cat was very happy to be outside .",
+        "the weather was great today ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the cat was happy to be outside. There was pretty scenery and even a butterfly. We enjoyed the beautiful views.",
+      "normalized_edited_story_text_sent": [
+        "the cat was happy to be outside .",
+        "there was pretty scenery and even a butterfly .",
+        "we enjoyed the beautiful views ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Maria were glad the cat was very happy to be outside . the bird was in the water . the trees were covered in snow . the tree was frozen . the woods were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the cat was very happy to be outside .",
+        "the bird was in the water .",
+        "the trees were covered in snow .",
+        "the tree was frozen .",
+        "the woods were beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600600643506",
+  "model": "GLAC"
+}

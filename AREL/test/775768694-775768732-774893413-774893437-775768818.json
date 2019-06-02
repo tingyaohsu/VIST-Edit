@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "775768694-775768732-774893413-774893437-775768818",
+  "photo_sequence_ids": [
+    "775768694",
+    "775768732",
+    "774893413",
+    "774893437",
+    "775768818"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1009/775768694_1393ae2595_o.jpg",
+    "https://farm2.staticflickr.com/1289/775768732_5804ac9273_o.jpg",
+    "https://farm2.staticflickr.com/1085/774893413_9be4368b69_o.jpg",
+    "https://farm2.staticflickr.com/1300/774893437_4213fdddba_o.jpg",
+    "https://farm2.staticflickr.com/1123/775768818_28311919a9_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day in the city . we went to the hotel to watch the sunset . the view from the balcony of the city was beautiful . i took a picture of me at the top of the bridge . we ended the day with a beautiful view of the city .",
+  "edited_stories": [
+    {
+      "worker_id": "A3IDBFPW2T9P5D",
+      "edited_story_text": "It was a beautiful day in the city. We went to the hotel to watch the sunset. The view of the city from the balcony was breathtaking. I took a picture of me at the top of the bridge.  We ended the day with a spectacular view of the city.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the city .",
+        "we went to the hotel to watch the sunset .",
+        "the view of the city from the balcony was breathtaking .",
+        "i took a picture of me at the top of the bridge .",
+        "we ended the day with a spectacular view of the city ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We visited the city on a beautiful day. First we stayed at the hotel so we could watch a sunset. The view of the city from our balcony was amazing. I visited a local bridge that had a great view. We ended our day with a tour of the city\u0027s amazing views.",
+      "normalized_edited_story_text_sent": [
+        "we visited the city on a beautiful day .",
+        "first we stayed at the hotel so we could watch a sunset .",
+        "the view of the city from our balcony was amazing .",
+        "i visited a local bridge that had a great view .",
+        "we ended our day with a tour of the city \u0027s amazing views ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "it was a beautiful day to be in the city . we went to the hotel so we could watch the sunset . We thought the view from the balcony of the city was beautiful . Here\u0027s a picture of me at the top of the bridge . What a way to end the day getting to see such a beautiful view of the city .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day to be in the city .",
+        "we went to the hotel so we could watch the sunset .",
+        "we thought the view from the balcony of the city was beautiful .",
+        "here \u0027s a picture of me at the top of the bridge .",
+        "what a way to end the day getting to see such a beautiful view of the city ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "it was a beautiful day in the city . we went to the hotel to watch the sunset togetherr. the view from the balcony of the city was beautiful and I was in awe . i took a picture of us at the top of the bridge . we ended the day with a beautiful view of the city .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the city .",
+        "we went to the hotel to watch the sunset togetherr .",
+        "the view from the balcony of the city was beautiful and i was in awe .",
+        "i took a picture of us at the top of the bridge .",
+        "we ended the day with a beautiful view of the city ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "it was a snow covered day where we stayed . these are some friends . the view from the balcony was beautiful . i took a picture of me at the top of the bridge . we ended the day with a beautiful view of the fountian .",
+      "normalized_edited_story_text_sent": [
+        "it was a snow covered day where we stayed .",
+        "these are some friends .",
+        "the view from the balcony was beautiful .",
+        "i took a picture of me at the top of the bridge .",
+        "we ended the day with a beautiful view of the fountian ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600759188796"
+}

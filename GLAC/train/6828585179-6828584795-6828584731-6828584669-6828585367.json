@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6828585179-6828584795-6828584731-6828584669-6828585367",
+  "photo_sequence_ids": [
+    "6828585179",
+    "6828584795",
+    "6828584731",
+    "6828584669",
+    "6828585367"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of pumpkins . some of the costumes were scary . the winner was very good . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of pumpkins . some of the costumes worn by my friends were scary . we had a couple trick or treaters knock on our door too and we had to scare them off. we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of pumpkins .",
+        "some of the costumes worn by my friends were scary .",
+        "we had a couple trick or treaters knock on our door too and we had to scare them off .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The halloween party was a lot of fun.  There were a lot of pumpkins and some of the costumes were scary. The winner was very good and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of pumpkins and some of the costumes were scary .",
+        "the winner was very good and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Halloween is my favorite holiday.  Look at these creative jack-o-lanterns and other decorations that are in peoples yard.  You can tell I was spooked!!!",
+      "normalized_edited_story_text_sent": [
+        "halloween is my favorite holiday .",
+        "look at these creative jack-o-lanterns and other decorations that are in peoples yard .",
+        "you can tell i was spooked !!!"
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the halloween party was a lot of fun. there were a lot of pumpkins and some scary costumes. the winner was very good. everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of pumpkins and some scary costumes .",
+        "the winner was very good .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of pumpkins .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of pumpkins ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629197277031",
+  "model": "GLAC"
+}

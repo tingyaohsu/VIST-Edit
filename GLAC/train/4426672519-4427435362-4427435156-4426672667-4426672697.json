@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4426672519-4427435362-4427435156-4426672667-4426672697",
+  "photo_sequence_ids": [
+    "4426672519",
+    "4427435362",
+    "4427435156",
+    "4426672667",
+    "4426672697"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was empty . the people were getting ready for the meeting . the speaker was very knowledgeable . the crowd was happy . the man was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert was glad the office was empty . the people were getting ready for the meeting . the speaker was very knowledgeable . the crowd was happy . the man was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "[male] was glad the office was empty .",
+        "the people were getting ready for the meeting .",
+        "the speaker was very knowledgeable .",
+        "the crowd was happy .",
+        "the man was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The guest speaker arrived early and got comfortable before he started his speech.",
+      "normalized_edited_story_text_sent": [
+        "the guest speaker arrived early and got comfortable before he started his speech ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the office had been emptied . people prepared for the meeting . the knowledgeable speaker spoke . the crowd was happy to pick his brain . the speaker was happy to answer questions .",
+      "normalized_edited_story_text_sent": [
+        "the office had been emptied .",
+        "people prepared for the meeting .",
+        "the knowledgeable speaker spoke .",
+        "the crowd was happy to pick his brain .",
+        "the speaker was happy to answer questions ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "He stood at the front of the room. He held the remote for the screen. He gave a presentation. The man stood in front of the room.",
+      "normalized_edited_story_text_sent": [
+        "he stood at the front of the room .",
+        "he held the remote for the screen .",
+        "he gave a presentation .",
+        "the man stood in front of the room ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the office was empty as people were running late . the people were getting ready for the meeting and took out their computers. the speaker was very knowledgeable about all ares of the industry . the crowd was happy he stayed as long as he did . the man was happy to be there and say he would do this again .",
+      "normalized_edited_story_text_sent": [
+        "the office was empty as people were running late .",
+        "the people were getting ready for the meeting and took out their computers .",
+        "the speaker was very knowledgeable about all ares of the industry .",
+        "the crowd was happy he stayed as long as he did .",
+        "the man was happy to be there and say he would do this again ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623481403631",
+  "model": "GLAC"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "347377939-347372877-347372879-347377936-347377943",
+  "photo_sequence_ids": [
+    "347377939",
+    "347372877",
+    "347372879",
+    "347377936",
+    "347377943"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was delicious . the chicken was seasoned . the chicken was cooked . the chicken was added . the chicken was diced .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "There were many types of different foods to choose from all were fresh and colorful.",
+      "normalized_edited_story_text_sent": [
+        "there were many types of different foods to choose from all were fresh and colorful ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "there was a lot of food on the table.  it was all wrapped in individual containers. the food was primarily oriental food.  there was a nice tray of fruit.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of food on the table .",
+        "it was all wrapped in individual containers .",
+        "the food was primarily oriental food .",
+        "there was a nice tray of fruit ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the food was delicious . the chicken was seasoned . there were many types of vegetables . the chicken was added . there was also a colorful fruit tray.",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious .",
+        "the chicken was seasoned .",
+        "there were many types of vegetables .",
+        "the chicken was added .",
+        "there was also a colorful fruit tray ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the food was delicious and there were so many different things to try. the chicken was seasoned and cooked well. There were many vegetable dishes and also a fruit platter with a variety of melon.",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious and there were so many different things to try .",
+        "the chicken was seasoned and cooked well .",
+        "there were many vegetable dishes and also a fruit platter with a variety of melon ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the food was delicious . the chicken was seasoned . the chicken was cooked well . the table was full . the fruit was wrapped .",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious .",
+        "the chicken was seasoned .",
+        "the chicken was cooked well .",
+        "the table was full .",
+        "the fruit was wrapped ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594462307386",
+  "model": "GLAC"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4711369098-4711373072-4710736143-4710750715-4711394144",
+  "photo_sequence_ids": [
+    "4711369098",
+    "4711373072",
+    "4710736143",
+    "4710750715",
+    "4711394144"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was exploring the area . he saw a lot of interesting things . he also found a big rock . he was very interested . he was a great friend .",
+  "edited_stories": [
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "David was having a rough day at work on the construction site. It wasn\u0027t anything special but tough work. After digging down into the foundation they found a rare artifact. It was worth a lot of money.",
+      "normalized_edited_story_text_sent": [
+        "[male] was having a rough day at work on the construction site .",
+        "it was n\u0027t anything special but tough work .",
+        "after digging down into the foundation they found a rare artifact .",
+        "it was worth a lot of money ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the man was exploring the area. he saw a lot of interesting things, including a big rock . he was very interested in all of his findings.",
+      "normalized_edited_story_text_sent": [
+        "the man was exploring the area .",
+        "he saw a lot of interesting things , including a big rock .",
+        "he was very interested in all of his findings ."
+      ]
+    },
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the man was working in the area . he saw a lot of interesting things . he also found a big hole . he was very interested . he was a great friend .",
+      "normalized_edited_story_text_sent": [
+        "the man was working in the area .",
+        "he saw a lot of interesting things .",
+        "he also found a big hole .",
+        "he was very interested .",
+        "he was a great friend ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the man was working at the construction site digging a new hole . he saw a lot of interesting things . he also found an antique glass bottle . he was very interested . he was a great friend .",
+      "normalized_edited_story_text_sent": [
+        "the man was working at the construction site digging a new hole .",
+        "he saw a lot of interesting things .",
+        "he also found an antique glass bottle .",
+        "he was very interested .",
+        "he was a great friend ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "The construction crew worked hard outside on the clear day. They shoveled holes, examined dirt and worked together. Someone even came across a very old glass bottle for an old product.",
+      "normalized_edited_story_text_sent": [
+        "the construction crew worked hard outside on the clear day .",
+        "they shoveled holes , examined dirt and worked together .",
+        "someone even came across a very old glass bottle for an old product ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624300611300",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "182378686-182378273-182378400-182378947-182379634",
+  "photo_sequence_ids": [
+    "182378686",
+    "182378273",
+    "182378400",
+    "182378947",
+    "182379634"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/76/182378686_227775c861_o.jpg",
+    "https://farm1.staticflickr.com/61/182378273_4c107d61f0_o.jpg",
+    "https://farm1.staticflickr.com/77/182378400_dacbe867d9_o.jpg",
+    "https://farm1.staticflickr.com/76/182378947_a0d47ec4c0_o.jpg",
+    "https://farm1.staticflickr.com/49/182379634_e56856006f_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a lot of food at the party today . there was a lot of food . there was plenty of food for everyone . they were very hungry and had a lot of food . the best part of the day was the perfect day for the family .",
+  "edited_stories": [
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "There was a lot of food at the party today and there was plenty of food for everyone. They were very hungry and had a lot of food. The best part was that it was perfect for the family.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of food at the party today and there was plenty of food for everyone .",
+        "they were very hungry and had a lot of food .",
+        "the best part was that it was perfect for the family ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "There was a lot of food at the party today, plenty of food for everyone. Everyone was very hungry and ate a lot of food. Today was the perfect day for the family.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of food at the party today , plenty of food for everyone .",
+        "everyone was very hungry and ate a lot of food .",
+        "today was the perfect day for the family ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "there was a lot of great looking food at the party today . there was a corn and hot dogs and buns . there was plenty of food for everyone to enjoy a summer picnic. they were very hungry and had a lot of food and everyone loved it. the best part of the day was the perfect day for the family to get together and eat and have fun.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of great looking food at the party today .",
+        "there was a corn and hot dogs and buns .",
+        "there was plenty of food for everyone to enjoy a summer picnic .",
+        "they were very hungry and had a lot of food and everyone loved it .",
+        "the best part of the day was the perfect day for the family to get together and eat and have fun ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "there was a lot of food at the party today, more than enough for everyone. the kids were very hungry and ate lots of food, and enjoyed spending time with their families.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of food at the party today , more than enough for everyone .",
+        "the kids were very hungry and ate lots of food , and enjoyed spending time with their families ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "Everyone prepared a lot of food for the party. There was corn on the cob, and we made hot dogs.There was plenty for everyone to eat. It was the perfect way to spend time with my family.",
+      "normalized_edited_story_text_sent": [
+        "everyone prepared a lot of food for the party .",
+        "there was corn on the cob , and we made hot dogs.there was plenty for everyone to eat .",
+        "it was the perfect way to spend time with my family ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594188123351"
+}

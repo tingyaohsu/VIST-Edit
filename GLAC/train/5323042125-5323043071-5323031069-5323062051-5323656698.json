@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5323042125-5323043071-5323031069-5323062051-5323656698",
+  "photo_sequence_ids": [
+    "5323042125",
+    "5323043071",
+    "5323031069",
+    "5323062051",
+    "5323656698"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the groom was ready for his wedding . the bride and groom looked great . the bride and groom were very happy . the family was so happy to be together . the couple was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the groom was ready for his wedding . the groomsmen looked great . the guests were very happy . the family was so happy to be together . the couple was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the groom was ready for his wedding .",
+        "the groomsmen looked great .",
+        "the guests were very happy .",
+        "the family was so happy to be together .",
+        "the couple was so happy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the groom was ready for his wedding . The groomsmen waited. Everyone had a great time. They posed for pictures.",
+      "normalized_edited_story_text_sent": [
+        "the groom was ready for his wedding .",
+        "the groomsmen waited .",
+        "everyone had a great time .",
+        "they posed for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "Robert was looking a bit intense. The men were waiting in the back room. Robert\u0027s aunt and uncle were happy and seemed to enjoy the music. David was ready to dance. Robert and Lisa had a great time.",
+      "normalized_edited_story_text_sent": [
+        "[male] was looking a bit intense .",
+        "the men were waiting in the back room .",
+        "[male] \u0027s aunt and uncle were happy and seemed to enjoy the music .",
+        "[male] was ready to dance .",
+        "[male] and [female] had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The groom got ready for the wedding and looked great, as did the bride. Both bride and group were happy - as was the family. It was a great night.",
+      "normalized_edited_story_text_sent": [
+        "the groom got ready for the wedding and looked great , as did the bride .",
+        "both bride and group were happy - as was the family .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the groom was ready for his wedding . the bride and groom were perfection . the bride and groom planned everything well . the family was so happy to be together . the couple was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the groom was ready for his wedding .",
+        "the bride and groom were perfection .",
+        "the bride and groom planned everything well .",
+        "the family was so happy to be together .",
+        "the couple was so happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625619725645",
+  "model": "GLAC"
+}

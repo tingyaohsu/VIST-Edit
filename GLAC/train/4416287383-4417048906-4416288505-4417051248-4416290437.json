@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4416287383-4417048906-4416288505-4417051248-4416290437",
+  "photo_sequence_ids": [
+    "4416287383",
+    "4417048906",
+    "4416288505",
+    "4417051248",
+    "4416290437"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduates were excited to graduate . the speaker was very proud . he was so proud of his accomplishments . the dean gave a speech . the graduates were happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the politicians were excited for the debate . the speaker was very proud . he was so proud of his parties accomplishments . the politician  gave another speech . they all seemed pretty happy .",
+      "normalized_edited_story_text_sent": [
+        "the politicians were excited for the debate .",
+        "the speaker was very proud .",
+        "he was so proud of his parties accomplishments .",
+        "the politician gave another speech .",
+        "they all seemed pretty happy ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The speakers were excited to speak. They were proud of their accomplishments. Everyone was happy.",
+      "normalized_edited_story_text_sent": [
+        "the speakers were excited to speak .",
+        "they were proud of their accomplishments .",
+        "everyone was happy ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the politicians gathered together to meet . the speaker spoke enthusiastically about his plans . Another addressed the crowd about his accomplishments . They gave long speeches.  Yet another addressed the crowd answering questions.",
+      "normalized_edited_story_text_sent": [
+        "the politicians gathered together to meet .",
+        "the speaker spoke enthusiastically about his plans .",
+        "another addressed the crowd about his accomplishments .",
+        "they gave long speeches .",
+        "yet another addressed the crowd answering questions ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert was glad the graduates were excited to graduate . the speaker was very proud . he was so proud of his accomplishments . the dean gave a speech . the graduates were happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] was glad the graduates were excited to graduate .",
+        "the speaker was very proud .",
+        "he was so proud of his accomplishments .",
+        "the dean gave a speech .",
+        "the graduates were happy ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the men were walking together . the speaker was very proud . he was so proud of his accomplishments . the man gave a speech . the people were happy .",
+      "normalized_edited_story_text_sent": [
+        "the men were walking together .",
+        "the speaker was very proud .",
+        "he was so proud of his accomplishments .",
+        "the man gave a speech .",
+        "the people were happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623578467254",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "103598026-103596646-103596692-103596754-103597842",
+  "photo_sequence_ids": [
+    "103598026",
+    "103596646",
+    "103596692",
+    "103596754",
+    "103597842"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/28/103598026_abb348af98_o.jpg",
+    "https://farm1.staticflickr.com/31/103596646_84ae054fbc_o.jpg",
+    "https://farm1.staticflickr.com/40/103596692_84321ed02e_o.jpg",
+    "https://farm1.staticflickr.com/18/103596754_30ca6e52d1_o.jpg",
+    "https://farm1.staticflickr.com/16/103597842_844cd6cfe4_o.jpg"
+  ],
+  "auto_story_text_normalized": "we decided to go to a wedding . we had a great time at the party . the bride and groom were very happy to be together . we had a lot of fun . the flowers were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "we decided to go to a wedding. we had a great time at the party. the bride and groom were very happy to be together. we had a lot of fun. the flowers and bouquets were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we decided to go to a wedding .",
+        "we had a great time at the party .",
+        "the bride and groom were very happy to be together .",
+        "we had a lot of fun .",
+        "the flowers and bouquets were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "we decided to go to a wedding . we had a great time at the reception after . the bride and groom were very happy to be together . everyone had a lot of fun . the flowers were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we decided to go to a wedding .",
+        "we had a great time at the reception after .",
+        "the bride and groom were very happy to be together .",
+        "everyone had a lot of fun .",
+        "the flowers were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to a wedding . we had a great time at the reception . the bride and groom were very happy to be together . we had a lot of fun . the flowers were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we went to a wedding .",
+        "we had a great time at the reception .",
+        "the bride and groom were very happy to be together .",
+        "we had a lot of fun .",
+        "the flowers were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "Today we attended our friends wedding. The flowers were beautiful and the bride and groom seemed so happy together. We had a great time at the party afterwards.",
+      "normalized_edited_story_text_sent": [
+        "today we attended our friends wedding .",
+        "the flowers were beautiful and the bride and groom seemed so happy together .",
+        "we had a great time at the party afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "we decided to go to a wedding . we had a great time at the reception . the bride and groom were very happy to be together . we had a lot of fun . the flowers were bright and beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we decided to go to a wedding .",
+        "we had a great time at the reception .",
+        "the bride and groom were very happy to be together .",
+        "we had a lot of fun .",
+        "the flowers were bright and beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594069417750"
+}

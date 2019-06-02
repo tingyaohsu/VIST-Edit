@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "2808322861-2809173478-2808325251-2809175092-2809175178",
+  "photo_sequence_ids": [
+    "2808322861",
+    "2809173478",
+    "2808325251",
+    "2809175092",
+    "2809175178"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3195/2808322861_2feb7b5660_o.jpg",
+    "https://farm4.staticflickr.com/3104/2809173478_9abb63dfb9_o.jpg",
+    "https://farm4.staticflickr.com/3070/2808325251_6a77d2d605_o.jpg",
+    "https://farm4.staticflickr.com/3040/2809175092_a9afc4fa8d_o.jpg",
+    "https://farm4.staticflickr.com/3079/2809175178_d105bbbc52_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park yesterday . this is a picture of a building . the flowers were so beautiful . the park is filled with people and family . then they went on a tree .",
+  "edited_stories": [
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "I went to the park yesterday. Here are some pictures of the grounds around it. It was filled with people, mostly families; some were even climbing the trees.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "here are some pictures of the grounds around it .",
+        "it was filled with people , mostly families ; some were even climbing the trees ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the park yesterday . this is a picture of a building . the flowers were so beautiful and the park is filled with people and family . then they went on a tree .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "this is a picture of a building .",
+        "the flowers were so beautiful and the park is filled with people and family .",
+        "then they went on a tree ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the park yesterday . We took a picture of a building . the flowers were so beautiful . the park is filled with people and family . then the couple went on a tree .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "we took a picture of a building .",
+        "the flowers were so beautiful .",
+        "the park is filled with people and family .",
+        "then the couple went on a tree ."
+      ]
+    },
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "I went to the park yesterday. This is a big house. There were a lot of deer heads on the walls. the balcony is high up. this tree is a nice place for a photo.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "this is a big house .",
+        "there were a lot of deer heads on the walls .",
+        "the balcony is high up .",
+        "this tree is a nice place for a photo ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to a plantation house yesterday . this is a picture of the house . the animal heads were disturbing.  then they climbed a tree .",
+      "normalized_edited_story_text_sent": [
+        "i went to a plantation house yesterday .",
+        "this is a picture of the house .",
+        "the animal heads were disturbing .",
+        "then they climbed a tree ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157607012581475"
+}

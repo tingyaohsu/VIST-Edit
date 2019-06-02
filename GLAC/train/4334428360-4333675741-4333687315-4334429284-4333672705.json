@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4334428360-4333675741-4333687315-4334429284-4333672705",
+  "photo_sequence_ids": [
+    "4334428360",
+    "4333675741",
+    "4333687315",
+    "4334429284",
+    "4333672705"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the crowd was excited . the crowd was having a great time . the fireworks were awesome . the show was very well .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a band performed . the crowd was bubbling . the crowd had lots of fun . amazing fireworks were lit . the show was received very well .",
+      "normalized_edited_story_text_sent": [
+        "a band performed .",
+        "the crowd was bubbling .",
+        "the crowd had lots of fun .",
+        "amazing fireworks were lit .",
+        "the show was received very well ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we went to a resort. it was a band  playing music . the crowd was excited . the crowd was having a great time . the fireworks were awesome . the show was very entertaining.",
+      "normalized_edited_story_text_sent": [
+        "we went to a resort .",
+        "it was a band playing music .",
+        "the crowd was excited .",
+        "the crowd was having a great time .",
+        "the fireworks were awesome .",
+        "the show was very entertaining ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the band was playing music . the crowd was excited .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the crowd was excited ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the man was speaking . the crowd was excited . the crowd was having a great time . it lasted all night. the show was very nice .",
+      "normalized_edited_story_text_sent": [
+        "the man was speaking .",
+        "the crowd was excited .",
+        "the crowd was having a great time .",
+        "it lasted all night .",
+        "the show was very nice ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "A band played at the start of the event. the crowd was excited. the fireworks were awesome, and the food was great. Everyone had a great time!",
+      "normalized_edited_story_text_sent": [
+        "a band played at the start of the event .",
+        "the crowd was excited .",
+        "the fireworks were awesome , and the food was great .",
+        "everyone had a great time !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623363102898",
+  "model": "GLAC"
+}

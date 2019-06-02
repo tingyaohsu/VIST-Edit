@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "456292041-456292263-456278598-456292789-456279208",
+  "photo_sequence_ids": [
+    "456292041",
+    "456292263",
+    "456278598",
+    "456292789",
+    "456279208"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were having a great time at the party . they had a lot of fun dancing . they played lots of games . they also had a pinata . the adults had a blast .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My friends and I were camping on the beach. We cooked hot dogs over a grill and slept in the same tent. By morning we were burning old magazines to keep the fire in the grill going.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i were camping on the beach .",
+        "we cooked hot dogs over a grill and slept in the same tent .",
+        "by morning we were burning old magazines to keep the fire in the grill going ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the poeple were having a great time camping . they relaxed. they talked a lot. they also had a magazine . the adults had a blast .",
+      "normalized_edited_story_text_sent": [
+        "the poeple were having a great time camping .",
+        "they relaxed .",
+        "they talked a lot .",
+        "they also had a magazine .",
+        "the adults had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the friends were having a great time at the campout. they had fun cooking outdoors. then they played lots of games. they also had magazines to read. the adults all had a blast that weekend.",
+      "normalized_edited_story_text_sent": [
+        "the friends were having a great time at the campout .",
+        "they had fun cooking outdoors .",
+        "then they played lots of games .",
+        "they also had magazines to read .",
+        "the adults all had a blast that weekend ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kids were having a great time at the party. they had a lot of fun dancing and playing games. they also had a pinata. the adults had a blast along with the kids.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had a lot of fun dancing and playing games .",
+        "they also had a pinata .",
+        "the adults had a blast along with the kids ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were having a great time at the party . they had a lot of fun sleeping in the ten . they played lots of games . they also had a pinata . the adults had a blast",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had a lot of fun sleeping in the ten .",
+        "they played lots of games .",
+        "they also had a pinata .",
+        "the adults had a blast"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600068572282",
+  "model": "GLAC"
+}

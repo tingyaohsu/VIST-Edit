@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4356835203-4356837003-4357594434-4356847709-4356856583",
+  "photo_sequence_ids": [
+    "4356835203",
+    "4356837003",
+    "4357594434",
+    "4356847709",
+    "4356856583"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the park for a day of fun . they got to see some interesting things . the view was amazing . the trees were so beautiful . the kids enjoyed the trip .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went on a free day to the park . they got to witness some things of interest . they saw an amazing view . the trees were beautiful pillars . the kids very much liked the trip .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a free day to the park .",
+        "they got to witness some things of interest .",
+        "they saw an amazing view .",
+        "the trees were beautiful pillars .",
+        "the kids very much liked the trip ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The family all went to the park for a day of fun.  We played games in the park and had a blast.  Check out these views of the city and the trees we enjoyed!",
+      "normalized_edited_story_text_sent": [
+        "the family all went to the park for a day of fun .",
+        "we played games in the park and had a blast .",
+        "check out these views of the city and the trees we enjoyed !"
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Everyone in the family went to the park one day for some fun. There were many intriguing spectacles to see. From a gorgeous view of the city afar, landscaped with a sea of trees. The children had a great time during the entire trip.",
+      "normalized_edited_story_text_sent": [
+        "everyone in the family went to the park one day for some fun .",
+        "there were many intriguing spectacles to see .",
+        "from a gorgeous view of the city afar , landscaped with a sea of trees .",
+        "the children had a great time during the entire trip ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went to the park for a day of fun. they got to see and do some interesting things. the views were amazing. the trees were so beautiful. the family enjoyed the trip .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a day of fun .",
+        "they got to see and do some interesting things .",
+        "the views were amazing .",
+        "the trees were so beautiful .",
+        "the family enjoyed the trip ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "After the game the couple went sight seeing around the city.",
+      "normalized_edited_story_text_sent": [
+        "after the game the couple went sight seeing around the city ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623552169546",
+  "model": "GLAC"
+}

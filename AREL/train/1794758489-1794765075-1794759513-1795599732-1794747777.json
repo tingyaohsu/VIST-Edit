@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "1794758489-1794765075-1794759513-1795599732-1794747777",
+  "photo_sequence_ids": [
+    "1794758489",
+    "1794765075",
+    "1794759513",
+    "1795599732",
+    "1794747777"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2401/1794758489_a75af0fe73_o.jpg",
+    "https://farm3.staticflickr.com/2126/1794765075_3524fba999_o.jpg",
+    "https://farm3.staticflickr.com/2315/1794759513_db8c3fa9bf_o.jpg",
+    "https://farm3.staticflickr.com/2027/1795599732_a73100c040_o.jpg",
+    "https://farm3.staticflickr.com/2093/1794747777_cacb4c2838_o.jpg"
+  ],
+  "auto_story_text_normalized": "the trees were beautiful . the leaves were covered in snow . there was a path that leads to the forest . then we went to the park to see the trees . the view from the window was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the trees are beautiful . the leaves are covered in snow . there is a path that leads to the forest . then we go to the park to see the trees . the view from the window is amazing .",
+      "normalized_edited_story_text_sent": [
+        "the trees are beautiful .",
+        "the leaves are covered in snow .",
+        "there is a path that leads to the forest .",
+        "then we go to the park to see the trees .",
+        "the view from the window is amazing ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "We went hiking. the trees were beautiful . the leaves were turning colors. there was a path that leads to the forest . then we went to the park to see the trees . the view from the window was amazing .",
+      "normalized_edited_story_text_sent": [
+        "we went hiking .",
+        "the trees were beautiful .",
+        "the leaves were turning colors .",
+        "there was a path that leads to the forest .",
+        "then we went to the park to see the trees .",
+        "the view from the window was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the  trees are beautiful . the leaves are covered in snow . there is a path that leads to the forest . then we go to the park to see the trees . the view from the window is amazing .",
+      "normalized_edited_story_text_sent": [
+        "the trees are beautiful .",
+        "the leaves are covered in snow .",
+        "there is a path that leads to the forest .",
+        "then we go to the park to see the trees .",
+        "the view from the window is amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The trees were beautiful outside. The leaves were falling, and there was a path that led into the forest, so we followed it into the park to see the trees. The view from our window was amazing, when we went back inside.",
+      "normalized_edited_story_text_sent": [
+        "the trees were beautiful outside .",
+        "the leaves were falling , and there was a path that led into the forest , so we followed it into the park to see the trees .",
+        "the view from our window was amazing , when we went back inside ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the trees were beautiful . the leaves were covered in snow . there was a path that leads to the forest and then we went to the park to see the trees . the view from the window was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the trees were beautiful .",
+        "the leaves were covered in snow .",
+        "there was a path that leads to the forest and then we went to the park to see the trees .",
+        "the view from the window was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602788961834"
+}

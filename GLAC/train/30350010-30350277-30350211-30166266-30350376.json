@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "30350010-30350277-30350211-30166266-30350376",
+  "photo_sequence_ids": [
+    "30350010",
+    "30350277",
+    "30350211",
+    "30166266",
+    "30350376"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the lead guitarist was very talented . the drummer was ready to sing . the crowd was large . the crowd was excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the band was playing great music . the lead guitarist was very skilled. the drummer was ready to sing . the crowd was large . the crowd was excited .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing great music .",
+        "the lead guitarist was very skilled .",
+        "the drummer was ready to sing .",
+        "the crowd was large .",
+        "the crowd was excited ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the band was playing music . the lead guitarist was very talented . They were playing outside. There were people listening. We had a great day.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the lead guitarist was very talented .",
+        "they were playing outside .",
+        "there were people listening .",
+        "we had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the band was playing music . the lead guitarist was very talented . the drummer was enthusiastic . the crowd was large . the crowd was so excited .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the lead guitarist was very talented .",
+        "the drummer was enthusiastic .",
+        "the crowd was large .",
+        "the crowd was so excited ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the street light was broken. the lead guitarist was very talented . the support staff was set up outside . the crowd was large outside. Cutouts of favorite politicians were available to get your picture taken.",
+      "normalized_edited_story_text_sent": [
+        "the street light was broken .",
+        "the lead guitarist was very talented .",
+        "the support staff was set up outside .",
+        "the crowd was large outside .",
+        "cutouts of favorite politicians were available to get your picture taken ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Vince\u0027s band was playing music for the street party . Vince\u0027s lead guitarist Seth was very talented and played a solo . His drummer Jimmy was ready to sing a song he wrote. the crowd at the party was large and and happy . the crowd was excited and ready for the show.",
+      "normalized_edited_story_text_sent": [
+        "vince \u0027s band was playing music for the street party .",
+        "vince \u0027s lead guitarist seth was very talented and played a solo .",
+        "his drummer jimmy was ready to sing a song he wrote .",
+        "the crowd at the party was large and and happy .",
+        "the crowd was excited and ready for the show ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "679261",
+  "model": "GLAC"
+}

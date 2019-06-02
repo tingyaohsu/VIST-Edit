@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4950513101-4951103988-4950511269-4951104208-4950513269",
+  "photo_sequence_ids": [
+    "4950513101",
+    "4951103988",
+    "4950511269",
+    "4951104208",
+    "4950513269"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4105/4950513101_ae10f2bb75_o.jpg",
+    "https://farm5.staticflickr.com/4105/4951103988_81659c80b4_o.jpg",
+    "https://farm5.staticflickr.com/4135/4950511269_c14f651c8d_o.jpg",
+    "https://farm5.staticflickr.com/4113/4951104208_3094dcd053_o.jpg",
+    "https://farm5.staticflickr.com/4146/4950513269_e2b1333cbd_o.jpg"
+  ],
+  "auto_story_text_normalized": "the principal gave a speech about the graduation ceremony . this is a picture of a woman . the dean gave a speech to the students . the students were very happy to be graduating . she was very proud of her accomplishments .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "at the graduation ceremony, the principal gave quite a speech. this woman had a decorated cap . the dean gave a speech to the students and turned their tassels . graduating brought the students great joy . she was very proud of her accomplishments and so was [male].",
+      "normalized_edited_story_text_sent": [
+        "at the graduation ceremony , the principal gave quite a speech .",
+        "this woman had a decorated cap .",
+        "the dean gave a speech to the students and turned their tassels .",
+        "graduating brought the students great joy .",
+        "she was very proud of her accomplishments and so was [male] ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the principal and the dean both gave speeches at the graduation ceremony . this is a picture of a woman . the students were very happy to be graduating . she was very proud of her accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the principal and the dean both gave speeches at the graduation ceremony .",
+        "this is a picture of a woman .",
+        "the students were very happy to be graduating .",
+        "she was very proud of her accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the principal gave a speech about the graduation ceremony . this is one of the graduates . the dean gave a speech to the students . the students were very happy to be graduating . she was very proud of her accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the principal gave a speech about the graduation ceremony .",
+        "this is one of the graduates .",
+        "the dean gave a speech to the students .",
+        "the students were very happy to be graduating .",
+        "she was very proud of her accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A3HE75FVA00JSF",
+      "edited_story_text": "the principal gave a speech at the graduation ceremony before the dean\u0027s speech . this is a picture of a graduate who is proud of her accomplishments. All of the students were very happy to be graduating .",
+      "normalized_edited_story_text_sent": [
+        "the principal gave a speech at the graduation ceremony before the dean \u0027s speech .",
+        "this is a picture of a graduate who is proud of her accomplishments .",
+        "all of the students were very happy to be graduating ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the dean gave a speech at the graduation ceremony. this woman was graduating with honors. she was very happy and proud of all her accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "the dean gave a speech at the graduation ceremony .",
+        "this woman was graduating with honors .",
+        "she was very happy and proud of all her accomplishments ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625082576413"
+}

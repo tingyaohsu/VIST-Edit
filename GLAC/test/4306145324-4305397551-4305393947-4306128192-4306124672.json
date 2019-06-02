@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4306145324-4305397551-4305393947-4306128192-4306124672",
+  "photo_sequence_ids": [
+    "4306145324",
+    "4305397551",
+    "4305393947",
+    "4306128192",
+    "4306124672"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the city was beautiful . the buildings were tall . the sky was clear . the statue was interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DAKVNZ5LJEL4",
+      "edited_story_text": "We could see the sun setting in the sky . the view of city was beautiful at this time. the city had tall buildings. It was such a nice, clear day. the statue we saw was interesting .",
+      "normalized_edited_story_text_sent": [
+        "we could see the sun setting in the sky .",
+        "the view of city was beautiful at this time .",
+        "the city had tall buildings .",
+        "it was such a nice , clear day .",
+        "the statue we saw was interesting ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The sun was setting, and the night was clear. The city was beautiful. It was the perfect evening. While we were there, we saw tall buildings, and an interesting statue.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting , and the night was clear .",
+        "the city was beautiful .",
+        "it was the perfect evening .",
+        "while we were there , we saw tall buildings , and an interesting statue ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The sky views of the city were amazing and many pictures focusing on different landmarks were in full view.",
+      "normalized_edited_story_text_sent": [
+        "the sky views of the city were amazing and many pictures focusing on different landmarks were in full view ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The sun was out at the city looked beautiful. The sky was clear. There were tall buildings and interesting statues.",
+      "normalized_edited_story_text_sent": [
+        "the sun was out at the city looked beautiful .",
+        "the sky was clear .",
+        "there were tall buildings and interesting statues ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "we got to see the beautiful city before the sun set . the sky was clear and the tall cathedral and other buildings looked very stately . a lot of people were on the pier and the waters were filled with yachts and small boats . we also saw a very interesting statue.",
+      "normalized_edited_story_text_sent": [
+        "we got to see the beautiful city before the sun set .",
+        "the sky was clear and the tall cathedral and other buildings looked very stately .",
+        "a lot of people were on the pier and the waters were filled with yachts and small boats .",
+        "we also saw a very interesting statue ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623162012697",
+  "model": "GLAC"
+}

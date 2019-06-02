@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "1531610300-1530743781-1530750395-1530753127-1530753707",
+  "photo_sequence_ids": [
+    "1531610300",
+    "1530743781",
+    "1530750395",
+    "1530753127",
+    "1530753707"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2063/1531610300_653edd0f57_o.jpg",
+    "https://farm3.staticflickr.com/2297/1530743781_d5fece3560_o.jpg",
+    "https://farm3.staticflickr.com/2156/1530750395_c8eef1c287_o.jpg",
+    "https://farm3.staticflickr.com/2135/1530753127_5d8efbec3f_o.jpg",
+    "https://farm3.staticflickr.com/2051/1530753707_1c31c8c955_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the party last night . a lot of people showed up to the party . everyone was having a good time . a lot of people showed up for the party . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2D30R5ZNQS01W",
+      "edited_story_text": "i went to the party last night. A lot of people were dancing at the party. Everyone was having a good time. A lot of people showed up for the party. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "a lot of people were dancing at the party .",
+        "everyone was having a good time .",
+        "a lot of people showed up for the party .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "i went to the party last night  and it was great. The floor was packed and everyone was dancing. a lot of people showed up to the party . everyone was having a good time . I had a great night meeting new friends",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night and it was great .",
+        "the floor was packed and everyone was dancing .",
+        "a lot of people showed up to the party .",
+        "everyone was having a good time .",
+        "i had a great night meeting new friends"
+      ]
+    },
+    {
+      "worker_id": "AECQ7QG4CQP69",
+      "edited_story_text": "A lot of people showed up to the party that I went to last night.  Everyone was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people showed up to the party that i went to last night .",
+        "everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "ADOVF9SBJJK33",
+      "edited_story_text": "I went to a fun party last night . a lot of people showed up to the party , and danced to good music. everyone was having a good time . a lot of people showed up for the party and we took a lot of photos together . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to a fun party last night .",
+        "a lot of people showed up to the party , and danced to good music .",
+        "everyone was having a good time .",
+        "a lot of people showed up for the party and we took a lot of photos together .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "I went to the party last night. A lot of people showed up. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "a lot of people showed up .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602348894457"
+}

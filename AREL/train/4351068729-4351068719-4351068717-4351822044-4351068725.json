@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4351068729-4351068719-4351068717-4351822044-4351068725",
+  "photo_sequence_ids": [
+    "4351068729",
+    "4351068719",
+    "4351068717",
+    "4351822044",
+    "4351068725"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2759/4351068729_389ab7590b_o.jpg",
+    "https://farm5.staticflickr.com/4029/4351068719_abc8191f9d_o.jpg",
+    "https://farm3.staticflickr.com/2711/4351068717_029f8b78f8_o.jpg",
+    "https://farm3.staticflickr.com/2786/4351822044_e08a449633_o.jpg",
+    "https://farm3.staticflickr.com/2744/4351068725_21abea6b61_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the meeting yesterday . the speaker was very happy to be there . there were a lot of people there . the audience was very excited . he was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i went to the meeting yesterday . the speaker was very happy to be there . there were a lot of people there . the audience was very focused . he was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "the speaker was very happy to be there .",
+        "there were a lot of people there .",
+        "the audience was very focused .",
+        "he was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "I went to the meeting yesterday, the speaker was very happy to be there . There were a lot of people that day and the audience was very excited.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday , the speaker was very happy to be there .",
+        "there were a lot of people that day and the audience was very excited ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The presentation was very successful.  The panel of speakers were very good.  There were a lot of people there.   The audience was very excited. I saw a lot of people I know.",
+      "normalized_edited_story_text_sent": [
+        "the presentation was very successful .",
+        "the panel of speakers were very good .",
+        "there were a lot of people there .",
+        "the audience was very excited .",
+        "i saw a lot of people i know ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the meeting yesterday and the speaker was very happy to be there . there were a lot of people there and the audience was very excited . he was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday and the speaker was very happy to be there .",
+        "there were a lot of people there and the audience was very excited .",
+        "he was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "ADOVF9SBJJK33",
+      "edited_story_text": "i went to the speech yesterday . the speaker was very charismatic. there was a large crowd . the audience was excited. Afterwards everyone mingled.",
+      "normalized_edited_story_text_sent": [
+        "i went to the speech yesterday .",
+        "the speaker was very charismatic .",
+        "there was a large crowd .",
+        "the audience was excited .",
+        "afterwards everyone mingled ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623421040528"
+}

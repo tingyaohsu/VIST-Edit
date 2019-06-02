@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6852935965-6852937811-6852942061-6852946215-6852949415",
+  "photo_sequence_ids": [
+    "6852935965",
+    "6852937811",
+    "6852942061",
+    "6852946215",
+    "6852949415"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7062/6852935965_05c27f0f3f_o.jpg",
+    "https://farm8.staticflickr.com/7156/6852937811_893138290c_o.jpg",
+    "https://farm8.staticflickr.com/7161/6852942061_b3e6a35f13_o.jpg",
+    "https://farm8.staticflickr.com/7048/6852946215_19e4e44b20_o.jpg",
+    "https://farm8.staticflickr.com/7050/6852949415_1a2b5e6008_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the museum . they had a lot of interesting things to see . i also found some interesting things . this is a picture of a building . i \u0027m not sure what this was .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the museum . they had a lot of interesting things to see . i also found some interesting things . this is a picture of a record player that I walked by.",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum .",
+        "they had a lot of interesting things to see .",
+        "i also found some interesting things .",
+        "this is a picture of a record player that i walked by ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I visited a music museum. There were lots of interesting things to see there. I enjoyed seeing the old instruments and music players. They even had old photographs. Overall, I had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "i visited a music museum .",
+        "there were lots of interesting things to see there .",
+        "i enjoyed seeing the old instruments and music players .",
+        "they even had old photographs .",
+        "overall , i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the museum. They had a lot of interesting things to see. I also found some interesting things to purchase. They were selling an old DVD. \r They had a lot of old pictures and record albums.",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum .",
+        "they had a lot of interesting things to see .",
+        "i also found some interesting things to purchase .",
+        "they were selling an old dvd .",
+        "they had a lot of old pictures and record albums ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the antique store. they had a lot of interesting things to see . i also found some interesting pictures and movie posters.",
+      "normalized_edited_story_text_sent": [
+        "i went to the antique store .",
+        "they had a lot of interesting things to see .",
+        "i also found some interesting pictures and movie posters ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i went to the museum . they had a lot of interesting things to see . i especially loved the music section, i learned a lot about music history.",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum .",
+        "they had a lot of interesting things to see .",
+        "i especially loved the music section , i learned a lot about music history ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629261651447"
+}

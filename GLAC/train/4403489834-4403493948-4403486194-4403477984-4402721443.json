@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4403489834-4403493948-4403486194-4403477984-4402721443",
+  "photo_sequence_ids": [
+    "4403489834",
+    "4403493948",
+    "4403486194",
+    "4403477984",
+    "4402721443"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers were ready for the day . they were doing a job . they were going to help . they were all focused . they were prepared .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the soldiers were ready for the day . they were doing a job . they boarded a helicopter . they were all focused . they were prepared .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for the day .",
+        "they were doing a job .",
+        "they boarded a helicopter .",
+        "they were all focused .",
+        "they were prepared ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the soldiers were ready for the day to begin and the battle to start . they were doing a job that only few could do. they were going to help with the rescue mission . they were all focused on the mission. they were prepared and were ready to go.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for the day to begin and the battle to start .",
+        "they were doing a job that only few could do .",
+        "they were going to help with the rescue mission .",
+        "they were all focused on the mission .",
+        "they were prepared and were ready to go ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the soldiers were all revved-up. this job for them was serious business . they were ready to assist. focused. they were prepared and disciplined.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all revved-up .",
+        "this job for them was serious business .",
+        "they were ready to assist .",
+        "focused .",
+        "they were prepared and disciplined ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the soldiers were ready for the day . they came in on a helicopter . they were going to help . they were all focused . they were prepared .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for the day .",
+        "they came in on a helicopter .",
+        "they were going to help .",
+        "they were all focused .",
+        "they were prepared ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and Robert the soldiers were ready for the day . they were doing a job . they were going to help . they were all focused . they were prepared .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] the soldiers were ready for the day .",
+        "they were doing a job .",
+        "they were going to help .",
+        "they were all focused .",
+        "they were prepared ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623421003187",
+  "model": "GLAC"
+}

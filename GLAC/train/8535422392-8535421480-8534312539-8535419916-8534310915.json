@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "8535422392-8535421480-8534312539-8535419916-8534310915",
+  "photo_sequence_ids": [
+    "8535422392",
+    "8535421480",
+    "8534312539",
+    "8535419916",
+    "8534310915"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers were very proud of their accomplishments . they were all so happy to be there . the soldiers were honored for the service . the men were presented with the flag . the soldier was in charge of the military .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the the soldiers were very proud of their accomplishments . they were all so happy to be there . the soldiers were honored for the service . the men were presented with the flag . the soldier was in charge of the military .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the the soldiers were very proud of their accomplishments .",
+        "they were all so happy to be there .",
+        "the soldiers were honored for the service .",
+        "the men were presented with the flag .",
+        "the soldier was in charge of the military ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the soldiers were proud of their valor . they were glad to be honored . the soldiers received hearts in a ceremony . one person was given a folded flag . a general was there .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were proud of their valor .",
+        "they were glad to be honored .",
+        "the soldiers received hearts in a ceremony .",
+        "one person was given a folded flag .",
+        "a general was there ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the soldiers were very proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were very proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the soldiers were very proud of their accomplishments . They marched in formation. The soldier presented the flag. It was a moving ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were very proud of their accomplishments .",
+        "they marched in formation .",
+        "the soldier presented the flag .",
+        "it was a moving ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The soldiers were very proud of their accomplishments. They were honored to take part in a memorial service where fallen soldiers were honored for the service. The next of kin was presented with a flag as is customary.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were very proud of their accomplishments .",
+        "they were honored to take part in a memorial service where fallen soldiers were honored for the service .",
+        "the next of kin was presented with a flag as is customary ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632932199777",
+  "model": "GLAC"
+}

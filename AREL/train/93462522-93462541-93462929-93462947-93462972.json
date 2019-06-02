@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "93462522-93462541-93462929-93462947-93462972",
+  "photo_sequence_ids": [
+    "93462522",
+    "93462541",
+    "93462929",
+    "93462947",
+    "93462972"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/40/93462522_6bf74f174d_o.jpg",
+    "https://farm1.staticflickr.com/34/93462541_ee77bb2bc5_o.jpg",
+    "https://farm1.staticflickr.com/14/93462929_600e1be7b9_o.jpg",
+    "https://farm1.staticflickr.com/25/93462947_8d093843ee_o.jpg",
+    "https://farm1.staticflickr.com/40/93462972_3a5c4331c3_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to a halloween party . we had a lot of fun playing games . there were a lot of people there . some of them were very happy to be there . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we went to a halloween party . we had a lot of fun playing games . there was a crowd . some of them were thrilled to be there . everyone had an awesome time .",
+      "normalized_edited_story_text_sent": [
+        "we went to a halloween party .",
+        "we had a lot of fun playing games .",
+        "there was a crowd .",
+        "some of them were thrilled to be there .",
+        "everyone had an awesome time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to a birthday party . we had a lot of fun playing games . there were a lot of people there .Most  of us were very happy to be there . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went to a birthday party .",
+        "we had a lot of fun playing games .",
+        "there were a lot of people there .",
+        "most of us were very happy to be there .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "we went to a halloween party . we had a great deal of fun playing games . there were a great deal of people there . some of them were very glad to be there . everybody had a incrediable  time .",
+      "normalized_edited_story_text_sent": [
+        "we went to a halloween party .",
+        "we had a great deal of fun playing games .",
+        "there were a great deal of people there .",
+        "some of them were very glad to be there .",
+        "everybody had a incrediable time ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "We went to the airport to pick up our girl friends. We had a lot of fun welcoming them! All of us were there to celebrate their arrival. All of us girls were having a great time greeting each other! There weren\u0027t enough hugs to go around, everyone was so happy to see one another!",
+      "normalized_edited_story_text_sent": [
+        "we went to the airport to pick up our girl friends .",
+        "we had a lot of fun welcoming them !",
+        "all of us were there to celebrate their arrival .",
+        "all of us girls were having a great time greeting each other !",
+        "there were n\u0027t enough hugs to go around , everyone was so happy to see one another !"
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "we were on our way to a halloween party. we had a lot of fun playing games . there were many people. some of them were excited to be there . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we were on our way to a halloween party .",
+        "we had a lot of fun playing games .",
+        "there were many people .",
+        "some of them were excited to be there .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594068659803"
+}

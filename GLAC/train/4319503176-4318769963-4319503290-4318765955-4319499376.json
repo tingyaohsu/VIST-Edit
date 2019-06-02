@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4319503176-4318769963-4319503290-4318765955-4319499376",
+  "photo_sequence_ids": [
+    "4319503176",
+    "4318769963",
+    "4319503290",
+    "4318765955",
+    "4319499376"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the game was about to begin . the players were ready for the game . the team was getting ready . the teams were tied up . the coach was on the field .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the hockey players were ready for the game in the rink and the game began . each team played hard in defense of their league. the scores were tied . the coaches were on the floor and looked anxious.",
+      "normalized_edited_story_text_sent": [
+        "the hockey players were ready for the game in the rink and the game began .",
+        "each team played hard in defense of their league .",
+        "the scores were tied .",
+        "the coaches were on the floor and looked anxious ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the game was about to commence . the players were eager to start . each team had gotten ready . after grueling play, the score was tied . an excited coach walked onto the rink .",
+      "normalized_edited_story_text_sent": [
+        "the game was about to commence .",
+        "the players were eager to start .",
+        "each team had gotten ready .",
+        "after grueling play , the score was tied .",
+        "an excited coach walked onto the rink ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the game was about to begin right after the anthem . the players were ready for the game by stretching . the team was getting ready by skating around the ice . the teams were tied up after the second period . the coach was on the bench yelling to the team .",
+      "normalized_edited_story_text_sent": [
+        "the game was about to begin right after the anthem .",
+        "the players were ready for the game by stretching .",
+        "the team was getting ready by skating around the ice .",
+        "the teams were tied up after the second period .",
+        "the coach was on the bench yelling to the team ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the players brought their A-game! The coach was on point with all of his calls. It was a great game.",
+      "normalized_edited_story_text_sent": [
+        "the players brought their a-game !",
+        "the coach was on point with all of his calls .",
+        "it was a great game ."
+      ]
+    },
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "The hockey game started out fast paced. Some of the players were sitting on the ice from being tired. The uniforms they wear are bulky. There are players in a semi huddle. They are very aggressive with each other when playing.",
+      "normalized_edited_story_text_sent": [
+        "the hockey game started out fast paced .",
+        "some of the players were sitting on the ice from being tired .",
+        "the uniforms they wear are bulky .",
+        "there are players in a semi huddle .",
+        "they are very aggressive with each other when playing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623320493940",
+  "model": "GLAC"
+}

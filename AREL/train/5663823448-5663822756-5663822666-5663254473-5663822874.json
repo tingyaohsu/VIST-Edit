@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5663823448-5663822756-5663822666-5663254473-5663822874",
+  "photo_sequence_ids": [
+    "5663823448",
+    "5663822756",
+    "5663822666",
+    "5663254473",
+    "5663822874"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5305/5663823448_3d0469e109_o.jpg",
+    "https://farm6.staticflickr.com/5143/5663822756_07f3d78919_o.jpg",
+    "https://farm6.staticflickr.com/5188/5663822666_55c70d6346_o.jpg",
+    "https://farm6.staticflickr.com/5021/5663254473_584ae7bf03_o.jpg",
+    "https://farm6.staticflickr.com/5025/5663822874_6151c490af_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the protest last week . he was very proud of his skills . he made sure to make sure everything was spotless . they had a lot of fun . the soldiers were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "last week i attended a protest and saw construction happening .his skills in carpentry made him proud . he made sure to make sure everything was spotless as he used the tool. they had a lot of fun with the soldiers. the kids made the soldiers happy.",
+      "normalized_edited_story_text_sent": [
+        "last week i attended a protest and saw construction happening .",
+        "his skills in carpentry made him proud .",
+        "he made sure to make sure everything was spotless as he used the tool .",
+        "they had a lot of fun with the soldiers .",
+        "the kids made the soldiers happy ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the project last week. [Male] was proud of what he could contribute. He had to make sure that everything was spotless. They had a lot of fun, and the soldiers were happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the project last week .",
+        "[male] was proud of what he could contribute .",
+        "he had to make sure that everything was spotless .",
+        "they had a lot of fun , and the soldiers were happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to a building renovation last week. The soldiers helped repair a building. He was very proud of his skillful work. Everyone gathered around to watch. The soldiers were happy to help out.",
+      "normalized_edited_story_text_sent": [
+        "i went to a building renovation last week .",
+        "the soldiers helped repair a building .",
+        "he was very proud of his skillful work .",
+        "everyone gathered around to watch .",
+        "the soldiers were happy to help out ."
+      ]
+    },
+    {
+      "worker_id": "A1SG85M8W4G6F2",
+      "edited_story_text": "There are some important buildings that are damaged. Some soldiers helped to repair the damage. The soldiers were very skilled at building repair. People were very excited to have the buildings sturdy again. The soldiers and the civilians were very happy to work together.",
+      "normalized_edited_story_text_sent": [
+        "there are some important buildings that are damaged .",
+        "some soldiers helped to repair the damage .",
+        "the soldiers were very skilled at building repair .",
+        "people were very excited to have the buildings sturdy again .",
+        "the soldiers and the civilians were very happy to work together ."
+      ]
+    },
+    {
+      "worker_id": "A37GQDZ9JFQD0E",
+      "edited_story_text": "Being proud of his skills, he made sure that everything was spotless. The soldiers had a lot of fun and were happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "being proud of his skills , he made sure that everything was spotless .",
+        "the soldiers had a lot of fun and were happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626596756884"
+}

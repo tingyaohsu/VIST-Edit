@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5881194946-5881194904-5880633427-5880633305-5881195072",
+  "photo_sequence_ids": [
+    "5881194946",
+    "5881194904",
+    "5880633427",
+    "5880633305",
+    "5881195072"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be at the carnival . they had a lot of fun and activities . they played lots of games . they also had a great time . the whole family was there for the game .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the kids were enthusiastic at the carnival . many fun activities were available . they played several games . their day was great . the entire family was there for the carnival .",
+      "normalized_edited_story_text_sent": [
+        "the kids were enthusiastic at the carnival .",
+        "many fun activities were available .",
+        "they played several games .",
+        "their day was great .",
+        "the entire family was there for the carnival ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be at the carnival . they had a lot of fun and activities . they played lots of games . they also had made a lot of new friends . the whole family was there for a good time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the carnival .",
+        "they had a lot of fun and activities .",
+        "they played lots of games .",
+        "they also had made a lot of new friends .",
+        "the whole family was there for a good time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the kids were excited to be at the carnival . they had a lot of fun and activities . everyone played  games . they had a great time . the whole family was there.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the carnival .",
+        "they had a lot of fun and activities .",
+        "everyone played games .",
+        "they had a great time .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the kids were excited to be at the carnival . they had a lot of fun doing activities . they played lots of games . they also had a great time . the whole family took pics .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the carnival .",
+        "they had a lot of fun doing activities .",
+        "they played lots of games .",
+        "they also had a great time .",
+        "the whole family took pics ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kids were excited to be at the carnival. they had a lot of fun and activities and played lots of games.  the whole family was there and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the carnival .",
+        "they had a lot of fun and activities and played lots of games .",
+        "the whole family was there and everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626943968859",
+  "model": "GLAC"
+}

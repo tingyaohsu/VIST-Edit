@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4432058479-4432058695-4432831688-4432060379-4432833418",
+  "photo_sequence_ids": [
+    "4432058479",
+    "4432058695",
+    "4432831688",
+    "4432060379",
+    "4432833418"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4055/4432058479_50b995b82a_o.jpg",
+    "https://farm5.staticflickr.com/4037/4432058695_4eef787613_o.jpg",
+    "https://farm3.staticflickr.com/2755/4432831688_94ae884cff_o.jpg",
+    "https://farm3.staticflickr.com/2766/4432060379_9fcf6927c4_o.jpg",
+    "https://farm3.staticflickr.com/2771/4432833418_82dab45546_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time there . this is a picture of a building . this is a picture of a display . some of them were very creative . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I had a great time at the technology display.  There was a lot of really fun and creative pieces to see.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the technology display .",
+        "there was a lot of really fun and creative pieces to see ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "Had a great time there, some of them were very creative, it was a lot of fun seeing robots.",
+      "normalized_edited_story_text_sent": [
+        "had a great time there , some of them were very creative , it was a lot of fun seeing robots ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i had a great time there at the museum . this is a picture of a building that we went to the other day . this is a picture of a display that we saw . some of the displays that we saw were very creative by the artists. it was a lot of fun  for me to visit.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time there at the museum .",
+        "this is a picture of a building that we went to the other day .",
+        "this is a picture of a display that we saw .",
+        "some of the displays that we saw were very creative by the artists .",
+        "it was a lot of fun for me to visit ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time there . this is a picture of a building and this is a picture of a display . some of them were very creative . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time there .",
+        "this is a picture of a building and this is a picture of a display .",
+        "some of them were very creative .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3D5BMOC6B7XNQ",
+      "edited_story_text": "I had a great time at this place. This is a picture of a robot.  This is a picture of another robot.  The designs were very creative. It was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at this place .",
+        "this is a picture of a robot .",
+        "this is a picture of another robot .",
+        "the designs were very creative .",
+        "it was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623618977978"
+}

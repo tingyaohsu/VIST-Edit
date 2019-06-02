@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "27498993-27499011-27498940-27498944-27498956",
+  "photo_sequence_ids": [
+    "27498993",
+    "27499011",
+    "27498940",
+    "27498944",
+    "27498956"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . everyone was having a good time . the food was delicious . the kids enjoyed themselves . the dog was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "Our family got together for a cookout party . there was so much food and it was delicious . the kids enjoyed bonded together and enjoyed it . Even the dog was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "our family got together for a cookout party .",
+        "there was so much food and it was delicious .",
+        "the kids enjoyed bonded together and enjoyed it .",
+        "even the dog was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "Whole family got together for a party. The food was delicious and everyone had a good time.The kids had a great time playing with the dog, who was just happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "whole family got together for a party .",
+        "the food was delicious and everyone had a good time.the kids had a great time playing with the dog , who was just happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a get together . everyone was having much fun . the food tasted great . the kids had fun playing . even the dog was cheerful .",
+      "normalized_edited_story_text_sent": [
+        "the family had a get together .",
+        "everyone was having much fun .",
+        "the food tasted great .",
+        "the kids had fun playing .",
+        "even the dog was cheerful ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a party . everyone was having a good time . the cookies were delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "everyone was having a good time .",
+        "the cookies were delicious ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family got together for a party . everyone was having a good time . the food was exotic . the kids all enjoyed themselves . even  the dog was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "everyone was having a good time .",
+        "the food was exotic .",
+        "the kids all enjoyed themselves .",
+        "even the dog was happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "622334",
+  "model": "GLAC"
+}

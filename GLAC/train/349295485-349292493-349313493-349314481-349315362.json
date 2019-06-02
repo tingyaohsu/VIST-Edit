@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "349295485-349292493-349313493-349314481-349315362",
+  "photo_sequence_ids": [
+    "349295485",
+    "349292493",
+    "349313493",
+    "349314481",
+    "349315362"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was beautiful . the buildings were very old . they were very happy to be there . the architecture was amazing . the gardens were so much fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "we arrived to a very pretty city . all of the old architecture was impressive . my wife was happy to be there . the cemetery was amazing . it was educational seeing all the soldiers monuments .",
+      "normalized_edited_story_text_sent": [
+        "we arrived to a very pretty city .",
+        "all of the old architecture was impressive .",
+        "my wife was happy to be there .",
+        "the cemetery was amazing .",
+        "it was educational seeing all the soldiers monuments ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the city was beautiful. the buildings were very old. they were very happy to be there. they visited an old cemetery also.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings were very old .",
+        "they were very happy to be there .",
+        "they visited an old cemetery also ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The city was a sight to behold. Old buildings, rich with history, with architecture that you can\u0027t find nowadays. I was elated to be here and see them all, especially the gardens, which offered such pleasantries.",
+      "normalized_edited_story_text_sent": [
+        "the city was a sight to behold .",
+        "old buildings , rich with history , with architecture that you ca n\u0027t find nowadays .",
+        "i was elated to be here and see them all , especially the gardens , which offered such pleasantries ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was beautiful . the buildings were very old . they were very happy to be there . the architecture was amazing . the gardens capture do my attention .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings were very old .",
+        "they were very happy to be there .",
+        "the architecture was amazing .",
+        "the gardens capture do my attention ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the city was beautiful. many of the buildings were very old. we were very happy to be there. the architecture was amazing, and the gardens were so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "many of the buildings were very old .",
+        "we were very happy to be there .",
+        "the architecture was amazing , and the gardens were so much fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594465479147",
+  "model": "GLAC"
+}

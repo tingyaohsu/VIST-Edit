@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5220205722-5220212034-5220213746-5219629045-5219630429",
+  "photo_sequence_ids": [
+    "5220205722",
+    "5220212034",
+    "5220213746",
+    "5219629045",
+    "5219630429"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the convention . there were a lot of people there . some of them were very talented . the speaker was very good . he was very fast .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "i had a great time at the military convention . there were a lot of people there learning about weapons . some of them were very talented at aiming and shooting . the speaker was very good at telling us about different weapons . he was very fast at explaining things .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the military convention .",
+        "there were a lot of people there learning about weapons .",
+        "some of them were very talented at aiming and shooting .",
+        "the speaker was very good at telling us about different weapons .",
+        "he was very fast at explaining things ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The soldiers were ready for war. They got in the tanks and manned the guns. They were afraid of nothing",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for war .",
+        "they got in the tanks and manned the guns .",
+        "they were afraid of nothing"
+      ]
+    },
+    {
+      "worker_id": "A1JCKICNOC7DAB",
+      "edited_story_text": "i had a great time at the convention . there were a lot of people there . some of them were very talented . the speaker was very good . he was very fast .\r\rI had a great time at the convention there were so many people there including some that were very talented .The speaker was very good but was very fast .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the convention .",
+        "there were a lot of people there .",
+        "some of them were very talented .",
+        "the speaker was very good .",
+        "he was very fast .",
+        "i had a great time at the convention there were so many people there including some that were very talented .",
+        "the speaker was very good but was very fast ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "David had enlisted in the military and was sent to basics across the sea. After weeks he did a lot of training with firearms.",
+      "normalized_edited_story_text_sent": [
+        "[male] had enlisted in the military and was sent to basics across the sea .",
+        "after weeks he did a lot of training with firearms ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i had a great time at the convention . there were a lot of people there . some of them gave very important information . the speaker was very good . he was very fast .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the convention .",
+        "there were a lot of people there .",
+        "some of them gave very important information .",
+        "the speaker was very good .",
+        "he was very fast ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625372394771",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "147651626-147651862-147652058-147652740-147652890",
+  "photo_sequence_ids": [
+    "147651626",
+    "147651862",
+    "147652058",
+    "147652740",
+    "147652890"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was born . the family was gathered for the party . the cake was very cute . the little girl was excited to be there . the dog was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the baby was born that night . the family was gathered for the party to celebrate the baby . the cake was very cute due to it being a girl . the little girl was excited to be there because she was now a sister . the dog was happy that the cat had come.",
+      "normalized_edited_story_text_sent": [
+        "the baby was born that night .",
+        "the family was gathered for the party to celebrate the baby .",
+        "the cake was very cute due to it being a girl .",
+        "the little girl was excited to be there because she was now a sister .",
+        "the dog was happy that the cat had come ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the family gathered for Mom\u0027s birthday party . the cake was very cute and tasty.  this is Lisa\u0027s new cat.  adorable, right!",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for mom \u0027s birthday party .",
+        "the cake was very cute and tasty .",
+        "this is [female] \u0027s new cat .",
+        "adorable , right !"
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the baby was born . the family was gathered for the grand party . the yummy cake was very cute . the little girl was animated to be there . the dog was happy .",
+      "normalized_edited_story_text_sent": [
+        "the baby was born .",
+        "the family was gathered for the grand party .",
+        "the yummy cake was very cute .",
+        "the little girl was animated to be there .",
+        "the dog was happy ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "thThe baby was finally born. The family all gathered to celebrate. There was an adorable little cake. The little girl there was excited and so was the cat.",
+      "normalized_edited_story_text_sent": [
+        "ththe baby was finally born .",
+        "the family all gathered to celebrate .",
+        "there was an adorable little cake .",
+        "the little girl there was excited and so was the cat ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "A special older family member came. The family gathered for a party. The cake was very cute. A card was given to the\rMom. The cat looks content.",
+      "normalized_edited_story_text_sent": [
+        "a special older family member came .",
+        "the family gathered for a party .",
+        "the cake was very cute .",
+        "a card was given to the mom .",
+        "the cat looks content ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594136696437",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "10393490093-10393346856-10393317944-10393314865-10393312274",
+  "photo_sequence_ids": [
+    "10393490093",
+    "10393346856",
+    "10393317944",
+    "10393314865",
+    "10393312274"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many interesting costumes . some of them were very detailed . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a fun time . there were so many interesting costumes . some of them were very detailed and creative . i had a great time . the winner had an amazing costume.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a fun time .",
+        "there were so many interesting costumes .",
+        "some of them were very detailed and creative .",
+        "i had a great time .",
+        "the winner had an amazing costume ."
+      ]
+    },
+    {
+      "worker_id": "ANZR2DCSMD0NX",
+      "edited_story_text": "the parade was a lot of fun . there were so many interesting costumes . some of them were very detailed and the winner was very good .  i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many interesting costumes .",
+        "some of them were very detailed and the winner was very good .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun due to the good weather and big crow . there were so many interesting costumes, some funny and others scary . some of them were very detailed and required a lot of effort . i had a great time at the Halloween parade . the winner was very good and deserved the first place prize.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun due to the good weather and big crow .",
+        "there were so many interesting costumes , some funny and others scary .",
+        "some of them were very detailed and required a lot of effort .",
+        "i had a great time at the halloween parade .",
+        "the winner was very good and deserved the first place prize ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the parade was a lot of fun. there were so many interesting costumes. some of them were very detailed and looked authentic. i had a great time. the winning costume was well designed.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many interesting costumes .",
+        "some of them were very detailed and looked authentic .",
+        "i had a great time .",
+        "the winning costume was well designed ."
+      ]
+    },
+    {
+      "worker_id": "A6W61PU6ARS5",
+      "edited_story_text": "the parade was a lot of fun and there were so many interesting costumes . some of them were very detailed . i had a great time and the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun and there were so many interesting costumes .",
+        "some of them were very detailed .",
+        "i had a great time and the winner was very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157636777261654",
+  "model": "GLAC"
+}

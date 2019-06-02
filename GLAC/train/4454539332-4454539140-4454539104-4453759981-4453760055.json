@@ -1,0 +1,60 @@
+{
+  "photo_sequence_id": "4454539332-4454539140-4454539104-4453759981-4453760055",
+  "photo_sequence_ids": [
+    "4454539332",
+    "4454539140",
+    "4454539104",
+    "4453759981",
+    "4453760055"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he was a bit nervous . he was a little nervous . he was a very passionate speaker . he was a great leader .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the speaker was very knowledgeable, but a bit nervous. he was a very passionate speaker, and overall he seemed like he would be a great leader .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable , but a bit nervous .",
+        "he was a very passionate speaker , and overall he seemed like he would be a great leader ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the speaker was very knowledgeable, but a bit nervous. he was a very passionate speaker, and he was a great leader.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable , but a bit nervous .",
+        "he was a very passionate speaker , and he was a great leader ."
+      ]
+    },
+    {
+      "worker_id": "A3601VEPQLSZ9M",
+      "edited_story_text": "the speaker was very knowledgeable but he appeared to be little nervous . he was a very passionate and is a great leader .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable but he appeared to be little nervous .",
+        "he was a very passionate and is a great leader ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the speaker was very knowledgeable . he was confident with his words. At other times was a little nervous answering questions from the crowd . However, he was a very passionate speaker . As well, he demonstrate that he was a great leader .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he was confident with his words .",
+        "at other times was a little nervous answering questions from the crowd .",
+        "however , he was a very passionate speaker .",
+        "as well , he demonstrate that he was a great leader ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the speaker was very knowledgeable .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623670920286",
+  "model": "GLAC"
+}

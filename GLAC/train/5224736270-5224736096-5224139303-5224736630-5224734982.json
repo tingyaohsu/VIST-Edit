@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5224736270-5224736096-5224139303-5224736630-5224734982",
+  "photo_sequence_ids": [
+    "5224736270",
+    "5224736096",
+    "5224139303",
+    "5224736630",
+    "5224734982"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people there . some of the costumes were very creative . i had a great time . the capitol was huge .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "there was a dramatic demonstration in front of the White House . a large group of people were present . a casket was on display to emphasize the need to help AIDS patients . flowers and large signs were also in place asking president Obama to take action .",
+      "normalized_edited_story_text_sent": [
+        "there was a dramatic demonstration in front of the white house .",
+        "a large group of people were present .",
+        "a casket was on display to emphasize the need to help aids patients .",
+        "flowers and large signs were also in place asking president obama to take action ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the the parade was a lot of fun . there were a lot of people there . some of the costumes were very creative . i had a great time . the capitol was huge .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the the parade was a lot of fun .",
+        "there were a lot of people there .",
+        "some of the costumes were very creative .",
+        "i had a great time .",
+        "the capitol was huge ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the rally was a lot of fun . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "the rally was a lot of fun .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun even with the rain and bad weather . there were a lot of people there to protest . some of the costumes were very creative others were not . i had a great time at the rally. the capitol was huge and was behind the big gate .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun even with the rain and bad weather .",
+        "there were a lot of people there to protest .",
+        "some of the costumes were very creative others were not .",
+        "i had a great time at the rally .",
+        "the capitol was huge and was behind the big gate ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the parade was the bomb. there were a lot of revelers  . the costumes colors were very creative . i had a blast. the capitol was so huge .",
+      "normalized_edited_story_text_sent": [
+        "the parade was the bomb .",
+        "there were a lot of revelers .",
+        "the costumes colors were very creative .",
+        "i had a blast .",
+        "the capitol was so huge ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625509057442",
+  "model": "GLAC"
+}

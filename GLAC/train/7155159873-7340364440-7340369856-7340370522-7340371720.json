@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "7155159873-7340364440-7340369856-7340370522-7340371720",
+  "photo_sequence_ids": [
+    "7155159873",
+    "7340364440",
+    "7340369856",
+    "7340370522",
+    "7340371720"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the military men were very proud of the soldiers . they were all happy to be there . the soldier was also given a flag . the soldiers were presented with their medals . the leaders of the ceremony were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the military men were very proud soldiers and happy to be there. a soldier was also given a flag . the soldiers were presented with their medals and the leaders of the ceremony were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the military men were very proud soldiers and happy to be there .",
+        "a soldier was also given a flag .",
+        "the soldiers were presented with their medals and the leaders of the ceremony were very proud ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the military leaders were proud of the soldiers . the soldiers were happy to be present . one soldier was handed a flag . the soldiers were given their medals . proud leaders smiled at the ceremony .",
+      "normalized_edited_story_text_sent": [
+        "the military leaders were proud of the soldiers .",
+        "the soldiers were happy to be present .",
+        "one soldier was handed a flag .",
+        "the soldiers were given their medals .",
+        "proud leaders smiled at the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the military men were very proud of the soldiers . they were all very patriotic . the soldier was also given a flag . the soldiers were presented with their medals . the leaders of the ceremony were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the military men were very proud of the soldiers .",
+        "they were all very patriotic .",
+        "the soldier was also given a flag .",
+        "the soldiers were presented with their medals .",
+        "the leaders of the ceremony were very proud ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the military men were very proud of the soldiers . they stood at attention. The man showed the certificate. Everyone was happy to participate.",
+      "normalized_edited_story_text_sent": [
+        "the military men were very proud of the soldiers .",
+        "they stood at attention .",
+        "the man showed the certificate .",
+        "everyone was happy to participate ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the military men were very proud of the soldiers and their country . they were all happy to be there . the soldier was also given a certificated . the soldiers were presented with their medals . the leaders of the ceremony were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the military men were very proud of the soldiers and their country .",
+        "they were all happy to be there .",
+        "the soldier was also given a certificated .",
+        "the soldiers were presented with their medals .",
+        "the leaders of the ceremony were very proud ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630056039634",
+  "model": "GLAC"
+}

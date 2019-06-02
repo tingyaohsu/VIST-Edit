@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6820194325-6820194865-6820198655-6820199441-6820190623",
+  "photo_sequence_ids": [
+    "6820194325",
+    "6820194865",
+    "6820198655",
+    "6820199441",
+    "6820190623"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the beach was beautiful . the dog was very friendly . we had a great dinner . the family was happy to be there . the city was full of energy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the lake was beautiful . there was a friendly dog . we hate a tasty dinner . the family was glad to go on the trip . the city was exciting .",
+      "normalized_edited_story_text_sent": [
+        "the lake was beautiful .",
+        "there was a friendly dog .",
+        "we hate a tasty dinner .",
+        "the family was glad to go on the trip .",
+        "the city was exciting ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the beach was beautiful . The boat was parked at the dock. There was a cute dog. We ate and enjoyed the evening in the city.",
+      "normalized_edited_story_text_sent": [
+        "the beach was beautiful .",
+        "the boat was parked at the dock .",
+        "there was a cute dog .",
+        "we ate and enjoyed the evening in the city ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The beach was gorgeous. It set the mood for everything that day. Walking along the shore and meeting an amiable canine. Having the family there and witnessing their joy and sharing this moment with them. When evening came, the city was bright, alive with energy! We ended the evening with a nice, elegant dinner together.",
+      "normalized_edited_story_text_sent": [
+        "the beach was gorgeous .",
+        "it set the mood for everything that day .",
+        "walking along the shore and meeting an amiable canine .",
+        "having the family there and witnessing their joy and sharing this moment with them .",
+        "when evening came , the city was bright , alive with energy !",
+        "we ended the evening with a nice , elegant dinner together ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the beach was beautiful . the dog was very friendly .",
+      "normalized_edited_story_text_sent": [
+        "the beach was beautiful .",
+        "the dog was very friendly ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the beach was beautiful on this clear day . the dog was very friendly to all the people. we had a great dinner with all our friends. the family was happy to be there and celebrate . the city was full of energy due to it being the weekend .",
+      "normalized_edited_story_text_sent": [
+        "the beach was beautiful on this clear day .",
+        "the dog was very friendly to all the people .",
+        "we had a great dinner with all our friends .",
+        "the family was happy to be there and celebrate .",
+        "the city was full of energy due to it being the weekend ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629177580209",
+  "model": "GLAC"
+}

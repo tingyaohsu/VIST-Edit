@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "400095912-399717450-399540137-399537897-399625223",
+  "photo_sequence_ids": [
+    "400095912",
+    "399717450",
+    "399540137",
+    "399537897",
+    "399625223"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/176/400095912_366ac26224_o.jpg",
+    "https://farm1.staticflickr.com/167/399717450_0d53eebe08_o.jpg",
+    "https://farm1.staticflickr.com/174/399540137_0995d35496_o.jpg",
+    "https://farm1.staticflickr.com/155/399537897_db5daed49d_o.jpg",
+    "https://farm1.staticflickr.com/141/399625223_576e509df4_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the local park yesterday . i had a great time there . there was a lot of interesting things to see . the view from the top of the mountain was beautiful . and , he took a picture of the mountains .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the local park yesterday and  had a great time there . there was a lot of interesting things to see . the view from the top of the mountain was beautiful .  he took a picture of the mountains .",
+      "normalized_edited_story_text_sent": [
+        "i went to the local park yesterday and had a great time there .",
+        "there was a lot of interesting things to see .",
+        "the view from the top of the mountain was beautiful .",
+        "he took a picture of the mountains ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the local park yesterday . i had a great time there . there was a lot of interesting things to see . the view from the top of the mountain was beautiful . I really enjoyed taking pictures at the top of the mountains.",
+      "normalized_edited_story_text_sent": [
+        "i went to the local park yesterday .",
+        "i had a great time there .",
+        "there was a lot of interesting things to see .",
+        "the view from the top of the mountain was beautiful .",
+        "i really enjoyed taking pictures at the top of the mountains ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I visited the local park yesterday. First I ate at a local restaurant and ate a meal. Then I started looking for interesting things as I hiked. The view from the top of the mountain was beautiful. I brought my camera to take a picture of the great view.",
+      "normalized_edited_story_text_sent": [
+        "i visited the local park yesterday .",
+        "first i ate at a local restaurant and ate a meal .",
+        "then i started looking for interesting things as i hiked .",
+        "the view from the top of the mountain was beautiful .",
+        "i brought my camera to take a picture of the great view ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the local park yesterday. We took a lot of good pictures of the sceneries.  We ate at a restaurant at a golf course.  It was a nice sunny day. It was warm so I wore shorts.",
+      "normalized_edited_story_text_sent": [
+        "i went to the local park yesterday .",
+        "we took a lot of good pictures of the sceneries .",
+        "we ate at a restaurant at a golf course .",
+        "it was a nice sunny day .",
+        "it was warm so i wore shorts ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "I went to the local park yesterday and I had a great time there. There were a lot of interesting things to see. I took pictures of the mountains. The view from the top of the mountain was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "i went to the local park yesterday and i had a great time there .",
+        "there were a lot of interesting things to see .",
+        "i took pictures of the mountains .",
+        "the view from the top of the mountain was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594553148814"
+}

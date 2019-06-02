@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6836092009-6836080187-6836083193-6836090133-6836093939",
+  "photo_sequence_ids": [
+    "6836092009",
+    "6836080187",
+    "6836083193",
+    "6836090133",
+    "6836093939"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the march . the people were walking around . the guy was not happy . the man was not too happy . the men were in the spirit .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We went to the memorial that just opened up.  We had a chance to plant a remembrance tree and place some flowers at the site.  Great view also.",
+      "normalized_edited_story_text_sent": [
+        "we went to the memorial that just opened up .",
+        "we had a chance to plant a remembrance tree and place some flowers at the site .",
+        "great view also ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd was ready for the opening . it was a big moment.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the opening .",
+        "it was a big moment ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the crowd was ready for ceremony. They planted the tree and then asked questions. They laid flowers by the memorial. There was a beautiful view.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for ceremony .",
+        "they planted the tree and then asked questions .",
+        "they laid flowers by the memorial .",
+        "there was a beautiful view ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the group planted a tree, then left flowers at the memorial in his honor. we all gathered together after and took in the view. it was a beautiful moment, and he will never be forgotten.",
+      "normalized_edited_story_text_sent": [
+        "the group planted a tree , then left flowers at the memorial in his honor .",
+        "we all gathered together after and took in the view .",
+        "it was a beautiful moment , and he will never be forgotten ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the crowd was ready for the inaguration . the people were walking around . the guy was explaining the planing . the man was not too happy . the men were in the spirit .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the inaguration .",
+        "the people were walking around .",
+        "the guy was explaining the planing .",
+        "the man was not too happy .",
+        "the men were in the spirit ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629216448839",
+  "model": "GLAC"
+}

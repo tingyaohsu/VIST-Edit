@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "1846345835-1847081713-1846883391-1847716704-1846904719",
+  "photo_sequence_ids": [
+    "1846345835",
+    "1847081713",
+    "1846883391",
+    "1847716704",
+    "1846904719"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2083/1846345835_9b6de17561_o.jpg",
+    "https://farm3.staticflickr.com/2405/1847081713_bc93f35749_o.jpg",
+    "https://farm3.staticflickr.com/2387/1846883391_86ade78d72_o.jpg",
+    "https://farm3.staticflickr.com/2143/1847716704_cc87560034_o.jpg",
+    "https://farm3.staticflickr.com/2342/1846904719_b3b453f11b_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the party last week . i \u0027m not sure what to do . she was very happy to be there . she was very happy to be there . we all had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The Halloween party was a blast.  The [female] was dressed up as a victim.  She had a fake wound with fake blood running down.  It looked so realistic.  Everyone had a great time mingling, drinking and eating.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a blast .",
+        "the [female] was dressed up as a victim .",
+        "she had a fake wound with fake blood running down .",
+        "it looked so realistic .",
+        "everyone had a great time mingling , drinking and eating ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the halloween party last week . she was very happy to be there .  we all had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "i went to the halloween party last week .",
+        "she was very happy to be there .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the party last week . i \u0027m not sure what to do . she was very happy to be there and she was very happy to be there . we all had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last week .",
+        "i \u0027m not sure what to do .",
+        "she was very happy to be there and she was very happy to be there .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "[Tina] went to the Halloween party last week . We all had fun hanging out, and had a great time together dancing and eating.",
+      "normalized_edited_story_text_sent": [
+        "[female] went to the halloween party last week .",
+        "we all had fun hanging out , and had a great time together dancing and eating ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "I went to the party last week. I met someone there who had a very realistic looking scar and I wasn\u0027t sure if it was real or not. I wasn\u0027t t sure what to do, because it looked so real. Since she was very happy to be there, I assumed the scar was fake. Again, she was very happy to be there and we all had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last week .",
+        "i met someone there who had a very realistic looking scar and i was n\u0027t sure if it was real or not .",
+        "i was n\u0027t t sure what to do , because it looked so real .",
+        "since she was very happy to be there , i assumed the scar was fake .",
+        "again , she was very happy to be there and we all had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602883754412"
+}

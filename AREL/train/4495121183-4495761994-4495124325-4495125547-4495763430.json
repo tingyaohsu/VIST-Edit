@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4495121183-4495761994-4495124325-4495125547-4495763430",
+  "photo_sequence_ids": [
+    "4495121183",
+    "4495761994",
+    "4495124325",
+    "4495125547",
+    "4495763430"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4042/4495121183_eb7776b755_o.jpg",
+    "https://farm5.staticflickr.com/4026/4495761994_33344f627b_o.jpg",
+    "https://farm3.staticflickr.com/2803/4495124325_f842c2bb00_o.jpg",
+    "https://farm5.staticflickr.com/4060/4495125547_06a51b1537_o.jpg",
+    "https://farm3.staticflickr.com/2779/4495763430_4bc0a64817_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the wedding last weekend . the bride and groom pose for a picture . the bride and groom exchange their vows . the bride and groom danced the night away . the bride and groom were ready to dance .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the wedding last weekend. the bride and groom looked so happy when they exchanged vows. then they posed for pictures. at the reception afterward, everyone danced until late into the night.",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding last weekend .",
+        "the bride and groom looked so happy when they exchanged vows .",
+        "then they posed for pictures .",
+        "at the reception afterward , everyone danced until late into the night ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I went to the wedding last weekend. The bride and groom pose for pictures . The bride and groom exchanged their vows. The bride and groom danced the night away. The bride and groom shared a kiss.",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding last weekend .",
+        "the bride and groom pose for pictures .",
+        "the bride and groom exchanged their vows .",
+        "the bride and groom danced the night away .",
+        "the bride and groom shared a kiss ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to a wedding last weekend . the bride and groom posed together for a picture . here, the bride and groom exchange their vows, after which they danced the night away . they were ready to dance .",
+      "normalized_edited_story_text_sent": [
+        "i went to a wedding last weekend .",
+        "the bride and groom posed together for a picture .",
+        "here , the bride and groom exchange their vows , after which they danced the night away .",
+        "they were ready to dance ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I attended a wedding last weekend. The bride and groom stood at the alter for pictures and exchanged their vows. We watched the bride and groom dance the night away. Everyone else was very excited to celebrate, too. Everyone had a great time, especially the bride and groom.",
+      "normalized_edited_story_text_sent": [
+        "i attended a wedding last weekend .",
+        "the bride and groom stood at the alter for pictures and exchanged their vows .",
+        "we watched the bride and groom dance the night away .",
+        "everyone else was very excited to celebrate , too .",
+        "everyone had a great time , especially the bride and groom ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the wedding last weekend . the bride and groom posed for a photo . the bride and groom exchange their vows . the bride and groom danced all night . the bride and groom were ready to dance again .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding last weekend .",
+        "the bride and groom posed for a photo .",
+        "the bride and groom exchange their vows .",
+        "the bride and groom danced all night .",
+        "the bride and groom were ready to dance again ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623780545748"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "2392193422-2392198790-2392210682-2392234560-2392240432",
+  "photo_sequence_ids": [
+    "2392193422",
+    "2392198790",
+    "2392210682",
+    "2392234560",
+    "2392240432"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2109/2392193422_e5e3b2f871_o.jpg",
+    "https://farm3.staticflickr.com/2405/2392198790_71b9033fc8_o.jpg",
+    "https://farm3.staticflickr.com/2136/2392210682_0a36e2cc3a_o.jpg",
+    "https://farm3.staticflickr.com/2120/2392234560_8b80c80303_o.jpg",
+    "https://farm4.staticflickr.com/3028/2392240432_52bc17a559_o.jpg"
+  ],
+  "auto_story_text_normalized": "the city was full of people . the city was full of people . the boats were all lined up and ready to go . they had a lot of fun on the street . after a long day of sightseeing , we decided to take a boat ride .",
+  "edited_stories": [
+    {
+      "worker_id": "AH56J7I291XL7",
+      "edited_story_text": "The city was full of people .  The boats were all lined up and ready to go . We had a lot of fun on the street .After a long day of sightseeing we decided to take a boat ride .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the boats were all lined up and ready to go .",
+        "we had a lot of fun on the street .",
+        "after a long day of sightseeing we decided to take a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the city is full of people . the city is full of people . the boats are all lined up and ready to go . they have a lot of fun on the street . after a long day of sightseeing , we decided to took a boat ride .",
+      "normalized_edited_story_text_sent": [
+        "the city is full of people .",
+        "the city is full of people .",
+        "the boats are all lined up and ready to go .",
+        "they have a lot of fun on the street .",
+        "after a long day of sightseeing , we decided to took a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the city was full of people .People were in yachts . the boats were all lined up and ready to go . they had a lot of fun there  .after a long day of sightseeing , we decided to take a boat ride .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "people were in yachts .",
+        "the boats were all lined up and ready to go .",
+        "they had a lot of fun there .",
+        "after a long day of sightseeing , we decided to take a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The city was full of people.  The boats were all lined up and ready to go off the ramp.  They had a lot of fun on the street watching the launching of the boats.  After a long day of sightseeing, we decided to take a boat ride .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the boats were all lined up and ready to go off the ramp .",
+        "they had a lot of fun on the street watching the launching of the boats .",
+        "after a long day of sightseeing , we decided to take a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the city was full of people . the boat was full of people . the boats were all lined up and ready to go . the people were watching from the street . after a long day of sightseeing , we decided to take a ride on the red bull boat .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the boat was full of people .",
+        "the boats were all lined up and ready to go .",
+        "the people were watching from the street .",
+        "after a long day of sightseeing , we decided to take a ride on the red bull boat ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157604409060777"
+}

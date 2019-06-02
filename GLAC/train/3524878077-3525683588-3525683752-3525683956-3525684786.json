@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "3524878077-3525683588-3525683752-3525683956-3525684786",
+  "photo_sequence_ids": [
+    "3524878077",
+    "3525683588",
+    "3525683752",
+    "3525683956",
+    "3525684786"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to graduate . they had a great time . they were so proud of their accomplishments . the graduates were very happy . the family was all smiles .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the students were excited to graduate. they prepared for the big event. they were so proud of their accomplishments. the graduates were very happy. their families were so happy also.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "they prepared for the big event .",
+        "they were so proud of their accomplishments .",
+        "the graduates were very happy .",
+        "their families were so happy also ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the students were excited to graduate . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we attended the high school graduation this weekend. everyone looked great in their robes. the students were very happy to be finishing. the faculty looked great as well. so many happy families were there to celebrate.",
+      "normalized_edited_story_text_sent": [
+        "we attended the high school graduation this weekend .",
+        "everyone looked great in their robes .",
+        "the students were very happy to be finishing .",
+        "the faculty looked great as well .",
+        "so many happy families were there to celebrate ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the students were excited to graduate . they had a great time . they staff was so proud of their accomplishments . the graduates were very happy . the family celebrated the student\u0027s achievements.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "they had a great time .",
+        "they staff was so proud of their accomplishments .",
+        "the graduates were very happy .",
+        "the family celebrated the student \u0027s achievements ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the students were excited to graduate . they checked their caps . they were so proud of their accomplishments . the professors were very happy . the family was all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "they checked their caps .",
+        "they were so proud of their accomplishments .",
+        "the professors were very happy .",
+        "the family was all smiles ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157617949218325",
+  "model": "GLAC"
+}

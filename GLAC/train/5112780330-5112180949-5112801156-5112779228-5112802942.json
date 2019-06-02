@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5112780330-5112180949-5112801156-5112779228-5112802942",
+  "photo_sequence_ids": [
+    "5112780330",
+    "5112180949",
+    "5112801156",
+    "5112779228",
+    "5112802942"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the tree was covered in snow . the kids were excited to be outside . the family was having a great time . the boys were playing on the ground . the boy was dressed up as a clown .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The forest was lush. The kids posed in front of trees. There were pumpkins and the kids wore costumes.",
+      "normalized_edited_story_text_sent": [
+        "the forest was lush .",
+        "the kids posed in front of trees .",
+        "there were pumpkins and the kids wore costumes ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the tree had been covered in snow . the kids were excited to be outside after the thaw . the family was having a good time at the park . the boys were playing on grass . one boy dressed up as a doctor, another a fireman .",
+      "normalized_edited_story_text_sent": [
+        "the tree had been covered in snow .",
+        "the kids were excited to be outside after the thaw .",
+        "the family was having a good time at the park .",
+        "the boys were playing on grass .",
+        "one boy dressed up as a doctor , another a fireman ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "MANY TREES HAD ALREADY LOST THEIR LEAVES. THE REMAINING FALL COLORS WERE BEAUTIFUL. the kids were ALL DRESSED UP IN THEIR COSTUMES. [DAVID] WAS DRESSED AS A CLOWN AND [JOHN] AS A FIREMAN . theY BOTH HAD a great time .",
+      "normalized_edited_story_text_sent": [
+        "many trees had already lost their leaves .",
+        "the remaining fall colors were beautiful .",
+        "the kids were all dressed up in their costumes .",
+        "[male] was dressed as a clown and [male] as a fireman .",
+        "they both had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the tree was covered in snow except at the bottom of the hill . the kids were excited to be outside for the first time all season . the family was having a great time with all the kids . the boys were playing on the ground and looking for candy . the boy was dressed up as a clown and the other was a fireman .",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow except at the bottom of the hill .",
+        "the kids were excited to be outside for the first time all season .",
+        "the family was having a great time with all the kids .",
+        "the boys were playing on the ground and looking for candy .",
+        "the boy was dressed up as a clown and the other was a fireman ."
+      ]
+    },
+    {
+      "worker_id": "A3A2AZLG73ZE1U",
+      "edited_story_text": "We went out to a pumpkin patch for Halloween. The boys dressed in their costumes. They took their costumes very seriously. They had great fun showing off their costumes. We did also see a couple of fun things kids might like.",
+      "normalized_edited_story_text_sent": [
+        "we went out to a pumpkin patch for halloween .",
+        "the boys dressed in their costumes .",
+        "they took their costumes very seriously .",
+        "they had great fun showing off their costumes .",
+        "we did also see a couple of fun things kids might like ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625234587710",
+  "model": "GLAC"
+}

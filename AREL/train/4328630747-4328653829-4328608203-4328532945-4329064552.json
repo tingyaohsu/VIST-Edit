@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4328630747-4328653829-4328608203-4328532945-4329064552",
+  "photo_sequence_ids": [
+    "4328630747",
+    "4328653829",
+    "4328608203",
+    "4328532945",
+    "4329064552"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4002/4328630747_3bb55a0ee1_o.jpg",
+    "https://farm3.staticflickr.com/2702/4328653829_db9dae993f_o.jpg",
+    "https://farm3.staticflickr.com/2703/4328608203_902b3f3ac6_o.jpg",
+    "https://farm3.staticflickr.com/2689/4328532945_05aafe8fec_o.jpg",
+    "https://farm5.staticflickr.com/4043/4329064552_98cf5998a5_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a lot of work to do . there were a lot of old cars . it was a lot of fun . this is a picture of a building . they had a lot of food to eat .",
+  "edited_stories": [
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I had a lot of work to do to get ready for the flea market. There were a lot of old cool cars there. It was a lot of fun seeing all the stuff there, and they had tons to eat there.",
+      "normalized_edited_story_text_sent": [
+        "i had a lot of work to do to get ready for the flea market .",
+        "there were a lot of old cool cars there .",
+        "it was a lot of fun seeing all the stuff there , and they had tons to eat there ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I sold lots at a yard-sale, then bought a ticket to a car show. It was lots of fun, then we went to eat a delicious breakfast!",
+      "normalized_edited_story_text_sent": [
+        "i sold lots at a yard-sale , then bought a ticket to a car show .",
+        "it was lots of fun , then we went to eat a delicious breakfast !"
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "My workspace was cluttered with unfinished projects. There were some old  old cars out on the street. It was way too much fun. Here is a photo of an architectural structure. They had a plate that was really full with food.",
+      "normalized_edited_story_text_sent": [
+        "my workspace was cluttered with unfinished projects .",
+        "there were some old old cars out on the street .",
+        "it was way too much fun .",
+        "here is a photo of an architectural structure .",
+        "they had a plate that was really full with food ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i had a lot of work to do and there were a lot of old cars . it was a lot of fun . this is a picture of a old building . they had a lot of food to eat and it was delicious.",
+      "normalized_edited_story_text_sent": [
+        "i had a lot of work to do and there were a lot of old cars .",
+        "it was a lot of fun .",
+        "this is a picture of a old building .",
+        "they had a lot of food to eat and it was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i had a lot of work to do . there were a lot of old things . it was a lot of fun . this is a picture of a building . they had a lot of food to eat .",
+      "normalized_edited_story_text_sent": [
+        "i had a lot of work to do .",
+        "there were a lot of old things .",
+        "it was a lot of fun .",
+        "this is a picture of a building .",
+        "they had a lot of food to eat ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623132152719"
+}

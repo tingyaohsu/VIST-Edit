@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5690117559-5690117677-5690693648-5690117903-5690117801",
+  "photo_sequence_ids": [
+    "5690117559",
+    "5690117677",
+    "5690693648",
+    "5690117903",
+    "5690117801"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5221/5690117559_9c11aff7c0_o.jpg",
+    "https://farm6.staticflickr.com/5143/5690117677_c2dc71e43e_o.jpg",
+    "https://farm6.staticflickr.com/5145/5690693648_473d155113_o.jpg",
+    "https://farm6.staticflickr.com/5263/5690117903_4e84a5f968_o.jpg",
+    "https://farm6.staticflickr.com/5223/5690117801_fb20634de0_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a meeting in the park today . people were having a good time . there were a lot of people there . some of the people had a good time . this guy was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "There was a meeting in the park today. Everyone was having a good time and there were a lot of people there. This guy was very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "there was a meeting in the park today .",
+        "everyone was having a good time and there were a lot of people there .",
+        "this guy was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "there was a meeting in the park today . people were having a decent time . there were a many people there . some of the people had a decent time . this guy was very extremely glad to be there .",
+      "normalized_edited_story_text_sent": [
+        "there was a meeting in the park today .",
+        "people were having a decent time .",
+        "there were a many people there .",
+        "some of the people had a decent time .",
+        "this guy was very extremely glad to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "there is a meeting in the park today . people are having a good time . there are a lot of people there . some of the people have a good time . this guy is very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "there is a meeting in the park today .",
+        "people are having a good time .",
+        "there are a lot of people there .",
+        "some of the people have a good time .",
+        "this guy is very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "there was a meeting in the park today . people were having a good time . there were a lot of people there . [Jules] was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "there was a meeting in the park today .",
+        "people were having a good time .",
+        "there were a lot of people there .",
+        "[male] was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "there was an event at the park today. There were a lot of people there that seemed to be having a good time",
+      "normalized_edited_story_text_sent": [
+        "there was an event at the park today .",
+        "there were a lot of people there that seemed to be having a good time"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626529005069"
+}

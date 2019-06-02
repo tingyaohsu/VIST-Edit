@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "7505490446-7505517374-7505534948-7505539578-7505548038",
+  "photo_sequence_ids": [
+    "7505490446",
+    "7505517374",
+    "7505534948",
+    "7505539578",
+    "7505548038"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people dressed up . some of the performers were very talented . the costumes were very good . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people dressed up . some of the performers were very talented . the costumes were very good . i had a great time .\r\rI had so much fun at the parade! There were actually a lot of people dressed up this year! There was a lot of talent this year! I was also really impressed by the costumes. I had a fabulous time!",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the performers were very talented .",
+        "the costumes were very good .",
+        "i had a great time .",
+        "i had so much fun at the parade !",
+        "there were actually a lot of people dressed up this year !",
+        "there was a lot of talent this year !",
+        "i was also really impressed by the costumes .",
+        "i had a fabulous time !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people dressed up ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the fair was lots of fun . many people even dressed up . some performers had much talented . the costumes were well crafted . i had a grand time .",
+      "normalized_edited_story_text_sent": [
+        "the fair was lots of fun .",
+        "many people even dressed up .",
+        "some performers had much talented .",
+        "the costumes were well crafted .",
+        "i had a grand time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the parade was so much fun .  some of the performers were very talented . a lot of people were eating watermelon. the costumes were very good . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was so much fun .",
+        "some of the performers were very talented .",
+        "a lot of people were eating watermelon .",
+        "the costumes were very good .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The downtown parade was a fun experience. There was live music, people with epic beards and even a watermelon eating contest.",
+      "normalized_edited_story_text_sent": [
+        "the downtown parade was a fun experience .",
+        "there was live music , people with epic beards and even a watermelon eating contest ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630429638746",
+  "model": "GLAC"
+}

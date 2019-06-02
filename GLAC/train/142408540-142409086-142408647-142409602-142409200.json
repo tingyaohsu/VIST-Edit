@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "142408540-142409086-142408647-142409602-142409200",
+  "photo_sequence_ids": [
+    "142408540",
+    "142409086",
+    "142408647",
+    "142409602",
+    "142409200"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the stadium was packed . the fans were excited . the players were ready . the game was underway . the teams were very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the weather outside was rainy. the fans were excited to see the cheerleaders. the spectators were getting their drinks. the stadium was packed. the baseball teams were playing inside the stadium.",
+      "normalized_edited_story_text_sent": [
+        "the weather outside was rainy .",
+        "the fans were excited to see the cheerleaders .",
+        "the spectators were getting their drinks .",
+        "the stadium was packed .",
+        "the baseball teams were playing inside the stadium ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the stadium was packed for the big game . the fans were excited for the opening game . the players were ready to start the season with a win . the game was underway and didn\u0027t disappoint . the teams were very good even thou it was the first game .",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed for the big game .",
+        "the fans were excited for the opening game .",
+        "the players were ready to start the season with a win .",
+        "the game was underway and did n\u0027t disappoint .",
+        "the teams were very good even thou it was the first game ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "it was raining outside. the fans were excited and dressed up. They sold drinks and snacks. . the game was underway.",
+      "normalized_edited_story_text_sent": [
+        "it was raining outside .",
+        "the fans were excited and dressed up .",
+        "they sold drinks and snacks .",
+        "the game was underway ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the stadium was packed . the fans were excited . the crowd was ready for the game . the game was exciting. Our team was very good .",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed .",
+        "the fans were excited .",
+        "the crowd was ready for the game .",
+        "the game was exciting .",
+        "our team was very good ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the stadium was filled . the fans were excited . the players were ready . the game was underway . the teams were very good . it was a closely contest affair.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was filled .",
+        "the fans were excited .",
+        "the players were ready .",
+        "the game was underway .",
+        "the teams were very good .",
+        "it was a closely contest affair ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594128484139",
+  "model": "GLAC"
+}

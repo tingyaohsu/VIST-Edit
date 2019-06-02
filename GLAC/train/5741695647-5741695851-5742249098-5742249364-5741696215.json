@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5741695647-5741695851-5742249098-5742249364-5741696215",
+  "photo_sequence_ids": [
+    "5741695647",
+    "5741695851",
+    "5742249098",
+    "5742249364",
+    "5741696215"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i was so excited to be at the party . my friend [ male ] was there too . we had a great time . the girls were very happy . they had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i was so excited to be at the party of my friends . my friend [ male ] was there too with his girlfriend. we had a great time and talked a bunch . the girls were very happy that I showed up. they had a lot of fun dancing in a big circle .",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be at the party of my friends .",
+        "my friend [male] was there too with his girlfriend .",
+        "we had a great time and talked a bunch .",
+        "the girls were very happy that i showed up .",
+        "they had a lot of fun dancing in a big circle ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "The party got me very hyped . my friend [ male ] was going to be there . everyone was had a lot of fun, including the girls.",
+      "normalized_edited_story_text_sent": [
+        "the party got me very hyped .",
+        "my friend [male] was going to be there .",
+        "everyone was had a lot of fun , including the girls ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i was so excited to be at the meeting . my friend [ male ] was there to keep me company . we had a fun time . the girls were very grateful too . they also had lots of fun times .",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be at the meeting .",
+        "my friend [male] was there to keep me company .",
+        "we had a fun time .",
+        "the girls were very grateful too .",
+        "they also had lots of fun times ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i was so excited to be at the party . my friend [ male ] was there too . we had a great time . Robert was all smiles . Maria had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be at the party .",
+        "my friend [male] was there too .",
+        "we had a great time .",
+        "[male] was all smiles .",
+        "[female] had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we had a surprisingly great time at the meeting. my friend [ male ] was there too. it was nice to see him again. we really learned a lot, and found the activities to be really informative and engaging.",
+      "normalized_edited_story_text_sent": [
+        "we had a surprisingly great time at the meeting .",
+        "my friend [male] was there too .",
+        "it was nice to see him again .",
+        "we really learned a lot , and found the activities to be really informative and engaging ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626644157407",
+  "model": "GLAC"
+}

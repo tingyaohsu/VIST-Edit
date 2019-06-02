@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4476940376-4476940166-4476164267-4476940700-4476163905",
+  "photo_sequence_ids": [
+    "4476940376",
+    "4476940166",
+    "4476164267",
+    "4476940700",
+    "4476163905"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was very excited . he was given a speech . he was so proud . he was a great group .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the speaker was very happy to be there . The audience listened intently. The woman spoke from the podium. People watched from the audience.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "the audience listened intently .",
+        "the woman spoke from the podium .",
+        "people watched from the audience ."
+      ]
+    },
+    {
+      "worker_id": "A2RLL9U1JBY31Q",
+      "edited_story_text": "The speaker was very happy to be there . She was very excited . She was giving a speech . She was so proud. It was a great group .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "she was very excited .",
+        "she was giving a speech .",
+        "she was so proud .",
+        "it was a great group ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the speaker was very happy to be there .she was very excited . she gave a very motivating speech . she was so proud . it was a resposive group .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "she was very excited .",
+        "she gave a very motivating speech .",
+        "she was so proud .",
+        "it was a resposive group ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "the guest speaker had a captive audience today.  She spoke about the pitfalls of online dating series and the dangers associated.",
+      "normalized_edited_story_text_sent": [
+        "the guest speaker had a captive audience today .",
+        "she spoke about the pitfalls of online dating series and the dangers associated ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the speaker was very happy to be there . he was very excited . he was given a speech . he was so proud . he did a great job .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was very excited .",
+        "he was given a speech .",
+        "he was so proud .",
+        "he did a great job ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623735481090",
+  "model": "GLAC"
+}

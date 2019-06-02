@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "2640358274-2640358974-2639543307-2640365112-2640373568",
+  "photo_sequence_ids": [
+    "2640358274",
+    "2640358974",
+    "2639543307",
+    "2640365112",
+    "2640373568"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3079/2640358274_4995038e0f_o.jpg",
+    "https://farm4.staticflickr.com/3192/2640358974_85cf9b2730_o.jpg",
+    "https://farm4.staticflickr.com/3097/2639543307_c622611c47_o.jpg",
+    "https://farm4.staticflickr.com/3071/2640365112_e86d3085ce_o.jpg",
+    "https://farm4.staticflickr.com/3257/2640373568_13afcfc8bf_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the fireworks to see the fireworks . there were many different kinds of fireworks . some of the fireworks were very loud . one of the fireworks lit up the sky . the grand finale was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we went to the [location] to see the fireworks . different types of fireworks were shown . some of them were able to get pretty loud. one in particular was bright enough to fill the entire night sky with color . there was a great finish that looked amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the [location] to see the fireworks .",
+        "different types of fireworks were shown .",
+        "some of them were able to get pretty loud .",
+        "one in particular was bright enough to fill the entire night sky with color .",
+        "there was a great finish that looked amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1IFIK8J49WBER",
+      "edited_story_text": "we went to see the fireworks. there were many different of fireworks of all sizes and colors. the fireworks were very loud . one of the fireworks that lit up the sky was a red and blue explosion of color . the grand finale was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "we went to see the fireworks .",
+        "there were many different of fireworks of all sizes and colors .",
+        "the fireworks were very loud .",
+        "one of the fireworks that lit up the sky was a red and blue explosion of color .",
+        "the grand finale was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A6P3TJ2T9JHFC",
+      "edited_story_text": "we went to the event to see the fireworks . there were many different kinds of fireworks . some of the fireworks were very loud . one of the fireworks lit up the sky . the grand finale was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "we went to the event to see the fireworks .",
+        "there were many different kinds of fireworks .",
+        "some of the fireworks were very loud .",
+        "one of the fireworks lit up the sky .",
+        "the grand finale was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "We went to the fireworks to see the fireworks. There were many different kinds of fireworks they had, some of them I haven\u0027t seen before. Some of the fireworks were very loud. The grand finale lit up the whole sky, it was amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the fireworks to see the fireworks .",
+        "there were many different kinds of fireworks they had , some of them i have n\u0027t seen before .",
+        "some of the fireworks were very loud .",
+        "the grand finale lit up the whole sky , it was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to the fireworks show. Many looked like exploding stars. Some looked like lightning flashes bunched up together. The many colors were amazing. It was spectacular.",
+      "normalized_edited_story_text_sent": [
+        "we went to the fireworks show .",
+        "many looked like exploding stars .",
+        "some looked like lightning flashes bunched up together .",
+        "the many colors were amazing .",
+        "it was spectacular ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157605997253353"
+}

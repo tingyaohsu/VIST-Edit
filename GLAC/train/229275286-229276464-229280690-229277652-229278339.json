@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "229275286-229276464-229280690-229277652-229278339",
+  "photo_sequence_ids": [
+    "229275286",
+    "229276464",
+    "229280690",
+    "229277652",
+    "229278339"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very shiny . the red car was the most popular . the white paint was a nice addition . the cars were well kept . the yellow car was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the car was very shiny . the red car was the most popular . the cars were well kept . the yellow car was the best . it was fun to see all the vehicles.",
+      "normalized_edited_story_text_sent": [
+        "the car was very shiny .",
+        "the red car was the most popular .",
+        "the cars were well kept .",
+        "the yellow car was the best .",
+        "it was fun to see all the vehicles ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the car was super shiny . the red car was the most popular . the white paint was a great addition . the cars were well kept . the yellow car was the best .",
+      "normalized_edited_story_text_sent": [
+        "the car was super shiny .",
+        "the red car was the most popular .",
+        "the white paint was a great addition .",
+        "the cars were well kept .",
+        "the yellow car was the best ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "all the cars were shiny at the cyprus rally . the red car was very popular . the white paint was a nice addition . the cars were well kept . the yellow car was the best .",
+      "normalized_edited_story_text_sent": [
+        "all the cars were shiny at the cyprus rally .",
+        "the red car was very popular .",
+        "the white paint was a nice addition .",
+        "the cars were well kept .",
+        "the yellow car was the best ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the car was very shiny due to it being waxed . the red car was the most popular of all the cars . the white paint was a nice addition to the yellow paint . the cars were well kept and all very clean. the yellow car was the best in terms of power .",
+      "normalized_edited_story_text_sent": [
+        "the car was very shiny due to it being waxed .",
+        "the red car was the most popular of all the cars .",
+        "the white paint was a nice addition to the yellow paint .",
+        "the cars were well kept and all very clean .",
+        "the yellow car was the best in terms of power ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the car was very shiny and the it was the most popular . the white paint was a nice addition . the cars were well kept . the yellow car was the best .",
+      "normalized_edited_story_text_sent": [
+        "the car was very shiny and the it was the most popular .",
+        "the white paint was a nice addition .",
+        "the cars were well kept .",
+        "the yellow car was the best ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594260040449",
+  "model": "GLAC"
+}

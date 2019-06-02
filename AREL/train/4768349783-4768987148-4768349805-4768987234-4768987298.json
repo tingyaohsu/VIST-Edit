@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4768349783-4768987148-4768349805-4768987234-4768987298",
+  "photo_sequence_ids": [
+    "4768349783",
+    "4768987148",
+    "4768349805",
+    "4768987234",
+    "4768987298"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4079/4768349783_b141ce9b6f_o.jpg",
+    "https://farm5.staticflickr.com/4082/4768987148_968e44daf4_o.jpg",
+    "https://farm5.staticflickr.com/4102/4768349805_7b8ecd8b1e_o.jpg",
+    "https://farm5.staticflickr.com/4078/4768987234_5f898d3982_o.jpg",
+    "https://farm5.staticflickr.com/4140/4768987298_265eb45585_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the festival . there was a lot of people there . there were many people there . they had a lot of fun . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I had a great time at the festival, there were a lot of people there.They had a lot of fun and the kids had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the festival , there were a lot of people there.they had a lot of fun and the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i had a great time at the school . there were a lot of people there .  the kids seemed a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the school .",
+        "there were a lot of people there .",
+        "the kids seemed a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i had a great time at the festival. there was a lot of people there. everyone was dancing and having fun. the kids got to play games and had an excellent time.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the festival .",
+        "there was a lot of people there .",
+        "everyone was dancing and having fun .",
+        "the kids got to play games and had an excellent time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I had a great time working with the kids at the school.  They were so good.  We had volunteers coming in to speak to them about the importance of exercise.  They worked out in the yard.  The kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time working with the kids at the school .",
+        "they were so good .",
+        "we had volunteers coming in to speak to them about the importance of exercise .",
+        "they worked out in the yard .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "she have a great time at the festival . there is a lot of people there . there are many people there . they have a lot of fun . the kids have a great time .",
+      "normalized_edited_story_text_sent": [
+        "she have a great time at the festival .",
+        "there is a lot of people there .",
+        "there are many people there .",
+        "they have a lot of fun .",
+        "the kids have a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624437275314"
+}

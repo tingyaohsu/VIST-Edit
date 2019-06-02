@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "15978645897-16173780292-16162517841-15987093758-16173780402",
+  "photo_sequence_ids": [
+    "15978645897",
+    "16173780292",
+    "16162517841",
+    "15987093758",
+    "16173780402"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7577/15978645897_e4bc0f371a_o.jpg",
+    "https://farm9.staticflickr.com/8626/16173780292_70a5fb2c85_o.jpg",
+    "https://farm8.staticflickr.com/7502/16162517841_2cfaa4dfed_o.jpg",
+    "https://farm9.staticflickr.com/8670/15987093758_72255cf36d_o.jpg",
+    "https://farm8.staticflickr.com/7523/16173780402_7c7faea748_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last night . the artwork was amazing . there were a lot of people there . we took a lot of pictures . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I had a great time at the party last night, the decorations were amazing!",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night , the decorations were amazing !"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I had a great time at the party last night. There were cool lit decorations on the wall. Lots of guests attended. Everyone took pictures together while we celebrated. We all had a really great time..",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "there were cool lit decorations on the wall .",
+        "lots of guests attended .",
+        "everyone took pictures together while we celebrated .",
+        "we all had a really great time .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "i had a great time at the New Year\u0027s party last night . the favors were amazing . there were a lot of friends there . we took a lot of pictures . we had a great time and ate some good food.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the new year \u0027s party last night .",
+        "the favors were amazing .",
+        "there were a lot of friends there .",
+        "we took a lot of pictures .",
+        "we had a great time and ate some good food ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i had a great time at the party last night . the drinks were amazing . there were a lot of people there . we took a lot of pictures . we had a great time and enjoyed our wine .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "the drinks were amazing .",
+        "there were a lot of people there .",
+        "we took a lot of pictures .",
+        "we had a great time and enjoyed our wine ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I had so much fun at the party last night. The works of art were phenomenal. There were a decent amount of people there. We captured a lot of photos. We really enjoyed it and had a ball.",
+      "normalized_edited_story_text_sent": [
+        "i had so much fun at the party last night .",
+        "the works of art were phenomenal .",
+        "there were a decent amount of people there .",
+        "we captured a lot of photos .",
+        "we really enjoyed it and had a ball ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157649987300306"
+}

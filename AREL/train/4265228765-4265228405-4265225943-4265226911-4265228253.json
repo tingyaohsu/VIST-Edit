@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4265228765-4265228405-4265225943-4265226911-4265228253",
+  "photo_sequence_ids": [
+    "4265228765",
+    "4265228405",
+    "4265225943",
+    "4265226911",
+    "4265228253"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4059/4265228765_9a8abf9635_o.jpg",
+    "https://farm3.staticflickr.com/2585/4265228405_a7b3433c5e_o.jpg",
+    "https://farm5.staticflickr.com/4063/4265225943_f21df33b7d_o.jpg",
+    "https://farm5.staticflickr.com/4013/4265226911_10facfd1d1_o.jpg",
+    "https://farm3.staticflickr.com/2688/4265228253_17024d6d52_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends got together for a new year \u0027s party . the band played a lot of songs . some of the guys were having a good time . and then they had a few drinks . the food was delicious and we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "a group of friends got together for a new year \u0027s party . the band played a lot of songs . some of the guys were having a good time . then they had a few drinks . the food was delicious and we ate a lot of it.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a new year \u0027s party .",
+        "the band played a lot of songs .",
+        "some of the guys were having a good time .",
+        "then they had a few drinks .",
+        "the food was delicious and we ate a lot of it ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "a group of friends got together for a new year \u0027s party . the band played a lot jazz songs . Most of the guys were having a good time after they had a few drinks. the food was also delicious and we had a great time!",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a new year \u0027s party .",
+        "the band played a lot jazz songs .",
+        "most of the guys were having a good time after they had a few drinks .",
+        "the food was also delicious and we had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We had a party. A man played saxophone. We mingled and drank wine. There were some good stories. There was a big buffet with lots of food.",
+      "normalized_edited_story_text_sent": [
+        "we had a party .",
+        "a man played saxophone .",
+        "we mingled and drank wine .",
+        "there were some good stories .",
+        "there was a big buffet with lots of food ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "a group of friends got together for a new year \u0027s party . the band played a lot of songs and most of the guys were having a good time then they had a few drinks . the food was delicious and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a new year \u0027s party .",
+        "the band played a lot of songs and most of the guys were having a good time then they had a few drinks .",
+        "the food was delicious and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "It was a great turn out at the New Year\u0027s party.  A lot of people showed up to listen to the band.  The food and drinks were delicious and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "it was a great turn out at the new year \u0027s party .",
+        "a lot of people showed up to listen to the band .",
+        "the food and drinks were delicious and we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623063047547"
+}

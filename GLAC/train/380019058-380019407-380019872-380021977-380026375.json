@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "380019058-380019407-380019872-380021977-380026375",
+  "photo_sequence_ids": [
+    "380019058",
+    "380019407",
+    "380019872",
+    "380021977",
+    "380026375"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was walking to the cemetery . they were very happy . they had a great time . they all walked around . they were so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "You could just tell how proud all the family was at the military ceremony.  It was a great day and everyone was happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "you could just tell how proud all the family was at the military ceremony .",
+        "it was a great day and everyone was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The soldiers were at boot camp. They marched as they did the drills for the day. They were becoming strong so they could protect the country.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were at boot camp .",
+        "they marched as they did the drills for the day .",
+        "they were becoming strong so they could protect the country ."
+      ]
+    },
+    {
+      "worker_id": "A3JT22BLG866CK",
+      "edited_story_text": "The soldiers marched to the ceremony. they were solemn . they had a great time . they all walked around . they were so quite proud .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers marched to the ceremony .",
+        "they were solemn .",
+        "they had a great time .",
+        "they all walked around .",
+        "they were so quite proud ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the soldiers  walking to the base. they were very alert. they did a great job. they all walked around . they were so proud.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers walking to the base .",
+        "they were very alert .",
+        "they did a great job .",
+        "they all walked around .",
+        "they were so proud ."
+      ]
+    },
+    {
+      "worker_id": "A7NZ814Q5MX2R",
+      "edited_story_text": "I was teary-eyed while I watched the cadets from West Point practice marching.  They were practicing for the graduation ceremony.  It was nice to see the female cadets marching with the male cadets.  They all stood at attention when the general approached the podium to give a speech.  I was so proud when my son received his stripes.",
+      "normalized_edited_story_text_sent": [
+        "i was teary-eyed while i watched the cadets from west point practice marching .",
+        "they were practicing for the graduation ceremony .",
+        "it was nice to see the female cadets marching with the male cadets .",
+        "they all stood at attention when the general approached the podium to give a speech .",
+        "i was so proud when my son received his stripes ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594518186150",
+  "model": "GLAC"
+}

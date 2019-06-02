@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4293652571-4293652337-4293652715-4294394664-4293653705",
+  "photo_sequence_ids": [
+    "4293652571",
+    "4293652337",
+    "4293652715",
+    "4294394664",
+    "4293653705"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4014/4293652571_e0554c1f87_o.jpg",
+    "https://farm5.staticflickr.com/4056/4293652337_486074a092_o.jpg",
+    "https://farm5.staticflickr.com/4072/4293652715_e4eaf9e804_o.jpg",
+    "https://farm3.staticflickr.com/2748/4294394664_af34c44f5a_o.jpg",
+    "https://farm3.staticflickr.com/2707/4293653705_28eb4623fe_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a tree . the trees were beautiful . there were a lot of trees there . the water was very calm and beautiful . it was a great day for a walk on the lake .",
+  "edited_stories": [
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "The trees are beautiful, there are a lot of trees and the water is very calm, so beautiful too. I t is great on the lake .",
+      "normalized_edited_story_text_sent": [
+        "the trees are beautiful , there are a lot of trees and the water is very calm , so beautiful too .",
+        "i t is great on the lake ."
+      ]
+    },
+    {
+      "worker_id": "ADOVF9SBJJK33",
+      "edited_story_text": "this is a picture of a bunch of pretty trees. the trees were beautiful . there were a lot of trees there to see. the body of water was very calm and beautiful . it was a great day for a walk around the lake .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a bunch of pretty trees .",
+        "the trees were beautiful .",
+        "there were a lot of trees there to see .",
+        "the body of water was very calm and beautiful .",
+        "it was a great day for a walk around the lake ."
+      ]
+    },
+    {
+      "worker_id": "A2GMFKPE64NQQC",
+      "edited_story_text": "We went on a lovely walk in the woods to the lake. The trees there were beautiful, and there were a lot of trees there. The water was very calm and beautiful. It was a great day for a walk on the lake.",
+      "normalized_edited_story_text_sent": [
+        "we went on a lovely walk in the woods to the lake .",
+        "the trees there were beautiful , and there were a lot of trees there .",
+        "the water was very calm and beautiful .",
+        "it was a great day for a walk on the lake ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "this is a picture of a beautiful place . the trees were beautiful . there were a lot of trees there . the water was very calm and beautiful . it was a great day for a walk on the lake .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a beautiful place .",
+        "the trees were beautiful .",
+        "there were a lot of trees there .",
+        "the water was very calm and beautiful .",
+        "it was a great day for a walk on the lake ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to the park. It was perfectly landscaped. The trees were turning color. There was a big pond. It was a great day for a walk by the water.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park .",
+        "it was perfectly landscaped .",
+        "the trees were turning color .",
+        "there was a big pond .",
+        "it was a great day for a walk by the water ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623258387556"
+}

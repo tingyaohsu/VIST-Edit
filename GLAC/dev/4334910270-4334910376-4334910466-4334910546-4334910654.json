@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4334910270-4334910376-4334910466-4334910546-4334910654",
+  "photo_sequence_ids": [
+    "4334910270",
+    "4334910376",
+    "4334910466",
+    "4334910546",
+    "4334910654"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were empty . the artwork was interesting . the art was amazing . the artwork was beautiful . the artwork was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "there were not may people out that night. the anime artwork was interesting. the art was amazing. the artwork was beautiful . the artwork was amazing .  There was a lot of different artwork to look at.",
+      "normalized_edited_story_text_sent": [
+        "there were not may people out that night .",
+        "the anime artwork was interesting .",
+        "the art was amazing .",
+        "the artwork was beautiful .",
+        "the artwork was amazing .",
+        "there was a lot of different artwork to look at ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The city street was lively and colorful at night. The manga artwork was interesting and creative. There were several different exhibits. The exhibits were arranged in a way that was colorful and exciting. The last photo was a bit peaceful and had a calming effect on me.",
+      "normalized_edited_story_text_sent": [
+        "the city street was lively and colorful at night .",
+        "the manga artwork was interesting and creative .",
+        "there were several different exhibits .",
+        "the exhibits were arranged in a way that was colorful and exciting .",
+        "the last photo was a bit peaceful and had a calming effect on me ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the streets were empty . the artwork was amazing . the artwork was all over the various store fronts.  I didn\u0027t buy anything though.",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty .",
+        "the artwork was amazing .",
+        "the artwork was all over the various store fronts .",
+        "i did n\u0027t buy anything though ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the streets were empty . the artwork was interesting . the art showed many different japenese comic characters. . the artwork was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty .",
+        "the artwork was interesting .",
+        "the art showed many different japenese comic characters .",
+        "the artwork was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the streets were empty and lit up at night time. the artwork was interesting, beautiful, and amazing. the artwork was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty and lit up at night time .",
+        "the artwork was interesting , beautiful , and amazing .",
+        "the artwork was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623364325932",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4433116462-4432344885-4433187676-4433284788-4433287736",
+  "photo_sequence_ids": [
+    "4433116462",
+    "4432344885",
+    "4433187676",
+    "4433284788",
+    "4433287736"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very old . there was a lot of graffiti everywhere . the buildings were all over . they had a big sign . the building was tall .",
+  "edited_stories": [
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "This little town is very old . They have a lot of places with animal names. There aren\u0027t that many skyscraper buildings here. The fire house is small and quaint. The fire house was an old brick building.",
+      "normalized_edited_story_text_sent": [
+        "this little town is very old .",
+        "they have a lot of places with animal names .",
+        "there are n\u0027t that many skyscraper buildings here .",
+        "the fire house is small and quaint .",
+        "the fire house was an old brick building ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the city was very old . there were a lot of signs everywhere. the buildings and signs were all over . they had a big sign on the tall building.",
+      "normalized_edited_story_text_sent": [
+        "the city was very old .",
+        "there were a lot of signs everywhere .",
+        "the buildings and signs were all over .",
+        "they had a big sign on the tall building ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was very old . There was a sign for Bear Lane. There was a small fire station with a fire truck parked inside.",
+      "normalized_edited_story_text_sent": [
+        "the city was very old .",
+        "there was a sign for bear lane .",
+        "there was a small fire station with a fire truck parked inside ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the city was very old . the fire station was in the heart of town. the buildings were all over . they had a big sign . the building was tall .",
+      "normalized_edited_story_text_sent": [
+        "the city was very old .",
+        "the fire station was in the heart of town .",
+        "the buildings were all over .",
+        "they had a big sign .",
+        "the building was tall ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "JOHN SAID TO MARY the city IS very old . there was a lot of graffiti everywhere . the buildings were all over . they had a big sign . the building was tall .",
+      "normalized_edited_story_text_sent": [
+        "[male] said to [female] the city is very old .",
+        "there was a lot of graffiti everywhere .",
+        "the buildings were all over .",
+        "they had a big sign .",
+        "the building was tall ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623619601364",
+  "model": "GLAC"
+}

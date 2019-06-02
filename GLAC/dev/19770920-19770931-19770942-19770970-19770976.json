@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "19770920-19770931-19770942-19770970-19770976",
+  "photo_sequence_ids": [
+    "19770920",
+    "19770931",
+    "19770942",
+    "19770970",
+    "19770976"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was very happy to be at the party . the women were excited about the event . the two men were having a good time . the man was dressed as a black and white . the girls were smiling and having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The man was very happy to be at the party. The women were also excited about the event. The couple were having a good time. The man was dressed as a black and white. The girls were smiling and having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the man was very happy to be at the party .",
+        "the women were also excited about the event .",
+        "the couple were having a good time .",
+        "the man was dressed as a black and white .",
+        "the girls were smiling and having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the guestd were very happy to be at the party . I was excited about the cool costumes . the guests were having a good time . there was a man was dressed as a scratching post . There was a girl dressed as She-Ra having great time .",
+      "normalized_edited_story_text_sent": [
+        "the guestd were very happy to be at the party .",
+        "i was excited about the cool costumes .",
+        "the guests were having a good time .",
+        "there was a man was dressed as a scratching post .",
+        "there was a girl dressed as she-ra having great time ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "every one was very happy to be at the party . all the men and women were having a great time. there was one  man was dressed as a black and white. the girls seemed to like the attention and were smiling and having a great time .",
+      "normalized_edited_story_text_sent": [
+        "every one was very happy to be at the party .",
+        "all the men and women were having a great time .",
+        "there was one man was dressed as a black and white .",
+        "the girls seemed to like the attention and were smiling and having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the lady was very happy to be at the party . the two men were having a good time . the man was dressed as a black and white . the girls were smiling and having a great time . what an evening.",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the party .",
+        "the two men were having a good time .",
+        "the man was dressed as a black and white .",
+        "the girls were smiling and having a great time .",
+        "what an evening ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "i had my costume party on saturday. lots of my friends from work showed up. people had on all sorts of wild costumes. my friend mary won the costume contest. david and maria came in second and third place, respectively.",
+      "normalized_edited_story_text_sent": [
+        "i had my costume party on saturday .",
+        "lots of my friends from work showed up .",
+        "people had on all sorts of wild costumes .",
+        "my friend [female] won the costume contest .",
+        "[male] and [female] came in second and third place , respectively ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "463464",
+  "model": "GLAC"
+}

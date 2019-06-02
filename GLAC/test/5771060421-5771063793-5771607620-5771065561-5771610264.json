@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5771060421-5771063793-5771607620-5771065561-5771610264",
+  "photo_sequence_ids": [
+    "5771060421",
+    "5771063793",
+    "5771607620",
+    "5771065561",
+    "5771610264"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bird was looking at the camera . the goat was in the water . the bird was eating a nut . the little girl was having a great time . the horse was very friendly .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Maria were glad the bird was looking at the camera . the goat was in the water . the bird was eating a nut . the little girl was having a great time . the horse was very friendly .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the bird was looking at the camera .",
+        "the goat was in the water .",
+        "the bird was eating a nut .",
+        "the little girl was having a great time .",
+        "the horse was very friendly ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the birds of prey exhibit was amazing! the birds were so majestic. i got some great shots. i\u0027d definitely recommend it to anyone who was considering going.",
+      "normalized_edited_story_text_sent": [
+        "the birds of prey exhibit was amazing !",
+        "the birds were so majestic .",
+        "i got some great shots .",
+        "i \u0027d definitely recommend it to anyone who was considering going ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "getting to play with a bird was a big thrill. they\u0027re so majestic.",
+      "normalized_edited_story_text_sent": [
+        "getting to play with a bird was a big thrill .",
+        "they \u0027re so majestic ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bird was looking at the camera .A large bird was flying. The man held out his arm for the bird to land on. The owl flew close to the ground.",
+      "normalized_edited_story_text_sent": [
+        "the bird was looking at the camera .",
+        "a large bird was flying .",
+        "the man held out his arm for the bird to land on .",
+        "the owl flew close to the ground ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bird was looking at the camera while the camera was being flashed . the goat was in the water  and ready for any other animals that would attack. the bird was eating a nut and some grass . the little girl was having a great time watching all the animals . the horse was very friendly to the birds on the ranch .",
+      "normalized_edited_story_text_sent": [
+        "the bird was looking at the camera while the camera was being flashed .",
+        "the goat was in the water and ready for any other animals that would attack .",
+        "the bird was eating a nut and some grass .",
+        "the little girl was having a great time watching all the animals .",
+        "the horse was very friendly to the birds on the ranch ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626831653238",
+  "model": "GLAC"
+}

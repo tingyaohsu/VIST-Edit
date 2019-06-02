@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "96047567-96043979-96049783-96050477-96127933",
+  "photo_sequence_ids": [
+    "96047567",
+    "96043979",
+    "96049783",
+    "96050477",
+    "96127933"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . afterward we all went home .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was good . many went there . some good friends were there . i had a blast . afterwards, we left tired .",
+      "normalized_edited_story_text_sent": [
+        "the party was good .",
+        "many went there .",
+        "some good friends were there .",
+        "i had a blast .",
+        "afterwards , we left tired ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The whole gang got together at the house of Lisa to celebrate.  We spent a lot of time in her basement and played video games and table tennis.",
+      "normalized_edited_story_text_sent": [
+        "the whole gang got together at the house of [female] to celebrate .",
+        "we spent a lot of time in her basement and played video games and table tennis ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . Everyone relaxed and enjoyed drinks. The dog had fun to. We played a lot of games.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone relaxed and enjoyed drinks .",
+        "the dog had fun to .",
+        "we played a lot of games ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the party was a lot of fun . all of our friends were there . some of us played video games. I played a game of table tennis with john. i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "all of our friends were there .",
+        "some of us played video games .",
+        "i played a game of table tennis with [male] .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . games were played all night",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "games were played all night"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594059970350",
+  "model": "GLAC"
+}

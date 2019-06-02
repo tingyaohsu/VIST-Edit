@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "358500064-358500797-358502630-358512859-358515855",
+  "photo_sequence_ids": [
+    "358500064",
+    "358500797",
+    "358502630",
+    "358512859",
+    "358515855"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car show was very exciting . there were a lot of classic cars . some of them were huge . they were all very fast . they were also very expensive .",
+  "edited_stories": [
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The car show I was at was very exciting. There were a lot of classic cars. Some of them were huge. They were all very fast and also very expensive.",
+      "normalized_edited_story_text_sent": [
+        "the car show i was at was very exciting .",
+        "there were a lot of classic cars .",
+        "some of them were huge .",
+        "they were all very fast and also very expensive ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "At the car show it was very exciting . there were a lot of classic race cars . a lot of them were huge . all the race car were all very fast . all the race cars were also very expensive .",
+      "normalized_edited_story_text_sent": [
+        "at the car show it was very exciting .",
+        "there were a lot of classic race cars .",
+        "a lot of them were huge .",
+        "all the race car were all very fast .",
+        "all the race cars were also very expensive ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the car show was very exciting . there were a lot of classic cars . they were fancy . they were all very fast . they were also very expensive .",
+      "normalized_edited_story_text_sent": [
+        "the car show was very exciting .",
+        "there were a lot of classic cars .",
+        "they were fancy .",
+        "they were all very fast .",
+        "they were also very expensive ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The car show was incredibly exciting, and there were a lot of classic cars. Some of them were very big, and all of them were expensive and fast.",
+      "normalized_edited_story_text_sent": [
+        "the car show was incredibly exciting , and there were a lot of classic cars .",
+        "some of them were very big , and all of them were expensive and fast ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the race  car show was very exciting and there were a lot of classic cars . some of them were huge . they were all very fast . they were also very expensive .",
+      "normalized_edited_story_text_sent": [
+        "the race car show was very exciting and there were a lot of classic cars .",
+        "some of them were huge .",
+        "they were all very fast .",
+        "they were also very expensive ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594481294190",
+  "model": "GLAC"
+}

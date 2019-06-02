@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "28810629-28810805-28811631-28811330-28811604",
+  "photo_sequence_ids": [
+    "28810629",
+    "28810805",
+    "28811631",
+    "28811330",
+    "28811604"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom were ready to get married . the wedding cake was very elegant . the bride and groom were so happy . the couple was so happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the lovely bride and groom were ready to get married and the wedding cake was very elegant . the bride and groom were so happy . the couple was so happy . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the lovely bride and groom were ready to get married and the wedding cake was very elegant .",
+        "the bride and groom were so happy .",
+        "the couple was so happy .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A7NZ814Q5MX2R",
+      "edited_story_text": "On the day of my sister\u0027s wedding, we hired a woman to come over to do all of the bridesmaid\u0027s hair.  My sister wanted a country look so, rather than bouquets, we carried baskets of flowers. My sister could not stop looking at her engagement ring. My grandmother and great aunt were both able to attend.  As usual, my brothers acted silly during the reception.",
+      "normalized_edited_story_text_sent": [
+        "on the day of my sister \u0027s wedding , we hired a woman to come over to do all of the bridesmaid \u0027s hair .",
+        "my sister wanted a country look so , rather than bouquets , we carried baskets of flowers .",
+        "my sister could not stop looking at her engagement ring .",
+        "my grandmother and great aunt were both able to attend .",
+        "as usual , my brothers acted silly during the reception ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bride and groom were waiting in anticipation . the wedding cake was intricately elegant . the bride and groom were overflowing with joy . the couple was at peak happiness that day  . the entire family was there .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were waiting in anticipation .",
+        "the wedding cake was intricately elegant .",
+        "the bride and groom were overflowing with joy .",
+        "the couple was at peak happiness that day .",
+        "the entire family was there ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "On this day the bride and groom were ready to get married . the cake at the wedding was very elegant . the bride and groom were so happy this day . the couple was so happy to be finally getting married. the whole family was there to mark the occasion.",
+      "normalized_edited_story_text_sent": [
+        "on this day the bride and groom were ready to get married .",
+        "the cake at the wedding was very elegant .",
+        "the bride and groom were so happy this day .",
+        "the couple was so happy to be finally getting married .",
+        "the whole family was there to mark the occasion ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bride and groom were ready to get married. it was a very special day.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were ready to get married .",
+        "it was a very special day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "649437",
+  "model": "GLAC"
+}

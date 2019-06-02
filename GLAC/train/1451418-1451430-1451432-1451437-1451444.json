@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "1451418-1451430-1451432-1451437-1451444",
+  "photo_sequence_ids": [
+    "1451418",
+    "1451430",
+    "1451432",
+    "1451437",
+    "1451444"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was delicious . the menu was very good . the bar was full of people . the food was so good . the dessert was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the food American food was delicious . But the restaurant who\u0027s better because the menu was very good . the store had lots to choose from . the food was so good . the waffles there were way better than at home.",
+      "normalized_edited_story_text_sent": [
+        "the food american food was delicious .",
+        "but the restaurant who \u0027s better because the menu was very good .",
+        "the store had lots to choose from .",
+        "the food was so good .",
+        "the waffles there were way better than at home ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the food was delicious . the menu was very good .",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious .",
+        "the menu was very good ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the waffles were delicious . the syrup was very good . the grocery store was full of people . the food was so good at the store. the dessert was a success .",
+      "normalized_edited_story_text_sent": [
+        "the waffles were delicious .",
+        "the syrup was very good .",
+        "the grocery store was full of people .",
+        "the food was so good at the store .",
+        "the dessert was a success ."
+      ]
+    },
+    {
+      "worker_id": "A2ZDXFFGSPHGBE",
+      "edited_story_text": "the food and dessert were delicious . the menu was very diverse. the bar was full of people . the outing was a success .",
+      "normalized_edited_story_text_sent": [
+        "the food and dessert were delicious .",
+        "the menu was very diverse .",
+        "the bar was full of people .",
+        "the outing was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The frozen food was delicious. The menu was very good and the bar was full of people. There were many kinds of alcohol. The dessert was a success.",
+      "normalized_edited_story_text_sent": [
+        "the frozen food was delicious .",
+        "the menu was very good and the bar was full of people .",
+        "there were many kinds of alcohol .",
+        "the dessert was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "37058",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4265299729-4265285701-4266034212-4265296779-4266041242",
+  "photo_sequence_ids": [
+    "4265299729",
+    "4265285701",
+    "4266034212",
+    "4265296779",
+    "4266041242"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2754/4265299729_12e247cd18_o.jpg",
+    "https://farm5.staticflickr.com/4029/4265285701_9f99d199fe_o.jpg",
+    "https://farm5.staticflickr.com/4032/4266034212_16eb3dc13c_o.jpg",
+    "https://farm5.staticflickr.com/4046/4265296779_3089e22580_o.jpg",
+    "https://farm5.staticflickr.com/4057/4266041242_f978f79e77_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . the mountains were covered in snow . it was very cold outside . the trees were covered in snow . it was a beautiful day and we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "this is a picture of a the ski mountain lodge we stayed at. the surrounding mountains were covered in snow. it was very cold outside. the trees were covered in snow. it was a beautiful day and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a the ski mountain lodge we stayed at .",
+        "the surrounding mountains were covered in snow .",
+        "it was very cold outside .",
+        "the trees were covered in snow .",
+        "it was a beautiful day and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "this is a picture of a house . the mountains were covered in snow . it was very cold outside . the trees were covered in snow . it was a beautiful day and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house .",
+        "the mountains were covered in snow .",
+        "it was very cold outside .",
+        "the trees were covered in snow .",
+        "it was a beautiful day and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a building . the mountains were covered in snow and it was very cold outside .Everything was covered in snow . it was a beautiful day and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "the mountains were covered in snow and it was very cold outside .",
+        "everything was covered in snow .",
+        "it was a beautiful day and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s the building where we stayed. The mountains were covered with snow, and it was very cold outside. The trees were covered with snow too. It was a beautiful day, and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s the building where we stayed .",
+        "the mountains were covered with snow , and it was very cold outside .",
+        "the trees were covered with snow too .",
+        "it was a beautiful day , and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a building. The mountains were covered in snow. It was very cold outside. Everything was covered in the snow.  The stone bridge is over a semi frozen lake in the picture.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "the mountains were covered in snow .",
+        "it was very cold outside .",
+        "everything was covered in the snow .",
+        "the stone bridge is over a semi frozen lake in the picture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623063255669"
+}

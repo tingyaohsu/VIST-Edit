@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "8460056-8460062-8460089-8460279-8460328",
+  "photo_sequence_ids": [
+    "8460056",
+    "8460062",
+    "8460089",
+    "8460279",
+    "8460328"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/7/8460056_7ec262018c_o.jpg",
+    "https://farm1.staticflickr.com/8/8460062_38499ce701_o.jpg",
+    "https://farm1.staticflickr.com/4/8460089_b0b150001a_o.jpg",
+    "https://farm1.staticflickr.com/5/8460279_39319870f5_o.jpg",
+    "https://farm1.staticflickr.com/6/8460328_a7207129a3_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went on a trip to the lake . the kids had a lot of fun on the water . we took a lot of pictures of the water . we had a great time . it was a great day for a walk on the river .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the family went on a trip to the lake . the kids had lots of fun on the water . we took many of pictures of the water . we had a great time . it was a great day for a walk on the river .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the lake .",
+        "the kids had lots of fun on the water .",
+        "we took many of pictures of the water .",
+        "we had a great time .",
+        "it was a great day for a walk on the river ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "Our family went on a trip to the lake. The kids got into a boat and had fun on the water. We spent a lot of time near the water taking pictures. We took pictures together on the boat with silly poses. It was a great day for a trip to the lake.",
+      "normalized_edited_story_text_sent": [
+        "our family went on a trip to the lake .",
+        "the kids got into a boat and had fun on the water .",
+        "we spent a lot of time near the water taking pictures .",
+        "we took pictures together on the boat with silly poses .",
+        "it was a great day for a trip to the lake ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the family went on a trip to the river . the kids had a lot of fun on the water . we took many photos of the water . we had a great time . it was a wonderful day for a walk on the river .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the river .",
+        "the kids had a lot of fun on the water .",
+        "we took many photos of the water .",
+        "we had a great time .",
+        "it was a wonderful day for a walk on the river ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the family went on a trip to the lake together nearby . the kids had a lot of fun on the water . they took a lot of pictures of the water . the family had a great time . it was a great day for a walk on the river for them.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the lake together nearby .",
+        "the kids had a lot of fun on the water .",
+        "they took a lot of pictures of the water .",
+        "the family had a great time .",
+        "it was a great day for a walk on the river for them ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "we went to the lake today . we took a boat ride down the lazy river with other guests. the kids walk across a wooden plank. [Sam] took a photo with his dad on the boat  .we traveled underneath an arch. we had a wonderful day.",
+      "normalized_edited_story_text_sent": [
+        "we went to the lake today .",
+        "we took a boat ride down the lazy river with other guests .",
+        "the kids walk across a wooden plank .",
+        "[male] took a photo with his dad on the boat .",
+        "we traveled underneath an arch .",
+        "we had a wonderful day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "210164"
+}

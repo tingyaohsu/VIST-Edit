@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "9524831628-9522210997-9522283655-9525161014-9525603920",
+  "photo_sequence_ids": [
+    "9524831628",
+    "9522210997",
+    "9522283655",
+    "9525161014",
+    "9525603920"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7356/9524831628_6cc99091a8_o.jpg",
+    "https://farm8.staticflickr.com/7374/9522210997_8bab0c8d90_o.jpg",
+    "https://farm8.staticflickr.com/7310/9522283655_765d688ac6_o.jpg",
+    "https://farm4.staticflickr.com/3813/9525161014_ab4f2c9f4c_o.jpg",
+    "https://farm4.staticflickr.com/3738/9525603920_4543e94c01_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the cemetery yesterday . there was a sign that gave us a great speech . they had a lot of information about the history of the world . they were very happy to be there . there were a lot of interesting things to see .",
+  "edited_stories": [
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "I went to the museum yesterday. There was a sign that explained the exhibit. They had a lot of information about the history of the world. We were very happy to be there. There were a lot of interesting things to see.",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum yesterday .",
+        "there was a sign that explained the exhibit .",
+        "they had a lot of information about the history of the world .",
+        "we were very happy to be there .",
+        "there were a lot of interesting things to see ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i went to the cemetery yesterday . there was a sign that gave us a extraordinary speech. they had a more information about the history of the world . they were very glad to be there . there were a great deal of interesting things to see .",
+      "normalized_edited_story_text_sent": [
+        "i went to the cemetery yesterday .",
+        "there was a sign that gave us a extraordinary speech .",
+        "they had a more information about the history of the world .",
+        "they were very glad to be there .",
+        "there were a great deal of interesting things to see ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the cemetery yesterday and stop by the library  . the sign that was on display was pretty informative . some of the world\u0027s history was in full view . they were very happy to be there among the portraits . it was interesting to see many things, including the upcoming programs.",
+      "normalized_edited_story_text_sent": [
+        "i went to the cemetery yesterday and stop by the library .",
+        "the sign that was on display was pretty informative .",
+        "some of the world \u0027s history was in full view .",
+        "they were very happy to be there among the portraits .",
+        "it was interesting to see many things , including the upcoming programs ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the museum yesterday . there was a sign that showed a great speech . they had a lot of information about the history of the world . they were excited to be there . there were a lot of fascinating things to see .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum yesterday .",
+        "there was a sign that showed a great speech .",
+        "they had a lot of information about the history of the world .",
+        "they were excited to be there .",
+        "there were a lot of fascinating things to see ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "i went to the museum yesterday . there was a sign that gave us information  . they had a lot of information about the history of the world . we were very happy to be there . there were a lot of interesting things to see .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum yesterday .",
+        "there was a sign that gave us information .",
+        "they had a lot of information about the history of the world .",
+        "we were very happy to be there .",
+        "there were a lot of interesting things to see ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157635093336633"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "7481530624-7481530116-7481529900-7481531794-7481534268",
+  "photo_sequence_ids": [
+    "7481530624",
+    "7481530116",
+    "7481529900",
+    "7481531794",
+    "7481534268"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the art gallery was very creative . there were some amazing pieces . the paintings were also detailed . the artwork was interesting . the artwork was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3L60SOWLYEDN2",
+      "edited_story_text": "the art gallery was very creative . there were some amazing pieces . the paintings were very detailed . the artwork was interesting . the artwork was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very creative .",
+        "there were some amazing pieces .",
+        "the paintings were very detailed .",
+        "the artwork was interesting .",
+        "the artwork was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the military museum was very creative . there were some amazing pieces about Lincoln\u0027s funeral . the many paintings were also detailed and interesting to look at . the displays were interesting as well . the artwork was amazing worth seeing .",
+      "normalized_edited_story_text_sent": [
+        "the military museum was very creative .",
+        "there were some amazing pieces about lincoln \u0027s funeral .",
+        "the many paintings were also detailed and interesting to look at .",
+        "the displays were interesting as well .",
+        "the artwork was amazing worth seeing ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the museum was very interesting . there were some amazing pieces . the pieces were labelled. the artifacts were from a funeral. the book stack was cool .",
+      "normalized_edited_story_text_sent": [
+        "the museum was very interesting .",
+        "there were some amazing pieces .",
+        "the pieces were labelled .",
+        "the artifacts were from a funeral .",
+        "the book stack was cool ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the art gallery was very creative for having the flag . there were some amazing pieces at the exhibit . the paintings were also detailed and well drawn. the artwork was interesting and had a great theme . the artwork was amazing and the artists should be proud .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very creative for having the flag .",
+        "there were some amazing pieces at the exhibit .",
+        "the paintings were also detailed and well drawn .",
+        "the artwork was interesting and had a great theme .",
+        "the artwork was amazing and the artists should be proud ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the art gallery was very creative . there were some amazing pieces .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very creative .",
+        "there were some amazing pieces ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630375999852",
+  "model": "GLAC"
+}

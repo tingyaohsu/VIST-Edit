@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4235249082-4235249212-4235250164-4234475317-4234475437",
+  "photo_sequence_ids": [
+    "4235249082",
+    "4235249212",
+    "4235250164",
+    "4234475317",
+    "4234475437"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the boat was going to be a great day . the family was excited to see the city . the flowers were beautiful . the artwork was amazing . the signs were very interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the boat was pulling out into the open water. The cruise had begun . the family was excited to see the city . the flowers were beautiful . the artwork was amazing . the signs were very interesting .",
+      "normalized_edited_story_text_sent": [
+        "the boat was pulling out into the open water .",
+        "the cruise had begun .",
+        "the family was excited to see the city .",
+        "the flowers were beautiful .",
+        "the artwork was amazing .",
+        "the signs were very interesting ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the boat is the biggest I have ever saw, it was going to be a great day . the family was excited to get to visit a new city . This christmas tree was very pretty, the flowers were beautiful . the artwork on this light fixture was amazing it was like a sculpture . the signs were very interesting in the windows of the office building .",
+      "normalized_edited_story_text_sent": [
+        "the boat is the biggest i have ever saw , it was going to be a great day .",
+        "the family was excited to get to visit a new city .",
+        "this christmas tree was very pretty , the flowers were beautiful .",
+        "the artwork on this light fixture was amazing it was like a sculpture .",
+        "the signs were very interesting in the windows of the office building ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the ship looked majestic up close. then from a distance it looked a little small. The visit to this beautiful little town was a lot of fun. The plant was decorated beautifully with pink feathers. the lamps outside the stores looked very antique. . the family was excited to see the city .  the store signs were very interesting .",
+      "normalized_edited_story_text_sent": [
+        "the ship looked majestic up close .",
+        "then from a distance it looked a little small .",
+        "the visit to this beautiful little town was a lot of fun .",
+        "the plant was decorated beautifully with pink feathers .",
+        "the lamps outside the stores looked very antique .",
+        "the family was excited to see the city .",
+        "the store signs were very interesting ."
+      ]
+    },
+    {
+      "worker_id": "A2RLL9U1JBY31Q",
+      "edited_story_text": "The boat was going to be a great day . The family was excited to see the ocean. The flowers were beautiful . The artwork was amazing. The signs were very interesting.",
+      "normalized_edited_story_text_sent": [
+        "the boat was going to be a great day .",
+        "the family was excited to see the ocean .",
+        "the flowers were beautiful .",
+        "the artwork was amazing .",
+        "the signs were very interesting ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "it was going to be a great day riding on the boat . the family was excited to see the city . the flowers were beautiful . the artwork was amazing . the signs were very interesting .",
+      "normalized_edited_story_text_sent": [
+        "it was going to be a great day riding on the boat .",
+        "the family was excited to see the city .",
+        "the flowers were beautiful .",
+        "the artwork was amazing .",
+        "the signs were very interesting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622991639957",
+  "model": "GLAC"
+}

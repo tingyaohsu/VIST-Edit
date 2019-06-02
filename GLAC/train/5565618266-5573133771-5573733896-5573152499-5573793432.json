@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5565618266-5573133771-5573733896-5573152499-5573793432",
+  "photo_sequence_ids": [
+    "5565618266",
+    "5573133771",
+    "5573733896",
+    "5573152499",
+    "5573793432"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization organization was a big hit . the fans were excited . the game was about to begin . the players were ready for the game . the team was very close .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The organization was a big hit. The fans were excited for the game that was about to begin, and the team was very close, too. The players were completely ready, too.",
+      "normalized_edited_story_text_sent": [
+        "the organization was a big hit .",
+        "the fans were excited for the game that was about to begin , and the team was very close , too .",
+        "the players were completely ready , too ."
+      ]
+    },
+    {
+      "worker_id": "A2I5GJ7APIHHOR",
+      "edited_story_text": "The NCAA organization\u0027s basketball tournament was a big hit. The fans were incredibly excited, and the game was about to begin. The players were ready for the game, and shook hands. The team was very close, but eventually one team won and cut down the basketball nets.",
+      "normalized_edited_story_text_sent": [
+        "the ncaa organization \u0027s basketball tournament was a big hit .",
+        "the fans were incredibly excited , and the game was about to begin .",
+        "the players were ready for the game , and shook hands .",
+        "the team was very close , but eventually one team won and cut down the basketball nets ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the organization and basketball game was a big hit . the fans were excited that there favorite players were there. the game was about to begin as the crowd stood . the players were ready for the game and to show there skills . the team was very close but the blue team won in the end .",
+      "normalized_edited_story_text_sent": [
+        "the organization and basketball game was a big hit .",
+        "the fans were excited that there favorite players were there .",
+        "the game was about to begin as the crowd stood .",
+        "the players were ready for the game and to show there skills .",
+        "the team was very close but the blue team won in the end ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the organization was a big hit . the fans were excited . the basketball game was about to begin . the players played hard . the team was very close .",
+      "normalized_edited_story_text_sent": [
+        "the organization was a big hit .",
+        "the fans were excited .",
+        "the basketball game was about to begin .",
+        "the players played hard .",
+        "the team was very close ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the organization of the basketball game was a big hit . the fans were excited. out team was the best. we won the game. we had so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the organization of the basketball game was a big hit .",
+        "the fans were excited .",
+        "out team was the best .",
+        "we won the game .",
+        "we had so much fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626367932082",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5581583790-5581584586-5581585228-5581000847-5581000601",
+  "photo_sequence_ids": [
+    "5581583790",
+    "5581584586",
+    "5581585228",
+    "5581000847",
+    "5581000601"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the concert . the band was playing . the man was making a speech . the boy was enjoying the show . the fireworks were great .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd was ready for the conference. a lot of big speakers were there",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the conference .",
+        "a lot of big speakers were there"
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "a crowd gathered for tonight\u0027s concert.  one man made a speech before the band played.  the boy enjoyed the concert.  afterwards there was a great fireworks display.",
+      "normalized_edited_story_text_sent": [
+        "a crowd gathered for tonight \u0027s concert .",
+        "one man made a speech before the band played .",
+        "the boy enjoyed the concert .",
+        "afterwards there was a great fireworks display ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the crowd was ready for the speaker. the woman was starting to talk . the man was making a speech . the boy was enjoying a snack. the conference was great .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the speaker .",
+        "the woman was starting to talk .",
+        "the man was making a speech .",
+        "the boy was enjoying a snack .",
+        "the conference was great ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the crowd was ready for the concert to start . the band was playing on of their old songs . the man was making a speech about how the band started . the boy was enjoying the show and singing along. the fireworks were great to cap off the night.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the concert to start .",
+        "the band was playing on of their old songs .",
+        "the man was making a speech about how the band started .",
+        "the boy was enjoying the show and singing along .",
+        "the fireworks were great to cap off the night ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the crowd was ready for some solid listening . the speaker was speaking . then, a man made another speech . a boy was enjoying the lectures . the fireworks of ideas were great .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for some solid listening .",
+        "the speaker was speaking .",
+        "then , a man made another speech .",
+        "a boy was enjoying the lectures .",
+        "the fireworks of ideas were great ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626285246453",
+  "model": "GLAC"
+}

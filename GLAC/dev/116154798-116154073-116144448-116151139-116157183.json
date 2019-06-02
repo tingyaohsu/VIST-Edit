@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "116154798-116154073-116144448-116151139-116157183",
+  "photo_sequence_ids": [
+    "116154798",
+    "116154073",
+    "116144448",
+    "116151139",
+    "116157183"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was covered in snow . the man was playing with the dog . the bird was watching the birds . the sun was setting . the church was lit up at night .",
+  "edited_stories": [
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The car was not covered in snow.  The people were gathered around looking at the ground. The kite was flying and  the sun was setting . the church was lit up at night .",
+      "normalized_edited_story_text_sent": [
+        "the car was not covered in snow .",
+        "the people were gathered around looking at the ground .",
+        "the kite was flying and the sun was setting .",
+        "the church was lit up at night ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the car was covered in some rain . the man was playing with the dog at the park we went to . the bird was watching the other birds sing and fly . the sun was setting to the west . the church would be lit up at night but we didn\u0027t get to see cause it was day time.",
+      "normalized_edited_story_text_sent": [
+        "the car was covered in some rain .",
+        "the man was playing with the dog at the park we went to .",
+        "the bird was watching the other birds sing and fly .",
+        "the sun was setting to the west .",
+        "the church would be lit up at night but we did n\u0027t get to see cause it was day time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the car had a funny plate .We saw a really cool dragon kite. the sun was setting . the church was lit up at night and was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the car had a funny plate .",
+        "we saw a really cool dragon kite .",
+        "the sun was setting .",
+        "the church was lit up at night and was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the car had bumper stickers . the people looked at the cement. they flew kites . the sun was setting . the church was large .",
+      "normalized_edited_story_text_sent": [
+        "the car had bumper stickers .",
+        "the people looked at the cement .",
+        "they flew kites .",
+        "the sun was setting .",
+        "the church was large ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "My car was covered in snow. Dave was playing with the dog. The kite was flying above the birds . Thee sun was setting behind the clouds . The church was lit up at night .",
+      "normalized_edited_story_text_sent": [
+        "my car was covered in snow .",
+        "dave was playing with the dog .",
+        "the kite was flying above the birds .",
+        "thee sun was setting behind the clouds .",
+        "the church was lit up at night ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594087766263",
+  "model": "GLAC"
+}

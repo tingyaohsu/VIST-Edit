@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4235249212-4234474743-4235250164-4235250692-4235251634",
+  "photo_sequence_ids": [
+    "4235249212",
+    "4234474743",
+    "4235250164",
+    "4235250692",
+    "4235251634"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they walked around the park . they saw some beautiful flowers . they also had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The family went to the beach, and  then walked around the park. They saw some really pretty flowers and had a lot of fun. It was a great time for them.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach , and then walked around the park .",
+        "they saw some really pretty flowers and had a lot of fun .",
+        "it was a great time for them ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went to the beach . they walked around the park . they saw some beautiful flowers . they also had a lot of fun . they loved the scene .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they walked around the park .",
+        "they saw some beautiful flowers .",
+        "they also had a lot of fun .",
+        "they loved the scene ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went to the big beach . they walked around the park . they saw some pretty flowers . they also had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the big beach .",
+        "they walked around the park .",
+        "they saw some pretty flowers .",
+        "they also had a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "we went to a beach. we stayed in a white house with beautiful flowers on the porch.  we road bikes and went to a gathering of people.",
+      "normalized_edited_story_text_sent": [
+        "we went to a beach .",
+        "we stayed in a white house with beautiful flowers on the porch .",
+        "we road bikes and went to a gathering of people ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Adam\u0027s family went to the beach for the weekend. Adam\u0027s kids walked around the park . Adam and his wife Sara saw some beautiful red flowers . the family also had a lot of fun riding bikes . Adam\u0027s family had a great time .",
+      "normalized_edited_story_text_sent": [
+        "adam \u0027s family went to the beach for the weekend .",
+        "adam \u0027s kids walked around the park .",
+        "adam and his wife sara saw some beautiful red flowers .",
+        "the family also had a lot of fun riding bikes .",
+        "adam \u0027s family had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622991639957",
+  "model": "GLAC"
+}

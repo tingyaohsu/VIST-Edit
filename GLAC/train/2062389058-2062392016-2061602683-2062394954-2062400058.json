@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "2062389058-2062392016-2061602683-2062394954-2062400058",
+  "photo_sequence_ids": [
+    "2062389058",
+    "2062392016",
+    "2061602683",
+    "2062394954",
+    "2062400058"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to graduate . the principal gave a speech . the graduates were very proud . the graduates were so happy . the family was so proud of their accomplishments .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the students were excited to graduate . the principal gave a speech . the graduates were very proud of their diplomas . the family was so proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "the principal gave a speech .",
+        "the graduates were very proud of their diplomas .",
+        "the family was so proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "All the students were excited to graduate. First, the principal gave a speech, the graduates were very proud and happy. their families were so proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "all the students were excited to graduate .",
+        "first , the principal gave a speech , the graduates were very proud and happy .",
+        "their families were so proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "this evening the students were excited to graduate . the principal gave a great speech . All graduates were very proud of them selves . parents of the graduates were so happy to . All the family\u0027s  are so proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "this evening the students were excited to graduate .",
+        "the principal gave a great speech .",
+        "all graduates were very proud of them selves .",
+        "parents of the graduates were so happy to .",
+        "all the family \u0027s are so proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The large group of students were excited to graduate. The principal gave a speech that the graduates were very proud of. The graduates were so happy and the families were so proud of their accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "the large group of students were excited to graduate .",
+        "the principal gave a speech that the graduates were very proud of .",
+        "the graduates were so happy and the families were so proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the students were excited to graduate . the principal gave a rousing speech . the graduates were so proud and happy . the family was also  proud. their accomplishments were showcased.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "the principal gave a rousing speech .",
+        "the graduates were so proud and happy .",
+        "the family was also proud .",
+        "their accomplishments were showcased ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601271054577",
+  "model": "GLAC"
+}

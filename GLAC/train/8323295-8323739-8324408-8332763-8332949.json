@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "8323295-8323739-8324408-8332763-8332949",
+  "photo_sequence_ids": [
+    "8323295",
+    "8323739",
+    "8324408",
+    "8332763",
+    "8332949"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people there . some of them were very creative . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the city was really busy today. it seemed like everyone had somewhere to be in a hurry, especially the guy with the arm chair on his head! i loved the hustle and bustle, but I\u0027m happy to be home now.",
+      "normalized_edited_story_text_sent": [
+        "the city was really busy today .",
+        "it seemed like everyone had somewhere to be in a hurry , especially the guy with the arm chair on his head !",
+        "i loved the hustle and bustle , but i \u0027m happy to be home now ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . There were people everywhere and cops looked on. Some people were carrying furniture. The streets were crowded.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were people everywhere and cops looked on .",
+        "some people were carrying furniture .",
+        "the streets were crowded ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . there were so many people there .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people there ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the parade was a lot of fun . there were so many people there . some of them were riding bikes . i had a great time . the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people there .",
+        "some of them were riding bikes .",
+        "i had a great time .",
+        "the winner was very good ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the festival was crowded . a police officer guarded the street . some of the people walked with their bike . one guy carried a chair on his head . everyone walked in the same direction down the street.",
+      "normalized_edited_story_text_sent": [
+        "the festival was crowded .",
+        "a police officer guarded the street .",
+        "some of the people walked with their bike .",
+        "one guy carried a chair on his head .",
+        "everyone walked in the same direction down the street ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "208690",
+  "model": "GLAC"
+}

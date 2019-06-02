@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "60461831-60461920-60462302-60462630-60462951",
+  "photo_sequence_ids": [
+    "60461831",
+    "60461920",
+    "60462302",
+    "60462630",
+    "60462951"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were crowded with people . the runners were getting ready for the race . the runners were off ! the crowd was very excited . the race was about to begin .",
+  "edited_stories": [
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The streets were crowded with people, the runners were getting ready for the race , the runners were off ! the crowd was very excited . It was a sunny day.",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people , the runners were getting ready for the race , the runners were off !",
+        "the crowd was very excited .",
+        "it was a sunny day ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the streets were crowded with people for the race that morning . the runners were getting ready for the race and were a few minutes away . the runners were off ! the crowd was very excited to see who won the race. the race was about to begin once the horn went off .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people for the race that morning .",
+        "the runners were getting ready for the race and were a few minutes away .",
+        "the runners were off !",
+        "the crowd was very excited to see who won the race .",
+        "the race was about to begin once the horn went off ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the sidewalks were crowded with bystanders ready to cheer . the runners were getting ready for the marathon . the runners were off ! the crowd was very excited . all the runners did their best .",
+      "normalized_edited_story_text_sent": [
+        "the sidewalks were crowded with bystanders ready to cheer .",
+        "the runners were getting ready for the marathon .",
+        "the runners were off !",
+        "the crowd was very excited .",
+        "all the runners did their best ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the streets were teeming with people . runners were getting ready to take off . the runners got set and went ! the crowd was bubbling . the race had begun .",
+      "normalized_edited_story_text_sent": [
+        "the streets were teeming with people .",
+        "runners were getting ready to take off .",
+        "the runners got set and went !",
+        "the crowd was bubbling .",
+        "the race had begun ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the streets were crowded with people . the runners were getting ready for the race . the runners were off ! the crowd was very excited . the race was underway .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the runners were getting ready for the race .",
+        "the runners were off !",
+        "the crowd was very excited .",
+        "the race was underway ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1306323",
+  "model": "GLAC"
+}

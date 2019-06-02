@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "130615762-130615807-130615840-130615952-130616009",
+  "photo_sequence_ids": [
+    "130615762",
+    "130615807",
+    "130615840",
+    "130615952",
+    "130616009"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was gathered for the wedding . the bride and groom were excited . the children were so happy . the father was ready to make the cake . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family was gathered for the wedding shower.  . the children played outside in the sand . the men got the food ready . the women were opening presents. .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the wedding shower .",
+        "the children played outside in the sand .",
+        "the men got the food ready .",
+        "the women were opening presents ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the family was gathered for the BABY SHOWER . the PARENTS-TO-BE were excited . the children LOVED PARTICIPATING IN THE GAMES . EVERYONE HAD BROUGHT REALLY WONDERFUL GIFTS . the whole family HAD A GREAT TIME .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the baby shower .",
+        "the parents-to-be were excited .",
+        "the children loved participating in the games .",
+        "everyone had brought really wonderful gifts .",
+        "the whole family had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was gathered for the wedding to start at two . the bride and groom were excited that everyone invited came to the wedding. the children were so happy they got to see each other again. the father was ready to make the cake but had to wait . the whole family was there to help.",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the wedding to start at two .",
+        "the bride and groom were excited that everyone invited came to the wedding .",
+        "the children were so happy they got to see each other again .",
+        "the father was ready to make the cake but had to wait .",
+        "the whole family was there to help ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was gathered for the big wedding . the bride and groom were elated. the children were super happy . the father was ready to make the yummy cake . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the big wedding .",
+        "the bride and groom were elated .",
+        "the children were super happy .",
+        "the father was ready to make the yummy cake .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the whole family was gathered together.  children played in the sandbox.  the family sat around the table visiting.",
+      "normalized_edited_story_text_sent": [
+        "the whole family was gathered together .",
+        "children played in the sandbox .",
+        "the family sat around the table visiting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594110155809",
+  "model": "GLAC"
+}

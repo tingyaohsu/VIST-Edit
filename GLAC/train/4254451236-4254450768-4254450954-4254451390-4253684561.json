@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4254451236-4254450768-4254450954-4254451390-4253684561",
+  "photo_sequence_ids": [
+    "4254451236",
+    "4254450768",
+    "4254450954",
+    "4254451390",
+    "4253684561"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . they saw a lot of interesting things . they also saw some beautiful flowers . they even had a pond . the park was full of lots of plants .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the man went to the garden in a park where he saw a lot of interesting things. he also saw some beautiful flowers. there was even a pond. the park was full of lots of plants .",
+      "normalized_edited_story_text_sent": [
+        "the man went to the garden in a park where he saw a lot of interesting things .",
+        "he also saw some beautiful flowers .",
+        "there was even a pond .",
+        "the park was full of lots of plants ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went to the gardens.  The flowers were beautiful. There was a large pond.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the gardens .",
+        "the flowers were beautiful .",
+        "there was a large pond ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "We went to the zoo. In the garden, there were some really beautiful flowers, and a pond. The park was full of lots of plant varieties.",
+      "normalized_edited_story_text_sent": [
+        "we went to the zoo .",
+        "in the garden , there were some really beautiful flowers , and a pond .",
+        "the park was full of lots of plant varieties ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the family went to the zoo before they came to this garden . they saw a lot of interesting things including the colorful flowers . they also saw some beautiful flowers and this pretty church . they even had a pond, but I don\u0027t think there were fish in it . the park was full of lots of plants, we picked some before we left.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo before they came to this garden .",
+        "they saw a lot of interesting things including the colorful flowers .",
+        "they also saw some beautiful flowers and this pretty church .",
+        "they even had a pond , but i do n\u0027t think there were fish in it .",
+        "the park was full of lots of plants , we picked some before we left ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the family went to the garden. we saw a lot of interesting things . we also saw some beautiful flowers . we even saw a maze. the garden was full of lots of plants .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the garden .",
+        "we saw a lot of interesting things .",
+        "we also saw some beautiful flowers .",
+        "we even saw a maze .",
+        "the garden was full of lots of plants ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623160153286",
+  "model": "GLAC"
+}

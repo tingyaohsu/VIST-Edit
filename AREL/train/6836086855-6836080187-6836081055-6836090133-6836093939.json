@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6836086855-6836080187-6836081055-6836090133-6836093939",
+  "photo_sequence_ids": [
+    "6836086855",
+    "6836080187",
+    "6836081055",
+    "6836090133",
+    "6836093939"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7156/6836086855_2c230c9aab_o.jpg",
+    "https://farm8.staticflickr.com/7170/6836080187_55580fe23e_o.jpg",
+    "https://farm8.staticflickr.com/7143/6836081055_39a6e92bd6_o.jpg",
+    "https://farm8.staticflickr.com/7175/6836090133_08a02dba7e_o.jpg",
+    "https://farm8.staticflickr.com/7175/6836093939_a9443d542f_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends got together for a meeting . they were all ready to go . some of the students were very happy to be there . they were very happy to be there . the group poses for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "Yesterday we went to a tribute meeting. There was a tree ceremony we all participated in . The group also presented a book .  We placed flowers and we so happy to be there .  the group took a picture overlooking the tribute. It was a good day.",
+      "normalized_edited_story_text_sent": [
+        "yesterday we went to a tribute meeting .",
+        "there was a tree ceremony we all participated in .",
+        "the group also presented a book .",
+        "we placed flowers and we so happy to be there .",
+        "the group took a picture overlooking the tribute .",
+        "it was a good day ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "a group of friends get together for a meeting . they are all ready to go . some of the students are very happy to be there . they are very happy to be there . the group is poses for a picture .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends get together for a meeting .",
+        "they are all ready to go .",
+        "some of the students are very happy to be there .",
+        "they are very happy to be there .",
+        "the group is poses for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "a group of friends got together for a meeting. they were all ready to go. some of the students were very happy to be there. the whole group posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a meeting .",
+        "they were all ready to go .",
+        "some of the students were very happy to be there .",
+        "the whole group posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "A group of people got together for a special event. They went outside and planted a tree. A man gave a speech to the crowd around him. Some people laid down wreaths at a memorial. The group posed for a photo.",
+      "normalized_edited_story_text_sent": [
+        "a group of people got together for a special event .",
+        "they went outside and planted a tree .",
+        "a man gave a speech to the crowd around him .",
+        "some people laid down wreaths at a memorial .",
+        "the group posed for a photo ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "a group of friends got together for a meeting . they were all ready to go . some of the students were very happy to be there because they could discuss policy . Some of the friends looked out into the distance to appreciate the view.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends got together for a meeting .",
+        "they were all ready to go .",
+        "some of the students were very happy to be there because they could discuss policy .",
+        "some of the friends looked out into the distance to appreciate the view ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629216448839"
+}

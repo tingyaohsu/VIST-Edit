@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "380615062-380617699-373643243-374513482-378393135",
+  "photo_sequence_ids": [
+    "380615062",
+    "380617699",
+    "373643243",
+    "374513482",
+    "378393135"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/157/380615062_3729c35f32_o.jpg",
+    "https://farm1.staticflickr.com/133/380617699_65c396ae13_o.jpg",
+    "https://farm1.staticflickr.com/132/373643243_3e770d6f02_o.jpg",
+    "https://farm1.staticflickr.com/170/374513482_5ce4316541_o.jpg",
+    "https://farm1.staticflickr.com/182/378393135_5c2f1a3d5a_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a tree . we saw a lot of beautiful trees . there was a lot of interesting things there . the water was very calm . i saw a lot of interesting sculptures .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to the park. It was really foggy at first. There was a pool of mud. The bridge was covered in fog. When it cleared up, we saw a lot of interesting sculptures.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park .",
+        "it was really foggy at first .",
+        "there was a pool of mud .",
+        "the bridge was covered in fog .",
+        "when it cleared up , we saw a lot of interesting sculptures ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went on a walk in the park and saw some beautiful old trees. there are lots of cool things to see out in nature. there are also a lot of interesting sculptures on the grounds.",
+      "normalized_edited_story_text_sent": [
+        "we went on a walk in the park and saw some beautiful old trees .",
+        "there are lots of cool things to see out in nature .",
+        "there are also a lot of interesting sculptures on the grounds ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We saw a lot of beautiful trees on our trip to the park. There was a lot of interesting things there. The water was very calm. We saw a mud pool and a lot of interesting sculptures .",
+      "normalized_edited_story_text_sent": [
+        "we saw a lot of beautiful trees on our trip to the park .",
+        "there was a lot of interesting things there .",
+        "the water was very calm .",
+        "we saw a mud pool and a lot of interesting sculptures ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "We took this picture of a tree on our trip. We saw a lot of beautiful trees there. In fact, there were a lot of interesting things on our trip to the lake. The water was very calm on the lake. I saw some interesting sculptures during our hike.",
+      "normalized_edited_story_text_sent": [
+        "we took this picture of a tree on our trip .",
+        "we saw a lot of beautiful trees there .",
+        "in fact , there were a lot of interesting things on our trip to the lake .",
+        "the water was very calm on the lake .",
+        "i saw some interesting sculptures during our hike ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "I took this picture of a tree, we saw many beautiful trees. There was a lot of interesting things along the hike there . The water was very calm, and I even saw a lot of interesting sculptures .",
+      "normalized_edited_story_text_sent": [
+        "i took this picture of a tree , we saw many beautiful trees .",
+        "there was a lot of interesting things along the hike there .",
+        "the water was very calm , and i even saw a lot of interesting sculptures ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600060241193"
+}

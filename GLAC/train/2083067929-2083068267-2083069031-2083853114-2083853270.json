@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "2083067929-2083068267-2083069031-2083853114-2083853270",
+  "photo_sequence_ids": [
+    "2083067929",
+    "2083068267",
+    "2083069031",
+    "2083853114",
+    "2083853270"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was a beautiful sight . the stained glass windows were amazing . the statues were so ornate . the architecture was stunning . the city was truly gorgeous .",
+  "edited_stories": [
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the church was a beautiful sight. the stained glass windows were amazing. the statues were really unusual and sometimes quite humorous. We saw people in traditional dress going about their daily lives. the city was truly gorgeous .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight .",
+        "the stained glass windows were amazing .",
+        "the statues were really unusual and sometimes quite humorous .",
+        "we saw people in traditional dress going about their daily lives .",
+        "the city was truly gorgeous ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the church was a beautiful sight to behold . the stained glass windows were very detailed . the statues were so ornate . the architecture was stunning . the city was truly gorgeous from top to bottom . we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight to behold .",
+        "the stained glass windows were very detailed .",
+        "the statues were so ornate .",
+        "the architecture was stunning .",
+        "the city was truly gorgeous from top to bottom .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the church was a beautiful sight . the stained glass windows and entry door were amazing . We saw a cool statue . the architecture was stunning . The food was great and at night it was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight .",
+        "the stained glass windows and entry door were amazing .",
+        "we saw a cool statue .",
+        "the architecture was stunning .",
+        "the food was great and at night it was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The church was very beautiful; it had stunning architecture. The stained glass windows were amazing, and the statues were very ornate!  The city was really just--it was truly gorgeous .",
+      "normalized_edited_story_text_sent": [
+        "the church was very beautiful ; it had stunning architecture .",
+        "the stained glass windows were amazing , and the statues were very ornate !",
+        "the city was really just -- it was truly gorgeous ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The castle like building was fantastic along with the fun and hot dogs.",
+      "normalized_edited_story_text_sent": [
+        "the castle like building was fantastic along with the fun and hot dogs ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603364850497",
+  "model": "GLAC"
+}

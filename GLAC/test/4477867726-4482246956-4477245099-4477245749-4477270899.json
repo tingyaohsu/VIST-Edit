@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4477867726-4482246956-4477245099-4477245749-4477270899",
+  "photo_sequence_ids": [
+    "4477867726",
+    "4482246956",
+    "4477245099",
+    "4477245749",
+    "4477270899"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he had a great time . the audience was excited . the presentation was about to begin . the speaker was very boring .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the speaker was very knowledgeable . he had a great time . the audience was very excited . the presentation was about to begin . the speaker was to the point.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he had a great time .",
+        "the audience was very excited .",
+        "the presentation was about to begin .",
+        "the speaker was to the point ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the speaker was very knowledgeable about the topic . he had a great time there . the audience was excited to listen to his speech . the presentation was about to begin so everyone found a seat . the speaker was very boring so people started zoning out .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable about the topic .",
+        "he had a great time there .",
+        "the audience was excited to listen to his speech .",
+        "the presentation was about to begin so everyone found a seat .",
+        "the speaker was very boring so people started zoning out ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very knowledgeable about many subjects . he had a great time talking to the group. the audience was excited and clapped a lot. the presentation was about to begin so they turned down the lights. the speaker was very boring and people left early .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable about many subjects .",
+        "he had a great time talking to the group .",
+        "the audience was excited and clapped a lot .",
+        "the presentation was about to begin so they turned down the lights .",
+        "the speaker was very boring and people left early ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the speaker was very knowledgeable . They posed for a picture. The audience was full. They sat at a table with information boards behind them.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "they posed for a picture .",
+        "the audience was full .",
+        "they sat at a table with information boards behind them ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the speaker was very knowledgeable . he shook hands with many people . the audience was excited . the presentation was about to begin . the speaker was very engaging .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he shook hands with many people .",
+        "the audience was excited .",
+        "the presentation was about to begin .",
+        "the speaker was very engaging ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623613552907",
+  "model": "GLAC"
+}

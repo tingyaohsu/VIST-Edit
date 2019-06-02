@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "339659501-339676370-339685786-339685790-346521947",
+  "photo_sequence_ids": [
+    "339659501",
+    "339676370",
+    "339685786",
+    "339685790",
+    "346521947"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/161/339659501_1dab8724b2_o.jpg",
+    "https://farm1.staticflickr.com/137/339676370_a81e2913b8_o.jpg",
+    "https://farm1.staticflickr.com/164/339685786_c770e8a4eb_o.jpg",
+    "https://farm1.staticflickr.com/155/339685790_8bf763a7d6_o.jpg",
+    "https://farm1.staticflickr.com/161/346521947_f7866a4137_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a plane . the ride was amazing . we walked around the city to see the lights . we had a great time . after a long day of sightseeing , we decided to take a break .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a plane . the ride was amazing . we walked around the city to see the lights and we had a great time . after a long day of sightseeing , we decided to take a break and relax.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a plane .",
+        "the ride was amazing .",
+        "we walked around the city to see the lights and we had a great time .",
+        "after a long day of sightseeing , we decided to take a break and relax ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "here is a picture of a plane . the ride was amazing, and we had a great time . we walked around the city to see the lights. after a long day of sightseeing , we decided to take a break .",
+      "normalized_edited_story_text_sent": [
+        "here is a picture of a plane .",
+        "the ride was amazing , and we had a great time .",
+        "we walked around the city to see the lights .",
+        "after a long day of sightseeing , we decided to take a break ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "What a night. The ride was amazing. We walked around the city to see the lights. We had a great time. After a long day of sightseeing, we decided to take a break.",
+      "normalized_edited_story_text_sent": [
+        "what a night .",
+        "the ride was amazing .",
+        "we walked around the city to see the lights .",
+        "we had a great time .",
+        "after a long day of sightseeing , we decided to take a break ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "This is a picture of our plane. We had an amazing ride. After we landed, we walked around the city to see the lights. We had a great time. After a long day of sightseeing, we decided to take a break and relax.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of our plane .",
+        "we had an amazing ride .",
+        "after we landed , we walked around the city to see the lights .",
+        "we had a great time .",
+        "after a long day of sightseeing , we decided to take a break and relax ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a plane. The ride was amazing.  We walked around the city to see the lights.  We had a great time. We were tired after a long day of sightseeing, so we decided to take a break .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a plane .",
+        "the ride was amazing .",
+        "we walked around the city to see the lights .",
+        "we had a great time .",
+        "we were tired after a long day of sightseeing , so we decided to take a break ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594460777407"
+}

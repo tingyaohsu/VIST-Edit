@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5534276385-5534857062-5534857232-5534857714-5534859722",
+  "photo_sequence_ids": [
+    "5534276385",
+    "5534857062",
+    "5534857232",
+    "5534857714",
+    "5534859722"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the conference was a lot of fun . there were a lot of people that showed up . we all got to talk about the new technology . the speaker was very good . afterward we all went back home .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the conference was a lively event . many showed up . we spoke at length about new technology . one speaker was particularly good . afterwards, we all went back home enriched .",
+      "normalized_edited_story_text_sent": [
+        "the conference was a lively event .",
+        "many showed up .",
+        "we spoke at length about new technology .",
+        "one speaker was particularly good .",
+        "afterwards , we all went back home enriched ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the conference was a lot of fun . there were a lot of people that showed up . There were flags hanging and the woman held a book up in front of everyone. The man spoke from behind a podium. The next man spoke as well.",
+      "normalized_edited_story_text_sent": [
+        "the conference was a lot of fun .",
+        "there were a lot of people that showed up .",
+        "there were flags hanging and the woman held a book up in front of everyone .",
+        "the man spoke from behind a podium .",
+        "the next man spoke as well ."
+      ]
+    },
+    {
+      "worker_id": "A1QSUIQRZFQ85E",
+      "edited_story_text": "The conference was a lot of fun and a lot of people that showed up . We all got to talk about the new technology and enjoy the exhibits. The speakers were very good and talked about different things. Afterward a long day we all went back home.",
+      "normalized_edited_story_text_sent": [
+        "the conference was a lot of fun and a lot of people that showed up .",
+        "we all got to talk about the new technology and enjoy the exhibits .",
+        "the speakers were very good and talked about different things .",
+        "afterward a long day we all went back home ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the conference was a lot of fun . there were a lot of people that showed up . we all got to talk about the new technology . the speaker was good and listened to all of our complaints. . afterward we all went back home .",
+      "normalized_edited_story_text_sent": [
+        "the conference was a lot of fun .",
+        "there were a lot of people that showed up .",
+        "we all got to talk about the new technology .",
+        "the speaker was good and listened to all of our complaints .",
+        "afterward we all went back home ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the conference was also an interesting expo, displaying many new books on technology . a lot of people showed up to hear the guest speakers . the speakers made enlightening presentations . afterwards, we had the opportunity to share more detailed information about new technology before going home .",
+      "normalized_edited_story_text_sent": [
+        "the conference was also an interesting expo , displaying many new books on technology .",
+        "a lot of people showed up to hear the guest speakers .",
+        "the speakers made enlightening presentations .",
+        "afterwards , we had the opportunity to share more detailed information about new technology before going home ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626285768710",
+  "model": "GLAC"
+}

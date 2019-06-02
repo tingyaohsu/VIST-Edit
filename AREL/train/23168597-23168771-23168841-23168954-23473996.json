@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "23168597-23168771-23168841-23168954-23473996",
+  "photo_sequence_ids": [
+    "23168597",
+    "23168771",
+    "23168841",
+    "23168954",
+    "23473996"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/16/23168597_9e779a2b9d_o.jpg",
+    "https://farm1.staticflickr.com/19/23168771_fa71997c3b_o.jpg",
+    "https://farm1.staticflickr.com/16/23168841_2e370d76b0_o.jpg",
+    "https://farm1.staticflickr.com/18/23168954_e2bb1a58be_o.jpg",
+    "https://farm1.staticflickr.com/16/23473996_032a974185_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the concert last night . the band played a lot of music . then we went to the bar to get some drinks . this guy was very happy to see him . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to the concert last night . the band played a lot of music . then we went to the bar to get some drinks . this guy had a really cool tattoo . it was a great night overall .",
+      "normalized_edited_story_text_sent": [
+        "i went to the concert last night .",
+        "the band played a lot of music .",
+        "then we went to the bar to get some drinks .",
+        "this guy had a really cool tattoo .",
+        "it was a great night overall ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i went to the concert last night . the band played good music . then we went to the bar to get some drinks . this guy was very happy to see him . it was a great night .",
+      "normalized_edited_story_text_sent": [
+        "i went to the concert last night .",
+        "the band played good music .",
+        "then we went to the bar to get some drinks .",
+        "this guy was very happy to see him .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "i went to a concert last night. The band played a lot of great music.  We went to the bar to get some drinks . This guy was very happy to see us. it was a great night.",
+      "normalized_edited_story_text_sent": [
+        "i went to a concert last night .",
+        "the band played a lot of great music .",
+        "we went to the bar to get some drinks .",
+        "this guy was very happy to see us .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "AZSB87DCJL4QB",
+      "edited_story_text": "I went to the concert last night. The band played a lot of music. Afterwards, we went to the bar to get some drinks. This girl was very happy to see him. It was a great night .",
+      "normalized_edited_story_text_sent": [
+        "i went to the concert last night .",
+        "the band played a lot of music .",
+        "afterwards , we went to the bar to get some drinks .",
+        "this girl was very happy to see him .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "Last night, I went to a concert to see one of my favorite bands. They sounded amazing. after it was over, we went to the bar and had a few drinks. It was a good time spent with some of my friends.",
+      "normalized_edited_story_text_sent": [
+        "last night , i went to a concert to see one of my favorite bands .",
+        "they sounded amazing .",
+        "after it was over , we went to the bar and had a few drinks .",
+        "it was a good time spent with some of my friends ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "533977"
+}

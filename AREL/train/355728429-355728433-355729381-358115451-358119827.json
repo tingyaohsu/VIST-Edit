@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "355728429-355728433-355729381-358115451-358119827",
+  "photo_sequence_ids": [
+    "355728429",
+    "355728433",
+    "355729381",
+    "358115451",
+    "358119827"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/159/355728429_c9bbd50b53_o.jpg",
+    "https://farm1.staticflickr.com/133/355728433_a2b0c7e96b_o.jpg",
+    "https://farm1.staticflickr.com/146/355729381_1d2c871e09_o.jpg",
+    "https://farm1.staticflickr.com/124/358115451_d783698df9_o.jpg",
+    "https://farm1.staticflickr.com/134/358119827_f09e1db46a_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on a hike last weekend . there were a lot of plants there . we saw many different types of plants . i took a lot of pictures . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "I went on a hike last weekend. There were a lot of trees there. We saw many different types of plants and animals. I took a lot of pictures. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "i went on a hike last weekend .",
+        "there were a lot of trees there .",
+        "we saw many different types of plants and animals .",
+        "i took a lot of pictures .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "i went on a hike last weekend . there were a lot of plants there . we saw a monkey in the trees . i took a lot of pictures, including this one of a curved tree . it was a great view and a great day .",
+      "normalized_edited_story_text_sent": [
+        "i went on a hike last weekend .",
+        "there were a lot of plants there .",
+        "we saw a monkey in the trees .",
+        "i took a lot of pictures , including this one of a curved tree .",
+        "it was a great view and a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went on a hike last weekend . there were a lot of plants there . we saw many different types of plants . i took a lot of pictures . it was a great day I loved",
+      "normalized_edited_story_text_sent": [
+        "i went on a hike last weekend .",
+        "there were a lot of plants there .",
+        "we saw many different types of plants .",
+        "i took a lot of pictures .",
+        "it was a great day i loved"
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i went on camping last weekend . there were a lot of plants there . we saw many different types of vegetation . i took a lot of pictures . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "i went on camping last weekend .",
+        "there were a lot of plants there .",
+        "we saw many different types of vegetation .",
+        "i took a lot of pictures .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1AFCTV7V6P728",
+      "edited_story_text": "I went on a hike last weekend and saw a lot of interesting plants of many different types. I took dozens of pictures. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "i went on a hike last weekend and saw a lot of interesting plants of many different types .",
+        "i took dozens of pictures .",
+        "it was a great day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594583750217"
+}

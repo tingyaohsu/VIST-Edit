@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4743582646-4742904699-4743579546-4742924965-4743585652",
+  "photo_sequence_ids": [
+    "4743582646",
+    "4742904699",
+    "4743579546",
+    "4742924965",
+    "4743585652"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the halloween party . they had lots of fun activities . they had a lot of delicious food . the family was having a great time . the children had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the kids were excited to be at the birthday party . they didn\u0027t have many activities . they had a lot  of fun slime. the family was having a great time . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the birthday party .",
+        "they did n\u0027t have many activities .",
+        "they had a lot of fun slime .",
+        "the family was having a great time .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "Everyone had a great time at the party.  There were some pretty cool activities and a lot of good food.",
+      "normalized_edited_story_text_sent": [
+        "everyone had a great time at the party .",
+        "there were some pretty cool activities and a lot of good food ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the halloween party excited the kids . many fun activities were arranged for the children . delicious food was served . it was a fun time for even entire family . the children will remember the fun they had .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party excited the kids .",
+        "many fun activities were arranged for the children .",
+        "delicious food was served .",
+        "it was a fun time for even entire family .",
+        "the children will remember the fun they had ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "they were taking pictures . it was beautiful outside . they had a lot of delicious food . everyone had fun costumes . the children had a great time .",
+      "normalized_edited_story_text_sent": [
+        "they were taking pictures .",
+        "it was beautiful outside .",
+        "they had a lot of delicious food .",
+        "everyone had fun costumes .",
+        "the children had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kids were excited to be at the halloween party. they had lots of fun activities and delicious food. the family and children were having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the halloween party .",
+        "they had lots of fun activities and delicious food .",
+        "the family and children were having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624254024981",
+  "model": "GLAC"
+}

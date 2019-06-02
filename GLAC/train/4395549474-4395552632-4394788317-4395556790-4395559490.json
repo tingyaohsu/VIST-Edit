@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4395549474-4395552632-4394788317-4395556790-4395559490",
+  "photo_sequence_ids": [
+    "4395549474",
+    "4395552632",
+    "4394788317",
+    "4395556790",
+    "4395559490"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the market was a lot of fun . there were many different things . the artwork was amazing . the paintings were very unique . the costumes were so cool .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the market was a lot of fun . there were many different things . the food was interesting .  the costumes were so cool .",
+      "normalized_edited_story_text_sent": [
+        "the market was a lot of fun .",
+        "there were many different things .",
+        "the food was interesting .",
+        "the costumes were so cool ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The market was full of wonderful things. Vendors sold everything from fresh shrimp, hand woven baskets, decorated tools, colorful outfits and even vintage motorcycles.",
+      "normalized_edited_story_text_sent": [
+        "the market was full of wonderful things .",
+        "vendors sold everything from fresh shrimp , hand woven baskets , decorated tools , colorful outfits and even vintage motorcycles ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Went to the market today and had a lot of fun.  Check out the picture of the wares on display.  Cool bikes out on the street.",
+      "normalized_edited_story_text_sent": [
+        "went to the market today and had a lot of fun .",
+        "check out the picture of the wares on display .",
+        "cool bikes out on the street ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The market was a lot of fun and there were many different things. The artwork was amazing and the paintings were very unique. The costumes were so cool.",
+      "normalized_edited_story_text_sent": [
+        "the market was a lot of fun and there were many different things .",
+        "the artwork was amazing and the paintings were very unique .",
+        "the costumes were so cool ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the market was fun to browse . sellers sold everything . the artwork was fascinating . many unique paintings were selling . the costumes were also so intriguing .",
+      "normalized_edited_story_text_sent": [
+        "the market was fun to browse .",
+        "sellers sold everything .",
+        "the artwork was fascinating .",
+        "many unique paintings were selling .",
+        "the costumes were also so intriguing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623402266877",
+  "model": "GLAC"
+}

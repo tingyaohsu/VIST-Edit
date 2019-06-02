@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4743582646-4742904699-4743579546-4742924965-4743585652",
+  "photo_sequence_ids": [
+    "4743582646",
+    "4742904699",
+    "4743579546",
+    "4742924965",
+    "4743585652"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4096/4743582646_f629c27127_o.jpg",
+    "https://farm5.staticflickr.com/4138/4742904699_d58e0eca43_o.jpg",
+    "https://farm5.staticflickr.com/4123/4743579546_7dde41699d_o.jpg",
+    "https://farm5.staticflickr.com/4080/4742924965_3e528a8d31_o.jpg",
+    "https://farm5.staticflickr.com/4094/4743585652_ccc233e41f_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a lot of fun at the party . there were a lot of people there . the food was delicious and delicious . we had a great time . we had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "we had a lot of fun at the party . there were a lot of people there . the food was delicious. we had a great time . we took a lot of pictures .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the party .",
+        "there were a lot of people there .",
+        "the food was delicious .",
+        "we had a great time .",
+        "we took a lot of pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1SG85M8W4G6F2",
+      "edited_story_text": "My friend invited me to his birthday party. The party was held in his backyard. We ate ice cream, but it was so hot that it melted. People were very dressed up for the party. There were many friends there to celebrate.",
+      "normalized_edited_story_text_sent": [
+        "my friend invited me to his birthday party .",
+        "the party was held in his backyard .",
+        "we ate ice cream , but it was so hot that it melted .",
+        "people were very dressed up for the party .",
+        "there were many friends there to celebrate ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had a lot of fun at the birthday party. It was held in the backyard.  We ate a lot of food and mingled with a lot of good friends.  The birthday person dyed her hair blue. It was pretty.  We had a blast.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the birthday party .",
+        "it was held in the backyard .",
+        "we ate a lot of food and mingled with a lot of good friends .",
+        "the birthday person dyed her hair blue .",
+        "it was pretty .",
+        "we had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "we did alot of  candid shots  at the party . there  a few people there . the food was delicious and we had a  really good time",
+      "normalized_edited_story_text_sent": [
+        "we did alot of candid shots at the party .",
+        "there a few people there .",
+        "the food was delicious and we had a really good time"
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "we had a lot of fun at the backyard birthday party . there were a lot of people there . we had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the backyard birthday party .",
+        "there were a lot of people there .",
+        "we had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624254024981"
+}

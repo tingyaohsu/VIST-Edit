@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "315398-315411-315429-315447-315458",
+  "photo_sequence_ids": [
+    "315398",
+    "315411",
+    "315429",
+    "315447",
+    "315458"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . they had a lot of fun . they had a lot of fun . they played games . they also had a pinata .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was having a great time at the party . they enjoyed themselves.  they danced around. they played games . they also had a pinata .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they enjoyed themselves .",
+        "they danced around .",
+        "they played games .",
+        "they also had a pinata ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was having a great time at the party . they had a lot of fun .  they played games . they went bowling.  they also had a pinata .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they had a lot of fun .",
+        "they played games .",
+        "they went bowling .",
+        "they also had a pinata ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family was having a great time at the party. they ate and played games.  they were bowling also. they had a pinata .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they ate and played games .",
+        "they were bowling also .",
+        "they had a pinata ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family was having a great time at the big party and they had a lot of fun . they had a lot of fun . they played games . they also had a pinata .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the big party and they had a lot of fun .",
+        "they had a lot of fun .",
+        "they played games .",
+        "they also had a pinata ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the family was having a great time at the gathering . they had a lot of fun . They enjoyed bowling very much . they played games . they also had a pinata .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the gathering .",
+        "they had a lot of fun .",
+        "they enjoyed bowling very much .",
+        "they played games .",
+        "they also had a pinata ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "6998",
+  "model": "GLAC"
+}

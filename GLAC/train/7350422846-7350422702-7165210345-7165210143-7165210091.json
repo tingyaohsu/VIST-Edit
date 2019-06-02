@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "7350422846-7350422702-7165210345-7165210143-7165210091",
+  "photo_sequence_ids": [
+    "7350422846",
+    "7350422702",
+    "7165210345",
+    "7165210143",
+    "7165210091"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers are ready for the march . the soldiers are all lined up . the soldiers are getting ready to go . the soldier is wearing his hat . the men are in the air .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we witnessed an amish funeral today. it was really sad. we tried to keep our distance out of respect as we watched the caravan. it was really interesting, though, watching them carry the casket and lower it into the ground by hand.",
+      "normalized_edited_story_text_sent": [
+        "we witnessed an amish funeral today .",
+        "it was really sad .",
+        "we tried to keep our distance out of respect as we watched the caravan .",
+        "it was really interesting , though , watching them carry the casket and lower it into the ground by hand ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the soldiers are ready for the march to begin . the soldiers are all lined up in one single file . the soldiers are getting ready to go but had to wait for the captain . the soldier is wearing his hat which he has owned for a long time . the men are in the air as the dig the ground .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are ready for the march to begin .",
+        "the soldiers are all lined up in one single file .",
+        "the soldiers are getting ready to go but had to wait for the captain .",
+        "the soldier is wearing his hat which he has owned for a long time .",
+        "the men are in the air as the dig the ground ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "Men in suits walk in the street. A man is in a carriage. The woman mourns. They lower the casket.",
+      "normalized_edited_story_text_sent": [
+        "men in suits walk in the street .",
+        "a man is in a carriage .",
+        "the woman mourns .",
+        "they lower the casket ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the mourners are ready for the procession . they are are all lined up . the pallbearers carry the casket . the widow is wearing a black veil . the coffin is lowered into the ground .",
+      "normalized_edited_story_text_sent": [
+        "the mourners are ready for the procession .",
+        "they are are all lined up .",
+        "the pallbearers carry the casket .",
+        "the widow is wearing a black veil .",
+        "the coffin is lowered into the ground ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the soldiers are ready for the funeral . the soldiers are all lined up .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are ready for the funeral .",
+        "the soldiers are all lined up ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630078030316",
+  "model": "GLAC"
+}

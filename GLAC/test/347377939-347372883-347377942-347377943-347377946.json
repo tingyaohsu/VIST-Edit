@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "347377939-347372883-347377942-347377943-347377946",
+  "photo_sequence_ids": [
+    "347377939",
+    "347372883",
+    "347377942",
+    "347377943",
+    "347377946"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was prepared for the dinner . the salad was delicious . the chicken was cooked and cooked . the main course was the main course . the dessert was also very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the food was prepared for the dinner . there were a lot of options to choose from. The fruit salad looked fresh and delicious . there was meat and vegetarian options to choose from. the dessert was also very delicious .",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the dinner .",
+        "there were a lot of options to choose from .",
+        "the fruit salad looked fresh and delicious .",
+        "there was meat and vegetarian options to choose from .",
+        "the dessert was also very delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the food was prepared for the dinner as the guests arrived . the salad was delicious and contained some fish . the chicken was cooked and grilled to perfection . the main course was the best main course ev er . the dessert was also very good and was a great way to end the meal .",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the dinner as the guests arrived .",
+        "the salad was delicious and contained some fish .",
+        "the chicken was cooked and grilled to perfection .",
+        "the main course was the best main course ev er .",
+        "the dessert was also very good and was a great way to end the meal ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "All the food was prepared for the dinner. The salad was delicious as always. the chicken was cooked to perfection. The main course included different vegetables. Even the dessert was very good.",
+      "normalized_edited_story_text_sent": [
+        "all the food was prepared for the dinner .",
+        "the salad was delicious as always .",
+        "the chicken was cooked to perfection .",
+        "the main course included different vegetables .",
+        "even the dessert was very good ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The food was prepared for the dinner. The salad was delicious. The chicken was very delicious as well. The main course was the Rice with chicken and vegetables. The dessert was also very good .",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the dinner .",
+        "the salad was delicious .",
+        "the chicken was very delicious as well .",
+        "the main course was the rice with chicken and vegetables .",
+        "the dessert was also very good ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "We prepared all of the food for the dinner. It felt like we cooked and cooked. The salad was delicious.  The main course was chicken, and the dessert was also really good.",
+      "normalized_edited_story_text_sent": [
+        "we prepared all of the food for the dinner .",
+        "it felt like we cooked and cooked .",
+        "the salad was delicious .",
+        "the main course was chicken , and the dessert was also really good ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594462307386",
+  "model": "GLAC"
+}

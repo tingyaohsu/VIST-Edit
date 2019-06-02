@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4726601686-4726601076-4725945673-4725948651-4726595156",
+  "photo_sequence_ids": [
+    "4726601686",
+    "4726601076",
+    "4725945673",
+    "4725948651",
+    "4726595156"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the party . he brought his dog along . the dog was very excited . the garden was full of flowers . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the weather man said it was going to be a nice day . we bought gardening supplies . the dog was very excited to help . the garden was soon full of flowers .  we went in for lunch..",
+      "normalized_edited_story_text_sent": [
+        "the weather man said it was going to be a nice day .",
+        "we bought gardening supplies .",
+        "the dog was very excited to help .",
+        "the garden was soon full of flowers .",
+        "we went in for lunch ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The man was happy to be at the party and he brought his dog along. The dog was very excited. The garden was full of flowers. The food was quite delicious.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the party and he brought his dog along .",
+        "the dog was very excited .",
+        "the garden was full of flowers .",
+        "the food was quite delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the man was happy to be at the party and hang out with his friends . he brought his dog along to enjoy the fun . the dog was very excited to see all the people. the garden was full of flowers as well as some bushes . the food was delicious and tasted amazing .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the party and hang out with his friends .",
+        "he brought his dog along to enjoy the fun .",
+        "the dog was very excited to see all the people .",
+        "the garden was full of flowers as well as some bushes .",
+        "the food was delicious and tasted amazing ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The man was happy to be at the party, and he even brought his dog along . And of course, the dog was very excited. and wow, the garden was full of flowers, they were beautiful The food was really tasty, too.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the party , and he even brought his dog along .",
+        "and of course , the dog was very excited .",
+        "and wow , the garden was full of flowers , they were beautiful the food was really tasty , too ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The man was happy he went to the part . The man took his dog with him to the party. The dog was extremely excited. The garden was full of beautiful flowers. The food at the party was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy he went to the part .",
+        "the man took his dog with him to the party .",
+        "the dog was extremely excited .",
+        "the garden was full of beautiful flowers .",
+        "the food at the party was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624337173194",
+  "model": "GLAC"
+}

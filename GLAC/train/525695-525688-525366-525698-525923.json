@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "525695-525688-525366-525698-525923",
+  "photo_sequence_ids": [
+    "525695",
+    "525688",
+    "525366",
+    "525698",
+    "525923"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready to walk down the aisle . the flower girl is so happy . the couple is now husband and wife . the wedding party was beautiful . the bride and groom pose for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the bride and groom are getting ready to walk down the aisle . the flower girl was so happy . the couple is now husband and wife . the wedding party was immaculate .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to walk down the aisle .",
+        "the flower girl was so happy .",
+        "the couple is now husband and wife .",
+        "the wedding party was immaculate ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the bride and groom are getting ready to walk down the aisle . the flower girl is so happy . the couple is now husband and wife . the wedding party was beautiful . the bride and groom pose for a picture .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the bride and groom are getting ready to walk down the aisle .",
+        "the flower girl is so happy .",
+        "the couple is now husband and wife .",
+        "the wedding party was beautiful .",
+        "the bride and groom pose for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bride and groom are about to go down the aisle . the flower girl is so elated . the couple is pronounced husband and wife . the wedding party was beautifully dressed . the bride and groom pose for photos .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are about to go down the aisle .",
+        "the flower girl is so elated .",
+        "the couple is pronounced husband and wife .",
+        "the wedding party was beautifully dressed .",
+        "the bride and groom pose for photos ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bride and groom are getting ready to walk down the aisle but are both nervous about the marriage . the flower girl is so happy that she was in the wedding. the couple is now husband and wife for the rest of their lives. the wedding party was beautiful and a lot of fun . the bride and groom pose for a picture as they left the wedding .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to walk down the aisle but are both nervous about the marriage .",
+        "the flower girl is so happy that she was in the wedding .",
+        "the couple is now husband and wife for the rest of their lives .",
+        "the wedding party was beautiful and a lot of fun .",
+        "the bride and groom pose for a picture as they left the wedding ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "it was a beautiful wedding! the couple looked so happy as they walked down the aisle and posed in a convertible. the bridesmaids where happy for the couple and the groomsmen had fun taking photos too.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful wedding !",
+        "the couple looked so happy as they walked down the aisle and posed in a convertible .",
+        "the bridesmaids where happy for the couple and the groomsmen had fun taking photos too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "28374",
+  "model": "GLAC"
+}

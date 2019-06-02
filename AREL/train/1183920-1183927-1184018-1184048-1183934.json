@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "1183920-1183927-1184018-1184048-1183934",
+  "photo_sequence_ids": [
+    "1183920",
+    "1183927",
+    "1184018",
+    "1184048",
+    "1183934"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/1/1183920_d628b27028_o.jpg",
+    "https://farm1.staticflickr.com/1/1183927_c4c1f0ff8d_o.jpg",
+    "https://farm1.staticflickr.com/1/1184018_f934daed55_o.jpg",
+    "https://farm1.staticflickr.com/1/1184048_9a096a9cc0_o.jpg",
+    "https://farm1.staticflickr.com/1/1183934_9ca5732d69_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last week . the girl was happy to be there . she was very happy to be there . she was very happy to be there . there was also a lot of fun there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the party last week! [Female] was happy to be there, she had a lot of fun there.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week !",
+        "[female] was happy to be there , she had a lot of fun there ."
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "I went to a party last week and met a girl that was so happy to be there. Both of us had a lot of fun at the party.",
+      "normalized_edited_story_text_sent": [
+        "i went to a party last week and met a girl that was so happy to be there .",
+        "both of us had a lot of fun at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the party last week . the girl was happy to be there . she was very happy to be there . she was very happy to be there and there was also a lot of fun there .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "the girl was happy to be there .",
+        "she was very happy to be there .",
+        "she was very happy to be there and there was also a lot of fun there ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "I had a great time at the party last week. I met a girl there who was happy to be there. In fact, she was very happy to be there. I know she was very happy to be there since there was a lot of fun happening there.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "i met a girl there who was happy to be there .",
+        "in fact , she was very happy to be there .",
+        "i know she was very happy to be there since there was a lot of fun happening there ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "I had a great time at the party last week. I was happy to be there. The party was also a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "i was happy to be there .",
+        "the party was also a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "30356"
+}

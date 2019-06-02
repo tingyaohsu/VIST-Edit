@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4268425753-4268425759-4268425769-4271290464-4270547839",
+  "photo_sequence_ids": [
+    "4268425753",
+    "4268425759",
+    "4268425769",
+    "4271290464",
+    "4270547839"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the couple was very excited . the ceremony was beautiful . the family was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the wedding dresses were beautiful . the bride and groom looked very happy. the couple and families were very excited.",
+      "normalized_edited_story_text_sent": [
+        "the wedding dresses were beautiful .",
+        "the bride and groom looked very happy .",
+        "the couple and families were very excited ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The fashion show was great. Women modeled wedding dresses. Men modeled suits. There were kids too.",
+      "normalized_edited_story_text_sent": [
+        "the fashion show was great .",
+        "women modeled wedding dresses .",
+        "men modeled suits .",
+        "there were kids too ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The bridal show was beautiful and the style were fabulous, people strutted down the catwalk in front of the audience.",
+      "normalized_edited_story_text_sent": [
+        "the bridal show was beautiful and the style were fabulous , people strutted down the catwalk in front of the audience ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the wedding was beautiful . the bride and groom were very happy . the couple was very excited . the ceremony was beautiful . the family was so happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the couple was very excited .",
+        "the ceremony was beautiful .",
+        "the family was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the fashion show was beautiful . the models were excited . the couple was very excited . the ceremony was beautiful . the family was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the fashion show was beautiful .",
+        "the models were excited .",
+        "the couple was very excited .",
+        "the ceremony was beautiful .",
+        "the family was so happy ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623195497506",
+  "model": "GLAC"
+}

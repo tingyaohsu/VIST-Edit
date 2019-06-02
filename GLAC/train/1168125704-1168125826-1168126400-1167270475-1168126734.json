@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "1168125704-1168125826-1168126400-1167270475-1168126734",
+  "photo_sequence_ids": [
+    "1168125704",
+    "1168125826",
+    "1168126400",
+    "1167270475",
+    "1168126734"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the runners were ready for the race . the bikers were off ! the racers were neck and neck . the race was very close . the crowd was huge .",
+  "edited_stories": [
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the runners were ready for the race after practicing and training for the better part of the year . We arrived just as the the bikers were taking off ! the racers were neck and neck . the race was very close, but David came in first . the crowd was huge .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready for the race after practicing and training for the better part of the year .",
+        "we arrived just as the the bikers were taking off !",
+        "the racers were neck and neck .",
+        "the race was very close , but [male] came in first .",
+        "the crowd was huge ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the runners were ready for the race!. and then the bikers were off ! the runners were neck and neck . the race was very close . there were quite a few people there.",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready for the race !",
+        "and then the bikers were off !",
+        "the runners were neck and neck .",
+        "the race was very close .",
+        "there were quite a few people there ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "a huge crowd attended the race.  the bikers were off first, then the runners.  the runners were neck and neck in a very close race. lisa won.",
+      "normalized_edited_story_text_sent": [
+        "a huge crowd attended the race .",
+        "the bikers were off first , then the runners .",
+        "the runners were neck and neck in a very close race .",
+        "[female] won ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the runners were ready for the race to being . the bikers were off and got a head start ! the racers were neck and neck until the end . the race was very close but the women in the red hat won . the crowd was huge and cheered everyone on .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready for the race to being .",
+        "the bikers were off and got a head start !",
+        "the racers were neck and neck until the end .",
+        "the race was very close but the women in the red hat won .",
+        "the crowd was huge and cheered everyone on ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the runners were prepared for the race . the bikers were off ! the racers were neck and neck . the race was very close . the crowd was huge . it was a fun day all around.",
+      "normalized_edited_story_text_sent": [
+        "the runners were prepared for the race .",
+        "the bikers were off !",
+        "the racers were neck and neck .",
+        "the race was very close .",
+        "the crowd was huge .",
+        "it was a fun day all around ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601536678322",
+  "model": "GLAC"
+}

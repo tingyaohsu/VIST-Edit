@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "67788205-67788280-68130501-67773088-68147906",
+  "photo_sequence_ids": [
+    "67788205",
+    "67788280",
+    "68130501",
+    "67773088",
+    "68147906"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the trees were very green . the tree was tall . the flowers were growing . the horses were in the water . the horse was looking for food .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the trees were very green due to the recent rain . the tree was tall and also wide. the flowers were growing at a rapid pace . the horses were in the water having a drink . the horse was looking for food but didn\u0027t have any luck.",
+      "normalized_edited_story_text_sent": [
+        "the trees were very green due to the recent rain .",
+        "the tree was tall and also wide .",
+        "the flowers were growing at a rapid pace .",
+        "the horses were in the water having a drink .",
+        "the horse was looking for food but did n\u0027t have any luck ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the trees were very green and tall, and the flowers were growing. the horses were in the water, looking for food.",
+      "normalized_edited_story_text_sent": [
+        "the trees were very green and tall , and the flowers were growing .",
+        "the horses were in the water , looking for food ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "We went on a trail in the woods and the trees were very green . the tree was tall and thick . the flowers were growing and were quite pretty . the birds were in the tree watching us . the buck was looking for food .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trail in the woods and the trees were very green .",
+        "the tree was tall and thick .",
+        "the flowers were growing and were quite pretty .",
+        "the birds were in the tree watching us .",
+        "the buck was looking for food ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the trees were very green . the tree was tall . the flowers were growing . the bird perched and looked . the elk was looking for food .",
+      "normalized_edited_story_text_sent": [
+        "the trees were very green .",
+        "the tree was tall .",
+        "the flowers were growing .",
+        "the bird perched and looked .",
+        "the elk was looking for food ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the trees were very green . the weather was perfect. the animals were enjoying the weather as well",
+      "normalized_edited_story_text_sent": [
+        "the trees were very green .",
+        "the weather was perfect .",
+        "the animals were enjoying the weather as well"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1462648",
+  "model": "GLAC"
+}

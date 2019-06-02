@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "93886933-93887131-93887188-93887564-93887687",
+  "photo_sequence_ids": [
+    "93886933",
+    "93887131",
+    "93887188",
+    "93887564",
+    "93887687"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/29/93886933_ebd0511a1c_o.jpg",
+    "https://farm1.staticflickr.com/40/93887131_bd4fdb557e_o.jpg",
+    "https://farm1.staticflickr.com/39/93887188_52490a6361_o.jpg",
+    "https://farm1.staticflickr.com/14/93887564_c39a177c67_o.jpg",
+    "https://farm1.staticflickr.com/28/93887687_5ca580830d_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the bar last night . this guy is having a great time . i went to the bar and got to see what was going on . there were a lot of people there . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the bar last night . this man is having a great time . i went to the bar to see what was going on . there were a lot of people there . we had a wonderful time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night .",
+        "this man is having a great time .",
+        "i went to the bar to see what was going on .",
+        "there were a lot of people there .",
+        "we had a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to the club. It was a long journey there. I took the subway. It was worth it to see the pretty girls. I posed with them.",
+      "normalized_edited_story_text_sent": [
+        "i went to the club .",
+        "it was a long journey there .",
+        "i took the subway .",
+        "it was worth it to see the pretty girls .",
+        "i posed with them ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "I went to the bar last night. This girl is having a great time. I went to the bar and took the escalator. There were a lot of people at the bar and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night .",
+        "this girl is having a great time .",
+        "i went to the bar and took the escalator .",
+        "there were a lot of people at the bar and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to a bar last night. Here\u0027s a guy who was having a great time. I just went to the bar to see what was going on, and there were a lot of people there. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a bar last night .",
+        "here \u0027s a guy who was having a great time .",
+        "i just went to the bar to see what was going on , and there were a lot of people there .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "I went to the bar last night and I had a great time. At the bar, I got to see what was happening. There were a lot of people there and we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the bar last night and i had a great time .",
+        "at the bar , i got to see what was happening .",
+        "there were a lot of people there and we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594057255637"
+}

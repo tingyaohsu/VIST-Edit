@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "2582165707-2582174211-2583010022-2582191447-2583021318",
+  "photo_sequence_ids": [
+    "2582165707",
+    "2582174211",
+    "2583010022",
+    "2582191447",
+    "2583021318"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3013/2582165707_7cdafd31c9_o.jpg",
+    "https://farm4.staticflickr.com/3151/2582174211_bf6615675b_o.jpg",
+    "https://farm4.staticflickr.com/3175/2583010022_9f39346d8a_o.jpg",
+    "https://farm4.staticflickr.com/3144/2582191447_071750e4a1_o.jpg",
+    "https://farm4.staticflickr.com/3079/2583021318_1e60302c86_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party last night . she was so happy to be there . some of them were very creative . a lot of people showed up for the event . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "We had a wonderful time at the party last night. She was so happy to be there. There were face paintings that were very creative . a lot of people showed up for the event . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we had a wonderful time at the party last night .",
+        "she was so happy to be there .",
+        "there were face paintings that were very creative .",
+        "a lot of people showed up for the event .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "I had a great time at the party last night . My sister, niece,and uncle were alsoso happy to be there . We got our faces painted and some of them were very creative . a lot of family showed up to celebrate. i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "my sister , niece , and uncle were alsoso happy to be there .",
+        "we got our faces painted and some of them were very creative .",
+        "a lot of family showed up to celebrate .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AYXIDCIGUA037",
+      "edited_story_text": "we had a great time at the party last night. [Mary] had a really fun time there. some of the artists were very creative. [Bob] and a lot of other people came to the party. I had a great time there, too.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "[female] had a really fun time there .",
+        "some of the artists were very creative .",
+        "[male] and a lot of other people came to the party .",
+        "i had a great time there , too ."
+      ]
+    },
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "We had a great time at the party yesterday. My friend was so happy to be there and had her face painted.  Some of the artists were very creative. There were a lot of people that showed up for the event . i had a great time there and was glad I went to the event.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party yesterday .",
+        "my friend was so happy to be there and had her face painted .",
+        "some of the artists were very creative .",
+        "there were a lot of people that showed up for the event .",
+        "i had a great time there and was glad i went to the event ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the party last night . she was so happy to be there also some of them were very creative . a lot of people showed up for the event and i had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "she was so happy to be there also some of them were very creative .",
+        "a lot of people showed up for the event and i had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157605638688643"
+}

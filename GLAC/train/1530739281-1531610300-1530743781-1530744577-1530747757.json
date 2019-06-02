@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1530739281-1531610300-1530743781-1530744577-1530747757",
+  "photo_sequence_ids": [
+    "1530739281",
+    "1531610300",
+    "1530743781",
+    "1530744577",
+    "1530747757"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing well . the crowd was having a great time . the fans were very talented . the concert was a success . the audience was really into it .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the party was a lot of fun. the band was good.  the concert was a success . the audience was really into it .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the band was good .",
+        "the concert was a success .",
+        "the audience was really into it ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the band was playing great. the crowd was having a good time . the fans were very talented . the concert was a success . the audience was really into it .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing great .",
+        "the crowd was having a good time .",
+        "the fans were very talented .",
+        "the concert was a success .",
+        "the audience was really into it ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the party was going well . the singer was having a great time . the fans were dancing . the partywas a success . the audience was really into it .",
+      "normalized_edited_story_text_sent": [
+        "the party was going well .",
+        "the singer was having a great time .",
+        "the fans were dancing .",
+        "the partywas a success .",
+        "the audience was really into it ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the band was great . the crowd was having a great time . the fans were very talented . the audience was really into it . the concert was a success . the night was full of energy.",
+      "normalized_edited_story_text_sent": [
+        "the band was great .",
+        "the crowd was having a great time .",
+        "the fans were very talented .",
+        "the audience was really into it .",
+        "the concert was a success .",
+        "the night was full of energy ."
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "The band sounded really good and the crowd was having a great time!  The band members were very talented. The concert was a success and the audience was really into it .",
+      "normalized_edited_story_text_sent": [
+        "the band sounded really good and the crowd was having a great time !",
+        "the band members were very talented .",
+        "the concert was a success and the audience was really into it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602348894457",
+  "model": "GLAC"
+}

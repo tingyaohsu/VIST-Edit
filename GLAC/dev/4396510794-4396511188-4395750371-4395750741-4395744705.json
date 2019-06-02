@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4396510794-4396511188-4395750371-4395750741-4395744705",
+  "photo_sequence_ids": [
+    "4396510794",
+    "4396511188",
+    "4395750371",
+    "4395750741",
+    "4395744705"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be in the city . he saw a statue of a famous man . he also visited a museum . he was able to see the artifacts . he was very proud of the history .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the man was happy to be out of the city . he saw the famous flying balloon. he also visited the ship . he was able to see the seals. he was very proud of their history .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be out of the city .",
+        "he saw the famous flying balloon .",
+        "he also visited the ship .",
+        "he was able to see the seals .",
+        "he was very proud of their history ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There were many interesting artifacts. There is a cigarette ad with a large boat. A family is posing.",
+      "normalized_edited_story_text_sent": [
+        "there were many interesting artifacts .",
+        "there is a cigarette ad with a large boat .",
+        "a family is posing ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the man was happy to be in the city . he saw a statue of a famous man . he also visited a museum . he was able to see the artifacts . he was representing the history .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be in the city .",
+        "he saw a statue of a famous man .",
+        "he also visited a museum .",
+        "he was able to see the artifacts .",
+        "he was representing the history ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The man in the hat was happy to be in the city. He visited a statue of a famous man. The man also went to a museum. He was able to see many different artifacts. The man was very proud of all the history.",
+      "normalized_edited_story_text_sent": [
+        "the man in the hat was happy to be in the city .",
+        "he visited a statue of a famous man .",
+        "the man also went to a museum .",
+        "he was able to see many different artifacts .",
+        "the man was very proud of all the history ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We went to the museum and saw some interesting artifacts.  I got these cool pictures depicting some old time explorers.  Very interesting.",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum and saw some interesting artifacts .",
+        "i got these cool pictures depicting some old time explorers .",
+        "very interesting ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623404366739",
+  "model": "GLAC"
+}

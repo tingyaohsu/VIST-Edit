@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4380025130-4379271193-4379270527-4380028382-4380028168",
+  "photo_sequence_ids": [
+    "4380025130",
+    "4379271193",
+    "4379270527",
+    "4380028382",
+    "4380028168"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4054/4380025130_e8344cb457_o.jpg",
+    "https://farm5.staticflickr.com/4032/4379271193_2293ac995c_o.jpg",
+    "https://farm5.staticflickr.com/4021/4379270527_1e6d7e2443_o.jpg",
+    "https://farm3.staticflickr.com/2775/4380028382_cdd4c8708d_o.jpg",
+    "https://farm3.staticflickr.com/2684/4380028168_8a0ab9206c_o.jpg"
+  ],
+  "auto_story_text_normalized": "the car was parked in the middle of the road . there were many different things to see . it was a lot of fun . this is a picture of a building . there was a lot of damage .",
+  "edited_stories": [
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "The old cars sat showing the damage of time. there were many things to see.",
+      "normalized_edited_story_text_sent": [
+        "the old cars sat showing the damage of time .",
+        "there were many things to see ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the car was parked in the middle of the road . there were many different things to see . it was a lot of fun . this is a picture of a building and there was a lot of damage .",
+      "normalized_edited_story_text_sent": [
+        "the car was parked in the middle of the road .",
+        "there were many different things to see .",
+        "it was a lot of fun .",
+        "this is a picture of a building and there was a lot of damage ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "the truck was parked in the middle of the lot . there were many different things to see . it was a lot of fun . this is a picture of a bus . there was a lot of damage .",
+      "normalized_edited_story_text_sent": [
+        "the truck was parked in the middle of the lot .",
+        "there were many different things to see .",
+        "it was a lot of fun .",
+        "this is a picture of a bus .",
+        "there was a lot of damage ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "someone parked their car in the middle of the road . there were many different things to see . it was a lot of fun . this is a picture of a building . there was a lot of damage to the building .",
+      "normalized_edited_story_text_sent": [
+        "someone parked their car in the middle of the road .",
+        "there were many different things to see .",
+        "it was a lot of fun .",
+        "this is a picture of a building .",
+        "there was a lot of damage to the building ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "This car was parked in the middle of the road. We saw a lot of different things, and we had a lot of fun. Here\u0027s a picture of a building. There was a lot of damage.",
+      "normalized_edited_story_text_sent": [
+        "this car was parked in the middle of the road .",
+        "we saw a lot of different things , and we had a lot of fun .",
+        "here \u0027s a picture of a building .",
+        "there was a lot of damage ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623488082540"
+}

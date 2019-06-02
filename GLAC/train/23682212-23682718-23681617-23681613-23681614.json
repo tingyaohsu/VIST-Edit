@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "23682212-23682718-23681617-23681613-23681614",
+  "photo_sequence_ids": [
+    "23682212",
+    "23682718",
+    "23681617",
+    "23681613",
+    "23681614"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fireworks show was amazing . they were very loud . they were very loud . they were also very loud . they were all very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the fireworks show was amazing . they exploded into plumes of purple and blue sparkles.  the fireworks lite up the night sky.  the grand finale had more fireworks than i could count.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show was amazing .",
+        "they exploded into plumes of purple and blue sparkles .",
+        "the fireworks lite up the night sky .",
+        "the grand finale had more fireworks than i could count ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The fireworks show was amazing. They were very loud . The colors were great, it was a mix of pinks and purples. They were all very good.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show was amazing .",
+        "they were very loud .",
+        "the colors were great , it was a mix of pinks and purples .",
+        "they were all very good ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the fireworks show was amazing and the best ever . they were very loud which was not a surprise. they were very loud as well as bright. they were also very loud and sounded like guns . they were all very good at taking photos .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show was amazing and the best ever .",
+        "they were very loud which was not a surprise .",
+        "they were very loud as well as bright .",
+        "they were also very loud and sounded like guns .",
+        "they were all very good at taking photos ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the july fourth fireworks presentation was amazing this year. all of the explosions were very loud. the fireworks were very bright and lit up the sky. they were also very colorful. all in all, it was a very good holiday show.",
+      "normalized_edited_story_text_sent": [
+        "the july fourth fireworks presentation was amazing this year .",
+        "all of the explosions were very loud .",
+        "the fireworks were very bright and lit up the sky .",
+        "they were also very colorful .",
+        "all in all , it was a very good holiday show ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the fireworks show was amazing . they were very loud . They were bright blue, pink, and red . they were all very good . We enjoyed the fireworks show.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show was amazing .",
+        "they were very loud .",
+        "they were bright blue , pink , and red .",
+        "they were all very good .",
+        "we enjoyed the fireworks show ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "546640",
+  "model": "GLAC"
+}

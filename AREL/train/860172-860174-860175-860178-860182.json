@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "860172-860174-860175-860178-860182",
+  "photo_sequence_ids": [
+    "860172",
+    "860174",
+    "860175",
+    "860178",
+    "860182"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/1/860172_febed6d02d_o.jpg",
+    "https://farm1.staticflickr.com/1/860174_0937e14e2e_o.jpg",
+    "https://farm1.staticflickr.com/1/860175_75f891cc93_o.jpg",
+    "https://farm1.staticflickr.com/1/860178_45ea194477_o.jpg",
+    "https://farm1.staticflickr.com/1/860182_e6a7b097a6_o.jpg"
+  ],
+  "auto_story_text_normalized": "the bride and groom are ready for the wedding . the bride and groom were very happy . she was so happy to be married . there were a lot of pictures taken . this is a picture of a couple .",
+  "edited_stories": [
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "The bride and groom are ready for the wedding. The bride took time to spend with her sisters before the wedding. the bride and groom were very happy to be getting married. The groom couldn\u0027t wait to kiss his bride.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are ready for the wedding .",
+        "the bride took time to spend with her sisters before the wedding .",
+        "the bride and groom were very happy to be getting married .",
+        "the groom could n\u0027t wait to kiss his bride ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the female and male are ready for the wedding . the female and male are very happy . she is so happy to be married . there are a lot of pictures taken . this was a picture of a couple .",
+      "normalized_edited_story_text_sent": [
+        "the female and male are ready for the wedding .",
+        "the female and male are very happy .",
+        "she is so happy to be married .",
+        "there are a lot of pictures taken .",
+        "this was a picture of a couple ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The bride and groom were ready for the wedding. The bride and groom were very happy, and she was so happy to be married. There were a lot of pictures taken, here\u0027s one of the couple together.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were ready for the wedding .",
+        "the bride and groom were very happy , and she was so happy to be married .",
+        "there were a lot of pictures taken , here \u0027s one of the couple together ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the bride and groom are ready for the wedding . the bride and groom were very happy . she was excited to be married . there were a lot of photos taken . this is a photo of a happy couple .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are ready for the wedding .",
+        "the bride and groom were very happy .",
+        "she was excited to be married .",
+        "there were a lot of photos taken .",
+        "this is a photo of a happy couple ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the bride and groom are ready for the wedding . the bride and groom were very happy . there were a lot of pictures taken . this is a picture of a couple very happy together .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are ready for the wedding .",
+        "the bride and groom were very happy .",
+        "there were a lot of pictures taken .",
+        "this is a picture of a couple very happy together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "22059"
+}

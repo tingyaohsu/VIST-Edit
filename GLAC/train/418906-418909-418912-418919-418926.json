@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "418906-418909-418912-418919-418926",
+  "photo_sequence_ids": [
+    "418906",
+    "418909",
+    "418912",
+    "418919",
+    "418926"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the annual community rally was held in a small town . the people were dressed up and ready to go . the marching band was very talented and they were really good . the crowd was packed with people . the police officers were there and they were all happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Attended the annual community rally today.  The crowds were huge and there were many speakers!  Here are the people on stage speaking.",
+      "normalized_edited_story_text_sent": [
+        "attended the annual community rally today .",
+        "the crowds were huge and there were many speakers !",
+        "here are the people on stage speaking ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the annual community rally was held in a small town . the people were dressed up and ready to go",
+      "normalized_edited_story_text_sent": [
+        "the annual community rally was held in a small town .",
+        "the people were dressed up and ready to go"
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the annual community rally was held in a small town . the people were dressed up and ready to go . the marching band was very talented because they really good . the crowd was packed with people . the police officers were there and  all happy .",
+      "normalized_edited_story_text_sent": [
+        "the annual community rally was held in a small town .",
+        "the people were dressed up and ready to go .",
+        "the marching band was very talented because they really good .",
+        "the crowd was packed with people .",
+        "the police officers were there and all happy ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the annual community rally was held in a small town and someone marked the posters with graffiti. the people were dressed up and ready to go listen to the band, but lisa tried the hula hoop first. the marching band was very talented and they were really good  then we went to listen to the lady give a speech. the crowd was packed with people and some of them were wearing hats . the police officers were there and they were all happy because everyone was behaving peacefully .",
+      "normalized_edited_story_text_sent": [
+        "the annual community rally was held in a small town and someone marked the posters with graffiti .",
+        "the people were dressed up and ready to go listen to the band , but [female] tried the hula hoop first .",
+        "the marching band was very talented and they were really good then we went to listen to the lady give a speech .",
+        "the crowd was packed with people and some of them were wearing hats .",
+        "the police officers were there and they were all happy because everyone was behaving peacefully ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "An annual community rally was held in a small town I was in. The people there were dressed up and ready to go. The marching band was very talented and really good. The crowd I was a part of was packed with people. The police officers were there and were all happy.",
+      "normalized_edited_story_text_sent": [
+        "an annual community rally was held in a small town i was in .",
+        "the people there were dressed up and ready to go .",
+        "the marching band was very talented and really good .",
+        "the crowd i was a part of was packed with people .",
+        "the police officers were there and were all happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "10332",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "3407086848-3406270893-3407084626-3407081648-3407080018",
+  "photo_sequence_ids": [
+    "3407086848",
+    "3406270893",
+    "3407084626",
+    "3407081648",
+    "3407080018"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3573/3407086848_cd57671e9d_o.jpg",
+    "https://farm4.staticflickr.com/3565/3406270893_9e09bf4b2c_o.jpg",
+    "https://farm4.staticflickr.com/3439/3407084626_4f54af5dfb_o.jpg",
+    "https://farm4.staticflickr.com/3630/3407081648_53df23467b_o.jpg",
+    "https://farm4.staticflickr.com/3611/3407080018_511bfdab56_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a lot of people at the park today . the soldiers were very proud . he was very excited to be there . the students were very excited to be there . at the end of the day , everyone was happy to see each other .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "there was many people at the park today . the soldiers were exceptionally pleased . he was exceptionally eager to be there . the students were exceptionally eager to to be there . at the end of the day , everyone was cheerful to see each other .",
+      "normalized_edited_story_text_sent": [
+        "there was many people at the park today .",
+        "the soldiers were exceptionally pleased .",
+        "he was exceptionally eager to be there .",
+        "the students were exceptionally eager to to be there .",
+        "at the end of the day , everyone was cheerful to see each other ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The military ceremony was very impressive.  I had a great time watching the parade and the formation.  It was nice to see the commander.",
+      "normalized_edited_story_text_sent": [
+        "the military ceremony was very impressive .",
+        "i had a great time watching the parade and the formation .",
+        "it was nice to see the commander ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "there was a lot of people at the park today and the soldiers were very proud .  the students were very excited to be there . at the end of the day , everyone was happy to see each other .",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of people at the park today and the soldiers were very proud .",
+        "the students were very excited to be there .",
+        "at the end of the day , everyone was happy to see each other ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "A lot of soldiers were at the military exercise. They looked very proud. The soldiers went over the details of their mission. They looked prepared for what was to come. The generals in charge of the mission discussed the details afterwards.",
+      "normalized_edited_story_text_sent": [
+        "a lot of soldiers were at the military exercise .",
+        "they looked very proud .",
+        "the soldiers went over the details of their mission .",
+        "they looked prepared for what was to come .",
+        "the generals in charge of the mission discussed the details afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "many people came to [location] . the soldiers exuded pride as they stood . [male] was probably enjoying the event more than anyone. the students were glad that they could come and experience this moment . good feelings were had between everyone as they enjoyed each other\u0027s company .",
+      "normalized_edited_story_text_sent": [
+        "many people came to [location] .",
+        "the soldiers exuded pride as they stood .",
+        "[male] was probably enjoying the event more than anyone .",
+        "the students were glad that they could come and experience this moment .",
+        "good feelings were had between everyone as they enjoyed each other \u0027s company ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157616261541878"
+}

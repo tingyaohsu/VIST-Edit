@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "66595026-66595047-69252331-69252425-69252370",
+  "photo_sequence_ids": [
+    "66595026",
+    "66595047",
+    "69252331",
+    "69252425",
+    "69252370"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the restaurant yesterday . there were many different kinds of food there . i bought some tomatoes . they were very good . they were all very good .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i had a great time cooking yesterday. I made a turkey wrapped in bacon. I also made vegetables and sliced the turkey when it was done. It turned out great.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time cooking yesterday .",
+        "i made a turkey wrapped in bacon .",
+        "i also made vegetables and sliced the turkey when it was done .",
+        "it turned out great ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "i had such a great time at the restaurant yesterday. there were so many different kinds of food to choose from there. i ordered some tomatoes. they tasted very good. all of the food was very good.",
+      "normalized_edited_story_text_sent": [
+        "i had such a great time at the restaurant yesterday .",
+        "there were so many different kinds of food to choose from there .",
+        "i ordered some tomatoes .",
+        "they tasted very good .",
+        "all of the food was very good ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i had a great time at the parents house yesterday . there were many different kinds of food there",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the parents house yesterday .",
+        "there were many different kinds of food there"
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I was preparing turkey with a twist for Thanksgiving. The turkey in question is wrapped in bacon and is set on a bed of lettuce and lemon slices.",
+      "normalized_edited_story_text_sent": [
+        "i was preparing turkey with a twist for thanksgiving .",
+        "the turkey in question is wrapped in bacon and is set on a bed of lettuce and lemon slices ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "W visited a grethe restaurant yesterday with many different kinds of food there .It was very good . they were all very good .",
+      "normalized_edited_story_text_sent": [
+        "w visited a grethe restaurant yesterday with many different kinds of food there .",
+        "it was very good .",
+        "they were all very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1437238",
+  "model": "GLAC"
+}

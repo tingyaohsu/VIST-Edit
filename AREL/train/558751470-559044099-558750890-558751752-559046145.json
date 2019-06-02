@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "558751470-559044099-558750890-558751752-559046145",
+  "photo_sequence_ids": [
+    "558751470",
+    "559044099",
+    "558750890",
+    "558751752",
+    "559046145"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1058/558751470_17b5e4e8a5_o.jpg",
+    "https://farm2.staticflickr.com/1357/559044099_28fb1ed3bd_o.jpg",
+    "https://farm2.staticflickr.com/1246/558750890_352369309f_o.jpg",
+    "https://farm2.staticflickr.com/1198/558751752_de3d95faed_o.jpg",
+    "https://farm2.staticflickr.com/1422/559046145_0835c018b3_o.jpg"
+  ],
+  "auto_story_text_normalized": "the game started with a game of football . it was a great game . everyone was having a great time . it was a great game . after the game , the game ended with a big game of the game .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to see the red sox play their first game of the season. it was a great game. the weather was beautiful. they won, and everyone in the crowd had a fun time.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the red sox play their first game of the season .",
+        "it was a great game .",
+        "the weather was beautiful .",
+        "they won , and everyone in the crowd had a fun time ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "Everyone was in their seat as the game started with a game of football . It was a great game. Everyone was having a great time and our team was ahead. At the end of the game, the home team celebrated their victory.",
+      "normalized_edited_story_text_sent": [
+        "everyone was in their seat as the game started with a game of football .",
+        "it was a great game .",
+        "everyone was having a great time and our team was ahead .",
+        "at the end of the game , the home team celebrated their victory ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "The game started football. It was a great game and everyone was having a great time because it was a great game.",
+      "normalized_edited_story_text_sent": [
+        "the game started football .",
+        "it was a great game and everyone was having a great time because it was a great game ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the football game started . it was a great game . everyone was having a fun time . then, the game ended.",
+      "normalized_edited_story_text_sent": [
+        "the football game started .",
+        "it was a great game .",
+        "everyone was having a fun time .",
+        "then , the game ended ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the football game started. it was a great game . everyone was having a great time . it was a great game . after the game , the game ended with a big game of the game .",
+      "normalized_edited_story_text_sent": [
+        "the football game started .",
+        "it was a great game .",
+        "everyone was having a great time .",
+        "it was a great game .",
+        "after the game , the game ended with a big game of the game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600377471472"
+}

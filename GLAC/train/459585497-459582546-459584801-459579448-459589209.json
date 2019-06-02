@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "459585497-459582546-459584801-459579448-459589209",
+  "photo_sequence_ids": [
+    "459585497",
+    "459582546",
+    "459584801",
+    "459579448",
+    "459589209"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were filled with people . the crowds were lined up for the event . the dog was excited to see the crowd . the horses were ready to go . the dogs were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "there were a lot of people around . there was a crowd for the graduation . the dog was excited to see the crowd . the dog and his owner were ready to go . the dog was even happy .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people around .",
+        "there was a crowd for the graduation .",
+        "the dog was excited to see the crowd .",
+        "the dog and his owner were ready to go .",
+        "the dog was even happy ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the streets were filled with people  . the dog was excited to see the crowd . the horses were ready to go . the dogs were very happy  to be enjoying the nice weather.",
+      "normalized_edited_story_text_sent": [
+        "the streets were filled with people .",
+        "the dog was excited to see the crowd .",
+        "the horses were ready to go .",
+        "the dogs were very happy to be enjoying the nice weather ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert was glad the streets were filled with people . the crowds were lined up for the event . the dog was excited to see the crowd . the horses were ready to go . the dogs were very happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] was glad the streets were filled with people .",
+        "the crowds were lined up for the event .",
+        "the dog was excited to see the crowd .",
+        "the horses were ready to go .",
+        "the dogs were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the streets were filled with people . everyone was out and about. even dogs.",
+      "normalized_edited_story_text_sent": [
+        "the streets were filled with people .",
+        "everyone was out and about .",
+        "even dogs ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The streets were filled with a crowd of people all lined up for the event. The dog was happy to see the crowd. Even the horses were ready to go.",
+      "normalized_edited_story_text_sent": [
+        "the streets were filled with a crowd of people all lined up for the event .",
+        "the dog was happy to see the crowd .",
+        "even the horses were ready to go ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600078215468",
+  "model": "GLAC"
+}

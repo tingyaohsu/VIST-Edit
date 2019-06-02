@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4946433766-4945849317-4946436736-4946437080-4946439950",
+  "photo_sequence_ids": [
+    "4946433766",
+    "4945849317",
+    "4946436736",
+    "4946437080",
+    "4946439950"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4154/4946433766_f4b29aca1f_o.jpg",
+    "https://farm5.staticflickr.com/4086/4945849317_227ed7cb31_o.jpg",
+    "https://farm5.staticflickr.com/4110/4946436736_5c2bdcf326_o.jpg",
+    "https://farm5.staticflickr.com/4130/4946437080_3229c33ffc_o.jpg",
+    "https://farm5.staticflickr.com/4140/4946439950_c10d3cc893_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day of the graduation ceremony . we took a lot of pictures before the ceremony . a lot of people showed up to show their support . the students lined up to receive their diplomas . the graduation ceremony was over .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "Today was the big day of the graduation ceremony. Everyone came and took photos together before it started. Lots of people came to show their support. The students lined up so they could get their diplomas. The graduation ceremony was finished when everyone received their diploma.",
+      "normalized_edited_story_text_sent": [
+        "today was the big day of the graduation ceremony .",
+        "everyone came and took photos together before it started .",
+        "lots of people came to show their support .",
+        "the students lined up so they could get their diplomas .",
+        "the graduation ceremony was finished when everyone received their diploma ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The graduation ceremony was today.  A lot of people showed up and we got plenty of pictures.  Everyone was happy as the students lined up to receive their diplomas.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was today .",
+        "a lot of people showed up and we got plenty of pictures .",
+        "everyone was happy as the students lined up to receive their diplomas ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "today is the day of the graduation ceremony . we take a lot of pictures before the ceremony . a lot of people showing up to show their support . the students lined up to received their diplomas . the graduation ceremony is over .",
+      "normalized_edited_story_text_sent": [
+        "today is the day of the graduation ceremony .",
+        "we take a lot of pictures before the ceremony .",
+        "a lot of people showing up to show their support .",
+        "the students lined up to received their diplomas .",
+        "the graduation ceremony is over ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Today was the day of the graduation ceremony. We took lots of pictures before the ceremony, and a lot of people showed up to show their support. The students all lined up to receive their diplomas, and then the graduation was over.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the graduation ceremony .",
+        "we took lots of pictures before the ceremony , and a lot of people showed up to show their support .",
+        "the students all lined up to receive their diplomas , and then the graduation was over ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "today was the graduation ceremony . we took a lot of pictures before the ceremony . a lot of people showed up to show their support . the students lined up to receive their diplomas . then, the graduation ceremony was over .",
+      "normalized_edited_story_text_sent": [
+        "today was the graduation ceremony .",
+        "we took a lot of pictures before the ceremony .",
+        "a lot of people showed up to show their support .",
+        "the students lined up to receive their diplomas .",
+        "then , the graduation ceremony was over ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625082585609"
+}

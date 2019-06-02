@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "29208812-29208531-29208415-29208494-29209380",
+  "photo_sequence_ids": [
+    "29208812",
+    "29208531",
+    "29208415",
+    "29208494",
+    "29209380"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a hike . they saw a lot of interesting things . they found a small cave . they also found a rock . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the family went on a hike and  saw a lot of interesting things . they found mountains and rivers and they found a small cave and a big rock . they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a hike and saw a lot of interesting things .",
+        "they found mountains and rivers and they found a small cave and a big rock .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went on a big hike . they saw a lot of neat things . they found a small cave . they also found a rock . they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a big hike .",
+        "they saw a lot of neat things .",
+        "they found a small cave .",
+        "they also found a rock .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family went on a hike in the woods together. they saw a beautiful stream. they found a huge boulder . they also found a rock to stand upon . they were very happy together.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a hike in the woods together .",
+        "they saw a beautiful stream .",
+        "they found a huge boulder .",
+        "they also found a rock to stand upon .",
+        "they were very happy together ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "Robert\u0027s family went on a hike. They saw a lot of interesting things. One thing they found was a small cave. They also found a huge rock. The entire family was very happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] \u0027s family went on a hike .",
+        "they saw a lot of interesting things .",
+        "one thing they found was a small cave .",
+        "they also found a huge rock .",
+        "the entire family was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "We went on a hike. The countryside was beautiful. We found a running creek beside a large boulder. Robert and I climbed on the boulder. We really enjoyed our hike.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hike .",
+        "the countryside was beautiful .",
+        "we found a running creek beside a large boulder .",
+        "[male] and i climbed on the boulder .",
+        "we really enjoyed our hike ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "657659",
+  "model": "GLAC"
+}

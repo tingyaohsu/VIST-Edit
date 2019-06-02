@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "34220377-34219735-34220082-34219786-34218541",
+  "photo_sequence_ids": [
+    "34220377",
+    "34219735",
+    "34220082",
+    "34219786",
+    "34218541"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/21/34220377_9f15742ca0_o.jpg",
+    "https://farm1.staticflickr.com/21/34219735_da46e209ee_o.jpg",
+    "https://farm1.staticflickr.com/22/34220082_61111d6049_o.jpg",
+    "https://farm1.staticflickr.com/21/34219786_f8297a52f4_o.jpg",
+    "https://farm1.staticflickr.com/23/34218541_8dcd400a33_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the party last night . i \u0027m not sure what to expect . some of them were very old . we had a great time . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i went to the party last night. i was not sure what to expect. some of them were very old, but we still had a great time!",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "i was not sure what to expect .",
+        "some of them were very old , but we still had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to a party last night. We had a great time. My girlfriend was excited. So was my sister. We played outdoors.",
+      "normalized_edited_story_text_sent": [
+        "we went to a party last night .",
+        "we had a great time .",
+        "my girlfriend was excited .",
+        "so was my sister .",
+        "we played outdoors ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "I went to a party last night. I\u0027m not sure what I expected. Some of the people were really old, but we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a party last night .",
+        "i \u0027m not sure what i expected .",
+        "some of the people were really old , but we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the party last night . i wasn\u0027t sure what to expect . some of the people were very old . we had a great time . I laughed a lot.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "i was n\u0027t sure what to expect .",
+        "some of the people were very old .",
+        "we had a great time .",
+        "i laughed a lot ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we go to the party last night . i \u0027m not sure what to expect . some of them are very old . we have a great time . we have a great time .",
+      "normalized_edited_story_text_sent": [
+        "we go to the party last night .",
+        "i \u0027m not sure what to expect .",
+        "some of them are very old .",
+        "we have a great time .",
+        "we have a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "758123"
+}

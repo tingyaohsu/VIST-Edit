@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4309073668-4309076642-4308340593-4309084606-4309085582",
+  "photo_sequence_ids": [
+    "4309073668",
+    "4309076642",
+    "4308340593",
+    "4309084606",
+    "4309085582"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the team was ready for the game . the players were playing hard . the teams were getting ready . the white team scored . the crowd was in the stands .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the team was definitely ready for the game. the players were playing hard! the crowd went wild in the stands.",
+      "normalized_edited_story_text_sent": [
+        "the team was definitely ready for the game .",
+        "the players were playing hard !",
+        "the crowd went wild in the stands ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the teams were getting ready to play.  the teams got started. the white team scored. the crowd cheered in the stands .",
+      "normalized_edited_story_text_sent": [
+        "the teams were getting ready to play .",
+        "the teams got started .",
+        "the white team scored .",
+        "the crowd cheered in the stands ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the crowd was in the stands watching the game.  both teams were ready.  the players on both sides fought well.  the white team scored and won the game.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was in the stands watching the game .",
+        "both teams were ready .",
+        "the players on both sides fought well .",
+        "the white team scored and won the game ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the team was ready for the game . the players were playing hard .",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the game .",
+        "the players were playing hard ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the team was well prepared for the game . the players were playing at their hardest . the teams were getting ready for the next quarter . the white team scored first . the crowd in the stands was cheerful .",
+      "normalized_edited_story_text_sent": [
+        "the team was well prepared for the game .",
+        "the players were playing at their hardest .",
+        "the teams were getting ready for the next quarter .",
+        "the white team scored first .",
+        "the crowd in the stands was cheerful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623294550334",
+  "model": "GLAC"
+}

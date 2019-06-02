@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "535339947-535342269-535344507-535347105-535239210",
+  "photo_sequence_ids": [
+    "535339947",
+    "535342269",
+    "535344507",
+    "535347105",
+    "535239210"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1159/535339947_2f380b32d8_o.jpg",
+    "https://farm2.staticflickr.com/1278/535342269_51a1f430b4_o.jpg",
+    "https://farm2.staticflickr.com/1133/535344507_1760207abc_o.jpg",
+    "https://farm2.staticflickr.com/1402/535347105_ad8ad51468_o.jpg",
+    "https://farm2.staticflickr.com/1194/535239210_c2516d2bce_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a trip to the mountains . we had a great time and had a great time . we stopped at a restaurant to eat . we went to the bridge to get to the city . after a long day of driving , i took a picture of my car .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "Traveled in style on our trip to the mountains. We took the bridge into the city and stopped to eat.",
+      "normalized_edited_story_text_sent": [
+        "traveled in style on our trip to the mountains .",
+        "we took the bridge into the city and stopped to eat ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went on a trip to the mountains . we had a great time . we stopped at a restaurant to eat . we went over the bridge to get to the city . after a long day of driving , i took a picture of my car .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the mountains .",
+        "we had a great time .",
+        "we stopped at a restaurant to eat .",
+        "we went over the bridge to get to the city .",
+        "after a long day of driving , i took a picture of my car ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We went on a trip to the mountains and all had a great time and had a great time. We stopped at a restaurant to eat, took the bridge to the city and relaxed after a long day.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the mountains and all had a great time and had a great time .",
+        "we stopped at a restaurant to eat , took the bridge to the city and relaxed after a long day ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "we went on a trek to the mountains . we had a awesome time and had a great time . we halted at a restaurant to eat . we went to the extension  to get to the city . after a long day of driving , i took a photo of my car .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trek to the mountains .",
+        "we had a awesome time and had a great time .",
+        "we halted at a restaurant to eat .",
+        "we went to the extension to get to the city .",
+        "after a long day of driving , i took a photo of my car ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "We took a trip to the coast. It was amazing, the weather was perfect and we enjoyed every second. We stopped in at this restaurant fabulous restaurant for lunch. Then, we took the scenic rout and crossed the bridge to get to the city. You know it\u0027s been a long day of driving when your car looks like this!",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the coast .",
+        "it was amazing , the weather was perfect and we enjoyed every second .",
+        "we stopped in at this restaurant fabulous restaurant for lunch .",
+        "then , we took the scenic rout and crossed the bridge to get to the city .",
+        "you know it \u0027s been a long day of driving when your car looks like this !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600324602921"
+}

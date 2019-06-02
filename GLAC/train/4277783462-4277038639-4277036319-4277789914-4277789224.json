@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4277783462-4277038639-4277036319-4277789914-4277789224",
+  "photo_sequence_ids": [
+    "4277783462",
+    "4277038639",
+    "4277036319",
+    "4277789914",
+    "4277789224"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the meeting was a lot of fun . there were a lot of people there . we had a great time . everyone was very passionate . afterward we all got together for a group photo .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the meeting was just getting started . there were a lot of people there . everyone had a great time . everyone seemed to enjoy lunch. afterward we all got together for a group presentation .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was just getting started .",
+        "there were a lot of people there .",
+        "everyone had a great time .",
+        "everyone seemed to enjoy lunch .",
+        "afterward we all got together for a group presentation ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the company party was a lot of fun . all of his coworkers were there . they had a great time . everyone was very passionate . afterward they all got together for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "the company party was a lot of fun .",
+        "all of his coworkers were there .",
+        "they had a great time .",
+        "everyone was very passionate .",
+        "afterward they all got together for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big meeting was a lot of fun and there were a lot of people there . we had a great time . everyone was very passionate . afterward we all got together for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "the big meeting was a lot of fun and there were a lot of people there .",
+        "we had a great time .",
+        "everyone was very passionate .",
+        "afterward we all got together for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the meeting was a lot of fun . there were a lot of people there . we had a great time . everyone talked and chilled . afterward we all got together for a group photo .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was a lot of fun .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "everyone talked and chilled .",
+        "afterward we all got together for a group photo ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the conference was a lot of fun . there were a lot of people there .everyone got involved . everyone was very passionate . the food was good too.",
+      "normalized_edited_story_text_sent": [
+        "the conference was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone got involved .",
+        "everyone was very passionate .",
+        "the food was good too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623093230347",
+  "model": "GLAC"
+}

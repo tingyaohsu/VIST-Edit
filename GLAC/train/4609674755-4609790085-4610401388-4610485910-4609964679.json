@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4609674755-4609790085-4610401388-4610485910-4609964679",
+  "photo_sequence_ids": [
+    "4609674755",
+    "4609790085",
+    "4610401388",
+    "4610485910",
+    "4609964679"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a big event . the students were excited to graduate . the graduates were very proud . they had a great time . everyone was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My graduation ceremony was a big event . We students were excited to graduate . We were very proud . We had a great time . Everyone was happy .",
+      "normalized_edited_story_text_sent": [
+        "my graduation ceremony was a big event .",
+        "we students were excited to graduate .",
+        "we were very proud .",
+        "we had a great time .",
+        "everyone was happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the graduation ceremony was the biggest event of the year . the students were excited to start a new chapter . the graduates were proud of their grades . they had a great day . everyone was upbeat .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was the biggest event of the year .",
+        "the students were excited to start a new chapter .",
+        "the graduates were proud of their grades .",
+        "they had a great day .",
+        "everyone was upbeat ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the graduation ceremony was a big event for the family . the students were excited to graduate and the parents were proud . the graduates were very proud that they passed their exams . they had a great time at the ceromny . everyone was happy that school was over .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event for the family .",
+        "the students were excited to graduate and the parents were proud .",
+        "the graduates were very proud that they passed their exams .",
+        "they had a great time at the ceromny .",
+        "everyone was happy that school was over ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert said the graduation ceremony was a big event . the students were excited to graduate . the graduates were very proud . they had a great time . everyone was happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] said the graduation ceremony was a big event .",
+        "the students were excited to graduate .",
+        "the graduates were very proud .",
+        "they had a great time .",
+        "everyone was happy ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The graduates all had their families there for them on that special day.",
+      "normalized_edited_story_text_sent": [
+        "the graduates all had their families there for them on that special day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623931145387",
+  "model": "GLAC"
+}

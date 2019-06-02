@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "242427259-242428386-242429198-242429927-242430518",
+  "photo_sequence_ids": [
+    "242427259",
+    "242428386",
+    "242429198",
+    "242429927",
+    "242430518"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/98/242427259_788188113d_o.jpg",
+    "https://farm1.staticflickr.com/80/242428386_c8788d54bc_o.jpg",
+    "https://farm1.staticflickr.com/83/242429198_5f82f0507d_o.jpg",
+    "https://farm1.staticflickr.com/84/242429927_eb6a675f90_o.jpg",
+    "https://farm1.staticflickr.com/88/242430518_447618be6b_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a birthday party for the family . he was very happy to be there . it was a lot of fun . the whole family was there to celebrate . [male] was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had a birthday party where the family attended. he was very excited to be there . it was awesome . the entire family was there to celebrate the birthday . [male] was very stoked to be there .",
+      "normalized_edited_story_text_sent": [
+        "we had a birthday party where the family attended .",
+        "he was very excited to be there .",
+        "it was awesome .",
+        "the entire family was there to celebrate the birthday .",
+        "[male] was very stoked to be there ."
+      ]
+    },
+    {
+      "worker_id": "ASQJ4Z3WF3ZFP",
+      "edited_story_text": "We had a going away party for James. Everyone from the office was there. It was a lot of fun . People posed for pictures. Good luck James!",
+      "normalized_edited_story_text_sent": [
+        "we had a going away party for james .",
+        "everyone from the office was there .",
+        "it was a lot of fun .",
+        "people posed for pictures .",
+        "good luck james !"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We had a party for a friend. All of his friends were there. There was a specially-made cake. Everyone was happy to be there. It was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "we had a party for a friend .",
+        "all of his friends were there .",
+        "there was a specially-made cake .",
+        "everyone was happy to be there .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had a farewell party for [male].  He was very happy to be there. It was a lot of fun.  The whole office was there to celebrate. [male] was very happy to see everyone at the party but he was sad to leave these nice people.",
+      "normalized_edited_story_text_sent": [
+        "we had a farewell party for [male] .",
+        "he was very happy to be there .",
+        "it was a lot of fun .",
+        "the whole office was there to celebrate .",
+        "[male] was very happy to see everyone at the party but he was sad to leave these nice people ."
+      ]
+    },
+    {
+      "worker_id": "A15Y215D57OSO5",
+      "edited_story_text": "We had a birthday party for [male] and he was very happy to be there . The party was a lot of fun and the whole family was there to celebrate.",
+      "normalized_edited_story_text_sent": [
+        "we had a birthday party for [male] and he was very happy to be there .",
+        "the party was a lot of fun and the whole family was there to celebrate ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594282668993"
+}

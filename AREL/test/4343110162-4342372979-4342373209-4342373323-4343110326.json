@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4343110162-4342372979-4342373209-4342373323-4343110326",
+  "photo_sequence_ids": [
+    "4343110162",
+    "4342372979",
+    "4342373209",
+    "4342373323",
+    "4343110326"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2770/4343110162_1e0467f12b_o.jpg",
+    "https://farm3.staticflickr.com/2716/4342372979_d3f67dd144_o.jpg",
+    "https://farm5.staticflickr.com/4004/4342373209_a92de732e8_o.jpg",
+    "https://farm5.staticflickr.com/4061/4342373323_c38c28ec1d_o.jpg",
+    "https://farm3.staticflickr.com/2772/4343110326_931b163c2a_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had to go to the office . the office is very clean and clean . we had a lot of work to do . the room was very clean and clean . i had a lot of work to do .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "Our office got new computers. We had to set them up. First we had to clean the dirty desks. Then we unpacked the computers. It ended up nicely.",
+      "normalized_edited_story_text_sent": [
+        "our office got new computers .",
+        "we had to set them up .",
+        "first we had to clean the dirty desks .",
+        "then we unpacked the computers .",
+        "it ended up nicely ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "I went to the office. There are a bunch of boxes around and I am working on setting up computers. I ended up setting up 4 computers.",
+      "normalized_edited_story_text_sent": [
+        "i went to the office .",
+        "there are a bunch of boxes around and i am working on setting up computers .",
+        "i ended up setting up 4 computers ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i had to go to the office and set up the new computers . the office is very clean, just the right environment for computers . between giving the desks a final polish and unboxing the computers, we had a lot of work to do . the room was so clean that anyone could eat off the floor . i had a lot of work to do when i first came into the office, but it went by quickly .",
+      "normalized_edited_story_text_sent": [
+        "i had to go to the office and set up the new computers .",
+        "the office is very clean , just the right environment for computers .",
+        "between giving the desks a final polish and unboxing the computers , we had a lot of work to do .",
+        "the room was so clean that anyone could eat off the floor .",
+        "i had a lot of work to do when i first came into the office , but it went by quickly ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i had to go to the office . the office is very clean and clean . we had a lot of work to do . the room was very clean and clean . i had a lot of work to do it\u0027s something I have to do fast",
+      "normalized_edited_story_text_sent": [
+        "i had to go to the office .",
+        "the office is very clean and clean .",
+        "we had a lot of work to do .",
+        "the room was very clean and clean .",
+        "i had a lot of work to do it \u0027s something i have to do fast"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I had to go to the office in the morning. The office needed to be cleaned. We had a lot of work to do to get it cleaned. Afterwards, the room was very neat and clean. I worked hard to clean up the office.",
+      "normalized_edited_story_text_sent": [
+        "i had to go to the office in the morning .",
+        "the office needed to be cleaned .",
+        "we had a lot of work to do to get it cleaned .",
+        "afterwards , the room was very neat and clean .",
+        "i worked hard to clean up the office ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623619778624"
+}

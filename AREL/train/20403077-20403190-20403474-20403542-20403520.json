@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "20403077-20403190-20403474-20403542-20403520",
+  "photo_sequence_ids": [
+    "20403077",
+    "20403190",
+    "20403474",
+    "20403542",
+    "20403520"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/15/20403077_00c53f4dfa_o.jpg",
+    "https://farm1.staticflickr.com/16/20403190_f67a626c6e_o.jpg",
+    "https://farm1.staticflickr.com/16/20403474_34f4a6049a_o.jpg",
+    "https://farm1.staticflickr.com/17/20403542_e48760eddd_o.jpg",
+    "https://farm1.staticflickr.com/15/20403520_80b75db751_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park today . there were a lot of old tombstones . and saw the flag . the kids were very happy to be there . the view of the lake was breathtaking .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the park today. there are a lot of old tombstones at the graveyard nearby, some with flags decorating them. the kids were very happy to be there and liked looking at the lake.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park today .",
+        "there are a lot of old tombstones at the graveyard nearby , some with flags decorating them .",
+        "the kids were very happy to be there and liked looking at the lake ."
+      ]
+    },
+    {
+      "worker_id": "A34VIKOCYAW0F3",
+      "edited_story_text": "Me and the kids went to the Birthplace of seattle . There were alot of old tombstones and the flag. the kids were very happy to be there . the view of the lake was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "me and the kids went to the birthplace of seattle .",
+        "there were alot of old tombstones and the flag .",
+        "the kids were very happy to be there .",
+        "the view of the lake was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the park today . there were a lot of old tombstones  and we got to see  the flag . the kids were very happy to be there and the view of the lake was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park today .",
+        "there were a lot of old tombstones and we got to see the flag .",
+        "the kids were very happy to be there and the view of the lake was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the park today . there were a lot of old tombstones . I saw the flag . the kids were very happy to be there . the view of the lake was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park today .",
+        "there were a lot of old tombstones .",
+        "i saw the flag .",
+        "the kids were very happy to be there .",
+        "the view of the lake was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i visited the park today . there were many old tombstones . and saw the flag . the kids were excited to be there . the view of the lake was incredible .",
+      "normalized_edited_story_text_sent": [
+        "i visited the park today .",
+        "there were many old tombstones .",
+        "and saw the flag .",
+        "the kids were excited to be there .",
+        "the view of the lake was incredible ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "476406"
+}

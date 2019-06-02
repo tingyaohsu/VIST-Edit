@@ -1,0 +1,83 @@
+{
+  "photo_sequence_id": "133241079-133241164-133241174-133241329-133241364",
+  "photo_sequence_ids": [
+    "133241079",
+    "133241164",
+    "133241174",
+    "133241329",
+    "133241364"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/52/133241079_140a72c217_o.jpg",
+    "https://farm1.staticflickr.com/48/133241164_10d4e383e4_o.jpg",
+    "https://farm1.staticflickr.com/55/133241174_547a96022b_o.jpg",
+    "https://farm1.staticflickr.com/47/133241329_453759c555_o.jpg",
+    "https://farm1.staticflickr.com/53/133241364_a6374cf726_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a man . she was so happy to see me . the view from the window was amazing . we stopped at a restaurant to eat . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "this is a picture of a man . she was so happy to see me . the view from the window was amazing . we stopped at a restaurant to eat . we had a great time .\r\rThis is my friend. I visited another friend and she was so happy to see me. The view from her window was amazing. We stopped at a restaurant to eat and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a man .",
+        "she was so happy to see me .",
+        "the view from the window was amazing .",
+        "we stopped at a restaurant to eat .",
+        "we had a great time .",
+        "this is my friend .",
+        "i visited another friend and she was so happy to see me .",
+        "the view from her window was amazing .",
+        "we stopped at a restaurant to eat and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "This is a picture of a man I visited. He was so happy to see me. The view from the window was amazing. We went to a restaurant to eat.  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a man i visited .",
+        "he was so happy to see me .",
+        "the view from the window was amazing .",
+        "we went to a restaurant to eat .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a man . he was so happy to see me . the view from the window is amazing . we stop at a restaurant to eat . we have a great time .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a man .",
+        "he was so happy to see me .",
+        "the view from the window is amazing .",
+        "we stop at a restaurant to eat .",
+        "we have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A15HH69K0VGFQ",
+      "edited_story_text": "This is a picture of my coworker. I called my wife when I had a chance and she was so happy to hear from me. The view from the window was amazing . We shared a great meal at this restaurant . We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of my coworker .",
+        "i called my wife when i had a chance and she was so happy to hear from me .",
+        "the view from the window was amazing .",
+        "we shared a great meal at this restaurant .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "this is a picture of a man in an office . here\u0027s a man on the phone looking at a computer . the view from the window was amazing . we stopped at a restaurant to eat . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a man in an office .",
+        "here \u0027s a man on the phone looking at a computer .",
+        "the view from the window was amazing .",
+        "we stopped at a restaurant to eat .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594324557686"
+}

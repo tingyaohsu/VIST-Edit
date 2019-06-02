@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "35765021-35765953-35765801-35765095-35765224",
+  "photo_sequence_ids": [
+    "35765021",
+    "35765953",
+    "35765801",
+    "35765095",
+    "35765224"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/25/35765021_807b4ff514_o.jpg",
+    "https://farm1.staticflickr.com/29/35765953_1251c007dd_o.jpg",
+    "https://farm1.staticflickr.com/22/35765801_431f7dca42_o.jpg",
+    "https://farm1.staticflickr.com/24/35765095_8bee140f68_o.jpg",
+    "https://farm1.staticflickr.com/27/35765224_e847e9325b_o.jpg"
+  ],
+  "auto_story_text_normalized": "the church was beautiful . the tables were set up for the event . the ceremony was held at the church . there were a lot of people there . the bride and groom posed for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The church was beautiful and the tables were set up for the event. The ceremony was held at the church and there were a lot of people there. Afterward, the bride and groom posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "the church was beautiful and the tables were set up for the event .",
+        "the ceremony was held at the church and there were a lot of people there .",
+        "afterward , the bride and groom posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A3GM1Y0H93CZT1",
+      "edited_story_text": "The church was beautiful. The tables were all set up for the event. The wedding ceremony was held at the church. There were a lot of guests there. The bride and groom posed for a picture together.",
+      "normalized_edited_story_text_sent": [
+        "the church was beautiful .",
+        "the tables were all set up for the event .",
+        "the wedding ceremony was held at the church .",
+        "there were a lot of guests there .",
+        "the bride and groom posed for a picture together ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "The church was beautiful. There were tables set up for the vent with candles and rose petals. It was a wedding ceremony that was being held at the church. There was quite a crowd in attendance to celebrate the bride and groom.",
+      "normalized_edited_story_text_sent": [
+        "the church was beautiful .",
+        "there were tables set up for the vent with candles and rose petals .",
+        "it was a wedding ceremony that was being held at the church .",
+        "there was quite a crowd in attendance to celebrate the bride and groom ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The church was beautiful. The tables were set up with beautiful candles and flower petals for the event. The wedding ceremony was held inside at the church. There were a lot of people there. the bride and groom posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "the church was beautiful .",
+        "the tables were set up with beautiful candles and flower petals for the event .",
+        "the wedding ceremony was held inside at the church .",
+        "there were a lot of people there .",
+        "the bride and groom posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the church was beautiful and the tables were set up for the event . the ceremony was held at the church and there were a lot of people there . the bride and groom posed for a picture and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the church was beautiful and the tables were set up for the event .",
+        "the ceremony was held at the church and there were a lot of people there .",
+        "the bride and groom posed for a picture and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "791186"
+}

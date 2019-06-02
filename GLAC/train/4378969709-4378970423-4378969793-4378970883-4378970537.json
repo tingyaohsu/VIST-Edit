@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4378969709-4378970423-4378969793-4378970883-4378970537",
+  "photo_sequence_ids": [
+    "4378969709",
+    "4378970423",
+    "4378969793",
+    "4378970883",
+    "4378970537"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was ready for the meeting . the speaker was very engaging . the audience was listening intently . the speaker was about to start the lecture . the crowd was happy and excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the office was ready for the meeting . the people looked for seats. the audience was listening intently . the speaker was  starting the lecture . the crowd was happy .",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting .",
+        "the people looked for seats .",
+        "the audience was listening intently .",
+        "the speaker was starting the lecture .",
+        "the crowd was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the office was ready for the meeting . the speaker was very engaging . the audience was listening intently . the speaker was about to start the lecture . the crowd took in the information .",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting .",
+        "the speaker was very engaging .",
+        "the audience was listening intently .",
+        "the speaker was about to start the lecture .",
+        "the crowd took in the information ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the office was up for the meet . the speaker, prepared and informative. the audience was engaged . soon the speaker got on with the presentation. the crowd could not have enough of the material.",
+      "normalized_edited_story_text_sent": [
+        "the office was up for the meet .",
+        "the speaker , prepared and informative .",
+        "the audience was engaged .",
+        "soon the speaker got on with the presentation .",
+        "the crowd could not have enough of the material ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "everyone in the office was ready for the meeting . the speaker gave a very engaging lecture . all of us in the audience listened intently .  we were were happy and excited .",
+      "normalized_edited_story_text_sent": [
+        "everyone in the office was ready for the meeting .",
+        "the speaker gave a very engaging lecture .",
+        "all of us in the audience listened intently .",
+        "we were were happy and excited ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The office was ready for our meeting. The speaker was very engaging. The audience I was a part of was listening intently, happy, and excited. The speaker was about to start the lecture in one picture.",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for our meeting .",
+        "the speaker was very engaging .",
+        "the audience i was a part of was listening intently , happy , and excited .",
+        "the speaker was about to start the lecture in one picture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623362769573",
+  "model": "GLAC"
+}

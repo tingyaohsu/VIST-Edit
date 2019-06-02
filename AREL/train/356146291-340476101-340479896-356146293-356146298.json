@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "356146291-340476101-340479896-356146293-356146298",
+  "photo_sequence_ids": [
+    "356146291",
+    "340476101",
+    "340479896",
+    "356146293",
+    "356146298"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/148/356146291_20d6ce3b16_o.jpg",
+    "https://farm1.staticflickr.com/163/340476101_6e2923ac29_o.jpg",
+    "https://farm1.staticflickr.com/126/340479896_c46fa71bc4_o.jpg",
+    "https://farm1.staticflickr.com/152/356146293_679c0ef848_o.jpg",
+    "https://farm1.staticflickr.com/124/356146298_8ac1a5342e_o.jpg"
+  ],
+  "auto_story_text_normalized": "the kids were getting ready to go to the park . the kids had a great time . the kids were playing in the sand . some of the kids had a great time . and the kids were very tired .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the kids went to the water park. they had a great time going down the water slide. at the end of the day, they were very tired from all the fun they had.",
+      "normalized_edited_story_text_sent": [
+        "the kids went to the water park .",
+        "they had a great time going down the water slide .",
+        "at the end of the day , they were very tired from all the fun they had ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the kids got ready to go to the park . the kids had a great time playing there . the kids played in the sand and got dirty. Most of the kids had a great time . after playing  the kids were very tired .",
+      "normalized_edited_story_text_sent": [
+        "the kids got ready to go to the park .",
+        "the kids had a great time playing there .",
+        "the kids played in the sand and got dirty .",
+        "most of the kids had a great time .",
+        "after playing the kids were very tired ."
+      ]
+    },
+    {
+      "worker_id": "A1SZZB104QVWS8",
+      "edited_story_text": "For my daughter\u0027s birthday she wanted a slip and slide so we set one up in our backyard. She and my son had a great tie and they even got all their friends to go down at the same time.",
+      "normalized_edited_story_text_sent": [
+        "for my daughter \u0027s birthday she wanted a slip and slide so we set one up in our backyard .",
+        "she and my son had a great tie and they even got all their friends to go down at the same time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The kids had a great time on the slide. We sprayed water on them.  Very cool and refreshing on a summer day.",
+      "normalized_edited_story_text_sent": [
+        "the kids had a great time on the slide .",
+        "we sprayed water on them .",
+        "very cool and refreshing on a summer day ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the kids were getting ready to visit the park . the kids had fun . the kids were having fun in the sand . some of the kids had a fun. and the kids were worn out .",
+      "normalized_edited_story_text_sent": [
+        "the kids were getting ready to visit the park .",
+        "the kids had fun .",
+        "the kids were having fun in the sand .",
+        "some of the kids had a fun .",
+        "and the kids were worn out ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594477476263"
+}

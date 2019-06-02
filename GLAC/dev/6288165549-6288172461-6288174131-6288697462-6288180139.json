@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "6288165549-6288172461-6288174131-6288697462-6288180139",
+  "photo_sequence_ids": [
+    "6288165549",
+    "6288172461",
+    "6288174131",
+    "6288697462",
+    "6288180139"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the people were all dressed up for the halloween party . they were having a great time . there were many different kinds of costumes . some of the women were very creative . the winner was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the people were in costume for halloween . the party was a great time . many different costumes were worn . some of the women had nice sewing skills . the winner was elated .",
+      "normalized_edited_story_text_sent": [
+        "the people were in costume for halloween .",
+        "the party was a great time .",
+        "many different costumes were worn .",
+        "some of the women had nice sewing skills .",
+        "the winner was elated ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We shopped at markets on the street. There was great clothes and food. The men posed for a picture for me. We met lots of interesting people.",
+      "normalized_edited_story_text_sent": [
+        "we shopped at markets on the street .",
+        "there was great clothes and food .",
+        "the men posed for a picture for me .",
+        "we met lots of interesting people ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the people were all dressed up for the halloween party . they were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the people were all dressed up for the halloween party .",
+        "they were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we really enjoyed the festival! several booths were full of various artists and crafters. there were lots of delicious food options! it was a great way to spend the day.",
+      "normalized_edited_story_text_sent": [
+        "we really enjoyed the festival !",
+        "several booths were full of various artists and crafters .",
+        "there were lots of delicious food options !",
+        "it was a great way to spend the day ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the Halloween party was in the air, as everyone was all dressed up for  . they were having an awesome meet . there was a variety of costumes . some of the women\u0027s  creativity showed . the winner was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was in the air , as everyone was all dressed up for .",
+        "they were having an awesome meet .",
+        "there was a variety of costumes .",
+        "some of the women \u0027s creativity showed .",
+        "the winner was very happy ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627892108009",
+  "model": "GLAC"
+}

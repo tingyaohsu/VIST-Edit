@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4368531214-4367786395-4367789127-4367794215-4368543004",
+  "photo_sequence_ids": [
+    "4368531214",
+    "4367786395",
+    "4367789127",
+    "4367794215",
+    "4368543004"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2739/4368531214_b105e6c1d6_o.jpg",
+    "https://farm3.staticflickr.com/2789/4367786395_6b6e2077c2_o.jpg",
+    "https://farm5.staticflickr.com/4036/4367789127_be7c791828_o.jpg",
+    "https://farm5.staticflickr.com/4001/4367794215_211969ee76_o.jpg",
+    "https://farm3.staticflickr.com/2775/4368543004_3028e95d92_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a trip to location . we took a lot of pictures of the city . this building has a lot of history . this is a picture of a building . after a few hours , i decided to take a break and take a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went on a trip to location . we had a drink here.  this building has a lot of history . we ate lunch here . we bought some rare books. after a few hours , i decided to take a break and get my shoes fixed.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to location .",
+        "we had a drink here .",
+        "this building has a lot of history .",
+        "we ate lunch here .",
+        "we bought some rare books .",
+        "after a few hours , i decided to take a break and get my shoes fixed ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "We went on a trip and took a lot of pictures of the city . The building in the photos has a lot of history. I got tired after a few hours, and decided to take a break and a picture .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip and took a lot of pictures of the city .",
+        "the building in the photos has a lot of history .",
+        "i got tired after a few hours , and decided to take a break and a picture ."
+      ]
+    },
+    {
+      "worker_id": "AZSB87DCJL4QB",
+      "edited_story_text": "We went on a trip to this location. We took a lot of pictures of the city. This building has a lot of history. This is the picture of the building . After a few hours, I decided to take a break and take more pictures.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to this location .",
+        "we took a lot of pictures of the city .",
+        "this building has a lot of history .",
+        "this is the picture of the building .",
+        "after a few hours , i decided to take a break and take more pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We visited a quaint Irish neighborhood of town. There was an authentic Irish pub. There were some other neat shops. It was fun.",
+      "normalized_edited_story_text_sent": [
+        "we visited a quaint irish neighborhood of town .",
+        "there was an authentic irish pub .",
+        "there were some other neat shops .",
+        "it was fun ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we decided to take a fun trip to [location] . the city was the perfect place for us to take photos . there\u0027s an amazingly rich history located in this one building. here\u0027s a local book store . i took a rest after a while and just snapped some pics of nearby stores.",
+      "normalized_edited_story_text_sent": [
+        "we decided to take a fun trip to [location] .",
+        "the city was the perfect place for us to take photos .",
+        "there \u0027s an amazingly rich history located in this one building .",
+        "here \u0027s a local book store .",
+        "i took a rest after a while and just snapped some pics of nearby stores ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623461262602"
+}

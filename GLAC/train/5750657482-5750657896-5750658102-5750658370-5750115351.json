@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5750657482-5750657896-5750658102-5750658370-5750115351",
+  "photo_sequence_ids": [
+    "5750657482",
+    "5750657896",
+    "5750658102",
+    "5750658370",
+    "5750115351"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the school . they had a great time learning how to play . they also played basketball . they even had a mock court . the class was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the kids were excited to be competing in the school . they had a great time. they also played basketball afterwards. then later they  had a mock court . the class was a success .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be competing in the school .",
+        "they had a great time .",
+        "they also played basketball afterwards .",
+        "then later they had a mock court .",
+        "the class was a success ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "The children were excited to learn karate.  They were able to learn to break cinder blocks with their hands.  They learned how to kick as well.  They had a competition. Several students won trophies.",
+      "normalized_edited_story_text_sent": [
+        "the children were excited to learn karate .",
+        "they were able to learn to break cinder blocks with their hands .",
+        "they learned how to kick as well .",
+        "they had a competition .",
+        "several students won trophies ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The kids were excited to be in school and had a great time learning how to play. And they played basketball, too, and even had a mock court. The class really was a total success.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in school and had a great time learning how to play .",
+        "and they played basketball , too , and even had a mock court .",
+        "the class really was a total success ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to be in the karate school . they had a great time learning how to do karate skills. The boys kicked. The kids held their trophies.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the karate school .",
+        "they had a great time learning how to do karate skills .",
+        "the boys kicked .",
+        "the kids held their trophies ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The karate demonstration was really impressive.  The winners were all smiles with their trophies, the day was a total success.",
+      "normalized_edited_story_text_sent": [
+        "the karate demonstration was really impressive .",
+        "the winners were all smiles with their trophies , the day was a total success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626661468475",
+  "model": "GLAC"
+}

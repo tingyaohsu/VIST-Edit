@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "17721720-17721693-17721654-17721752-17721866",
+  "photo_sequence_ids": [
+    "17721720",
+    "17721693",
+    "17721654",
+    "17721752",
+    "17721866"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/14/17721720_56f9968adc_o.jpg",
+    "https://farm1.staticflickr.com/14/17721693_998c512b05_o.jpg",
+    "https://farm1.staticflickr.com/12/17721654_5584ea335c_o.jpg",
+    "https://farm1.staticflickr.com/12/17721752_fb6365b07f_o.jpg",
+    "https://farm1.staticflickr.com/12/17721866_f95675efcb_o.jpg"
+  ],
+  "auto_story_text_normalized": "our trip to the beach was a lot of fun . we went to the lake to enjoy the view . we went to the beach . it was a very nice day to get to the beach . then we all got together for a family photo .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "our trip to the beach was a lot of fun . we went to the lake to enjoy the view and then we went to the beach . it was a very nice day . then we all got together for a family photo and really enjoyed ourselves.",
+      "normalized_edited_story_text_sent": [
+        "our trip to the beach was a lot of fun .",
+        "we went to the lake to enjoy the view and then we went to the beach .",
+        "it was a very nice day .",
+        "then we all got together for a family photo and really enjoyed ourselves ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "our trip to the beach was a lot of fun . we went to the lake to enjoy the view . we went to the beach . We stay in hotel California to get to the beach . then we all got together for a family photo .",
+      "normalized_edited_story_text_sent": [
+        "our trip to the beach was a lot of fun .",
+        "we went to the lake to enjoy the view .",
+        "we went to the beach .",
+        "we stay in hotel california to get to the beach .",
+        "then we all got together for a family photo ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "our trip to the beach was a lot of fun . we went to the lake to enjoy the view . we went to the beach . it was a very nice day to get to the beach and then we all got together for a family photo .",
+      "normalized_edited_story_text_sent": [
+        "our trip to the beach was a lot of fun .",
+        "we went to the lake to enjoy the view .",
+        "we went to the beach .",
+        "it was a very nice day to get to the beach and then we all got together for a family photo ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "This weekend we took a trip to the lake and had a great time. We went with the intention to enjoy the view because the lake was beautiful. We spent a lot of time at the beach and played in the water. The weather was perfect and it was a great weekend to go. The last photo shows us all together in a family photo.",
+      "normalized_edited_story_text_sent": [
+        "this weekend we took a trip to the lake and had a great time .",
+        "we went with the intention to enjoy the view because the lake was beautiful .",
+        "we spent a lot of time at the beach and played in the water .",
+        "the weather was perfect and it was a great weekend to go .",
+        "the last photo shows us all together in a family photo ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "We really enjoyed our trip to the beach. We went to the lake where we saw the amazing view. We went the sandy shore of the beach. It was very pleasant and calm beach day. At the end of the day, we got a family picture.",
+      "normalized_edited_story_text_sent": [
+        "we really enjoyed our trip to the beach .",
+        "we went to the lake where we saw the amazing view .",
+        "we went the sandy shore of the beach .",
+        "it was very pleasant and calm beach day .",
+        "at the end of the day , we got a family picture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "420260"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "2462292515-2462290407-2462264277-2463102504-2463090994",
+  "photo_sequence_ids": [
+    "2462292515",
+    "2462290407",
+    "2462264277",
+    "2463102504",
+    "2463090994"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the restaurant last week . there were a lot of people there . they were very happy . they were all very excited . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i went to the restaurant last week  and had some great food. There was a cool pitcher. I posed outside by the brick building. This is a cool monkey statue.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week and had some great food .",
+        "there was a cool pitcher .",
+        "i posed outside by the brick building .",
+        "this is a cool monkey statue ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i went to the restaurant last week . there were a lot of people there . they were very happy . they were all very hungry . they liked the food .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were a lot of people there .",
+        "they were very happy .",
+        "they were all very hungry .",
+        "they liked the food ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i went to the restaurant last week . there were not many people. the queso was awesome . they were all very excited . they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were not many people .",
+        "the queso was awesome .",
+        "they were all very excited .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The party was a crazy one with chips and dip and strange decorations.",
+      "normalized_edited_story_text_sent": [
+        "the party was a crazy one with chips and dip and strange decorations ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "i went to the restaurant last week . there were a lot of funny people there . they were very happy . they were all very excited . they were very cheerful.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last week .",
+        "there were a lot of funny people there .",
+        "they were very happy .",
+        "they were all very excited .",
+        "they were very cheerful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157604869582203",
+  "model": "GLAC"
+}

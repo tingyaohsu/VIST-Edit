@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "367691019-367691027-367750354-367777639-367750344",
+  "photo_sequence_ids": [
+    "367691019",
+    "367691027",
+    "367750354",
+    "367777639",
+    "367750344"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/148/367691019_f342ae5915_o.jpg",
+    "https://farm1.staticflickr.com/127/367691027_e923b78567_o.jpg",
+    "https://farm1.staticflickr.com/173/367750354_636afd78d6_o.jpg",
+    "https://farm1.staticflickr.com/151/367777639_573a212717_o.jpg",
+    "https://farm1.staticflickr.com/157/367750344_8bc1e4b432_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the ski lodge last night . it was a cold winter , but the weather was very cold . this is a picture of a fountain . there were a lot of people there . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i visited the ski lodge last night . it was a frigid winter , but the weather was freezing . this is a photo of a fountain . there was a crowd there . it was an awesome day .",
+      "normalized_edited_story_text_sent": [
+        "i visited the ski lodge last night .",
+        "it was a frigid winter , but the weather was freezing .",
+        "this is a photo of a fountain .",
+        "there was a crowd there .",
+        "it was an awesome day ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the ski lodge last night . it was a cold winter . this is a picture of a fountain . there were a lot of people outside . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "i went to the ski lodge last night .",
+        "it was a cold winter .",
+        "this is a picture of a fountain .",
+        "there were a lot of people outside .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "i went to the ski lodge last night. it was winter and the weather was very cold. i took a picture of the fountain. there were a lot of people there. it was a great day.",
+      "normalized_edited_story_text_sent": [
+        "i went to the ski lodge last night .",
+        "it was winter and the weather was very cold .",
+        "i took a picture of the fountain .",
+        "there were a lot of people there .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the ski lodge last night . it was a cold winter , but the weather was very cold . We  had to go to the store to get warmer jackets. This is a picture of the store parking lot.",
+      "normalized_edited_story_text_sent": [
+        "i went to the ski lodge last night .",
+        "it was a cold winter , but the weather was very cold .",
+        "we had to go to the store to get warmer jackets .",
+        "this is a picture of the store parking lot ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i went to the ski lodge previous night . it was a cool winter , but the weather was extremely chilly . this is a photo of a fountain . there were more people there . it was a wonderful day .",
+      "normalized_edited_story_text_sent": [
+        "i went to the ski lodge previous night .",
+        "it was a cool winter , but the weather was extremely chilly .",
+        "this is a photo of a fountain .",
+        "there were more people there .",
+        "it was a wonderful day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594497148917"
+}

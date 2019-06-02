@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "30440943-30163107-30161655-30164056-30164705",
+  "photo_sequence_ids": [
+    "30440943",
+    "30163107",
+    "30161655",
+    "30164056",
+    "30164705"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were lots of games . everyone had a great time . the costumes were amazing . the whole group was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the party was a lot of fun with unique presents . there were a variety of cupcakes . everyone had a great time singing happy birthday . the light show was amazing . the people there were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun with unique presents .",
+        "there were a variety of cupcakes .",
+        "everyone had a great time singing happy birthday .",
+        "the light show was amazing .",
+        "the people there were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The party was a lot of fun. There were lots of games, and everyone had a great time with the sparklers. Some people dressed up, and the costumes were amazing! The whole group was very happy.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were lots of games , and everyone had a great time with the sparklers .",
+        "some people dressed up , and the costumes were amazing !",
+        "the whole group was very happy ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family party was a lot of fun . There were lots of games . Everyone had a great time . The costumes were amazing . My family was very happy .",
+      "normalized_edited_story_text_sent": [
+        "my family party was a lot of fun .",
+        "there were lots of games .",
+        "everyone had a great time .",
+        "the costumes were amazing .",
+        "my family was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "Lisa\u0027s birthday the party was a lot of fun . there were a lot of people and everyone got their pictures taken. The doughnuts looked yummy. the birthday cake looked delicious too. Mary brought the cake. everyone had a great time .  the whole group was very happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] \u0027s birthday the party was a lot of fun .",
+        "there were a lot of people and everyone got their pictures taken .",
+        "the doughnuts looked yummy .",
+        "the birthday cake looked delicious too .",
+        "[female] brought the cake .",
+        "everyone had a great time .",
+        "the whole group was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the party gave us a ball . there party\u0027s games galore. everyone seemed so friendly . the costumes captured the show . the whole company was delighted.",
+      "normalized_edited_story_text_sent": [
+        "the party gave us a ball .",
+        "there party \u0027s games galore .",
+        "everyone seemed so friendly .",
+        "the costumes captured the show .",
+        "the whole company was delighted ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "675903",
+  "model": "GLAC"
+}

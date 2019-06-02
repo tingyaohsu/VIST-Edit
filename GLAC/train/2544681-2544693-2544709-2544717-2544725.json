@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2544681-2544693-2544709-2544717-2544725",
+  "photo_sequence_ids": [
+    "2544681",
+    "2544693",
+    "2544709",
+    "2544717",
+    "2544725"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the baby shower . the table was set up with a big tree . the kids were all ready to go . the little girl was having a great time . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The whole family was excited for the Christmas party. The table was set up next to the tree. The kids were all having a blast, and the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the whole family was excited for the christmas party .",
+        "the table was set up next to the tree .",
+        "the kids were all having a blast , and the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A31GERKX2SZETD",
+      "edited_story_text": "The family was excited for the Christmas Dinner. The table was set up next to a big tree . the kids were all ready to go. David saw a cat in a tree and pet it. The dessert was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the christmas dinner .",
+        "the table was set up next to a big tree .",
+        "the kids were all ready to go .",
+        "[male] saw a cat in a tree and pet it .",
+        "the dessert was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Andrea\u0027s family was excited for the baby shower . The table with presents was set up next to the Christmas tree . Andrea and her friends kids were all ready to go . Andrea\u0027s daughter Marie having a great time . The food everyone brought was delicious .",
+      "normalized_edited_story_text_sent": [
+        "andrea \u0027s family was excited for the baby shower .",
+        "the table with presents was set up next to the christmas tree .",
+        "andrea and her friends kids were all ready to go .",
+        "andrea \u0027s daughter marie having a great time .",
+        "the food everyone brought was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was excited for the baby shower . the table was set up with a big tree . the kids were all ready to play . the little kids were having a great time . the food and cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the baby shower .",
+        "the table was set up with a big tree .",
+        "the kids were all ready to play .",
+        "the little kids were having a great time .",
+        "the food and cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was excited for Christmas . the table was set up with a big tree . the kids were all ready to go open presents . the little girl was having a great time . the food was delicious and it was wonderful.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for christmas .",
+        "the table was set up with a big tree .",
+        "the kids were all ready to go open presents .",
+        "the little girl was having a great time .",
+        "the food was delicious and it was wonderful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "63789",
+  "model": "GLAC"
+}

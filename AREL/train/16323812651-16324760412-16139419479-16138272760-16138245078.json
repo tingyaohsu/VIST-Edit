@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "16323812651-16324760412-16139419479-16138272760-16138245078",
+  "photo_sequence_ids": [
+    "16323812651",
+    "16324760412",
+    "16139419479",
+    "16138272760",
+    "16138245078"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8679/16323812651_c6238fc391_o.jpg",
+    "https://farm9.staticflickr.com/8680/16324760412_65f62092c3_o.jpg",
+    "https://farm9.staticflickr.com/8648/16139419479_c89fd401b9_o.jpg",
+    "https://farm9.staticflickr.com/8679/16138272760_8f64230b20_o.jpg",
+    "https://farm8.staticflickr.com/7565/16138245078_60fef6ba57_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of people at the rally . the streets were empty . the police were there . there were many people there . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "There were a lot of people at the rally, but the streets were empty. The police were there. There were many people there, and it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the rally , but the streets were empty .",
+        "the police were there .",
+        "there were many people there , and it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "There were a lot of people at the rally. The streets were empty, and the police were there. Overall the rally was fun, and we were protesting for a good cause.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the rally .",
+        "the streets were empty , and the police were there .",
+        "overall the rally was fun , and we were protesting for a good cause ."
+      ]
+    },
+    {
+      "worker_id": "A28AZTW9BRRPBL",
+      "edited_story_text": "there was a lot of traffic at the rally . the streets were full . the police were there . there were many people there . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of traffic at the rally .",
+        "the streets were full .",
+        "the police were there .",
+        "there were many people there .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3NM0G1J9H27NL",
+      "edited_story_text": "there were a lot of people at the rally . lot of car\u0027s are there. in  that streets were empty . the car was not moving. its parking.that time police car also come to that time.the police were there . there were many people there .in that people have some sheets with quotes. it was a lot of fun. but they are asking something",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the rally .",
+        "lot of car \u0027s are there .",
+        "in that streets were empty .",
+        "the car was not moving .",
+        "its parking.that time police car also come to that time.the police were there .",
+        "there were many people there .",
+        "in that people have some sheets with quotes .",
+        "it was a lot of fun .",
+        "but they are asking something"
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "there were a lot of cars at the rally . the streets were empty . the police were there . there were many people there . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of cars at the rally .",
+        "the streets were empty .",
+        "the police were there .",
+        "there were many people there .",
+        "it was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157650396531315"
+}

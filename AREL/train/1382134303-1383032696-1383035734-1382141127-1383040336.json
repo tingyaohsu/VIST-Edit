@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "1382134303-1383032696-1383035734-1382141127-1383040336",
+  "photo_sequence_ids": [
+    "1382134303",
+    "1383032696",
+    "1383035734",
+    "1382141127",
+    "1383040336"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1136/1382134303_30f4519d30_o.jpg",
+    "https://farm2.staticflickr.com/1063/1383032696_3c81c7b5f9_o.jpg",
+    "https://farm2.staticflickr.com/1399/1383035734_70c4fa3608_o.jpg",
+    "https://farm2.staticflickr.com/1292/1382141127_965552bcaa_o.jpg",
+    "https://farm2.staticflickr.com/1024/1383040336_6e3660300e_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to visit my friend \u0027s house today . i had a great time . the flowers were very beautiful . then we went to the park to get some ice cream . this is a picture of a tree .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i traveled to my buddy \u0027s house today . i had a wonderful time . the trees were very beautiful . then we walked to the park to get some ice cream . this is a photo of a the house.",
+      "normalized_edited_story_text_sent": [
+        "i traveled to my buddy \u0027s house today .",
+        "i had a wonderful time .",
+        "the trees were very beautiful .",
+        "then we walked to the park to get some ice cream .",
+        "this is a photo of a the house ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i went to visit my friend \u0027s house today . the house looks abandon . the flowers were very beautiful . then we went to the park to get some ice cream . this is a picture of a tree .",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today .",
+        "the house looks abandon .",
+        "the flowers were very beautiful .",
+        "then we went to the park to get some ice cream .",
+        "this is a picture of a tree ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to visit my friend \u0027s house today . i had a lot of fun . the flowers were very beautiful . then we went to the park to get some ice cream . this is a picture of a tree .",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today .",
+        "i had a lot of fun .",
+        "the flowers were very beautiful .",
+        "then we went to the park to get some ice cream .",
+        "this is a picture of a tree ."
+      ]
+    },
+    {
+      "worker_id": "ADBDQ7FTFHKCR",
+      "edited_story_text": "I went to visit my friend \u0027s house today.  I had a great time.  The flowers were very beautiful . We then we went to the park to get some ice cream.   Even the trees were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today .",
+        "i had a great time .",
+        "the flowers were very beautiful .",
+        "we then we went to the park to get some ice cream .",
+        "even the trees were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "i went to visit my friend \u0027s house today . i had a great time .the neighborhood was cozy, there were  beautiful flowers . then we went to the park to get some ice cream . this is a picture of a tree next to the place.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today .",
+        "i had a great time .",
+        "the neighborhood was cozy , there were beautiful flowers .",
+        "then we went to the park to get some ice cream .",
+        "this is a picture of a tree next to the place ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602007678960"
+}

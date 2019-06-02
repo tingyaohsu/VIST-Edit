@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2258423349-2259215462-2259215838-2258424747-2259216116",
+  "photo_sequence_ids": [
+    "2258423349",
+    "2259215462",
+    "2259215838",
+    "2258424747",
+    "2259216116"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to visit the park . the kids loved the view . the old farm was a great place for the kids . the tractor was the best part of the trip . the little ones were the most fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We put out a Christmas decoration. The view of the mountain was amazing . It was an overcast day. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we put out a christmas decoration .",
+        "the view of the mountain was amazing .",
+        "it was an overcast day .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "we had decorated the smallest christmas tree.  then we took pictures of the town from one of the hills.  we could see many houses.  we also could see people in the street.",
+      "normalized_edited_story_text_sent": [
+        "we had decorated the smallest christmas tree .",
+        "then we took pictures of the town from one of the hills .",
+        "we could see many houses .",
+        "we also could see people in the street ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was excited to visit the park . the kids loved the view . the old farm was a great place for the kids . the tractor was the best part of the trip . the park was a big hit .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to visit the park .",
+        "the kids loved the view .",
+        "the old farm was a great place for the kids .",
+        "the tractor was the best part of the trip .",
+        "the park was a big hit ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family was excited to visit the park . the kids loved the view . the old farm was a great place to play . the tractor was the best part of the trip . the little ones had the most fun .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to visit the park .",
+        "the kids loved the view .",
+        "the old farm was a great place to play .",
+        "the tractor was the best part of the trip .",
+        "the little ones had the most fun ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was excited to visit the giant park . the kids loved the scenery. the old farm was a great place for the kids . the tractor was the best part of the trip . the little ones were the most fun .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to visit the giant park .",
+        "the kids loved the scenery .",
+        "the old farm was a great place for the kids .",
+        "the tractor was the best part of the trip .",
+        "the little ones were the most fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603947798265",
+  "model": "GLAC"
+}

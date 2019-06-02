@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4454780550-4454780576-4454001037-4454000999-4454780468",
+  "photo_sequence_ids": [
+    "4454780550",
+    "4454780576",
+    "4454001037",
+    "4454000999",
+    "4454780468"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2691/4454780550_1ebd293768_o.jpg",
+    "https://farm5.staticflickr.com/4016/4454780576_244e1993ed_o.jpg",
+    "https://farm5.staticflickr.com/4005/4454001037_2a471b500f_o.jpg",
+    "https://farm3.staticflickr.com/2741/4454000999_8f5d093711_o.jpg",
+    "https://farm3.staticflickr.com/2726/4454780468_0ae4a3e9ff_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the office today . there were a lot of people there . this is a picture of a box . this is a picture of a table . this is a picture of a woman .",
+  "edited_stories": [
+    {
+      "worker_id": "A2G6PVTS2DHBJJ",
+      "edited_story_text": "I had a great time at the office today! There were a lot of people there. This is a picture of a box. This is a picture of a table. This is a picture of a woman.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the office today !",
+        "there were a lot of people there .",
+        "this is a picture of a box .",
+        "this is a picture of a table .",
+        "this is a picture of a woman ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to a bazaar today. They had a lot of things for sale.  There were boots, purses, scarves, any many other accessories. I wanted to buy everything.",
+      "normalized_edited_story_text_sent": [
+        "i went to a bazaar today .",
+        "they had a lot of things for sale .",
+        "there were boots , purses , scarves , any many other accessories .",
+        "i wanted to buy everything ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The office held a purse marketing event today. A lot of people showed up for the special presentation. There were lots of shoes, purses and other accessories on display. We all looked through the different options that were for sale. The presenter told us all about the products and we listened intently.",
+      "normalized_edited_story_text_sent": [
+        "the office held a purse marketing event today .",
+        "a lot of people showed up for the special presentation .",
+        "there were lots of shoes , purses and other accessories on display .",
+        "we all looked through the different options that were for sale .",
+        "the presenter told us all about the products and we listened intently ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i had a great time at the office today . they had a representative there selling some things . this is a picture of some of the things for sale. this is a picture of a table . this is a picture of a woman .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the office today .",
+        "they had a representative there selling some things .",
+        "this is a picture of some of the things for sale .",
+        "this is a picture of a table .",
+        "this is a picture of a woman ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to a conference today. Women\u0027s clothing was available for viewing. Saleswomen pointed them out. There were lots of styles available. We were excited to see them.",
+      "normalized_edited_story_text_sent": [
+        "i went to a conference today .",
+        "women \u0027s clothing was available for viewing .",
+        "saleswomen pointed them out .",
+        "there were lots of styles available .",
+        "we were excited to see them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623546961645"
+}

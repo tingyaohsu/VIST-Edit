@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4432552129-4432552775-4432554133-4433328732-4433329372",
+  "photo_sequence_ids": [
+    "4432552129",
+    "4432552775",
+    "4432554133",
+    "4433328732",
+    "4433329372"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be at the party . he was ready for a fun night . the band was playing and having a great time . the crowd was very loud and happy . the kids were really tired and fell asleep .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the man was excited to be at the party . he was ready for a fun night .  people were playing football in the front yard. the kids were hanging out in the living room. .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the party .",
+        "he was ready for a fun night .",
+        "people were playing football in the front yard .",
+        "the kids were hanging out in the living room ."
+      ]
+    },
+    {
+      "worker_id": "A1O4TRWZO664V3",
+      "edited_story_text": "David was excited to be at the party. He was ready for a fun night there. \rThe band was playing and everyone was having a great time. \rThe crowd was very loud and happy. The kids were really tired afterwards and fell asleep .",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited to be at the party .",
+        "he was ready for a fun night there .",
+        "the band was playing and everyone was having a great time .",
+        "the crowd was very loud and happy .",
+        "the kids were really tired afterwards and fell asleep ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the man was excited to be at the house . he was ready for a fun night . they were playing and having a great time . the kids were really tired and fell asleep .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the house .",
+        "he was ready for a fun night .",
+        "they were playing and having a great time .",
+        "the kids were really tired and fell asleep ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was glad to attend the party . he was prepared to have fun . a band was having fun playing . the crowd was very boisterous and cheerful . tired children went to sleep .",
+      "normalized_edited_story_text_sent": [
+        "the man was glad to attend the party .",
+        "he was prepared to have fun .",
+        "a band was having fun playing .",
+        "the crowd was very boisterous and cheerful .",
+        "tired children went to sleep ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man was excited to be at the party . They hung out on laptops. They played video games. Then they played outside.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the party .",
+        "they hung out on laptops .",
+        "they played video games .",
+        "then they played outside ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623620043998",
+  "model": "GLAC"
+}

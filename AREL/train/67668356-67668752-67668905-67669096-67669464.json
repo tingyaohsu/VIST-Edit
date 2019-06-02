@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "67668356-67668752-67668905-67669096-67669464",
+  "photo_sequence_ids": [
+    "67668356",
+    "67668752",
+    "67668905",
+    "67669096",
+    "67669464"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/26/67668356_094889e08b_o.jpg",
+    "https://farm1.staticflickr.com/28/67668752_38f38b2aaa_o.jpg",
+    "https://farm1.staticflickr.com/31/67668905_6422c00cfe_o.jpg",
+    "https://farm1.staticflickr.com/33/67669096_4316b26560_o.jpg",
+    "https://farm1.staticflickr.com/35/67669464_2dd0bfeb06_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a great day for a party . we had a lot of fun at the party . we had a lot of fun . everyone had a great time . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3IDBFPW2T9P5D",
+      "edited_story_text": "It was a great day for a party at the bar. We had a lot of fun at the party. Everyone laughed and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a party at the bar .",
+        "we had a lot of fun at the party .",
+        "everyone laughed and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "it was a great time at the bar . we had a lot of fun  . she had a lot of to drink and started crying . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "it was a great time at the bar .",
+        "we had a lot of fun .",
+        "she had a lot of to drink and started crying .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "It was the perfect day to throw a party. Everyone had a lot of fun. We drank and talked. It got silly. Everyone was glad they went to the party.",
+      "normalized_edited_story_text_sent": [
+        "it was the perfect day to throw a party .",
+        "everyone had a lot of fun .",
+        "we drank and talked .",
+        "it got silly .",
+        "everyone was glad they went to the party ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "It was a great day for a party. We had a lot of fun and everyone had a great time.  We had a few drinks and just hung out.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a party .",
+        "we had a lot of fun and everyone had a great time .",
+        "we had a few drinks and just hung out ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "It was an awesome day for an awesome party! We partied harder than anyone else in the place! We were the fun section at the bar! Everyone had a blast! We had the best time out together!",
+      "normalized_edited_story_text_sent": [
+        "it was an awesome day for an awesome party !",
+        "we partied harder than anyone else in the place !",
+        "we were the fun section at the bar !",
+        "everyone had a blast !",
+        "we had the best time out together !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1460418"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6820200197-6820198655-6820199441-6820192807-6820201755",
+  "photo_sequence_ids": [
+    "6820200197",
+    "6820198655",
+    "6820199441",
+    "6820192807",
+    "6820201755"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7143/6820200197_d018aec0a8_o.jpg",
+    "https://farm8.staticflickr.com/7142/6820198655_e60a1c7a43_o.jpg",
+    "https://farm8.staticflickr.com/7035/6820199441_b025ffa1c6_o.jpg",
+    "https://farm8.staticflickr.com/7011/6820192807_412958d372_o.jpg",
+    "https://farm8.staticflickr.com/7014/6820201755_fa785a3a26_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] was excited for his birthday . we had a lot of food to eat . [male] was so excited to be there . we had a great time there . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "Th man was excited for his birthday meal. We had a lot of food to eat and the face he made was priceless. We had a great time there and we saw some vendors selling stuff on the street. We definitely had a great time.",
+      "normalized_edited_story_text_sent": [
+        "th man was excited for his birthday meal .",
+        "we had a lot of food to eat and the face he made was priceless .",
+        "we had a great time there and we saw some vendors selling stuff on the street .",
+        "we definitely had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "[Male] was excited for his birthday. There was a lot of food to eat. [Male] was so excited to be there, and we had a great time!",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited for his birthday .",
+        "there was a lot of food to eat .",
+        "[male] was so excited to be there , and we had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "[male] was excited for his birthday . we had a lot of food to eat . [male] was so excited to be there . later we went to a farmers market then a strip club. we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited for his birthday .",
+        "we had a lot of food to eat .",
+        "[male] was so excited to be there .",
+        "later we went to a farmers market then a strip club .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "[male] was energized for his birthday . we had a more food to eat . [male] was so eager to be there . we had a extraordinary time there . we had a extraordinary time .",
+      "normalized_edited_story_text_sent": [
+        "[male] was energized for his birthday .",
+        "we had a more food to eat .",
+        "[male] was so eager to be there .",
+        "we had a extraordinary time there .",
+        "we had a extraordinary time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "[male] was excited for his birthday. we had a lot to eat a the restaurant. then went outside and walked around, looking at things in the outdoor market. we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited for his birthday .",
+        "we had a lot to eat a the restaurant .",
+        "then went outside and walked around , looking at things in the outdoor market .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629177580209"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "8627047156-8627048120-8627049322-8627050620-8627053398",
+  "photo_sequence_ids": [
+    "8627047156",
+    "8627048120",
+    "8627049322",
+    "8627050620",
+    "8627053398"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the table was set for the party . the guests were all ready to go . the food was delicious . the people were having a great time . the night was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The table was set for the St. Patty\u0027s Day party. Everyone was ready to go to the party. The food at the celebration was delicious. All of the people in attendance were having a great time. The party was a huge success.",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the st. patty \u0027s day party .",
+        "everyone was ready to go to the party .",
+        "the food at the celebration was delicious .",
+        "all of the people in attendance were having a great time .",
+        "the party was a huge success ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the table was all set for the party . the guests were all ready to chow down . the food was delicious . everyone was having a great time . the night was a great success .",
+      "normalized_edited_story_text_sent": [
+        "the table was all set for the party .",
+        "the guests were all ready to chow down .",
+        "the food was delicious .",
+        "everyone was having a great time .",
+        "the night was a great success ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The table was set for the part. The guests were ready, and the food was delicious. The people had a great time, and the night was a success.",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the part .",
+        "the guests were ready , and the food was delicious .",
+        "the people had a great time , and the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the table was set for the party . the guests were all ready to go . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the party .",
+        "the guests were all ready to go .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the table was set for the party . the guests were all ready to dance . the food was delicious . the people were having a ball . the night was a success .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the party .",
+        "the guests were all ready to dance .",
+        "the food was delicious .",
+        "the people were having a ball .",
+        "the night was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157633184822264",
+  "model": "GLAC"
+}

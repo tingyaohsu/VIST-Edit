@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4282893685-4282894079-4283640966-4283650202-4283651542",
+  "photo_sequence_ids": [
+    "4282893685",
+    "4282894079",
+    "4283640966",
+    "4283650202",
+    "4283651542"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . the kids were having a great time . the adults were excited to see each other . the baby was happy . the family was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the family got together for a party. the kids were having a great time. the adults were excited to see each other, and the baby was happy to have so many people to play with.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the kids were having a great time .",
+        "the adults were excited to see each other , and the baby was happy to have so many people to play with ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family got together for a house warming party. happy for the lucky couple with the new house. the adults were excited to see each other . the baby was happy .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a house warming party .",
+        "happy for the lucky couple with the new house .",
+        "the adults were excited to see each other .",
+        "the baby was happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a get-together . the kids were playing . the grown ups were excited to meet again . even the baby was cheerful . the family was so glad to be reunited .",
+      "normalized_edited_story_text_sent": [
+        "the family had a get-together .",
+        "the kids were playing .",
+        "the grown ups were excited to meet again .",
+        "even the baby was cheerful .",
+        "the family was so glad to be reunited ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "Our family was getting together for a party. The kids were having a fantastic time. The adults went outside to see each other. Even the baby was enjoying the party. Everyone in the family had a super time.",
+      "normalized_edited_story_text_sent": [
+        "our family was getting together for a party .",
+        "the kids were having a fantastic time .",
+        "the adults went outside to see each other .",
+        "even the baby was enjoying the party .",
+        "everyone in the family had a super time ."
+      ]
+    },
+    {
+      "worker_id": "A30DFNV9FV487C",
+      "edited_story_text": "We had a party at our house this year. So many friends came and we showed them our soon to be rec room. I got to see my nephew sammy and mom mom sally.",
+      "normalized_edited_story_text_sent": [
+        "we had a party at our house this year .",
+        "so many friends came and we showed them our soon to be rec room .",
+        "i got to see my nephew sammy and mom mom sally ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623231573296",
+  "model": "GLAC"
+}

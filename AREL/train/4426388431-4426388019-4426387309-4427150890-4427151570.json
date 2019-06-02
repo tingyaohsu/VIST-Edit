@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4426388431-4426388019-4426387309-4427150890-4427151570",
+  "photo_sequence_ids": [
+    "4426388431",
+    "4426388019",
+    "4426387309",
+    "4427150890",
+    "4427151570"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4003/4426388431_3b2b255049_o.jpg",
+    "https://farm5.staticflickr.com/4049/4426388019_140abe6ed9_o.jpg",
+    "https://farm3.staticflickr.com/2711/4426387309_2787f226d0_o.jpg",
+    "https://farm3.staticflickr.com/2741/4427150890_42708ab729_o.jpg",
+    "https://farm5.staticflickr.com/4045/4427151570_e13e1098e2_o.jpg"
+  ],
+  "auto_story_text_normalized": ". i had a great time . the city was beautiful . my wife and i were so excited to see the sights . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "My wife and I rented the car and visited the city. It was a nice car with some great features. The city was beautiful and we saw a nice boat just off shore. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my wife and i rented the car and visited the city .",
+        "it was a nice car with some great features .",
+        "the city was beautiful and we saw a nice boat just off shore .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3HE75FVA00JSF",
+      "edited_story_text": "I had a great time seeing the beautiful countryside with my wife. She and i were so excited to see the sights; it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time seeing the beautiful countryside with my wife .",
+        "she and i were so excited to see the sights ; it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I had a great time on the road trip with my new car.  My wife and I were so excited to see the sights. it was a great day to go on a road trip to see the lighthouse and the sea.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time on the road trip with my new car .",
+        "my wife and i were so excited to see the sights .",
+        "it was a great day to go on a road trip to see the lighthouse and the sea ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "My wife and I drove to the coast. It was a little chilly. The coast was rocky, and there was a shipwreckk near the beach. An old lighthouse stood tall.",
+      "normalized_edited_story_text_sent": [
+        "my wife and i drove to the coast .",
+        "it was a little chilly .",
+        "the coast was rocky , and there was a shipwreckk near the beach .",
+        "an old lighthouse stood tall ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time! The city was beautiful, and my wife and I were so excited to see the sights. We had a great day.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time !",
+        "the city was beautiful , and my wife and i were so excited to see the sights .",
+        "we had a great day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623480872283"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "68559374-68558571-68557990-68554809-68554240",
+  "photo_sequence_ids": [
+    "68559374",
+    "68558571",
+    "68557990",
+    "68554809",
+    "68554240"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was very happy to be at the party . he was so excited to see his brother . he was so happy that he had been there for a long time . he was really happy with the new toys . he was n\u0027t sure what he was doing .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the baby was very happy to be at the party with her entire family . he was so excited to see his brother who just got home . he was so happy that he had been there for a long time waiting for his brother . he was really happy with the new toys that he got as gifts . he wasn\u0027t sure what he was doing with the baby in his arms.",
+      "normalized_edited_story_text_sent": [
+        "the baby was very happy to be at the party with her entire family .",
+        "he was so excited to see his brother who just got home .",
+        "he was so happy that he had been there for a long time waiting for his brother .",
+        "he was really happy with the new toys that he got as gifts .",
+        "he was n\u0027t sure what he was doing with the baby in his arms ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The newest addition to the family had a great time at the party.  Some of the older kids got jealous from all the attention.  Oh well, what can you do?",
+      "normalized_edited_story_text_sent": [
+        "the newest addition to the family had a great time at the party .",
+        "some of the older kids got jealous from all the attention .",
+        "oh well , what can you do ?"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the baby was pleased at the party . he was happy when near his brother . he was also happy after surrounded by fun people for a while . he played with new toys eagerly . he wasn\u0027t sure about the curious new toys .",
+      "normalized_edited_story_text_sent": [
+        "the baby was pleased at the party .",
+        "he was happy when near his brother .",
+        "he was also happy after surrounded by fun people for a while .",
+        "he played with new toys eagerly .",
+        "he was n\u0027t sure about the curious new toys ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "Baby David was seeing uncle John and Aunt Mary for the first time. He was well behaved as they held him though he was mostly busy with his pacifier.",
+      "normalized_edited_story_text_sent": [
+        "baby [male] was seeing uncle [male] and aunt [female] for the first time .",
+        "he was well behaved as they held him though he was mostly busy with his pacifier ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "Our child has always been a happy child. has been loved by family over the years as he has grown up. We are a happy family.",
+      "normalized_edited_story_text_sent": [
+        "our child has always been a happy child .",
+        "has been loved by family over the years as he has grown up .",
+        "we are a happy family ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1478789",
+  "model": "GLAC"
+}

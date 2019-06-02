@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "66880611-66880612-66871027-66882786-66882784",
+  "photo_sequence_ids": [
+    "66880611",
+    "66880612",
+    "66871027",
+    "66882786",
+    "66882784"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was prepared for the party . the main course was the main course . the chicken was presented with a delicious sauce . the chef was very happy to be there . the man was excited about the meal .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the food was prepared for the party . the main course delicious.",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party .",
+        "the main course delicious ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the food was prepared for the party . the main course was turkey and there was side dishes to. Everyone drank, ate, and had fun.",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party .",
+        "the main course was turkey and there was side dishes to .",
+        "everyone drank , ate , and had fun ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the food was prepared for the party by a new chef . the main course chicken with choice of side dishes including beans and deviled eggs . the chicken was presented with a delicious sauce, I like the pink sauce the best . the chef was very happy to be there, it was his first event since taking over as the new chef . the man was excited about the meal and these ladies watched as he described what he liked to everyone.",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party by a new chef .",
+        "the main course chicken with choice of side dishes including beans and deviled eggs .",
+        "the chicken was presented with a delicious sauce , i like the pink sauce the best .",
+        "the chef was very happy to be there , it was his first event since taking over as the new chef .",
+        "the man was excited about the meal and these ladies watched as he described what he liked to everyone ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "A lot of great food was prepared for the party.  We had chicken, beans, coleslaw and of course a lot of booze!!!!",
+      "normalized_edited_story_text_sent": [
+        "a lot of great food was prepared for the party .",
+        "we had chicken , beans , coleslaw and of course a lot of booze !!!!"
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the food was prepared for the party . the main course was the main course . the chicken was presented with a delicious sauce . the chef was very happy to be there . the man was excited about the meal .\r\rThere was so much food prepared for the party. The main course was the biggest dish. The chicken was decorated with a delicious sauce. The head chief was so excited be there and meet everyone. He was so impressed by the meal.",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party .",
+        "the main course was the main course .",
+        "the chicken was presented with a delicious sauce .",
+        "the chef was very happy to be there .",
+        "the man was excited about the meal .",
+        "there was so much food prepared for the party .",
+        "the main course was the biggest dish .",
+        "the chicken was decorated with a delicious sauce .",
+        "the head chief was so excited be there and meet everyone .",
+        "he was so impressed by the meal ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1450140",
+  "model": "GLAC"
+}

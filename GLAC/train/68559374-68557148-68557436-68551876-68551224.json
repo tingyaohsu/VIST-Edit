@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "68559374-68557148-68557436-68551876-68551224",
+  "photo_sequence_ids": [
+    "68559374",
+    "68557148",
+    "68557436",
+    "68551876",
+    "68551224"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was having a great time . he was very happy to see his friends . he was so excited . he was n\u0027t too sure about it . he was just a bit nervous .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the baby was having a great time meeting all of his family . Jack was very happy to see his family for the first time . Jack was so excited that he was going to play . his brother Steve wasn\u0027t too sure about it . but steve was just a bit nervous .",
+      "normalized_edited_story_text_sent": [
+        "the baby was having a great time meeting all of his family .",
+        "jack was very happy to see his family for the first time .",
+        "jack was so excited that he was going to play .",
+        "his brother steve was n\u0027t too sure about it .",
+        "but steve was just a bit nervous ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the baby was having a great time . he was very happy to see his friends . he was so excited . he was n\u0027t too sure about it . he was just a bit nervous .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the baby was having a great time .",
+        "he was very happy to see his friends .",
+        "he was so excited .",
+        "he was n\u0027t too sure about it .",
+        "he was just a bit nervous ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I went to visit my brother and his new son. My nephew was only a baby but he got along with my wife and was very well behaved, even during story time.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my brother and his new son .",
+        "my nephew was only a baby but he got along with my wife and was very well behaved , even during story time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Got to meet the new grandson today.  It never gets old, even though we now have 13 of them now. Growing family to say the least.",
+      "normalized_edited_story_text_sent": [
+        "got to meet the new grandson today .",
+        "it never gets old , even though we now have 13 of them now .",
+        "growing family to say the least ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the baby was pleased . he was very happy to see familiar faces . he was so cheerful . he wasn\u0027t sure about what was going on . he was only slightly nervous .",
+      "normalized_edited_story_text_sent": [
+        "the baby was pleased .",
+        "he was very happy to see familiar faces .",
+        "he was so cheerful .",
+        "he was n\u0027t sure about what was going on .",
+        "he was only slightly nervous ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1478789",
+  "model": "GLAC"
+}

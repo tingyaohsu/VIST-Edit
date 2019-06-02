@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4267433606-4267434010-4266688391-4266688917-4267436018",
+  "photo_sequence_ids": [
+    "4267433606",
+    "4267434010",
+    "4266688391",
+    "4266688917",
+    "4267436018"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was giving a speech . he was very excited . he was a good speaker . he was very engaging . he was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the man gave a speech . he was very excited to meet others after the speech. he was a good speaker and listener. he was very engaging with us . he was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the man gave a speech .",
+        "he was very excited to meet others after the speech .",
+        "he was a good speaker and listener .",
+        "he was very engaging with us .",
+        "he was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was giving a lecture . he was very excited to be lecturing . he got his points across clearly . he was very motivating . he was happy to stay there to answer questions .",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a lecture .",
+        "he was very excited to be lecturing .",
+        "he got his points across clearly .",
+        "he was very motivating .",
+        "he was happy to stay there to answer questions ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The teacher was a white haired gentleman. He enjoys teaching. The students enjoy his demeaner. He works one on one.He helps individual students.",
+      "normalized_edited_story_text_sent": [
+        "the teacher was a white haired gentleman .",
+        "he enjoys teaching .",
+        "the students enjoy his demeaner .",
+        "he works one on one.he helps individual students ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the man was giving a interesting speech . he was very energized. he was a good speaker . he was very engaging . he was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a interesting speech .",
+        "he was very energized .",
+        "he was a good speaker .",
+        "he was very engaging .",
+        "he was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "A man came in to teach us graphic design. he was a pretty good instructor. he was very engaging, and seemed happy to be there. i learned a lot for my business!",
+      "normalized_edited_story_text_sent": [
+        "a man came in to teach us graphic design .",
+        "he was a pretty good instructor .",
+        "he was very engaging , and seemed happy to be there .",
+        "i learned a lot for my business !"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623192175390",
+  "model": "GLAC"
+}

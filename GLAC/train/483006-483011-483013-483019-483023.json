@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "483006-483011-483013-483019-483023",
+  "photo_sequence_ids": [
+    "483006",
+    "483011",
+    "483013",
+    "483019",
+    "483023"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was happy to be at the event . she was looking for a picture . she was taking pictures of the camera . she was very happy . the man was so excited .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The lady was so happy to be at the event, and she was looking for a picture, while taking pictures with the camera. And she was happy too. There was a man also, but he was excited.",
+      "normalized_edited_story_text_sent": [
+        "the lady was so happy to be at the event , and she was looking for a picture , while taking pictures with the camera .",
+        "and she was happy too .",
+        "there was a man also , but he was excited ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "My mother was so happy to be at the event . she was looking for a picture of one of my cousins. she was taking pictures with the camera of my father. They are such a happy couple.",
+      "normalized_edited_story_text_sent": [
+        "my mother was so happy to be at the event .",
+        "she was looking for a picture of one of my cousins .",
+        "she was taking pictures with the camera of my father .",
+        "they are such a happy couple ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the lady was happy to be at the event . she was looking for a certain picture . she was taking pictures of the camera . she was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the event .",
+        "she was looking for a certain picture .",
+        "she was taking pictures of the camera .",
+        "she was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the lady was happy to be at the event . she was looking for a picture .",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the event .",
+        "she was looking for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the lady was happy to be at the event she looked thrilled . she was looking a thing to take a picture of  . she was taking pictures of the camera . she was very happy . the man was also so excited .",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the event she looked thrilled .",
+        "she was looking a thing to take a picture of .",
+        "she was taking pictures of the camera .",
+        "she was very happy .",
+        "the man was also so excited ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "11799",
+  "model": "GLAC"
+}

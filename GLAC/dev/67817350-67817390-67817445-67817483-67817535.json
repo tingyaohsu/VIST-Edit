@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "67817350-67817390-67817445-67817483-67817535",
+  "photo_sequence_ids": [
+    "67817350",
+    "67817390",
+    "67817445",
+    "67817483",
+    "67817535"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was gathered for the birthday party . the family was all there . the kids had a great time . they played games . they had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was had a birthday party . everyone was there . kids played cheerfully . tabletop games were played . good times were shared .",
+      "normalized_edited_story_text_sent": [
+        "the family was had a birthday party .",
+        "everyone was there .",
+        "kids played cheerfully .",
+        "tabletop games were played .",
+        "good times were shared ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was gathered for the birthday party .The table was set and everyone gathered around. Games were played by all young and old.",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party .",
+        "the table was set and everyone gathered around .",
+        "games were played by all young and old ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family was gathered for the birthday party . the family was all there . the kids had a great time . they played games . they had a good time .\r\rThe entire family gathered for John\u0027s birthday party. Everyone from the family was there! My kids had a wonderful time. There were games for them to play. We all had a blast.",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party .",
+        "the family was all there .",
+        "the kids had a great time .",
+        "they played games .",
+        "they had a good time .",
+        "the entire family gathered for [male] \u0027s birthday party .",
+        "everyone from the family was there !",
+        "my kids had a wonderful time .",
+        "there were games for them to play .",
+        "we all had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the family was gathered for the birthday party . the family was all there . the kids had a great time . they played games . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family was gathered for the birthday party .",
+        "the family was all there .",
+        "the kids had a great time .",
+        "they played games .",
+        "they had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was gathered for the birthday part for the oldest child . the family was all there including the grandparents. the kids had a great time playing with each other . they played games on the table . they had a good time all night .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday part for the oldest child .",
+        "the family was all there including the grandparents .",
+        "the kids had a great time playing with each other .",
+        "they played games on the table .",
+        "they had a good time all night ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1463296",
+  "model": "GLAC"
+}

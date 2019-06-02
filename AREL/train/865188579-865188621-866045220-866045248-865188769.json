@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "865188579-865188621-866045220-866045248-865188769",
+  "photo_sequence_ids": [
+    "865188579",
+    "865188621",
+    "866045220",
+    "866045248",
+    "865188769"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1137/865188579_f3e240feda_o.jpg",
+    "https://farm2.staticflickr.com/1208/865188621_a030d4a670_o.jpg",
+    "https://farm2.staticflickr.com/1110/866045220_0b1c5a87a0_o.jpg",
+    "https://farm2.staticflickr.com/1042/866045248_56c199c09e_o.jpg",
+    "https://farm2.staticflickr.com/1338/865188769_47c9b2426b_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to location for the day . there were a lot of old buildings there . it was a nice sunny day in the water . the water was calm and the water was beautiful . we took a boat ride on the lake .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to location for the day. There were a lot of old buildings there. It was a nice sunny day being next to the water. The water was calm and the  beautiful. We took a boat ride on the lake.",
+      "normalized_edited_story_text_sent": [
+        "we went to location for the day .",
+        "there were a lot of old buildings there .",
+        "it was a nice sunny day being next to the water .",
+        "the water was calm and the beautiful .",
+        "we took a boat ride on the lake ."
+      ]
+    },
+    {
+      "worker_id": "AH56J7I291XL7",
+      "edited_story_text": "We went to location for the day .There were a lot of old buildings there . It was a nice sunny day near the water . The water was calm and beautiful . We took a boat ride on the lake .",
+      "normalized_edited_story_text_sent": [
+        "we went to location for the day .",
+        "there were a lot of old buildings there .",
+        "it was a nice sunny day near the water .",
+        "the water was calm and beautiful .",
+        "we took a boat ride on the lake ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went to a secluded place for the day .  it was a nice sunny day in the water that we  went to later . the water was calm and the water was beautiful . we took a boat ride on the lake at the end of the day.",
+      "normalized_edited_story_text_sent": [
+        "we went to a secluded place for the day .",
+        "it was a nice sunny day in the water that we went to later .",
+        "the water was calm and the water was beautiful .",
+        "we took a boat ride on the lake at the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the city for the day. there were a lot of old buildings there. it was a nice sunny day and it was nice to walk around. the water at the nearby lake was calm. we took a boat ride on the lake .",
+      "normalized_edited_story_text_sent": [
+        "we went to the city for the day .",
+        "there were a lot of old buildings there .",
+        "it was a nice sunny day and it was nice to walk around .",
+        "the water at the nearby lake was calm .",
+        "we took a boat ride on the lake ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went out for the day. We saw a lot of old buildings, and it was a nice sunny day on the water. The water was calm, and beautiful, so we went for a boat ride on the lake.",
+      "normalized_edited_story_text_sent": [
+        "we went out for the day .",
+        "we saw a lot of old buildings , and it was a nice sunny day on the water .",
+        "the water was calm , and beautiful , so we went for a boat ride on the lake ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600940028059"
+}

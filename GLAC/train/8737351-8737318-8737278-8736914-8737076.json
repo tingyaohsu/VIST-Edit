@@ -1,0 +1,61 @@
+{
+  "photo_sequence_id": "8737351-8737318-8737278-8736914-8737076",
+  "photo_sequence_ids": [
+    "8737351",
+    "8737318",
+    "8737278",
+    "8736914",
+    "8737076"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the graduation ceremony . the graduates were excited to be there . the parents were so proud of their daughter . the families were all smiles at the event . the happy couple posed for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We all went to the upscale cafe for the retirement party of our dearest Lisa.  She looked so radiant as she enters her next life\u0027s chapter.",
+      "normalized_edited_story_text_sent": [
+        "we all went to the upscale cafe for the retirement party of our dearest [female] .",
+        "she looked so radiant as she enters her next life \u0027s chapter ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family gathered for the ceremony. Everyone was excited to be there. They were all smiles and posed for some pictures.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the ceremony .",
+        "everyone was excited to be there .",
+        "they were all smiles and posed for some pictures ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family gathered for the for the party. Everyone gathered around the tables. People enjoyed the day.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the for the party .",
+        "everyone gathered around the tables .",
+        "people enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family gathered for the birthday party. it was a fun afternoon together.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "it was a fun afternoon together ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Everyone gathered for the graduation ceremony. Seeing all the graduates there, excited to be where they were, and the parents feeling proud for their children\u0027s accomplishments. The event was filled with smiles with a couple posing for a photograph to commemorate this special time.",
+      "normalized_edited_story_text_sent": [
+        "everyone gathered for the graduation ceremony .",
+        "seeing all the graduates there , excited to be where they were , and the parents feeling proud for their children \u0027s accomplishments .",
+        "the event was filled with smiles with a couple posing for a photograph to commemorate this special time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "217084",
+  "model": "GLAC"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4233712293-4234488988-4234491610-4234494084-4234496372",
+  "photo_sequence_ids": [
+    "4233712293",
+    "4234488988",
+    "4234491610",
+    "4234494084",
+    "4234496372"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . the kids were having a great time . the adults were very happy . the children had a good time . the kids played games .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family got together for a party to celebrate school being done . the kids were having a great time watch TV . the adults were very happy that the summer was here . the children had a good time playing with their nerf guns. the kids played games all night and didn\u0027t sleep.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party to celebrate school being done .",
+        "the kids were having a great time watch tv .",
+        "the adults were very happy that the summer was here .",
+        "the children had a good time playing with their nerf guns .",
+        "the kids played games all night and did n\u0027t sleep ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The kids had fun playing hide and seek with a nerf gun. Some kids hid under blankets as one tried shooting them with the foam darts. Eventually they tuckered out and just watched television.",
+      "normalized_edited_story_text_sent": [
+        "the kids had fun playing hide and seek with a nerf gun .",
+        "some kids hid under blankets as one tried shooting them with the foam darts .",
+        "eventually they tuckered out and just watched television ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The boys were staying inside today.  They had a good time playing together and watching television in the living room!",
+      "normalized_edited_story_text_sent": [
+        "the boys were staying inside today .",
+        "they had a good time playing together and watching television in the living room !"
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The family got together for a party. The kids were having a great time, and the adults were very happy watching them play games.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the kids were having a great time , and the adults were very happy watching them play games ."
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "While I was watching the football games my kids decided to play a game of their own. Their game involved them putting blankets over their heads and crawling over the floor. One of them pretended to shoot them as they crawled around. What can you say about kids imaginations.",
+      "normalized_edited_story_text_sent": [
+        "while i was watching the football games my kids decided to play a game of their own .",
+        "their game involved them putting blankets over their heads and crawling over the floor .",
+        "one of them pretended to shoot them as they crawled around .",
+        "what can you say about kids imaginations ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623114581602",
+  "model": "GLAC"
+}

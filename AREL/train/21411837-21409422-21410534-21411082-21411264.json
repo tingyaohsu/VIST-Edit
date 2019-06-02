@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "21411837-21409422-21410534-21411082-21411264",
+  "photo_sequence_ids": [
+    "21411837",
+    "21409422",
+    "21410534",
+    "21411082",
+    "21411264"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/15/21411837_8e182818fa_o.jpg",
+    "https://farm1.staticflickr.com/16/21409422_625cad48ad_o.jpg",
+    "https://farm1.staticflickr.com/15/21410534_2c64597e07_o.jpg",
+    "https://farm1.staticflickr.com/15/21411082_e0e26614ba_o.jpg",
+    "https://farm1.staticflickr.com/16/21411264_288fe5b807_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a city . there was a lot of food in the market . the bus ride was a lot of fun . we had a lot of food to eat . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A5RX71DKEOU9M",
+      "edited_story_text": "This is a picture of the city. There was a lot of food in the market that we visited. The bus ride we took was a lot of fun. We had a lot of good food to eat on the trip. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of the city .",
+        "there was a lot of food in the market that we visited .",
+        "the bus ride we took was a lot of fun .",
+        "we had a lot of good food to eat on the trip .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a city . there was a lot of food in the market . the bus ride was a lot of fun . we had a lot of food to eat and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a city .",
+        "there was a lot of food in the market .",
+        "the bus ride was a lot of fun .",
+        "we had a lot of food to eat and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this is a picture of a city . there was a lot of food in the market . the bus ride was a lot of fun . we have a lot of food to eat . we have a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a city .",
+        "there was a lot of food in the market .",
+        "the bus ride was a lot of fun .",
+        "we have a lot of food to eat .",
+        "we have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3UFERVCN9A8IH",
+      "edited_story_text": "this is a picture of a city . there was a lot of food in the market . the bus ride was a lot of fun . We managed to make it to our competition and place . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a city .",
+        "there was a lot of food in the market .",
+        "the bus ride was a lot of fun .",
+        "we managed to make it to our competition and place .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "Here is a picture of the city . there was so much food in the market . we thought the bus ride was a lot of fun . There was a lot of food to eat . we had a really great time .",
+      "normalized_edited_story_text_sent": [
+        "here is a picture of the city .",
+        "there was so much food in the market .",
+        "we thought the bus ride was a lot of fun .",
+        "there was a lot of food to eat .",
+        "we had a really great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "499924"
+}

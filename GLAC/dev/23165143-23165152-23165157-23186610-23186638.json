@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "23165143-23165152-23165157-23186610-23186638",
+  "photo_sequence_ids": [
+    "23165143",
+    "23165152",
+    "23165157",
+    "23186610",
+    "23186638"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . we had a great time . everyone had a good time . some people had a lot of fun . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The party was lots of fun and everyone (including me!) had a great time. Some people had a lot of fun, too.",
+      "normalized_edited_story_text_sent": [
+        "the party was lots of fun and everyone -LRB- including me ! -RRB-",
+        "had a great time .",
+        "some people had a lot of fun , too ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The party I was at was a lot of fun. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party i was at was a lot of fun .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "out drinking with the gang. we had a great time . everyone had a good time . the bar was packed.",
+      "normalized_edited_story_text_sent": [
+        "out drinking with the gang .",
+        "we had a great time .",
+        "everyone had a good time .",
+        "the bar was packed ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . everyone had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for the girls . we had a great time drinking beer and talking . everyone had a good time expect the kid in the black shirt . some people had a lot of fun while others had a little big of fun . i had a great time seeing all my close friends.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for the girls .",
+        "we had a great time drinking beer and talking .",
+        "everyone had a good time expect the kid in the black shirt .",
+        "some people had a lot of fun while others had a little big of fun .",
+        "i had a great time seeing all my close friends ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "533451",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4314523222-4313794033-4313797915-4313801155-4313804767",
+  "photo_sequence_ids": [
+    "4314523222",
+    "4313794033",
+    "4313797915",
+    "4313801155",
+    "4313804767"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the meeting was very boring . the speaker was very informative . he had a lot of questions . he was very happy . he was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The meeting was kind of boring, but the speaker was very informative. He posed a lot of questions and had a really chipper personality.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was kind of boring , but the speaker was very informative .",
+        "he posed a lot of questions and had a really chipper personality ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and john thought the meeting was very boring . the speaker was very informative . he had a lot of questions . he was very happy . he was very proud .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] thought the meeting was very boring .",
+        "the speaker was very informative .",
+        "he had a lot of questions .",
+        "he was very happy .",
+        "he was very proud ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the meeting was very long and boring . the speaker was very informative . he had a lot of important questions . he was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was very long and boring .",
+        "the speaker was very informative .",
+        "he had a lot of important questions .",
+        "he was very happy ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the meeting was very boring . the speaker was very informative . he allowed the audience to ask questions . he was very knowledgable . he was great .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was very boring .",
+        "the speaker was very informative .",
+        "he allowed the audience to ask questions .",
+        "he was very knowledgable .",
+        "he was great ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the call center was busy . security was also busy watching all the monitors . Then the conference started. he was very happy . he was very proud .Afterward, there was a meet and greet. the event was recorded with a group photo.",
+      "normalized_edited_story_text_sent": [
+        "the call center was busy .",
+        "security was also busy watching all the monitors .",
+        "then the conference started .",
+        "he was very happy .",
+        "he was very proud .",
+        "afterward , there was a meet and greet .",
+        "the event was recorded with a group photo ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623308603824",
+  "model": "GLAC"
+}

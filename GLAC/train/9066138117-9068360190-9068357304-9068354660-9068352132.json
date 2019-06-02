@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "9066138117-9068360190-9068357304-9068354660-9068352132",
+  "photo_sequence_ids": [
+    "9066138117",
+    "9068360190",
+    "9068357304",
+    "9068354660",
+    "9068352132"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the beach today . it was a lot of fun . the view was amazing . the water was so beautiful . the sky was very clear .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the beach today . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the beach today after work . it was a lot of fun to relax for a few hours. the view was amazing especially on the water. the water was so beautiful and clear as glass. the sky was very clear with only the sun shining .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today after work .",
+        "it was a lot of fun to relax for a few hours .",
+        "the view was amazing especially on the water .",
+        "the water was so beautiful and clear as glass .",
+        "the sky was very clear with only the sun shining ."
+      ]
+    },
+    {
+      "worker_id": "A1JCKICNOC7DAB",
+      "edited_story_text": "we went to the beach today . it was a lot of fun . the view was amazing . the water was so beautiful . the sky was very \rclear .\r\r We had a lot of fun at the beach today the sky was so clear  the views amazing and the water was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "it was a lot of fun .",
+        "the view was amazing .",
+        "the water was so beautiful .",
+        "the sky was very clear .",
+        "we had a lot of fun at the beach today the sky was so clear the views amazing and the water was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "we went to the beach today . it was a lot of fun . the view was amazing . the water was so beautiful . the sky was very clear .\r\rWe took a trip to the beach today. We had so much fun! I couldn\u0027t believe how incredible the view was! The water was so alluring! And not a cloud in the sky!",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "it was a lot of fun .",
+        "the view was amazing .",
+        "the water was so beautiful .",
+        "the sky was very clear .",
+        "we took a trip to the beach today .",
+        "we had so much fun !",
+        "i could n\u0027t believe how incredible the view was !",
+        "the water was so alluring !",
+        "and not a cloud in the sky !"
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "today we went to the beach.  the weather was ideal, with clear skies.  the view was awesome, and the water was lovely. we had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "today we went to the beach .",
+        "the weather was ideal , with clear skies .",
+        "the view was awesome , and the water was lovely .",
+        "we had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157634173512359",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4242859406-4242093229-4242131931-4242911284-4242930938",
+  "photo_sequence_ids": [
+    "4242859406",
+    "4242093229",
+    "4242131931",
+    "4242911284",
+    "4242930938"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the lady was in a museum . the boat was parked . the hotel was big . the building was tall .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the building was very tall . it serves its purpose very well near the water.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "it serves its purpose very well near the water ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the building I photographed for my art project was very tall. it reminded me of the the boat I had photographed earlier in the day. it was big and grey and floated silently in the water. parts of it ran with rust. the tall building loomed above it, silently watching.",
+      "normalized_edited_story_text_sent": [
+        "the building i photographed for my art project was very tall .",
+        "it reminded me of the the boat i had photographed earlier in the day .",
+        "it was big and grey and floated silently in the water .",
+        "parts of it ran with rust .",
+        "the tall building loomed above it , silently watching ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the museum\u0027s building was very tall for all the displays . Janice was in the museum . the old boat was parked outside of the museum Janice went too . the hotel next to the museum iss big . the hotel was as tall as the museum.",
+      "normalized_edited_story_text_sent": [
+        "the museum \u0027s building was very tall for all the displays .",
+        "janice was in the museum .",
+        "the old boat was parked outside of the museum janice went too .",
+        "the hotel next to the museum iss big .",
+        "the hotel was as tall as the museum ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the  big building was very tall and the lady was in a museum . the boat was parked . the hotel was big . the building was tall .",
+      "normalized_edited_story_text_sent": [
+        "the big building was very tall and the lady was in a museum .",
+        "the boat was parked .",
+        "the hotel was big .",
+        "the building was tall ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the building was very tall . the lady was in a museum . the boat was parked . the hotel was big . the city is historic .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the lady was in a museum .",
+        "the boat was parked .",
+        "the hotel was big .",
+        "the city is historic ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623132781720",
+  "model": "GLAC"
+}

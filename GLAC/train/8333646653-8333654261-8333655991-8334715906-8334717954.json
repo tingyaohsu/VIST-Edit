@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "8333646653-8333654261-8333655991-8334715906-8334717954",
+  "photo_sequence_ids": [
+    "8333646653",
+    "8333654261",
+    "8333655991",
+    "8334715906",
+    "8334717954"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the guys were having a good time . the crowd was getting ready . the girl was doing a song . the crowd was excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "At the family gathering some people played guitars and drums while they sang. Then everyone gathered in the den to watch a show on television. The hosts enjoyed the evening. Later in the evening all of the female family members posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "at the family gathering some people played guitars and drums while they sang .",
+        "then everyone gathered in the den to watch a show on television .",
+        "the hosts enjoyed the evening .",
+        "later in the evening all of the female family members posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was playing music . the guys were having a good time",
+      "normalized_edited_story_text_sent": [
+        "the family was playing music .",
+        "the guys were having a good time"
+      ]
+    },
+    {
+      "worker_id": "A2GKDQGHV5A5TT",
+      "edited_story_text": "The band was having a good time playing music. The singer was singer her heart out and the crowd was having a good time. It was all very exciting.",
+      "normalized_edited_story_text_sent": [
+        "the band was having a good time playing music .",
+        "the singer was singer her heart out and the crowd was having a good time .",
+        "it was all very exciting ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "the family got together on Christmas and enjoyed each other company. they played videos games and watched movies. they don\u0027t often all get together so it was special.",
+      "normalized_edited_story_text_sent": [
+        "the family got together on christmas and enjoyed each other company .",
+        "they played videos games and watched movies .",
+        "they do n\u0027t often all get together so it was special ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the crowd was getting ready and excited. the band was playing music. the guys were having a good time. the girl was doing a song.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was getting ready and excited .",
+        "the band was playing music .",
+        "the guys were having a good time .",
+        "the girl was doing a song ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632405596244",
+  "model": "GLAC"
+}

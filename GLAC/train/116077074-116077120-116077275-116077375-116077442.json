@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "116077074-116077120-116077275-116077375-116077442",
+  "photo_sequence_ids": [
+    "116077074",
+    "116077120",
+    "116077275",
+    "116077375",
+    "116077442"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . i had a great time . everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up AND EVERYONE WAS VERY CREATIVE WITH THEIR COSTUMES. some of the costumes were very scary, LIKE THE MAN DRESSED AS FREDDY KRUGER.. i had a great time . IT SEEMED LIKE everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up and everyone was very creative with their costumes .",
+        "some of the costumes were very scary , like the man dressed as freddy kruger .",
+        "i had a great time .",
+        "it seemed like everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "attended a great halloween party with my friends. all of the costumes were great. many people went as spooky things. my favorite was the couple from nightmare before christmas. we all had a great time wearing our costumes.",
+      "normalized_edited_story_text_sent": [
+        "attended a great halloween party with my friends .",
+        "all of the costumes were great .",
+        "many people went as spooky things .",
+        "my favorite was the couple from nightmare before christmas .",
+        "we all had a great time wearing our costumes ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the halloween party was a lot of fun. people dressed up in disguises. some of the costumes were very scary. i had a great time. everyone enjoyed the party.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "people dressed up in disguises .",
+        "some of the costumes were very scary .",
+        "i had a great time .",
+        "everyone enjoyed the party ."
+      ]
+    },
+    {
+      "worker_id": "AGA1PIIWM8I8D",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . i had a great time . everyone seemed to have a great time too .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "i had a great time .",
+        "everyone seemed to have a great time too ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the halloween party was a success . there were a lot of people dressed up . some of the costumes were very scary and creative. everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a success .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary and creative .",
+        "everyone was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594087647761",
+  "model": "GLAC"
+}

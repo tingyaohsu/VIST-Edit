@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6180004872-6179478653-6179479245-6179543687-6180115702",
+  "photo_sequence_ids": [
+    "6180004872",
+    "6179478653",
+    "6179479245",
+    "6179543687",
+    "6180115702"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom were excited to be married . the couple were very happy . the father of the bride was so proud . the family was there for the wedding . the bride and groom were happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The wedding was held outdoors on a beautiful day. The women gave flowers to the men and pinned them on their lapels. Everyone enjoyed seeing old friends and family at the wedding.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held outdoors on a beautiful day .",
+        "the women gave flowers to the men and pinned them on their lapels .",
+        "everyone enjoyed seeing old friends and family at the wedding ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the bride and groom were excited to be married . the couple was very happy . the father of the bride looked so proud . the whole family was there for the wedding . the bride and groom were beaming .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were excited to be married .",
+        "the couple was very happy .",
+        "the father of the bride looked so proud .",
+        "the whole family was there for the wedding .",
+        "the bride and groom were beaming ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bride and groom were excited to be married to each other . the couple were very happy that their friends were there. the father of the bride was so proud of his daughter and new son in law . the family was there for the wedding and couldn\u0027t of been happier . the bride and groom were happy that the weather was good .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were excited to be married to each other .",
+        "the couple were very happy that their friends were there .",
+        "the father of the bride was so proud of his daughter and new son in law .",
+        "the family was there for the wedding and could n\u0027t of been happier .",
+        "the bride and groom were happy that the weather was good ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "Lisa and david were so happy to be together for the prom. the girls took photos together before leaving for it. they are such a great group of friends. this is david\u0027s first prom too i\u0027m happy for him.",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were so happy to be together for the prom .",
+        "the girls took photos together before leaving for it .",
+        "they are such a great group of friends .",
+        "this is [male] \u0027s first prom too i \u0027m happy for him ."
+      ]
+    },
+    {
+      "worker_id": "A29AX5O8KL48F8",
+      "edited_story_text": "The bride and groom were excited to be married at the wedding I went to. The couple looked very happy. the family was there for the wedding and when I saw the father of the bride he looked so proud. the bride and groom were ecstatic the whole time.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were excited to be married at the wedding i went to .",
+        "the couple looked very happy .",
+        "the family was there for the wedding and when i saw the father of the bride he looked so proud .",
+        "the bride and groom were ecstatic the whole time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627621433723",
+  "model": "GLAC"
+}

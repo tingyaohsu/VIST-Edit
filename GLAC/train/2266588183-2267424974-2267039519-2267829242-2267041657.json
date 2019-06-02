@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2266588183-2267424974-2267039519-2267829242-2267041657",
+  "photo_sequence_ids": [
+    "2266588183",
+    "2267424974",
+    "2267039519",
+    "2267829242",
+    "2267041657"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be at the party . they had a lot of fun activities . they got to play with their toys . they had a great time . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "it was show and tell at class today. All of the students brought their favorite stuffed animals to show off. They were all very happy and had a great time telling stories.",
+      "normalized_edited_story_text_sent": [
+        "it was show and tell at class today .",
+        "all of the students brought their favorite stuffed animals to show off .",
+        "they were all very happy and had a great time telling stories ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The kids were excited to be at the party, which had a lot of fun activities.  They got to play with their toys and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party , which had a lot of fun activities .",
+        "they got to play with their toys and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "Today was bring your teddy to school day. I teach about 15 children. The kids were excited to have their teddybears. They had a lot of fun activities. They got to play with their toys. They had a great time.",
+      "normalized_edited_story_text_sent": [
+        "today was bring your teddy to school day .",
+        "i teach about 15 children .",
+        "the kids were excited to have their teddybears .",
+        "they had a lot of fun activities .",
+        "they got to play with their toys .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we had a great time at the party for the kids. we planned a lot of activities for them. they enjoyed making bears the most.  lisa couldn\u0027t stop smiling all day. everyone was glad to have been there.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party for the kids .",
+        "we planned a lot of activities for them .",
+        "they enjoyed making bears the most .",
+        "[female] could n\u0027t stop smiling all day .",
+        "everyone was glad to have been there ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the kids were excited to be at the party for the end of school . they had a lot of fun activities that anyone could play . they got to play with their toys at the end of class . they had a great time on the last day of school. they had a great time with all their friends.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party for the end of school .",
+        "they had a lot of fun activities that anyone could play .",
+        "they got to play with their toys at the end of class .",
+        "they had a great time on the last day of school .",
+        "they had a great time with all their friends ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603916697455",
+  "model": "GLAC"
+}

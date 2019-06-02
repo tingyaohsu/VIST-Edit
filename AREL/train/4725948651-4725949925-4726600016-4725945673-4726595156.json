@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4725948651-4725949925-4726600016-4725945673-4726595156",
+  "photo_sequence_ids": [
+    "4725948651",
+    "4725949925",
+    "4726600016",
+    "4725945673",
+    "4726595156"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1379/4725948651_a811375bd3_o.jpg",
+    "https://farm2.staticflickr.com/1251/4725949925_d5c95a83b6_o.jpg",
+    "https://farm2.staticflickr.com/1097/4726600016_67289bd343_o.jpg",
+    "https://farm2.staticflickr.com/1179/4725945673_992e2efb74_o.jpg",
+    "https://farm2.staticflickr.com/1364/4726595156_49aa405dcc_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family decided to take a trip to the lake . the flowers are so beautiful . there was a lot of fresh vegetables . we also found a small pond . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family decided to take a trip to the lake . the flowers are so beautiful . there was a lot of fresh vegetables . we also found a small pond and the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to take a trip to the lake .",
+        "the flowers are so beautiful .",
+        "there was a lot of fresh vegetables .",
+        "we also found a small pond and the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "the family decided to take a trip to the lake and there was a market being held!. Locally grown vegetables! yum yum. We prepared our own locally grown salad.  there was a lot of fresh vegetables . we also found a small pond . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to take a trip to the lake and there was a market being held !",
+        ".",
+        "locally grown vegetables !",
+        "yum yum .",
+        "we prepared our own locally grown salad .",
+        "there was a lot of fresh vegetables .",
+        "we also found a small pond .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The family took a trip to local vegetable garden. The vegetables that had grown there were beautiful. The beets looked especially delicious. [male] made sure to look for other vegetables to pick alongside the beets. We made fresh salad from the food we had picked.",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to local vegetable garden .",
+        "the vegetables that had grown there were beautiful .",
+        "the beets looked especially delicious .",
+        "[male] made sure to look for other vegetables to pick alongside the beets .",
+        "we made fresh salad from the food we had picked ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The family decided to take a trip to the lake and see the beautiful flowers and fresh vegetables. They also found a small pond, the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family decided to take a trip to the lake and see the beautiful flowers and fresh vegetables .",
+        "they also found a small pond , the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the family decided to take a trip to the lake . the flowers are so beautiful . there was a lot of fresh vegetables . we picked flowers near a small pond. . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to take a trip to the lake .",
+        "the flowers are so beautiful .",
+        "there was a lot of fresh vegetables .",
+        "we picked flowers near a small pond .",
+        ".",
+        "the food was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624337173194"
+}

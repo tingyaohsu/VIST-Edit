@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "839713476-838839789-838843083-839709540-838840711",
+  "photo_sequence_ids": [
+    "839713476",
+    "838839789",
+    "838843083",
+    "839709540",
+    "838840711"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1386/839713476_69f67d01c5_o.jpg",
+    "https://farm2.staticflickr.com/1103/838839789_b08ccf3f6b_o.jpg",
+    "https://farm2.staticflickr.com/1008/838843083_0221c21128_o.jpg",
+    "https://farm2.staticflickr.com/1324/839709540_ba78ac8a48_o.jpg",
+    "https://farm2.staticflickr.com/1061/838840711_818ffa1abc_o.jpg"
+  ],
+  "auto_story_text_normalized": "the party was a lot of fun . we had a lot of drinks . they had a lot of drinks . everyone had a good time . we all had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "the party was a lot of fun . we had a lot of drinks . I had a lot of drinks . everyone had a good time . we all had a great time and I had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we had a lot of drinks .",
+        "i had a lot of drinks .",
+        "everyone had a good time .",
+        "we all had a great time and i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "the party was a lot of fun . we had a lot of drinks . everyone had such a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we had a lot of drinks .",
+        "everyone had such a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The party was a lot of fun! We had a lot of drinks, and they had a lot of drinks, and everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun !",
+        "we had a lot of drinks , and they had a lot of drinks , and everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "the party was a lot of fun . we had a lot of drinks . there were fun decorations . We ate unusual treats . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we had a lot of drinks .",
+        "there were fun decorations .",
+        "we ate unusual treats .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the party was a lot of fun . we had a lot of drinks  and had a fantastic time together getting silly.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we had a lot of drinks and had a fantastic time together getting silly ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600872071738"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4443162250-4443163780-4443164392-4443165390-4442390611",
+  "photo_sequence_ids": [
+    "4443162250",
+    "4443163780",
+    "4443164392",
+    "4443165390",
+    "4442390611"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the reception was beautifully decorated . the bride and groom were so happy . the party was a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were very happy . they took pictures . the bride and groom were so happy . they danced and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "they took pictures .",
+        "the bride and groom were so happy .",
+        "they danced and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the wedding ceremony was beautiful. the bride and groom were very happy.  the bride and groom went to the reception. everyone had a great time at the reception.",
+      "normalized_edited_story_text_sent": [
+        "the wedding ceremony was beautiful .",
+        "the bride and groom were very happy .",
+        "the bride and groom went to the reception .",
+        "everyone had a great time at the reception ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert was glad the wedding was beautiful . the bride and groom were very happy . the reception was beautifully decorated . the bride and groom were so happy . the party was a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] was glad the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the reception was beautifully decorated .",
+        "the bride and groom were so happy .",
+        "the party was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "THE WEDDING WAS JUST ABOUT TO START. . the bride\u0027S FATHER WALKED HER DOWN THE AISLE. THE CEREMONY WAS BEAUTIFUL. THE PHOTOGRAPHER FILMED THE ENTIRE CEREMONY. AFTERWARD, EVERYONE ENJOYED THE RECEPTION.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was just about to start .",
+        "the bride \u0027s father walked her down the aisle .",
+        "the ceremony was beautiful .",
+        "the photographer filmed the entire ceremony .",
+        "afterward , everyone enjoyed the reception ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a beautiful wedding was achieved . the bride and groom were joyous . the reception was decorated well . the bride and groom were brimming with delight . the party gave everyone a great time .",
+      "normalized_edited_story_text_sent": [
+        "a beautiful wedding was achieved .",
+        "the bride and groom were joyous .",
+        "the reception was decorated well .",
+        "the bride and groom were brimming with delight .",
+        "the party gave everyone a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623519648199",
+  "model": "GLAC"
+}

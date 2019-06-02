@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4460288142-4460292766-4459517973-4459533277-4459537723",
+  "photo_sequence_ids": [
+    "4460288142",
+    "4460292766",
+    "4459517973",
+    "4459533277",
+    "4459537723"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the house was very clean . the kitchen was a bit small . the cat was happy to be there . the cats were in the back . the dog was not too friendly .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the house was very clean . There were lamps glowing. There is a bird on a post. Another bird is seen as well.",
+      "normalized_edited_story_text_sent": [
+        "the house was very clean .",
+        "there were lamps glowing .",
+        "there is a bird on a post .",
+        "another bird is seen as well ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the house was very clean . the kitchen was a bit small . the cat was happy to be there . the cats were in the back . they were at home  .",
+      "normalized_edited_story_text_sent": [
+        "the house was very clean .",
+        "the kitchen was a bit small .",
+        "the cat was happy to be there .",
+        "the cats were in the back .",
+        "they were at home ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the house was very clean and ready for the guests . the kitchen was a bit small but would be big enough for lunch. the cat was happy to be there and kept looking at the bird . the cats were in the back of the room while everyone showed up. the dog was not too friendly because he was sick .",
+      "normalized_edited_story_text_sent": [
+        "the house was very clean and ready for the guests .",
+        "the kitchen was a bit small but would be big enough for lunch .",
+        "the cat was happy to be there and kept looking at the bird .",
+        "the cats were in the back of the room while everyone showed up .",
+        "the dog was not too friendly because he was sick ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert thought the house was very clean . the kitchen was a bit small . the cat was happy to be there . the cats were in the back . the dog was not too friendly .",
+      "normalized_edited_story_text_sent": [
+        "[male] thought the house was very clean .",
+        "the kitchen was a bit small .",
+        "the cat was happy to be there .",
+        "the cats were in the back .",
+        "the dog was not too friendly ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "the house looked very clean . looks like the kitchen was a bit small . a cat was very happy to be there . all the cats were in the back . there was a dog it was not too friendly .",
+      "normalized_edited_story_text_sent": [
+        "the house looked very clean .",
+        "looks like the kitchen was a bit small .",
+        "a cat was very happy to be there .",
+        "all the cats were in the back .",
+        "there was a dog it was not too friendly ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623560377845",
+  "model": "GLAC"
+}

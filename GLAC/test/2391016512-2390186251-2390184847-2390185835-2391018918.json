@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "2391016512-2390186251-2390184847-2390185835-2391018918",
+  "photo_sequence_ids": [
+    "2391016512",
+    "2390186251",
+    "2390184847",
+    "2390185835",
+    "2391018918"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to be at the party . the kids were having a great time . the girls were happy and ready to go . the band was playing the best songs . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Everyone in the family was stoked attend the party. The kids were having fun, the girls were excited and anxious to go. The live band performed all the hits! It was good to be there and share this experience with all my family.",
+      "normalized_edited_story_text_sent": [
+        "everyone in the family was stoked attend the party .",
+        "the kids were having fun , the girls were excited and anxious to go .",
+        "the live band performed all the hits !",
+        "it was good to be there and share this experience with all my family ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had looked forward to the game and party . the kids were having a blast . the girls were happy and prepared to attend . the band was playing their favorite songs . the entire family was there together .",
+      "normalized_edited_story_text_sent": [
+        "the family had looked forward to the game and party .",
+        "the kids were having a blast .",
+        "the girls were happy and prepared to attend .",
+        "the band was playing their favorite songs .",
+        "the entire family was there together ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family was excited to be at the basketball game. the kids were having a great time . the girls were happy and ready to go .  the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the basketball game .",
+        "the kids were having a great time .",
+        "the girls were happy and ready to go .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the family was excited to be at the game. everyone was having a great time . the girls were happy . the band was doing a great job. the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the game .",
+        "everyone was having a great time .",
+        "the girls were happy .",
+        "the band was doing a great job .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was excited to be at the game.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the game ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157604403044021",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "3953536416-3952757287-3953535314-3952761487-3953536936",
+  "photo_sequence_ids": [
+    "3953536416",
+    "3952757287",
+    "3953535314",
+    "3952761487",
+    "3953536936"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the conference was very boring . there were a lot of people there . i met a lot of new people . it was a great time . afterward we all got together for photos .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the awards party was very boring . there was a man getting an award there . i liked the fancy trophy . it was a great time including singing and guitar playing . afterward we all got together for photos .",
+      "normalized_edited_story_text_sent": [
+        "the awards party was very boring .",
+        "there was a man getting an award there .",
+        "i liked the fancy trophy .",
+        "it was a great time including singing and guitar playing .",
+        "afterward we all got together for photos ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "this weekend i attended a conference. it was full of people.  i made a lot of new friends. i had a really terrific time. i took photos with all of my new friends.",
+      "normalized_edited_story_text_sent": [
+        "this weekend i attended a conference .",
+        "it was full of people .",
+        "i made a lot of new friends .",
+        "i had a really terrific time .",
+        "i took photos with all of my new friends ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The conference was very boring, even though there were a lot of new people I met there. I still managed to have a great time though, and afterward we all got together to take photos.",
+      "normalized_edited_story_text_sent": [
+        "the conference was very boring , even though there were a lot of new people i met there .",
+        "i still managed to have a great time though , and afterward we all got together to take photos ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the large conference was very boring and there were a lot of people there . i met a lot of new people . it was a great time . afterward we all got together for photos .",
+      "normalized_edited_story_text_sent": [
+        "the large conference was very boring and there were a lot of people there .",
+        "i met a lot of new people .",
+        "it was a great time .",
+        "afterward we all got together for photos ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the conference was typical and boring . there were a lot of people attending, though . i met many new people . it was at least fun to make new friends . afterwards, we had our photo taken together .",
+      "normalized_edited_story_text_sent": [
+        "the conference was typical and boring .",
+        "there were a lot of people attending , though .",
+        "i met many new people .",
+        "it was at least fun to make new friends .",
+        "afterwards , we had our photo taken together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157622457999530",
+  "model": "GLAC"
+}

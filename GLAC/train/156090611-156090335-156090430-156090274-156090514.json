@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "156090611-156090335-156090430-156090274-156090514",
+  "photo_sequence_ids": [
+    "156090611",
+    "156090335",
+    "156090430",
+    "156090274",
+    "156090514"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the race was about to begin . the bikers were off and ready to start . the race was underway . the winner was very happy . the winners were presented and proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the bike race was about to start.  the bikers were lined up, ready to begin.  soon the race started.  the winner was very pleased.  all the winners in their categories were presented, and were proud.",
+      "normalized_edited_story_text_sent": [
+        "the bike race was about to start .",
+        "the bikers were lined up , ready to begin .",
+        "soon the race started .",
+        "the winner was very pleased .",
+        "all the winners in their categories were presented , and were proud ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the race was about to begin . the bikers were off and ready to start . the race was underway . the winner was very elated. the winners were presented and very proud .",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin .",
+        "the bikers were off and ready to start .",
+        "the race was underway .",
+        "the winner was very elated .",
+        "the winners were presented and very proud ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The bikers got together to celebrate being a biker.",
+      "normalized_edited_story_text_sent": [
+        "the bikers got together to celebrate being a biker ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we went to attend a bike biker race this weekend. there were a ton of bikers there for the event. we loved watching the race.  the winners were proud of their accomplishment. I was very happy to have been a part of it all.",
+      "normalized_edited_story_text_sent": [
+        "we went to attend a bike biker race this weekend .",
+        "there were a ton of bikers there for the event .",
+        "we loved watching the race .",
+        "the winners were proud of their accomplishment .",
+        "i was very happy to have been a part of it all ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the race was about to begin after the speech . the bikers were off and ready to start the first race of the season . the race was underway and it was a close one. the winner was very happy that they qualified for the final race . the winners were presented and proud to represent the city .",
+      "normalized_edited_story_text_sent": [
+        "the race was about to begin after the speech .",
+        "the bikers were off and ready to start the first race of the season .",
+        "the race was underway and it was a close one .",
+        "the winner was very happy that they qualified for the final race .",
+        "the winners were presented and proud to represent the city ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594149306041",
+  "model": "GLAC"
+}

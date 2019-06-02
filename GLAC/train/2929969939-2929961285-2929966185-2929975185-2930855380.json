@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "2929969939-2929961285-2929966185-2929975185-2930855380",
+  "photo_sequence_ids": [
+    "2929969939",
+    "2929961285",
+    "2929966185",
+    "2929975185",
+    "2930855380"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a big event . the students were very excited . the graduates were very proud . the students were so happy to finally graduate . the students were very excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The graduation ceremony was a big event.  The students were very proud and excited to finally graduate.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "the students were very proud and excited to finally graduate ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My graduation ceremony was a big event. The students were very excited, very proud, and were so happy to finally graduate.",
+      "normalized_edited_story_text_sent": [
+        "my graduation ceremony was a big event .",
+        "the students were very excited , very proud , and were so happy to finally graduate ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the graduation was a big event . the students were very excited. the graduates were very proud . the students were so happy to finally graduate . the students were very excited and posed for pictures together .",
+      "normalized_edited_story_text_sent": [
+        "the graduation was a big event .",
+        "the students were very excited .",
+        "the graduates were very proud .",
+        "the students were so happy to finally graduate .",
+        "the students were very excited and posed for pictures together ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the graduation ceremony was a big event . the students were very excited to graduate and everyone was proud of their accomplishments as they cross the stage. the students were so happy to finally graduate and took celebratory pictures with one another after the ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "the students were very excited to graduate and everyone was proud of their accomplishments as they cross the stage .",
+        "the students were so happy to finally graduate and took celebratory pictures with one another after the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the graduation ceremony was a big event . the students were very excited . the graduates were glad to be done . the students were so happy to finally graduate . the students were very excited .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "the students were very excited .",
+        "the graduates were glad to be done .",
+        "the students were so happy to finally graduate .",
+        "the students were very excited ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157607918278026",
+  "model": "GLAC"
+}

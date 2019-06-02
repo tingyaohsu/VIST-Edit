@@ -1,0 +1,81 @@
+{
+  "photo_sequence_id": "7148770327-7002670224-7148761587-7002671666-7002677306",
+  "photo_sequence_ids": [
+    "7148770327",
+    "7002670224",
+    "7148761587",
+    "7002671666",
+    "7002677306"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7247/7148770327_8fa3b05389_o.jpg",
+    "https://farm8.staticflickr.com/7251/7002670224_2cf8a3dde6_o.jpg",
+    "https://farm6.staticflickr.com/5316/7148761587_fb2bd0b2df_o.jpg",
+    "https://farm8.staticflickr.com/7257/7002671666_6d40805600_o.jpg",
+    "https://farm9.staticflickr.com/8004/7002677306_3a484c7fa8_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the art gallery yesterday . this is a picture of a man . i had a great time . then , i got to work with my friend [male] . i \u0027m not sure what it was . the location was a great way to end the day with a trip to the city .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the art gallery yesterday. Here is a picture of a man I saw. I had a good time! Then, I got to work with my friend [male], but I\u0027m not sure what it was. Being at this location was a great way to end our trip to the city.",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery yesterday .",
+        "here is a picture of a man i saw .",
+        "i had a good time !",
+        "then , i got to work with my friend [male] , but i \u0027m not sure what it was .",
+        "being at this location was a great way to end our trip to the city ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i went to the art gallery yesterday back ago. this is a photo of a man . i had a awesome time . then , i got to work with my friend [male] . i \u0027m not sure what it was . the location was a incredible way to end the day with a trip to the city .",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery yesterday back ago .",
+        "this is a photo of a man .",
+        "i had a awesome time .",
+        "then , i got to work with my friend [male] .",
+        "i \u0027m not sure what it was .",
+        "the location was a incredible way to end the day with a trip to the city ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to the art gallery yesterday . this is a picture of a man . i had a great time . then , i got to work with my friend [male] . i \u0027m not sure what this picture is of. a trip to the city was a great way to end the day .",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery yesterday .",
+        "this is a picture of a man .",
+        "i had a great time .",
+        "then , i got to work with my friend [male] .",
+        "i \u0027m not sure what this picture is of .",
+        "a trip to the city was a great way to end the day ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I visited the art gallery yesterday. I saw some modern art photography of a man. Even the ceiling of the art gallery was unique. I listened to some music playing in one of the exhibits. I enjoyed seeing all of the different galleries.",
+      "normalized_edited_story_text_sent": [
+        "i visited the art gallery yesterday .",
+        "i saw some modern art photography of a man .",
+        "even the ceiling of the art gallery was unique .",
+        "i listened to some music playing in one of the exhibits .",
+        "i enjoyed seeing all of the different galleries ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the art gallery yesterday . this is a picture of my friend. i had a great time . then , i got to work with my friend [Jason] . the gallery was a great way to end the day with a trip to the city .",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery yesterday .",
+        "this is a picture of my friend .",
+        "i had a great time .",
+        "then , i got to work with my friend [male] .",
+        "the gallery was a great way to end the day with a trip to the city ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629614500404"
+}

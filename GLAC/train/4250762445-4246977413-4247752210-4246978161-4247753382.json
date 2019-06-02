@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4250762445-4246977413-4247752210-4246978161-4247753382",
+  "photo_sequence_ids": [
+    "4250762445",
+    "4246977413",
+    "4247752210",
+    "4246978161",
+    "4247753382"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family decided to go out for a hike . they stopped at a local restaurant and ordered some food . they met up with a few friends and had a good time . they walked around the town and saw a lot of interesting things . they took a picture of the beautiful scenery .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the family hike was in progress. On the way they took a breather at a local restaurant and replenished energy with a great meal. they encountered and enjoyed new friendships . they visited the town via a tour . they took a picture of the beautiful scenery .",
+      "normalized_edited_story_text_sent": [
+        "the family hike was in progress .",
+        "on the way they took a breather at a local restaurant and replenished energy with a great meal .",
+        "they encountered and enjoyed new friendships .",
+        "they visited the town via a tour .",
+        "they took a picture of the beautiful scenery ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family decided to go out for a hike. they stopped at a local restaurant and ordered some food with some friends and enjoyed themselves. they walked around the town and saw many interesting things. they took a picture of the beautiful scenery .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to go out for a hike .",
+        "they stopped at a local restaurant and ordered some food with some friends and enjoyed themselves .",
+        "they walked around the town and saw many interesting things .",
+        "they took a picture of the beautiful scenery ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family decided to go on a plane . they stopped at a local restaurant and ordered some food . they met up with a few friends and had a good time . they walked around the town and saw a lot of interesting buildings . they played in the snow.",
+      "normalized_edited_story_text_sent": [
+        "the family decided to go on a plane .",
+        "they stopped at a local restaurant and ordered some food .",
+        "they met up with a few friends and had a good time .",
+        "they walked around the town and saw a lot of interesting buildings .",
+        "they played in the snow ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The family arrived at the airport with snow on the ground. They stopped at a local restaurant and ordered some food. They met up with a few friends and had a good time. They walked around the town and saw a lot of interesting things. They took a picture of the beautiful scenery.",
+      "normalized_edited_story_text_sent": [
+        "the family arrived at the airport with snow on the ground .",
+        "they stopped at a local restaurant and ordered some food .",
+        "they met up with a few friends and had a good time .",
+        "they walked around the town and saw a lot of interesting things .",
+        "they took a picture of the beautiful scenery ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the family decided to go on a short vacation. they went to a local restaurant and ordered some food. then they met up with a few friends and had a good time. they all walked around the town and saw a lot of interesting things. they enjoyed all of the beautiful scenery .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to go on a short vacation .",
+        "they went to a local restaurant and ordered some food .",
+        "then they met up with a few friends and had a good time .",
+        "they all walked around the town and saw a lot of interesting things .",
+        "they enjoyed all of the beautiful scenery ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623019037905",
+  "model": "GLAC"
+}

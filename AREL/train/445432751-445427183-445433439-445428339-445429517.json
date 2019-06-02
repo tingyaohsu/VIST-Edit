@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "445432751-445427183-445433439-445428339-445429517",
+  "photo_sequence_ids": [
+    "445432751",
+    "445427183",
+    "445433439",
+    "445428339",
+    "445429517"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/177/445432751_5a1411b8b5_o.jpg",
+    "https://farm1.staticflickr.com/197/445427183_a40548ff2c_o.jpg",
+    "https://farm1.staticflickr.com/207/445433439_8ec129208b_o.jpg",
+    "https://farm1.staticflickr.com/191/445428339_427863923f_o.jpg",
+    "https://farm1.staticflickr.com/171/445429517_f749a75fd5_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great dinner party last night . everyone was happy to be there . the cake was delicious . the food was delicious . we all had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we had a great dinner party last night . everyone was happy to be there . the soup was delicious . we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great dinner party last night .",
+        "everyone was happy to be there .",
+        "the soup was delicious .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "We had a great dinner party last night. Everyone was happy to be there . The cake was delicious. The food was delicious. EVERYONE had a great time and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great dinner party last night .",
+        "everyone was happy to be there .",
+        "the cake was delicious .",
+        "the food was delicious .",
+        "everyone had a great time and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "Last night was a fantastic dinner party.  The food and cake were delicious and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "last night was a fantastic dinner party .",
+        "the food and cake were delicious and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We had a wonderful dinner last night. Everyone was glad to attend. The soup was really delicious. Afterwards we had a delicious dessert. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a wonderful dinner last night .",
+        "everyone was glad to attend .",
+        "the soup was really delicious .",
+        "afterwards we had a delicious dessert .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great dinner party last night . everyone was happy to be there . the cake was delicious . the food was delicious and we all had a great time and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great dinner party last night .",
+        "everyone was happy to be there .",
+        "the cake was delicious .",
+        "the food was delicious and we all had a great time and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600046387670"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4427253447-4427253423-4428017586-4428017656-4428017562",
+  "photo_sequence_ids": [
+    "4427253447",
+    "4427253423",
+    "4428017586",
+    "4428017656",
+    "4428017562"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was very proud of his accomplishments . he was given a speech . he was a little nervous . the audience was so excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Proud of his accomplishments, he attended a ceremony on his behalf for his achievements and accolades. Slightly nervous and somewhat hesitant, he delivered a speech that gave the audience both chills and thrills.",
+      "normalized_edited_story_text_sent": [
+        "proud of his accomplishments , he attended a ceremony on his behalf for his achievements and accolades .",
+        "slightly nervous and somewhat hesitant , he delivered a speech that gave the audience both chills and thrills ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the speaker was there . he was very proud of his accomplishments . he gave a speech . he was a little nervous . the audience was listening .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was there .",
+        "he was very proud of his accomplishments .",
+        "he gave a speech .",
+        "he was a little nervous .",
+        "the audience was listening ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The speaker was very happy to be there and he was very proud of his accomplishments. He was giving a speech and he was a little nervous. The audience was excited.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there and he was very proud of his accomplishments .",
+        "he was giving a speech and he was a little nervous .",
+        "the audience was excited ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the speaker was very happy to be there . he was very proud of his accomplishments . he was giving a presentation . he was a little nervous . the audience was so excited .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there .",
+        "he was very proud of his accomplishments .",
+        "he was giving a presentation .",
+        "he was a little nervous .",
+        "the audience was so excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and Robert thought the speaker was very happy to be there . he was very proud of his accomplishments . he was given a speech . he was a little nervous . the audience was so excited .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] thought the speaker was very happy to be there .",
+        "he was very proud of his accomplishments .",
+        "he was given a speech .",
+        "he was a little nervous .",
+        "the audience was so excited ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623607493402",
+  "model": "GLAC"
+}

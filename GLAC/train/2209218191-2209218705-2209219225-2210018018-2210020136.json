@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2209218191-2209218705-2209219225-2210018018-2210020136",
+  "photo_sequence_ids": [
+    "2209218191",
+    "2209218705",
+    "2209219225",
+    "2210018018",
+    "2210020136"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . the first thing they saw was the waterfall . then they took a picture of the trees . they also found a small tree . the view was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the people were in white uniforms . the first thing they saw was the beautiful sunset. then they took a picture of the trees . they also relaxed . the view was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the people were in white uniforms .",
+        "the first thing they saw was the beautiful sunset .",
+        "then they took a picture of the trees .",
+        "they also relaxed .",
+        "the view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The family went to the zoo and the first thing they saw was the waterfall.  Then they took a picture of the trees and found a small tree.  The view was amazing.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo and the first thing they saw was the waterfall .",
+        "then they took a picture of the trees and found a small tree .",
+        "the view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the family went to a factory . the first thing they saw was the sunset. they took a picture of the trees . they also took a picture of me . the view was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the family went to a factory .",
+        "the first thing they saw was the sunset .",
+        "they took a picture of the trees .",
+        "they also took a picture of me .",
+        "the view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "we took a trip to the factory.  afterwards we watched the sunset.  the next day we took a trip to the jungle.  then we needed to take naps in the warm sun.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the factory .",
+        "afterwards we watched the sunset .",
+        "the next day we took a trip to the jungle .",
+        "then we needed to take naps in the warm sun ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the family went to the zoo . the first thing they saw was the waterfall in the African section where the elephants were drinking and bathing . then they took a picture of the exotic tropical trees . they also found a small tree . the view from the top of the zoo was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "the first thing they saw was the waterfall in the african section where the elephants were drinking and bathing .",
+        "then they took a picture of the exotic tropical trees .",
+        "they also found a small tree .",
+        "the view from the top of the zoo was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603766250446",
+  "model": "GLAC"
+}

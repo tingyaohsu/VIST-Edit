@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6994225967-6847944168-6847944186-6994151295-6847734946",
+  "photo_sequence_ids": [
+    "6994225967",
+    "6847944168",
+    "6847944186",
+    "6994151295",
+    "6847734946"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7176/6994225967_d3f5415552_o.jpg",
+    "https://farm8.staticflickr.com/7037/6847944168_77a4f160dd_o.jpg",
+    "https://farm8.staticflickr.com/7194/6847944186_c61ff205a3_o.jpg",
+    "https://farm8.staticflickr.com/7065/6994151295_b21f69699c_o.jpg",
+    "https://farm8.staticflickr.com/7184/6847734946_5dd631c2ce_o.jpg"
+  ],
+  "auto_story_text_normalized": "the bikers were all ready for the race . some of the riders were very fast . the bike riders were neck and neck . the race was fierce . the winner of the race .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The bikers were preparing for the race. Some of the riders were going very fast. The race was neck and neck. It was a very intense race. The winner of the race was happy.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were preparing for the race .",
+        "some of the riders were going very fast .",
+        "the race was neck and neck .",
+        "it was a very intense race .",
+        "the winner of the race was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the riders were all ready for the race . some of the riders were very fast and made crazy jumps. the bike riders were neck and neck . the race was fierce . this is the winner of the race .",
+      "normalized_edited_story_text_sent": [
+        "the riders were all ready for the race .",
+        "some of the riders were very fast and made crazy jumps .",
+        "the bike riders were neck and neck .",
+        "the race was fierce .",
+        "this is the winner of the race ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the bikers were all ready for the race . some of the riders were very fast . the bike riders were neck and neck . the winner of the race was my friend [Nat] .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were all ready for the race .",
+        "some of the riders were very fast .",
+        "the bike riders were neck and neck .",
+        "the winner of the race was my friend [male] ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The bikers were all ready for the race. Some of the riders were very fast! The bike riders were neck and neck. The competition was fierce. [Male] was the winner of the race.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were all ready for the race .",
+        "some of the riders were very fast !",
+        "the bike riders were neck and neck .",
+        "the competition was fierce .",
+        "[male] was the winner of the race ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "the bikers were all prepare for the race . some of the riders were very fast . the bike riders were neck and neck . the race savage . the victor of the race .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were all prepare for the race .",
+        "some of the riders were very fast .",
+        "the bike riders were neck and neck .",
+        "the race savage .",
+        "the victor of the race ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629613256003"
+}

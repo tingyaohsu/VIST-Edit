@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "5319773579-5320374248-5320375014-5319774907-5320589612",
+  "photo_sequence_ids": [
+    "5319773579",
+    "5320374248",
+    "5320375014",
+    "5319774907",
+    "5320589612"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the local fair . there were lots of people there . the rides were fun . the kids had a great time . the best part was the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "we were walking down the street. there were a lot of people working there. workers were hanging sheet metal as people drove by.",
+      "normalized_edited_story_text_sent": [
+        "we were walking down the street .",
+        "there were a lot of people working there .",
+        "workers were hanging sheet metal as people drove by ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "they have a metal sheet. there were lots of people around . they put the metal up. the guy screwed it in. the display was done.",
+      "normalized_edited_story_text_sent": [
+        "they have a metal sheet .",
+        "there were lots of people around .",
+        "they put the metal up .",
+        "the guy screwed it in .",
+        "the display was done ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The construction workers had their hands full with the large piece of plexiglass for the ad signs.",
+      "normalized_edited_story_text_sent": [
+        "the construction workers had their hands full with the large piece of plexiglass for the ad signs ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the local fair to look for some products . there were lots of people there which caused a traffic jam. the rides were fun but not worth the wait. the kids had a great time hanging with the workers. the best part was the day was when everything was finished .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local fair to look for some products .",
+        "there were lots of people there which caused a traffic jam .",
+        "the rides were fun but not worth the wait .",
+        "the kids had a great time hanging with the workers .",
+        "the best part was the day was when everything was finished ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "Men are loading a truck. The men hold a large piece. The street is lined with tall buildings. The man works on the ad.",
+      "normalized_edited_story_text_sent": [
+        "men are loading a truck .",
+        "the men hold a large piece .",
+        "the street is lined with tall buildings .",
+        "the man works on the ad ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625737489714",
+  "model": "GLAC"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4469774750-4468995791-4469776402-4469777042-4469815190",
+  "photo_sequence_ids": [
+    "4469774750",
+    "4468995791",
+    "4469776402",
+    "4469777042",
+    "4469815190"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was a mess . the computer was empty . the room was not . the bathroom was clean . the bedroom was nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the office was a mess after the move. the computer was empty and needed new wires. the room was not in good order. the bathroom was clean but very wet . the bedroom was nice and just needed a bed .",
+      "normalized_edited_story_text_sent": [
+        "the office was a mess after the move .",
+        "the computer was empty and needed new wires .",
+        "the room was not in good order .",
+        "the bathroom was clean but very wet .",
+        "the bedroom was nice and just needed a bed ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the office was a mess . There were parts everywhere. There were lots of wires. They put furniture together.",
+      "normalized_edited_story_text_sent": [
+        "the office was a mess .",
+        "there were parts everywhere .",
+        "there were lots of wires .",
+        "they put furniture together ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the office was a mess . the computer was empty . the room was better . the bathroom was clean . the bedroom was nice .",
+      "normalized_edited_story_text_sent": [
+        "the office was a mess .",
+        "the computer was empty .",
+        "the room was better .",
+        "the bathroom was clean .",
+        "the bedroom was nice ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the boxes made the office a mess . the computer was ready to be mounted. the room was not ready for anything . the other office was was not tidy. the bookshelves were nice .",
+      "normalized_edited_story_text_sent": [
+        "the boxes made the office a mess .",
+        "the computer was ready to be mounted .",
+        "the room was not ready for anything .",
+        "the other office was was not tidy .",
+        "the bookshelves were nice ."
+      ]
+    },
+    {
+      "worker_id": "A31GERKX2SZETD",
+      "edited_story_text": "The office was a mess. There were a lot of parts to put together. There were a lot of wires to untangle. Eventually the office was organized and cleaned. Four guys helped to put together shelves in the office.",
+      "normalized_edited_story_text_sent": [
+        "the office was a mess .",
+        "there were a lot of parts to put together .",
+        "there were a lot of wires to untangle .",
+        "eventually the office was organized and cleaned .",
+        "four guys helped to put together shelves in the office ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623718997598",
+  "model": "GLAC"
+}

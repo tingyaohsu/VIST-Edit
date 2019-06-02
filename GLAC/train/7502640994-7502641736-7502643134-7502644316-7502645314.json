@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "7502640994-7502641736-7502643134-7502644316-7502645314",
+  "photo_sequence_ids": [
+    "7502640994",
+    "7502641736",
+    "7502643134",
+    "7502644316",
+    "7502645314"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of floats . some of them were very creative . they were all very unique . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The parade was just tons of fun. There were loads of floats, and some of them were actually really creative. But, they were all very unique. I had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "the parade was just tons of fun .",
+        "there were loads of floats , and some of them were actually really creative .",
+        "but , they were all very unique .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of floats . some of them were very creative . the music was excellent as well. i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of floats .",
+        "some of them were very creative .",
+        "the music was excellent as well .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of floats . The man rode in a tiny car. There were people playing instruments.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of floats .",
+        "the man rode in a tiny car .",
+        "there were people playing instruments ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun for all those in it . there were a lot of floats of many different sizes . some of them were very creative others were funny . they were all very unique and fun. i had a great time and will go again next year .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun for all those in it .",
+        "there were a lot of floats of many different sizes .",
+        "some of them were very creative others were funny .",
+        "they were all very unique and fun .",
+        "i had a great time and will go again next year ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of floats and signs",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of floats and signs"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630422619842",
+  "model": "GLAC"
+}

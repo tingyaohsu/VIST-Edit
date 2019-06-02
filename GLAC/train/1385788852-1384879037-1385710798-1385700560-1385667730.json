@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "1385788852-1384879037-1385710798-1385700560-1385667730",
+  "photo_sequence_ids": [
+    "1385788852",
+    "1384879037",
+    "1385710798",
+    "1385700560",
+    "1385667730"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the birthday party . the kids were excited to see the cake . the food was delicious . the whole family enjoyed the meal . the family was all happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the family gathered for the birthday party. the food was delicious . the everyone enjoyed the meal, and the kids were excited to see the cake . all the family was happy .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the food was delicious .",
+        "the everyone enjoyed the meal , and the kids were excited to see the cake .",
+        "all the family was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family gathered for the birthday party for the twins . the kids were excited to see the cake and knew it was made fro m chocolate . the food was delicious and tasted great . the whole family enjoyed the meal as they talked to each other . the family was all happy that they could spend the night together .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party for the twins .",
+        "the kids were excited to see the cake and knew it was made fro m chocolate .",
+        "the food was delicious and tasted great .",
+        "the whole family enjoyed the meal as they talked to each other .",
+        "the family was all happy that they could spend the night together ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "our family got together for a birthday party last night. everyone made it out for the festivities. even the kids liked all the food. we had so much extra food and everyone stuffed their faces. everyone in the family was happy to be together.",
+      "normalized_edited_story_text_sent": [
+        "our family got together for a birthday party last night .",
+        "everyone made it out for the festivities .",
+        "even the kids liked all the food .",
+        "we had so much extra food and everyone stuffed their faces .",
+        "everyone in the family was happy to be together ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family gathered for the birthday party . the kids were excited to see the cake . the food was delicious . the whole family enjoyed the meal . it was a very festive evening.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the kids were excited to see the cake .",
+        "the food was delicious .",
+        "the whole family enjoyed the meal .",
+        "it was a very festive evening ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Gathering with the family. the kids enjoyed all the food . everyone enjoying each other\u0027s company.",
+      "normalized_edited_story_text_sent": [
+        "gathering with the family .",
+        "the kids enjoyed all the food .",
+        "everyone enjoying each other \u0027s company ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602018934338",
+  "model": "GLAC"
+}

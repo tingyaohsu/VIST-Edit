@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4427535594-4426772899-4426772867-4426772823-4427535442",
+  "photo_sequence_ids": [
+    "4427535594",
+    "4426772899",
+    "4426772867",
+    "4426772823",
+    "4427535442"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very happy to be there . he was giving a speech . he was given a lecture . he was very proud . he was the last person .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "Our speaker was very pleased to be with us. He gave a very detailed speech. His lecture was entertaining as well. He was quite proud of his accomplishments. As he was the last speaker our day concluded.",
+      "normalized_edited_story_text_sent": [
+        "our speaker was very pleased to be with us .",
+        "he gave a very detailed speech .",
+        "his lecture was entertaining as well .",
+        "he was quite proud of his accomplishments .",
+        "as he was the last speaker our day concluded ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "tje speaker was very happy to be there giving a speechhe. He invited give a lecture and he was very proud to .",
+      "normalized_edited_story_text_sent": [
+        "tje speaker was very happy to be there giving a speechhe .",
+        "he invited give a lecture and he was very proud to ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the speaker was very happy to be there . he was giving a speech . he was given a lecture . he was very proud . he was the last person .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the speaker was very happy to be there .",
+        "he was giving a speech .",
+        "he was given a lecture .",
+        "he was very proud .",
+        "he was the last person ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "A man gave a speech. He was quite animated with his gestures. He used props to help the presentation. He appeared happy to give the speech. He looks comfortable.",
+      "normalized_edited_story_text_sent": [
+        "a man gave a speech .",
+        "he was quite animated with his gestures .",
+        "he used props to help the presentation .",
+        "he appeared happy to give the speech .",
+        "he looks comfortable ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very happy to be there to speak at his old school . he was giving a speech about how he got his start . he was given a lecture which was for thirty minutes . he was very proud he went to school there. he was the last person anyone though would finish college.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very happy to be there to speak at his old school .",
+        "he was giving a speech about how he got his start .",
+        "he was given a lecture which was for thirty minutes .",
+        "he was very proud he went to school there .",
+        "he was the last person anyone though would finish college ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623606238012",
+  "model": "GLAC"
+}

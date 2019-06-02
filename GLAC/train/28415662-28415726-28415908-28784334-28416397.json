@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "28415662-28415726-28415908-28784334-28416397",
+  "photo_sequence_ids": [
+    "28415662",
+    "28415726",
+    "28415908",
+    "28784334",
+    "28416397"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the party . the kids were having a good time . the fire was burning . the people were happy . the guys were having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was planned and anticipated a party . the kids were having fun . a bonfire was lit . everyone felt content to be around each other . people had a great time until knocked out by sleep .",
+      "normalized_edited_story_text_sent": [
+        "the family was planned and anticipated a party .",
+        "the kids were having fun .",
+        "a bonfire was lit .",
+        "everyone felt content to be around each other .",
+        "people had a great time until knocked out by sleep ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the family was ready for the party . the kids had a good time . the bonfire was burning a long time . Everyone was happy . the guys had a great time and rested .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the party .",
+        "the kids had a good time .",
+        "the bonfire was burning a long time .",
+        "everyone was happy .",
+        "the guys had a great time and rested ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was ready for the party . the kids were having a good time . the weather was perfect.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the party .",
+        "the kids were having a good time .",
+        "the weather was perfect ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the family was ready for the party . the kids were having a good time outside on the farm . That night, they had a bonfire and the people were happy sitting around the fire. the guys were having a good time and some spent the night in tents.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the party .",
+        "the kids were having a good time outside on the farm .",
+        "that night , they had a bonfire and the people were happy sitting around the fire .",
+        "the guys were having a good time and some spent the night in tents ."
+      ]
+    },
+    {
+      "worker_id": "A27IABVBUZ9X8Z",
+      "edited_story_text": "the family was ready for the party . the kids were having a good time . the bonfire was burning . the people were happy . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the party .",
+        "the kids were having a good time .",
+        "the bonfire was burning .",
+        "the people were happy .",
+        "they had a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1237313",
+  "model": "GLAC"
+}

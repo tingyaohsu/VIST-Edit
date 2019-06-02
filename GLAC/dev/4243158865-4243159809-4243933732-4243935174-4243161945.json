@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4243158865-4243159809-4243933732-4243935174-4243161945",
+  "photo_sequence_ids": [
+    "4243158865",
+    "4243159809",
+    "4243933732",
+    "4243935174",
+    "4243161945"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the cemetery . it was very old . there was a lot of graves . the stone was amazing . the ruins were huge .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "We went to cemetery and it was very old. There were a lot of graves and the stone was amazing. The ruins were huge.",
+      "normalized_edited_story_text_sent": [
+        "we went to cemetery and it was very old .",
+        "there were a lot of graves and the stone was amazing .",
+        "the ruins were huge ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The building was huge and in front of mountains. There were pretty caves. Th caves had long crystals.",
+      "normalized_edited_story_text_sent": [
+        "the building was huge and in front of mountains .",
+        "there were pretty caves .",
+        "th caves had long crystals ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "we went to the cemetery . it was very old . there was a lot of graves . the houses were historic . the ruins had history .",
+      "normalized_edited_story_text_sent": [
+        "we went to the cemetery .",
+        "it was very old .",
+        "there was a lot of graves .",
+        "the houses were historic .",
+        "the ruins had history ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we went to the cemetery . it was very old and scary. there was a lot of graves . the stones were amazing and the ruins were huge. It was interesting to go.",
+      "normalized_edited_story_text_sent": [
+        "we went to the cemetery .",
+        "it was very old and scary .",
+        "there was a lot of graves .",
+        "the stones were amazing and the ruins were huge .",
+        "it was interesting to go ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the cemetery . it was very old . there was a lot of artists. . the stone was amazing . the ruins were huge  and helped with floated.",
+      "normalized_edited_story_text_sent": [
+        "we went to the cemetery .",
+        "it was very old .",
+        "there was a lot of artists .",
+        "the stone was amazing .",
+        "the ruins were huge and helped with floated ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623134784128",
+  "model": "GLAC"
+}

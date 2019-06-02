@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "391461218-391459455-391460750-391460337-391462848",
+  "photo_sequence_ids": [
+    "391461218",
+    "391459455",
+    "391460750",
+    "391460337",
+    "391462848"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/167/391461218_e12461578e_o.jpg",
+    "https://farm1.staticflickr.com/176/391459455_c2172117d1_o.jpg",
+    "https://farm1.staticflickr.com/169/391460750_26eeb7a22f_o.jpg",
+    "https://farm1.staticflickr.com/180/391460337_86b1d8e344_o.jpg",
+    "https://farm1.staticflickr.com/155/391462848_197a8edcaa_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a flower . it was a beautiful day . the flowers were so beautiful . the flowers were very beautiful . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "The flowers were beautiful. It was a beautiful day. The flowers were so pretty. They were a sight to behold. I had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were beautiful .",
+        "it was a beautiful day .",
+        "the flowers were so pretty .",
+        "they were a sight to behold .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "I received a bouquet of roses. They were red roses and they were very beautiful. They are in full bloom. I\u0027m glad I get to enjoy the flowers.",
+      "normalized_edited_story_text_sent": [
+        "i received a bouquet of roses .",
+        "they were red roses and they were very beautiful .",
+        "they are in full bloom .",
+        "i \u0027m glad i get to enjoy the flowers ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I really enjoyed seeing the flowers today. The red roses were so vibrant \u0026 beautiful. I love roses. The flowers were very beautiful \u0026 smelled even better. I can\u0027t wait to go back.",
+      "normalized_edited_story_text_sent": [
+        "i really enjoyed seeing the flowers today .",
+        "the red roses were so vibrant \u0026 beautiful .",
+        "i love roses .",
+        "the flowers were very beautiful \u0026 smelled even better .",
+        "i ca n\u0027t wait to go back ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this is a picture of a flower . it was a beautiful day . the flowers were so beautiful . they smelled great. i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a flower .",
+        "it was a beautiful day .",
+        "the flowers were so beautiful .",
+        "they smelled great .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "There are some flowers in a vase. it was a beautiful day. the roses were very beautiful. i really enjoyed them.",
+      "normalized_edited_story_text_sent": [
+        "there are some flowers in a vase .",
+        "it was a beautiful day .",
+        "the roses were very beautiful .",
+        "i really enjoyed them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594537876926"
+}

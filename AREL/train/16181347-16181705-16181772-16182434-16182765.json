@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "16181347-16181705-16181772-16182434-16182765",
+  "photo_sequence_ids": [
+    "16181347",
+    "16181705",
+    "16181772",
+    "16182434",
+    "16182765"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/13/16181347_021c83bee8_o.jpg",
+    "https://farm1.staticflickr.com/13/16181705_2a2ca3a2bc_o.jpg",
+    "https://farm1.staticflickr.com/11/16181772_edd4ef8ab6_o.jpg",
+    "https://farm1.staticflickr.com/11/16182434_2a279322f0_o.jpg",
+    "https://farm1.staticflickr.com/13/16182765_0f92e56382_o.jpg"
+  ],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of cool cars there . the parade was a lot of fun . there were also a lot of cool cars . the parade ended with a parade on the side of the parade .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of cool cars there . the parade was a lot of fun and there were also a lot of cool cars . the parade ended with a parade on the side of the parade .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of cool cars there .",
+        "the parade was a lot of fun and there were also a lot of cool cars .",
+        "the parade ended with a parade on the side of the parade ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The parade was lots of fun, we got to see a lot of cool cars. At the end, the cars drove down the side of the parade.",
+      "normalized_edited_story_text_sent": [
+        "the parade was lots of fun , we got to see a lot of cool cars .",
+        "at the end , the cars drove down the side of the parade ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "There was a really fun street parade. There were Disney themed cars there. The parade was exciting to watch. All the cars were Disney themed. The parade ended with a car with Mickey \u0026 Minnie Mouse.",
+      "normalized_edited_story_text_sent": [
+        "there was a really fun street parade .",
+        "there were disney themed cars there .",
+        "the parade was exciting to watch .",
+        "all the cars were disney themed .",
+        "the parade ended with a car with mickey \u0026 minnie mouse ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "The parade was a lot of fun.  There were a lot of cool cars there. The cars were decorated and painted as different characters.  There were people dressed as characters too.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of cool cars there .",
+        "the cars were decorated and painted as different characters .",
+        "there were people dressed as characters too ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of cool cars there . They were so colorful and everyone was dressed up in costumes. We even saw two people dressed up as Micke and Minnie Mouse",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of cool cars there .",
+        "they were so colorful and everyone was dressed up in costumes .",
+        "we even saw two people dressed up as micke and minnie mouse"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "388393"
+}

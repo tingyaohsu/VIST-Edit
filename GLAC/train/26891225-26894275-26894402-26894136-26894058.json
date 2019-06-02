@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "26891225-26894275-26894402-26894136-26894058",
+  "photo_sequence_ids": [
+    "26891225",
+    "26894275",
+    "26894402",
+    "26894136",
+    "26894058"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the lady was dancing with her boyfriend . the girl was singing a song . the crowd was having a great time . the girls were all dressed up .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the band was playing some good music . there was  lady who was dancing with her boyfriend . there was girl was singing a song. the entire crowd was having such a great time. All of the girls were all dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing some good music .",
+        "there was lady who was dancing with her boyfriend .",
+        "there was girl was singing a song .",
+        "the entire crowd was having such a great time .",
+        "all of the girls were all dressed up ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the band was playing music . the lady was dancing with her boyfriend . everyone had fun . the crowd was having a great time . the girls were all dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the lady was dancing with her boyfriend .",
+        "everyone had fun .",
+        "the crowd was having a great time .",
+        "the girls were all dressed up ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The band was playing music and the lady was dancing with her boyfriend. The girl was singing a song and the crowd was having a great time. The girls were all dressed up.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music and the lady was dancing with her boyfriend .",
+        "the girl was singing a song and the crowd was having a great time .",
+        "the girls were all dressed up ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the band was playing music with clouds on the screen. the lady was dancing with her boyfriend . They played games. Everyone enjoyed the concert.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music with clouds on the screen .",
+        "the lady was dancing with her boyfriend .",
+        "they played games .",
+        "everyone enjoyed the concert ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the band was playing music very loud . the lady was dancing with her boyfriend but was looking at me . the girl was singing a song that no one knew the words to . the crowd was having a great time trying to dance along to the bear. the girls were all dressed up in black dresses .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music very loud .",
+        "the lady was dancing with her boyfriend but was looking at me .",
+        "the girl was singing a song that no one knew the words to .",
+        "the crowd was having a great time trying to dance along to the bear .",
+        "the girls were all dressed up in black dresses ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "609587",
+  "model": "GLAC"
+}

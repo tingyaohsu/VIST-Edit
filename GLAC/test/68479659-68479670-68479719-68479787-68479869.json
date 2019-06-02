@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "68479659-68479670-68479719-68479787-68479869",
+  "photo_sequence_ids": [
+    "68479659",
+    "68479670",
+    "68479719",
+    "68479787",
+    "68479869"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was ready for the party . the family was all gathered around . the turkey was delicious . the main course was the chicken . the dessert was the best part .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the food was ready for the party .The turkey turned out great. Everyone sat down to enjoy the meal. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "the food was ready for the party .",
+        "the turkey turned out great .",
+        "everyone sat down to enjoy the meal .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The food was ready for the party. The family was gathered together. The turkey was delicious, but the dessert was the best part.",
+      "normalized_edited_story_text_sent": [
+        "the food was ready for the party .",
+        "the family was gathered together .",
+        "the turkey was delicious , but the dessert was the best part ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the food was ready for the party . the family was all gathered around . the turkey was cooked to perfection. it was an amazing feast. everyone had a really good time.",
+      "normalized_edited_story_text_sent": [
+        "the food was ready for the party .",
+        "the family was all gathered around .",
+        "the turkey was cooked to perfection .",
+        "it was an amazing feast .",
+        "everyone had a really good time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the food was ready for the party . the family was all gathered around . the turkey was delicious, and we all had a few drinks. the dessert was the best part .",
+      "normalized_edited_story_text_sent": [
+        "the food was ready for the party .",
+        "the family was all gathered around .",
+        "the turkey was delicious , and we all had a few drinks .",
+        "the dessert was the best part ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "The family all gathered for their annual thanksgiving get together. They cooked a turkey and prepared many side dishes. there were great beers as well.",
+      "normalized_edited_story_text_sent": [
+        "the family all gathered for their annual thanksgiving get together .",
+        "they cooked a turkey and prepared many side dishes .",
+        "there were great beers as well ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1477049",
+  "model": "GLAC"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4247754534-4246981017-4247756380-4247756804-4246980087",
+  "photo_sequence_ids": [
+    "4247754534",
+    "4246981017",
+    "4247756380",
+    "4247756804",
+    "4246980087"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4032/4247754534_d44385c2a3_o.jpg",
+    "https://farm5.staticflickr.com/4025/4246981017_69bbc71d04_o.jpg",
+    "https://farm5.staticflickr.com/4024/4247756380_2ef0274230_o.jpg",
+    "https://farm5.staticflickr.com/4025/4247756804_fc9c027786_o.jpg",
+    "https://farm5.staticflickr.com/4054/4246980087_02caeb5716_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the wedding last week . the church was beautiful . the bride was very happy to be there . i had a great time there . the bride and groom pose for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to the wedding last week . the church was beautiful . the bride was very happy to be there . there were children there . the bride and groom posed for a picture .",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding last week .",
+        "the church was beautiful .",
+        "the bride was very happy to be there .",
+        "there were children there .",
+        "the bride and groom posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A298FAWY76NZA9",
+      "edited_story_text": "i went to my friends\u0027 wedding last week . the church was beautiful . the bride was very happy to be there . i had a great time there watching the union of my friends. the bride and groom posed for a picture .",
+      "normalized_edited_story_text_sent": [
+        "i went to my friends \u0027 wedding last week .",
+        "the church was beautiful .",
+        "the bride was very happy to be there .",
+        "i had a great time there watching the union of my friends .",
+        "the bride and groom posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i am driving a car . the church was beautiful . the bride was very happy to be there . i had a great time there . the bride and groom pose for a picture .",
+      "normalized_edited_story_text_sent": [
+        "i am driving a car .",
+        "the church was beautiful .",
+        "the bride was very happy to be there .",
+        "i had a great time there .",
+        "the bride and groom pose for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I went to the wedding last week. The church and family was beautiful. The bride was very happy to be there and showed her love to her new husband. They both posed for a beautiful picture. I really had a wonderful time there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding last week .",
+        "the church and family was beautiful .",
+        "the bride was very happy to be there and showed her love to her new husband .",
+        "they both posed for a beautiful picture .",
+        "i really had a wonderful time there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the wedding last week! The church was beautiful. The bride was so happy, and I had a great time. The bride and groom posed for pictures.",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding last week !",
+        "the church was beautiful .",
+        "the bride was so happy , and i had a great time .",
+        "the bride and groom posed for pictures ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623019053803"
+}

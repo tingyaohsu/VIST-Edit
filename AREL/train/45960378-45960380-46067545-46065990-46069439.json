@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "45960378-45960380-46067545-46065990-46069439",
+  "photo_sequence_ids": [
+    "45960378",
+    "45960380",
+    "46067545",
+    "46065990",
+    "46069439"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/30/45960378_84a096f185_o.jpg",
+    "https://farm1.staticflickr.com/32/45960380_017e9237d3_o.jpg",
+    "https://farm1.staticflickr.com/32/46067545_3eac7b8569_o.jpg",
+    "https://farm1.staticflickr.com/27/46065990_51cd4de064_o.jpg",
+    "https://farm1.staticflickr.com/32/46069439_97ce9dade4_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last night . she was so excited to be there . we had a lot of food to eat . the waiter made a lot of food for the party . but i did n\u0027t want to leave .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I came home from work after a long day.  Got changed, wash the clothes then put the dinner in the oven.  I took a nap after I ate because I was so tire.",
+      "normalized_edited_story_text_sent": [
+        "i came home from work after a long day .",
+        "got changed , wash the clothes then put the dinner in the oven .",
+        "i took a nap after i ate because i was so tire ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i had a lazy time at home last night . she washed clothes . we made a lot of food to eat . then i had to sleep .",
+      "normalized_edited_story_text_sent": [
+        "i had a lazy time at home last night .",
+        "she washed clothes .",
+        "we made a lot of food to eat .",
+        "then i had to sleep ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i had a great time at the party last night with my friends . I was so excited to be there . we had a lot of food to eat . the waiter made a lot of food for the party . but i didn\u0027t want to leave .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night with my friends .",
+        "i was so excited to be there .",
+        "we had a lot of food to eat .",
+        "the waiter made a lot of food for the party .",
+        "but i did n\u0027t want to leave ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "i had a great time at the party last night . [female] was so excited to be there .  the waiter brought a lot of food for the party and we ate a lot! i didn\u0027t want to leave .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "[female] was so excited to be there .",
+        "the waiter brought a lot of food for the party and we ate a lot !",
+        "i did n\u0027t want to leave ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i had a incredible time at the previous last night . she was so eager to be there . we had more food to eat . the waiter made more food for the party . but i desire want to leave .",
+      "normalized_edited_story_text_sent": [
+        "i had a incredible time at the previous last night .",
+        "she was so eager to be there .",
+        "we had more food to eat .",
+        "the waiter made more food for the party .",
+        "but i desire want to leave ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1006285"
+}

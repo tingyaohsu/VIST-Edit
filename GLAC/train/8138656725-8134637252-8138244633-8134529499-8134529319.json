@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "8138656725-8134637252-8138244633-8134529499-8134529319",
+  "photo_sequence_ids": [
+    "8138656725",
+    "8134637252",
+    "8138244633",
+    "8134529499",
+    "8134529319"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the statue was very interesting . the statues were amazing . the artwork was beautiful . the paintings were so intricate . the colors were amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The statue was very interesting and all of the statues were amazing.  The artwork was beautiful.  The paintings were so intricate and the colors were amazing.",
+      "normalized_edited_story_text_sent": [
+        "the statue was very interesting and all of the statues were amazing .",
+        "the artwork was beautiful .",
+        "the paintings were so intricate and the colors were amazing ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the statue was very interesting . the statues were amazing . the artwork was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the statue was very interesting .",
+        "the statues were amazing .",
+        "the artwork was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The cave was amazing. There was a cool, old sign. We saw the sights and then went to relax. We chilled beer in a pumpkin bucket.",
+      "normalized_edited_story_text_sent": [
+        "the cave was amazing .",
+        "there was a cool , old sign .",
+        "we saw the sights and then went to relax .",
+        "we chilled beer in a pumpkin bucket ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the statue was very interesting due to the material it was made from . the statues were amazing and detailed . the artwork was beautiful and the artist should be proud . the paintings were so intricate and very pretty . the colors were amazing especially the ones with yellow .",
+      "normalized_edited_story_text_sent": [
+        "the statue was very interesting due to the material it was made from .",
+        "the statues were amazing and detailed .",
+        "the artwork was beautiful and the artist should be proud .",
+        "the paintings were so intricate and very pretty .",
+        "the colors were amazing especially the ones with yellow ."
+      ]
+    },
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the large sign was damaged . there were no statues . the artwork was beautiful . the paintings were so intricate . the halloween pumpkin bucket is cute.",
+      "normalized_edited_story_text_sent": [
+        "the large sign was damaged .",
+        "there were no statues .",
+        "the artwork was beautiful .",
+        "the paintings were so intricate .",
+        "the halloween pumpkin bucket is cute ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631879336542",
+  "model": "GLAC"
+}

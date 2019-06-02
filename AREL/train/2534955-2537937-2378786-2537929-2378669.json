@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "2534955-2537937-2378786-2537929-2378669",
+  "photo_sequence_ids": [
+    "2534955",
+    "2537937",
+    "2378786",
+    "2537929",
+    "2378669"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/3/2534955_11fb0c56ce_o.jpg",
+    "https://farm1.staticflickr.com/1/2537937_00152ee105_o.jpg",
+    "https://farm1.staticflickr.com/1/2378786_f1ccb92a27_o.jpg",
+    "https://farm1.staticflickr.com/3/2537929_072311293a_o.jpg",
+    "https://farm1.staticflickr.com/2/2378669_7d91206ce9_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] was on his way to the city . there were a lot of people there . there was a bridge on the bridge . we had a lot of fun . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "ANMXO37QRGDN",
+      "edited_story_text": "[male] was on his way to the city . I went to Wellesley Hills via train and there were a lot of people there . The train ran under a bridge.  We had a lot of fun sitting on the bench and feeding the pigeons. I met my girlfriend there and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] was on his way to the city .",
+        "i went to wellesley hills via train and there were a lot of people there .",
+        "the train ran under a bridge .",
+        "we had a lot of fun sitting on the bench and feeding the pigeons .",
+        "i met my girlfriend there and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "[male] was on his way to the city. There were a lot of people there. There was a bridge next to a bridge. We had a lot of fun and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] was on his way to the city .",
+        "there were a lot of people there .",
+        "there was a bridge next to a bridge .",
+        "we had a lot of fun and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "[male] was on his way to the city.  There were a lot of people there. On the way, there was a bridge over the railroad.  [Male] stopped to feed the pigeons.  We had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] was on his way to the city .",
+        "there were a lot of people there .",
+        "on the way , there was a bridge over the railroad .",
+        "[male] stopped to feed the pigeons .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "[male] was on his headed to the city . there were a many people there . there was a bridge on the extension . we had a great deal of fun . we had a incredible time .",
+      "normalized_edited_story_text_sent": [
+        "[male] was on his headed to the city .",
+        "there were a many people there .",
+        "there was a bridge on the extension .",
+        "we had a great deal of fun .",
+        "we had a incredible time ."
+      ]
+    },
+    {
+      "worker_id": "A2GMFKPE64NQQC",
+      "edited_story_text": "[male] was on his way to the city. He took the train to get there. He saw a bridge over the train tracks. In the city, he saw a man feeding pigeons. He had a great time with his friend.",
+      "normalized_edited_story_text_sent": [
+        "[male] was on his way to the city .",
+        "he took the train to get there .",
+        "he saw a bridge over the train tracks .",
+        "in the city , he saw a man feeding pigeons .",
+        "he had a great time with his friend ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "63571"
+}

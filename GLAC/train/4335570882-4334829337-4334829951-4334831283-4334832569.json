@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4335570882-4334829337-4334829951-4334831283-4334832569",
+  "photo_sequence_ids": [
+    "4335570882",
+    "4334829337",
+    "4334829951",
+    "4334831283",
+    "4334832569"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a beautiful place to visit . the buildings were very tall . the streets were filled with activity . the shops were busy . the market was full of fresh produce .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the city was a beautiful place to visit. the buildings were very tall, and the streets were filled with activity. the shops were busy, and the market was full of fresh produce.",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit .",
+        "the buildings were very tall , and the streets were filled with activity .",
+        "the shops were busy , and the market was full of fresh produce ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Robert agreed the city was a beautiful place to visit . the buildings were very tall . the streets were filled with activity . the shops were busy . the market was full of fresh produce .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] agreed the city was a beautiful place to visit .",
+        "the buildings were very tall .",
+        "the streets were filled with activity .",
+        "the shops were busy .",
+        "the market was full of fresh produce ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the city presented itself as welcoming . the skyscrapers, captivating . the streets, busting . the shops\u0027 customers went in and out in big numbers. the market\u0027s fresh produce was well appointed.",
+      "normalized_edited_story_text_sent": [
+        "the city presented itself as welcoming .",
+        "the skyscrapers , captivating .",
+        "the streets , busting .",
+        "the shops \u0027 customers went in and out in big numbers .",
+        "the market \u0027s fresh produce was well appointed ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was a beautiful place to visit . the buildings were very tall . the streets were filled with activity . the people were shopping . the market was full of fresh produce .",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit .",
+        "the buildings were very tall .",
+        "the streets were filled with activity .",
+        "the people were shopping .",
+        "the market was full of fresh produce ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was a beautiful place to visit during the day . the buildings were very tall but not very wide . the streets were filled with activity as the weather was warm . the shops were busy during the day but slowed down at night . the market was full of fresh produce and many other foods .",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit during the day .",
+        "the buildings were very tall but not very wide .",
+        "the streets were filled with activity as the weather was warm .",
+        "the shops were busy during the day but slowed down at night .",
+        "the market was full of fresh produce and many other foods ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623365952228",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "14428427866-14450429844-14450195182-14471723603-14265114507",
+  "photo_sequence_ids": [
+    "14428427866",
+    "14450429844",
+    "14450195182",
+    "14471723603",
+    "14265114507"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for a bbq . the kids enjoyed the food . the baby was happy to see the baby . the dog was excited . the bird was eating .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family gathered for a bbq . the kids enjoyed helping separate the crabs to cook . the baby was happy to see the mom . the dog was excited . the bird was eating the scraps .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a bbq .",
+        "the kids enjoyed helping separate the crabs to cook .",
+        "the baby was happy to see the mom .",
+        "the dog was excited .",
+        "the bird was eating the scraps ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family gathered for a bbq in the park. We ate and drank . The baby enjoyed the fresh air . the dog did too . There were crabs.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a bbq in the park .",
+        "we ate and drank .",
+        "the baby enjoyed the fresh air .",
+        "the dog did too .",
+        "there were crabs ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family gathered around for a bbq . the kids enjoyed the food . the dog was excited and greeted everyone.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered around for a bbq .",
+        "the kids enjoyed the food .",
+        "the dog was excited and greeted everyone ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the family gathered for a party . the men enjoyed talking to one another . the baby was happy to see Grandma . the dog played in the yard. the bird was eating .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a party .",
+        "the men enjoyed talking to one another .",
+        "the baby was happy to see grandma .",
+        "the dog played in the yard .",
+        "the bird was eating ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my uncle david had everyone in the family for a bbq this weekend. both the kids and the adults enjoyed the food. grandma mary had a fun time playing with the baby. the dog was excited and spent a lot of time exploring. we all stuffed ourselves on delicious crab legs and had a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "my uncle [male] had everyone in the family for a bbq this weekend .",
+        "both the kids and the adults enjoyed the food .",
+        "grandma [female] had a fun time playing with the baby .",
+        "the dog was excited and spent a lot of time exploring .",
+        "we all stuffed ourselves on delicious crab legs and had a wonderful time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157644824250557",
+  "model": "GLAC"
+}

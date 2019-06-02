@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6167923429-6168461778-6168462880-6168463548-6168465520",
+  "photo_sequence_ids": [
+    "6167923429",
+    "6168461778",
+    "6168462880",
+    "6168463548",
+    "6168465520"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the marching band was ready to play . the fans were excited . the cheerleaders were on the field . the team was very talented . the coach was interviewed by the crowd .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The band practiced for weeks and then finally made it to the parade.  Here are some pics of before and during the parade.  Also got a picture of some of the crowd.",
+      "normalized_edited_story_text_sent": [
+        "the band practiced for weeks and then finally made it to the parade .",
+        "here are some pics of before and during the parade .",
+        "also got a picture of some of the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The marching band was ready to play and the fans were excited. The cheerleaders were out and about and the team was very talented. The crowd enjoyed the event.",
+      "normalized_edited_story_text_sent": [
+        "the marching band was ready to play and the fans were excited .",
+        "the cheerleaders were out and about and the team was very talented .",
+        "the crowd enjoyed the event ."
+      ]
+    },
+    {
+      "worker_id": "A2ASAECAHB8WSZ",
+      "edited_story_text": "Robert, John, and the rest of the marching band. David is front and center with his saxophone. Lisa and Mary in a parade with the other cheer leaders. It was then time for the marching band. Coach was excited for this day.",
+      "normalized_edited_story_text_sent": [
+        "[male] , [male] , and the rest of the marching band .",
+        "[male] is front and center with his saxophone .",
+        "[female] and [female] in a parade with the other cheer leaders .",
+        "it was then time for the marching band .",
+        "coach was excited for this day ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the marching band was prepared to start . the fans were boisterous . the cheerleaders were already there on the field . the team was very athletic . the coach was being interviewed by a person from the crowd .",
+      "normalized_edited_story_text_sent": [
+        "the marching band was prepared to start .",
+        "the fans were boisterous .",
+        "the cheerleaders were already there on the field .",
+        "the team was very athletic .",
+        "the coach was being interviewed by a person from the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the marching band was ready to play . the fans were excited .",
+      "normalized_edited_story_text_sent": [
+        "the marching band was ready to play .",
+        "the fans were excited ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627717760892",
+  "model": "GLAC"
+}

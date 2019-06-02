@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "5670103123-5670104361-5670679118-5703748088-5670111359",
+  "photo_sequence_ids": [
+    "5670103123",
+    "5670104361",
+    "5670679118",
+    "5703748088",
+    "5670111359"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5145/5670103123_57fc2edfaf_o.jpg",
+    "https://farm6.staticflickr.com/5309/5670104361_b25c1ebeac_o.jpg",
+    "https://farm6.staticflickr.com/5105/5670679118_af20face51_o.jpg",
+    "https://farm4.staticflickr.com/3562/5703748088_4b4cbd43ba_o.jpg",
+    "https://farm6.staticflickr.com/5186/5670111359_922e802e02_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the local market . we took a tour of the local museum . there were a lot of people there . then they cut the cake . the kids were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "we went to the food safety workshop . the kids played games and got prizes . we learned about egg safety . then we learned some cooking techniques . finally, we learned about healthy eating .",
+      "normalized_edited_story_text_sent": [
+        "we went to the food safety workshop .",
+        "the kids played games and got prizes .",
+        "we learned about egg safety .",
+        "then we learned some cooking techniques .",
+        "finally , we learned about healthy eating ."
+      ]
+    },
+    {
+      "worker_id": "A2OATZCX1YXE77",
+      "edited_story_text": "we went to the local market which was filled with children and adults. There was a food safety truck with activities for the kids. we toured of the local museum and interacted with the events set up. the kids enjoyed all the activity and had fun being interactive.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local market which was filled with children and adults .",
+        "there was a food safety truck with activities for the kids .",
+        "we toured of the local museum and interacted with the events set up .",
+        "the kids enjoyed all the activity and had fun being interactive ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went to a local food safety truck for a special tour. We took a tour of the truck and they showed us the food they had brought. There were lots of activities for us to do. They showed us how to use a juicer. The kids were very excited about the tour.",
+      "normalized_edited_story_text_sent": [
+        "we went to a local food safety truck for a special tour .",
+        "we took a tour of the truck and they showed us the food they had brought .",
+        "there were lots of activities for us to do .",
+        "they showed us how to use a juicer .",
+        "the kids were very excited about the tour ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "we went to the local market. then we took a tour of the local museum. there were a lot of people there. then they cut the cake. the kids were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local market .",
+        "then we took a tour of the local museum .",
+        "there were a lot of people there .",
+        "then they cut the cake .",
+        "the kids were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "We went to the local market. There was a food safety truck there. We took a tour of the truck. They educated us on eggs and plants. There were a lot of people there. The kids were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local market .",
+        "there was a food safety truck there .",
+        "we took a tour of the truck .",
+        "they educated us on eggs and plants .",
+        "there were a lot of people there .",
+        "the kids were very happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626609579922"
+}

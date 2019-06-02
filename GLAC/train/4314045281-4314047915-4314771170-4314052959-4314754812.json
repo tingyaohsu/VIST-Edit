@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4314045281-4314047915-4314771170-4314052959-4314754812",
+  "photo_sequence_ids": [
+    "4314045281",
+    "4314047915",
+    "4314771170",
+    "4314052959",
+    "4314754812"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the room was empty . the people were walking around . the man was taking a break . the view was amazing . the water was calm .",
+  "edited_stories": [
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we had a trip to the country side. the hotel room was nice. we went to a water fall and there were too many people. the people were walking around . the man was taking a break . the view was amazing . the water was calm . we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a trip to the country side .",
+        "the hotel room was nice .",
+        "we went to a water fall and there were too many people .",
+        "the people were walking around .",
+        "the man was taking a break .",
+        "the view was amazing .",
+        "the water was calm .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The room I was in was empty. People were walking around. One man was taking a break. The view I saw was amazing. The water was calm.",
+      "normalized_edited_story_text_sent": [
+        "the room i was in was empty .",
+        "people were walking around .",
+        "one man was taking a break .",
+        "the view i saw was amazing .",
+        "the water was calm ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "This is our hotel room.  Interesting lighting!   We all gathered to watch the geyser.  It was amazing as the water shot up.  Having a great time on the trip.",
+      "normalized_edited_story_text_sent": [
+        "this is our hotel room .",
+        "interesting lighting !",
+        "we all gathered to watch the geyser .",
+        "it was amazing as the water shot up .",
+        "having a great time on the trip ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the hotel rooms were empty . people were walking by a wondrous waterfall . a man was taking a break from the action . the view was magnificent . the water made people feel calm even as it was pouring down .",
+      "normalized_edited_story_text_sent": [
+        "the hotel rooms were empty .",
+        "people were walking by a wondrous waterfall .",
+        "a man was taking a break from the action .",
+        "the view was magnificent .",
+        "the water made people feel calm even as it was pouring down ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The hotel room was empty. The people were sitting around and taking a break. The water was calm and the view was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the hotel room was empty .",
+        "the people were sitting around and taking a break .",
+        "the water was calm and the view was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623184933535",
+  "model": "GLAC"
+}

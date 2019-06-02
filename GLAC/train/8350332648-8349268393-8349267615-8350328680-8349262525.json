@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "8350332648-8349268393-8349267615-8350328680-8349262525",
+  "photo_sequence_ids": [
+    "8350332648",
+    "8349268393",
+    "8349267615",
+    "8350328680",
+    "8349262525"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . afterward we all went out to eat .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . People danced and drank. There were pretty lights. It went on into the evening.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "people danced and drank .",
+        "there were pretty lights .",
+        "it went on into the evening ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was great . many went . some of them were great people . i had a good time . afterwards, we went to eat at a restaurant .",
+      "normalized_edited_story_text_sent": [
+        "the party was great .",
+        "many went .",
+        "some of them were great people .",
+        "i had a good time .",
+        "afterwards , we went to eat at a restaurant ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i went to a fun party last night.  a lot of people came to listen to musicians play.  some were very good.  we went out to eat afterward.  i had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a fun party last night .",
+        "a lot of people came to listen to musicians play .",
+        "some were very good .",
+        "we went out to eat afterward .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . everyone was friendly . i had a great time . afterward we all went out to eat .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone was friendly .",
+        "i had a great time .",
+        "afterward we all went out to eat ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632439821875",
+  "model": "GLAC"
+}

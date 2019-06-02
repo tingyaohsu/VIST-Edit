@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4253685935-4254451236-4254449090-4253684397-4253684561",
+  "photo_sequence_ids": [
+    "4253685935",
+    "4254451236",
+    "4254449090",
+    "4253684397",
+    "4253684561"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the park . they saw a lot of interesting things . the architecture was amazing . they also had some old ruins . the view was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the family went to the park . they saw a lot of interesting things . the architecture was amazing. the view was spectacular. my father didn織t want to go.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park .",
+        "they saw a lot of interesting things .",
+        "the architecture was amazing .",
+        "the view was spectacular .",
+        "my father did n\u0027t want to go ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i saw a lot of interesting things in the park. the architecture was amazing .",
+      "normalized_edited_story_text_sent": [
+        "i saw a lot of interesting things in the park .",
+        "the architecture was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the older man went to the horticultural park . He saw a lot of interesting shrubbery . the architecture was amazing . they also had some old statues in the garden. the view was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the older man went to the horticultural park .",
+        "he saw a lot of interesting shrubbery .",
+        "the architecture was amazing .",
+        "they also had some old statues in the garden .",
+        "the view was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the family took to the park . they delighted in so much park diversity  . the imaginative architecture was truly special. the ruins gave the chance to enjoy the artifacts  . the entire view was extremely informative .",
+      "normalized_edited_story_text_sent": [
+        "the family took to the park .",
+        "they delighted in so much park diversity .",
+        "the imaginative architecture was truly special .",
+        "the ruins gave the chance to enjoy the artifacts .",
+        "the entire view was extremely informative ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went to the park where they saw many interesting things. the architecture was amazing. they also saw some old ruins. the view was spectacular.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park where they saw many interesting things .",
+        "the architecture was amazing .",
+        "they also saw some old ruins .",
+        "the view was spectacular ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623160153286",
+  "model": "GLAC"
+}

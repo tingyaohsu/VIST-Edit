@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4368531214-4367786395-4367789127-4367794215-4368543004",
+  "photo_sequence_ids": [
+    "4368531214",
+    "4367786395",
+    "4367789127",
+    "4367794215",
+    "4368543004"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very busy . the buildings were tall and majestic . the streets were empty . the shops were open and full of goods . the street was bright and sunny .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city was busy with people . the majestic buildings stood tall . the streets were empty of crime . the shops were open and full of things to buy . the sun shone bright on the street .",
+      "normalized_edited_story_text_sent": [
+        "the city was busy with people .",
+        "the majestic buildings stood tall .",
+        "the streets were empty of crime .",
+        "the shops were open and full of things to buy .",
+        "the sun shone bright on the street ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the buildings were tall and majestic, and the streets were empty. the shops were open and full of unique products. the street was bright and sunny.",
+      "normalized_edited_story_text_sent": [
+        "the buildings were tall and majestic , and the streets were empty .",
+        "the shops were open and full of unique products .",
+        "the street was bright and sunny ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the city was very quiet . the buildings were tall and majestic . the streets were empty . the shops were open and full of goods . the street was bright and sunny .",
+      "normalized_edited_story_text_sent": [
+        "the city was very quiet .",
+        "the buildings were tall and majestic .",
+        "the streets were empty .",
+        "the shops were open and full of goods .",
+        "the street was bright and sunny ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "All the shops were small town and independently owned and not associated to big box.",
+      "normalized_edited_story_text_sent": [
+        "all the shops were small town and independently owned and not associated to big box ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the city had an irish pub . the buildings reflected sunlight . there were several more bars too. they had a great bookstore . the best place was popeyes .",
+      "normalized_edited_story_text_sent": [
+        "the city had an irish pub .",
+        "the buildings reflected sunlight .",
+        "there were several more bars too .",
+        "they had a great bookstore .",
+        "the best place was popeyes ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623461262602",
+  "model": "GLAC"
+}

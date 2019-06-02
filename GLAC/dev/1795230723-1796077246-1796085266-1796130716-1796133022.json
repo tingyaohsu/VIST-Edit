@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "1795230723-1796077246-1796085266-1796130716-1796133022",
+  "photo_sequence_ids": [
+    "1795230723",
+    "1796077246",
+    "1796085266",
+    "1796130716",
+    "1796133022"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the girl was excited to be at the halloween party . the costumes were so good , the kids were having a great time . the girls were dressed up and ready for the night . the little girl was very happy with her costume . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17AF9I56P3RVV",
+      "edited_story_text": "I was excited to be at the halloween party .  We girls were dressed up and ready for the night . Everyone\u0027s costumes were so good. Everyone was very happy with each others costumes . Even the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i was excited to be at the halloween party .",
+        "we girls were dressed up and ready for the night .",
+        "everyone \u0027s costumes were so good .",
+        "everyone was very happy with each others costumes .",
+        "even the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the lady was excited to be at the halloween party. the costumes were so interesting. the kids were having a great time . the ladies were dressed up and ready for the night. the lady was very happy with her costume.",
+      "normalized_edited_story_text_sent": [
+        "the lady was excited to be at the halloween party .",
+        "the costumes were so interesting .",
+        "the kids were having a great time .",
+        "the ladies were dressed up and ready for the night .",
+        "the lady was very happy with her costume ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the halloween party was a giant success. the costumes were all well done.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a giant success .",
+        "the costumes were all well done ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the girl was excited to be at the halloween party because they hadn\u0027t seen each other in a while. the costumes were so good , the kids were having a great time seeing who\u0027s costume was better . the girls were dressed up and ready for the night to go on forever. the little girl was very happy with her costume as she spent a lot of time on it . the kids had a great time playing with each other.",
+      "normalized_edited_story_text_sent": [
+        "the girl was excited to be at the halloween party because they had n\u0027t seen each other in a while .",
+        "the costumes were so good , the kids were having a great time seeing who \u0027s costume was better .",
+        "the girls were dressed up and ready for the night to go on forever .",
+        "the little girl was very happy with her costume as she spent a lot of time on it .",
+        "the kids had a great time playing with each other ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The females were having a blast taking the artsy pictures dressed up.",
+      "normalized_edited_story_text_sent": [
+        "the females were having a blast taking the artsy pictures dressed up ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602772357974",
+  "model": "GLAC"
+}

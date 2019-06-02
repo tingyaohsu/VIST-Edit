@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5680433681-5680997288-5680997912-5680435661-5680439037",
+  "photo_sequence_ids": [
+    "5680433681",
+    "5680997288",
+    "5680997912",
+    "5680435661",
+    "5680439037"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5148/5680433681_14967c80d6_o.jpg",
+    "https://farm6.staticflickr.com/5223/5680997288_40631a9688_o.jpg",
+    "https://farm6.staticflickr.com/5221/5680997912_fb62998a5e_o.jpg",
+    "https://farm6.staticflickr.com/5066/5680435661_ff593494ae_o.jpg",
+    "https://farm6.staticflickr.com/5103/5680439037_dc90b31b5f_o.jpg"
+  ],
+  "auto_story_text_normalized": "the meeting was about to begin . the students were very happy to be there . the students were very excited to be there . they had a lot of work to do . after the presentation , the students were able to talk to each other .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The meeting was just about to start. The students were very excited to be at this meeting. They had lots of work to do during the meeting. They all talked to each other after the presentation. They were also able to talk to the adults who held the presentation and ask them questions.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was just about to start .",
+        "the students were very excited to be at this meeting .",
+        "they had lots of work to do during the meeting .",
+        "they all talked to each other after the presentation .",
+        "they were also able to talk to the adults who held the presentation and ask them questions ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the meeting was held in the large conference room. the students were very happy to be there.  after the main presentation, the students were able to talk to each other and ask questions about the information.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was held in the large conference room .",
+        "the students were very happy to be there .",
+        "after the main presentation , the students were able to talk to each other and ask questions about the information ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The meeting was about to begin and the students were very happy to be there. The students had lots of work to do, and afterwards discussed the presentation together.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin and the students were very happy to be there .",
+        "the students had lots of work to do , and afterwards discussed the presentation together ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the meeting was about to begin . the students were very happy to be there . they had all prepared for the meeting . they had a lot of work to do . after the presentation , the students were able to talk to each other .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "the students were very happy to be there .",
+        "they had all prepared for the meeting .",
+        "they had a lot of work to do .",
+        "after the presentation , the students were able to talk to each other ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "THe CLASS was about to begin. The students were very happy to be there. THERE WAS A LOT OF INFORMATION PRESENTED. AFTER the presentation, the students were able to talk to each other.",
+      "normalized_edited_story_text_sent": [
+        "the class was about to begin .",
+        "the students were very happy to be there .",
+        "there was a lot of information presented .",
+        "after the presentation , the students were able to talk to each other ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626507385367"
+}

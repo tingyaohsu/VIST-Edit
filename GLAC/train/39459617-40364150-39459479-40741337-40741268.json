@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "39459617-40364150-39459479-40741337-40741268",
+  "photo_sequence_ids": [
+    "39459617",
+    "40364150",
+    "39459479",
+    "40741337",
+    "40741268"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the carnival was in town . the rides were all set up . the ferris wheel was huge . the ferris wheel was a big hit . the flowers were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the carnival was in town but only for two weeks . the rides were all set up to operate all day. the ferris wheel was huge and required lots of help . the ferris wheel was a big hit and will be back next year. the flowers were beautiful and the gardner did a great job .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town but only for two weeks .",
+        "the rides were all set up to operate all day .",
+        "the ferris wheel was huge and required lots of help .",
+        "the ferris wheel was a big hit and will be back next year .",
+        "the flowers were beautiful and the gardner did a great job ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Lots of rides and festivities are at this carnival with caution for people to be safe.",
+      "normalized_edited_story_text_sent": [
+        "lots of rides and festivities are at this carnival with caution for people to be safe ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the carnival came to town.  they set up a lot of rides in a field with beautiful flowers.   the big hit was the very tall ferris wheel.",
+      "normalized_edited_story_text_sent": [
+        "the carnival came to town .",
+        "they set up a lot of rides in a field with beautiful flowers .",
+        "the big hit was the very tall ferris wheel ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The carnival was being held in my town. The rides were all set up. The Ferris wheel was huge and was a big hit. The flowers I saw were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the carnival was being held in my town .",
+        "the rides were all set up .",
+        "the ferris wheel was huge and was a big hit .",
+        "the flowers i saw were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the carnival was in town . the rides were all set up . the ferris wheel was huge and shone with bright lights . the ferris wheel was a big hit with all the visitors . the flowers were wonderul .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "the rides were all set up .",
+        "the ferris wheel was huge and shone with bright lights .",
+        "the ferris wheel was a big hit with all the visitors .",
+        "the flowers were wonderul ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "868353",
+  "model": "GLAC"
+}

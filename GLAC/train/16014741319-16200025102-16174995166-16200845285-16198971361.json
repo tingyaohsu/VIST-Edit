@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "16014741319-16200025102-16174995166-16200845285-16198971361",
+  "photo_sequence_ids": [
+    "16014741319",
+    "16200025102",
+    "16174995166",
+    "16200845285",
+    "16198971361"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the woods today . it was very cold outside . there were a lot of people out . the snow was coming down . the sun was setting .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "we went to the woods today . it was very cold outside and snow was everywhere . there were a lot of people out . the snow was coming down and the sun was setting . We took the dog with us and we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to the woods today .",
+        "it was very cold outside and snow was everywhere .",
+        "there were a lot of people out .",
+        "the snow was coming down and the sun was setting .",
+        "we took the dog with us and we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A30DFNV9FV487C",
+      "edited_story_text": "Went to the woods today with my family . Tt was very cold outside but I decided to pose anyhow. Mom and I had a great time and then the snow was coming down  while my dog walked up to us. My dad went to get the truck because the wind picked up and it was a white out.",
+      "normalized_edited_story_text_sent": [
+        "went to the woods today with my family .",
+        "tt was very cold outside but i decided to pose anyhow .",
+        "mom and i had a great time and then the snow was coming down while my dog walked up to us .",
+        "my dad went to get the truck because the wind picked up and it was a white out ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "We went to the woods today. It was very cold outside. There were a lot of people out. The snow was coming down. The snow was covering the ground.",
+      "normalized_edited_story_text_sent": [
+        "we went to the woods today .",
+        "it was very cold outside .",
+        "there were a lot of people out .",
+        "the snow was coming down .",
+        "the snow was covering the ground ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i went to the woods with david, lisa, and the dog today.  even though it was very cold and snowing, a lot of people were outside.  we saw the sun set.",
+      "normalized_edited_story_text_sent": [
+        "i went to the woods with [male] , [female] , and the dog today .",
+        "even though it was very cold and snowing , a lot of people were outside .",
+        "we saw the sun set ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the woods today due to the snowy weather . it was very cold outside so we all wore our warmest clothes . there were a lot of people out due to school being canceled due to the snow . the snow was coming down and didn\u0027t stop the entire day . the sun was setting which was making the air even colder .",
+      "normalized_edited_story_text_sent": [
+        "we went to the woods today due to the snowy weather .",
+        "it was very cold outside so we all wore our warmest clothes .",
+        "there were a lot of people out due to school being canceled due to the snow .",
+        "the snow was coming down and did n\u0027t stop the entire day .",
+        "the sun was setting which was making the air even colder ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157649714582760",
+  "model": "GLAC"
+}

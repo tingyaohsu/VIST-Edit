@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4240980379-4240989507-4240994527-4241777018-4241779642",
+  "photo_sequence_ids": [
+    "4240980379",
+    "4240989507",
+    "4240994527",
+    "4241777018",
+    "4241779642"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was gathered for the event . the band was playing music . the people were having a great time . the band was very talented . the drummer was really good .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the crowd was gathered for the event.  everyone was there . the band was playing upbeat music . the people were having fun . the band was very talented . the drummer was really good .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was gathered for the event .",
+        "everyone was there .",
+        "the band was playing upbeat music .",
+        "the people were having fun .",
+        "the band was very talented .",
+        "the drummer was really good ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The crowd was gathered for the event and the band was playing music ,the people were having a great time ,the band was very talented .It was Christmas time and cold",
+      "normalized_edited_story_text_sent": [
+        "the crowd was gathered for the event and the band was playing music , the people were having a great time , the band was very talented .",
+        "it was christmas time and cold"
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The crowd was gathered all together for the event. The band -- they were really talented, and the drummer was very good! -- was playing music. The people were having a great time overall too.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was gathered all together for the event .",
+        "the band -- they were really talented , and the drummer was very good !",
+        "-- was playing music .",
+        "the people were having a great time overall too ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the gathering was crowded . a band was performing . the people enjoyed the performance . the band had much appreciated talent . the drummer was very skilled .",
+      "normalized_edited_story_text_sent": [
+        "the gathering was crowded .",
+        "a band was performing .",
+        "the people enjoyed the performance .",
+        "the band had much appreciated talent .",
+        "the drummer was very skilled ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "A large crowd gathered for an event. The event was a live band that was playing music. Everyone was having a rockin\u0027 good time and the band\u0027s playing was sharp! The drummer, especially, was pure awesome.",
+      "normalized_edited_story_text_sent": [
+        "a large crowd gathered for an event .",
+        "the event was a live band that was playing music .",
+        "everyone was having a rockin \u0027 good time and the band \u0027s playing was sharp !",
+        "the drummer , especially , was pure awesome ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623005606487",
+  "model": "GLAC"
+}

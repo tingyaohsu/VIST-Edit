@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6630323985-6630278879-6630326891-6630311425-6630346235",
+  "photo_sequence_ids": [
+    "6630323985",
+    "6630278879",
+    "6630326891",
+    "6630311425",
+    "6630346235"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the city today . there were so many people out . the buildings were very tall . the view was spectacular . the water was blue .",
+  "edited_stories": [
+    {
+      "worker_id": "ADBDQ7FTFHKCR",
+      "edited_story_text": "we went to the Nee York City today . there were so many people out . the buildings were very big . the view was spectacular . the water was blue .",
+      "normalized_edited_story_text_sent": [
+        "we went to the nee york city today .",
+        "there were so many people out .",
+        "the buildings were very big .",
+        "the view was spectacular .",
+        "the water was blue ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the city today . there were so many people out .",
+      "normalized_edited_story_text_sent": [
+        "we went to the city today .",
+        "there were so many people out ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "we went to the city today . The bus took us there. There were really tall sky scrapers. The bridge was cool. People fished from the pier.",
+      "normalized_edited_story_text_sent": [
+        "we went to the city today .",
+        "the bus took us there .",
+        "there were really tall sky scrapers .",
+        "the bridge was cool .",
+        "people fished from the pier ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "we took busses to the city today . we went to the corner of broadway . we also went under the bridge . the view was spectacular . the water was reflecting blue from the sky .",
+      "normalized_edited_story_text_sent": [
+        "we took busses to the city today .",
+        "we went to the corner of broadway .",
+        "we also went under the bridge .",
+        "the view was spectacular .",
+        "the water was reflecting blue from the sky ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we drove to the city today.  a lot of people were out.  the buildings were really tall, and the skyline view was awesome.  the river water was a peaceful blue.",
+      "normalized_edited_story_text_sent": [
+        "we drove to the city today .",
+        "a lot of people were out .",
+        "the buildings were really tall , and the skyline view was awesome .",
+        "the river water was a peaceful blue ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628704515723",
+  "model": "GLAC"
+}

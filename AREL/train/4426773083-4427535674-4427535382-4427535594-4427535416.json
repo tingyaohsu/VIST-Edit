@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4426773083-4427535674-4427535382-4427535594-4427535416",
+  "photo_sequence_ids": [
+    "4426773083",
+    "4427535674",
+    "4427535382",
+    "4427535594",
+    "4427535416"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4063/4426773083_b257c7e88f_o.jpg",
+    "https://farm3.staticflickr.com/2804/4427535674_912345af83_o.jpg",
+    "https://farm5.staticflickr.com/4026/4427535382_0328c2ce4e_o.jpg",
+    "https://farm3.staticflickr.com/2750/4427535594_9c68c34f29_o.jpg",
+    "https://farm3.staticflickr.com/2702/4427535416_f78e08b0be_o.jpg"
+  ],
+  "auto_story_text_normalized": "the speaker gave a speech at the conference . he gave a great speech . the speaker gave a speech . he gave a great speech . he was very proud of his work .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the speaker gave a speech at the conference . he gave a great speech . there were technical issues in the middle. he seemed relieved when it was over .",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech at the conference .",
+        "he gave a great speech .",
+        "there were technical issues in the middle .",
+        "he seemed relieved when it was over ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "The speaker gave a great speech at the conference. He spoke for about 30 minutes and it was interesting.",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a great speech at the conference .",
+        "he spoke for about 30 minutes and it was interesting ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The speaker gave a speech at the conference. It was a great speech, and he was proud of his work.",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech at the conference .",
+        "it was a great speech , and he was proud of his work ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the speaker spoke at the conference . he gave a great speech , and he was very proud of his work .",
+      "normalized_edited_story_text_sent": [
+        "the speaker spoke at the conference .",
+        "he gave a great speech , and he was very proud of his work ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the speaker gave a speech at the meeting . he gave a awesome speech . the speaker gave a discourse. he gave a incredible speech . he was extremely glad for his work .",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech at the meeting .",
+        "he gave a awesome speech .",
+        "the speaker gave a discourse .",
+        "he gave a incredible speech .",
+        "he was extremely glad for his work ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623606238012"
+}

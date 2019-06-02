@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "160921195-160919415-160919420-160919417-160919407",
+  "photo_sequence_ids": [
+    "160921195",
+    "160919415",
+    "160919420",
+    "160919417",
+    "160919407"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was in a beautiful city . the buildings were tall and bright . the streets were filled with people . the street was full of people . the streets were empty and the streets were empty .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the church was in a beautiful city . all the buildings were tall and bright.  people gathered for the wedding reception for the happy couple after the ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the church was in a beautiful city .",
+        "all the buildings were tall and bright .",
+        "people gathered for the wedding reception for the happy couple after the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "This church was in such a beautiful city. I couldn\u0027t believe how tall and bright the buildings were. And there were so many people in the streets. The street was crowded with people. After we all went into the church, the streets suddenly became empty.",
+      "normalized_edited_story_text_sent": [
+        "this church was in such a beautiful city .",
+        "i could n\u0027t believe how tall and bright the buildings were .",
+        "and there were so many people in the streets .",
+        "the street was crowded with people .",
+        "after we all went into the church , the streets suddenly became empty ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "visit a new city to take in the sites.  the church was completely immaculate.  we attended a wedding of our friends there.  there were people everyone and we had a great time. experiencing their love and a new city was a treat.",
+      "normalized_edited_story_text_sent": [
+        "visit a new city to take in the sites .",
+        "the church was completely immaculate .",
+        "we attended a wedding of our friends there .",
+        "there were people everyone and we had a great time .",
+        "experiencing their love and a new city was a treat ."
+      ]
+    },
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "The church looks beautiful in the evening. A man is enjoying the air out fo his open window before heading out. Dinner in an elegant restaurant is always the thing to do. A wedding is taking place outside with the happy couple. This is the perfect day for a wedding.",
+      "normalized_edited_story_text_sent": [
+        "the church looks beautiful in the evening .",
+        "a man is enjoying the air out fo his open window before heading out .",
+        "dinner in an elegant restaurant is always the thing to do .",
+        "a wedding is taking place outside with the happy couple .",
+        "this is the perfect day for a wedding ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the church was in a beautiful city . the buildings were tall and bright . the streets were filled with people . the wedding party entered the church. it was the perfect setting.",
+      "normalized_edited_story_text_sent": [
+        "the church was in a beautiful city .",
+        "the buildings were tall and bright .",
+        "the streets were filled with people .",
+        "the wedding party entered the church .",
+        "it was the perfect setting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594156380350",
+  "model": "GLAC"
+}

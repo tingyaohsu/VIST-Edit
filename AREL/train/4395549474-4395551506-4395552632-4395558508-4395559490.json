@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4395549474-4395551506-4395552632-4395558508-4395559490",
+  "photo_sequence_ids": [
+    "4395549474",
+    "4395551506",
+    "4395552632",
+    "4395558508",
+    "4395559490"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4049/4395549474_e13e06c4b0_o.jpg",
+    "https://farm5.staticflickr.com/4053/4395551506_ef09b1370b_o.jpg",
+    "https://farm3.staticflickr.com/2712/4395552632_a81a82b650_o.jpg",
+    "https://farm3.staticflickr.com/2733/4395558508_477b8c6047_o.jpg",
+    "https://farm5.staticflickr.com/4036/4395559490_e7c0977a3c_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a lot of food at the store today . i had a lot of fun there . there were many different types of items . we also had a lot of fun . i also had a lot of bikes there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a lot of food at the store today . i had a lot of fun there . there were many different types of items and we also had a lot of fun . i also had a lot of bikes there .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of food at the store today .",
+        "i had a lot of fun there .",
+        "there were many different types of items and we also had a lot of fun .",
+        "i also had a lot of bikes there ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we went to a street market today. i had a lot of fun there . there were many different types of items . i loved the handmade baskets . they also had a lot of bikes there .",
+      "normalized_edited_story_text_sent": [
+        "we went to a street market today .",
+        "i had a lot of fun there .",
+        "there were many different types of items .",
+        "i loved the handmade baskets .",
+        "they also had a lot of bikes there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had a lot of food at the store today. There were many different types of items. We saw the seafood.  There were people selling baskets, curtains and many other things.  We saw a lot of bikes there.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of food at the store today .",
+        "there were many different types of items .",
+        "we saw the seafood .",
+        "there were people selling baskets , curtains and many other things .",
+        "we saw a lot of bikes there ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a lot of food at the store today. there were many different types of items, including a lot of bikes.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of food at the store today .",
+        "there were many different types of items , including a lot of bikes ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "there was a lot of food at the store today  . there were many different types of items . i had a lot of fun there. we also had a lot of fun . i also see a lot of bikes there .",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of food at the store today .",
+        "there were many different types of items .",
+        "i had a lot of fun there .",
+        "we also had a lot of fun .",
+        "i also see a lot of bikes there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623402266877"
+}

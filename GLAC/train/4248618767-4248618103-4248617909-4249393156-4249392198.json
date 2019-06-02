@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4248618767-4248618103-4248617909-4249393156-4249392198",
+  "photo_sequence_ids": [
+    "4248618767",
+    "4248618103",
+    "4248617909",
+    "4249393156",
+    "4249392198"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the trees were covered in snow . the sky was blue . the clouds were bright . the sunset was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The sun was setting on the day. There was snow covering all the trees.  As the sun set, the sky was blue. Early in the day, the clouds were bright and fluffy. The sunset was beautiful and a perfect way to end the day.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting on the day .",
+        "there was snow covering all the trees .",
+        "as the sun set , the sky was blue .",
+        "early in the day , the clouds were bright and fluffy .",
+        "the sunset was beautiful and a perfect way to end the day ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the sun set over the snow covered field and trees.  the sky was blue, the clouds bright with the setting sun\u0027s rays.  it was a gorgeous sunset.",
+      "normalized_edited_story_text_sent": [
+        "the sun set over the snow covered field and trees .",
+        "the sky was blue , the clouds bright with the setting sun \u0027s rays .",
+        "it was a gorgeous sunset ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "snow was just beginning to fall as the the sun was setting . the trees were covered in snow and delicate ice cicles  . the sky was blue and the air was crips . the clouds were bright . the sunset was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "snow was just beginning to fall as the the sun was setting .",
+        "the trees were covered in snow and delicate ice cicles .",
+        "the sky was blue and the air was crips .",
+        "the clouds were bright .",
+        "the sunset was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the sun was setting . the fog rolled out thanks to a nice breeze. It revealed that the trees were covered in snow . the sky was blue . the clouds were colorful . the sunset was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "the fog rolled out thanks to a nice breeze .",
+        "it revealed that the trees were covered in snow .",
+        "the sky was blue .",
+        "the clouds were colorful .",
+        "the sunset was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the bright sun was setting and the trees were covered in snow . the sky was blue . the clouds were bright . the sunset was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the bright sun was setting and the trees were covered in snow .",
+        "the sky was blue .",
+        "the clouds were bright .",
+        "the sunset was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623023149795",
+  "model": "GLAC"
+}

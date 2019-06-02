@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5121782-5116376-5116803-5140461-5142178",
+  "photo_sequence_ids": [
+    "5121782",
+    "5116376",
+    "5116803",
+    "5140461",
+    "5142178"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/5/5121782_c575ba14ec_o.jpg",
+    "https://farm1.staticflickr.com/3/5116376_ea8b65b941_o.jpg",
+    "https://farm1.staticflickr.com/5/5116803_85503673ca_o.jpg",
+    "https://farm1.staticflickr.com/5/5140461_4c5555e229_o.jpg",
+    "https://farm1.staticflickr.com/3/5142178_277920ce74_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party . there were a lot of people there . [female] was having a great time . we had a lot to drink . after a few drinks , we had a few drinks and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We had a great time at the gothic themed party. A lot of people attended the event, which was held at a church. [female] dressed in a great black outfit. Everyone was having a great time. We were all drinking and enjoying ourselves.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the gothic themed party .",
+        "a lot of people attended the event , which was held at a church .",
+        "[female] dressed in a great black outfit .",
+        "everyone was having a great time .",
+        "we were all drinking and enjoying ourselves ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We had a great time at the party.  There were a ton of people there and plenty to drink!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "there were a ton of people there and plenty to drink !"
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the party! There were a lot of people there. [Female] had a great time. We had a lot to drink, and after a few drinks we had a great time also.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party !",
+        "there were a lot of people there .",
+        "[female] had a great time .",
+        "we had a lot to drink , and after a few drinks we had a great time also ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the party and there were a lot of people there . [female] was having a great time . we had a lot to drink . after a few drinks , we had a few drinks and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party and there were a lot of people there .",
+        "[female] was having a great time .",
+        "we had a lot to drink .",
+        "after a few drinks , we had a few drinks and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we had a great time at the party . there were a lot of people there . [female] was having a great time . we had a lot to drink . I think everyone had one too many",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "there were a lot of people there .",
+        "[female] was having a great time .",
+        "we had a lot to drink .",
+        "i think everyone had one too many"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "129512"
+}

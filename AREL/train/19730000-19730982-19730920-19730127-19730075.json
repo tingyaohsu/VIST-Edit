@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "19730000-19730982-19730920-19730127-19730075",
+  "photo_sequence_ids": [
+    "19730000",
+    "19730982",
+    "19730920",
+    "19730127",
+    "19730075"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/13/19730000_7ebff25644_o.jpg",
+    "https://farm1.staticflickr.com/13/19730982_5f46b3859c_o.jpg",
+    "https://farm1.staticflickr.com/13/19730920_0bb82c05b4_o.jpg",
+    "https://farm1.staticflickr.com/14/19730127_a039a3d24e_o.jpg",
+    "https://farm1.staticflickr.com/16/19730075_2b9661922f_o.jpg"
+  ],
+  "auto_story_text_normalized": "the concert was amazing . the lead singer was amazing . the drummer was really good . the singer had a great time . this is a picture of a crowd .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the concert is amazing . the lead singer is amazing . the drummer is really good . the singer have a great time . this was a picture of a crowd .",
+      "normalized_edited_story_text_sent": [
+        "the concert is amazing .",
+        "the lead singer is amazing .",
+        "the drummer is really good .",
+        "the singer have a great time .",
+        "this was a picture of a crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "the concert was amazing . I was the lead singer, it  was an amazing experience being in front of the crowd. Our drummer was really good . I ad had a great time being on stage.",
+      "normalized_edited_story_text_sent": [
+        "the concert was amazing .",
+        "i was the lead singer , it was an amazing experience being in front of the crowd .",
+        "our drummer was really good .",
+        "i ad had a great time being on stage ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "this concert was amazing, the leader singer was awesome and the drummer was really good. The singer had a amazing time. Here\u0027s a picture of the crowd!",
+      "normalized_edited_story_text_sent": [
+        "this concert was amazing , the leader singer was awesome and the drummer was really good .",
+        "the singer had a amazing time .",
+        "here \u0027s a picture of the crowd !"
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the concert is amazing . the lead singer is amazing . the drummer is really good . the singer have a great time . this was a picture of a crowd .",
+      "normalized_edited_story_text_sent": [
+        "the concert is amazing .",
+        "the lead singer is amazing .",
+        "the drummer is really good .",
+        "the singer have a great time .",
+        "this was a picture of a crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "We went to a concert and it was amazing. The lead singer was out of this world and the drummer was really good too. The singer had a really great time, as did the crowd.",
+      "normalized_edited_story_text_sent": [
+        "we went to a concert and it was amazing .",
+        "the lead singer was out of this world and the drummer was really good too .",
+        "the singer had a really great time , as did the crowd ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "462656"
+}

@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "22769501-22769377-22769351-22769326-22769205",
+  "photo_sequence_ids": [
+    "22769501",
+    "22769377",
+    "22769351",
+    "22769326",
+    "22769205"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the wedding . the bride and groom were very happy . the bride and groom were so happy . the couple was so happy . the men were also in attendance .",
+  "edited_stories": [
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the toga party was a lot of fun. Everyone got into the spirit of the party, wearing togas, eating grapes and laughing. Everyone had a great time and enjoyed one another\u0027s company.",
+      "normalized_edited_story_text_sent": [
+        "the toga party was a lot of fun .",
+        "everyone got into the spirit of the party , wearing togas , eating grapes and laughing .",
+        "everyone had a great time and enjoyed one another \u0027s company ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "We had a toga party last night and dressed like Romans. All of my friends came to my house and we had so much fun. We took so many picture and drank so much it was one of the best nights ever.",
+      "normalized_edited_story_text_sent": [
+        "we had a toga party last night and dressed like romans .",
+        "all of my friends came to my house and we had so much fun .",
+        "we took so many picture and drank so much it was one of the best nights ever ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a great time. costumes and laughs all night.",
+      "normalized_edited_story_text_sent": [
+        "the party was a great time .",
+        "costumes and laughs all night ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "we had a blast at the toga party.  everyone was dressed in costumes. [female] was feeding [male] grapes like he was a king.  everyone smiled the entire time.",
+      "normalized_edited_story_text_sent": [
+        "we had a blast at the toga party .",
+        "everyone was dressed in costumes .",
+        "[female] was feeding [male] grapes like he was a king .",
+        "everyone smiled the entire time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family was ready for the party . the bride and groom were very happy . the bride and groom were radiant . the couple was so joyful . the men were also in attendance .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the party .",
+        "the bride and groom were very happy .",
+        "the bride and groom were radiant .",
+        "the couple was so joyful .",
+        "the men were also in attendance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "525776",
+  "model": "GLAC"
+}

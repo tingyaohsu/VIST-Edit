@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "17673792-17673213-17673237-17673444-17673618",
+  "photo_sequence_ids": [
+    "17673792",
+    "17673213",
+    "17673237",
+    "17673444",
+    "17673618"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the couple was so happy to be married . the reception was a lot of fun . the bride and groom were all smiles .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the wedding was a beautiful affair.  the bride and groom were very happy.  they smiled throughout the entire wedding.  everyone had a lot of fun at the reception.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful affair .",
+        "the bride and groom were very happy .",
+        "they smiled throughout the entire wedding .",
+        "everyone had a lot of fun at the reception ."
+      ]
+    },
+    {
+      "worker_id": "A2ZDXFFGSPHGBE",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were all smiles and very happy to be married . the reception was also a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were all smiles and very happy to be married .",
+        "the reception was also a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A19LVWX8ZLO6CS",
+      "edited_story_text": "the wedding was beautiful and bride dressed very nicely. the bride and groom were ecstatic. the couple was so happy to be married and be with friend and family. the reception was a lot of fun that no one wanted to leave. the bride and groom were all smiles while dancing.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful and bride dressed very nicely .",
+        "the bride and groom were ecstatic .",
+        "the couple was so happy to be married and be with friend and family .",
+        "the reception was a lot of fun that no one wanted to leave .",
+        "the bride and groom were all smiles while dancing ."
+      ]
+    },
+    {
+      "worker_id": "A3K6V27ZCPYCUC",
+      "edited_story_text": "The wedding I attended today was beautiful. The bride and groom were so happy to be married - look at those smiles!  The reception was a lot of fun and we danced for hours. Congrats you two!",
+      "normalized_edited_story_text_sent": [
+        "the wedding i attended today was beautiful .",
+        "the bride and groom were so happy to be married - look at those smiles !",
+        "the reception was a lot of fun and we danced for hours .",
+        "congrats you two !"
+      ]
+    },
+    {
+      "worker_id": "A2OZF756R5JSG4",
+      "edited_story_text": "The wedding was beautiful . The bride and groom were very happy and the couple was so happy to be married .  The bride and groom were all smiles while dancing. The reception was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy and the couple was so happy to be married .",
+        "the bride and groom were all smiles while dancing .",
+        "the reception was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "419257",
+  "model": "GLAC"
+}

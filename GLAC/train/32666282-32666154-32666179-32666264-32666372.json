@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "32666282-32666154-32666179-32666264-32666372",
+  "photo_sequence_ids": [
+    "32666282",
+    "32666154",
+    "32666179",
+    "32666264",
+    "32666372"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the upcoming event . they were given a speech to the graduates . the students were very proud of their accomplishments . the children were so happy . the principal gave a speech .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The family was so excited for the upcoming event , and gave a speech to the graduates. Then the principal gave one too. Those students were so proud of their accomplishments, and the children were so happy.",
+      "normalized_edited_story_text_sent": [
+        "the family was so excited for the upcoming event , and gave a speech to the graduates .",
+        "then the principal gave one too .",
+        "those students were so proud of their accomplishments , and the children were so happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was excited for the upcoming event . they were given a speech to the graduates . the students were very proud of their accomplishments . the children were so excited. the principal gave a big speech .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the upcoming event .",
+        "they were given a speech to the graduates .",
+        "the students were very proud of their accomplishments .",
+        "the children were so excited .",
+        "the principal gave a big speech ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was excited for the upcoming event . they were given a speech to the graduates . the students were very proud of their accomplishments . they ate lots of cookie cake . the principal gave a speech .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the upcoming event .",
+        "they were given a speech to the graduates .",
+        "the students were very proud of their accomplishments .",
+        "they ate lots of cookie cake .",
+        "the principal gave a speech ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The whole family was excited for the upcoming event . They would hear a speech about the graduates. The students were very proud of each of their accomplishments. All of the children were happy. the principal gave a speech about the graduates.",
+      "normalized_edited_story_text_sent": [
+        "the whole family was excited for the upcoming event .",
+        "they would hear a speech about the graduates .",
+        "the students were very proud of each of their accomplishments .",
+        "all of the children were happy .",
+        "the principal gave a speech about the graduates ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The family was excited for the upcoming event. They were given a speech to the graduates and a cake. The students were very proud of their accomplishments. The young children were so happy. The principal gave a speech.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the upcoming event .",
+        "they were given a speech to the graduates and a cake .",
+        "the students were very proud of their accomplishments .",
+        "the young children were so happy .",
+        "the principal gave a speech ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1012491",
+  "model": "GLAC"
+}

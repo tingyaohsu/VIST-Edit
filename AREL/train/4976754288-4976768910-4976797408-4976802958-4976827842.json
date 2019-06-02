@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4976754288-4976768910-4976797408-4976802958-4976827842",
+  "photo_sequence_ids": [
+    "4976754288",
+    "4976768910",
+    "4976797408",
+    "4976802958",
+    "4976827842"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4085/4976754288_a89bde3a04_o.jpg",
+    "https://farm5.staticflickr.com/4088/4976768910_d1d4805076_o.jpg",
+    "https://farm5.staticflickr.com/4144/4976797408_aaec8e9000_o.jpg",
+    "https://farm5.staticflickr.com/4090/4976802958_4aa0b25bee_o.jpg",
+    "https://farm5.staticflickr.com/4111/4976827842_ab6cdea35a_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day for a hike . there was a beautiful waterfall . there was a sign that leads the way . there were many animals there . [female] was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "It was a beautiful day for a hike. There was a beautiful waterfall. There was a sign leading the way. There were many animals there. Sarah was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a hike .",
+        "there was a beautiful waterfall .",
+        "there was a sign leading the way .",
+        "there were many animals there .",
+        "sarah was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "It was a beautiful day for a hike. We saw there was a beautiful waterfall. There was a sign leading us the right way. We saw people with animals out there. [female] was very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a hike .",
+        "we saw there was a beautiful waterfall .",
+        "there was a sign leading us the right way .",
+        "we saw people with animals out there .",
+        "[female] was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "we saw a beautiful waterfall on our hike today, it was great weather for it . . there were many animals there . [female] was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "we saw a beautiful waterfall on our hike today , it was great weather for it .",
+        ".",
+        "there were many animals there .",
+        "[female] was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "It was a beautiful day for a hike out in nature. There was a beautiful waterfall along the trail. There was a sign that leads the way. Some people rode on horses along the trail.. [female] was very happy to be there and enjoyed the outside air.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a hike out in nature .",
+        "there was a beautiful waterfall along the trail .",
+        "there was a sign that leads the way .",
+        "some people rode on horses along the trail .",
+        ".",
+        "[female] was very happy to be there and enjoyed the outside air ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "it was a beautiful day for a hike. we passed a beautiful waterfall. there were plenty of signs that helped us stay on the trail. we passed by a group of people with horses.  [female] had a good time, so I took her picture.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a hike .",
+        "we passed a beautiful waterfall .",
+        "there were plenty of signs that helped us stay on the trail .",
+        "we passed by a group of people with horses .",
+        "[female] had a good time , so i took her picture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624923667378"
+}

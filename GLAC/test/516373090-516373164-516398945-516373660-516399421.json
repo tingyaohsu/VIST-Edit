@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "516373090-516373164-516398945-516373660-516399421",
+  "photo_sequence_ids": [
+    "516373090",
+    "516373164",
+    "516398945",
+    "516373660",
+    "516399421"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time . they played games . they also played some volleyball . they had a lot of fun . they had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "our family had a great time at the BBC picnic . we  played games . we also played some volleyball . the kids sat at a long table and crafted many different shapes out of modeling clay . we all enjoyed the bubble machine bubbles .",
+      "normalized_edited_story_text_sent": [
+        "our family had a great time at the bbc picnic .",
+        "we played games .",
+        "we also played some volleyball .",
+        "the kids sat at a long table and crafted many different shapes out of modeling clay .",
+        "we all enjoyed the bubble machine bubbles ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was having a great time . The kids played. There was a cooler with beer. There was a large table for the kids.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "the kids played .",
+        "there was a cooler with beer .",
+        "there was a large table for the kids ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family had a great time at the party. They played games. They also played some volleyball. It was a really fun party.",
+      "normalized_edited_story_text_sent": [
+        "the family had a great time at the party .",
+        "they played games .",
+        "they also played some volleyball .",
+        "it was a really fun party ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The family picnic was a lot of fun and the kids a had a great playing together and doing crafts.",
+      "normalized_edited_story_text_sent": [
+        "the family picnic was a lot of fun and the kids a had a great playing together and doing crafts ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was having a great time at the picnic . they played games and ate a lot of food . they also played some volleyball on the grassy field . they had a lot of fun in the nice weather . they had a good time with their friends .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the picnic .",
+        "they played games and ate a lot of food .",
+        "they also played some volleyball on the grassy field .",
+        "they had a lot of fun in the nice weather .",
+        "they had a good time with their friends ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600272663173",
+  "model": "GLAC"
+}

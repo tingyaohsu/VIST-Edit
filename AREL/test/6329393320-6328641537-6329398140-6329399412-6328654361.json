@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "6329393320-6328641537-6329398140-6329399412-6328654361",
+  "photo_sequence_ids": [
+    "6329393320",
+    "6328641537",
+    "6329398140",
+    "6329399412",
+    "6328654361"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6236/6329393320_0754652ee6_o.jpg",
+    "https://farm7.staticflickr.com/6041/6328641537_d5bbf59513_o.jpg",
+    "https://farm7.staticflickr.com/6216/6329398140_9c7a734bf7_o.jpg",
+    "https://farm7.staticflickr.com/6240/6329399412_7416c3d92d_o.jpg",
+    "https://farm7.staticflickr.com/6102/6328654361_23315839b5_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a castle . we walked through the tunnel . the scenery was beautiful . the buildings were very old . and this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "This is a picture of a castle. We walked through the tunnel. The scenery was very beautiful. The buildings were very old.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a castle .",
+        "we walked through the tunnel .",
+        "the scenery was very beautiful .",
+        "the buildings were very old ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of the castle! We walked through the tunnel, and the scenery was beautiful. The buildings were so old! Here\u0027s a picture.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of the castle !",
+        "we walked through the tunnel , and the scenery was beautiful .",
+        "the buildings were so old !",
+        "here \u0027s a picture ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "this is a picture of a castle . we were able to see underneath the castle . the scenery was beautiful . the buildings were very old . the buildings were built right into the rock face  .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a castle .",
+        "we were able to see underneath the castle .",
+        "the scenery was beautiful .",
+        "the buildings were very old .",
+        "the buildings were built right into the rock face ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "this is a picture of a castle . we walked through the tunnel . the scenery was beautiful . the buildings were very old . and this is a picture of a building It was wonderful",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a castle .",
+        "we walked through the tunnel .",
+        "the scenery was beautiful .",
+        "the buildings were very old .",
+        "and this is a picture of a building it was wonderful"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We saw a historic castle during our walk. We walked towards one of the old buildings to get a better look. The scenery was truly beautiful. Lots of the buildings were very old. I took pictures of most of them.",
+      "normalized_edited_story_text_sent": [
+        "we saw a historic castle during our walk .",
+        "we walked towards one of the old buildings to get a better look .",
+        "the scenery was truly beautiful .",
+        "lots of the buildings were very old .",
+        "i took pictures of most of them ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627965597479"
+}

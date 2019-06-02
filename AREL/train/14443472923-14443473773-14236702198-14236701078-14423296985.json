@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "14443472923-14443473773-14236702198-14236701078-14423296985",
+  "photo_sequence_ids": [
+    "14443472923",
+    "14443473773",
+    "14236702198",
+    "14236701078",
+    "14423296985"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5576/14443472923_46caa1bb26_o.jpg",
+    "https://farm3.staticflickr.com/2939/14443473773_01256fab8e_o.jpg",
+    "https://farm3.staticflickr.com/2900/14236702198_76d2f115fd_o.jpg",
+    "https://farm6.staticflickr.com/5524/14236701078_2f8fb49540_o.jpg",
+    "https://farm4.staticflickr.com/3874/14423296985_6a50613ffd_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the museum today . this is a picture of a building . i was so excited to see the game . there were a lot of people there . i was so excited to see the game .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we went to the baseball stadium . this is a picture of the building . the kids were there . there were a lot of people there . i was so excited to see the game .",
+      "normalized_edited_story_text_sent": [
+        "we went to the baseball stadium .",
+        "this is a picture of the building .",
+        "the kids were there .",
+        "there were a lot of people there .",
+        "i was so excited to see the game ."
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "we went to the museum today and this a picture of a building . i was so excited to see the game . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum today and this a picture of a building .",
+        "i was so excited to see the game .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "I went to the museum today. I was so excited to see the game, afterwards. There were a lot of people there, going crazy . I was so excited to be at the game .",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum today .",
+        "i was so excited to see the game , afterwards .",
+        "there were a lot of people there , going crazy .",
+        "i was so excited to be at the game ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the museum today . this is a picture of a building . i was so happy to see the game . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum today .",
+        "this is a picture of a building .",
+        "i was so happy to see the game .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the baseball game tonight. This is a picture of the stadium.  There were a lot of people there. i was so excited to see the game .",
+      "normalized_edited_story_text_sent": [
+        "we went to the baseball game tonight .",
+        "this is a picture of the stadium .",
+        "there were a lot of people there .",
+        "i was so excited to see the game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157644777317969"
+}

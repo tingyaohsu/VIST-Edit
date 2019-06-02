@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4334509464-4334511108-4333768295-4333768467-4334511948",
+  "photo_sequence_ids": [
+    "4334509464",
+    "4334511108",
+    "4333768295",
+    "4333768467",
+    "4334511948"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow covered the roads . the house was covered in snow . the trees were covered with snow . the building was lovely . the signs were very old .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the snow covered the roads . the church was also covered in snow . the hillside was snowy . the church is lovely in winter . the signs said no smoking .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the church was also covered in snow .",
+        "the hillside was snowy .",
+        "the church is lovely in winter .",
+        "the signs said no smoking ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the snow covered the roads and the sidewalks. the church stood tall and the roads were deserted. you could see the mountains from the cemetery. the house was covered in snow . the building was lovely . the signs were very old .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads and the sidewalks .",
+        "the church stood tall and the roads were deserted .",
+        "you could see the mountains from the cemetery .",
+        "the house was covered in snow .",
+        "the building was lovely .",
+        "the signs were very old ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the snow covered the roads .The church was pretty. There were mountains in the distance. The view was pretty.",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the church was pretty .",
+        "there were mountains in the distance .",
+        "the view was pretty ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The snow covered so much. The house was covered in snow, and the trees too! But the building was really nice, even though the signs were old.",
+      "normalized_edited_story_text_sent": [
+        "the snow covered so much .",
+        "the house was covered in snow , and the trees too !",
+        "but the building was really nice , even though the signs were old ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the snow shrouded the roads . a house was also covered . the trees were white with snow . a lovely building stood out . an old sign warned against smoking .",
+      "normalized_edited_story_text_sent": [
+        "the snow shrouded the roads .",
+        "a house was also covered .",
+        "the trees were white with snow .",
+        "a lovely building stood out .",
+        "an old sign warned against smoking ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623238708241",
+  "model": "GLAC"
+}

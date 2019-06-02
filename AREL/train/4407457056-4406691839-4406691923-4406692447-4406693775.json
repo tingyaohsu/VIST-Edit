@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4407457056-4406691839-4406691923-4406692447-4406693775",
+  "photo_sequence_ids": [
+    "4407457056",
+    "4406691839",
+    "4406691923",
+    "4406692447",
+    "4406693775"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4045/4407457056_5cb37aa2e6_o.jpg",
+    "https://farm3.staticflickr.com/2779/4406691839_39333ea1db_o.jpg",
+    "https://farm5.staticflickr.com/4030/4406691923_2373bb9a3e_o.jpg",
+    "https://farm5.staticflickr.com/4035/4406692447_8477235601_o.jpg",
+    "https://farm3.staticflickr.com/2689/4406693775_9a3883e62c_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the museum today . the first thing i saw was my favorite . he also had a lot of work to do . it was a lot of fun . here is a picture of a sign .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the museum today! The very first thing I saw was my favorite. In this picture, he has a lot of work to do. I had a lot of fun. Here is a picture of a sign that I saw.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the museum today !",
+        "the very first thing i saw was my favorite .",
+        "in this picture , he has a lot of work to do .",
+        "i had a lot of fun .",
+        "here is a picture of a sign that i saw ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i had a grand time at the museum today . the first thing i saw was my favorite . however, he also had a lot of work to do . it was a lot of fun . this is a picture of a sign .",
+      "normalized_edited_story_text_sent": [
+        "i had a grand time at the museum today .",
+        "the first thing i saw was my favorite .",
+        "however , he also had a lot of work to do .",
+        "it was a lot of fun .",
+        "this is a picture of a sign ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I had a great time at the museum today. The first thing i saw was my favorite, I enjoyed looking at robots and games. Overall it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the museum today .",
+        "the first thing i saw was my favorite , i enjoyed looking at robots and games .",
+        "overall it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I had so much fun at the museum today. I fell in love with the first thing I saw. A worker there had a lot of work to do. It was a blast. Here is a picture of one of the signs that was there.",
+      "normalized_edited_story_text_sent": [
+        "i had so much fun at the museum today .",
+        "i fell in love with the first thing i saw .",
+        "a worker there had a lot of work to do .",
+        "it was a blast .",
+        "here is a picture of one of the signs that was there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the museum today. they have a lot of really cool old toys there. they have a lot of work to do to make it bigger, but it was nice anyway. we had fun visiting.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the museum today .",
+        "they have a lot of really cool old toys there .",
+        "they have a lot of work to do to make it bigger , but it was nice anyway .",
+        "we had fun visiting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623431139319"
+}

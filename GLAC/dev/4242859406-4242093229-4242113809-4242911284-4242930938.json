@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4242859406-4242093229-4242113809-4242911284-4242930938",
+  "photo_sequence_ids": [
+    "4242859406",
+    "4242093229",
+    "4242113809",
+    "4242911284",
+    "4242930938"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . there was a lot of graffiti on the walls . the building was also very big . the building was nice . the buildings were huge .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The building was really, really tall and nice, but there was a lot of graffiti on the walls.",
+      "normalized_edited_story_text_sent": [
+        "the building was really , really tall and nice , but there was a lot of graffiti on the walls ."
+      ]
+    },
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the building was very tall . there was No graffiti on the walls . the building was also very big . the building was not that nice . the buildings were huge .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "there was no graffiti on the walls .",
+        "the building was also very big .",
+        "the building was not that nice .",
+        "the buildings were huge ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the building was very tall . there was a lot of rope on the walls . the building was also very big . the building large . the buildings were huge .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "there was a lot of rope on the walls .",
+        "the building was also very big .",
+        "the building large .",
+        "the buildings were huge ."
+      ]
+    },
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the tower of shipping containers was very tall . it was loaded onto a boat labelled \"jascon 27\". the containers had windows. all in all, the structure looked very big, even huge.",
+      "normalized_edited_story_text_sent": [
+        "the tower of shipping containers was very tall .",
+        "it was loaded onto a boat labelled `` jascon 27 \u0027\u0027 .",
+        "the containers had windows .",
+        "all in all , the structure looked very big , even huge ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The building was very tall. There were a lot of windows. There wasn\u0027t any graffiti on the building.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "there were a lot of windows .",
+        "there was n\u0027t any graffiti on the building ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623132781720",
+  "model": "GLAC"
+}

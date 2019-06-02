@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4946129617-4946718634-4946131809-4946132923-4946134091",
+  "photo_sequence_ids": [
+    "4946129617",
+    "4946718634",
+    "4946131809",
+    "4946132923",
+    "4946134091"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the awards ceremony was a lot of fun . i had a great time with all of them . we had a great time . afterward we all got together for pictures . it was a very memorable day .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the awards ceremony was entertaining . i was amused watching all the speakers . we all had fun . afterwards, we all got together for group photos . it was a day i\u0027ll cherish .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was entertaining .",
+        "i was amused watching all the speakers .",
+        "we all had fun .",
+        "afterwards , we all got together for group photos .",
+        "it was a day i \u0027ll cherish ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "The awards ceremony I attended was a lot of fun . I had a great time with all of the winners . We had a great time . Afterward we winners all got together for pictures . I thought it was a very memorable day .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony i attended was a lot of fun .",
+        "i had a great time with all of the winners .",
+        "we had a great time .",
+        "afterward we winners all got together for pictures .",
+        "i thought it was a very memorable day ."
+      ]
+    },
+    {
+      "worker_id": "A1EPE2IRWQ9XO2",
+      "edited_story_text": "the awards ceremony was a lot of fun . We had a great time with all of them. afterward we all got together for pictures . it was a very memorable day .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was a lot of fun .",
+        "we had a great time with all of them .",
+        "afterward we all got together for pictures .",
+        "it was a very memorable day ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The awards ceremony was a lot of fun. I had a great time, and everyone in attendance seemed to enjoy it. We had a great time, and it was a very memorable day. Afterwards, we got together for pictures.",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was a lot of fun .",
+        "i had a great time , and everyone in attendance seemed to enjoy it .",
+        "we had a great time , and it was a very memorable day .",
+        "afterwards , we got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the awards ceremony was a lot of fun . i had a great time with all of them . we had a great time . afterward we all got together for pictures . it was a very memorable day .\r\rI had so much fun at the awards ceremony. I enjoyed my time with everyone there. We all had a wonderful time. After the ceremony, we all huddle together for a group photo. I\u0027ll never forget that day.",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was a lot of fun .",
+        "i had a great time with all of them .",
+        "we had a great time .",
+        "afterward we all got together for pictures .",
+        "it was a very memorable day .",
+        "i had so much fun at the awards ceremony .",
+        "i enjoyed my time with everyone there .",
+        "we all had a wonderful time .",
+        "after the ceremony , we all huddle together for a group photo .",
+        "i \u0027ll never forget that day ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625082582503",
+  "model": "GLAC"
+}

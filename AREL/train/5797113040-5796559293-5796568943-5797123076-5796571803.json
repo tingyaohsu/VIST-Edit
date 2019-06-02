@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5797113040-5796559293-5796568943-5797123076-5796571803",
+  "photo_sequence_ids": [
+    "5797113040",
+    "5796559293",
+    "5796568943",
+    "5797123076",
+    "5796571803"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2226/5797113040_3f2c03cae3_o.jpg",
+    "https://farm6.staticflickr.com/5158/5796559293_f63f7406c5_o.jpg",
+    "https://farm6.staticflickr.com/5316/5796568943_283a2ee5db_o.jpg",
+    "https://farm3.staticflickr.com/2468/5797123076_f4d0e50280_o.jpg",
+    "https://farm3.staticflickr.com/2332/5796571803_055e3734d0_o.jpg"
+  ],
+  "auto_story_text_normalized": "the awards ceremony at the university was a success . there were a lot of people there . he was very proud of his accomplishments . the speaker was very happy to be there . he was so happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the awards ceremony at the university is a success . there are a lot of people there . he is very proud of his accomplishments . the speaker is very happy to be there . he is so happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony at the university is a success .",
+        "there are a lot of people there .",
+        "he is very proud of his accomplishments .",
+        "the speaker is very happy to be there .",
+        "he is so happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the awards ceremony at the university was a success for the school. there were a lot of people there . [Don] was very proud of his accomplishments . the speaker was very happy to be there because it was their first time . The audience was very proud.",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony at the university was a success for the school .",
+        "there were a lot of people there .",
+        "[male] was very proud of his accomplishments .",
+        "the speaker was very happy to be there because it was their first time .",
+        "the audience was very proud ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the awards ceremony at the university was a success . many people attended . he was very proud of his accomplishments . the speaker was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony at the university was a success .",
+        "many people attended .",
+        "he was very proud of his accomplishments .",
+        "the speaker was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The awards ceremony at the university was a success. There were a lot of people in attendance. The student was very proud of his accomplishments. The speaker was very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony at the university was a success .",
+        "there were a lot of people in attendance .",
+        "the student was very proud of his accomplishments .",
+        "the speaker was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the awards ceremony at the university was a success . there were a lot of people there . he was very proud of his accomplishments . the speaker was very happy to be there . he was so happy to be there that excites me a lot",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony at the university was a success .",
+        "there were a lot of people there .",
+        "he was very proud of his accomplishments .",
+        "the speaker was very happy to be there .",
+        "he was so happy to be there that excites me a lot"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626883275776"
+}

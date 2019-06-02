@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "5529583354-5529583746-5528996177-5532536852-5532536954",
+  "photo_sequence_ids": [
+    "5529583354",
+    "5529583746",
+    "5528996177",
+    "5532536852",
+    "5532536954"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5054/5529583354_a3479f5542_o.jpg",
+    "https://farm6.staticflickr.com/5257/5529583746_6e2a85ff8c_o.jpg",
+    "https://farm6.staticflickr.com/5213/5528996177_b51e110518_o.jpg",
+    "https://farm6.staticflickr.com/5095/5532536852_cba14ac3ae_o.jpg",
+    "https://farm6.staticflickr.com/5254/5532536954_f10c93c930_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of items to choose from . this is a picture of a factory . there were a lot of different types of fish . we were able to get a lot of work to do . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "there were a great deal of items to choose from . this is a photo of a factory . there were a lot of various types of fish . we could able to get a great deal of work to do . this is a photo of a building .",
+      "normalized_edited_story_text_sent": [
+        "there were a great deal of items to choose from .",
+        "this is a photo of a factory .",
+        "there were a lot of various types of fish .",
+        "we could able to get a great deal of work to do .",
+        "this is a photo of a building ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "There were a lot of items to choose from. Here\u0027s a picture of the factory. There were a lot of different kinds of fish. We had a lot of work to do. Here\u0027s a picture of the building.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of items to choose from .",
+        "here \u0027s a picture of the factory .",
+        "there were a lot of different kinds of fish .",
+        "we had a lot of work to do .",
+        "here \u0027s a picture of the building ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "there were a lot of items to choose from . here is a picture from a factory . there were lots of different types of fish . we were able do a lot of work . this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of items to choose from .",
+        "here is a picture from a factory .",
+        "there were lots of different types of fish .",
+        "we were able do a lot of work .",
+        "this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I looked at military equipment. There were mortars. I saw lots of guns. I hoped they would never be used. But they were still cool.",
+      "normalized_edited_story_text_sent": [
+        "i looked at military equipment .",
+        "there were mortars .",
+        "i saw lots of guns .",
+        "i hoped they would never be used .",
+        "but they were still cool ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "there were a lot of items . this is a picture of supplies. there were a lot of different types of munitions . we were able to get a lot of work done . this is a picture of a cargo ship .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of items .",
+        "this is a picture of supplies .",
+        "there were a lot of different types of munitions .",
+        "we were able to get a lot of work done .",
+        "this is a picture of a cargo ship ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626147554929"
+}

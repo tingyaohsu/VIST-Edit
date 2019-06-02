@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "378395497-378393135-380624072-380622547-374513504",
+  "photo_sequence_ids": [
+    "378395497",
+    "378393135",
+    "380624072",
+    "380622547",
+    "374513504"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the statue was beautiful . the statues were interesting . the view was amazing . the sky was blue . the mountains were gorgeous .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "travelled to see some beautiful statues with weekend. they were like nothing i had seen before. look at how spectacular the view was. we walked across an ancient, foggy bridge. it was all so majestic.",
+      "normalized_edited_story_text_sent": [
+        "travelled to see some beautiful statues with weekend .",
+        "they were like nothing i had seen before .",
+        "look at how spectacular the view was .",
+        "we walked across an ancient , foggy bridge .",
+        "it was all so majestic ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the statue was beautiful . the statues were interesting and the view was amazing . the sky was blue and the mountains were gorgeous .",
+      "normalized_edited_story_text_sent": [
+        "the statue was beautiful .",
+        "the statues were interesting and the view was amazing .",
+        "the sky was blue and the mountains were gorgeous ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Aztec masks and fog gave a the country a beautiful look.",
+      "normalized_edited_story_text_sent": [
+        "aztec masks and fog gave a the country a beautiful look ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the statue at the park was beautiful . the statues were very interesting . the pond in the middle of the park looked so beautiful with the blue water and the yellow beach surrounding it. the bridge was beautiful and the fog covered the bridge.",
+      "normalized_edited_story_text_sent": [
+        "the statue at the park was beautiful .",
+        "the statues were very interesting .",
+        "the pond in the middle of the park looked so beautiful with the blue water and the yellow beach surrounding it .",
+        "the bridge was beautiful and the fog covered the bridge ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the statue was beautiful . the statues were interesting . the view was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the statue was beautiful .",
+        "the statues were interesting .",
+        "the view was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600060241193",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "387161394-387162432-387162790-387161522-387162922",
+  "photo_sequence_ids": [
+    "387161394",
+    "387162432",
+    "387162790",
+    "387161522",
+    "387162922"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/145/387161394_9454e36eba_o.jpg",
+    "https://farm1.staticflickr.com/154/387162432_8e3cc36353_o.jpg",
+    "https://farm1.staticflickr.com/137/387162790_e6cf35c38e_o.jpg",
+    "https://farm1.staticflickr.com/154/387161522_1a63b14a88_o.jpg",
+    "https://farm1.staticflickr.com/173/387162922_46f0da3958_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a party at the bar . we had a lot of fun at the party . everyone was having a great time . the night ended with a few drinks . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had a celebration at the bar . we had a good time at the party . everyone was having fun . the night ended with a few libations . everyone had a wonderful time .",
+      "normalized_edited_story_text_sent": [
+        "we had a celebration at the bar .",
+        "we had a good time at the party .",
+        "everyone was having fun .",
+        "the night ended with a few libations .",
+        "everyone had a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "We had a party at the bar. Everyone was having a great time and a lot of fun. The night ended with a few drinks. I\u0027ll say it again, everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a party at the bar .",
+        "everyone was having a great time and a lot of fun .",
+        "the night ended with a few drinks .",
+        "i \u0027ll say it again , everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a party at the bar and we had a lot of fun at the party . everyone was having a great time . the night ended with a few drinks and everyone saying they enjoyed themselves.",
+      "normalized_edited_story_text_sent": [
+        "we had a party at the bar and we had a lot of fun at the party .",
+        "everyone was having a great time .",
+        "the night ended with a few drinks and everyone saying they enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a party for my friend\u0027s birthday. everyone had a lot of fun talking and laughing. we ended the night by having a few drinks. everyone had a great time and can\u0027t wait to see each other again.",
+      "normalized_edited_story_text_sent": [
+        "we had a party for my friend \u0027s birthday .",
+        "everyone had a lot of fun talking and laughing .",
+        "we ended the night by having a few drinks .",
+        "everyone had a great time and ca n\u0027t wait to see each other again ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "Last night we celebrated [Jan]\u0027s birthday  party at the corner bar . All her friends and family were there . [John] bought a cake and everyone started singing happy birthday. We were having a great time chatting and taking pictures.   Everyone enjoyed themselves.The night came to a close with drinks and music.",
+      "normalized_edited_story_text_sent": [
+        "last night we celebrated [male] \u0027s birthday party at the corner bar .",
+        "all her friends and family were there .",
+        "[male] bought a cake and everyone started singing happy birthday .",
+        "we were having a great time chatting and taking pictures .",
+        "everyone enjoyed themselves.the night came to a close with drinks and music ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594530445108"
+}

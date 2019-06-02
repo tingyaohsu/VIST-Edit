@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "268648143-268648305-268647742-268647774-268647823",
+  "photo_sequence_ids": [
+    "268648143",
+    "268648305",
+    "268647742",
+    "268647774",
+    "268647823"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the gay pride parade was a great time . everyone was excited to be there . the marching band was amazing . the kids were very proud . the police were also in attendance .",
+  "edited_stories": [
+    {
+      "worker_id": "A3CWW9DIL73I14",
+      "edited_story_text": "The Gay Pride Parade was a great time! Everyone was excited to be there. The marching band and flag twirlers were amazing. The kids were very proud. The police were also in attendance.",
+      "normalized_edited_story_text_sent": [
+        "the gay pride parade was a great time !",
+        "everyone was excited to be there .",
+        "the marching band and flag twirlers were amazing .",
+        "the kids were very proud .",
+        "the police were also in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "At the bus station, parade employees were setting up informational stands and putting on their uniform vests. They walked out of the station holding large banners advertising the movement. Employees were holding flags and passing flyers to passing vehicles.",
+      "normalized_edited_story_text_sent": [
+        "at the bus station , parade employees were setting up informational stands and putting on their uniform vests .",
+        "they walked out of the station holding large banners advertising the movement .",
+        "employees were holding flags and passing flyers to passing vehicles ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The gay pride parade was actually a really great time. Everyone was excited to be there. The marching band was really good, too. The kids were proud. For some reason, though, the police were also in attendance .",
+      "normalized_edited_story_text_sent": [
+        "the gay pride parade was actually a really great time .",
+        "everyone was excited to be there .",
+        "the marching band was really good , too .",
+        "the kids were proud .",
+        "for some reason , though , the police were also in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The gay pride parade was a lot of fun. Everyone was excited to be there. The band that performed was amazing. The kids seemed really happy. The police showed up to keep an eye on things, but it went really well.",
+      "normalized_edited_story_text_sent": [
+        "the gay pride parade was a lot of fun .",
+        "everyone was excited to be there .",
+        "the band that performed was amazing .",
+        "the kids seemed really happy .",
+        "the police showed up to keep an eye on things , but it went really well ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the gay pride parade was a great time . everyone was excited to be there .The parade was starting, there was a lot of security there.",
+      "normalized_edited_story_text_sent": [
+        "the gay pride parade was a great time .",
+        "everyone was excited to be there .",
+        "the parade was starting , there was a lot of security there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594326560194",
+  "model": "GLAC"
+}

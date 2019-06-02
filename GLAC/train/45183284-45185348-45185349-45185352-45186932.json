@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "45183284-45185348-45185349-45185352-45186932",
+  "photo_sequence_ids": [
+    "45183284",
+    "45185348",
+    "45185349",
+    "45185352",
+    "45186932"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was a beautiful event . the bride and groom were very happy . the wedding cake was a big hit . the bride and groom were so excited . the couple was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding day was beautifully executed . the bride and groom were euphoric . the wedding cake was popular . the bride and groom were so enthusiastic . the couple was so gleeful .",
+      "normalized_edited_story_text_sent": [
+        "the wedding day was beautifully executed .",
+        "the bride and groom were euphoric .",
+        "the wedding cake was popular .",
+        "the bride and groom were so enthusiastic .",
+        "the couple was so gleeful ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and john thought the wedding was a beautiful event . the bride and groom were very happy . the wedding cake was a big hit . the bride and groom were so excited . the couple was so happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] thought the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the wedding cake was a big hit .",
+        "the bride and groom were so excited .",
+        "the couple was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the wedding was beautiful. the bride was very happy . the limo was a big hit . the bride and groom were so excited . the couple was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride was very happy .",
+        "the limo was a big hit .",
+        "the bride and groom were so excited .",
+        "the couple was so happy ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy . the champagne toast was the best. the bride and groom were so excited . the couple was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the champagne toast was the best .",
+        "the bride and groom were so excited .",
+        "the couple was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A271SYVBGMJIU2",
+      "edited_story_text": "The wedding was a beautiful event and the bride and groom were very happy. The wedding cake was a big hit, and the bride and groom were so excited and happy that so many family and friend were able to share their joy..",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event and the bride and groom were very happy .",
+        "the wedding cake was a big hit , and the bride and groom were so excited and happy that so many family and friend were able to share their joy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "987727",
+  "model": "GLAC"
+}

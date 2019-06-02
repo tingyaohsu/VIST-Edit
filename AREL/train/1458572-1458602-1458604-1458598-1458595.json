@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "1458572-1458602-1458604-1458598-1458595",
+  "photo_sequence_ids": [
+    "1458572",
+    "1458602",
+    "1458604",
+    "1458598",
+    "1458595"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/1458572_73f233ae18_o.jpg",
+    "https://farm1.staticflickr.com/2/1458602_d65933238e_o.jpg",
+    "https://farm1.staticflickr.com/2/1458604_4669169f73_o.jpg",
+    "https://farm1.staticflickr.com/2/1458598_2487882d40_o.jpg",
+    "https://farm1.staticflickr.com/2/1458595_90efa8a532_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party today . there were a lot of people there . he had a lot of fun playing the piano . we had a lot of fun . he was so happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "we had a great time at the party today. there were a lot of people there. he had a lot of fun playing the piano. he was so happy to see him at the party.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today .",
+        "there were a lot of people there .",
+        "he had a lot of fun playing the piano .",
+        "he was so happy to see him at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "We had a great time at the party today. There were a lot of people there. We PLAYED A LOT OF DRINKING GAMES. WE HAD A BEER PONG. We had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party today .",
+        "there were a lot of people there .",
+        "we played a lot of drinking games .",
+        "we had a beer pong .",
+        "we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to a party. There were a lot of students there. We drank beer in plastic cups and from a beer bong.",
+      "normalized_edited_story_text_sent": [
+        "we went to a party .",
+        "there were a lot of students there .",
+        "we drank beer in plastic cups and from a beer bong ."
+      ]
+    },
+    {
+      "worker_id": "A34VIKOCYAW0F3",
+      "edited_story_text": "We had a great time at the party playing beer pong and doing kegstands. It was great to see everyone.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party playing beer pong and doing kegstands .",
+        "it was great to see everyone ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the party tonight. There were a lot of people there. [Male] had fun playing the piano. [Male] was so happy to see [male].",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party tonight .",
+        "there were a lot of people there .",
+        "[male] had fun playing the piano .",
+        "[male] was so happy to see [male] ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "37189"
+}

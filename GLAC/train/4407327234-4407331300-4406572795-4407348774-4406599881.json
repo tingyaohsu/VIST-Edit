@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4407327234-4407331300-4406572795-4407348774-4406599881",
+  "photo_sequence_ids": [
+    "4407327234",
+    "4407331300",
+    "4406572795",
+    "4407348774",
+    "4406599881"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the plane was going to be a great day for a trip . the pilot was excited . the men were in the air . the man was very happy . the family was ready to go .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the plane was going to be a great day for a trip with the skies blue. the pilot was excited to fly the people to the sunny beach . the men were in the air and drinking some water . the man was very happy he was on vacation . the family was ready to go to their new beach house .",
+      "normalized_edited_story_text_sent": [
+        "the plane was going to be a great day for a trip with the skies blue .",
+        "the pilot was excited to fly the people to the sunny beach .",
+        "the men were in the air and drinking some water .",
+        "the man was very happy he was on vacation .",
+        "the family was ready to go to their new beach house ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "We planned for a great trip. However, there was a pending emergency. The men were out getting ready, while reporters commented on the pending emergency.",
+      "normalized_edited_story_text_sent": [
+        "we planned for a great trip .",
+        "however , there was a pending emergency .",
+        "the men were out getting ready , while reporters commented on the pending emergency ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The street was not to busy. A sign designated the end of the tsunami area. A woman talked to the camera. Police were there.",
+      "normalized_edited_story_text_sent": [
+        "the street was not to busy .",
+        "a sign designated the end of the tsunami area .",
+        "a woman talked to the camera .",
+        "police were there ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Today was a great day for a trip. Using a plane to travel, we boarded the flight to see an overly zealous pilot. The family was all set to go. The men were psyched, and before we knew it, we were up in the air!",
+      "normalized_edited_story_text_sent": [
+        "today was a great day for a trip .",
+        "using a plane to travel , we boarded the flight to see an overly zealous pilot .",
+        "the family was all set to go .",
+        "the men were psyched , and before we knew it , we were up in the air !"
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the people were getting ready for a trip. the people were very excited. the woman was being filmed. the family was ready to go.",
+      "normalized_edited_story_text_sent": [
+        "the people were getting ready for a trip .",
+        "the people were very excited .",
+        "the woman was being filmed .",
+        "the family was ready to go ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623430943057",
+  "model": "GLAC"
+}

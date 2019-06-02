@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "35915218-35915289-35914563-35915365-35915466",
+  "photo_sequence_ids": [
+    "35915218",
+    "35915289",
+    "35914563",
+    "35915365",
+    "35915466"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/32/35915218_030d1ed4dd_o.jpg",
+    "https://farm1.staticflickr.com/32/35915289_1d9a29ee77_o.jpg",
+    "https://farm1.staticflickr.com/28/35914563_ab10207eb3_o.jpg",
+    "https://farm1.staticflickr.com/32/35915365_bf20d74a7e_o.jpg",
+    "https://farm1.staticflickr.com/33/35915466_7d5e4e5287_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went on a boat trip . this is a picture of a man . there was a lot of water there . we had a great view of the lake . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "Our family went on a boat trip . the water there was so crystal clear, we had a great view of the lake from the cabin. I had such a great time .",
+      "normalized_edited_story_text_sent": [
+        "our family went on a boat trip .",
+        "the water there was so crystal clear , we had a great view of the lake from the cabin .",
+        "i had such a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "the family took a boat trip, this a picture of a man and there was a lot of water surrounding the people along with that, we had a great view of the lake. All around we had a great time out there.",
+      "normalized_edited_story_text_sent": [
+        "the family took a boat trip , this a picture of a man and there was a lot of water surrounding the people along with that , we had a great view of the lake .",
+        "all around we had a great time out there ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the family went on a boat trip . we took pictures of everyone . there was a lot of water there . we had a great view of the lake . We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a boat trip .",
+        "we took pictures of everyone .",
+        "there was a lot of water there .",
+        "we had a great view of the lake .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the family went on a boat trip . this is a picture of a man I met there. there was a lot of water there . we had a great view of the lake . i had an amazing time.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a boat trip .",
+        "this is a picture of a man i met there .",
+        "there was a lot of water there .",
+        "we had a great view of the lake .",
+        "i had an amazing time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had so much fun at the lake. The boys were playing on the dock.  The view was beautiful. The lake was gorgeous. It was truly a nice day.  We found a picnic bench to relax on after a long day.",
+      "normalized_edited_story_text_sent": [
+        "we had so much fun at the lake .",
+        "the boys were playing on the dock .",
+        "the view was beautiful .",
+        "the lake was gorgeous .",
+        "it was truly a nice day .",
+        "we found a picnic bench to relax on after a long day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "794103"
+}

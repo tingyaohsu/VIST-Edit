@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "2580735309-2580742595-2581572326-2580753271-2580757505",
+  "photo_sequence_ids": [
+    "2580735309",
+    "2580742595",
+    "2581572326",
+    "2580753271",
+    "2580757505"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they had a great time . the kids enjoyed the water . the lake was beautiful . the boys had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The men and women had a such a great time on the family boat at the lake house.",
+      "normalized_edited_story_text_sent": [
+        "the men and women had a such a great time on the family boat at the lake house ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family took a trip to the lake. It was beautiful. The kids enjoyed the water and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to the lake .",
+        "it was beautiful .",
+        "the kids enjoyed the water and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "our family went to the beach to go out in our boat . we had a great time  . the kids loved playing in the water . the lake was pretty . the boys loved it. .",
+      "normalized_edited_story_text_sent": [
+        "our family went to the beach to go out in our boat .",
+        "we had a great time .",
+        "the kids loved playing in the water .",
+        "the lake was pretty .",
+        "the boys loved it ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went to the beach and rode in a boat . they had a great time driving the boar . the kids enjoyed the water and everyone posed for pictures on the boat.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach and rode in a boat .",
+        "they had a great time driving the boar .",
+        "the kids enjoyed the water and everyone posed for pictures on the boat ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family went to the beach . they had a great time . the kids really enjoyed playing in the water . the lake was beautiful . the boys especially had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach .",
+        "they had a great time .",
+        "the kids really enjoyed playing in the water .",
+        "the lake was beautiful .",
+        "the boys especially had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157605630785895",
+  "model": "GLAC"
+}

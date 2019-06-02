@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4947302832-4946713379-4946713497-4946714125-4947303648",
+  "photo_sequence_ids": [
+    "4947302832",
+    "4946713379",
+    "4946713497",
+    "4946714125",
+    "4947303648"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4141/4947302832_0152f7138f_o.jpg",
+    "https://farm5.staticflickr.com/4120/4946713379_18f6d6716e_o.jpg",
+    "https://farm5.staticflickr.com/4107/4946713497_fe88f7c398_o.jpg",
+    "https://farm5.staticflickr.com/4112/4946714125_3866f48040_o.jpg",
+    "https://farm5.staticflickr.com/4077/4947303648_da11b66188_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the museum . this is a picture of a flower . i saw a lot of interesting things . this is a picture of a sign . it was a beautiful day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "I went to the museum . this is a picture of a flower . i saw a lot of interesting things  at the museum. this is a picture of a sign . it was a beautiful day for me.",
+      "normalized_edited_story_text_sent": [
+        "i went to the museum .",
+        "this is a picture of a flower .",
+        "i saw a lot of interesting things at the museum .",
+        "this is a picture of a sign .",
+        "it was a beautiful day for me ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to a theme park. It had a gorgeous castle fronted by a field of flowers. A restaurant was on site. There were jack-o\u0027-lanterns all around. They were ornately carved.",
+      "normalized_edited_story_text_sent": [
+        "we went to a theme park .",
+        "it had a gorgeous castle fronted by a field of flowers .",
+        "a restaurant was on site .",
+        "there were jack-o \u0027 - lanterns all around .",
+        "they were ornately carved ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We decided to visit a theme park together. We took a photo of one of the gardens. It was all decorated fr Halloween. We stopped by the information booth to get some more information. Everything was decorated for Halloween on this beautiful day. .",
+      "normalized_edited_story_text_sent": [
+        "we decided to visit a theme park together .",
+        "we took a photo of one of the gardens .",
+        "it was all decorated fr halloween .",
+        "we stopped by the information booth to get some more information .",
+        "everything was decorated for halloween on this beautiful day .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the amusement park. This is a picture of a flower.  I saw a lot of interesting things.  We did a lot of fun things at the park.  It was a beautiful day.",
+      "normalized_edited_story_text_sent": [
+        "we went to the amusement park .",
+        "this is a picture of a flower .",
+        "i saw a lot of interesting things .",
+        "we did a lot of fun things at the park .",
+        "it was a beautiful day ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "We went to the museum, it was a beautiful day. I saw a lot of interesting things, this is a picture of a flower, this is a picture of a sign.",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum , it was a beautiful day .",
+        "i saw a lot of interesting things , this is a picture of a flower , this is a picture of a sign ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624852981218"
+}

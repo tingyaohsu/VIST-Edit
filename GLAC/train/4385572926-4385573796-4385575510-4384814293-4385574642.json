@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4385572926-4385573796-4385575510-4384814293-4385574642",
+  "photo_sequence_ids": [
+    "4385572926",
+    "4385573796",
+    "4385575510",
+    "4384814293",
+    "4385574642"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to play the football game . they were very competitive . they had a great time . the mascots were the best . the team won .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The horse jumping the fence caused the jockey to fall to the ground.",
+      "normalized_edited_story_text_sent": [
+        "the horse jumping the fence caused the jockey to fall to the ground ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kids were excited jump the fences with their horses. they were very competitive. they had a great time. one kid fell off his horse, but he was ok.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited jump the fences with their horses .",
+        "they were very competitive .",
+        "they had a great time .",
+        "one kid fell off his horse , but he was ok ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the people were excited to race the horses in a match . One man fell off his horse unfortunately. the fence had come down during the race . Several people continued to race . The man on the ground sat there discouraged.",
+      "normalized_edited_story_text_sent": [
+        "the people were excited to race the horses in a match .",
+        "one man fell off his horse unfortunately .",
+        "the fence had come down during the race .",
+        "several people continued to race .",
+        "the man on the ground sat there discouraged ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The kids were excited to see the football game.  The horse competition was fun to see.  The kids had a good time and they enjoyed winning the game.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to see the football game .",
+        "the horse competition was fun to see .",
+        "the kids had a good time and they enjoyed winning the game ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The kids were excited to play the football game.  They were very competitive, but they had a great time.  The team won and the mascots were the best.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play the football game .",
+        "they were very competitive , but they had a great time .",
+        "the team won and the mascots were the best ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623377031461",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "2251124588-2250328985-2250331641-2250335015-2250336943",
+  "photo_sequence_ids": [
+    "2251124588",
+    "2250328985",
+    "2250331641",
+    "2250335015",
+    "2250336943"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2199/2251124588_bf4771b8cb_o.jpg",
+    "https://farm3.staticflickr.com/2362/2250328985_725530009c_o.jpg",
+    "https://farm3.staticflickr.com/2368/2250331641_ff85c32d59_o.jpg",
+    "https://farm3.staticflickr.com/2286/2250335015_aebd77a3dc_o.jpg",
+    "https://farm3.staticflickr.com/2210/2250336943_d62c3ce503_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the city last weekend . the statue was very interesting . the architecture was amazing . the view from the hotel was beautiful . this is a picture of a sign .",
+  "edited_stories": [
+    {
+      "worker_id": "A2D30R5ZNQS01W",
+      "edited_story_text": "I went to the city last weekend. The statue was very interesting. The architecture was amazing. The view from the hotel was beautiful. This is a picture of a local sign.",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend .",
+        "the statue was very interesting .",
+        "the architecture was amazing .",
+        "the view from the hotel was beautiful .",
+        "this is a picture of a local sign ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the city last weekend for a trip. there were some really interesting statues there. the architecture was amazing as well. the view from the hotel was really beautiful.",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend for a trip .",
+        "there were some really interesting statues there .",
+        "the architecture was amazing as well .",
+        "the view from the hotel was really beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I decided to go to the city last weekend. I saw a really cool statue. I liked this building\u0027s architecture and unique color. I could see a pretty beach from my hotel. There was a sign warning people of danger nearby.",
+      "normalized_edited_story_text_sent": [
+        "i decided to go to the city last weekend .",
+        "i saw a really cool statue .",
+        "i liked this building \u0027s architecture and unique color .",
+        "i could see a pretty beach from my hotel .",
+        "there was a sign warning people of danger nearby ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the city last weekend and the statue was very interesting also the architecture was amazing . the view from the hotel was beautiful also and this is a picture of a sign .",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend and the statue was very interesting also the architecture was amazing .",
+        "the view from the hotel was beautiful also and this is a picture of a sign ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I went to the city last weekend. The statue was very interesting. The architecture was amazing. The view from the hotel was beautiful. I\u0027m glad I went.",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend .",
+        "the statue was very interesting .",
+        "the architecture was amazing .",
+        "the view from the hotel was beautiful .",
+        "i \u0027m glad i went ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603870972242"
+}

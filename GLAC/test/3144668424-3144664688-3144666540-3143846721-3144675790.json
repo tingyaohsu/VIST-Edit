@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "3144668424-3144664688-3144666540-3143846721-3144675790",
+  "photo_sequence_ids": [
+    "3144668424",
+    "3144664688",
+    "3144666540",
+    "3143846721",
+    "3144675790"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a meal . the food was delicious . the main course was amazing . the kids enjoyed themselves . the adults had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The large family got together for a meal. The food was delicious. The main course was amazing, and the kids really  enjoyed themselves. The adults also had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the large family got together for a meal .",
+        "the food was delicious .",
+        "the main course was amazing , and the kids really enjoyed themselves .",
+        "the adults also had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a meal . the food was delicious . They took pictures and posed for the camera. they were silly.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a meal .",
+        "the food was delicious .",
+        "they took pictures and posed for the camera .",
+        "they were silly ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a meal . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a meal .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "We got together for a meal. The food was delicious. The main course lo mein and chicken was amazing . I ate so much I was so full. We had a great time enjoying the meal.",
+      "normalized_edited_story_text_sent": [
+        "we got together for a meal .",
+        "the food was delicious .",
+        "the main course lo mein and chicken was amazing .",
+        "i ate so much i was so full .",
+        "we had a great time enjoying the meal ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family got together for a meal . the food was delicious and had food from the garden . the main course was and my mom made it . the kids enjoyed themselves . the adults had a great time taking photos.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a meal .",
+        "the food was delicious and had food from the garden .",
+        "the main course was and my mom made it .",
+        "the kids enjoyed themselves .",
+        "the adults had a great time taking photos ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157611736381187",
+  "model": "GLAC"
+}

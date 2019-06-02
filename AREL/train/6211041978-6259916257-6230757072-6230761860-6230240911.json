@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6211041978-6259916257-6230757072-6230761860-6230240911",
+  "photo_sequence_ids": [
+    "6211041978",
+    "6259916257",
+    "6230757072",
+    "6230761860",
+    "6230240911"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6183/6211041978_8bc4dc8769_o.jpg",
+    "https://farm7.staticflickr.com/6047/6259916257_fc7f668c76_o.jpg",
+    "https://farm7.staticflickr.com/6157/6230757072_f178de274f_o.jpg",
+    "https://farm7.staticflickr.com/6223/6230761860_e830bce1dd_o.jpg",
+    "https://farm7.staticflickr.com/6057/6230240911_e98de17e7b_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the meeting yesterday . i had a great time . he was very happy to be there . the speaker gave a speech to the audience . [male] was very proud of his accomplishments .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the meeting yesterday . i had a great time . there was an interview. the speaker gave a speech to the audience . [male] was very proud of his accomplishments . finally there was a panel discussion.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "i had a great time .",
+        "there was an interview .",
+        "the speaker gave a speech to the audience .",
+        "[male] was very proud of his accomplishments .",
+        "finally there was a panel discussion ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we went to the meeting yesterday . we have a great time . he is very happy to be there . the speaker give a speech to the audience . [male] is very proud of his accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "we went to the meeting yesterday .",
+        "we have a great time .",
+        "he is very happy to be there .",
+        "the speaker give a speech to the audience .",
+        "[male] is very proud of his accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the meeting yesterday with some important people. i had a great time and enjoyed meeting everyone. he enjoyed being there and getting interviewed. the speaker addressed all of the attendants with a great speech . [male] was very proud of his accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday with some important people .",
+        "i had a great time and enjoyed meeting everyone .",
+        "he enjoyed being there and getting interviewed .",
+        "the speaker addressed all of the attendants with a great speech .",
+        "[male] was very proud of his accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "I left home early to attend the meeting yesterday . The meeting was good and I even took pictures . I got to interview many of the attendees and listen to more speeches . Later there was a panel that answered questions . I had a great day.",
+      "normalized_edited_story_text_sent": [
+        "i left home early to attend the meeting yesterday .",
+        "the meeting was good and i even took pictures .",
+        "i got to interview many of the attendees and listen to more speeches .",
+        "later there was a panel that answered questions .",
+        "i had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "I went to the meeting yesterday and had a great time. He was very happy to be there. The speaker delivered a speech to the audience. James was very proud of his accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday and had a great time .",
+        "he was very happy to be there .",
+        "the speaker delivered a speech to the audience .",
+        "james was very proud of his accomplishments ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627815812442"
+}

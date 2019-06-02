@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "58639542-58639827-58639511-58639628-58639276",
+  "photo_sequence_ids": [
+    "58639542",
+    "58639827",
+    "58639511",
+    "58639628",
+    "58639276"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the christmas tree was decorated for the holiday season . the children were excited to be celebrating the holidays . the family was having a great time . the presents were opened and the kids were happy . the baby was very tired .",
+  "edited_stories": [
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the house was decorated for the halloween season . the children were excited to be celebrating the holidays . the family was having a great time . the pumpkins were carved and the kids were happy . the kids got a lot of candy.",
+      "normalized_edited_story_text_sent": [
+        "the house was decorated for the halloween season .",
+        "the children were excited to be celebrating the holidays .",
+        "the family was having a great time .",
+        "the pumpkins were carved and the kids were happy .",
+        "the kids got a lot of candy ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the christmas tree was decorated for the holiday season . the children were excited to be celebrating the holidays . the family was having a great time . the pumpkins were carved and the kids were happy . the boy dressed as Spider-Man .",
+      "normalized_edited_story_text_sent": [
+        "the christmas tree was decorated for the holiday season .",
+        "the children were excited to be celebrating the holidays .",
+        "the family was having a great time .",
+        "the pumpkins were carved and the kids were happy .",
+        "the boy dressed as spider-man ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the christmas tree was decorated for the holiday season . the children were excited to be celebrating the holidays . the family was having a great time . the presents were opened and the kids were happy . the baby was very tired .\r\rWe finally decorated the Christmas tree for the holiday season. My kids couldn\u0027t want to celebrate the holiday season. My family had an amazing time. We spent time opening up gifts we gave one another! By the end of the day, little baby Maria was tuckered out.",
+      "normalized_edited_story_text_sent": [
+        "the christmas tree was decorated for the holiday season .",
+        "the children were excited to be celebrating the holidays .",
+        "the family was having a great time .",
+        "the presents were opened and the kids were happy .",
+        "the baby was very tired .",
+        "we finally decorated the christmas tree for the holiday season .",
+        "my kids could n\u0027t want to celebrate the holiday season .",
+        "my family had an amazing time .",
+        "we spent time opening up gifts we gave one another !",
+        "by the end of the day , little baby [female] was tuckered out ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the house tree was decorated for the holiday season . the children were excited to be celebrating the holidays . the family was having a great time . the presents were opened and the kids were happy . the baby was very tired .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the house tree was decorated for the holiday season .",
+        "the children were excited to be celebrating the holidays .",
+        "the family was having a great time .",
+        "the presents were opened and the kids were happy .",
+        "the baby was very tired ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the christmas tree was decorated for the holiday season which was in orange . the children were excited to be celebrating the holidays and it started with Haloween . the family was having a great time going door to door looking for candy. the presents were opened and the kids were happy they got a ton of candy. the baby was very tired and went to sleep early.",
+      "normalized_edited_story_text_sent": [
+        "the christmas tree was decorated for the holiday season which was in orange .",
+        "the children were excited to be celebrating the holidays and it started with haloween .",
+        "the family was having a great time going door to door looking for candy .",
+        "the presents were opened and the kids were happy they got a ton of candy .",
+        "the baby was very tired and went to sleep early ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1268379",
+  "model": "GLAC"
+}

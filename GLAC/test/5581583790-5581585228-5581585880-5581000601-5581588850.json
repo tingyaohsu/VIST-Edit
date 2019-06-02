@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5581583790-5581585228-5581585880-5581000601-5581588850",
+  "photo_sequence_ids": [
+    "5581583790",
+    "5581585228",
+    "5581585880",
+    "5581000601",
+    "5581588850"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the big event . the speaker was very excited . the speaker was very engaging . the audience was listening intently . the man was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the crowd was ready for the big event at the museum . the speaker was very excited to talk to the group . the speaker was very engaging with all these who attended  . the audience was listening intently to his words as we spoke. the man was happy to be there and smiled the entire time.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the big event at the museum .",
+        "the speaker was very excited to talk to the group .",
+        "the speaker was very engaging with all these who attended .",
+        "the audience was listening intently to his words as we spoke .",
+        "the man was happy to be there and smiled the entire time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the conference was a success. people got news about start ups. it was a great learning tool.",
+      "normalized_edited_story_text_sent": [
+        "the conference was a success .",
+        "people got news about start ups .",
+        "it was a great learning tool ."
+      ]
+    },
+    {
+      "worker_id": "A2RLL9U1JBY31Q",
+      "edited_story_text": "The crowd was ready for the big event. The speaker was very excited. The speaker was also very engaging. The audience was listening intently. The man was happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the big event .",
+        "the speaker was very excited .",
+        "the speaker was also very engaging .",
+        "the audience was listening intently .",
+        "the man was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the crowd was ready at the big speech . the speaker was enthusiastic . the speaker engaged the audience . the audience was listening closely . the man was honored to speak his mind .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready at the big speech .",
+        "the speaker was enthusiastic .",
+        "the speaker engaged the audience .",
+        "the audience was listening closely .",
+        "the man was honored to speak his mind ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the crowd was ready for the big event . the speaker was very excited and engaged . the audience was listening intently . the man was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the big event .",
+        "the speaker was very excited and engaged .",
+        "the audience was listening intently .",
+        "the man was happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626285246453",
+  "model": "GLAC"
+}

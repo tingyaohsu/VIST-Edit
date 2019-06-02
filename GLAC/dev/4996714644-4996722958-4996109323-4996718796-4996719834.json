@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4996714644-4996722958-4996109323-4996718796-4996719834",
+  "photo_sequence_ids": [
+    "4996714644",
+    "4996722958",
+    "4996109323",
+    "4996718796",
+    "4996719834"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the stadium was full of fans . the players were ready for the game . the team was excited . the coach was very proud of his team . the coach was interviewed by the audience .",
+  "edited_stories": [
+    {
+      "worker_id": "A14M2EERU7E8KD",
+      "edited_story_text": "the whole company gathered for the conference. we listened to important speakers, and then had a team building bike race. after that, we listened to even more people speak.",
+      "normalized_edited_story_text_sent": [
+        "the whole company gathered for the conference .",
+        "we listened to important speakers , and then had a team building bike race .",
+        "after that , we listened to even more people speak ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the park was full of fans . the players were ready for the game . the team was excited . the coach was very proud of his team . the coach was interviewed by the audience .",
+      "normalized_edited_story_text_sent": [
+        "the park was full of fans .",
+        "the players were ready for the game .",
+        "the team was excited .",
+        "the coach was very proud of his team .",
+        "the coach was interviewed by the audience ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the stadium was full of fans who were ready for the race . the players were ready for the game but were in the locker room . the team was excited to play for the home fans. the coach was very proud of his team and knew they would play hard. the coach was interviewed by the audience and he answered all the questions.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was full of fans who were ready for the race .",
+        "the players were ready for the game but were in the locker room .",
+        "the team was excited to play for the home fans .",
+        "the coach was very proud of his team and knew they would play hard .",
+        "the coach was interviewed by the audience and he answered all the questions ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "it was time for the tech conference . the attendants were ready to learn . everyone was excited . there were also physical activities like backpacking and cycling . there were many presentations .",
+      "normalized_edited_story_text_sent": [
+        "it was time for the tech conference .",
+        "the attendants were ready to learn .",
+        "everyone was excited .",
+        "there were also physical activities like backpacking and cycling .",
+        "there were many presentations ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The buidling was full of fans",
+      "normalized_edited_story_text_sent": [
+        "the buidling was full of fans"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624845628495",
+  "model": "GLAC"
+}

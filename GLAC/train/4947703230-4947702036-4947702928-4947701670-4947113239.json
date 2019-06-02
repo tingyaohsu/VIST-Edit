@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4947703230-4947702036-4947702928-4947701670-4947113239",
+  "photo_sequence_ids": [
+    "4947703230",
+    "4947702036",
+    "4947702928",
+    "4947701670",
+    "4947113239"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the event . the kids were excited to be in the field . the boys had a great time . the game was a success . the team was very proud of their performance .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a crowd camped for the event . the kids were eager to be camping . the boys had fun . the game was a success event . one team was prideful of their showing .",
+      "normalized_edited_story_text_sent": [
+        "a crowd camped for the event .",
+        "the kids were eager to be camping .",
+        "the boys had fun .",
+        "the game was a success event .",
+        "one team was prideful of their showing ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the crowd gathered for the event, some set out tents to wait to get in. . the team was very proud of their performance . and there were fireworks afterword.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event , some set out tents to wait to get in .",
+        "the team was very proud of their performance .",
+        "and there were fireworks afterword ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the crowd set up their tents for the event. the kids were excited to be pat of the project . everyone had a great time . the event was a success . the team was very proud of their performance .",
+      "normalized_edited_story_text_sent": [
+        "the crowd set up their tents for the event .",
+        "the kids were excited to be pat of the project .",
+        "everyone had a great time .",
+        "the event was a success .",
+        "the team was very proud of their performance ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the crowd gathered for the event . the kids were excited to camp out in tents . the boys had a great time . the game was a success . the team was very proud of their performance .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "the kids were excited to camp out in tents .",
+        "the boys had a great time .",
+        "the game was a success .",
+        "the team was very proud of their performance ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the crowd gathered for the event . They put tents up all over. Everyone waited on the sidewalk together. We went to the beach too.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "they put tents up all over .",
+        "everyone waited on the sidewalk together .",
+        "we went to the beach too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625082564869",
+  "model": "GLAC"
+}

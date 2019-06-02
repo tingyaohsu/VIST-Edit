@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "23052844-23053120-23054290-23057434-23065770",
+  "photo_sequence_ids": [
+    "23052844",
+    "23053120",
+    "23054290",
+    "23057434",
+    "23065770"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the protesters gathered for the demonstration . the police were there to protest . the protestors were peaceful . they carried their signs . they marched in the streets .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the protesters gathered for the demonstration . the police were there in case of trouble . the protestors were peaceful . they carried their signs without trouble. . they marched in the streets .",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered for the demonstration .",
+        "the police were there in case of trouble .",
+        "the protestors were peaceful .",
+        "they carried their signs without trouble .",
+        "they marched in the streets ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "The protest went well and was peaceful.  the protesters gathered for the demonstration . the police were there to protest . they carried their signs . they marched in the streets .",
+      "normalized_edited_story_text_sent": [
+        "the protest went well and was peaceful .",
+        "the protesters gathered for the demonstration .",
+        "the police were there to protest .",
+        "they carried their signs .",
+        "they marched in the streets ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "protesters assembled for the demonstration.  the police maintained a presence, but the protesters were peaceful as they \rmarched in the streets.  there was no trouble.",
+      "normalized_edited_story_text_sent": [
+        "protesters assembled for the demonstration .",
+        "the police maintained a presence , but the protesters were peaceful as they marched in the streets .",
+        "there was no trouble ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the protesters wore white for the demonstration . the police were there to protest . the protestors were peaceful . they carried their signs and had balloons . they marched in the streets .",
+      "normalized_edited_story_text_sent": [
+        "the protesters wore white for the demonstration .",
+        "the police were there to protest .",
+        "the protestors were peaceful .",
+        "they carried their signs and had balloons .",
+        "they marched in the streets ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the protesters gathered for the demonstration carrying balloons . the police were there and protesters had signs. There were kids too. There was a lot of people.",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered for the demonstration carrying balloons .",
+        "the police were there and protesters had signs .",
+        "there were kids too .",
+        "there was a lot of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "531768",
+  "model": "GLAC"
+}

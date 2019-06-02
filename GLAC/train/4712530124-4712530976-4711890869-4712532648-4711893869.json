@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4712530124-4712530976-4711890869-4712532648-4711893869",
+  "photo_sequence_ids": [
+    "4712530124",
+    "4712530976",
+    "4711890869",
+    "4712532648",
+    "4711893869"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the ceremony was held in a large venue . the tables were decorated with flowers . the graduates were excited to be graduating . the students were very proud of their accomplishments . the family was so happy for the graduation .",
+  "edited_stories": [
+    {
+      "worker_id": "AYPRRGPMOD0AX",
+      "edited_story_text": "The ceremony was held in a large venue with tables decorated with flowers . The graduates were excited to be graduating  and very proud of their accomplishments. The family was so happy at the graduation .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a large venue with tables decorated with flowers .",
+        "the graduates were excited to be graduating and very proud of their accomplishments .",
+        "the family was so happy at the graduation ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the ceremony was held in a large venue and it was expensive to get . the tables were decorated with flowers as well as many desserts. the graduates were excited to be graduating from college and university . the students were very proud of their accomplishments as well as the future jobs they had . the family was so happy for the graduation and were happy to support them .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a large venue and it was expensive to get .",
+        "the tables were decorated with flowers as well as many desserts .",
+        "the graduates were excited to be graduating from college and university .",
+        "the students were very proud of their accomplishments as well as the future jobs they had .",
+        "the family was so happy for the graduation and were happy to support them ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Robert was glad the ceremony was held in a large venue . the tables were decorated with flowers . the graduates were excited to be graduating . the students were very proud of their accomplishments . the family was so happy for the graduation .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the ceremony was held in a large venue .",
+        "the tables were decorated with flowers .",
+        "the graduates were excited to be graduating .",
+        "the students were very proud of their accomplishments .",
+        "the family was so happy for the graduation ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the ceremony was held in a large venue . the tables had a lot of food  . the graduates were excited to be graduating . the students were very proud of their accomplishments . the family was so happy for the graduation .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a large venue .",
+        "the tables had a lot of food .",
+        "the graduates were excited to be graduating .",
+        "the students were very proud of their accomplishments .",
+        "the family was so happy for the graduation ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the ceremony was held in a large venue . the tables were decorated with flowers . the graduates were excited to be graduating . the students were very proud of their accomplishments . the whole family showed up that day.",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a large venue .",
+        "the tables were decorated with flowers .",
+        "the graduates were excited to be graduating .",
+        "the students were very proud of their accomplishments .",
+        "the whole family showed up that day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624179145821",
+  "model": "GLAC"
+}

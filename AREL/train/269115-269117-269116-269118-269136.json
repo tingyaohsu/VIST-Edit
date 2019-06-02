@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "269115-269117-269116-269118-269136",
+  "photo_sequence_ids": [
+    "269115",
+    "269117",
+    "269116",
+    "269118",
+    "269136"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/1/269115_82dfee4b3f_o.jpg",
+    "https://farm1.staticflickr.com/1/269117_cfe1f2813d_o.jpg",
+    "https://farm1.staticflickr.com/1/269116_0194bb29ec_o.jpg",
+    "https://farm1.staticflickr.com/1/269118_02de5c38d1_o.jpg",
+    "https://farm1.staticflickr.com/1/269136_ad565a3fb9_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a trip to the location . the train was a lot of fun . we took a bus to the airport . we went to the airport . we had to go on a train ride .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went on a trip to the location and the train was a lot of fun . Then we took a bus to the airport . we went to the airport and thenwe had to go on a train ride again.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the location and the train was a lot of fun .",
+        "then we took a bus to the airport .",
+        "we went to the airport and thenwe had to go on a train ride again ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "We went on a trip by train, it was a load of fun! We took a bus to the train, and we ha alot of fun on the train ride .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip by train , it was a load of fun !",
+        "we took a bus to the train , and we ha alot of fun on the train ride ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we went on a trip to the location . the train was a lot of fun . we took a train to the airport . we were in the airport . we had to go on a train ride .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the location .",
+        "the train was a lot of fun .",
+        "we took a train to the airport .",
+        "we were in the airport .",
+        "we had to go on a train ride ."
+      ]
+    },
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "We went on a trip! We went on a train; that was lots of fun. Then we took a bus to the airport.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip !",
+        "we went on a train ; that was lots of fun .",
+        "then we took a bus to the airport ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went on a vacation to Europe. Riding on the train was a lot of fun. Then we took a bus to the airport to get on our flight.",
+      "normalized_edited_story_text_sent": [
+        "we went on a vacation to europe .",
+        "riding on the train was a lot of fun .",
+        "then we took a bus to the airport to get on our flight ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "5521"
+}

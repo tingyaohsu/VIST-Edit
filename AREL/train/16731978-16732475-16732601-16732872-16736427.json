@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "16731978-16732475-16732601-16732872-16736427",
+  "photo_sequence_ids": [
+    "16731978",
+    "16732475",
+    "16732601",
+    "16732872",
+    "16736427"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/9/16731978_d336b58b86_o.jpg",
+    "https://farm1.staticflickr.com/11/16732475_3321bbd841_o.jpg",
+    "https://farm1.staticflickr.com/14/16732601_65c42589dc_o.jpg",
+    "https://farm1.staticflickr.com/14/16732872_ffbd048248_o.jpg",
+    "https://farm1.staticflickr.com/12/16736427_778088b9e4_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to the bay . there was a lot of food there . the food was delicious . the food was delicious . we stayed at the hotel and watched the sunset .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "My friend and I took a trip to the bay. There was a lot of food there at the nearby market. Everything we tried was delicious. The we went back to the hotel and watched the sunset .",
+      "normalized_edited_story_text_sent": [
+        "my friend and i took a trip to the bay .",
+        "there was a lot of food there at the nearby market .",
+        "everything we tried was delicious .",
+        "the we went back to the hotel and watched the sunset ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "Here is when we took a trip to the bay . there was so much food there . there was a lot of different yummy food . all of the food we tried was delicious. We were able to stay at the hotel and watch the sunset .",
+      "normalized_edited_story_text_sent": [
+        "here is when we took a trip to the bay .",
+        "there was so much food there .",
+        "there was a lot of different yummy food .",
+        "all of the food we tried was delicious .",
+        "we were able to stay at the hotel and watch the sunset ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we took a trip to the bay . there was a lot of food at the local shops . everything looked so delicious .we sat down at the food court to eat, and the food was so amazing. we stayed at the hotel and watched the sunset and the beautiful view of the water.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the bay .",
+        "there was a lot of food at the local shops .",
+        "everything looked so delicious .",
+        "we sat down at the food court to eat , and the food was so amazing .",
+        "we stayed at the hotel and watched the sunset and the beautiful view of the water ."
+      ]
+    },
+    {
+      "worker_id": "A1W845RVTAYPYN",
+      "edited_story_text": "We took a trip to the bay and there was a lot of food there. The food was delicious. They even had a fish market. We stayed at the hotel and watched the sunset.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the bay and there was a lot of food there .",
+        "the food was delicious .",
+        "they even had a fish market .",
+        "we stayed at the hotel and watched the sunset ."
+      ]
+    },
+    {
+      "worker_id": "A3TWYQENN82FJI",
+      "edited_story_text": "we took a trip to the bay . there was so much food there! we were amazed at all the fresh seafood available at the market . Everything we ate was delicious . We particularly liked watching the sunset from our hotel.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the bay .",
+        "there was so much food there !",
+        "we were amazed at all the fresh seafood available at the market .",
+        "everything we ate was delicious .",
+        "we particularly liked watching the sunset from our hotel ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "402099"
+}

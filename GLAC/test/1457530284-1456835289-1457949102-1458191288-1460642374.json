@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1457530284-1456835289-1457949102-1458191288-1460642374",
+  "photo_sequence_ids": [
+    "1457530284",
+    "1456835289",
+    "1457949102",
+    "1458191288",
+    "1460642374"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a big event . the students were very excited . the students were very proud . they were all smiles . the family was happy to be graduating .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the graduation ceremony was a big event . the students were very excited . they were about to embark on a new journey in life.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "the students were very excited .",
+        "they were about to embark on a new journey in life ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The graduation ceremony that I attended was a big event . All of the graduating students were very excited . In fact, the students were very proud . They were all smiles for the event. The families were happy to be there to watch the students graduate.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony that i attended was a big event .",
+        "all of the graduating students were very excited .",
+        "in fact , the students were very proud .",
+        "they were all smiles for the event .",
+        "the families were happy to be there to watch the students graduate ."
+      ]
+    },
+    {
+      "worker_id": "A30H28F41UBJGK",
+      "edited_story_text": "The graduation ceremony was always a huge event. There were always so many students as is was a big class. The look on their faces as they walked out to be seated was priceless. The graduating students were all so very proud and full of smiles. The parents and family were just as pleased!",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was always a huge event .",
+        "there were always so many students as is was a big class .",
+        "the look on their faces as they walked out to be seated was priceless .",
+        "the graduating students were all so very proud and full of smiles .",
+        "the parents and family were just as pleased !"
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the graduation ceremony was a big event . the students were very excited to begin the next chapter of their lives. the students were very proud . they were all smiles . the students were happy to be graduating .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "the students were very excited to begin the next chapter of their lives .",
+        "the students were very proud .",
+        "they were all smiles .",
+        "the students were happy to be graduating ."
+      ]
+    },
+    {
+      "worker_id": "A1E1WY7DFTAMFW",
+      "edited_story_text": "Mary� graduation ceremony was a big event. All of the students were very excited. You could see how proud everyone was. They were all smiles.  The families of the graduates were quite happy.",
+      "normalized_edited_story_text_sent": [
+        "[female] \u0027s graduation ceremony was a big event .",
+        "all of the students were very excited .",
+        "you could see how proud everyone was .",
+        "they were all smiles .",
+        "the families of the graduates were quite happy ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602202104234",
+  "model": "GLAC"
+}

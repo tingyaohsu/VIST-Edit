@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "156822286-156823003-156823121-156823744-156824515",
+  "photo_sequence_ids": [
+    "156822286",
+    "156823003",
+    "156823121",
+    "156823744",
+    "156824515"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was very happy . he was so happy to see his brother . he was n\u0027t too excited . he was having a great time . the family was all together .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we had a family get together this weekend and Maria was very happy. she was excited to see her little brother David. he wasn\u0027t quite as thrilled as her thought. eventually we had a better time.  it was really special to get the whole family together for once.",
+      "normalized_edited_story_text_sent": [
+        "we had a family get together this weekend and [female] was very happy .",
+        "she was excited to see her little brother [male] .",
+        "he was n\u0027t quite as thrilled as her thought .",
+        "eventually we had a better time .",
+        "it was really special to get the whole family together for once ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the baby was very happy . he was so excited to see his brother . he was ready to play . he was having a great time . the family was all together .",
+      "normalized_edited_story_text_sent": [
+        "the baby was very happy .",
+        "he was so excited to see his brother .",
+        "he was ready to play .",
+        "he was having a great time .",
+        "the family was all together ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family all got together on a sunday afternoon. it was a fun time. everyone shared a lot of laughs.",
+      "normalized_edited_story_text_sent": [
+        "the family all got together on a sunday afternoon .",
+        "it was a fun time .",
+        "everyone shared a lot of laughs ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "Lisa and David first barbacue was a lot if fun. It was in the front yard with lots of food. Everyone was there. My kids were so happy playing with the other kids in the yard. Everyone had so much fun.",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] first barbacue was a lot if fun .",
+        "it was in the front yard with lots of food .",
+        "everyone was there .",
+        "my kids were so happy playing with the other kids in the yard .",
+        "everyone had so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the baby was super happy . he was so happy to see his brother . he was n\u0027t too excited . he was having a good time . the family was all together .",
+      "normalized_edited_story_text_sent": [
+        "the baby was super happy .",
+        "he was so happy to see his brother .",
+        "he was n\u0027t too excited .",
+        "he was having a good time .",
+        "the family was all together ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594150383025",
+  "model": "GLAC"
+}

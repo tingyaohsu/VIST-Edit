@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4401611692-4400850071-4401662256-4400906911-4400895143",
+  "photo_sequence_ids": [
+    "4401611692",
+    "4400850071",
+    "4401662256",
+    "4400906911",
+    "4400895143"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4009/4401611692_9e377b6c4a_o.jpg",
+    "https://farm3.staticflickr.com/2781/4400850071_979403e56a_o.jpg",
+    "https://farm3.staticflickr.com/2759/4401662256_ba8b150eeb_o.jpg",
+    "https://farm5.staticflickr.com/4043/4400906911_b7d895e795_o.jpg",
+    "https://farm5.staticflickr.com/4029/4400895143_d56aaf0fce_o.jpg"
+  ],
+  "auto_story_text_normalized": "the couple went on a trip to the old cabin . the restaurant had a lot of food . the food was delicious . this is a picture of a building . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to a village. There was a conference on education. We were served a plate of rice. We met in a big house. A presentation was given.",
+      "normalized_edited_story_text_sent": [
+        "we went to a village .",
+        "there was a conference on education .",
+        "we were served a plate of rice .",
+        "we met in a big house .",
+        "a presentation was given ."
+      ]
+    },
+    {
+      "worker_id": "A39PWM9C4U0TEP",
+      "edited_story_text": "The couple went on a trip to an old cabin.  The restaurant nearby had a lot of great food and it was very delicious. This is a picture of the building.  We had a great time meeting other people there.",
+      "normalized_edited_story_text_sent": [
+        "the couple went on a trip to an old cabin .",
+        "the restaurant nearby had a lot of great food and it was very delicious .",
+        "this is a picture of the building .",
+        "we had a great time meeting other people there ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "A couple went for a walk in the old village. There was a sign for a new mentoring project outside one of the buildings. They went to a local restaurant that served up simple but delicious food. There were some more expensive houses across the street. Finally they attended a presentation in a classroom.",
+      "normalized_edited_story_text_sent": [
+        "a couple went for a walk in the old village .",
+        "there was a sign for a new mentoring project outside one of the buildings .",
+        "they went to a local restaurant that served up simple but delicious food .",
+        "there were some more expensive houses across the street .",
+        "finally they attended a presentation in a classroom ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the couple went on a trip to the old cabin . the restaurant had a lot of food . the food was delicious . this is a picture of a building and we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "the couple went on a trip to the old cabin .",
+        "the restaurant had a lot of food .",
+        "the food was delicious .",
+        "this is a picture of a building and we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the old cabin was part of the couple\u0027s travel destinations . the restaurant in [location] had a vast food selection. the food was great, especially the beans and rice . there was a nice looking building . we had a great time at the presentation.",
+      "normalized_edited_story_text_sent": [
+        "the old cabin was part of the couple \u0027s travel destinations .",
+        "the restaurant in [location] had a vast food selection .",
+        "the food was great , especially the beans and rice .",
+        "there was a nice looking building .",
+        "we had a great time at the presentation ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623540522608"
+}

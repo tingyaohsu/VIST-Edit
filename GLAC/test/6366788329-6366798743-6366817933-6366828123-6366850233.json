@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6366788329-6366798743-6366817933-6366828123-6366850233",
+  "photo_sequence_ids": [
+    "6366788329",
+    "6366798743",
+    "6366817933",
+    "6366828123",
+    "6366850233"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was very exciting . the players were very good . the teams were very talented . the cheerleaders were very good . the team was really excited .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the soccer game was very exciting. The players played hard. The two players fought for possession. The game was exciting.",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was very exciting .",
+        "the players played hard .",
+        "the two players fought for possession .",
+        "the game was exciting ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Had a great time rooting for our local soccer team.  They are a little inexperienced but made up for it in gusto.",
+      "normalized_edited_story_text_sent": [
+        "had a great time rooting for our local soccer team .",
+        "they are a little inexperienced but made up for it in gusto ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "David had his first soccer game today. he did so well i think i cannot believe it. he scored two goals. he\u0027s going to be a future ronaldo for sure.",
+      "normalized_edited_story_text_sent": [
+        "[male] had his first soccer game today .",
+        "he did so well i think i can not believe it .",
+        "he scored two goals .",
+        "he \u0027s going to be a future ronaldo for sure ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the soccer game was exciting . the players played to the best of their abilities . the teams developed their talents . the cheerleaders were acrobatic . the crowd was really satisfied .",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was exciting .",
+        "the players played to the best of their abilities .",
+        "the teams developed their talents .",
+        "the cheerleaders were acrobatic .",
+        "the crowd was really satisfied ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the soccer match  was very exciting . the players were very good .",
+      "normalized_edited_story_text_sent": [
+        "the soccer match was very exciting .",
+        "the players were very good ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628058774325",
+  "model": "GLAC"
+}

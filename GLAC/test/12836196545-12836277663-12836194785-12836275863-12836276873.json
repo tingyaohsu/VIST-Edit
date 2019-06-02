@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "12836196545-12836277663-12836194785-12836275863-12836276873",
+  "photo_sequence_ids": [
+    "12836196545",
+    "12836277663",
+    "12836194785",
+    "12836275863",
+    "12836276873"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the park and saw a lot of interesting things . the water was so calm and peaceful . the beach was very empty and cold . the buildings were covered in snow . the roads were clear and the weather was nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "We went on a trip and saw a lot of interesting things. The first village we passed through was very calm and peaceful. However, the park we stopped at wasn\u0027t exactly welcoming - it was so empty and cold. The abandoned buildings we explored spooked me out. We didn\u0027t see very many people on the roads.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip and saw a lot of interesting things .",
+        "the first village we passed through was very calm and peaceful .",
+        "however , the park we stopped at was n\u0027t exactly welcoming - it was so empty and cold .",
+        "the abandoned buildings we explored spooked me out .",
+        "we did n\u0027t see very many people on the roads ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the park and saw a lot of interesting things . there was not water flowing . the beach was very empty and cold . the buildings were covered in snow . the roads were clear and the weather was gloomy .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park and saw a lot of interesting things .",
+        "there was not water flowing .",
+        "the beach was very empty and cold .",
+        "the buildings were covered in snow .",
+        "the roads were clear and the weather was gloomy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "we went to the park and saw a lot of interesting things . The view of the water was amazing . The forest was pretty. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park and saw a lot of interesting things .",
+        "the view of the water was amazing .",
+        "the forest was pretty .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "today we went to the park.  we saw many interesting things.  it was wintery, so the beach was empty and cold.  snow covered the buildings.  but the roads were open and the sky was clear.",
+      "normalized_edited_story_text_sent": [
+        "today we went to the park .",
+        "we saw many interesting things .",
+        "it was wintery , so the beach was empty and cold .",
+        "snow covered the buildings .",
+        "but the roads were open and the sky was clear ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the park and saw a lot of interesting things that day . the water was so calm and peaceful due to no boats being out. the beach was very empty and cold but that didn\u0027t stop us from going . the buildings were covered in snow which was expected due to it being winter . the roads were clear and the weather was nice so we drove fast.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park and saw a lot of interesting things that day .",
+        "the water was so calm and peaceful due to no boats being out .",
+        "the beach was very empty and cold but that did n\u0027t stop us from going .",
+        "the buildings were covered in snow which was expected due to it being winter .",
+        "the roads were clear and the weather was nice so we drove fast ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157641657578444",
+  "model": "GLAC"
+}

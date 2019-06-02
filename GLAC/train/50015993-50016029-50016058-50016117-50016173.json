@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "50015993-50016029-50016058-50016117-50016173",
+  "photo_sequence_ids": [
+    "50015993",
+    "50016029",
+    "50016058",
+    "50016117",
+    "50016173"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the beach . the kids loved the big castle . the old house was beautiful . the garden was full of interesting things . the architecture was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went on a trip to the beach . the kids loved the big castle . the old house was beautiful . the garden was filled with art  . the architecture was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "the kids loved the big castle .",
+        "the old house was beautiful .",
+        "the garden was filled with art .",
+        "the architecture was amazing ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went on a trip to the beach . the kids loved the big castle . the old house was beautiful . the area was full of things to do . the architecture was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "the kids loved the big castle .",
+        "the old house was beautiful .",
+        "the area was full of things to do .",
+        "the architecture was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went on an outing to the lake . the kids liked the big rock landmark . the old tower was gorgeous . the garden was full of interesting plants . the architecture was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "the family went on an outing to the lake .",
+        "the kids liked the big rock landmark .",
+        "the old tower was gorgeous .",
+        "the garden was full of interesting plants .",
+        "the architecture was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went on a trip to the lake . There was a memorial in the park. There is a tall, ornate church. The gate was open. The clock was on the top of the church.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the lake .",
+        "there was a memorial in the park .",
+        "there is a tall , ornate church .",
+        "the gate was open .",
+        "the clock was on the top of the church ."
+      ]
+    },
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the family went on a trip to a park by a river. the kids loved the gazebo. the old house was beautiful, and had a garden that was full of interesting things. the architecture was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to a park by a river .",
+        "the kids loved the gazebo .",
+        "the old house was beautiful , and had a garden that was full of interesting things .",
+        "the architecture was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1085694",
+  "model": "GLAC"
+}

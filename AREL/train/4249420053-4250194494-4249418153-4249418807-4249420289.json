@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4249420053-4250194494-4249418153-4249418807-4249420289",
+  "photo_sequence_ids": [
+    "4249420053",
+    "4250194494",
+    "4249418153",
+    "4249418807",
+    "4249420289"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4065/4249420053_f381031510_o.jpg",
+    "https://farm3.staticflickr.com/2704/4250194494_4b028468b2_o.jpg",
+    "https://farm5.staticflickr.com/4010/4249418153_0d03dfda0d_o.jpg",
+    "https://farm5.staticflickr.com/4006/4249418807_26af798d37_o.jpg",
+    "https://farm3.staticflickr.com/2733/4249420289_caf7e57ea3_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a wedding . the flowers were blooming . this is a picture of a flower . the flowers were so beautiful . some of the flowers were very beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a wedding . the flowers are blooming . this was a picture of a flower . the flowers are so beautiful . some of the flowers are very beautiful .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a wedding .",
+        "the flowers are blooming .",
+        "this was a picture of a flower .",
+        "the flowers are so beautiful .",
+        "some of the flowers are very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "I took a lot of photos of the wedding, especially of the flowers. They all looked amazing. They truly added beauty to an already beautiful event.",
+      "normalized_edited_story_text_sent": [
+        "i took a lot of photos of the wedding , especially of the flowers .",
+        "they all looked amazing .",
+        "they truly added beauty to an already beautiful event ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "This is a picture of a wedding. This is a picture of one type of flower that was blooming.  Some of the flowers were so beautiful, very beautiful.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a wedding .",
+        "this is a picture of one type of flower that was blooming .",
+        "some of the flowers were so beautiful , very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "this is a photo of a wedding . the flowers were in bloom . this is a photo of a flower . the flowers were very pretty . some of the flowers were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "this is a photo of a wedding .",
+        "the flowers were in bloom .",
+        "this is a photo of a flower .",
+        "the flowers were very pretty .",
+        "some of the flowers were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "this is a picture of flowers for the wedding . the flowers were blooming and beautiful.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of flowers for the wedding .",
+        "the flowers were blooming and beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623149579924"
+}

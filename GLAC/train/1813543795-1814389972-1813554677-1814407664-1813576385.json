@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "1813543795-1814389972-1813554677-1814407664-1813576385",
+  "photo_sequence_ids": [
+    "1813543795",
+    "1814389972",
+    "1813554677",
+    "1814407664",
+    "1813576385"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the event was a success . there were many interesting costumes . some people wore funny costumes . the fireworks were very loud . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the event was a success. many people wore interesting costumes. some of the costumes were very funny. the fireworks were very loud. everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the event was a success .",
+        "many people wore interesting costumes .",
+        "some of the costumes were very funny .",
+        "the fireworks were very loud .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the event was a success due to the turnout . there were many interesting costumes and some that look like movie quality. some people wore funny costumes while others had scary costumes . the fireworks were very loud which was to be expected. everyone had a great time due to all the fun people who attended .",
+      "normalized_edited_story_text_sent": [
+        "the event was a success due to the turnout .",
+        "there were many interesting costumes and some that look like movie quality .",
+        "some people wore funny costumes while others had scary costumes .",
+        "the fireworks were very loud which was to be expected .",
+        "everyone had a great time due to all the fun people who attended ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The event was extremely successful. There were many interesting costumes. Some people wore funny costumes. The fireworks were very loud yet exciting. Everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the event was extremely successful .",
+        "there were many interesting costumes .",
+        "some people wore funny costumes .",
+        "the fireworks were very loud yet exciting .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the event was a success . there were many interesting costumes . some people DID NOT WEAR costumes . the fireworks were very loud . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the event was a success .",
+        "there were many interesting costumes .",
+        "some people did not wear costumes .",
+        "the fireworks were very loud .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the event was a success . there were many interesting costumes . some people wore pretty funny costumes . the fireworks were very loud . everyone in the room was dancing.",
+      "normalized_edited_story_text_sent": [
+        "the event was a success .",
+        "there were many interesting costumes .",
+        "some people wore pretty funny costumes .",
+        "the fireworks were very loud .",
+        "everyone in the room was dancing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602825085661",
+  "model": "GLAC"
+}

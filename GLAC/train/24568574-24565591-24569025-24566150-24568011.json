@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "24568574-24565591-24569025-24566150-24568011",
+  "photo_sequence_ids": [
+    "24568574",
+    "24565591",
+    "24569025",
+    "24566150",
+    "24568011"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be at the annual bike show . he was ready for the day . he was very excited to see the band . he was so happy . he was able to get the crowd pumped up .",
+  "edited_stories": [
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "We were all excited to be at the annual bike race. Everyone was ready for the day. I was pumped to compete in the race. I just knew I was going to win. And there we go!",
+      "normalized_edited_story_text_sent": [
+        "we were all excited to be at the annual bike race .",
+        "everyone was ready for the day .",
+        "i was pumped to compete in the race .",
+        "i just knew i was going to win .",
+        "and there we go !"
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "We found a place to wait for the parade . the reporter was ready for the day . .we had to wait behind the gate he was so happy .we watched the people set up .",
+      "normalized_edited_story_text_sent": [
+        "we found a place to wait for the parade .",
+        "the reporter was ready for the day .",
+        "we had to wait behind the gate he was so happy .",
+        "we watched the people set up ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the man was excited to be at the annual bike show .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the annual bike show ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the man was excited to be at the annual bike show. he was ready for the day and excited to see the band. he was so happy. he was able to get the crowd pumped up.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the annual bike show .",
+        "he was ready for the day and excited to see the band .",
+        "he was so happy .",
+        "he was able to get the crowd pumped up ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The announcer seemed excited to be at the annual bike show. He was so ready for the day, and especially to see the band. He was definitely able to get the crowd pumped up.",
+      "normalized_edited_story_text_sent": [
+        "the announcer seemed excited to be at the annual bike show .",
+        "he was so ready for the day , and especially to see the band .",
+        "he was definitely able to get the crowd pumped up ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "561620",
+  "model": "GLAC"
+}

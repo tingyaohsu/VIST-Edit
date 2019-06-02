@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4768349783-4768987148-4768349805-4768987234-4768987298",
+  "photo_sequence_ids": [
+    "4768349783",
+    "4768987148",
+    "4768349805",
+    "4768987234",
+    "4768987298"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be at the game . the players were ready for the game . the coach was getting ready to play . the team was having a great time . the crowd was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be at the game . they all got to play . they learned new skills. the team was having a great time . the crowd was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the game .",
+        "they all got to play .",
+        "they learned new skills .",
+        "the team was having a great time .",
+        "the crowd was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The kids were excited to be at the game and the players were ready for the game. The coach was getting ready to play. The team was having a great time and the crowd was very happy.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the game and the players were ready for the game .",
+        "the coach was getting ready to play .",
+        "the team was having a great time and the crowd was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "Maria posed with the children. The children played at recess and were very energetic. The team had positive interactions with the kids. One of the girls was collection water for her family. The children played very well together.",
+      "normalized_edited_story_text_sent": [
+        "[female] posed with the children .",
+        "the children played at recess and were very energetic .",
+        "the team had positive interactions with the kids .",
+        "one of the girls was collection water for her family .",
+        "the children played very well together ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I\u0027m a missionary visiting an African village and their school. There were a lot of passionate kids who liked to play jump rope and meet new people. A lot of kids play during the day in the school yard as the town is very busy.",
+      "normalized_edited_story_text_sent": [
+        "i \u0027m a missionary visiting an african village and their school .",
+        "there were a lot of passionate kids who liked to play jump rope and meet new people .",
+        "a lot of kids play during the day in the school yard as the town is very busy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited at school. The kids jumped rope in red dresses. The adults talked to the kids. The girl had a bike.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited at school .",
+        "the kids jumped rope in red dresses .",
+        "the adults talked to the kids .",
+        "the girl had a bike ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624437275314",
+  "model": "GLAC"
+}

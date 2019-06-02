@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4265671393-4265671939-4265674513-4266421256-4265676855",
+  "photo_sequence_ids": [
+    "4265671393",
+    "4265671939",
+    "4265674513",
+    "4266421256",
+    "4265676855"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4041/4265671393_f810a5b908_o.jpg",
+    "https://farm3.staticflickr.com/2707/4265671939_34262251a1_o.jpg",
+    "https://farm5.staticflickr.com/4046/4265674513_e35d5bf510_o.jpg",
+    "https://farm5.staticflickr.com/4017/4266421256_467a55257c_o.jpg",
+    "https://farm5.staticflickr.com/4045/4265676855_db382e18cf_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last week . we had a great time together . he was very happy to be there . [male] and [male] had a great time . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I had a great time at the party last week. We had a great time together. My dad was very happy to be there . [male] and [male] had a great time too. Everyone had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "we had a great time together .",
+        "my dad was very happy to be there .",
+        "[male] and [male] had a great time too .",
+        "everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "we have a great time at the party last week . we have a great time together . he is very happy to be there . [male] and [male] have a great time . we have a great time and have a great time .",
+      "normalized_edited_story_text_sent": [
+        "we have a great time at the party last week .",
+        "we have a great time together .",
+        "he is very happy to be there .",
+        "[male] and [male] have a great time .",
+        "we have a great time and have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "i had a great time at the party last week. we had a great time together. Everyone was very happy to be there . [male] and [male] had a great time also. the baby and the woman had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "we had a great time together .",
+        "everyone was very happy to be there .",
+        "[male] and [male] had a great time also .",
+        "the baby and the woman had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "i had a great time at the party last week . I got to have a great time with my boyfriend and two kids . he was very happy to be there . [male] and [male] had a great time . my whole family was there and we had a blast .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "i got to have a great time with my boyfriend and two kids .",
+        "he was very happy to be there .",
+        "[male] and [male] had a great time .",
+        "my whole family was there and we had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A1601UNFFAAQOI",
+      "edited_story_text": "i really enjoyed the wedding last week. we had a great time together watching the happy couple. everyone was very happy to be there for the celebration. [male] and [male] had a wonderful time catching up. we had an excellent experience and made many new memories.",
+      "normalized_edited_story_text_sent": [
+        "i really enjoyed the wedding last week .",
+        "we had a great time together watching the happy couple .",
+        "everyone was very happy to be there for the celebration .",
+        "[male] and [male] had a wonderful time catching up .",
+        "we had an excellent experience and made many new memories ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623064224327"
+}

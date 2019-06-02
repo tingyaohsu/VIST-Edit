@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5128258557-5127682063-5128315933-5130134324-5130763820",
+  "photo_sequence_ids": [
+    "5128258557",
+    "5127682063",
+    "5128315933",
+    "5130134324",
+    "5130763820"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was ready for the meeting . the speaker was about to start the presentation . the director was in the audience . the man was very excited . the women were happy with the performance .",
+  "edited_stories": [
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The office was ready for the meeting about the new masks. The worker was about to start putting the masks together . The glue was added to the mask. The mask was finished. The kid tried it on.",
+      "normalized_edited_story_text_sent": [
+        "the office was ready for the meeting about the new masks .",
+        "the worker was about to start putting the masks together .",
+        "the glue was added to the mask .",
+        "the mask was finished .",
+        "the kid tried it on ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Everyone is the office sat down and was ready for the weekly meeting. The presentation was about to begin while the speaker made their final preparations. Oddly enough, everyone was thrilled about it, both men and the women.",
+      "normalized_edited_story_text_sent": [
+        "everyone is the office sat down and was ready for the weekly meeting .",
+        "the presentation was about to begin while the speaker made their final preparations .",
+        "oddly enough , everyone was thrilled about it , both men and the women ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we had a meeting in the office today.  our director attended.  david, the speaker, was about to start.  he was excited.  lisa and mary were happy with the presentation.",
+      "normalized_edited_story_text_sent": [
+        "we had a meeting in the office today .",
+        "our director attended .",
+        "[male] , the speaker , was about to start .",
+        "he was excited .",
+        "[female] and [female] were happy with the presentation ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "He was putting a mask together. He added pieces to it. The mask had feathers. He was happy to get his finished mask.",
+      "normalized_edited_story_text_sent": [
+        "he was putting a mask together .",
+        "he added pieces to it .",
+        "the mask had feathers .",
+        "he was happy to get his finished mask ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i had a lot of fun making a mask for the party. i paid extra attention to detail while making it.",
+      "normalized_edited_story_text_sent": [
+        "i had a lot of fun making a mask for the party .",
+        "i paid extra attention to detail while making it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625276203234",
+  "model": "GLAC"
+}

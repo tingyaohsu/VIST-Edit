@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "2083852338-2083069031-2083853270-2083853418-2083069751",
+  "photo_sequence_ids": [
+    "2083852338",
+    "2083069031",
+    "2083853270",
+    "2083853418",
+    "2083069751"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very busy . there were many people out on the streets . the buildings were tall . the skyline was beautiful . the city was lit up at night .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was very busy for it being a weekday . there were many people out on the streets looking at the sky . the buildings were tall as well as dark. the skyline was beautiful as the moon crept in . the city was lit up at night due to all the lights .",
+      "normalized_edited_story_text_sent": [
+        "the city was very busy for it being a weekday .",
+        "there were many people out on the streets looking at the sky .",
+        "the buildings were tall as well as dark .",
+        "the skyline was beautiful as the moon crept in .",
+        "the city was lit up at night due to all the lights ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the city was bustling today, with a lot of people out on the streets.  the city had tall buildings making a beautiful skyline.  the skyline was full of lights at night.",
+      "normalized_edited_story_text_sent": [
+        "the city was bustling today , with a lot of people out on the streets .",
+        "the city had tall buildings making a beautiful skyline .",
+        "the skyline was full of lights at night ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the city was very busy . there were many people out on the streets . the buildings were tall . the skyline was beautiful, with the city all lit up at night .",
+      "normalized_edited_story_text_sent": [
+        "the city was very busy .",
+        "there were many people out on the streets .",
+        "the buildings were tall .",
+        "the skyline was beautiful , with the city all lit up at night ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the city was very packed. there were many people out on the busy streets . the buildings were tall . the skyline was beautiful . the city was lit up at night .",
+      "normalized_edited_story_text_sent": [
+        "the city was very packed .",
+        "there were many people out on the busy streets .",
+        "the buildings were tall .",
+        "the skyline was beautiful .",
+        "the city was lit up at night ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the city was very quiet, there were hardly people out on the streets, the buildings were tall the skyline was beautiful, the water was beautiful, the city was lit up at night .",
+      "normalized_edited_story_text_sent": [
+        "the city was very quiet , there were hardly people out on the streets , the buildings were tall the skyline was beautiful , the water was beautiful , the city was lit up at night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603364850497",
+  "model": "GLAC"
+}

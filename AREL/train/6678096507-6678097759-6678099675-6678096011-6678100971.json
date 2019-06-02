@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "6678096507-6678097759-6678099675-6678096011-6678100971",
+  "photo_sequence_ids": [
+    "6678096507",
+    "6678097759",
+    "6678099675",
+    "6678096011",
+    "6678100971"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7157/6678096507_59f74a6b01_o.jpg",
+    "https://farm8.staticflickr.com/7033/6678097759_0bca4a0109_o.jpg",
+    "https://farm8.staticflickr.com/7027/6678099675_7707f4659f_o.jpg",
+    "https://farm8.staticflickr.com/7006/6678096011_c0c24d0de6_o.jpg",
+    "https://farm8.staticflickr.com/7002/6678100971_8c3df08528_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is my favorite place to visit . i bought a lot of food for sale . there were a lot of people there . there was a lot of food available for sale . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "This is my most favorite place to visit. I bought a bunch of food while I was there. There were a lot of people there while I was shopping.There was many different types of food vendors there, they have a great selection! I had a great time there, as always.",
+      "normalized_edited_story_text_sent": [
+        "this is my most favorite place to visit .",
+        "i bought a bunch of food while i was there .",
+        "there were a lot of people there while i was shopping.there was many different types of food vendors there , they have a great selection !",
+        "i had a great time there , as always ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "This is my favorite place to visit! I bought a lot of food on sale. There were a lot of people there today, but there was a lot of food on sale. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is my favorite place to visit !",
+        "i bought a lot of food on sale .",
+        "there were a lot of people there today , but there was a lot of food on sale .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "this is my favorite place to visit . i bought a lot of food for sale . there were a lot of people there . there was a lot of food available for sale . i had a great time getting food and interacting with the locals.",
+      "normalized_edited_story_text_sent": [
+        "this is my favorite place to visit .",
+        "i bought a lot of food for sale .",
+        "there were a lot of people there .",
+        "there was a lot of food available for sale .",
+        "i had a great time getting food and interacting with the locals ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "this is my favorite place to visit . i bought a lot of food for sale . there was a crowd . there was much food available for sale . i had a fun time there .",
+      "normalized_edited_story_text_sent": [
+        "this is my favorite place to visit .",
+        "i bought a lot of food for sale .",
+        "there was a crowd .",
+        "there was much food available for sale .",
+        "i had a fun time there ."
+      ]
+    },
+    {
+      "worker_id": "A1DWJDNFZNQUFC",
+      "edited_story_text": "this is my favorite place to shop . i bought a lot of food . there were many people there . there were a lot of different items for sale . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is my favorite place to shop .",
+        "i bought a lot of food .",
+        "there were many people there .",
+        "there were a lot of different items for sale .",
+        "i had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628821312617"
+}

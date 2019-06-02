@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4946708975-4946710757-4947302306-4947302486-4946713243",
+  "photo_sequence_ids": [
+    "4946708975",
+    "4946710757",
+    "4947302306",
+    "4947302486",
+    "4946713243"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4113/4946708975_b9d3748ae1_o.jpg",
+    "https://farm5.staticflickr.com/4104/4946710757_3312821a2b_o.jpg",
+    "https://farm5.staticflickr.com/4101/4947302306_001ceecef9_o.jpg",
+    "https://farm5.staticflickr.com/4128/4947302486_861bb15063_o.jpg",
+    "https://farm5.staticflickr.com/4105/4946713243_ddc877fe7e_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the football game . it was time for the game to begin . it was a great game . the game was very intense . the fans were very excited to win the game .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "We had fun at the basketball game. it was time for the game to begin . it was a great game . the game was very intense . the fans were very excited to win the game .",
+      "normalized_edited_story_text_sent": [
+        "we had fun at the basketball game .",
+        "it was time for the game to begin .",
+        "it was a great game .",
+        "the game was very intense .",
+        "the fans were very excited to win the game ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We had a great time at the intense basketball game.  It was an awesome win!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the intense basketball game .",
+        "it was an awesome win !"
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We had a great time at the basketball game, and were excited once the game began. Fans were happy to see their favorite players score. We all had lots of fun!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the basketball game , and were excited once the game began .",
+        "fans were happy to see their favorite players score .",
+        "we all had lots of fun !"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We went to a basketball game. Our team played in white jerseys. The opposing team played in orange. The game was intense. The fans were happy we won.",
+      "normalized_edited_story_text_sent": [
+        "we went to a basketball game .",
+        "our team played in white jerseys .",
+        "the opposing team played in orange .",
+        "the game was intense .",
+        "the fans were happy we won ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the football game . it was time for the game to begin and it was a great game . the game was very intense . the fans were very excited to win the game .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the football game .",
+        "it was time for the game to begin and it was a great game .",
+        "the game was very intense .",
+        "the fans were very excited to win the game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625207407464"
+}

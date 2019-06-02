@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5951322289-5951886062-5951335133-5951363113-5951981970",
+  "photo_sequence_ids": [
+    "5951322289",
+    "5951886062",
+    "5951335133",
+    "5951363113",
+    "5951981970"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very old . the red paint was a nice addition to the new job . the cars were in the shape of the vehicle . the white car was a classic . the black tractor was the most popular .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the car was very old . the red paint was a nice addition to the vehicle.",
+      "normalized_edited_story_text_sent": [
+        "the car was very old .",
+        "the red paint was a nice addition to the vehicle ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the car was very old . the red paint was a nice addition to the new job . the cars were in the shape of the vehicle . the white car was a classic . the black tractor was the most popular .\r\rThis car was so old! The new red paint job on this one was, a great addition. They constructed the cars in the shape of the original vehicles. The white car was the classic beauty. This black tractor was the main attraction!",
+      "normalized_edited_story_text_sent": [
+        "the car was very old .",
+        "the red paint was a nice addition to the new job .",
+        "the cars were in the shape of the vehicle .",
+        "the white car was a classic .",
+        "the black tractor was the most popular .",
+        "this car was so old !",
+        "the new red paint job on this one was , a great addition .",
+        "they constructed the cars in the shape of the original vehicles .",
+        "the white car was the classic beauty .",
+        "this black tractor was the main attraction !"
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "So many old and restored jeeps at this convention.  Some of them are showing their age.  Learned a lot from the handouts that were provided.",
+      "normalized_edited_story_text_sent": [
+        "so many old and restored jeeps at this convention .",
+        "some of them are showing their age .",
+        "learned a lot from the handouts that were provided ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we went to a car show today.  one car was a very old classic.  it was white.  there was a new car with nice red paint.  everyone loved the black tractor, which was voted most popular.",
+      "normalized_edited_story_text_sent": [
+        "we went to a car show today .",
+        "one car was a very old classic .",
+        "it was white .",
+        "there was a new car with nice red paint .",
+        "everyone loved the black tractor , which was voted most popular ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "Lisa\u0027s car was very old . David\u0027s red paint was a nice addition to the  Maria\u0027s new job . a car cake was in the shape of the vehicle . Lisa\u0027s white car was a classic . David\u0027s black tractor was the most popular .",
+      "normalized_edited_story_text_sent": [
+        "[female] \u0027s car was very old .",
+        "[male] \u0027s red paint was a nice addition to the [female] \u0027s new job .",
+        "a car cake was in the shape of the vehicle .",
+        "[female] \u0027s white car was a classic .",
+        "[male] \u0027s black tractor was the most popular ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627225981046",
+  "model": "GLAC"
+}

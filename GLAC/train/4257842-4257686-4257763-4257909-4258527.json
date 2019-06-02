@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4257842-4257686-4257763-4257909-4258527",
+  "photo_sequence_ids": [
+    "4257842",
+    "4257686",
+    "4257763",
+    "4257909",
+    "4258527"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on vacation . they visited the location location . they took a picture of the city . they also took a trip to the beach . they saw a lot of cool things .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family went out to eat . they visited the fancy restaurant . they took a picture of their friends. they also took a trip to the lake . they saw a lot of cool boats.",
+      "normalized_edited_story_text_sent": [
+        "the family went out to eat .",
+        "they visited the fancy restaurant .",
+        "they took a picture of their friends .",
+        "they also took a trip to the lake .",
+        "they saw a lot of cool boats ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Men and ladies are at a formal dinner out doors at night everything looks beautiful.",
+      "normalized_edited_story_text_sent": [
+        "men and ladies are at a formal dinner out doors at night everything looks beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family went on a big vacation and they visited the location location . they took a picture of the city . they also took a trip to the beach . they saw a lot of cool things .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a big vacation and they visited the location location .",
+        "they took a picture of the city .",
+        "they also took a trip to the beach .",
+        "they saw a lot of cool things ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went on a vacation together . they visited a foreign place . they took many pictures of the city . they went to the beach as part of the vacation . many cool sights were seen .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a vacation together .",
+        "they visited a foreign place .",
+        "they took many pictures of the city .",
+        "they went to the beach as part of the vacation .",
+        "many cool sights were seen ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the family went on vacation . they visited a nice restaurant  . they took a picture of the bar . they also took a trip to the beach . they saw a lot of cool things .",
+      "normalized_edited_story_text_sent": [
+        "the family went on vacation .",
+        "they visited a nice restaurant .",
+        "they took a picture of the bar .",
+        "they also took a trip to the beach .",
+        "they saw a lot of cool things ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "100423",
+  "model": "GLAC"
+}

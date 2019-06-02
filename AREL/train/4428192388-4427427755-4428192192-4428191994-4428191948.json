@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4428192388-4427427755-4428192192-4428191994-4428191948",
+  "photo_sequence_ids": [
+    "4428192388",
+    "4427427755",
+    "4428192192",
+    "4428191994",
+    "4428191948"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4007/4428192388_e55436f96a_o.jpg",
+    "https://farm3.staticflickr.com/2689/4427427755_1cf99e0647_o.jpg",
+    "https://farm3.staticflickr.com/2234/4428192192_ca34d16e2b_o.jpg",
+    "https://farm3.staticflickr.com/2758/4428191994_c575aef69d_o.jpg",
+    "https://farm5.staticflickr.com/4014/4428191948_1053a97b1e_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the museum today . they had a lot of things to do . he was very impressed with the results of his work . he was very happy to be there . he was very happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "We went to the museum today, they had a lot of things to do. He was very impressed with the results of his work and was very happy to be there. He was very happy to see him.",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum today , they had a lot of things to do .",
+        "he was very impressed with the results of his work and was very happy to be there .",
+        "he was very happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "we went to an economic presentation today. they analyzed a lot of things about money. he was very impressed with the results of his work. he was very happy to share information. he was glad that many people came to see him.",
+      "normalized_edited_story_text_sent": [
+        "we went to an economic presentation today .",
+        "they analyzed a lot of things about money .",
+        "he was very impressed with the results of his work .",
+        "he was very happy to share information .",
+        "he was glad that many people came to see him ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the museum today to see a lecture. the speaker was really great. we were very impressed by his work. it was an interesting presentation.",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum today to see a lecture .",
+        "the speaker was really great .",
+        "we were very impressed by his work .",
+        "it was an interesting presentation ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "he go to the museum today . they have a lot of things to do . he is very impressed with the results of his work . he is very happy to be there . he is very happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "he go to the museum today .",
+        "they have a lot of things to do .",
+        "he is very impressed with the results of his work .",
+        "he is very happy to be there .",
+        "he is very happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "he go to the museum today . they have a lot of things to do . he is very impressed with the results of his work . he is very happy to be there . he is very happy to saw him .",
+      "normalized_edited_story_text_sent": [
+        "he go to the museum today .",
+        "they have a lot of things to do .",
+        "he is very impressed with the results of his work .",
+        "he is very happy to be there .",
+        "he is very happy to saw him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623483419823"
+}

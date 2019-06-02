@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "393748685-393748689-393763253-393763256-393763258",
+  "photo_sequence_ids": [
+    "393748685",
+    "393748689",
+    "393763253",
+    "393763256",
+    "393763258"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow covered the roads . the trees were covered in snow . the dog was excited to be outside . the house was covered with snow . the kids were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "The snow covered the roads. The graffiti was almost covered in snow. The dog was excited to be outside. The fence was covered with snow. David was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the graffiti was almost covered in snow .",
+        "the dog was excited to be outside .",
+        "the fence was covered with snow .",
+        "[male] was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the snow covered the roads . the trees were covered in snow . the dog was excited to be outside . the house was covered with snow . the kids had a great time . we could still see the graffiti art on the fence . it was nice walking in the snow .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the trees were covered in snow .",
+        "the dog was excited to be outside .",
+        "the house was covered with snow .",
+        "the kids had a great time .",
+        "we could still see the graffiti art on the fence .",
+        "it was nice walking in the snow ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the snow covered the roads . the trees were covered in white snow . the puppy was excited to be outside . the house was covered with snow . the kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the trees were covered in white snow .",
+        "the puppy was excited to be outside .",
+        "the house was covered with snow .",
+        "the kids were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "Yesterday there was a snow storm. The snow covered the roads . The trees were covered in snow . My dog was excited to be outside . I walked down the road. I was a house was covered with snow with graffiti on it.  It was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "yesterday there was a snow storm .",
+        "the snow covered the roads .",
+        "the trees were covered in snow .",
+        "my dog was excited to be outside .",
+        "i walked down the road .",
+        "i was a house was covered with snow with graffiti on it .",
+        "it was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Snowed a lot. the snow covered the roads .  the dog was excited to be outside . the driveway was covered in snow.",
+      "normalized_edited_story_text_sent": [
+        "snowed a lot .",
+        "the snow covered the roads .",
+        "the dog was excited to be outside .",
+        "the driveway was covered in snow ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594541874242",
+  "model": "GLAC"
+}

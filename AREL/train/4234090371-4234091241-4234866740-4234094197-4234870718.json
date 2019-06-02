@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4234090371-4234091241-4234866740-4234094197-4234870718",
+  "photo_sequence_ids": [
+    "4234090371",
+    "4234091241",
+    "4234866740",
+    "4234094197",
+    "4234870718"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4032/4234090371_00c10a3fa5_o.jpg",
+    "https://farm5.staticflickr.com/4070/4234091241_9cbc25b5b0_o.jpg",
+    "https://farm5.staticflickr.com/4026/4234866740_91f1d336ce_o.jpg",
+    "https://farm3.staticflickr.com/2544/4234094197_fe71623466_o.jpg",
+    "https://farm3.staticflickr.com/2569/4234870718_02e113e70e_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] and [male] went on a hike in the woods . the beautiful trees were in the forest . this is a picture of a man . the view from the top of the mountain was amazing . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "[female] and [male] went on a hike in the woods . the beautiful trees were in the forest . this is a picture of a man . the view from the top of the mountain was amazing . we had a great time with friends .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] went on a hike in the woods .",
+        "the beautiful trees were in the forest .",
+        "this is a picture of a man .",
+        "the view from the top of the mountain was amazing .",
+        "we had a great time with friends ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "[male] and [male] went on a hike in the woods today. All of the trees in the forest were really beautiful. the view from the top of the mountain was amazing. they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] went on a hike in the woods today .",
+        "all of the trees in the forest were really beautiful .",
+        "the view from the top of the mountain was amazing .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "[Male] and [male] went on a hike in the woods. The beautiful trees were part of a forest. This is a picture of a man they met there. The view from the top of the mountain was amazing. They had a great time.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] went on a hike in the woods .",
+        "the beautiful trees were part of a forest .",
+        "this is a picture of a man they met there .",
+        "the view from the top of the mountain was amazing .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went on a hike in the woods . the beautiful trees were in the forest . this is a picture of a man . the view from the top of the mountain was amazing . we had a great time and a lot of fun",
+      "normalized_edited_story_text_sent": [
+        "we went on a hike in the woods .",
+        "the beautiful trees were in the forest .",
+        "this is a picture of a man .",
+        "the view from the top of the mountain was amazing .",
+        "we had a great time and a lot of fun"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "We went on a hike in the woods. The beautiful trees were in the forest. The forest was beautiful. The view from the top of the mountain was amazing. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hike in the woods .",
+        "the beautiful trees were in the forest .",
+        "the forest was beautiful .",
+        "the view from the top of the mountain was amazing .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622990809751"
+}

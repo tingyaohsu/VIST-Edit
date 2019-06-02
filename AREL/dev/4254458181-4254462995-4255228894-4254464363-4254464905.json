@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4254458181-4254462995-4255228894-4254464363-4254464905",
+  "photo_sequence_ids": [
+    "4254458181",
+    "4254462995",
+    "4255228894",
+    "4254464363",
+    "4254464905"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4024/4254458181_063ca7148b_o.jpg",
+    "https://farm5.staticflickr.com/4052/4254462995_6a7ac4237d_o.jpg",
+    "https://farm3.staticflickr.com/2758/4255228894_1cc7744a92_o.jpg",
+    "https://farm5.staticflickr.com/4038/4254464363_ba31799979_o.jpg",
+    "https://farm5.staticflickr.com/4034/4254464905_a000ea0ede_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party last night . the food was delicious . the food was delicious and the food was delicious . they had a lot of fun . at the end of the night we all went back to the beach .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had an awesome time at the party last night . the food was very tasty . the food was yummy . they had a great time . at the end of the night we all returned to the beach .",
+      "normalized_edited_story_text_sent": [
+        "we had an awesome time at the party last night .",
+        "the food was very tasty .",
+        "the food was yummy .",
+        "they had a great time .",
+        "at the end of the night we all returned to the beach ."
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "we had a great time at the party last night . the food was delicious .  We had a lot of fun and managed to hit the beach",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "the food was delicious .",
+        "we had a lot of fun and managed to hit the beach"
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had so much fun on the beach last night. We had crabs.  The food was  delicious. At the end of the night we all went back to the beach and hung out.",
+      "normalized_edited_story_text_sent": [
+        "we had so much fun on the beach last night .",
+        "we had crabs .",
+        "the food was delicious .",
+        "at the end of the night we all went back to the beach and hung out ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we had a great time at the party last night .There was a lot of food  . they had a lot of fun . at the end of the night we all went back to the beach .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "there was a lot of food .",
+        "they had a lot of fun .",
+        "at the end of the night we all went back to the beach ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "we had a really good time at the party, the food was amazing. At the end of the night we all went back to the beach.",
+      "normalized_edited_story_text_sent": [
+        "we had a really good time at the party , the food was amazing .",
+        "at the end of the night we all went back to the beach ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623162647704"
+}

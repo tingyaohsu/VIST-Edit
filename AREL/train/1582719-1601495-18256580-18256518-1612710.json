@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "1582719-1601495-18256580-18256518-1612710",
+  "photo_sequence_ids": [
+    "1582719",
+    "1601495",
+    "18256580",
+    "18256518",
+    "1612710"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/1582719_8774205292_o.jpg",
+    "https://farm1.staticflickr.com/2/1601495_57cbef6673_o.jpg",
+    "https://farm1.staticflickr.com/13/18256580_77e2e8433e_o.jpg",
+    "https://farm1.staticflickr.com/14/18256518_befd6f05d7_o.jpg",
+    "https://farm1.staticflickr.com/2/1612710_4a0542dd27_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day for a wedding . it was a lot of fun . we all got together for a group photo . the dance floor was filled with people . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "Saturday was a beautiful day for a wedding . I had a lot of fun . we all got together for a group photo and the dance floor was filled with people . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "saturday was a beautiful day for a wedding .",
+        "i had a lot of fun .",
+        "we all got together for a group photo and the dance floor was filled with people .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We flew on an airplane before the sun rose for a wedding. The wedding had a flaming cake. Everyone took a group photo. The dance floor was crowded with people dancing. They had really cool centerpieces made from boots.",
+      "normalized_edited_story_text_sent": [
+        "we flew on an airplane before the sun rose for a wedding .",
+        "the wedding had a flaming cake .",
+        "everyone took a group photo .",
+        "the dance floor was crowded with people dancing .",
+        "they had really cool centerpieces made from boots ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "It was a beautiful day for a wedding. It ended up being a lot of fun. We all got together for a group photo. The dance floor was filled with people. It was a great day .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "it ended up being a lot of fun .",
+        "we all got together for a group photo .",
+        "the dance floor was filled with people .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A15Y215D57OSO5",
+      "edited_story_text": "It was a beautiful day for a wedding and the flight went well. We all took pictures and then attended the wedding. The dance floor was filled with people and everyone had a great time. The centerpieces were cowboy boots flowers.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding and the flight went well .",
+        "we all took pictures and then attended the wedding .",
+        "the dance floor was filled with people and everyone had a great time .",
+        "the centerpieces were cowboy boots flowers ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "It was a beautiful day for a wedding. It was a lot of fun to see the families there. We all got together for a group photo. The dance floor was filled with people. It was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a wedding .",
+        "it was a lot of fun to see the families there .",
+        "we all got together for a group photo .",
+        "the dance floor was filled with people .",
+        "it was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "41585"
+}

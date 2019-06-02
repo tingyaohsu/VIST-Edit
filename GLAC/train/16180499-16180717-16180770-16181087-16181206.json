@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "16180499-16180717-16180770-16181087-16181206",
+  "photo_sequence_ids": [
+    "16180499",
+    "16180717",
+    "16180770",
+    "16181087",
+    "16181206"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a great time . there were so many people that were dressed up . some of them were very old . they were all very fast . they were really good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "people in the parade were dressed up. there were also floats in the parade.  many people lined the streets and enjoyed the parade.",
+      "normalized_edited_story_text_sent": [
+        "people in the parade were dressed up .",
+        "there were also floats in the parade .",
+        "many people lined the streets and enjoyed the parade ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a great time . there were so many people that were dressed up .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a great time .",
+        "there were so many people that were dressed up ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The parade was so much fun. There were so many people dressed up as characters. They all looked really good. It was a great time.",
+      "normalized_edited_story_text_sent": [
+        "the parade was so much fun .",
+        "there were so many people dressed up as characters .",
+        "they all looked really good .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the parade was a great time . there were so many people that were dressed up . Many of them dressed up in starwards costumes . they were all very creative . they were really good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a great time .",
+        "there were so many people that were dressed up .",
+        "many of them dressed up in starwards costumes .",
+        "they were all very creative .",
+        "they were really good ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "We has a great time at the parade. there were so many characters in the parade. some of the characters were from the old days . the parade passed by very quickly . But it was a very well done performance by all .",
+      "normalized_edited_story_text_sent": [
+        "we has a great time at the parade .",
+        "there were so many characters in the parade .",
+        "some of the characters were from the old days .",
+        "the parade passed by very quickly .",
+        "but it was a very well done performance by all ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "388393",
+  "model": "GLAC"
+}

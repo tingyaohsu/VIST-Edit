@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "2079045953-2079836234-2079837028-2079050721-2079054475",
+  "photo_sequence_ids": [
+    "2079045953",
+    "2079836234",
+    "2079837028",
+    "2079050721",
+    "2079054475"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the market was a busy place . there were many different things to choose from . the food was delicious . the vendors were very good . the fruits were fresh and healthy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "the market was crowded that day . there were many different things to choose from . the food was delicious and the smells were enticing. the vendors were very good and the fruits looked very fresh.",
+      "normalized_edited_story_text_sent": [
+        "the market was crowded that day .",
+        "there were many different things to choose from .",
+        "the food was delicious and the smells were enticing .",
+        "the vendors were very good and the fruits looked very fresh ."
+      ]
+    },
+    {
+      "worker_id": "A10249252O9I20MRSOBVF",
+      "edited_story_text": "The market was a busy place. There were many different things to choose from. The food was delicious and the vendors were also very good as the fruits were fresh and healthy.",
+      "normalized_edited_story_text_sent": [
+        "the market was a busy place .",
+        "there were many different things to choose from .",
+        "the food was delicious and the vendors were also very good as the fruits were fresh and healthy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the market was a busy place to be this morning . there were many different things to choose from if you were hungry. the food was delicious and smelled amazing . the vendors were very good at giving samples. the fruits were fresh and healthy as well as being organic.",
+      "normalized_edited_story_text_sent": [
+        "the market was a busy place to be this morning .",
+        "there were many different things to choose from if you were hungry .",
+        "the food was delicious and smelled amazing .",
+        "the vendors were very good at giving samples .",
+        "the fruits were fresh and healthy as well as being organic ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the market was a busy place . there were many different things to choose from .",
+      "normalized_edited_story_text_sent": [
+        "the market was a busy place .",
+        "there were many different things to choose from ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the market was a busy place . there were many different things to choose from . the food at the restaurants were delicious . the outdoor vendors were very good . the fruits were fresh and healthy .",
+      "normalized_edited_story_text_sent": [
+        "the market was a busy place .",
+        "there were many different things to choose from .",
+        "the food at the restaurants were delicious .",
+        "the outdoor vendors were very good .",
+        "the fruits were fresh and healthy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603352064009",
+  "model": "GLAC"
+}

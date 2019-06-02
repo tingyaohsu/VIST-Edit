@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "3495415862-3495426178-3494619793-3495441888-3494627487",
+  "photo_sequence_ids": [
+    "3495415862",
+    "3495426178",
+    "3494619793",
+    "3495441888",
+    "3494627487"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a lot of fun . there were many people graduating . everyone was very excited . the speaker was very motivational . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The graduation ceremony was a great time. There were a lot of graduates and everyone was very excited. The speaker was extremely motivational. Afterwards, we all got together for pictures.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a great time .",
+        "there were a lot of graduates and everyone was very excited .",
+        "the speaker was extremely motivational .",
+        "afterwards , we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the graduation ceremony was a lot of fun . there were many so people graduating . everyone was very excited . the speaker was very intelligent . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "there were many so people graduating .",
+        "everyone was very excited .",
+        "the speaker was very intelligent .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the graduation ceremony was a lot of fun . the girl was happy to be graduating.  there were many people graduating . everyone was very excited . the speaker was very motivational . she smiled for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "the girl was happy to be graduating .",
+        "there were many people graduating .",
+        "everyone was very excited .",
+        "the speaker was very motivational .",
+        "she smiled for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The graduation ceremony was a lot of fun. There were many people graduating and everyone was very excited. The speaker was very motivational. Afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "there were many people graduating and everyone was very excited .",
+        "the speaker was very motivational .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the graduation ceremony was a ton of fun . there were many cool people graduating . everyone was very excited . the speaker was very motivational . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a ton of fun .",
+        "there were many cool people graduating .",
+        "everyone was very excited .",
+        "the speaker was very motivational .",
+        "afterward we all got together for pictures ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625503935527",
+  "model": "GLAC"
+}

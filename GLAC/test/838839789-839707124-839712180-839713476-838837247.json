@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "838839789-839707124-839712180-839713476-838837247",
+  "photo_sequence_ids": [
+    "838839789",
+    "839707124",
+    "839712180",
+    "839713476",
+    "838837247"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . everyone was having a great time . some people had a good time . others were very happy . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the party was great . everyone was having a blast of a time . some people hadn\u0027t had a good time in a while . others were always happy . it was a great evening .",
+      "normalized_edited_story_text_sent": [
+        "the party was great .",
+        "everyone was having a blast of a time .",
+        "some people had n\u0027t had a good time in a while .",
+        "others were always happy .",
+        "it was a great evening ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The party was a lot of fun. Everyone was having a great time, and they were very happy. It was a great night .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was having a great time , and they were very happy .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the party was a lot of fun . everyone was having a great time . some people had a good time . others were very happy . it was a great night .\r\rWe had so much fun at the party! Everyone was having an absolute blast. Mary and John had a wonderful time! Other party goers were overjoyed to be there. It was an awesome night!",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was having a great time .",
+        "some people had a good time .",
+        "others were very happy .",
+        "it was a great night .",
+        "we had so much fun at the party !",
+        "everyone was having an absolute blast .",
+        "[female] and [male] had a wonderful time !",
+        "other party goers were overjoyed to be there .",
+        "it was an awesome night !"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . everyone was having a great time . mary and Maria posed for pics . others laid around . it was a great night .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was having a great time .",
+        "[female] and [female] posed for pics .",
+        "others laid around .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600872071738",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5822651132-5822350514-5822651186-5822651718-5822651354",
+  "photo_sequence_ids": [
+    "5822651132",
+    "5822350514",
+    "5822651186",
+    "5822651718",
+    "5822651354"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the parade . they were dressed up as a clown . the floats were very colorful . the clowns were a bit scary . the children were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we had a very exciting weekend to go out for a parade. everyone was dressed nicely in their robes. there were so many people there. their outfits all looked amazing. the kids and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a very exciting weekend to go out for a parade .",
+        "everyone was dressed nicely in their robes .",
+        "there were so many people there .",
+        "their outfits all looked amazing .",
+        "the kids and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the kids were excited to be in the graduation ceremony . they were dressed up in their caps and gowns . the gowns were very colorful . the clowns were a bit scary . the children were having a great time while getting their diplomas .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the graduation ceremony .",
+        "they were dressed up in their caps and gowns .",
+        "the gowns were very colorful .",
+        "the clowns were a bit scary .",
+        "the children were having a great time while getting their diplomas ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "lisa was excited for the graduation. im so proud to be her mother. she was the valedictorian of her class and made a beautiful speech today. so proud of her!",
+      "normalized_edited_story_text_sent": [
+        "[female] was excited for the graduation .",
+        "im so proud to be her mother .",
+        "she was the valedictorian of her class and made a beautiful speech today .",
+        "so proud of her !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited for graduation. The graduates watched the ceremony. All the parents and family were proud. It was a gorgeous ceremony outside.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for graduation .",
+        "the graduates watched the ceremony .",
+        "all the parents and family were proud .",
+        "it was a gorgeous ceremony outside ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the kids were excited to be in the parade and the graduation . they were dressed up as a clown and also wore robes. the floats were very colorful especially the last one . the clowns were a bit scary but not that scary . the children were having a great time listening to the speaker.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade and the graduation .",
+        "they were dressed up as a clown and also wore robes .",
+        "the floats were very colorful especially the last one .",
+        "the clowns were a bit scary but not that scary .",
+        "the children were having a great time listening to the speaker ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626814267273",
+  "model": "GLAC"
+}

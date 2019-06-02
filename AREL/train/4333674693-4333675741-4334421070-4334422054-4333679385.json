@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4333674693-4333675741-4334421070-4334422054-4333679385",
+  "photo_sequence_ids": [
+    "4333674693",
+    "4333675741",
+    "4334421070",
+    "4334422054",
+    "4333679385"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4070/4333674693_4edeb6a87a_o.jpg",
+    "https://farm5.staticflickr.com/4050/4333675741_8701bc9776_o.jpg",
+    "https://farm3.staticflickr.com/2800/4334421070_60fb90730f_o.jpg",
+    "https://farm5.staticflickr.com/4071/4334422054_c763f8cda4_o.jpg",
+    "https://farm5.staticflickr.com/4036/4333679385_711f4eed65_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a man . people were dressed up for the event . there were a lot of people there . the crowd gathered to watch the event . they were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this man came to greet and meet everyone . people were dressed up for the event . there were a lot of people there . the crowd gathered to watch the event . they were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "this man came to greet and meet everyone .",
+        "people were dressed up for the event .",
+        "there were a lot of people there .",
+        "the crowd gathered to watch the event .",
+        "they were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "yesterday was the festival . the actor arrived my boat. crowds lined up and down the road waiting for his arrival. many people wanted to shake his hand . he talked to a small child. the people were happy to see the actor.",
+      "normalized_edited_story_text_sent": [
+        "yesterday was the festival .",
+        "the actor arrived my boat .",
+        "crowds lined up and down the road waiting for his arrival .",
+        "many people wanted to shake his hand .",
+        "he talked to a small child .",
+        "the people were happy to see the actor ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this was a picture of a man . people are dressed up for the event . there are a lot of people there . the crowd gathering to watch the event . they are very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a man .",
+        "people are dressed up for the event .",
+        "there are a lot of people there .",
+        "the crowd gathering to watch the event .",
+        "they are very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "People were dressed up to welcome the man who arrived on the boat.  The crowd gathered around to watch the man arrive.  He was very personable and greeted everyone.",
+      "normalized_edited_story_text_sent": [
+        "people were dressed up to welcome the man who arrived on the boat .",
+        "the crowd gathered around to watch the man arrive .",
+        "he was very personable and greeted everyone ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of [male]. People dressed up for the event, and there were a lot of people there. The crowd all gathered to watch the event, and they were happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of [male] .",
+        "people dressed up for the event , and there were a lot of people there .",
+        "the crowd all gathered to watch the event , and they were happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623363102898"
+}

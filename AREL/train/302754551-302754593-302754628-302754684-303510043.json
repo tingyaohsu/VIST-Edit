@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "302754551-302754593-302754628-302754684-303510043",
+  "photo_sequence_ids": [
+    "302754551",
+    "302754593",
+    "302754628",
+    "302754684",
+    "303510043"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/113/302754551_ae253aaa41_o.jpg",
+    "https://farm1.staticflickr.com/113/302754593_73df965a2d_o.jpg",
+    "https://farm1.staticflickr.com/105/302754628_18a9ee409b_o.jpg",
+    "https://farm1.staticflickr.com/111/302754684_8c9e15e39f_o.jpg",
+    "https://farm1.staticflickr.com/118/303510043_b7d1026fa7_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to the city to see the sights . there were a lot of people there . there were a lot of people there . there was also a lot of toys . we had a great time at the church .",
+  "edited_stories": [
+    {
+      "worker_id": "A34VIKOCYAW0F3",
+      "edited_story_text": "We went into the city to see the sights. There were so many people and so many stores to shop at with clothes and toys. We also attended church and it was great.",
+      "normalized_edited_story_text_sent": [
+        "we went into the city to see the sights .",
+        "there were so many people and so many stores to shop at with clothes and toys .",
+        "we also attended church and it was great ."
+      ]
+    },
+    {
+      "worker_id": "A28AZTW9BRRPBL",
+      "edited_story_text": "we took a trip to the city to see the sights . there were a lot of people there . there was shopping there . there was also a lot of stuffed animals . we had a great time at the church .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the city to see the sights .",
+        "there were a lot of people there .",
+        "there was shopping there .",
+        "there was also a lot of stuffed animals .",
+        "we had a great time at the church ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "Before we took a trip to the city to see the sights, we went to church and it was great. There were tons of people in the city today. We went to the toy store in the city which had tons of toys to choose from.",
+      "normalized_edited_story_text_sent": [
+        "before we took a trip to the city to see the sights , we went to church and it was great .",
+        "there were tons of people in the city today .",
+        "we went to the toy store in the city which had tons of toys to choose from ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "we took a trip into the city to see some sights . there were a lot of people there. Some of the stores also hada lot of toys . we had a great time at the church we visited.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip into the city to see some sights .",
+        "there were a lot of people there .",
+        "some of the stores also hada lot of toys .",
+        "we had a great time at the church we visited ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We watched the parade ceremony at the military base.  The flag was raised.  We went to the store afterwards and bought a stuff animal dressing in a military outfit.  We also took an interesting picture of the hallway.",
+      "normalized_edited_story_text_sent": [
+        "we watched the parade ceremony at the military base .",
+        "the flag was raised .",
+        "we went to the store afterwards and bought a stuff animal dressing in a military outfit .",
+        "we also took an interesting picture of the hallway ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594384130299"
+}

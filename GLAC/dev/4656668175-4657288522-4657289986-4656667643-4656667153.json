@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4656668175-4657288522-4657289986-4656667643-4656667153",
+  "photo_sequence_ids": [
+    "4656668175",
+    "4657288522",
+    "4657289986",
+    "4656667643",
+    "4656667153"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the birthday party was a lot of fun . there were lots of food . everyone was having a great time . the presents were given . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The birthday party was a lot of fun.  The cupcakes were really good. The family sat around and had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was a lot of fun .",
+        "the cupcakes were really good .",
+        "the family sat around and had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The birthday party was lots of fun. There was lots of food, and everyone had a great time. There were presents, and the whole family was there.",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was lots of fun .",
+        "there was lots of food , and everyone had a great time .",
+        "there were presents , and the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and Lisa thought the birthday party was a lot of fun . there were lots of food . everyone was having a great time . the presents were given . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] thought the birthday party was a lot of fun .",
+        "there were lots of food .",
+        "everyone was having a great time .",
+        "the presents were given .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The birthday party was a lot of fun!  There was lots of food, including cupcakes.  Everyone had a great time.  The presents were given and the whole family was there.",
+      "normalized_edited_story_text_sent": [
+        "the birthday party was a lot of fun !",
+        "there was lots of food , including cupcakes .",
+        "everyone had a great time .",
+        "the presents were given and the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The table was filled with stuff. Cupcakes were baking. People sat and chatted. They had fun.",
+      "normalized_edited_story_text_sent": [
+        "the table was filled with stuff .",
+        "cupcakes were baking .",
+        "people sat and chatted .",
+        "they had fun ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624051098317",
+  "model": "GLAC"
+}

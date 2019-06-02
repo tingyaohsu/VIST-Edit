@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6669424705-6669434503-6669440391-6669441297-6629461767",
+  "photo_sequence_ids": [
+    "6669424705",
+    "6669434503",
+    "6669440391",
+    "6669441297",
+    "6629461767"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the zoo yesterday . there were a lot of animals there . the animals were very big . they were all very interesting . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "We went to the zoo yesterday . there were a lot of animals there . the animals were very large . they were all very interesting and unique. we went home and relaxed.",
+      "normalized_edited_story_text_sent": [
+        "we went to the zoo yesterday .",
+        "there were a lot of animals there .",
+        "the animals were very large .",
+        "they were all very interesting and unique .",
+        "we went home and relaxed ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i went to the zoo yesterday . there were a lot of animals there . the animals were very big . we had so much fun . we were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i went to the zoo yesterday .",
+        "there were a lot of animals there .",
+        "the animals were very big .",
+        "we had so much fun .",
+        "we were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the zoo yesterday . there were a lot of animals there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the zoo yesterday .",
+        "there were a lot of animals there ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and lisa were glad i went to the zoo yesterday . there were a lot of animals there . the animals were very big . they were all very interesting . they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad i went to the zoo yesterday .",
+        "there were a lot of animals there .",
+        "the animals were very big .",
+        "they were all very interesting .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "Yesterday I got to visit the zoo. I got to see so many animals. Some of them were so big. And they were all so very different. But my pets were happy to see me when I got home.",
+      "normalized_edited_story_text_sent": [
+        "yesterday i got to visit the zoo .",
+        "i got to see so many animals .",
+        "some of them were so big .",
+        "and they were all so very different .",
+        "but my pets were happy to see me when i got home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628799634257",
+  "model": "GLAC"
+}

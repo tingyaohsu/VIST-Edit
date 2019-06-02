@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "496411664-496409902-496439853-496405800-496402482",
+  "photo_sequence_ids": [
+    "496411664",
+    "496409902",
+    "496439853",
+    "496405800",
+    "496402482"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/197/496411664_542166cbed_o.jpg",
+    "https://farm1.staticflickr.com/193/496409902_6544fe9c6b_o.jpg",
+    "https://farm1.staticflickr.com/213/496439853_5bc4063290_o.jpg",
+    "https://farm1.staticflickr.com/226/496405800_3f1abd649e_o.jpg",
+    "https://farm1.staticflickr.com/231/496402482_3779b45efc_o.jpg"
+  ],
+  "auto_story_text_normalized": "the kids were ready for the event . there were a lot of people there . they had a lot of fun dancing in the park . there were a lot of people there . there were a lot of people there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "the kids were ready for the event. there were a lot of people there who had a lot of fun dancing in the park. there were a lot of people there.",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready for the event .",
+        "there were a lot of people there who had a lot of fun dancing in the park .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "my best friend and I went to the lilac festival with the kids. we took photos of the lilac bush. there was a nice amount of people there.  parents pushed their kids in strollers as they strolled in the park. it was a beautiful day . we took photos of the kids poised in a tree . we had a great day.",
+      "normalized_edited_story_text_sent": [
+        "my best friend and i went to the lilac festival with the kids .",
+        "we took photos of the lilac bush .",
+        "there was a nice amount of people there .",
+        "parents pushed their kids in strollers as they strolled in the park .",
+        "it was a beautiful day .",
+        "we took photos of the kids poised in a tree .",
+        "we had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "The kids were ready for the event. There were a lot of people looking at flowers. They had a lot of fun dancing in the park. There were a lot of people there.",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready for the event .",
+        "there were a lot of people looking at flowers .",
+        "they had a lot of fun dancing in the park .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "the kids were ready for the event at the arboretum. there were many people there . they all had a lot of fun looking at the beautiful trees and bushes in the park. there were a lot of people taking photographs at the arboretum. there were parents and grandparents pushing baby carriages .",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready for the event at the arboretum .",
+        "there were many people there .",
+        "they all had a lot of fun looking at the beautiful trees and bushes in the park .",
+        "there were a lot of people taking photographs at the arboretum .",
+        "there were parents and grandparents pushing baby carriages ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The kids were ready to go to the event. There were a lot of people there, and they had a lot of fun dancing in the park.",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready to go to the event .",
+        "there were a lot of people there , and they had a lot of fun dancing in the park ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600210655682"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "66920839-66921926-66920689-66921706-66922852",
+  "photo_sequence_ids": [
+    "66920839",
+    "66921926",
+    "66920689",
+    "66921706",
+    "66922852"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/34/66920839_7b721ce7f4_o.jpg",
+    "https://farm1.staticflickr.com/30/66921926_0c6595e114_o.jpg",
+    "https://farm1.staticflickr.com/31/66920689_cb6c12f895_o.jpg",
+    "https://farm1.staticflickr.com/33/66921706_207fe0f956_o.jpg",
+    "https://farm1.staticflickr.com/27/66922852_d5760d41a6_o.jpg"
+  ],
+  "auto_story_text_normalized": "my friend and i went to a halloween party . we had a lot of fun at the party . then he decided to play some games . then , the food was served and everyone was ready to eat . [male] had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "My friend and I went to a halloween party though there weren\u0027t many decorations up. We played some games before the food was served. [Bob] and I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to a halloween party though there were n\u0027t many decorations up .",
+        "we played some games before the food was served .",
+        "[male] and i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "my friend and i went to a halloween party. we had a lot of fun there. we played some games first. then the food was served and everyone was ready to eat. [male] had a great time .",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to a halloween party .",
+        "we had a lot of fun there .",
+        "we played some games first .",
+        "then the food was served and everyone was ready to eat .",
+        "[male] had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "my friend and i went to a halloween party . we had a lot of fun . then, he decided to play some games . then , the food was served. everyone was ready to eat . [male] had a great time .",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to a halloween party .",
+        "we had a lot of fun .",
+        "then , he decided to play some games .",
+        "then , the food was served .",
+        "everyone was ready to eat .",
+        "[male] had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2GMFKPE64NQQC",
+      "edited_story_text": "My friend and I went to a party. We had a lot of fun at the party, especially playing with the cat. Then, we decided to play eat. The salad was served, so we sat down to eat. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to a party .",
+        "we had a lot of fun at the party , especially playing with the cat .",
+        "then , we decided to play eat .",
+        "the salad was served , so we sat down to eat .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "My friend and I went to a Halloween party. We had a lot of fun at the party. He loved playing with their cat. Then, the food was served and everyone was ready to eat. [Josh] fell asleep with the cat.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to a halloween party .",
+        "we had a lot of fun at the party .",
+        "he loved playing with their cat .",
+        "then , the food was served and everyone was ready to eat .",
+        "[male] fell asleep with the cat ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1444744"
+}

@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "5216886582-5196696379-5192527783-5200644138-5193919096",
+  "photo_sequence_ids": [
+    "5216886582",
+    "5196696379",
+    "5192527783",
+    "5200644138",
+    "5193919096"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was happy to be at the wedding . she was so excited to be married . the groom was very happy . the bride was very happy . the couple was also in attendance .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "She was so pretty. she has that smile that can stop light up a room. Sarah loves her very much and gave her a kiss.",
+      "normalized_edited_story_text_sent": [
+        "she was so pretty .",
+        "she has that smile that can stop light up a room .",
+        "sarah loves her very much and gave her a kiss ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the award ceremony was really nice. we got some great pictures of the girls ready to celebrate their big day. we\u0027re all so proud of them!",
+      "normalized_edited_story_text_sent": [
+        "the award ceremony was really nice .",
+        "we got some great pictures of the girls ready to celebrate their big day .",
+        "we \u0027re all so proud of them !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the woman was glad to pose for pictures. her smile was glowing.",
+      "normalized_edited_story_text_sent": [
+        "the woman was glad to pose for pictures .",
+        "her smile was glowing ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The bride was happy to be at the wedding, and she was so excited to be married. The groom and bride were both very happy, and in attendance.",
+      "normalized_edited_story_text_sent": [
+        "the bride was happy to be at the wedding , and she was so excited to be married .",
+        "the groom and bride were both very happy , and in attendance ."
+      ]
+    },
+    {
+      "worker_id": "A2RLL9U1JBY31Q",
+      "edited_story_text": "The lady was happy to be at the wedding. She was so excited to be getting married. The bride was very happy. The other bride was very happy. The couple was also in attendance.",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the wedding .",
+        "she was so excited to be getting married .",
+        "the bride was very happy .",
+        "the other bride was very happy .",
+        "the couple was also in attendance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625429482242",
+  "model": "GLAC"
+}

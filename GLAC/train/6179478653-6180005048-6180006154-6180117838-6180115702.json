@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "6179478653-6180005048-6180006154-6180117838-6180115702",
+  "photo_sequence_ids": [
+    "6179478653",
+    "6180005048",
+    "6180006154",
+    "6180117838",
+    "6180115702"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom pose for a picture . the bride and groom pose with their parents . the couple poses together . the happy couple poses . the family is gathered to celebrate .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the bride and groom stopped to pose for a picture. the bride and groom posed for a picture with their parents too. the couple posed together for another picture. the happy couple posed for more pictures. the family is together to celebrate the happy couple\u0027s wedding.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom stopped to pose for a picture .",
+        "the bride and groom posed for a picture with their parents too .",
+        "the couple posed together for another picture .",
+        "the happy couple posed for more pictures .",
+        "the family is together to celebrate the happy couple \u0027s wedding ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "homecoming was a huge hit. everyone had a grand time.",
+      "normalized_edited_story_text_sent": [
+        "homecoming was a huge hit .",
+        "everyone had a grand time ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The bride and groom pose for pictures. They happily pose with their parents and with other wedding guests. The family is gathered to celebrate .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom pose for pictures .",
+        "they happily pose with their parents and with other wedding guests .",
+        "the family is gathered to celebrate ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "homecoming was so much fun! my dress was perfect, and robert was really sweet. i got to go with lisa and mary, just like we always said we would. we all had really great dates. i can\u0027t wait until the winter formal!",
+      "normalized_edited_story_text_sent": [
+        "homecoming was so much fun !",
+        "my dress was perfect , and [male] was really sweet .",
+        "i got to go with [female] and [female] , just like we always said we would .",
+        "we all had really great dates .",
+        "i ca n\u0027t wait until the winter formal !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "Everyone was dressed for the dance. He gave her a flower. The girls looked pretty. Everyone posed before they left for the dance.",
+      "normalized_edited_story_text_sent": [
+        "everyone was dressed for the dance .",
+        "he gave her a flower .",
+        "the girls looked pretty .",
+        "everyone posed before they left for the dance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627621433723",
+  "model": "GLAC"
+}

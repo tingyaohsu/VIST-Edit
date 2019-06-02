@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4261409138-4260655605-4261410900-4260657579-4260661623",
+  "photo_sequence_ids": [
+    "4261409138",
+    "4260655605",
+    "4261410900",
+    "4260657579",
+    "4260661623"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2764/4261409138_6170e1f361_o.jpg",
+    "https://farm5.staticflickr.com/4058/4260655605_892b246b17_o.jpg",
+    "https://farm3.staticflickr.com/2680/4261410900_f88116a836_o.jpg",
+    "https://farm5.staticflickr.com/4044/4260657579_228cf14d94_o.jpg",
+    "https://farm3.staticflickr.com/2759/4260661623_3a5fcd3049_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park yesterday . there were many beautiful flowers . even the dog was very friendly . the flowers in the garden were very beautiful . the wildlife was very interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to the park. My dog was with me. We played together. There were many beautiful flowers. There were a lot of new trees.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park .",
+        "my dog was with me .",
+        "we played together .",
+        "there were many beautiful flowers .",
+        "there were a lot of new trees ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "I went to the park yesterday. I saw many beautiful flowers there. I even saw a dog that was very friendly. The flowers in the garden were very beautiful. And the trees were very interesting.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "i saw many beautiful flowers there .",
+        "i even saw a dog that was very friendly .",
+        "the flowers in the garden were very beautiful .",
+        "and the trees were very interesting ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "I went to the park yesterday. There were many beautiful flowers there and even the dog was very friendly. The flowers in the garden were particularly beautiful. The wildlife was very interesting.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were many beautiful flowers there and even the dog was very friendly .",
+        "the flowers in the garden were particularly beautiful .",
+        "the wildlife was very interesting ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the park yesterday. There were many beautiful flowers, and I met a friendly dog. I loved the beautiful flowers, and the wildlife was so interesting.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were many beautiful flowers , and i met a friendly dog .",
+        "i loved the beautiful flowers , and the wildlife was so interesting ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "i went to the park with my dog yesterday. there were many beautiful flowers. we met a dog who was very friendly. \rthe tulips in purple and daffodils in yellow were just breathtaking. the local land management was aesthetically pleasing.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park with my dog yesterday .",
+        "there were many beautiful flowers .",
+        "we met a dog who was very friendly .",
+        "the tulips in purple and daffodils in yellow were just breathtaking .",
+        "the local land management was aesthetically pleasing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623052897651"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "860172-860175-860182-860189-860191",
+  "photo_sequence_ids": [
+    "860172",
+    "860175",
+    "860182",
+    "860189",
+    "860191"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was a beautiful event . the bride and groom were very happy . the bride and groom were so happy . the couple were having a great time . the marriage was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy . the bride and groom were so happy . the family was proud . the wedding was a success .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the bride and groom were so happy .",
+        "the family was proud .",
+        "the wedding was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was a great event . the bride and groom were elated . the bride and groom were happy to be committed . the couple was dancing and having fun . the marriage ceremony was successful .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a great event .",
+        "the bride and groom were elated .",
+        "the bride and groom were happy to be committed .",
+        "the couple was dancing and having fun .",
+        "the marriage ceremony was successful ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Jane and Jake\u0027s wedding was a beautiful event . Jane and Jake were very happy that their family came . the bride and groom were so happy to have gotten married. the couple were having a great time and celebrated with everyone . the marriage was a success .",
+      "normalized_edited_story_text_sent": [
+        "jane and jake \u0027s wedding was a beautiful event .",
+        "jane and jake were very happy that their family came .",
+        "the bride and groom were so happy to have gotten married .",
+        "the couple were having a great time and celebrated with everyone .",
+        "the marriage was a success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TXCO12MCTP8P",
+      "edited_story_text": "My friends Helen and Tom got married last Saturday. It was a small affair, but the wedding was beautiful. Helen\u0027s uncle officiated at the event, and everyone could see that the bride and groom were very happy. The ceremony took place at Helen\u0027s home, and the reception was in the backyard. It was a very blessed event, and I\u0027m sure they will have everlasting joy.",
+      "normalized_edited_story_text_sent": [
+        "my friends helen and tom got married last saturday .",
+        "it was a small affair , but the wedding was beautiful .",
+        "helen \u0027s uncle officiated at the event , and everyone could see that the bride and groom were very happy .",
+        "the ceremony took place at helen \u0027s home , and the reception was in the backyard .",
+        "it was a very blessed event , and i \u0027m sure they will have everlasting joy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "22059",
+  "model": "GLAC"
+}

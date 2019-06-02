@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5698417550-5697848519-5698427664-5697887413-5697892207",
+  "photo_sequence_ids": [
+    "5698417550",
+    "5697848519",
+    "5698427664",
+    "5697887413",
+    "5697892207"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2298/5698417550_619639a0f3_o.jpg",
+    "https://farm6.staticflickr.com/5062/5697848519_fae02c706b_o.jpg",
+    "https://farm6.staticflickr.com/5225/5698427664_80f549ca6f_o.jpg",
+    "https://farm4.staticflickr.com/3323/5697887413_91e0f7fc73_o.jpg",
+    "https://farm6.staticflickr.com/5145/5697892207_901dbe3f13_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends went to a convention . people were able to make a difference . we had a lot of fun talking to each other . we had a lot of fun . we all had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "a group of friends went to a convention at [location]. people were able to make a difference by talking to the attendees . we had a good time just by talking . it was fun for us to see different things . it was great to see the different tables.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went to a convention at [location] .",
+        "people were able to make a difference by talking to the attendees .",
+        "we had a good time just by talking .",
+        "it was fun for us to see different things .",
+        "it was great to see the different tables ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "a group of friends went to a festival . people were able to make a difference . we had a lot of fun talking to each other .  we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went to a festival .",
+        "people were able to make a difference .",
+        "we had a lot of fun talking to each other .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "a group of friends went to a convention . people were able to make a difference, and we had a lot of fun talking to each other . it was a great time.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went to a convention .",
+        "people were able to make a difference , and we had a lot of fun talking to each other .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "we went to an open air green festival with a group of friends.there were many booths selling plants and herbs.[Tom] and Marie bought a tomato plant. my daughter and i took a photo together. a family poised together at their booth. we had great day .",
+      "normalized_edited_story_text_sent": [
+        "we went to an open air green festival with a group of friends.there were many booths selling plants and herbs .",
+        "[male] and marie bought a tomato plant .",
+        "my daughter and i took a photo together .",
+        "a family poised together at their booth .",
+        "we had great day ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "A group of friends and I went to a rally. I really think our presence made a difference and we all had a great time talking to each other. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends and i went to a rally .",
+        "i really think our presence made a difference and we all had a great time talking to each other .",
+        "it was a great day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626582851995"
+}

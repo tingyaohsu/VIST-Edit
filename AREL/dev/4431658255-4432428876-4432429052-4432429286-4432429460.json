@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4431658255-4432428876-4432429052-4432429286-4432429460",
+  "photo_sequence_ids": [
+    "4431658255",
+    "4432428876",
+    "4432429052",
+    "4432429286",
+    "4432429460"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4005/4431658255_9c5d3f0d41_o.jpg",
+    "https://farm3.staticflickr.com/2679/4432428876_02ca429cc4_o.jpg",
+    "https://farm3.staticflickr.com/2799/4432429052_0f4011f8b1_o.jpg",
+    "https://farm3.staticflickr.com/2692/4432429286_347c8d84de_o.jpg",
+    "https://farm5.staticflickr.com/4069/4432429460_c065a51697_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the market today . i bought a lot of vegetables . they were very tasty . there were many things to choose from . i made sure to make sure everything was ready to be done .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "i went to the market today . i bought a lot of vegetables and they were very tasty . there were many things to choose from . There were lots of bread and pumpkins and potatoes.  i was excited to pick something new",
+      "normalized_edited_story_text_sent": [
+        "i went to the market today .",
+        "i bought a lot of vegetables and they were very tasty .",
+        "there were many things to choose from .",
+        "there were lots of bread and pumpkins and potatoes .",
+        "i was excited to pick something new"
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "Today I went to the market. There was a large variety of foods to choose from and I ended up purchasing a lot of vegetables. They were very tasty and I made sure everything I bought was ready to cook.",
+      "normalized_edited_story_text_sent": [
+        "today i went to the market .",
+        "there was a large variety of foods to choose from and i ended up purchasing a lot of vegetables .",
+        "they were very tasty and i made sure everything i bought was ready to cook ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the market today for food . i bought many vegetables . they were delicious . there were many things from which to choose. i made sure to verify everything was ready to be done .",
+      "normalized_edited_story_text_sent": [
+        "i went to the market today for food .",
+        "i bought many vegetables .",
+        "they were delicious .",
+        "there were many things from which to choose .",
+        "i made sure to verify everything was ready to be done ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to an outdoor market. There were lots of baked goods, including pastries. Autumn vegetables were ready. There were small pumpkins. Many things were available to buy.",
+      "normalized_edited_story_text_sent": [
+        "i went to an outdoor market .",
+        "there were lots of baked goods , including pastries .",
+        "autumn vegetables were ready .",
+        "there were small pumpkins .",
+        "many things were available to buy ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "today i made a stop at the market . i bought a lot of vegetables and looked at some bread . everything was pretty delicious . there was quite a variety of selections at the market . i thoroughly examined everything to see if they were ready to eat.",
+      "normalized_edited_story_text_sent": [
+        "today i made a stop at the market .",
+        "i bought a lot of vegetables and looked at some bread .",
+        "everything was pretty delicious .",
+        "there was quite a variety of selections at the market .",
+        "i thoroughly examined everything to see if they were ready to eat ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623493523479"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5136284840-5136284946-5135683907-5135684131-5136285812",
+  "photo_sequence_ids": [
+    "5136284840",
+    "5136284946",
+    "5135683907",
+    "5135684131",
+    "5136285812"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bikers were getting ready for the race . the racers were neck and neck . the race was very close . the winner was very happy . the winners were presented .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The bikers were getting ready for the race . The couple was on the bike together . The kids rode bikes in the street. Two women were in costumes.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for the race .",
+        "the couple was on the bike together .",
+        "the kids rode bikes in the street .",
+        "two women were in costumes ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bikers were getting ready for the race . the racers were dressed in costumes . the race was very close . the winner was very happy . the winners were presented .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for the race .",
+        "the racers were dressed in costumes .",
+        "the race was very close .",
+        "the winner was very happy .",
+        "the winners were presented ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bikers were getting ready for take off . the race had competitors neck and neck . a very close race was decided . the winner was ecstatic . the winners were presented in a closing ceremony .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for take off .",
+        "the race had competitors neck and neck .",
+        "a very close race was decided .",
+        "the winner was ecstatic .",
+        "the winners were presented in a closing ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "bikers of all ages prepared for the race . while biking on the course, they traveled neck and neck . the race was very close . we were happy for the winners when they were presented .",
+      "normalized_edited_story_text_sent": [
+        "bikers of all ages prepared for the race .",
+        "while biking on the course , they traveled neck and neck .",
+        "the race was very close .",
+        "we were happy for the winners when they were presented ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The bikers were at first just getting ready for the race. Then towards the middle, the racers were neck and neck. It ended up being a really, really close race. Then the winner was presented, and they were really happy about winning.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were at first just getting ready for the race .",
+        "then towards the middle , the racers were neck and neck .",
+        "it ended up being a really , really close race .",
+        "then the winner was presented , and they were really happy about winning ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625163885359",
+  "model": "GLAC"
+}

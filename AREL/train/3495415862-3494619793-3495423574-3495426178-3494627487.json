@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "3495415862-3494619793-3495423574-3495426178-3494627487",
+  "photo_sequence_ids": [
+    "3495415862",
+    "3494619793",
+    "3495423574",
+    "3495426178",
+    "3494627487"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3647/3495415862_e2ee6400e4_o.jpg",
+    "https://farm4.staticflickr.com/3413/3494619793_75088bde32_o.jpg",
+    "https://farm4.staticflickr.com/3581/3495423574_cf2aa7e55d_o.jpg",
+    "https://farm4.staticflickr.com/3641/3495426178_db64e5f10c_o.jpg",
+    "https://farm4.staticflickr.com/3547/3494627487_fe9b33cbc8_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day . the audience was very excited . he was very happy to be there . some of the students were very happy to be there . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "Today was the big day. The audience was very excited to see the ceremony.  My friend was very happy to be there. The students cheered each time someone got their diplomas.",
+      "normalized_edited_story_text_sent": [
+        "today was the big day .",
+        "the audience was very excited to see the ceremony .",
+        "my friend was very happy to be there .",
+        "the students cheered each time someone got their diplomas ."
+      ]
+    },
+    {
+      "worker_id": "A1PBRKFHSF1OF8",
+      "edited_story_text": "today was the day . the audience was very excited and he was very happy to be there . The rest of the students were very happy to be there . We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "today was the day .",
+        "the audience was very excited and he was very happy to be there .",
+        "the rest of the students were very happy to be there .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "today was the day of my friend\u0027s graduation. She was very happy that her brother came. The students were excited to finally be graduating. i had a great time going to see the ceremony.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of my friend \u0027s graduation .",
+        "she was very happy that her brother came .",
+        "the students were excited to finally be graduating .",
+        "i had a great time going to see the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I was ready for this day. The crowd was waiting with anticipation. [male] was happy to be there with me. Other students were happy and posed with me. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i was ready for this day .",
+        "the crowd was waiting with anticipation .",
+        "[male] was happy to be there with me .",
+        "other students were happy and posed with me .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "today was graduation day. the audience was very excited  for us. My brother was very happy to be there. my mother and son were also very happy to be there . i had a great time there when I crossed the stage.",
+      "normalized_edited_story_text_sent": [
+        "today was graduation day .",
+        "the audience was very excited for us .",
+        "my brother was very happy to be there .",
+        "my mother and son were also very happy to be there .",
+        "i had a great time there when i crossed the stage ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625503935527"
+}

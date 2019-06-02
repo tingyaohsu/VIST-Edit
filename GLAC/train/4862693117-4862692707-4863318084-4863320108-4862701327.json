@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4862693117-4862692707-4863318084-4863320108-4862701327",
+  "photo_sequence_ids": [
+    "4862693117",
+    "4862692707",
+    "4863318084",
+    "4863320108",
+    "4862701327"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the carnival was in town . the kids were excited to be there . the children were having a great time . the costumes were amazing . the architecture was cool .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "We were glad the carnival was in town. The kids were really, really excited to be there, and were having a great time! ANd wow, the costumes were amazing. The architecture was cool too, and interesting.",
+      "normalized_edited_story_text_sent": [
+        "we were glad the carnival was in town .",
+        "the kids were really , really excited to be there , and were having a great time !",
+        "and wow , the costumes were amazing .",
+        "the architecture was cool too , and interesting ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the carnival was in town . There were lots of people. There was jewelry with charms. There was graffiti on a wall.",
+      "normalized_edited_story_text_sent": [
+        "the carnival was in town .",
+        "there were lots of people .",
+        "there was jewelry with charms .",
+        "there was graffiti on a wall ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the carnival was visiting town . kids were hyper about going . the children had so much fun . the costumes amazed and amused . cool architecture was also displayed .",
+      "normalized_edited_story_text_sent": [
+        "the carnival was visiting town .",
+        "kids were hyper about going .",
+        "the children had so much fun .",
+        "the costumes amazed and amused .",
+        "cool architecture was also displayed ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "The children were excited because the carnival was in town that week. The children had fun because they got to see cool architecture and costumes.",
+      "normalized_edited_story_text_sent": [
+        "the children were excited because the carnival was in town that week .",
+        "the children had fun because they got to see cool architecture and costumes ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The Chinese Dragon Festival was in town. There were dragon decorations, stands selling plush animals and vendors selling pig ornaments. All this took place downtown.",
+      "normalized_edited_story_text_sent": [
+        "the chinese dragon festival was in town .",
+        "there were dragon decorations , stands selling plush animals and vendors selling pig ornaments .",
+        "all this took place downtown ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624534607747",
+  "model": "GLAC"
+}

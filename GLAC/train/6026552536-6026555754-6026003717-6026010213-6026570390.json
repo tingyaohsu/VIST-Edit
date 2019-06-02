@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "6026552536-6026555754-6026003717-6026010213-6026570390",
+  "photo_sequence_ids": [
+    "6026552536",
+    "6026555754",
+    "6026003717",
+    "6026010213",
+    "6026570390"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he was a bit nervous . he was not too happy . he was a little nervous . he was a good leader .",
+  "edited_stories": [
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the speaker was very smart . he was a bit nervous but very positive . he was not too happy  but graceful. he was a little nervous . he was a good leader .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very smart .",
+        "he was a bit nervous but very positive .",
+        "he was not too happy but graceful .",
+        "he was a little nervous .",
+        "he was a good leader ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the speaker was very knowledgeable, but nervous. he was not too happy, but he was a good leader.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable , but nervous .",
+        "he was not too happy , but he was a good leader ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker knew a lot about the topic . he was slightly nervous . he was not too happy about his speech . he thought he was too nervous . despite his mediocre speech, he was a good leader .",
+      "normalized_edited_story_text_sent": [
+        "the speaker knew a lot about the topic .",
+        "he was slightly nervous .",
+        "he was not too happy about his speech .",
+        "he thought he was too nervous .",
+        "despite his mediocre speech , he was a good leader ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "David sang his first solo performance at the church choir today. He did so well but i know he was a little nervous. he led the choir in four different songs i\u0027m so proud of him.",
+      "normalized_edited_story_text_sent": [
+        "[male] sang his first solo performance at the church choir today .",
+        "he did so well but i know he was a little nervous .",
+        "he led the choir in four different songs i \u0027m so proud of him ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "The speaker at the event was quite smart. Though, admittedly a bit nervous. Another guy was not to happy about this. And the band leader was nervous as well. All very good though, especially the last speaker, he was a good leader.",
+      "normalized_edited_story_text_sent": [
+        "the speaker at the event was quite smart .",
+        "though , admittedly a bit nervous .",
+        "another guy was not to happy about this .",
+        "and the band leader was nervous as well .",
+        "all very good though , especially the last speaker , he was a good leader ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627270728793",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5632560905-5632581653-5633200836-5632626737-5632661781",
+  "photo_sequence_ids": [
+    "5632560905",
+    "5632581653",
+    "5633200836",
+    "5632626737",
+    "5632661781"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the art gallery yesterday . there were a lot of people there . they had a great time . some of them were very talented . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i went to the art gallery yesterday to see the photos . there were a lot of people there including some of my friends . they had a great time and wanted to go again next week . some of them were very talented artists themselves . afterward we all got together for pictures and talked some .",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery yesterday to see the photos .",
+        "there were a lot of people there including some of my friends .",
+        "they had a great time and wanted to go again next week .",
+        "some of them were very talented artists themselves .",
+        "afterward we all got together for pictures and talked some ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "i went to a BBQ . there were a lot of people there . they had a great time . some of them were drunk . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "i went to a bbq .",
+        "there were a lot of people there .",
+        "they had a great time .",
+        "some of them were drunk .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i went to a art demonstration last night . it was crowded . they all had a good time . some artists were a talented bunch . afterwards, we all took group photos .",
+      "normalized_edited_story_text_sent": [
+        "i went to a art demonstration last night .",
+        "it was crowded .",
+        "they all had a good time .",
+        "some artists were a talented bunch .",
+        "afterwards , we all took group photos ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "i went to the art gallery yesterday. there was a huge turnout! everyone really seemed to enjoy the interactive exhibits. i can\u0027t wait to go back.",
+      "normalized_edited_story_text_sent": [
+        "i went to the art gallery yesterday .",
+        "there was a huge turnout !",
+        "everyone really seemed to enjoy the interactive exhibits .",
+        "i ca n\u0027t wait to go back ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "David and I went to the art exhibit last night.  Even though the place was packed, we still had fun.  We saw a lot of great pieces of art.  We all took a group photo at the end.",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to the art exhibit last night .",
+        "even though the place was packed , we still had fun .",
+        "we saw a lot of great pieces of art .",
+        "we all took a group photo at the end ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626403967007",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5246926106-5246327177-5246926996-5246326441-5246933152",
+  "photo_sequence_ids": [
+    "5246926106",
+    "5246327177",
+    "5246926996",
+    "5246326441",
+    "5246933152"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing a gig . the drummer was very talented . the guitarist played a solo . the drummer was a good singer . the crowd loved the performance .",
+  "edited_stories": [
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The band was playing a gig. The drummer was very talented and a good singer.  The guitarist played a solo.  The crowd loved the performance.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the drummer was very talented and a good singer .",
+        "the guitarist played a solo .",
+        "the crowd loved the performance ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "We were watching the band as they were playing a gig. the  band\u0027s drummer was very talented. later in the set, the guitarist played a solo. the drummer was also a good singer. the crowd really loved the band\u0027s performance.",
+      "normalized_edited_story_text_sent": [
+        "we were watching the band as they were playing a gig .",
+        "the band \u0027s drummer was very talented .",
+        "later in the set , the guitarist played a solo .",
+        "the drummer was also a good singer .",
+        "the crowd really loved the band \u0027s performance ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the instruments were ready for the gig . the guitarist was very talented . the keyboard player played a solo . the band even had an accordion player . the crowd loved the performance .",
+      "normalized_edited_story_text_sent": [
+        "the instruments were ready for the gig .",
+        "the guitarist was very talented .",
+        "the keyboard player played a solo .",
+        "the band even had an accordion player .",
+        "the crowd loved the performance ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the band was performing . the drummer\u0027s skills showed in the gig . the guitarist had a solo part . the drummer was also good at singing . the crowd loved the group .",
+      "normalized_edited_story_text_sent": [
+        "the band was performing .",
+        "the drummer \u0027s skills showed in the gig .",
+        "the guitarist had a solo part .",
+        "the drummer was also good at singing .",
+        "the crowd loved the group ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the band was playing a gig . The band was on stage. She played an accordion. The concert was at night.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the band was on stage .",
+        "she played an accordion .",
+        "the concert was at night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625437769119",
+  "model": "GLAC"
+}

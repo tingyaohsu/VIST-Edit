@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4524624481-4535688665-4536382334-4452680629-4458779553",
+  "photo_sequence_ids": [
+    "4524624481",
+    "4535688665",
+    "4536382334",
+    "4452680629",
+    "4458779553"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very sleek . the model was a nice addition to the car . the man was not sure what he was doing . the red one was the best . the white was the most expensive .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the car was very sleek . the model was a nice addition to the car . BUT EVERYONE PAID MORE ATTENTION TO HER THAN THE CAR. . the red PAINT JOB WAS VERY SPORT. IT IS A NICE LOOKING CAR.",
+      "normalized_edited_story_text_sent": [
+        "the car was very sleek .",
+        "the model was a nice addition to the car .",
+        "but everyone paid more attention to her than the car .",
+        "the red paint job was very sport .",
+        "it is a nice looking car ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the car was very shiny . the model standing by the car was nice . a man was not sure what he liked most . the red car was the best received . the white car was the highest priced vehicle .",
+      "normalized_edited_story_text_sent": [
+        "the car was very shiny .",
+        "the model standing by the car was nice .",
+        "a man was not sure what he liked most .",
+        "the red car was the best received .",
+        "the white car was the highest priced vehicle ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The car and the model were both very sexy.",
+      "normalized_edited_story_text_sent": [
+        "the car and the model were both very sexy ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The cars were very sleek.  The red one was the best one and check out the model showing it!  White version costs the most.",
+      "normalized_edited_story_text_sent": [
+        "the cars were very sleek .",
+        "the red one was the best one and check out the model showing it !",
+        "white version costs the most ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the vehicle was fancy. the model was a nice addition. the man wasn\u0027t quite certain what he was doing . the red one was rated best . the white one, rated most expensive .",
+      "normalized_edited_story_text_sent": [
+        "the vehicle was fancy .",
+        "the model was a nice addition .",
+        "the man was n\u0027t quite certain what he was doing .",
+        "the red one was rated best .",
+        "the white one , rated most expensive ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623543731149",
+  "model": "GLAC"
+}

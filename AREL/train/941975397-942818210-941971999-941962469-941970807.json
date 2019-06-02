@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "941975397-942818210-941971999-941962469-941970807",
+  "photo_sequence_ids": [
+    "941975397",
+    "942818210",
+    "941971999",
+    "941962469",
+    "941970807"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1283/941975397_b53bc5792e_o.jpg",
+    "https://farm2.staticflickr.com/1056/942818210_179dfa3b6f_o.jpg",
+    "https://farm2.staticflickr.com/1170/941971999_c2cd3658b9_o.jpg",
+    "https://farm2.staticflickr.com/1410/941962469_3c53a6789d_o.jpg",
+    "https://farm2.staticflickr.com/1276/941970807_e9a9992715_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the botanical garden today . there were many beautiful flowers . the flowers were so beautiful . we had a great time and had a great time . it was so pretty .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to the Botanical Gardens today. There were so many beautiful flowers! We had a great time, and it was so pretty there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the botanical gardens today .",
+        "there were so many beautiful flowers !",
+        "we had a great time , and it was so pretty there ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "WE went to the botanical garden today. There were many DIFFERENT flowers. The flowers were so beautiful. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to the botanical garden today .",
+        "there were many different flowers .",
+        "the flowers were so beautiful .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the botanical garden today.  There were many beautiful flowers . They had a pond with water lilies in it.  We had a great time. The garden was so nice.",
+      "normalized_edited_story_text_sent": [
+        "we went to the botanical garden today .",
+        "there were many beautiful flowers .",
+        "they had a pond with water lilies in it .",
+        "we had a great time .",
+        "the garden was so nice ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to the botanical garden today . there were many beautiful flowers .we really liked the pink and white flowers.  we had a great time . it was so pretty .",
+      "normalized_edited_story_text_sent": [
+        "we went to the botanical garden today .",
+        "there were many beautiful flowers .",
+        "we really liked the pink and white flowers .",
+        "we had a great time .",
+        "it was so pretty ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "we go to the botanical garden today . there are many beautiful flowers . the flowers are so beautiful . we have a great time and have a great time . it is so pretty .",
+      "normalized_edited_story_text_sent": [
+        "we go to the botanical garden today .",
+        "there are many beautiful flowers .",
+        "the flowers are so beautiful .",
+        "we have a great time and have a great time .",
+        "it is so pretty ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157606501282252"
+}

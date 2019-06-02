@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "57381204-57381232-57381295-57381338-57381408",
+  "photo_sequence_ids": [
+    "57381204",
+    "57381232",
+    "57381295",
+    "57381338",
+    "57381408"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . we had a great time . everyone was having a good time . the night was very memorable .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the party was a lot of fun . it was a small event . we had a great time . everyone took time to meet to people . the night was very memorable .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "it was a small event .",
+        "we had a great time .",
+        "everyone took time to meet to people .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun with everyone showing up . there were a lot of people there including my next door neighbour . we had a great time with everyone . everyone was having a good time and wanted to stay all night . the night was very memorable but had to end .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun with everyone showing up .",
+        "there were a lot of people there including my next door neighbour .",
+        "we had a great time with everyone .",
+        "everyone was having a good time and wanted to stay all night .",
+        "the night was very memorable but had to end ."
+      ]
+    },
+    {
+      "worker_id": "A1AF392CLGHH0X",
+      "edited_story_text": "the party was a lot of fun. there were a lot of people there and everyone was having a good time.  the night was very memorable.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there and everyone was having a good time .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the party was a lot of fun. there were a lot of people there and we all had a great time. the night was very memorable.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there and we all had a great time .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . Everyone sat together and chatted. She sipped from her drink.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone sat together and chatted .",
+        "she sipped from her drink ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1242576",
+  "model": "GLAC"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4326096875-4326097133-4326833754-4326097901-4326835286",
+  "photo_sequence_ids": [
+    "4326096875",
+    "4326097133",
+    "4326833754",
+    "4326097901",
+    "4326835286"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very boring . he was a bit nervous . he was given a speech . he was very engaging . he was a great speaker .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the sign was for the committee on rules and administration.  Several men were at the hearings looking nervously . The leaders names were labelled near their microphones and they had water bottles . A speaker being interviewed was very engaging . There were many great speakers .",
+      "normalized_edited_story_text_sent": [
+        "the sign was for the committee on rules and administration .",
+        "several men were at the hearings looking nervously .",
+        "the leaders names were labelled near their microphones and they had water bottles .",
+        "a speaker being interviewed was very engaging .",
+        "there were many great speakers ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the speaker was very dull . he was a bit nervous and didnt have his facts straight . he was given a speech . he was very un interesesting . he was a great speaker .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very dull .",
+        "he was a bit nervous and didnt have his facts straight .",
+        "he was given a speech .",
+        "he was very un interesesting .",
+        "he was a great speaker ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the speakers were very boring, he was a bit nervous .There were lots of cameras and photographers around.",
+      "normalized_edited_story_text_sent": [
+        "the speakers were very boring , he was a bit nervous .",
+        "there were lots of cameras and photographers around ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The speaker giving a speech was very nervous and he thought he was boring. The other people thought he was interesting and engaging. It was a good speech.",
+      "normalized_edited_story_text_sent": [
+        "the speaker giving a speech was very nervous and he thought he was boring .",
+        "the other people thought he was interesting and engaging .",
+        "it was a good speech ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the speaker was nervous to give his speech. he was very engaging, but also a little boring. However, he was a great speaker anyway.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was nervous to give his speech .",
+        "he was very engaging , but also a little boring .",
+        "however , he was a great speaker anyway ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623213948893",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5428092677-5428092803-5428695058-5428093253-5428696010",
+  "photo_sequence_ids": [
+    "5428092677",
+    "5428092803",
+    "5428695058",
+    "5428093253",
+    "5428696010"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited for the game . the team was ready to play . the players were playing hard . the boys were having a good time . the girls were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the men were excited for the game,the team was ready to play. the players were playing hard . There was a crowd watching from the bleachers.",
+      "normalized_edited_story_text_sent": [
+        "the men were excited for the game , the team was ready to play .",
+        "the players were playing hard .",
+        "there was a crowd watching from the bleachers ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the kids ate before the game . the team was lined up and ready to play . the crowd was cheering for the team . the boy dribbled the ball on the field looking to pass . the team made a great play against the opponent.",
+      "normalized_edited_story_text_sent": [
+        "the kids ate before the game .",
+        "the team was lined up and ready to play .",
+        "the crowd was cheering for the team .",
+        "the boy dribbled the ball on the field looking to pass .",
+        "the team made a great play against the opponent ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited for the game . the team was ready to play . The fans watched on. A player is on the field. Two players jump for the ball.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the game .",
+        "the team was ready to play .",
+        "the fans watched on .",
+        "a player is on the field .",
+        "two players jump for the ball ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the kids were excited for the game . the team was ready to play . the players were giving their all . the boys were having a good time . the girls also were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the game .",
+        "the team was ready to play .",
+        "the players were giving their all .",
+        "the boys were having a good time .",
+        "the girls also were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the kids were excited to play in the soccer game . the teams was ready to play in front of their families. the players were playing hard and trying to win . the boys were having a good time playing on the field . the girls were very happy that they could join in.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play in the soccer game .",
+        "the teams was ready to play in front of their families .",
+        "the players were playing hard and trying to win .",
+        "the boys were having a good time playing on the field .",
+        "the girls were very happy that they could join in ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626005088368",
+  "model": "GLAC"
+}

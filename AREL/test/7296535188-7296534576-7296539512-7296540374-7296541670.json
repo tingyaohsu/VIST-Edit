@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "7296535188-7296534576-7296539512-7296540374-7296541670",
+  "photo_sequence_ids": [
+    "7296535188",
+    "7296534576",
+    "7296539512",
+    "7296540374",
+    "7296541670"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7081/7296535188_34f9a6c025_o.jpg",
+    "https://farm9.staticflickr.com/8005/7296534576_3d1d24886d_o.jpg",
+    "https://farm8.staticflickr.com/7082/7296539512_c0fb5f77c1_o.jpg",
+    "https://farm8.staticflickr.com/7078/7296540374_9ecf0f33f3_o.jpg",
+    "https://farm8.staticflickr.com/7211/7296541670_4cd0a1eaa6_o.jpg"
+  ],
+  "auto_story_text_normalized": "the pastor gave a speech . the bride and groom were very happy to be married . the mayor of the church was giving a speech . and they were all happy to be there . after the ceremony we went back to the beach and went to see the sun . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A3IDBFPW2T9P5D",
+      "edited_story_text": "The pastor gave a speech. The bride and groom were very happy to be married. The mayor of the church also gave a speech.  They were all happy to be there. After the ceremony, we went back to the beach and went to see the sun. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "the pastor gave a speech .",
+        "the bride and groom were very happy to be married .",
+        "the mayor of the church also gave a speech .",
+        "they were all happy to be there .",
+        "after the ceremony , we went back to the beach and went to see the sun .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the pastor gave a speech . the mayor of the church was giving a speech . and they were all happy to be there . after the ceremony they went back to the beach and went to see the sun that was shining . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "the pastor gave a speech .",
+        "the mayor of the church was giving a speech .",
+        "and they were all happy to be there .",
+        "after the ceremony they went back to the beach and went to see the sun that was shining .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The man gave a speech at graduation. The ceremony was wonderful.  The new graduates threw their hats in the air.  It was a great day .",
+      "normalized_edited_story_text_sent": [
+        "the man gave a speech at graduation .",
+        "the ceremony was wonderful .",
+        "the new graduates threw their hats in the air .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The pastor gave a speech. The bride and groom were very happy to get married. The pastor was saying the vows. Everyone was happy to be there. After the ceremony, we went back to the beach to see the sun. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "the pastor gave a speech .",
+        "the bride and groom were very happy to get married .",
+        "the pastor was saying the vows .",
+        "everyone was happy to be there .",
+        "after the ceremony , we went back to the beach to see the sun .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "[male] gave a speech that day . the cadets swore on their right hand . [male] was given a bag.  [male] put on the jacket he was given. everyone toss off their hats and had fun.",
+      "normalized_edited_story_text_sent": [
+        "[male] gave a speech that day .",
+        "the cadets swore on their right hand .",
+        "[male] was given a bag .",
+        "[male] put on the jacket he was given .",
+        "everyone toss off their hats and had fun ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629955722010"
+}

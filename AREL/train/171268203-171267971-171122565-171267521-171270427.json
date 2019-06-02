@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "171268203-171267971-171122565-171267521-171270427",
+  "photo_sequence_ids": [
+    "171268203",
+    "171267971",
+    "171122565",
+    "171267521",
+    "171270427"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/46/171268203_ee7e1da1b4_o.jpg",
+    "https://farm1.staticflickr.com/70/171267971_e7d54083d5_o.jpg",
+    "https://farm1.staticflickr.com/61/171122565_e44a8e8e9c_o.jpg",
+    "https://farm1.staticflickr.com/74/171267521_ed818b7f20_o.jpg",
+    "https://farm1.staticflickr.com/53/171270427_32b4e383a9_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the park to eat . the turkey was ready to cook . the food was delicious . the family gathered around to enjoy the food . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "We went to the park to eat today. The turkey was ready to be cooked. The food was delicious, the family gathered around to enjoy the food. Overall we had a great time at the park today.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to eat today .",
+        "the turkey was ready to be cooked .",
+        "the food was delicious , the family gathered around to enjoy the food .",
+        "overall we had a great time at the park today ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "We went to the park to eat. The turkey was ready to cook and the food was delicious. The family gathered around to enjoy the food and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to eat .",
+        "the turkey was ready to cook and the food was delicious .",
+        "the family gathered around to enjoy the food and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CAMPAA7650H2",
+      "edited_story_text": "we wanted to enjoy some time in the backyard . we cooked chicken chicken on the grill . the food was delicious . afterwards, the family gathered after the meal to play. we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we wanted to enjoy some time in the backyard .",
+        "we cooked chicken chicken on the grill .",
+        "the food was delicious .",
+        "afterwards , the family gathered after the meal to play .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AMYURTQIMAC8T",
+      "edited_story_text": "we went in the backyard to eat . the chick was ready to cook . the food was delicious . the family gathered around to enjoy the food . we had an awesome time",
+      "normalized_edited_story_text_sent": [
+        "we went in the backyard to eat .",
+        "the chick was ready to cook .",
+        "the food was delicious .",
+        "the family gathered around to enjoy the food .",
+        "we had an awesome time"
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The backyard picnic was so much fun. What a great way to spend a summer day enjoying the outdoors.  [man] tried to make chicken tandoori on the grill. It turned out excellent!  We set out a play pool and took the baby in it. He had a blast.",
+      "normalized_edited_story_text_sent": [
+        "the backyard picnic was so much fun .",
+        "what a great way to spend a summer day enjoying the outdoors .",
+        "[male] tried to make chicken tandoori on the grill .",
+        "it turned out excellent !",
+        "we set out a play pool and took the baby in it .",
+        "he had a blast ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594171836398"
+}

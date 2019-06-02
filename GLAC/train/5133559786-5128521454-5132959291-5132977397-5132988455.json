@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5133559786-5128521454-5132959291-5132977397-5132988455",
+  "photo_sequence_ids": [
+    "5133559786",
+    "5128521454",
+    "5132959291",
+    "5132977397",
+    "5132988455"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to visit the historical site . they saw some beautiful flowers . the architecture was amazing . they even had a statue of a man . they also took a picture of the monument .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "He was excited to visit the historical site. There were some gorgeous flowers. The architecture was amazing. They took pictures of the monuments and statues.",
+      "normalized_edited_story_text_sent": [
+        "he was excited to visit the historical site .",
+        "there were some gorgeous flowers .",
+        "the architecture was amazing .",
+        "they took pictures of the monuments and statues ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was excited to visit the historical site . the building should were old . the architecture was amazing . they even had a statue of a man . they also took a picture of the monument .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to visit the historical site .",
+        "the building should were old .",
+        "the architecture was amazing .",
+        "they even had a statue of a man .",
+        "they also took a picture of the monument ."
+      ]
+    },
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the family was excited to visit the historical site . they saw some beautiful trees . the architecture was amazing . they even had a statue of a gorilla . they also took a picture of the garden.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to visit the historical site .",
+        "they saw some beautiful trees .",
+        "the architecture was amazing .",
+        "they even had a statue of a gorilla .",
+        "they also took a picture of the garden ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "We were all excited to visit the historical site today.  The outside scarecrow was cool.  Dad posed for this photo with the gorilla!  Liked the view of the gardens outside!",
+      "normalized_edited_story_text_sent": [
+        "we were all excited to visit the historical site today .",
+        "the outside scarecrow was cool .",
+        "dad posed for this photo with the gorilla !",
+        "liked the view of the gardens outside !"
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the man relaxed on the bed. . they saw a scarecrow. the architecture was amazing . they even had a statue of a gorilla . took a picture at the park.",
+      "normalized_edited_story_text_sent": [
+        "the man relaxed on the bed .",
+        "they saw a scarecrow .",
+        "the architecture was amazing .",
+        "they even had a statue of a gorilla .",
+        "took a picture at the park ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625283215680",
+  "model": "GLAC"
+}

@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4356138276-4355395295-4355396051-4356140514-4355398799",
+  "photo_sequence_ids": [
+    "4356138276",
+    "4355395295",
+    "4355396051",
+    "4356140514",
+    "4355398799"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the big day . the friends were excited to be there . the children were happy . the crowd was full . the kids were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was ready for the big day . the friends were excited to be there . the children were glad to take part in it all . the crowd was full . the kids were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "the friends were excited to be there .",
+        "the children were glad to take part in it all .",
+        "the crowd was full .",
+        "the kids were very proud ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was ready for the big day . the friends were excited to be there . the children were happy . the crowd was full . the kids felt happy. .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "the friends were excited to be there .",
+        "the children were happy .",
+        "the crowd was full .",
+        "the kids felt happy ."
+      ]
+    },
+    {
+      "worker_id": "A250TNE6XDKH4N",
+      "edited_story_text": "the family was ready for the big day . the friends were excited to be there . the children were happy . the crowd was full . the kids were very proud .David and Lisa stood proudly\r\rSome friends fromm Dav\u0027d;s work were there. Lisa \u0027s cousin. took these pictures together",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "the friends were excited to be there .",
+        "the children were happy .",
+        "the crowd was full .",
+        "the kids were very proud .",
+        "[male] and [female] stood proudly some friends fromm dav \u0027d ; s work were there .",
+        "[female] \u0027s cousin .",
+        "took these pictures together"
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family was ready for the big day. They were all excited to be there. The children were happy as well. There was a full crowd.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "they were all excited to be there .",
+        "the children were happy as well .",
+        "there was a full crowd ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Everyone in the family was prepared for the big day. All our friends were excited and the kids were proud and overjoyed just being there. It was a packed house with a crowd of people.",
+      "normalized_edited_story_text_sent": [
+        "everyone in the family was prepared for the big day .",
+        "all our friends were excited and the kids were proud and overjoyed just being there .",
+        "it was a packed house with a crowd of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623307191679",
+  "model": "GLAC"
+}

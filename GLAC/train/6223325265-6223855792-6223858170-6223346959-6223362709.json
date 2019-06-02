@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6223325265-6223855792-6223858170-6223346959-6223362709",
+  "photo_sequence_ids": [
+    "6223325265",
+    "6223855792",
+    "6223858170",
+    "6223346959",
+    "6223362709"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was giving a speech . the crowd was very excited . the man was speaking about the cause . the women were happy to be there . the men were smiling .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the marathon was a success. a lot of people showed up and were in good spirits.",
+      "normalized_edited_story_text_sent": [
+        "the marathon was a success .",
+        "a lot of people showed up and were in good spirits ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "A woman was speaking during a presentation. The crowd was lit with excitement. Another presentation was given, this time, it was a man speaking. Throughout the entire speech, I couldn\u0027t help but notice the grin he wore the entire time. It was nearly infectious, as even the women that arrived in a bore, were suddenly content and entranced by it.",
+      "normalized_edited_story_text_sent": [
+        "a woman was speaking during a presentation .",
+        "the crowd was lit with excitement .",
+        "another presentation was given , this time , it was a man speaking .",
+        "throughout the entire speech , i could n\u0027t help but notice the grin he wore the entire time .",
+        "it was nearly infectious , as even the women that arrived in a bore , were suddenly content and entranced by it ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The lady was preparing the event while the crowd was very excited. The leader, a man, spoke about the cause while all were happy to be there and smiling.",
+      "normalized_edited_story_text_sent": [
+        "the lady was preparing the event while the crowd was very excited .",
+        "the leader , a man , spoke about the cause while all were happy to be there and smiling ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the lady was working in the kitchen. the crowd was very excited. people were selling t-shirts. the man and woman were both smiling.",
+      "normalized_edited_story_text_sent": [
+        "the lady was working in the kitchen .",
+        "the crowd was very excited .",
+        "people were selling t-shirts .",
+        "the man and woman were both smiling ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "This was the lady that was giving the speech. Everyone was so excited to be here. this guy was very vocal about their cause. The women there were all happy and having fun. It made all the men smile.",
+      "normalized_edited_story_text_sent": [
+        "this was the lady that was giving the speech .",
+        "everyone was so excited to be here .",
+        "this guy was very vocal about their cause .",
+        "the women there were all happy and having fun .",
+        "it made all the men smile ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627722157927",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "11590523983-11591111666-11590760395-11590625934-11590622884",
+  "photo_sequence_ids": [
+    "11590523983",
+    "11591111666",
+    "11590760395",
+    "11590625934",
+    "11590622884"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the plane was ready for the big game . the organization wheel was going to be very close . the pilots were preparing the equipment . the captain was in the air . the red team was ready to go .",
+  "edited_stories": [
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the plane was ready for the big game . the organization wheel was going to be very close . the pilots were preparing the equipment, and the big reflective geodesic dome was in place to be dropped at midnight . the captain was in the air . the red team was ready to go, with the green team supporting them from the ground .",
+      "normalized_edited_story_text_sent": [
+        "the plane was ready for the big game .",
+        "the organization wheel was going to be very close .",
+        "the pilots were preparing the equipment , and the big reflective geodesic dome was in place to be dropped at midnight .",
+        "the captain was in the air .",
+        "the red team was ready to go , with the green team supporting them from the ground ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the plane was ready for the grand game . the organization wheel was going to be very close . the pilots were preparing the heavy equipment . the captain was in the air . the red team was ready to go .",
+      "normalized_edited_story_text_sent": [
+        "the plane was ready for the grand game .",
+        "the organization wheel was going to be very close .",
+        "the pilots were preparing the heavy equipment .",
+        "the captain was in the air .",
+        "the red team was ready to go ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "A large silver ball was in the bright sun . the design was a series of triangles . the workers were working on the equipment assembling it together . the workers in the green jackets were placing triangles in the spaces with tools . Finally, it was assembled completely.",
+      "normalized_edited_story_text_sent": [
+        "a large silver ball was in the bright sun .",
+        "the design was a series of triangles .",
+        "the workers were working on the equipment assembling it together .",
+        "the workers in the green jackets were placing triangles in the spaces with tools .",
+        "finally , it was assembled completely ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria said get the plane was ready for the big game .David said the organization wheel was going to be very close .John and the pilots were preparing the equipment .Robert and the captain was in the air .Robert and the red team was ready to go .",
+      "normalized_edited_story_text_sent": [
+        "[female] said get the plane was ready for the big game .",
+        "[male] said the organization wheel was going to be very close .",
+        "[male] and the pilots were preparing the equipment .",
+        "[male] and the captain was in the air .",
+        "[male] and the red team was ready to go ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The plane was ready for the big game, but the organization wheel was going to be quite close. The pilots were preparing the equipment, the captain was up in the air, and the red team was ready to get on with it.",
+      "normalized_edited_story_text_sent": [
+        "the plane was ready for the big game , but the organization wheel was going to be quite close .",
+        "the pilots were preparing the equipment , the captain was up in the air , and the red team was ready to get on with it ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157639090930144",
+  "model": "GLAC"
+}

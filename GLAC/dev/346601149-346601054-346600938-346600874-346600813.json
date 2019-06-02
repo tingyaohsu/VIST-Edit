@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "346601149-346601054-346600938-346600874-346600813",
+  "photo_sequence_ids": [
+    "346601149",
+    "346601054",
+    "346600938",
+    "346600874",
+    "346600813"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the buildings were tall and majestic . the streets were filled with people . the artwork was beautiful . the architecture was amazing . the city was lit up at night .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the buildings were tall and majestic as the sky was blue . the streets were filled with people who were shopping for presents . the artwork was beautiful and well designed . the architecture was amazing and had an old feel . the city was lit up at night and stayed lit all holiday .",
+      "normalized_edited_story_text_sent": [
+        "the buildings were tall and majestic as the sky was blue .",
+        "the streets were filled with people who were shopping for presents .",
+        "the artwork was beautiful and well designed .",
+        "the architecture was amazing and had an old feel .",
+        "the city was lit up at night and stayed lit all holiday ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the buildings were tall and majestic . the streets were filled with people . the trinkets were in the windows . the architecture was amazing . the city was lit up at night .",
+      "normalized_edited_story_text_sent": [
+        "the buildings were tall and majestic .",
+        "the streets were filled with people .",
+        "the trinkets were in the windows .",
+        "the architecture was amazing .",
+        "the city was lit up at night ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the buildings were tall and majestic . the streets were filled with people and stores . the artwork was beautiful . At night the city was lit up and busy. It was a great place.",
+      "normalized_edited_story_text_sent": [
+        "the buildings were tall and majestic .",
+        "the streets were filled with people and stores .",
+        "the artwork was beautiful .",
+        "at night the city was lit up and busy .",
+        "it was a great place ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The buildings were tall and majestic. The wide streets were filled with people and the artwork was beautiful. The architecture was amazing. The city was lit up at night .",
+      "normalized_edited_story_text_sent": [
+        "the buildings were tall and majestic .",
+        "the wide streets were filled with people and the artwork was beautiful .",
+        "the architecture was amazing .",
+        "the city was lit up at night ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the buildings were tall and majestic . the streets were filled with people . the artwork was beautiful. the city was lit up at night and amazingly beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the buildings were tall and majestic .",
+        "the streets were filled with people .",
+        "the artwork was beautiful .",
+        "the city was lit up at night and amazingly beautiful ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594460914672",
+  "model": "GLAC"
+}

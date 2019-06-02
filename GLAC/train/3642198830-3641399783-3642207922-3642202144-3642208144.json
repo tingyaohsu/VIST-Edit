@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "3642198830-3641399783-3642207922-3642202144-3642208144",
+  "photo_sequence_ids": [
+    "3642198830",
+    "3641399783",
+    "3642207922",
+    "3642202144",
+    "3642208144"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the meeting . the crowd was excited . the group was very proud . they had a great time . the leaders were also there .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the man was happy to be at the business meeting meeting . He killed it with his pitch and everyone was happy . the group was very proud . they had a great time . the leaders were also there .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the business meeting meeting .",
+        "he killed it with his pitch and everyone was happy .",
+        "the group was very proud .",
+        "they had a great time .",
+        "the leaders were also there ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the man was happy to be at the meeting where he was recognized by all of his coworkers and peers. the crowd was excited . the group was very proud of their team leader . they had a great time and racked up quite a bill . the leaders were also there .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the meeting where he was recognized by all of his coworkers and peers .",
+        "the crowd was excited .",
+        "the group was very proud of their team leader .",
+        "they had a great time and racked up quite a bill .",
+        "the leaders were also there ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the man was on his phone . the crowd was there. the group was very proud . they had a great time . the boys were also there .",
+      "normalized_edited_story_text_sent": [
+        "the man was on his phone .",
+        "the crowd was there .",
+        "the group was very proud .",
+        "they had a great time .",
+        "the boys were also there ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the man exhibited total pleasure over the meet. the crowd, delighted. the group was proud to share. they had a ball. the leaders took credit for a job well done.",
+      "normalized_edited_story_text_sent": [
+        "the man exhibited total pleasure over the meet .",
+        "the crowd , delighted .",
+        "the group was proud to share .",
+        "they had a ball .",
+        "the leaders took credit for a job well done ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "My friends from work and I were happy to be at the meeting . everybody was excited . the group was very proud . they had a great time . the leaders were also there .",
+      "normalized_edited_story_text_sent": [
+        "my friends from work and i were happy to be at the meeting .",
+        "everybody was excited .",
+        "the group was very proud .",
+        "they had a great time .",
+        "the leaders were also there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157619880943327",
+  "model": "GLAC"
+}

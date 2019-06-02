@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6718703211-6718703297-6718704319-6718704979-6718705885",
+  "photo_sequence_ids": [
+    "6718703211",
+    "6718703297",
+    "6718704319",
+    "6718704979",
+    "6718705885"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7150/6718703211_e8a2209409_o.png",
+    "https://farm8.staticflickr.com/7162/6718703297_44852ca43e_o.png",
+    "https://farm8.staticflickr.com/7175/6718704319_aa40dd5d4b_o.png",
+    "https://farm8.staticflickr.com/7008/6718704979_a9d372a7e4_o.png",
+    "https://farm8.staticflickr.com/7165/6718705885_9a442936c0_o.png"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day in the city . the bride is getting ready for her wedding . there were a lot of people there . the bride and groom were very happy . even the streets were empty .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "it is a beautiful day in the city . the female is getting ready for her wedding . there are a lot of people there . the female and male are very happy . even the streets are empty .",
+      "normalized_edited_story_text_sent": [
+        "it is a beautiful day in the city .",
+        "the female is getting ready for her wedding .",
+        "there are a lot of people there .",
+        "the female and male are very happy .",
+        "even the streets are empty ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "it was a beautiful day in the city that day for the wedding . the bride is getting ready for her wedding and making sure everything is good . there were a lot of people there who came to watch. the bride and groom were very happy as well as the audience that was there.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the city that day for the wedding .",
+        "the bride is getting ready for her wedding and making sure everything is good .",
+        "there were a lot of people there who came to watch .",
+        "the bride and groom were very happy as well as the audience that was there ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "It was a beautiful day in the city and the bride is getting ready for her wedding. There were a lot of guests, so many in fact, that the streets were empty.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the city and the bride is getting ready for her wedding .",
+        "there were a lot of guests , so many in fact , that the streets were empty ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "it was a beautiful day in the city . here, the bride is getting ready for her wedding . there were a lot of people at the ceremony. the bride and groom were very happy . even the streets were empty .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the city .",
+        "here , the bride is getting ready for her wedding .",
+        "there were a lot of people at the ceremony .",
+        "the bride and groom were very happy .",
+        "even the streets were empty ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "It was a beautiful day in the city. The bride prepares for her wedding. The bride and groom smile at each other. The wedding was beautifully decorated. After the wedding they rode down the street in a carriage.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the city .",
+        "the bride prepares for her wedding .",
+        "the bride and groom smile at each other .",
+        "the wedding was beautifully decorated .",
+        "after the wedding they rode down the street in a carriage ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628921838053"
+}

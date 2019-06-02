@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "277611824-277612010-277611662-277586806-279034894",
+  "photo_sequence_ids": [
+    "277611824",
+    "277612010",
+    "277611662",
+    "277586806",
+    "279034894"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the cemetery was full of old graves . the tombstones were in the shape of the world . the trees were covered with moss . the plaque was made of stone . the tombstone was also a statue .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the cemetery was full of ancient graves . the tombstones were in the shape of the world . the big trees were covered with moss . the plaque was made of stone . the tombstone was also a statue .",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of ancient graves .",
+        "the tombstones were in the shape of the world .",
+        "the big trees were covered with moss .",
+        "the plaque was made of stone .",
+        "the tombstone was also a statue ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "this weekend, we visited the old historic D.A.R. site. the place is well protected and cared for. the natural surroundings are peaceful and calming. the old fort provides an important history lesson. we learned a lot about the past that day.",
+      "normalized_edited_story_text_sent": [
+        "this weekend , we visited the old historic d.a.r. site .",
+        "the place is well protected and cared for .",
+        "the natural surroundings are peaceful and calming .",
+        "the old fort provides an important history lesson .",
+        "we learned a lot about the past that day ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the cemetery was full of old graves .",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of old graves ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the d.a.r. historic site was full of old graves . the tombstones were located near where fort wilkinson once stood, on Georgia\u0027s old Indian boundary. the trees were covered with moss . information about the site was printed on a large stone plaque . one tombstone was also a statue .",
+      "normalized_edited_story_text_sent": [
+        "the d.a.r. historic site was full of old graves .",
+        "the tombstones were located near where fort wilkinson once stood , on georgia \u0027s old indian boundary .",
+        "the trees were covered with moss .",
+        "information about the site was printed on a large stone plaque .",
+        "one tombstone was also a statue ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the cemetery was full of old graves . the tombstones had names on them . the trees were covered with moss . the plaque was made of stone . the tombstone was also a statue .",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was full of old graves .",
+        "the tombstones had names on them .",
+        "the trees were covered with moss .",
+        "the plaque was made of stone .",
+        "the tombstone was also a statue ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594341890810",
+  "model": "GLAC"
+}

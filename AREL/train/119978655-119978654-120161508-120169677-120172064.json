@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "119978655-119978654-120161508-120169677-120172064",
+  "photo_sequence_ids": [
+    "119978655",
+    "119978654",
+    "120161508",
+    "120169677",
+    "120172064"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/47/119978655_e5e1c9557c_o.jpg",
+    "https://farm1.staticflickr.com/36/119978654_fb86b0e4d1_o.jpg",
+    "https://farm1.staticflickr.com/45/120161508_425b2ebdd4_o.jpg",
+    "https://farm1.staticflickr.com/45/120169677_20692d8763_o.jpg",
+    "https://farm1.staticflickr.com/42/120172064_85b4782439_o.jpg"
+  ],
+  "auto_story_text_normalized": "my friend and i went to a party . everyone was having a good time . we had a lot of fun . we had a lot of fun . [male] was happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "my friend and i went to a party . everyone was having a good time . we had a lot of fun . We had the chance to catch up with some old friends. [male] was happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to a party .",
+        "everyone was having a good time .",
+        "we had a lot of fun .",
+        "we had the chance to catch up with some old friends .",
+        "[male] was happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "my friend and me go to a party . everyone is having a good time . we have a lot of fun . we have a lot of fun . [male] is happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "my friend and me go to a party .",
+        "everyone is having a good time .",
+        "we have a lot of fun .",
+        "we have a lot of fun .",
+        "[male] is happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "My friend and I went to a party. Everyone was having a great time, including us. Everyone was in good company.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to a party .",
+        "everyone was having a great time , including us .",
+        "everyone was in good company ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went to a party with my friend, we all had a great time together and were happy to see each other. [Rob] was delighted to see him!",
+      "normalized_edited_story_text_sent": [
+        "i went to a party with my friend , we all had a great time together and were happy to see each other .",
+        "[male] was delighted to see him !"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to a party. There were boys and girls. One guy was smoking. We mugged for the camera. Everyone had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "i went to a party .",
+        "there were boys and girls .",
+        "one guy was smoking .",
+        "we mugged for the camera .",
+        "everyone had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594094119797"
+}

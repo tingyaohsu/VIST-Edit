@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "345095482-345095696-345095893-345096290-345096501",
+  "photo_sequence_ids": [
+    "345095482",
+    "345095696",
+    "345095893",
+    "345096290",
+    "345096501"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a great place to visit . the streets were quiet and peaceful . the roads were clear and icy . the buildings were very tall . the town was a beautiful sight .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the city was a fantastic place to visit . the streets were quiet and peaceful . the roads were very clear and icy . the buildings were very tall . the town was a beautiful sight .",
+      "normalized_edited_story_text_sent": [
+        "the city was a fantastic place to visit .",
+        "the streets were quiet and peaceful .",
+        "the roads were very clear and icy .",
+        "the buildings were very tall .",
+        "the town was a beautiful sight ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was a great place to visit . the streets were quiet and peaceful . the roads were clear and icy . the buildings were very tall . the town was a woody place .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "the streets were quiet and peaceful .",
+        "the roads were clear and icy .",
+        "the buildings were very tall .",
+        "the town was a woody place ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the city was such a great place to visit. the streets were very quiet and peaceful. the roads were clear but icy. the buildings that we saw were very tall . Overall, the town was a beautiful sight .",
+      "normalized_edited_story_text_sent": [
+        "the city was such a great place to visit .",
+        "the streets were very quiet and peaceful .",
+        "the roads were clear but icy .",
+        "the buildings that we saw were very tall .",
+        "overall , the town was a beautiful sight ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the city was a cool place to visit . the streets were quiet and peaceful . the roads were clear but icy . the buildings were very tall . the town was a beautiful sight .",
+      "normalized_edited_story_text_sent": [
+        "the city was a cool place to visit .",
+        "the streets were quiet and peaceful .",
+        "the roads were clear but icy .",
+        "the buildings were very tall .",
+        "the town was a beautiful sight ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the car was decorated . the streets were quiet and peaceful . the roads were clear. the buildings were very tall . the .road was empty.",
+      "normalized_edited_story_text_sent": [
+        "the car was decorated .",
+        "the streets were quiet and peaceful .",
+        "the roads were clear .",
+        "the buildings were very tall .",
+        "the .",
+        "road was empty ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594458372207",
+  "model": "GLAC"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4640140937-4640749230-4640750892-4640143849-4640145803",
+  "photo_sequence_ids": [
+    "4640140937",
+    "4640749230",
+    "4640750892",
+    "4640143849",
+    "4640145803"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the parade . the kids were excited to be there . the daughter was so happy . the band played some music . the men were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "All in all it was a good day, great food, happy people and listening to Mary sing and John \u0026 lisa dance were two of the highlights.",
+      "normalized_edited_story_text_sent": [
+        "all in all it was a good day , great food , happy people and listening to [female] sing and [male] \u0026 [female] dance were two of the highlights ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the parade crowds were approaching, and the kids were vibrating with excitement . the daughter was dancing. the band\u0027s  music got the revelers humming and moving. the men could not resist the awesomeness of it all.",
+      "normalized_edited_story_text_sent": [
+        "the parade crowds were approaching , and the kids were vibrating with excitement .",
+        "the daughter was dancing .",
+        "the band \u0027s music got the revelers humming and moving .",
+        "the men could not resist the awesomeness of it all ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the crowd gathered for the parade . Everyone ate food. The women smiled for the camera. The couple danced.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade .",
+        "everyone ate food .",
+        "the women smiled for the camera .",
+        "the couple danced ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the crowd gathered for the parade . the kids were excited to be there . the daughter was so happy . the band played some music . the men were very proud .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the crowd gathered for the parade .",
+        "the kids were excited to be there .",
+        "the daughter was so happy .",
+        "the band played some music .",
+        "the men were very proud ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the crowd gathered for the parade . the kids were excited to be there . my daughter was so happy . after the parade, a lot of delicious Hawaiian-style food was served at a large outdoor party . musicians played their guitars while a singer sang and people danced . everyone enjoyed being together at the party .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the parade .",
+        "the kids were excited to be there .",
+        "my daughter was so happy .",
+        "after the parade , a lot of delicious hawaiian-style food was served at a large outdoor party .",
+        "musicians played their guitars while a singer sang and people danced .",
+        "everyone enjoyed being together at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624137503998",
+  "model": "GLAC"
+}

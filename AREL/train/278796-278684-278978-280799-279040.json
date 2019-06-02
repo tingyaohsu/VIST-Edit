@@ -1,0 +1,83 @@
+{
+  "photo_sequence_id": "278796-278684-278978-280799-279040",
+  "photo_sequence_ids": [
+    "278796",
+    "278684",
+    "278978",
+    "280799",
+    "279040"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/1/278796_2a48d76a7a_o.jpg",
+    "https://farm1.staticflickr.com/1/278684_ae0d8a1b51_o.jpg",
+    "https://farm1.staticflickr.com/1/278978_77fe5eb7cf_o.jpg",
+    "https://farm1.staticflickr.com/1/280799_9107949c62_o.jpg",
+    "https://farm1.staticflickr.com/1/279040_303ce6ee1c_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a lot of people . this is a picture of a building . we took a walk through the park . there were a lot of people there . they drove the car to the end of the day .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "we went to a wedding at this beautiful building . we took a walk through the park . there were a lot of people there . they drove the car that we helped decorate!",
+      "normalized_edited_story_text_sent": [
+        "we went to a wedding at this beautiful building .",
+        "we took a walk through the park .",
+        "there were a lot of people there .",
+        "they drove the car that we helped decorate !"
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "there was a crowd of people . this is a photo of a building . we took a stroll through the park . there were many people there . they drove the car until the end of the day .",
+      "normalized_edited_story_text_sent": [
+        "there was a crowd of people .",
+        "this is a photo of a building .",
+        "we took a stroll through the park .",
+        "there were many people there .",
+        "they drove the car until the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "A lot of people attended the event. it all took place in a beautiful building . we took a walk with the bride and groom. lots of people were there to see the couple open their presents. at the end of the day, they drove away in a blue car .",
+      "normalized_edited_story_text_sent": [
+        "a lot of people attended the event .",
+        "it all took place in a beautiful building .",
+        "we took a walk with the bride and groom .",
+        "lots of people were there to see the couple open their presents .",
+        "at the end of the day , they drove away in a blue car ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "There were a lot of people at the wedding.  This is a picture of a building where the wedding took place.  We took a walk through the park. There were a lot of people there. They newlyweds drove off in the car at the end of the day.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the wedding .",
+        "this is a picture of a building where the wedding took place .",
+        "we took a walk through the park .",
+        "there were a lot of people there .",
+        "they newlyweds drove off in the car at the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "AIEX8207RDGF4",
+      "edited_story_text": "A lot of guests attended the wedding. This is the castle where the wedding took place. The bride and groom took pictures after walking through the park. There were quite a few guests attended the reception. Here is the car the couple left the reception in at the end of the day. \r\r\rit was a lot of people . this is a picture of a building . we took a walk through the park . there were a lot of people there . they drove the car to the end of the day .",
+      "normalized_edited_story_text_sent": [
+        "a lot of guests attended the wedding .",
+        "this is the castle where the wedding took place .",
+        "the bride and groom took pictures after walking through the park .",
+        "there were quite a few guests attended the reception .",
+        "here is the car the couple left the reception in at the end of the day .",
+        "it was a lot of people .",
+        "this is a picture of a building .",
+        "we took a walk through the park .",
+        "there were a lot of people there .",
+        "they drove the car to the end of the day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "6096"
+}

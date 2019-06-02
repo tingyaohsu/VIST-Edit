@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5399030648-5398427983-5398429141-5398431783-5398429501",
+  "photo_sequence_ids": [
+    "5399030648",
+    "5398427983",
+    "5398429141",
+    "5398431783",
+    "5398429501"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the first thing we saw was the beach . the birds were in the water . the bird was flying over the rocks . the bird was watching the waves . the geese were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the first thing we saw was the beach covered in snow with a  fawn on it . the birds were perched on a stick out of the water . the bird was flying over the rocks . the bird was watching the waves . the geese were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the first thing we saw was the beach covered in snow with a fawn on it .",
+        "the birds were perched on a stick out of the water .",
+        "the bird was flying over the rocks .",
+        "the bird was watching the waves .",
+        "the geese were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the first thing we saw was the beach . the birds were in the water . There were trees. The bird had long legs and stood in the water.",
+      "normalized_edited_story_text_sent": [
+        "the first thing we saw was the beach .",
+        "the birds were in the water .",
+        "there were trees .",
+        "the bird had long legs and stood in the water ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we visited the lake today. it was snowy and freezing, but i\u0027m glad we went. we saw a deer, and there was an eagle perched on a stick right in the middle of the open! it was really cool.",
+      "normalized_edited_story_text_sent": [
+        "we visited the lake today .",
+        "it was snowy and freezing , but i \u0027m glad we went .",
+        "we saw a deer , and there was an eagle perched on a stick right in the middle of the open !",
+        "it was really cool ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the first thing we saw was the frozen lake . the birds were hanging out over the water . one bird was flying over the ice . the other bird was watching a hole in the surface . geese were also waddling around .",
+      "normalized_edited_story_text_sent": [
+        "the first thing we saw was the frozen lake .",
+        "the birds were hanging out over the water .",
+        "one bird was flying over the ice .",
+        "the other bird was watching a hole in the surface .",
+        "geese were also waddling around ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the first thing we saw was the beach . some birds were in the water . one bird was flying over the rocks . another one was watching the waves . the geese were having a great time too .",
+      "normalized_edited_story_text_sent": [
+        "the first thing we saw was the beach .",
+        "some birds were in the water .",
+        "one bird was flying over the rocks .",
+        "another one was watching the waves .",
+        "the geese were having a great time too ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625807339605",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "30442237-30161655-30440943-30164198-30161652",
+  "photo_sequence_ids": [
+    "30442237",
+    "30161655",
+    "30440943",
+    "30164198",
+    "30161652"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/21/30442237_8371ce835b_o.jpg",
+    "https://farm1.staticflickr.com/23/30161655_4cc2468d01_o.jpg",
+    "https://farm1.staticflickr.com/21/30440943_27ffca393a_o.jpg",
+    "https://farm1.staticflickr.com/22/30164198_11022584df_o.jpg",
+    "https://farm1.staticflickr.com/21/30161652_0ec44cc689_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party last night . we had a lot of fun at the party . [male] and [male] were having a good time at the party . we even had a lot of fun dancing . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "We had a wonderful time at the party last night. [male] and [male] were having a good time at the party. We even had a lot of fun dancing. What had a great time!",
+      "normalized_edited_story_text_sent": [
+        "we had a wonderful time at the party last night .",
+        "[male] and [male] were having a good time at the party .",
+        "we even had a lot of fun dancing .",
+        "what had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "we had a great time at the party last night . we had a lot of fun at the party . [male] and [male] were having a good time at the party . we even had a lot of fun dancing . we had a great time i loved",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "we had a lot of fun at the party .",
+        "[male] and [male] were having a good time at the party .",
+        "we even had a lot of fun dancing .",
+        "we had a great time i loved"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "Everyone had a great time at the party last night. We had a cake since it was [female]\u0027s birthday. She got a doll for a birthday present. Everyone had fun dancing with lights. It was a great time for everyone.",
+      "normalized_edited_story_text_sent": [
+        "everyone had a great time at the party last night .",
+        "we had a cake since it was [female] \u0027s birthday .",
+        "she got a doll for a birthday present .",
+        "everyone had fun dancing with lights .",
+        "it was a great time for everyone ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we had a great time at the party last night . we had a lot of fun and the cake was awesome . [male] and [male] were having a good time posing with the birthday girl at the party . we even had a lot of fun dancing with fire sticks . we had a great time, especially [male] when the toy appeared .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "we had a lot of fun and the cake was awesome .",
+        "[male] and [male] were having a good time posing with the birthday girl at the party .",
+        "we even had a lot of fun dancing with fire sticks .",
+        "we had a great time , especially [male] when the toy appeared ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a great time at the party last night . [male] and [male] had fun . we had a blast dancing . overall, we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "[male] and [male] had fun .",
+        "we had a blast dancing .",
+        "overall , we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "675903"
+}

@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "1816990584-1816149945-1816150907-1816143181-1816988088",
+  "photo_sequence_ids": [
+    "1816990584",
+    "1816149945",
+    "1816150907",
+    "1816143181",
+    "1816988088"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2413/1816990584_a899a75c41_o.jpg",
+    "https://farm3.staticflickr.com/2043/1816149945_d99a966b02_o.jpg",
+    "https://farm3.staticflickr.com/2371/1816150907_6004e26ea9_o.jpg",
+    "https://farm3.staticflickr.com/2054/1816143181_398fc238d9_o.jpg",
+    "https://farm3.staticflickr.com/2283/1816988088_c7fe31d969_o.jpg"
+  ],
+  "auto_story_text_normalized": "the party was a lot of fun . we had a lot of fun . it was a lot of fun . i \u0027m not sure what to do . we all had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "The costume party was a lot of fun.  We took a lot of pictures with other people in their costumes.  We all had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the costume party was a lot of fun .",
+        "we took a lot of pictures with other people in their costumes .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The Halloween party was so much fun.  There were many interesting costumes - the clown, the hippies, the strawberry, the bumblebee, the cowgirl, the superhero and others.  We all had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was so much fun .",
+        "there were many interesting costumes - the clown , the hippies , the strawberry , the bumblebee , the cowgirl , the superhero and others .",
+        "we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "The party was a lot of fun, we all had a lot of fun, in fact. Yes, we all had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun , we all had a lot of fun , in fact .",
+        "yes , we all had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A34VIKOCYAW0F3",
+      "edited_story_text": "We had a great time at the costume party. Alot of friends were there in really cool costumes.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the costume party .",
+        "alot of friends were there in really cool costumes ."
+      ]
+    },
+    {
+      "worker_id": "AF5OX8V2MJZCY",
+      "edited_story_text": "The Halloween party was a lot of fun . We had a great time catching up with friends. The costumes all looked great and we were all happy.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "we had a great time catching up with friends .",
+        "the costumes all looked great and we were all happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602826978150"
+}

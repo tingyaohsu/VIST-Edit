@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "64051461-64051511-64051523-64055962-64055982",
+  "photo_sequence_ids": [
+    "64051461",
+    "64051511",
+    "64051523",
+    "64055962",
+    "64055982"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the trip to the city . they took a picture together . they visited the location . they also visited the local historical sites . they posed for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited for the trip to the city . they took a picture together . They went out to eat and took silly pictures. Everyone enjoyed the day.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the trip to the city .",
+        "they took a picture together .",
+        "they went out to eat and took silly pictures .",
+        "everyone enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "The family went on a quick day trip to the city. It\u0027s not often they go there so it was exciting. they went out for drinks and caught up with some old friends",
+      "normalized_edited_story_text_sent": [
+        "the family went on a quick day trip to the city .",
+        "it \u0027s not often they go there so it was exciting .",
+        "they went out for drinks and caught up with some old friends"
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "my family was very happy about our weekend trip. my sisters took so many pictures together. we went out to our favorite brunch place. where we took even more pictures. the meal was great and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my family was very happy about our weekend trip .",
+        "my sisters took so many pictures together .",
+        "we went out to our favorite brunch place .",
+        "where we took even more pictures .",
+        "the meal was great and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We all got down to the city to eat at the new vegan cafe that just opened up.  It was outside, so good thing the weather help up.",
+      "normalized_edited_story_text_sent": [
+        "we all got down to the city to eat at the new vegan cafe that just opened up .",
+        "it was outside , so good thing the weather help up ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was excited for the trip to the city .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the trip to the city ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1399396",
+  "model": "GLAC"
+}

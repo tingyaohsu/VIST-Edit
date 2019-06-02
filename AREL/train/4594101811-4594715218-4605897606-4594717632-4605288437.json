@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4594101811-4594715218-4605897606-4594717632-4605288437",
+  "photo_sequence_ids": [
+    "4594101811",
+    "4594715218",
+    "4605897606",
+    "4594717632",
+    "4605288437"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3322/4594101811_868113c4a2_o.jpg",
+    "https://farm5.staticflickr.com/4035/4594715218_3d0c127d79_o.jpg",
+    "https://farm5.staticflickr.com/4033/4605897606_00c84de747_o.jpg",
+    "https://farm2.staticflickr.com/1242/4594717632_80dd64e2e3_o.jpg",
+    "https://farm2.staticflickr.com/1178/4605288437_c668fb95af_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a great day for a meeting . everyone was having a great time . the man was very happy to be there . the bride and groom were very happy to be together . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "it was a  really nice day when had the meeting . everyone seemed to have a great time (male) was very happy to be there . the bride and groom seemed happy everyone could be together.  I think everyone had a really great time .",
+      "normalized_edited_story_text_sent": [
+        "it was a really nice day when had the meeting .",
+        "everyone seemed to have a great time [male] was very happy to be there .",
+        "the bride and groom seemed happy everyone could be together .",
+        "i think everyone had a really great time ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "it was a great day for a meeting . everyone was having a great time . the man was very happy to be there . the bride and groom were very happy to be together . everyone had a great time  i loved the day",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a meeting .",
+        "everyone was having a great time .",
+        "the man was very happy to be there .",
+        "the bride and groom were very happy to be together .",
+        "everyone had a great time i loved the day"
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "it was a great day for a meeting . everyone was having a great time .We ate some great food. it was buffet style . the bride and groom were very happy to be together . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a meeting .",
+        "everyone was having a great time .",
+        "we ate some great food .",
+        "it was buffet style .",
+        "the bride and groom were very happy to be together .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "it was a great day for a campaign event .  the man was very happy to be there . the candidate spoke to the group.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a campaign event .",
+        "the man was very happy to be there .",
+        "the candidate spoke to the group ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "It was a great day for a meeting and everyone was having a great time together. The business man was very happy to be there to meet the soldiers. Everyone ended up having a nice time.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a meeting and everyone was having a great time together .",
+        "the business man was very happy to be there to meet the soldiers .",
+        "everyone ended up having a nice time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624030292358"
+}

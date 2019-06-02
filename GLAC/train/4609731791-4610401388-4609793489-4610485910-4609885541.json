@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4609731791-4610401388-4609793489-4610485910-4609885541",
+  "photo_sequence_ids": [
+    "4609731791",
+    "4610401388",
+    "4609793489",
+    "4610485910",
+    "4609885541"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the awards ceremony was a great time . the students were very excited . the speaker was very motivational . he had a lot of questions . he was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the graduation ceremony professors were gathered up front on stage. The professors were on the stage smiling.  the professors spoke . the main speaker was very motivational . The students were very excited and proud .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony professors were gathered up front on stage .",
+        "the professors were on the stage smiling .",
+        "the professors spoke .",
+        "the main speaker was very motivational .",
+        "the students were very excited and proud ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the awards ceremony was a great time . the students were very excited . the speaker was very motivational . he had a lot of advice for the graduates . he was very proud .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was a great time .",
+        "the students were very excited .",
+        "the speaker was very motivational .",
+        "he had a lot of advice for the graduates .",
+        "he was very proud ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The award ceremony was certainly a time to be had. Everywhere, there were students that were excited. The speech that was given by the speaker was highly motivational and posed many questions about the times ahead. Though, at the end, he was exceedingly proud of everyone.",
+      "normalized_edited_story_text_sent": [
+        "the award ceremony was certainly a time to be had .",
+        "everywhere , there were students that were excited .",
+        "the speech that was given by the speaker was highly motivational and posed many questions about the times ahead .",
+        "though , at the end , he was exceedingly proud of everyone ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the university awards ceremony took us by storm. the students in ceremonial togas, were of heightened spirits . the speaker\u0027s motivational address soared. later he took scores of audience questions . his and the revelers pride showed.",
+      "normalized_edited_story_text_sent": [
+        "the university awards ceremony took us by storm .",
+        "the students in ceremonial togas , were of heightened spirits .",
+        "the speaker \u0027s motivational address soared .",
+        "later he took scores of audience questions .",
+        "his and the revelers pride showed ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the awards ceremony was fun . students were very excitedly attending . the speaker motivated . he answered many questions . he was proud of the students .",
+      "normalized_edited_story_text_sent": [
+        "the awards ceremony was fun .",
+        "students were very excitedly attending .",
+        "the speaker motivated .",
+        "he answered many questions .",
+        "he was proud of the students ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623931145387",
+  "model": "GLAC"
+}

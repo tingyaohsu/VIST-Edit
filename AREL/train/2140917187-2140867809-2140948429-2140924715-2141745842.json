@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "2140917187-2140867809-2140948429-2140924715-2141745842",
+  "photo_sequence_ids": [
+    "2140917187",
+    "2140867809",
+    "2140948429",
+    "2140924715",
+    "2141745842"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2290/2140917187_5907ef37a5_o.jpg",
+    "https://farm3.staticflickr.com/2194/2140867809_53b3a21ae1_o.jpg",
+    "https://farm3.staticflickr.com/2296/2140948429_608040ba72_o.jpg",
+    "https://farm3.staticflickr.com/2190/2140924715_50d501ffdf_o.jpg",
+    "https://farm3.staticflickr.com/2141/2141745842_7304b3af88_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park yesterday . there were many beautiful plants there . the flowers were so beautiful . some of the plants were very pretty . on the way back to the cemetery , we saw a lot of birds .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "i went to the park yesterday . there were many beautiful plants there . the flowers were so beautiful . some of the plants had fruit on them . there were informative signs on a lot of the plants .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were many beautiful plants there .",
+        "the flowers were so beautiful .",
+        "some of the plants had fruit on them .",
+        "there were informative signs on a lot of the plants ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "i went to the park yesterday. I saw many plants there. the were also beautiful flowers. some of the plants were very pretty. on the way back to the cemetery, we saw a lot of birds.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "i saw many plants there .",
+        "the were also beautiful flowers .",
+        "some of the plants were very pretty .",
+        "on the way back to the cemetery , we saw a lot of birds ."
+      ]
+    },
+    {
+      "worker_id": "A1CVM8I2566ILI",
+      "edited_story_text": "I went to the park yesterday. There were a lot beautiful flowering plants there. The flowers were so beautiful! Some of the plants were very pretty. On the way back to the cemetery, we saw a lot of birds .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were a lot beautiful flowering plants there .",
+        "the flowers were so beautiful !",
+        "some of the plants were very pretty .",
+        "on the way back to the cemetery , we saw a lot of birds ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "I went to the park yesterday.  There were many beautiful plants there.  The flowers were so beautiful.  Some of the plants were very pretty too.  On the way back to the garden, we saw a lot of birds .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were many beautiful plants there .",
+        "the flowers were so beautiful .",
+        "some of the plants were very pretty too .",
+        "on the way back to the garden , we saw a lot of birds ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "i was able to visit the park yesterday . I saw many beautiful and unusual  plants there . I thought  the flowers were so beautiful . some of the plants were very pretty and enjoyed seeing them . After the park, on the way back to the cemetery , there were a lot of birds .",
+      "normalized_edited_story_text_sent": [
+        "i was able to visit the park yesterday .",
+        "i saw many beautiful and unusual plants there .",
+        "i thought the flowers were so beautiful .",
+        "some of the plants were very pretty and enjoyed seeing them .",
+        "after the park , on the way back to the cemetery , there were a lot of birds ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625098821810"
+}

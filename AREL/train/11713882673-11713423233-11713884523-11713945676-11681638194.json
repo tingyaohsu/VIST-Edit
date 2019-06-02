@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "11713882673-11713423233-11713884523-11713945676-11681638194",
+  "photo_sequence_ids": [
+    "11713882673",
+    "11713423233",
+    "11713884523",
+    "11713945676",
+    "11681638194"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3832/11713882673_4c3a53214a_o.jpg",
+    "https://farm4.staticflickr.com/3715/11713423233_d4c8974e8c_o.jpg",
+    "https://farm6.staticflickr.com/5504/11713884523_db756ee0fa_o.jpg",
+    "https://farm6.staticflickr.com/5485/11713945676_2bcb16364d_o.jpg",
+    "https://farm8.staticflickr.com/7311/11681638194_5db0b940ed_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the toy store to see what was going on . the cat was very excited to be there . i had a great time there . this is a picture of a sign . the cat is having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I was at a book store checking things out and there was these cool cats that were very excited to be there . It was interesting hanging out at the store with the cats.",
+      "normalized_edited_story_text_sent": [
+        "i was at a book store checking things out and there was these cool cats that were very excited to be there .",
+        "it was interesting hanging out at the store with the cats ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "i went to the toy store to see what was going on . the cat was very excited to be there . i had a great time there while getting to know the cat . this is a picture of a cat on the drink box . the cat is having a great time with me.",
+      "normalized_edited_story_text_sent": [
+        "i went to the toy store to see what was going on .",
+        "the cat was very excited to be there .",
+        "i had a great time there while getting to know the cat .",
+        "this is a picture of a cat on the drink box .",
+        "the cat is having a great time with me ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the store to see what was going on and saw a cat. the cat sitting on the box was very excited to be there . i had a great time there while seeing the cats. in front of a sign, a cat sat on a beer box . the cat was having a great time just by relaxing .",
+      "normalized_edited_story_text_sent": [
+        "i went to the store to see what was going on and saw a cat .",
+        "the cat sitting on the box was very excited to be there .",
+        "i had a great time there while seeing the cats .",
+        "in front of a sign , a cat sat on a beer box .",
+        "the cat was having a great time just by relaxing ."
+      ]
+    },
+    {
+      "worker_id": "ANMD34DNHLOLC",
+      "edited_story_text": "i went to the store to see what was going on . the cat was very excited to be there . i had a great time there . this cat was sitting on boxes. the cat is taking a nap .",
+      "normalized_edited_story_text_sent": [
+        "i went to the store to see what was going on .",
+        "the cat was very excited to be there .",
+        "i had a great time there .",
+        "this cat was sitting on boxes .",
+        "the cat is taking a nap ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "I went to the bookstore today. I saw cats that were super excited to be there. I enjoyed my time there. But it seemed like the cats enjoyed it more than I did.  I saw one by the books, the other one was sitting on a couple of cases beer, another one napping in the corner.",
+      "normalized_edited_story_text_sent": [
+        "i went to the bookstore today .",
+        "i saw cats that were super excited to be there .",
+        "i enjoyed my time there .",
+        "but it seemed like the cats enjoyed it more than i did .",
+        "i saw one by the books , the other one was sitting on a couple of cases beer , another one napping in the corner ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157639258283935"
+}

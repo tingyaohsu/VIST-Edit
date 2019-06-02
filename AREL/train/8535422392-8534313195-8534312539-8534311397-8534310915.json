@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "8535422392-8534313195-8534312539-8534311397-8534310915",
+  "photo_sequence_ids": [
+    "8535422392",
+    "8534313195",
+    "8534312539",
+    "8534311397",
+    "8534310915"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8243/8535422392_ab6a5263dc_o.jpg",
+    "https://farm9.staticflickr.com/8379/8534313195_0f8d08c93c_o.jpg",
+    "https://farm9.staticflickr.com/8379/8534312539_0892ea517c_o.jpg",
+    "https://farm9.staticflickr.com/8098/8534311397_eba109cb72_o.jpg",
+    "https://farm9.staticflickr.com/8366/8534310915_d4c703625d_o.jpg"
+  ],
+  "auto_story_text_normalized": "the soldiers were all ready for the parade . there were a lot of soldiers there . they were very happy to be there . the soldiers saluted the flag . after the service , the flag was presented to a fallen soldier .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the soldiers were all ready for the parade . there were many soldiers there . they were very happy to be there . the soldiers saluted the flag . after the service , the flag was presented to the mother of a fallen soldier .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all ready for the parade .",
+        "there were many soldiers there .",
+        "they were very happy to be there .",
+        "the soldiers saluted the flag .",
+        "after the service , the flag was presented to the mother of a fallen soldier ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The soldiers were all ready for the parade. The soldiers saluted the flag. There was a man playing a bagpipe.  After the ceremony, the flag was presented to a fallen soldier .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all ready for the parade .",
+        "the soldiers saluted the flag .",
+        "there was a man playing a bagpipe .",
+        "after the ceremony , the flag was presented to a fallen soldier ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "The soldiers were all ready for the parade. There were a lot of soldiers and they were very happy to be there. The soldiers saluted the flag. After the service, the flag was presented to a veteran soldier.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all ready for the parade .",
+        "there were a lot of soldiers and they were very happy to be there .",
+        "the soldiers saluted the flag .",
+        "after the service , the flag was presented to a veteran soldier ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the soldiers were all prepared for the parade . there were more soldiers there . they were exceptionally cheerful to be there . the soldiers saluted the banner. after the service , the flag was displayed to a fallen soldier .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all prepared for the parade .",
+        "there were more soldiers there .",
+        "they were exceptionally cheerful to be there .",
+        "the soldiers saluted the banner .",
+        "after the service , the flag was displayed to a fallen soldier ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The soldiers were all ready for the parade. There were a lot of soldiers there and they were very happy to be there. The soldiers saluted the flag. After the service, the flag was presented to a fallen soldier .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all ready for the parade .",
+        "there were a lot of soldiers there and they were very happy to be there .",
+        "the soldiers saluted the flag .",
+        "after the service , the flag was presented to a fallen soldier ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632932199777"
+}

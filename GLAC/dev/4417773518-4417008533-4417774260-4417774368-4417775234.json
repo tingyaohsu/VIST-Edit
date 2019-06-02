@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4417773518-4417008533-4417774260-4417774368-4417775234",
+  "photo_sequence_ids": [
+    "4417773518",
+    "4417008533",
+    "4417774260",
+    "4417774368",
+    "4417775234"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very boring . he was a bit nervous . he was focused on the presentation . he was very engaging . he was also given a speech .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "There was a presentation at the community center. Lots of seniors and people were there. The presentation was on a powerpoint. Afterwards there was free food and tri-fold presentations of smaller pieces of material.",
+      "normalized_edited_story_text_sent": [
+        "there was a presentation at the community center .",
+        "lots of seniors and people were there .",
+        "the presentation was on a powerpoint .",
+        "afterwards there was free food and tri-fold presentations of smaller pieces of material ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "the speaker was very boring that evening . he was a bit nervous to be in front of a large group . he did focused on the presentation the whole time . he was very engaging to the group . he was also given a speech from a co worker .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very boring that evening .",
+        "he was a bit nervous to be in front of a large group .",
+        "he did focused on the presentation the whole time .",
+        "he was very engaging to the group .",
+        "he was also given a speech from a co worker ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Attended a very boring speech today.  The speaker was monotonous and seems like he was given the speech.  Didn\u0027t have a good time!",
+      "normalized_edited_story_text_sent": [
+        "attended a very boring speech today .",
+        "the speaker was monotonous and seems like he was given the speech .",
+        "did n\u0027t have a good time !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the speaker was very boring . he was a bit nervous .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very boring .",
+        "he was a bit nervous ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the people looked at the paper . she seemed a bit nervous . he was focused on the presentation . people ate snacks . she gave a presentation .",
+      "normalized_edited_story_text_sent": [
+        "the people looked at the paper .",
+        "she seemed a bit nervous .",
+        "he was focused on the presentation .",
+        "people ate snacks .",
+        "she gave a presentation ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623456487091",
+  "model": "GLAC"
+}

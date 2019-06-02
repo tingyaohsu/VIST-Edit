@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5742248788-5741695647-5742249490-5742249548-5742249572",
+  "photo_sequence_ids": [
+    "5742248788",
+    "5741695647",
+    "5742249490",
+    "5742249548",
+    "5742249572"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be at the meeting . he was very excited . he was given a speech . he was so proud . he was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the man was happy to be at the meeting . he was very excited . he was given a speech . he was so proud . he was so happy .\r\rRobert was excited to attended the meeting. He was so happy. I remember the speeches that were given to him. There were tears in his eyes, he was so proud. I could see the look of happiness on his face.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the meeting .",
+        "he was very excited .",
+        "he was given a speech .",
+        "he was so proud .",
+        "he was so happy .",
+        "[male] was excited to attended the meeting .",
+        "he was so happy .",
+        "i remember the speeches that were given to him .",
+        "there were tears in his eyes , he was so proud .",
+        "i could see the look of happiness on his face ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the man was happy to be at the meeting with his team . he was very excited that the new team was announced. he was given a speech about the team work they were going to do . he was so proud how much the team had grown. he was so happy the day went well.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be at the meeting with his team .",
+        "he was very excited that the new team was announced .",
+        "he was given a speech about the team work they were going to do .",
+        "he was so proud how much the team had grown .",
+        "he was so happy the day went well ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The man was happy and excited to be at the meeting.  He was praised in a speech, which made him proud and happy. Several group photos were taken to mark the event.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy and excited to be at the meeting .",
+        "he was praised in a speech , which made him proud and happy .",
+        "several group photos were taken to mark the event ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The man and woman were happy to be at the meeting at the University of San Francisco. The African American speaker was terrific. We took some group pictures after the meeting. Everyone seemed to have a good time.",
+      "normalized_edited_story_text_sent": [
+        "the man and woman were happy to be at the meeting at the university of san francisco .",
+        "the african american speaker was terrific .",
+        "we took some group pictures after the meeting .",
+        "everyone seemed to have a good time ."
+      ]
+    },
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "a man and his son was happy to be at the meeting . he and his son was very excited . he was given a speech on how good he did . he was so proud the whole family was there. he was so happy he made the meeting.",
+      "normalized_edited_story_text_sent": [
+        "a man and his son was happy to be at the meeting .",
+        "he and his son was very excited .",
+        "he was given a speech on how good he did .",
+        "he was so proud the whole family was there .",
+        "he was so happy he made the meeting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626644157407",
+  "model": "GLAC"
+}

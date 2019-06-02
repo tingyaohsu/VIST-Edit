@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "8142728147-8142757790-8142758814-8142729263-8142732919",
+  "photo_sequence_ids": [
+    "8142728147",
+    "8142757790",
+    "8142758814",
+    "8142729263",
+    "8142732919"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the children were excited to be at the halloween party . they had a lot of fun and games . there was even a pinata . the kids had a great time . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "Some family friends got together and decided to throw a Halloween costume party. They all dressed up including their children. There was a delicious dinner that followed.",
+      "normalized_edited_story_text_sent": [
+        "some family friends got together and decided to throw a halloween costume party .",
+        "they all dressed up including their children .",
+        "there was a delicious dinner that followed ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the children were excited to be at the halloween party . Everyone dressed up and posed for photos. The meal was great. Adults dressed up to.",
+      "normalized_edited_story_text_sent": [
+        "the children were excited to be at the halloween party .",
+        "everyone dressed up and posed for photos .",
+        "the meal was great .",
+        "adults dressed up to ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the children were excited to be at the halloween party . they had a lot of fun and games . there was even a pinata . the kids had a great time . the kids had a great time .\r\rMy kids were super excited to be at the Halloween party. They played some fun party games. They also had a cute pinata! The kids there had a blast! My kids especially had a great time!",
+      "normalized_edited_story_text_sent": [
+        "the children were excited to be at the halloween party .",
+        "they had a lot of fun and games .",
+        "there was even a pinata .",
+        "the kids had a great time .",
+        "the kids had a great time .",
+        "my kids were super excited to be at the halloween party .",
+        "they played some fun party games .",
+        "they also had a cute pinata !",
+        "the kids there had a blast !",
+        "my kids especially had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the children were excited to be at the halloween party . they had a lot of fun and games .",
+      "normalized_edited_story_text_sent": [
+        "the children were excited to be at the halloween party .",
+        "they had a lot of fun and games ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the children were excited to be at the halloween party . they had a lot of fun and games . there was a table full of food . they all fun costumes . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the children were excited to be at the halloween party .",
+        "they had a lot of fun and games .",
+        "there was a table full of food .",
+        "they all fun costumes .",
+        "the kids had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631897963439",
+  "model": "GLAC"
+}

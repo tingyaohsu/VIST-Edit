@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6070521495-6071082438-6071077972-6071092120-6071107980",
+  "photo_sequence_ids": [
+    "6070521495",
+    "6071082438",
+    "6071077972",
+    "6071092120",
+    "6071107980"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6202/6070521495_f8a7003163_o.jpg",
+    "https://farm7.staticflickr.com/6193/6071082438_1cfb659be4_o.jpg",
+    "https://farm7.staticflickr.com/6209/6071077972_6cf1f5ce23_o.jpg",
+    "https://farm7.staticflickr.com/6194/6071092120_2459d24b98_o.jpg",
+    "https://farm7.staticflickr.com/6185/6071107980_f3baec08a2_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the family reunion last week . this is a picture of a woman . [female] and [female] had a great time . we all got together for a group photo . [male] took the bus to the train station .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to a family reunion last week. Here\u0027s a picture of [female]. [Female] and [female] had a great time! We all got together for a group photo. [Male] took the bus to the train station.",
+      "normalized_edited_story_text_sent": [
+        "i went to a family reunion last week .",
+        "here \u0027s a picture of [female] .",
+        "[female] and [female] had a great time !",
+        "we all got together for a group photo .",
+        "[male] took the bus to the train station ."
+      ]
+    },
+    {
+      "worker_id": "A2CAMPAA7650H2",
+      "edited_story_text": "[female] kissed her dad goodbye before leaving for school . the girl walked to the bus stop . [male] and [female] had a great time talking about school. we all got together and lined up for the bus . Everyone took the bus to school .",
+      "normalized_edited_story_text_sent": [
+        "[female] kissed her dad goodbye before leaving for school .",
+        "the girl walked to the bus stop .",
+        "[male] and [female] had a great time talking about school .",
+        "we all got together and lined up for the bus .",
+        "everyone took the bus to school ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the family reunion last week that was going on. this is a picture of my daughter. [Susie] and I had a great time . we all got together for a group photo . [Chris] took the bus to the train station .",
+      "normalized_edited_story_text_sent": [
+        "i went to the family reunion last week that was going on .",
+        "this is a picture of my daughter .",
+        "[female] and i had a great time .",
+        "we all got together for a group photo .",
+        "[male] took the bus to the train station ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "i went to the family reunion last week . this is a picture of a little girl . [pat] and [jane] had a great time . we all got together for a group photo . dad took us to the bus station .",
+      "normalized_edited_story_text_sent": [
+        "i went to the family reunion last week .",
+        "this is a picture of a little girl .",
+        "[male] and [female] had a great time .",
+        "we all got together for a group photo .",
+        "dad took us to the bus station ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "It was my daughter\u0027s first day of school. I kissed her goodbye. She walked to the bus stop. She met other kids. They boarded the bus.",
+      "normalized_edited_story_text_sent": [
+        "it was my daughter \u0027s first day of school .",
+        "i kissed her goodbye .",
+        "she walked to the bus stop .",
+        "she met other kids .",
+        "they boarded the bus ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627495555866"
+}

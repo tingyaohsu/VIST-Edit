@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "349295485-349292493-349313493-349314481-349315362",
+  "photo_sequence_ids": [
+    "349295485",
+    "349292493",
+    "349313493",
+    "349314481",
+    "349315362"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/162/349295485_b6b819a58a_o.jpg",
+    "https://farm1.staticflickr.com/130/349292493_8e04838435_o.jpg",
+    "https://farm1.staticflickr.com/129/349313493_59ffca8673_o.jpg",
+    "https://farm1.staticflickr.com/133/349314481_fa6a0b5b92_o.jpg",
+    "https://farm1.staticflickr.com/138/349315362_c7f92b0935_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on vacation last weekend . the city was very tall . i took a lot of pictures of them . there was a cemetery . this is a picture of a cemetery .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I went to visit Washington DC last weekend. The city has a few very tall buildings \u0026 monuments. I took as many pictures as I could. There was a historical cemetery. Here is a picture of the cemetery .",
+      "normalized_edited_story_text_sent": [
+        "i went to visit washington dc last weekend .",
+        "the city has a few very tall buildings \u0026 monuments .",
+        "i took as many pictures as i could .",
+        "there was a historical cemetery .",
+        "here is a picture of the cemetery ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "Last weekend, I went on a vacation to Washington DC. There are a lot of tall buildings in the city. We also went to a cemetery were several famous historical figures are buried.",
+      "normalized_edited_story_text_sent": [
+        "last weekend , i went on a vacation to washington dc .",
+        "there are a lot of tall buildings in the city .",
+        "we also went to a cemetery were several famous historical figures are buried ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "recently i had my vacation trip . the city was full of tall buildings . i captured many photos of them with my camera . there was a cemetery with many graves . i captured the sadness and beauty of the cemetery with a photo.",
+      "normalized_edited_story_text_sent": [
+        "recently i had my vacation trip .",
+        "the city was full of tall buildings .",
+        "i captured many photos of them with my camera .",
+        "there was a cemetery with many graves .",
+        "i captured the sadness and beauty of the cemetery with a photo ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I went on vacation last weekend. The city of Washington D.C. was very tall. I I took a lot of pictures of the monuments. There was a cemetery, so I payed my respects to the deceased there. I then took a lot of pictures of the cemetery and was on my way to look at more things in the city.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend .",
+        "the city of washington d.c. was very tall .",
+        "i i took a lot of pictures of the monuments .",
+        "there was a cemetery , so i payed my respects to the deceased there .",
+        "i then took a lot of pictures of the cemetery and was on my way to look at more things in the city ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went on vacation last weekend, the city was very big. I took lots of pictures at the cemetery. This picture is at the cemetery.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend , the city was very big .",
+        "i took lots of pictures at the cemetery .",
+        "this picture is at the cemetery ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594465479147"
+}

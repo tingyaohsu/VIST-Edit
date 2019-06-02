@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "19789153-19789090-19789178-19789460-19789483",
+  "photo_sequence_ids": [
+    "19789153",
+    "19789090",
+    "19789178",
+    "19789460",
+    "19789483"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduates were excited to graduate . the graduation was a big success . the students were very happy . the family was so proud of their accomplishments . the graduates were happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the graduates were excited to graduate .Everyone was ready in cap and gowns . the students were very happy to pose for pictures. the family was so proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the graduates were excited to graduate .",
+        "everyone was ready in cap and gowns .",
+        "the students were very happy to pose for pictures .",
+        "the family was so proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The three graduates were excited to graduate. The graduation was a large success and the students were ecstatic. The family was so proud of their accomplishments . The graduates were happy .",
+      "normalized_edited_story_text_sent": [
+        "the three graduates were excited to graduate .",
+        "the graduation was a large success and the students were ecstatic .",
+        "the family was so proud of their accomplishments .",
+        "the graduates were happy ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The graduation was a hit! All of the graduates were filled with joy, with each student and their parents standing tall and proud of their accomplishments. Another year, another class elated and ready to take on the world!",
+      "normalized_edited_story_text_sent": [
+        "the graduation was a hit !",
+        "all of the graduates were filled with joy , with each student and their parents standing tall and proud of their accomplishments .",
+        "another year , another class elated and ready to take on the world !"
+      ]
+    },
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "The graduation was full of excited students, ready to graduate. All of the families were so proud of the accomplishments of the graduates. The ceremony was a big success.",
+      "normalized_edited_story_text_sent": [
+        "the graduation was full of excited students , ready to graduate .",
+        "all of the families were so proud of the accomplishments of the graduates .",
+        "the ceremony was a big success ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The graduates were all gathered around excited about the day and making their speeches.",
+      "normalized_edited_story_text_sent": [
+        "the graduates were all gathered around excited about the day and making their speeches ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "463870",
+  "model": "GLAC"
+}

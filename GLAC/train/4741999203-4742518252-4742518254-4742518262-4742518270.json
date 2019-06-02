@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4741999203-4742518252-4742518254-4742518262-4742518270",
+  "photo_sequence_ids": [
+    "4741999203",
+    "4742518252",
+    "4742518254",
+    "4742518262",
+    "4742518270"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was gathered for the baby shower . the kids were all excited to be there . the children were happy to see each other . the kids were having a great time . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a gathering after the baby shower . kids were all excited to play . the kids were happy to see cousins they missed . the kids were having fun . the reunited family was happy .",
+      "normalized_edited_story_text_sent": [
+        "the family had a gathering after the baby shower .",
+        "kids were all excited to play .",
+        "the kids were happy to see cousins they missed .",
+        "the kids were having fun .",
+        "the reunited family was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was gathered for the baby shower . the kids were all excited to be there . the children were happy to see each other . the kids were having a great time . everyone loved the games .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the baby shower .",
+        "the kids were all excited to be there .",
+        "the children were happy to see each other .",
+        "the kids were having a great time .",
+        "everyone loved the games ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family was gathered for the field trip . the kids were all excited to be there . the children were happy to see each other they arrived on a bus. the kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the field trip .",
+        "the kids were all excited to be there .",
+        "the children were happy to see each other they arrived on a bus .",
+        "the kids were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The gathering was a hit with all the kids having a great time doing arts and crafts.",
+      "normalized_edited_story_text_sent": [
+        "the gathering was a hit with all the kids having a great time doing arts and crafts ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The kids were all gathered around making sandwiches for themselves.  They were taking pictures and having a lot of fun together.",
+      "normalized_edited_story_text_sent": [
+        "the kids were all gathered around making sandwiches for themselves .",
+        "they were taking pictures and having a lot of fun together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624251724973",
+  "model": "GLAC"
+}

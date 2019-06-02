@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "24507522-24507350-24507330-24507346-24507497",
+  "photo_sequence_ids": [
+    "24507522",
+    "24507350",
+    "24507330",
+    "24507346",
+    "24507497"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to be graduating . they were given a certificate . they had a great time . they had a cake . the family was so proud of them .",
+  "edited_stories": [
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the people had fun at the gathering . they ate a meal . they even had desserts . they had a cake . the family was so proud of them .",
+      "normalized_edited_story_text_sent": [
+        "the people had fun at the gathering .",
+        "they ate a meal .",
+        "they even had desserts .",
+        "they had a cake .",
+        "the family was so proud of them ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The teachers all gathered for the retirement party . Everyone had known each other for years . They had been working together for a long time. There were cupcakes and giant card",
+      "normalized_edited_story_text_sent": [
+        "the teachers all gathered for the retirement party .",
+        "everyone had known each other for years .",
+        "they had been working together for a long time .",
+        "there were cupcakes and giant card"
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the retirement party was a great success. everyone mingled and was enjoying the party. the cake looked delicious. there was a lot of food and desserts at the party. they had a great time . everyone was so proud.",
+      "normalized_edited_story_text_sent": [
+        "the retirement party was a great success .",
+        "everyone mingled and was enjoying the party .",
+        "the cake looked delicious .",
+        "there was a lot of food and desserts at the party .",
+        "they had a great time .",
+        "everyone was so proud ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the students were excited to be graduating from elementary school . they were given a certificate for the occasion . they had a great time eating all the cake . they had a tough team eating all the cake . the family was so proud of them to complete school.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be graduating from elementary school .",
+        "they were given a certificate for the occasion .",
+        "they had a great time eating all the cake .",
+        "they had a tough team eating all the cake .",
+        "the family was so proud of them to complete school ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the students were excited to be graduating . they were given a certificate . they had a great time . the cupcakes looked yummy  . the family was so proud of them .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be graduating .",
+        "they were given a certificate .",
+        "they had a great time .",
+        "the cupcakes looked yummy .",
+        "the family was so proud of them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "560264",
+  "model": "GLAC"
+}

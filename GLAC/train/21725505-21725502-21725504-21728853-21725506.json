@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "21725505-21725502-21725504-21728853-21725506",
+  "photo_sequence_ids": [
+    "21725505",
+    "21725502",
+    "21725504",
+    "21728853",
+    "21725506"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was ready for the big day . the cat was excited to be there . the first thing was the black and white . the girls were happy and having a good time . the party was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the car was ready for the big day . the cat was even excited to be there . the boy loved the robot. the girls were happy and having a good time . the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "the car was ready for the big day .",
+        "the cat was even excited to be there .",
+        "the boy loved the robot .",
+        "the girls were happy and having a good time .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the car was ready for the big day . the cat was excited to be there . the first thing was the black and white . the girls were happy and having a good time . they played fun games .",
+      "normalized_edited_story_text_sent": [
+        "the car was ready for the big day .",
+        "the cat was excited to be there .",
+        "the first thing was the black and white .",
+        "the girls were happy and having a good time .",
+        "they played fun games ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "People are looking at the car at the expo. The cat has a silver collar. One exhibit looks like a shark airplane. A young boy is with a robot. A ladle is scooping a white substance.",
+      "normalized_edited_story_text_sent": [
+        "people are looking at the car at the expo .",
+        "the cat has a silver collar .",
+        "one exhibit looks like a shark airplane .",
+        "a young boy is with a robot .",
+        "a ladle is scooping a white substance ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the car was one of the main attractions . Somehow a cat snuck in . the first thing was the black and white . the girls were happy and having a good time . the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "the car was one of the main attractions .",
+        "somehow a cat snuck in .",
+        "the first thing was the black and white .",
+        "the girls were happy and having a good time .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert got the car was ready for the big day .Mary and the cat was excited to be there . the first thing was the black and white . the girls were happy and having a good time . the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "[male] got the car was ready for the big day .",
+        "[female] and the cat was excited to be there .",
+        "the first thing was the black and white .",
+        "the girls were happy and having a good time .",
+        "the party was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "504823",
+  "model": "GLAC"
+}

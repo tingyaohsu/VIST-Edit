@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5411560428-5411561802-5411562094-5411563496-5410951049",
+  "photo_sequence_ids": [
+    "5411560428",
+    "5411561802",
+    "5411562094",
+    "5411563496",
+    "5410951049"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very shiny . the hood was in the condition . the room was full of equipment . the computer was clean . the office was also organized .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the car was very shiny . the man was cleaning the inside so people could relax . the room was full of equipment . the computer was clean . the office was also organized .",
+      "normalized_edited_story_text_sent": [
+        "the car was very shiny .",
+        "the man was cleaning the inside so people could relax .",
+        "the room was full of equipment .",
+        "the computer was clean .",
+        "the office was also organized ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Take a look at our body shop.  This is where all the magic happens in restoring old RVs.  Come down and check us out!!!",
+      "normalized_edited_story_text_sent": [
+        "take a look at our body shop .",
+        "this is where all the magic happens in restoring old rvs .",
+        "come down and check us out !!!"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The motor home was being worked on. The inside was very nice. The motor home was in the garage. He knelt by the motor home.",
+      "normalized_edited_story_text_sent": [
+        "the motor home was being worked on .",
+        "the inside was very nice .",
+        "the motor home was in the garage .",
+        "he knelt by the motor home ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the bus was very shiny  and needed to be repaired. the hood was in good condition but the engine needed to be repaired . the room was full of mechanic\u0027s equipment . the computer checking the engine was clean . the office was also organized with records .",
+      "normalized_edited_story_text_sent": [
+        "the bus was very shiny and needed to be repaired .",
+        "the hood was in good condition but the engine needed to be repaired .",
+        "the room was full of mechanic \u0027s equipment .",
+        "the computer checking the engine was clean .",
+        "the office was also organized with records ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The RV was in need of a work up.  The hood was in the condition.  The interior was being worked on, and it was about to be ready.",
+      "normalized_edited_story_text_sent": [
+        "the rv was in need of a work up .",
+        "the hood was in the condition .",
+        "the interior was being worked on , and it was about to be ready ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625837785063",
+  "model": "GLAC"
+}

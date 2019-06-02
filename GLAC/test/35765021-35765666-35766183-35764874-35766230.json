@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "35765021-35765666-35766183-35764874-35766230",
+  "photo_sequence_ids": [
+    "35765021",
+    "35765666",
+    "35766183",
+    "35764874",
+    "35766230"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was a beautiful place to visit . the bride and groom were very happy . the cake was delicious . the family was so happy for them . the wedding was a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the church was a beautiful place to visit . the bride and groom were  happy . the cake was delicious . the family was dancing and so happy for them . the wedding was a great time, fun and joy for the children .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place to visit .",
+        "the bride and groom were happy .",
+        "the cake was delicious .",
+        "the family was dancing and so happy for them .",
+        "the wedding was a great time , fun and joy for the children ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the church was a beautiful place for the wedding. the bride and groom seemed very happy . the cake was really cute . the kids seemed to have a lot of fun.  the wedding was really nice.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place for the wedding .",
+        "the bride and groom seemed very happy .",
+        "the cake was really cute .",
+        "the kids seemed to have a lot of fun .",
+        "the wedding was really nice ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the church was the perfect place for the wedding . the bride and groom were very happy . the chocolate cake was delicious . the family was so happy for them . the wedding was a great time .",
+      "normalized_edited_story_text_sent": [
+        "the church was the perfect place for the wedding .",
+        "the bride and groom were very happy .",
+        "the chocolate cake was delicious .",
+        "the family was so happy for them .",
+        "the wedding was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the church that we went to was a very beautiful place to visit. the bride and groom were very happy for their special day. the  wedding cake was very delicious . the entire family was so happy for them . It was such a great time at the wedding.",
+      "normalized_edited_story_text_sent": [
+        "the church that we went to was a very beautiful place to visit .",
+        "the bride and groom were very happy for their special day .",
+        "the wedding cake was very delicious .",
+        "the entire family was so happy for them .",
+        "it was such a great time at the wedding ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the church was a beautiful place to visit . the bride and groom were very happy . the cake was unique . the family was so happy for them . we had a great time at the wedding .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful place to visit .",
+        "the bride and groom were very happy .",
+        "the cake was unique .",
+        "the family was so happy for them .",
+        "we had a great time at the wedding ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "791186",
+  "model": "GLAC"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "5399030648-5399031132-5399033716-5398431347-5398429501",
+  "photo_sequence_ids": [
+    "5399030648",
+    "5399031132",
+    "5399033716",
+    "5398431347",
+    "5398429501"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the birds were flying over the water . the sky was calm . the bird was in the middle of the ocean . the bird was watching the waves .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "The weather outside was icy and snowy.  Some birds were on the ice.  Otherwise the area was barren.  The bird stood in the middle of the water.  The bird was watching nature.",
+      "normalized_edited_story_text_sent": [
+        "the weather outside was icy and snowy .",
+        "some birds were on the ice .",
+        "otherwise the area was barren .",
+        "the bird stood in the middle of the water .",
+        "the bird was watching nature ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the sun was setting . the birds were flying over the water . snow filled the ground . the birds walked on ice . the bird was watching the area .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "the birds were flying over the water .",
+        "snow filled the ground .",
+        "the birds walked on ice .",
+        "the bird was watching the area ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Lots of wildlife enjoying the winter season.",
+      "normalized_edited_story_text_sent": [
+        "lots of wildlife enjoying the winter season ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "as the sun was setting over the calm sky, birds were flying over the ocean water. one bird was looking at the waves below.",
+      "normalized_edited_story_text_sent": [
+        "as the sun was setting over the calm sky , birds were flying over the ocean water .",
+        "one bird was looking at the waves below ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the sun was setting as the day winded down . the birds were flying over the water which was frozen at the time . the sky was calm without a cloud in the sky . the bird was in the middle of the ocean as he swooped down for a fish . the bird was watching the waves which were under the ice .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting as the day winded down .",
+        "the birds were flying over the water which was frozen at the time .",
+        "the sky was calm without a cloud in the sky .",
+        "the bird was in the middle of the ocean as he swooped down for a fish .",
+        "the bird was watching the waves which were under the ice ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625807339605",
+  "model": "GLAC"
+}

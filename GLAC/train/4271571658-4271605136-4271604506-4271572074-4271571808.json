@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "4271571658-4271605136-4271604506-4271572074-4271571808",
+  "photo_sequence_ids": [
+    "4271571658",
+    "4271605136",
+    "4271604506",
+    "4271572074",
+    "4271571808"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graveyard was very old . the buildings were tall . the walls were abandoned . the signs were written on the wall . the building was still standing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "We went along a old graveyard tour, which ended at a Historic Lighthouse. The lighthouse was small and very old and we were fascinated at the way it looked as did the surrounding tourists.",
+      "normalized_edited_story_text_sent": [
+        "we went along a old graveyard tour , which ended at a historic lighthouse .",
+        "the lighthouse was small and very old and we were fascinated at the way it looked as did the surrounding tourists ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the lighthouse was very old, the sky was beautiful , people loved visiting the lighthouse high in the sky.",
+      "normalized_edited_story_text_sent": [
+        "the lighthouse was very old , the sky was beautiful , people loved visiting the lighthouse high in the sky ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "While visiting the city, we saw an old graveyard and some tall buildings. There were signs describing some of the abandoned architecture.",
+      "normalized_edited_story_text_sent": [
+        "while visiting the city , we saw an old graveyard and some tall buildings .",
+        "there were signs describing some of the abandoned architecture ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the graveyard was very old . the buildings were tall . the walls were strong . the signs were written on the wall . the lighthouse was standing tall .",
+      "normalized_edited_story_text_sent": [
+        "the graveyard was very old .",
+        "the buildings were tall .",
+        "the walls were strong .",
+        "the signs were written on the wall .",
+        "the lighthouse was standing tall ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the graveyard was very old and not well kept . the buildings were tall in length . the walls were abandoned nd had been painted in years . the signs were written on the wall but had paint on them . the building was still standing which was a shock .",
+      "normalized_edited_story_text_sent": [
+        "the graveyard was very old and not well kept .",
+        "the buildings were tall in length .",
+        "the walls were abandoned nd had been painted in years .",
+        "the signs were written on the wall but had paint on them .",
+        "the building was still standing which was a shock ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623077077427",
+  "model": "GLAC"
+}

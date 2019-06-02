@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6935527-6935580-6935604-6935621-6935694",
+  "photo_sequence_ids": [
+    "6935527",
+    "6935580",
+    "6935604",
+    "6935621",
+    "6935694"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the crowd was excited . the drummer was very good . the lead singer sang a song . the crowd was really into the performance .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the band was playing music . the crowd was excited . the drummer was very good . the lead singer sang a song . the crowd was really into the performance .\r\rThe Mary Roberts band played music up on stage. The crowd went wild! The drummer was incredible! I remember the lead vocalist sang a few songs. The crowd was really into it.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the crowd was excited .",
+        "the drummer was very good .",
+        "the lead singer sang a song .",
+        "the crowd was really into the performance .",
+        "the [female] roberts band played music up on stage .",
+        "the crowd went wild !",
+        "the drummer was incredible !",
+        "i remember the lead vocalist sang a few songs .",
+        "the crowd was really into it ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the guy was dressed in green . the crowd was excited . the dude was very silly . the friends posed together . the crowd was really into the performance .",
+      "normalized_edited_story_text_sent": [
+        "the guy was dressed in green .",
+        "the crowd was excited .",
+        "the dude was very silly .",
+        "the friends posed together .",
+        "the crowd was really into the performance ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "family and friends came out. it was a good time",
+      "normalized_edited_story_text_sent": [
+        "family and friends came out .",
+        "it was a good time"
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "People were getting ready for the St. Patrick\u0027s Day party. They put up a canopy in case the weather got bad. Everyone was dressing in green. People were happy to pose for pictures. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "people were getting ready for the st. patrick \u0027s day party .",
+        "they put up a canopy in case the weather got bad .",
+        "everyone was dressing in green .",
+        "people were happy to pose for pictures .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the band was playing music for the festival. the crowd was excited to see the band. the drummer was very good at keeping the beat. the lead singer sang a song that everyone knew the words to. the crowd was really into the performance and started to dance .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music for the festival .",
+        "the crowd was excited to see the band .",
+        "the drummer was very good at keeping the beat .",
+        "the lead singer sang a song that everyone knew the words to .",
+        "the crowd was really into the performance and started to dance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "172875",
+  "model": "GLAC"
+}

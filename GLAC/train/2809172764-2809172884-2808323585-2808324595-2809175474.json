@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "2809172764-2809172884-2808323585-2808324595-2809175474",
+  "photo_sequence_ids": [
+    "2809172764",
+    "2809172884",
+    "2808323585",
+    "2808324595",
+    "2809175474"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the zoo . they saw a panda . they also saw a lot of cool things . they even got to see a giraffe . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "My family went on a trip to the zoo . We saw a panda . We saw a lot of cool things there. We even got to see a giraffe. the kids enjoyed themselves and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "my family went on a trip to the zoo .",
+        "we saw a panda .",
+        "we saw a lot of cool things there .",
+        "we even got to see a giraffe .",
+        "the kids enjoyed themselves and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went on a trip to the big zoo . they saw a panda . they also saw a lot of neat things . they even got to see a giraffe . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the big zoo .",
+        "they saw a panda .",
+        "they also saw a lot of neat things .",
+        "they even got to see a giraffe .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went on a trip to the zoo . they saw a lot of cool things . they even got to see a giraffe . the kids had a great time. it was a fun and eventful day .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the zoo .",
+        "they saw a lot of cool things .",
+        "they even got to see a giraffe .",
+        "the kids had a great time .",
+        "it was a fun and eventful day ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My family went on a trip to the zoo. We saw a panda. We also saw a lot of other cool things. We even got to see a giraffe. The kids had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my family went on a trip to the zoo .",
+        "we saw a panda .",
+        "we also saw a lot of other cool things .",
+        "we even got to see a giraffe .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went on a trip to the zoo . they saw a warthog . they also saw a lot of rare animals . they even got to see a giraffe . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the zoo .",
+        "they saw a warthog .",
+        "they also saw a lot of rare animals .",
+        "they even got to see a giraffe .",
+        "the kids had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157607012581475",
+  "model": "GLAC"
+}

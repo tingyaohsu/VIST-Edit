@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "43975089-43975069-43975081-43975083-43975087",
+  "photo_sequence_ids": [
+    "43975089",
+    "43975069",
+    "43975081",
+    "43975083",
+    "43975087"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was a beautiful event . the bride and groom were very happy . the couple was so excited to be married . the groom was very happy . the bride and groom were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David  thought the wedding was a beautiful event . the bride and groom were very happy . the couple was so excited to be married . the groom was very happy . the bride and groom were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] thought the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the groom was very happy .",
+        "the bride and groom were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The wedding went off without a hitch! Everyone loved it. It was totally worth it. The bride and groom were obviously quite in love. I am happy for them.",
+      "normalized_edited_story_text_sent": [
+        "the wedding went off without a hitch !",
+        "everyone loved it .",
+        "it was totally worth it .",
+        "the bride and groom were obviously quite in love .",
+        "i am happy for them ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy . the couple was so excited to be married . the groom was very happy . the bride and groom were dressed very simply .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the groom was very happy .",
+        "the bride and groom were dressed very simply ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy . the couple was so excited to be married . the couple danced around  . the bride and groom were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the couple danced around .",
+        "the bride and groom were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy . the cake was gorgeous . the couple danced together . the bride and groom were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the cake was gorgeous .",
+        "the couple danced together .",
+        "the bride and groom were having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "962352",
+  "model": "GLAC"
+}

@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4683917461-4684548716-4683913995-4684544220-4683913381",
+  "photo_sequence_ids": [
+    "4683917461",
+    "4684548716",
+    "4683913995",
+    "4684544220",
+    "4683913381"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the reception was very nice . the bride and groom were so happy . the family was so happy . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert told Mary the wedding was beautiful . the reception was very nice . the bride and groom were so happy . the family was so happy . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "[male] told [female] the wedding was beautiful .",
+        "the reception was very nice .",
+        "the bride and groom were so happy .",
+        "the family was so happy .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the wedding was beautiful . Mary and Lisa were dressed up very nice. the reception was very nice . the tables looked very elegant. everyone was getting their pictures taken.the bride and groom were so happy . the little baby looked so cute in pink. the family was so happy . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "[female] and [female] were dressed up very nice .",
+        "the reception was very nice .",
+        "the tables looked very elegant .",
+        "everyone was getting their pictures taken.the bride and groom were so happy .",
+        "the little baby looked so cute in pink .",
+        "the family was so happy .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was beautifully attended . the reception was very thought out . the bride and groom were glad to finally be married . the family was supportive and happy . the food was cooked by a skilled chef .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautifully attended .",
+        "the reception was very thought out .",
+        "the bride and groom were glad to finally be married .",
+        "the family was supportive and happy .",
+        "the food was cooked by a skilled chef ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The wedding was gorgeous, and the reception was very nice too. The bride and groom were really happy, and their families were, too. And oh boy was the food good!",
+      "normalized_edited_story_text_sent": [
+        "the wedding was gorgeous , and the reception was very nice too .",
+        "the bride and groom were really happy , and their families were , too .",
+        "and oh boy was the food good !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the wedding was beautiful . The tables were set formally. People posed for pictures. The baby was at the table being held.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the tables were set formally .",
+        "people posed for pictures .",
+        "the baby was at the table being held ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624235889886",
+  "model": "GLAC"
+}

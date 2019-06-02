@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5411560428-5411561802-5411562094-5411563496-5410951049",
+  "photo_sequence_ids": [
+    "5411560428",
+    "5411561802",
+    "5411562094",
+    "5411563496",
+    "5410951049"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4152/5411560428_424be127d9_o.jpg",
+    "https://farm5.staticflickr.com/4154/5411561802_c68d61d06d_o.jpg",
+    "https://farm6.staticflickr.com/5176/5411562094_5b613a509c_o.jpg",
+    "https://farm5.staticflickr.com/4120/5411563496_36066d03d9_o.jpg",
+    "https://farm5.staticflickr.com/4154/5410951049_9da8bb4c9e_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the store to buy some groceries . this is a picture of a tree . the inside of the building was very clean . it was a lot of fun . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the store to buy some groceries. Here is a picture of a tree. The inside of the building was very clean! It was a lot of fun. Here\u0027s a picture of the building.",
+      "normalized_edited_story_text_sent": [
+        "i went to the store to buy some groceries .",
+        "here is a picture of a tree .",
+        "the inside of the building was very clean !",
+        "it was a lot of fun .",
+        "here \u0027s a picture of the building ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "my friend is fixing up an RV and making it really nice inside. he\u0027s replacing everything. it was a lot of fun to help him do some of the work.",
+      "normalized_edited_story_text_sent": [
+        "my friend is fixing up an rv and making it really nice inside .",
+        "he \u0027s replacing everything .",
+        "it was a lot of fun to help him do some of the work ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the store to buy an rv . this is a picture of the inside of a rv . the inside of the building was very clean . it was a lot of fun . this is a picture of the outside of a rv .",
+      "normalized_edited_story_text_sent": [
+        "i went to the store to buy an rv .",
+        "this is a picture of the inside of a rv .",
+        "the inside of the building was very clean .",
+        "it was a lot of fun .",
+        "this is a picture of the outside of a rv ."
+      ]
+    },
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "i went to look at a tour bus. this is a picture of the tour bus inside. the inside of the bus was very clean . this is the outside of the bus . this is a picture of the side of the bus.",
+      "normalized_edited_story_text_sent": [
+        "i went to look at a tour bus .",
+        "this is a picture of the tour bus inside .",
+        "the inside of the bus was very clean .",
+        "this is the outside of the bus .",
+        "this is a picture of the side of the bus ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "i went to the store to get a few groceries . this is a photo of a tree . the inside of the building was spotless  . it was a great deal of fun . this is a photo of a building .",
+      "normalized_edited_story_text_sent": [
+        "i went to the store to get a few groceries .",
+        "this is a photo of a tree .",
+        "the inside of the building was spotless .",
+        "it was a great deal of fun .",
+        "this is a photo of a building ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625837785063"
+}

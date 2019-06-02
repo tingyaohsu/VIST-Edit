@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4868766363-4868770883-4869392258-4868788477-4868793735",
+  "photo_sequence_ids": [
+    "4868766363",
+    "4868770883",
+    "4869392258",
+    "4868788477",
+    "4868793735"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were in full bloom . the purple flower was a bit too much . the flowers were so vibrant . the pink one was white . the red was a lovely touch .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the flowers were in full bloom due to it being the spring . the purple flower was a bit too much for some to look at . the flowers were so vibrant due to the white background . the pink one had a white background . the red was a lovely touch to the bottles .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom due to it being the spring .",
+        "the purple flower was a bit too much for some to look at .",
+        "the flowers were so vibrant due to the white background .",
+        "the pink one had a white background .",
+        "the red was a lovely touch to the bottles ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "flowers were blooming . the purple and white flower was beautiful . the flowers were alive . a purple and white flower was stuck in a bottle . a rose was also pretty .",
+      "normalized_edited_story_text_sent": [
+        "flowers were blooming .",
+        "the purple and white flower was beautiful .",
+        "the flowers were alive .",
+        "a purple and white flower was stuck in a bottle .",
+        "a rose was also pretty ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the flowers were in full bloom and vibrant. the flowers were pink and white.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom and vibrant .",
+        "the flowers were pink and white ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "The flowers were absolutely beautiful! They were in full bloom; white with dark purple spots and a dark purple center. I took some photos of the fresh-cut flowers in a glass bottle in several different places.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were absolutely beautiful !",
+        "they were in full bloom ; white with dark purple spots and a dark purple center .",
+        "i took some photos of the fresh-cut flowers in a glass bottle in several different places ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The orchids are in full bloom right now.  Look at the awesome red and white color on them.  Even saw one in a beer bottle.",
+      "normalized_edited_story_text_sent": [
+        "the orchids are in full bloom right now .",
+        "look at the awesome red and white color on them .",
+        "even saw one in a beer bottle ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624549191891",
+  "model": "GLAC"
+}

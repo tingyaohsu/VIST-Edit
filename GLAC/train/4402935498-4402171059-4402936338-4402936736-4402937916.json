@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4402935498-4402171059-4402936338-4402936736-4402937916",
+  "photo_sequence_ids": [
+    "4402935498",
+    "4402171059",
+    "4402936338",
+    "4402936736",
+    "4402937916"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the night was a great time . the lights were bright and vibrant . the music was fantastic . the music was amazing . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The night was a great time. The lights were bright and vibrant, and the music was fantastic. The music was really amazing. The food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the night was a great time .",
+        "the lights were bright and vibrant , and the music was fantastic .",
+        "the music was really amazing .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "I spent an awesome evening at the very intimate Spotted Cat Music Club in New Orleans . it was so relaxing, eating delicious treats and enjoying drinks while listening to talented musicians play amazing music . the lighting was just right and the atmosphere was vibrant . good stuff .",
+      "normalized_edited_story_text_sent": [
+        "i spent an awesome evening at the very intimate spotted cat music club in new orleans .",
+        "it was so relaxing , eating delicious treats and enjoying drinks while listening to talented musicians play amazing music .",
+        "the lighting was just right and the atmosphere was vibrant .",
+        "good stuff ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the night was going to be fun . the lights were enlightening . the music was soundly good . the music made people think . delicious food was served .",
+      "normalized_edited_story_text_sent": [
+        "the night was going to be fun .",
+        "the lights were enlightening .",
+        "the music was soundly good .",
+        "the music made people think .",
+        "delicious food was served ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the night was a great time . the lights were bright and vibrant . The band played. We got a snack afterwards.",
+      "normalized_edited_story_text_sent": [
+        "the night was a great time .",
+        "the lights were bright and vibrant .",
+        "the band played .",
+        "we got a snack afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the night out at the club with my friends was a great time . the lights were bright and vibrant and made the place look nice. the music was fantastic and the band took requests . the music was amazing and it lasted for hours. the Italian food we had for dinner was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the night out at the club with my friends was a great time .",
+        "the lights were bright and vibrant and made the place look nice .",
+        "the music was fantastic and the band took requests .",
+        "the music was amazing and it lasted for hours .",
+        "the italian food we had for dinner was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623544089176",
+  "model": "GLAC"
+}

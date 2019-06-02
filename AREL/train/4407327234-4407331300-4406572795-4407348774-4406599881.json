@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4407327234-4407331300-4406572795-4407348774-4406599881",
+  "photo_sequence_ids": [
+    "4407327234",
+    "4407331300",
+    "4406572795",
+    "4407348774",
+    "4406599881"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4037/4407327234_e43923df61_o.jpg",
+    "https://farm5.staticflickr.com/4032/4407331300_0fcdeef5ea_o.jpg",
+    "https://farm5.staticflickr.com/4048/4406572795_b97f166932_o.jpg",
+    "https://farm5.staticflickr.com/4014/4407348774_debb286f4c_o.jpg",
+    "https://farm5.staticflickr.com/4049/4406599881_1e0bee5854_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was the day of the big race . there were a lot of people there . there were a lot of people there . he was very happy to see him . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "A big storm was coming. People were busy fueling their cars for evacuation. Newsmen were interviewing locals. Business owners were boarding up their storefronts. The police were prepared for anything.",
+      "normalized_edited_story_text_sent": [
+        "a big storm was coming .",
+        "people were busy fueling their cars for evacuation .",
+        "newsmen were interviewing locals .",
+        "business owners were boarding up their storefronts .",
+        "the police were prepared for anything ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "it is the day of the big race . there are a lot of people there . there are a lot of people there . he is very happy to see him . i have a great time there .",
+      "normalized_edited_story_text_sent": [
+        "it is the day of the big race .",
+        "there are a lot of people there .",
+        "there are a lot of people there .",
+        "he is very happy to see him .",
+        "i have a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "it was the day of the big storm . there were a lot of people at the evacuation area. some of the people were interviewed. he was glad to see him . i had an interesting time there .",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the big storm .",
+        "there were a lot of people at the evacuation area .",
+        "some of the people were interviewed .",
+        "he was glad to see him .",
+        "i had an interesting time there ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Today was the day of the big race. There were a lot of people there even though it was in a tsunami evacuation area! There were reporters there too and one of them interviewed me! Everyone was happy to see us and the area felt very safe with all the police nearby. I had a great time!",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big race .",
+        "there were a lot of people there even though it was in a tsunami evacuation area !",
+        "there were reporters there too and one of them interviewed me !",
+        "everyone was happy to see us and the area felt very safe with all the police nearby .",
+        "i had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "it was the day of the huge race . there were many people there . there were many people there . he was very glad to see him . i had a extraordinary time there .",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the huge race .",
+        "there were many people there .",
+        "there were many people there .",
+        "he was very glad to see him .",
+        "i had a extraordinary time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623430943057"
+}

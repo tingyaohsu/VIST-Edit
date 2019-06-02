@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "3653084102-3653088450-3652294045-3652326153-3653126646",
+  "photo_sequence_ids": [
+    "3653084102",
+    "3653088450",
+    "3652294045",
+    "3652326153",
+    "3653126646"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3606/3653084102_31402cf93e_o.jpg",
+    "https://farm4.staticflickr.com/3631/3653088450_281b2f733e_o.jpg",
+    "https://farm4.staticflickr.com/3305/3652294045_974aba94bc_o.jpg",
+    "https://farm4.staticflickr.com/3663/3652326153_6512bf2010_o.jpg",
+    "https://farm4.staticflickr.com/3623/3653126646_22c2b2e176_o.jpg"
+  ],
+  "auto_story_text_normalized": "my friend and i decided to go for a walk in the city . we had a great time there . we arrived at the airport and waited for the train to start . we saw a plane on the ground . when the sun went down , it was time to go home .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "My friend and I decided to go for a walk around the city. We had a great time there. We arrived at the airport and waited for the train to start. We saw a plane on the ground. When the sun went down, it was time to go home.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i decided to go for a walk around the city .",
+        "we had a great time there .",
+        "we arrived at the airport and waited for the train to start .",
+        "we saw a plane on the ground .",
+        "when the sun went down , it was time to go home ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "my friend and i decided to go for a walk around the city. we had a great time looking at all the sites and interesting buildings. then we had to go to the airport for our flight home. while we waited to board the plane, we watched the sun go down. we had a good time, but we were happy to get home.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i decided to go for a walk around the city .",
+        "we had a great time looking at all the sites and interesting buildings .",
+        "then we had to go to the airport for our flight home .",
+        "while we waited to board the plane , we watched the sun go down .",
+        "we had a good time , but we were happy to get home ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The road trip was a lot of fun. We packed our suitcases and was ready for the adventure.  We drove to the airport but stopped to take a picture of this cool truck. We arrived at the airport and waited for our flight. It was a long day.  When we got to the hotel, the boys were ready for bed.",
+      "normalized_edited_story_text_sent": [
+        "the road trip was a lot of fun .",
+        "we packed our suitcases and was ready for the adventure .",
+        "we drove to the airport but stopped to take a picture of this cool truck .",
+        "we arrived at the airport and waited for our flight .",
+        "it was a long day .",
+        "when we got to the hotel , the boys were ready for bed ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "Bags are packed. My friend And I were leaving. we arrived at the airport  . we saw a plane on the sky . when the sun went down , it was time to go home .",
+      "normalized_edited_story_text_sent": [
+        "bags are packed .",
+        "my friend and i were leaving .",
+        "we arrived at the airport .",
+        "we saw a plane on the sky .",
+        "when the sun went down , it was time to go home ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "A friend and I decided to take a walk in the city.What a great time! We awaited for the train,. we saw a WWII planes on the ground . when the sun went down, we were sad it was time to go home .",
+      "normalized_edited_story_text_sent": [
+        "a friend and i decided to take a walk in the city.what a great time !",
+        "we awaited for the train , .",
+        "we saw a wwii planes on the ground .",
+        "when the sun went down , we were sad it was time to go home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157620318549638"
+}

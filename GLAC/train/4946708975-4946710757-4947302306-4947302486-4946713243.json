@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4946708975-4946710757-4947302306-4947302486-4946713243",
+  "photo_sequence_ids": [
+    "4946708975",
+    "4946710757",
+    "4947302306",
+    "4947302486",
+    "4946713243"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the game was very exciting . the players were really good . the teams were very good . the cheerleaders were very talented . the team was very close .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the game was a source of excitement . the players played very well . the teams were great . the cheerleaders were also athletic . the teams were close in score throughout .",
+      "normalized_edited_story_text_sent": [
+        "the game was a source of excitement .",
+        "the players played very well .",
+        "the teams were great .",
+        "the cheerleaders were also athletic .",
+        "the teams were close in score throughout ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the game was very exciting . The player shoots a basket. The referee is on the court. The fans cheer on.",
+      "normalized_edited_story_text_sent": [
+        "the game was very exciting .",
+        "the player shoots a basket .",
+        "the referee is on the court .",
+        "the fans cheer on ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the game was very exciting for those in attendance . the players were really good at shooting the ball and dunking. the teams were very good at passing . the cheerleaders were very talented at doing flips . the team was very close to losing the game .",
+      "normalized_edited_story_text_sent": [
+        "the game was very exciting for those in attendance .",
+        "the players were really good at shooting the ball and dunking .",
+        "the teams were very good at passing .",
+        "the cheerleaders were very talented at doing flips .",
+        "the team was very close to losing the game ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the game was very exciting . the players were really good . the teams worked well together . the cheerleaders were very talented . the team won and everyone cheered.",
+      "normalized_edited_story_text_sent": [
+        "the game was very exciting .",
+        "the players were really good .",
+        "the teams worked well together .",
+        "the cheerleaders were very talented .",
+        "the team won and everyone cheered ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the game was very exciting . the players were really good . the teams were very good . the cheerleaders were very talented . the best team won .",
+      "normalized_edited_story_text_sent": [
+        "the game was very exciting .",
+        "the players were really good .",
+        "the teams were very good .",
+        "the cheerleaders were very talented .",
+        "the best team won ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207407464",
+  "model": "GLAC"
+}

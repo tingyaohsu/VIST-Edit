@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4385572926-4385573796-4385575510-4384814293-4385574642",
+  "photo_sequence_ids": [
+    "4385572926",
+    "4385573796",
+    "4385575510",
+    "4384814293",
+    "4385574642"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2715/4385572926_5dd8000393_o.jpg",
+    "https://farm3.staticflickr.com/2747/4385573796_ba32044434_o.jpg",
+    "https://farm5.staticflickr.com/4058/4385575510_1e880eeff5_o.jpg",
+    "https://farm5.staticflickr.com/4042/4384814293_ea5139821a_o.jpg",
+    "https://farm5.staticflickr.com/4049/4385574642_2968d19f51_o.jpg"
+  ],
+  "auto_story_text_normalized": "the horses were ready for the race . the horses were ready for the first time . there were a lot of people there . the horses were ready to go . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the horses were ready for the race . the horses were ready for the first time . there were a lot of people there and the horses were ready to go . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the horses were ready for the race .",
+        "the horses were ready for the first time .",
+        "there were a lot of people there and the horses were ready to go .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We watched horses race at a farmstead. Jumping over a fence was tricky. One guy fell off his horse. He was disappointed. The rest of us had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we watched horses race at a farmstead .",
+        "jumping over a fence was tricky .",
+        "one guy fell off his horse .",
+        "he was disappointed .",
+        "the rest of us had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "Everyone was excited for the race to start, even the horses. Good Times.",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited for the race to start , even the horses .",
+        "good times ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the horses were ready for the race and it was their first one there were a lot of people there . the horses were ready to go . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the horses were ready for the race and it was their first one there were a lot of people there .",
+        "the horses were ready to go .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "The horses were ready for the race, they were ready for the first time . There were a lot of people and it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the horses were ready for the race , they were ready for the first time .",
+        "there were a lot of people and it was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623377031461"
+}

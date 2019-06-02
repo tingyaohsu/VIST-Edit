@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "18364210964-18366117233-18364211804-18986779895-18989788991",
+  "photo_sequence_ids": [
+    "18364210964",
+    "18366117233",
+    "18364211804",
+    "18986779895",
+    "18989788991"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the town was very old . there was a lot of graffiti everywhere . the building was very tall . the buildings were all lit up . the artwork was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the town was very old and antique . the building was very tall . the buildings were all lit up . the artwork was amazing . it was a fun experience to be had.",
+      "normalized_edited_story_text_sent": [
+        "the town was very old and antique .",
+        "the building was very tall .",
+        "the buildings were all lit up .",
+        "the artwork was amazing .",
+        "it was a fun experience to be had ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "the town was very old.  The bourbon factory was making bourbon.  The building was tall and old.  There was a lot of bourbon being made in the factory.",
+      "normalized_edited_story_text_sent": [
+        "the town was very old .",
+        "the bourbon factory was making bourbon .",
+        "the building was tall and old .",
+        "there was a lot of bourbon being made in the factory ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The town was extremely old. Unfortunately, there was a lot of graffiti everywhere. The building was very tall, and all the buildings were lit up. The artwork was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the town was extremely old .",
+        "unfortunately , there was a lot of graffiti everywhere .",
+        "the building was very tall , and all the buildings were lit up .",
+        "the artwork was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the town was very old and was one of the first cities to have people . there was a lot of graffiti everywhere due to the recent gang violence . the building was very tall and made from brick . the buildings were all lit up due to it being christmas . the artwork was amazing and must of taken hours to make .",
+      "normalized_edited_story_text_sent": [
+        "the town was very old and was one of the first cities to have people .",
+        "there was a lot of graffiti everywhere due to the recent gang violence .",
+        "the building was very tall and made from brick .",
+        "the buildings were all lit up due to it being christmas .",
+        "the artwork was amazing and must of taken hours to make ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the town was very old . We enjoyed learning about whiskey. We saw how it was made. The barrels were really cool . We enjoyed the visit.",
+      "normalized_edited_story_text_sent": [
+        "the town was very old .",
+        "we enjoyed learning about whiskey .",
+        "we saw how it was made .",
+        "the barrels were really cool .",
+        "we enjoyed the visit ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157652488541824",
+  "model": "GLAC"
+}

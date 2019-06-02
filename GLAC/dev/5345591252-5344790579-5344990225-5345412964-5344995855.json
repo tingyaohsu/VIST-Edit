@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5345591252-5344790579-5344990225-5345412964-5344995855",
+  "photo_sequence_ids": [
+    "5345591252",
+    "5344790579",
+    "5344990225",
+    "5345412964",
+    "5344995855"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was a beautiful affair . the bride and groom were very happy . the couple was so excited to be married . the bride and groom were all smiles . the wedding was a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A197GEXK2G2RA",
+      "edited_story_text": "Davis and Lisa were very excited for their beautiful wedding. All of their family showed up and had a happy and wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "davis and [female] were very excited for their beautiful wedding .",
+        "all of their family showed up and had a happy and wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Pics from the wedding!  So beautiful!   The bride and groom had a great time!",
+      "normalized_edited_story_text_sent": [
+        "pics from the wedding !",
+        "so beautiful !",
+        "the bride and groom had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the wedding was a beautiful affair . the bride and groom were very happy . the couple was so excited to be married . everyone was all smiles . the wedding was a wonderful affair.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful affair .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "everyone was all smiles .",
+        "the wedding was a wonderful affair ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was a beautiful display . the bride and groom were elated . the couple was joyfully excited to be married . the bride and groom couldn\u0027t quit smiling . the wedding was fun to attend .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful display .",
+        "the bride and groom were elated .",
+        "the couple was joyfully excited to be married .",
+        "the bride and groom could n\u0027t quit smiling .",
+        "the wedding was fun to attend ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the wedding was a beautiful affair . The men talked before. The bride and groom cut the cake and fed it to each other. The couple danced.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful affair .",
+        "the men talked before .",
+        "the bride and groom cut the cake and fed it to each other .",
+        "the couple danced ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625671844609",
+  "model": "GLAC"
+}

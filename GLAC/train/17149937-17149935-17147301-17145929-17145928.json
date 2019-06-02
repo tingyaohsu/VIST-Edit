@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "17149937-17149935-17147301-17145929-17145928",
+  "photo_sequence_ids": [
+    "17149937",
+    "17149935",
+    "17147301",
+    "17145929",
+    "17145928"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the annual bike race was about to begin . the course was the first place . the course was very intense . the drivers were very close . the winner was the winner .",
+  "edited_stories": [
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The annual parade was about to begin. The military was represented. A helicopter flew over. Some riders had a patriotic theme. One motorcycle had a beautiful paint job.",
+      "normalized_edited_story_text_sent": [
+        "the annual parade was about to begin .",
+        "the military was represented .",
+        "a helicopter flew over .",
+        "some riders had a patriotic theme .",
+        "one motorcycle had a beautiful paint job ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the annual military bike race was about to begin  . the course was the first place that had ever hosted this event . the course was very intense which was on purpose . the drivers were very close  to crashing a few times. the winner was the winner and got to compete in the national tournament .",
+      "normalized_edited_story_text_sent": [
+        "the annual military bike race was about to begin .",
+        "the course was the first place that had ever hosted this event .",
+        "the course was very intense which was on purpose .",
+        "the drivers were very close to crashing a few times .",
+        "the winner was the winner and got to compete in the national tournament ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Went to an event today to support our proud veterans!  The biker veterans proudly showed off their colors during the parade as well as the marchers.  We even had a helicopter fly overhead!",
+      "normalized_edited_story_text_sent": [
+        "went to an event today to support our proud veterans !",
+        "the biker veterans proudly showed off their colors during the parade as well as the marchers .",
+        "we even had a helicopter fly overhead !"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the annual bike race was about to begin . the course was prepared . the race was exciting . the drivers were very close . the winner was the best .",
+      "normalized_edited_story_text_sent": [
+        "the annual bike race was about to begin .",
+        "the course was prepared .",
+        "the race was exciting .",
+        "the drivers were very close .",
+        "the winner was the best ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the annual bike race was about to begin . the course was the first place . the course was very intense . the drivers were very close . fun was had by all. it was a fun day.",
+      "normalized_edited_story_text_sent": [
+        "the annual bike race was about to begin .",
+        "the course was the first place .",
+        "the course was very intense .",
+        "the drivers were very close .",
+        "fun was had by all .",
+        "it was a fun day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "408457",
+  "model": "GLAC"
+}

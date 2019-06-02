@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5112780330-5112180949-5112801156-5112779228-5112802942",
+  "photo_sequence_ids": [
+    "5112780330",
+    "5112180949",
+    "5112801156",
+    "5112779228",
+    "5112802942"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1384/5112780330_331cec4966_o.jpg",
+    "https://farm2.staticflickr.com/1104/5112180949_bd939e9f51_o.jpg",
+    "https://farm5.staticflickr.com/4085/5112801156_62cf27a189_o.jpg",
+    "https://farm2.staticflickr.com/1413/5112779228_45438b97d6_o.jpg",
+    "https://farm2.staticflickr.com/1378/5112802942_e83339681d_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a great day for a walk . the kids were having a great time . the kids had a great time . this is a picture of a woman . and the kids really enjoyed the easter bunny .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "It was a day in autumn. Pitcher plants were growing. The kids were dressed up for Halloween. One was a fireman. The other was a doctor. We had pumpkin decorations.",
+      "normalized_edited_story_text_sent": [
+        "it was a day in autumn .",
+        "pitcher plants were growing .",
+        "the kids were dressed up for halloween .",
+        "one was a fireman .",
+        "the other was a doctor .",
+        "we had pumpkin decorations ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "it was a great day for a walk . the kids were having a great time . the kids got to dressed up.  this is a picture of a woman . and the kids really enjoyed the easter bunny .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a walk .",
+        "the kids were having a great time .",
+        "the kids got to dressed up .",
+        "this is a picture of a woman .",
+        "and the kids really enjoyed the easter bunny ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "it was a great day for a walk . the kids and I were having a great time walking in the woods. We did many activities together and the kids really enjoyed the easter bunny .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a walk .",
+        "the kids and i were having a great time walking in the woods .",
+        "we did many activities together and the kids really enjoyed the easter bunny ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "It was a beautiful autumn day for a walk. The kids dressed in their Halloween costumes. They had a great time on the walk. [male] dressed up with a fake mustache. The Halloween walk was really fun for the kids.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful autumn day for a walk .",
+        "the kids dressed in their halloween costumes .",
+        "they had a great time on the walk .",
+        "[male] dressed up with a fake mustache .",
+        "the halloween walk was really fun for the kids ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "it was a great day for a walk in the park . the kids were having a great time . the kids had fun . this is a photo of a kid . and the kids really enjoyed the pumpkins .",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a walk in the park .",
+        "the kids were having a great time .",
+        "the kids had fun .",
+        "this is a photo of a kid .",
+        "and the kids really enjoyed the pumpkins ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625234587710"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4288466320-4288374296-4287663679-4287664361-4288465710",
+  "photo_sequence_ids": [
+    "4288466320",
+    "4288374296",
+    "4287663679",
+    "4287664361",
+    "4288465710"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom were ready for the wedding . the bride and groom were very happy . the couple was so excited to be married . the flower girl was adorable . the family was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bride and groom had rehearsed the wedding . the bride and groom were very delighted . the couple was looking very forward to being married . a cute flower girl threw flowers . the family was having a merry time .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom had rehearsed the wedding .",
+        "the bride and groom were very delighted .",
+        "the couple was looking very forward to being married .",
+        "a cute flower girl threw flowers .",
+        "the family was having a merry time ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The bride and groom were really happy. The flower girl was adorable, and the family was so excited to witness the occasion.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were really happy .",
+        "the flower girl was adorable , and the family was so excited to witness the occasion ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bride and groom were ready for the wedding . They wore funny glasses. The kids danced. Everyone had fun.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were ready for the wedding .",
+        "they wore funny glasses .",
+        "the kids danced .",
+        "everyone had fun ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the bride and groom were ready for the wedding . the bride and groom were very happy . the couple took lots of pics . the flower girl was adorable . the family was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were ready for the wedding .",
+        "the bride and groom were very happy .",
+        "the couple took lots of pics .",
+        "the flower girl was adorable .",
+        "the family was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "everyone had a great time at the wedding. it was a celebration all night",
+      "normalized_edited_story_text_sent": [
+        "everyone had a great time at the wedding .",
+        "it was a celebration all night"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623116067463",
+  "model": "GLAC"
+}

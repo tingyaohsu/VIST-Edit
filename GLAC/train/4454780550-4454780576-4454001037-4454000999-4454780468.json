@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4454780550-4454780576-4454001037-4454000999-4454780468",
+  "photo_sequence_ids": [
+    "4454780550",
+    "4454780576",
+    "4454001037",
+    "4454000999",
+    "4454780468"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . they had a lot of fun dancing . they even had a clown . there was also a pinata . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was having a great time at the event . they had a lot of fun shopping . they even had wine . there was also  shoes . the women had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the event .",
+        "they had a lot of fun shopping .",
+        "they even had wine .",
+        "there was also shoes .",
+        "the women had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the ladies were having a great time at the party . they had a lot of fun dancing . there were lots of accessories. there was also a saleswoman. the ladies had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the ladies were having a great time at the party .",
+        "they had a lot of fun dancing .",
+        "there were lots of accessories .",
+        "there was also a saleswoman .",
+        "the ladies had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The family was having a great time at the party. There was a lot of fun had while there was dancing. There was a clown, and even a pinata. The kids just had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "there was a lot of fun had while there was dancing .",
+        "there was a clown , and even a pinata .",
+        "the kids just had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "The tables were full of women\u0027s items, such as purses, shoes, scarves, watches, jewelry and more - all in a variety of patterns and colors. Women walked along the tables, examining items and one gave a presentation.",
+      "normalized_edited_story_text_sent": [
+        "the tables were full of women \u0027s items , such as purses , shoes , scarves , watches , jewelry and more - all in a variety of patterns and colors .",
+        "women walked along the tables , examining items and one gave a presentation ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the family was having a great time at the party . they had a lot of fun dancing . they even had a clown . there was also a pinata . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the family was having a great time at the party .",
+        "they had a lot of fun dancing .",
+        "they even had a clown .",
+        "there was also a pinata .",
+        "the kids had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623546961645",
+  "model": "GLAC"
+}

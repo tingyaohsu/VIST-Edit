@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5427985963-5428587892-5428589150-5428592834-5427993015",
+  "photo_sequence_ids": [
+    "5427985963",
+    "5428587892",
+    "5428589150",
+    "5428592834",
+    "5427993015"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5011/5427985963_131506c43c_o.jpg",
+    "https://farm6.staticflickr.com/5256/5428587892_38a7a9f37c_o.jpg",
+    "https://farm6.staticflickr.com/5059/5428589150_b7e89a33b3_o.jpg",
+    "https://farm6.staticflickr.com/5095/5428592834_df9663c96d_o.jpg",
+    "https://farm6.staticflickr.com/5135/5427993015_b047507cda_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the race yesterday . there were a lot of people there . the race began and the crowd cheered . the man in the red shirt gave a speech to the crowd . after the race , the winners were announced .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i went to the race yesterday . there were a lot of people there . the race began and the crowd cheered . the man in the red shirt gave a speech to the crowd . after the race , the winners were announced we are all excited",
+      "normalized_edited_story_text_sent": [
+        "i went to the race yesterday .",
+        "there were a lot of people there .",
+        "the race began and the crowd cheered .",
+        "the man in the red shirt gave a speech to the crowd .",
+        "after the race , the winners were announced we are all excited"
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the race yesterday . there were a lot of people there . the race began and the crowd cheered . the man in the red shirt gave a speech to the crowd . Once the race was offer, everyone cheered for the winners.",
+      "normalized_edited_story_text_sent": [
+        "i went to the race yesterday .",
+        "there were a lot of people there .",
+        "the race began and the crowd cheered .",
+        "the man in the red shirt gave a speech to the crowd .",
+        "once the race was offer , everyone cheered for the winners ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I went to a race. There were a lot of entrants. They took off at the start in competition. One tried to break from the pack. Some others were content to take their time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a race .",
+        "there were a lot of entrants .",
+        "they took off at the start in competition .",
+        "one tried to break from the pack .",
+        "some others were content to take their time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the watch the 5k race yesterday. there were a lot of people there, both watchers and participants. the race began and the crowd cheered. after the race, the winners were announced .",
+      "normalized_edited_story_text_sent": [
+        "i went to the watch the 5k race yesterday .",
+        "there were a lot of people there , both watchers and participants .",
+        "the race began and the crowd cheered .",
+        "after the race , the winners were announced ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we go to the race yesterday . there are a lot of people there . the race began and the crowd cheered . the man in the black shirt give a speech to the crowd . after the race , the winners are announced .",
+      "normalized_edited_story_text_sent": [
+        "we go to the race yesterday .",
+        "there are a lot of people there .",
+        "the race began and the crowd cheered .",
+        "the man in the black shirt give a speech to the crowd .",
+        "after the race , the winners are announced ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625879475637"
+}

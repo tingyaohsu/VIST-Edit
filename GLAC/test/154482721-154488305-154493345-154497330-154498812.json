@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "154482721-154488305-154493345-154497330-154498812",
+  "photo_sequence_ids": [
+    "154482721",
+    "154488305",
+    "154493345",
+    "154497330",
+    "154498812"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the beach was a great place to visit . the city was beautiful . the beaches were amazing . the ferris wheel was huge . the buildings were so cool .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the beach was a great place to visit . the city was beautiful . the beaches were amazing . the ferris wheel was huge . the buildings were unique . the water was crystal clear.",
+      "normalized_edited_story_text_sent": [
+        "the beach was a great place to visit .",
+        "the city was beautiful .",
+        "the beaches were amazing .",
+        "the ferris wheel was huge .",
+        "the buildings were unique .",
+        "the water was crystal clear ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "We visited the city. the water was beautiful . the beaches were amazing . the bridge was huge . the day was beautiful and sunny .",
+      "normalized_edited_story_text_sent": [
+        "we visited the city .",
+        "the water was beautiful .",
+        "the beaches were amazing .",
+        "the bridge was huge .",
+        "the day was beautiful and sunny ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the beach was a great place to visit due to the amazing weather . the city was beautiful cause of the ocean air and blue skies. the beaches were amazing because there wasn\u0027t a lot of people on it. . the ferris wheel was huge and was running the entire day . the buildings were so cool I wish I could of got more photos .",
+      "normalized_edited_story_text_sent": [
+        "the beach was a great place to visit due to the amazing weather .",
+        "the city was beautiful cause of the ocean air and blue skies .",
+        "the beaches were amazing because there was n\u0027t a lot of people on it .",
+        "the ferris wheel was huge and was running the entire day .",
+        "the buildings were so cool i wish i could of got more photos ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "the city was beautiful. the beach was a great place to visit. it was amazing. the bridge was huge. the buildings were very cool.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the beach was a great place to visit .",
+        "it was amazing .",
+        "the bridge was huge .",
+        "the buildings were very cool ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the beach was a great place to visit . the city was beautiful . the beaches were amazing . the ferris wheel was huge . the buildings were so cool .\r\rI\u0027m so glad we stopped by the beach, it was an awesome place to visit. The view of the city was so beautiful. The beaches blew my mind! I remember the Ferris Wheel being enormous. I\u0027ll never forget how cool the buildings were.",
+      "normalized_edited_story_text_sent": [
+        "the beach was a great place to visit .",
+        "the city was beautiful .",
+        "the beaches were amazing .",
+        "the ferris wheel was huge .",
+        "the buildings were so cool .",
+        "i \u0027m so glad we stopped by the beach , it was an awesome place to visit .",
+        "the view of the city was so beautiful .",
+        "the beaches blew my mind !",
+        "i remember the ferris wheel being enormous .",
+        "i \u0027ll never forget how cool the buildings were ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594147086240",
+  "model": "GLAC"
+}

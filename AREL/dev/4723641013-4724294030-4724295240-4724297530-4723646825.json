@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "4723641013-4724294030-4724295240-4724297530-4723646825",
+  "photo_sequence_ids": [
+    "4723641013",
+    "4724294030",
+    "4724295240",
+    "4724297530",
+    "4723646825"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1157/4723641013_62b0a11133_o.jpg",
+    "https://farm2.staticflickr.com/1241/4724294030_17960d04cf_o.jpg",
+    "https://farm2.staticflickr.com/1196/4724295240_546507d444_o.jpg",
+    "https://farm2.staticflickr.com/1039/4724297530_8e1a87bd3b_o.jpg",
+    "https://farm2.staticflickr.com/1421/4723646825_85d86f1da5_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the city last weekend . it was a lot of fun . there were many interesting things to see . the building was very old . we saw a lot of interesting things .",
+  "edited_stories": [
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "i went to an old city last weekend . it was an interesting place. there were many old landmarks to see. the church was very old. we saw the famous Purple Rose movie theater.",
+      "normalized_edited_story_text_sent": [
+        "i went to an old city last weekend .",
+        "it was an interesting place .",
+        "there were many old landmarks to see .",
+        "the church was very old .",
+        "we saw the famous purple rose movie theater ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we went to the city last weekend . it is a lot of fun . there are many interesting things to saw . the building is very old . we see a lot of interesting things .",
+      "normalized_edited_story_text_sent": [
+        "we went to the city last weekend .",
+        "it is a lot of fun .",
+        "there are many interesting things to saw .",
+        "the building is very old .",
+        "we see a lot of interesting things ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "i went to the city last weekend ago back . it was a great deal of fun . there were lot of interesting things to see . the building was very old . we saw a many interesting things .",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend ago back .",
+        "it was a great deal of fun .",
+        "there were lot of interesting things to see .",
+        "the building was very old .",
+        "we saw a many interesting things ."
+      ]
+    },
+    {
+      "worker_id": "A2OATZCX1YXE77",
+      "edited_story_text": "i went to the city last weekend and had a lot of fun. It is the home of Jiffy mix! there were many interesting things to see, such as old buildings and stores. We also saw a brick building that appeared to be a church. We consulted a huge city map on a wall to get around town and see the sites.",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend and had a lot of fun .",
+        "it is the home of jiffy mix !",
+        "there were many interesting things to see , such as old buildings and stores .",
+        "we also saw a brick building that appeared to be a church .",
+        "we consulted a huge city map on a wall to get around town and see the sites ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the city last weekend . it was a lot of fun . there were many interesting things to see . the building was very old that I saw . I saw a lot of interesting things that I captured.",
+      "normalized_edited_story_text_sent": [
+        "i went to the city last weekend .",
+        "it was a lot of fun .",
+        "there were many interesting things to see .",
+        "the building was very old that i saw .",
+        "i saw a lot of interesting things that i captured ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624331727446"
+}

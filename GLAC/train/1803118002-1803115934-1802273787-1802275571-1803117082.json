@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1803118002-1803115934-1802273787-1802275571-1803117082",
+  "photo_sequence_ids": [
+    "1803118002",
+    "1803115934",
+    "1802273787",
+    "1802275571",
+    "1803117082"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was delicious . the family was excited to be at the fair . the kids were having a great time . the children were very happy . the kids were all so tired .",
+  "edited_stories": [
+    {
+      "worker_id": "A22JC7TQU1W4YU",
+      "edited_story_text": "All the food was so delicious . the whole family was excited to be at the fair . Even the kids were having a great time . All the children were very happy to be at the fair . the kids were all so tired at the end of the day .",
+      "normalized_edited_story_text_sent": [
+        "all the food was so delicious .",
+        "the whole family was excited to be at the fair .",
+        "even the kids were having a great time .",
+        "all the children were very happy to be at the fair .",
+        "the kids were all so tired at the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the food was yummy . the family was happy to be at the fair . the kids were having a great time . the children were very happy . the kids were all so tired .",
+      "normalized_edited_story_text_sent": [
+        "the food was yummy .",
+        "the family was happy to be at the fair .",
+        "the kids were having a great time .",
+        "the children were very happy .",
+        "the kids were all so tired ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the food was delicious . the family was excited to be at the fair . the kids were having a great time . it was a fun day had by all.",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious .",
+        "the family was excited to be at the fair .",
+        "the kids were having a great time .",
+        "it was a fun day had by all ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the food was delicious . the family was excited to be at the fair . the kids were also having a great time . the children were very playful . later the kids were all so tired .",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious .",
+        "the family was excited to be at the fair .",
+        "the kids were also having a great time .",
+        "the children were very playful .",
+        "later the kids were all so tired ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family was excited to be at the fair.  they enjoyed the delicious food.  they signed up for a race.  the whole family had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the fair .",
+        "they enjoyed the delicious food .",
+        "they signed up for a race .",
+        "the whole family had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602795343231",
+  "model": "GLAC"
+}

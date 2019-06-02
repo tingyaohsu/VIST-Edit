@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "1817119967-1817138501-1818000052-1817192189-1818058250",
+  "photo_sequence_ids": [
+    "1817119967",
+    "1817138501",
+    "1818000052",
+    "1817192189",
+    "1818058250"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people dressed up . some of them were very scary . i had a great time . everyone was having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun due to everyone dressing up . there were a lot of people dressed up in some fun outfits . some of them were very scary while others were retro . i had a great time as i spoke to everyone. everyone was having a good time but had to go home early due to work in the morning.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun due to everyone dressing up .",
+        "there were a lot of people dressed up in some fun outfits .",
+        "some of them were very scary while others were retro .",
+        "i had a great time as i spoke to everyone .",
+        "everyone was having a good time but had to go home early due to work in the morning ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The party was a lot of fun, there were a lot of people dressed up in funny costumes, some of them were very scary . I had a great time and everyone had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun , there were a lot of people dressed up in funny costumes , some of them were very scary .",
+        "i had a great time and everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A3S67QA0SQVPUJ",
+      "edited_story_text": "The party that we went to last night was a lot of fun . A lot of people dressed up in crazy costumes. Some of them were very scary. John and I had a great time. Everyone was having a good time.",
+      "normalized_edited_story_text_sent": [
+        "the party that we went to last night was a lot of fun .",
+        "a lot of people dressed up in crazy costumes .",
+        "some of them were very scary .",
+        "[male] and i had a great time .",
+        "everyone was having a good time ."
+      ]
+    },
+    {
+      "worker_id": "A39SK1E6IMQBD5",
+      "edited_story_text": "The party was really fun, and lots of people dressed up, but some of them were pretty scary. I had a great time though, and everyone else had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the party was really fun , and lots of people dressed up , but some of them were pretty scary .",
+        "i had a great time though , and everyone else had a good time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people dressed up . not a lot of them were very scary. everyone was having a good time and took photos together.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "not a lot of them were very scary .",
+        "everyone was having a good time and took photos together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602828723902",
+  "model": "GLAC"
+}

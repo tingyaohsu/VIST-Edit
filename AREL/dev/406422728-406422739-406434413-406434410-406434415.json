@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "406422728-406422739-406434413-406434410-406434415",
+  "photo_sequence_ids": [
+    "406422728",
+    "406422739",
+    "406434413",
+    "406434410",
+    "406434415"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/137/406422728_d68f7db4d7_o.jpg",
+    "https://farm1.staticflickr.com/160/406422739_be5f5bbb53_o.jpg",
+    "https://farm1.staticflickr.com/164/406434413_e0f21422a1_o.jpg",
+    "https://farm1.staticflickr.com/177/406434410_17613e40bc_o.jpg",
+    "https://farm1.staticflickr.com/137/406434415_d2056639b8_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a family . my parents were so proud of me . the man was very happy to be there . the man was very happy to be there . this is a picture of a group of people .",
+  "edited_stories": [
+    {
+      "worker_id": "ANMXO37QRGDN",
+      "edited_story_text": "This is a picture of my family. My parents were so proud of me. I grew up to be a very happy man. The man I became was very happy to be there.  The group of people in this picture includes myself and my sisters.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of my family .",
+        "my parents were so proud of me .",
+        "i grew up to be a very happy man .",
+        "the man i became was very happy to be there .",
+        "the group of people in this picture includes myself and my sisters ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this was a picture of a family . my parents are so proud of me . the man is very happy to be there . the man is very happy to be there . this was a picture of a group of people .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a family .",
+        "my parents are so proud of me .",
+        "the man is very happy to be there .",
+        "the man is very happy to be there .",
+        "this was a picture of a group of people ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "this is a very old picture of my school homeroom . my parents were so proud of me to be in this picture. the man was very happy to be there it was an honor . the man was very happy to be our teacher . this is a picture of some people of my family .",
+      "normalized_edited_story_text_sent": [
+        "this is a very old picture of my school homeroom .",
+        "my parents were so proud of me to be in this picture .",
+        "the man was very happy to be there it was an honor .",
+        "the man was very happy to be our teacher .",
+        "this is a picture of some people of my family ."
+      ]
+    },
+    {
+      "worker_id": "A1PBRKFHSF1OF8",
+      "edited_story_text": "this is a picture of a family when we were just children. my parents were so proud of me when I was growing up. the man that I call my father was very happy to be there . this is a picture of a group of people at my graduation.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a family when we were just children .",
+        "my parents were so proud of me when i was growing up .",
+        "the man that i call my father was very happy to be there .",
+        "this is a picture of a group of people at my graduation ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "We found some old pictures of our family. Some of them were group photos. Others were single portraits of our relatives, all in black and white. It was very interesting to look back at history in this way.",
+      "normalized_edited_story_text_sent": [
+        "we found some old pictures of our family .",
+        "some of them were group photos .",
+        "others were single portraits of our relatives , all in black and white .",
+        "it was very interesting to look back at history in this way ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594563077356"
+}

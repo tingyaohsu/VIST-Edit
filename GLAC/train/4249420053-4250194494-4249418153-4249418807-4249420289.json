@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4249420053-4250194494-4249418153-4249418807-4249420289",
+  "photo_sequence_ids": [
+    "4249420053",
+    "4250194494",
+    "4249418153",
+    "4249418807",
+    "4249420289"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were in full bloom . the flower was beautiful . the plants were so vibrant . the purple flowers were lovely . the flowers were so vibrant .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Janet\u0027s white flowers were in full bloom . the flowers Janet grew are beautiful . Janet\u0027s flowers were so vibrant and lovely . the white flowers are lovely and beautiful. Janet\u0027s flowers are vibrant  and big.",
+      "normalized_edited_story_text_sent": [
+        "janet \u0027s white flowers were in full bloom .",
+        "the flowers janet grew are beautiful .",
+        "janet \u0027s flowers were so vibrant and lovely .",
+        "the white flowers are lovely and beautiful .",
+        "janet \u0027s flowers are vibrant and big ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the flowers were in full bloom at this time of year. the flower was beautiful and had nice bows . the plants were so vibrant and smelled great. the purple flowers were lovely and had a lavender scent . the flowers were so vibrant and made the great better .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom at this time of year .",
+        "the flower was beautiful and had nice bows .",
+        "the plants were so vibrant and smelled great .",
+        "the purple flowers were lovely and had a lavender scent .",
+        "the flowers were so vibrant and made the great better ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "All of the flowers were in full bloom. The flower arrangement was beautiful. Even the plants were very vibrant. the purple flowers added a lovely highlight. The flowers were so beautiful.",
+      "normalized_edited_story_text_sent": [
+        "all of the flowers were in full bloom .",
+        "the flower arrangement was beautiful .",
+        "even the plants were very vibrant .",
+        "the purple flowers added a lovely highlight .",
+        "the flowers were so beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the flowers were in full bloom . the flowers were  beautiful . the plants were so vibrant . the white flowers were lovely . the flowers were so vibrant .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom .",
+        "the flowers were beautiful .",
+        "the plants were so vibrant .",
+        "the white flowers were lovely .",
+        "the flowers were so vibrant ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the flowers were in full bloom . the colors were vibrant. the arrangement turned out perfectly . the purple flowers were lovely . the roses looked amazing.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom .",
+        "the colors were vibrant .",
+        "the arrangement turned out perfectly .",
+        "the purple flowers were lovely .",
+        "the roses looked amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623149579924",
+  "model": "GLAC"
+}

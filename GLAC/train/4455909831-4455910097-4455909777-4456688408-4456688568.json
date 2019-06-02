@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4455909831-4455910097-4455909777-4456688408-4456688568",
+  "photo_sequence_ids": [
+    "4455909831",
+    "4455910097",
+    "4455909777",
+    "4456688408",
+    "4456688568"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the fair . there was a lot of food . the food was delicious . the streets were full of people . the artwork was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "we went to the fair . there was a lot of food . the food was delicious . the streets were full of people . the artwork was amazing .\r\rThere was a lot of food at the fair when we went there. All of it was delicious. The streets were crowded with people and marvelous pieces of art were displayed everywhere.",
+      "normalized_edited_story_text_sent": [
+        "we went to the fair .",
+        "there was a lot of food .",
+        "the food was delicious .",
+        "the streets were full of people .",
+        "the artwork was amazing .",
+        "there was a lot of food at the fair when we went there .",
+        "all of it was delicious .",
+        "the streets were crowded with people and marvelous pieces of art were displayed everywhere ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "We went to the fair, and wow was there was a lot of delicious food. The streets were just packed with people, and the artwork! Man, the artwork was amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the fair , and wow was there was a lot of delicious food .",
+        "the streets were just packed with people , and the artwork !",
+        "man , the artwork was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "we went to the market. there was a lot of food . all of the  food was delicious . there were a lot of people walking around . the architecture was amazing .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market .",
+        "there was a lot of food .",
+        "all of the food was delicious .",
+        "there were a lot of people walking around .",
+        "the architecture was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "we went to the Reading Terminal Market . there was a lot of food for sale including meats. the hoagie for sale was delicious . A fried shrimp store was scrumptious too . the architecture was amazing on some of the buildings .",
+      "normalized_edited_story_text_sent": [
+        "we went to the reading terminal market .",
+        "there was a lot of food for sale including meats .",
+        "the hoagie for sale was delicious .",
+        "a fried shrimp store was scrumptious too .",
+        "the architecture was amazing on some of the buildings ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "We took a trip to the Reading Terminal Market, which was filled with poultry, sandwiches, fried shrimp and other various foods. The market was located in Chinatown, which explained the beautiful Chinese architecture.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the reading terminal market , which was filled with poultry , sandwiches , fried shrimp and other various foods .",
+        "the market was located in chinatown , which explained the beautiful chinese architecture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623675822498",
+  "model": "GLAC"
+}

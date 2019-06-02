@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2869053327-2869882352-2869057329-2869903104-2869906714",
+  "photo_sequence_ids": [
+    "2869053327",
+    "2869882352",
+    "2869057329",
+    "2869903104",
+    "2869906714"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was in the car . he was so happy . he was n\u0027t too sure to be a good guy . he was not very excited . the family was all there .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the girl was happy walking into the school with the baby and dad.  she waved at everyone.  Once inside she waved goodbye and played with her friends.",
+      "normalized_edited_story_text_sent": [
+        "the girl was happy walking into the school with the baby and dad .",
+        "she waved at everyone .",
+        "once inside she waved goodbye and played with her friends ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Mary danced before she went in the car . Mary\u0027s dad Mike was so happy to take her out . Mike wasn\u0027t too sure if he would be a good stepdad . Mike was very excited . Mary\u0027s family was all there .",
+      "normalized_edited_story_text_sent": [
+        "[female] danced before she went in the car .",
+        "[female] \u0027s dad mike was so happy to take her out .",
+        "mike was n\u0027t too sure if he would be a good stepdad .",
+        "mike was very excited .",
+        "[female] \u0027s family was all there ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the baby was in the car . he was so excited. he was n\u0027t too sure to be a good guy . he was not very excited . the family was all there and had fun .",
+      "normalized_edited_story_text_sent": [
+        "the baby was in the car .",
+        "he was so excited .",
+        "he was n\u0027t too sure to be a good guy .",
+        "he was not very excited .",
+        "the family was all there and had fun ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the baby was in the car . he was so happy . he was looking out the window . he was not very jumpy. the family was all there .",
+      "normalized_edited_story_text_sent": [
+        "the baby was in the car .",
+        "he was so happy .",
+        "he was looking out the window .",
+        "he was not very jumpy .",
+        "the family was all there ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "she played in the parking lot. they went in. The kids had a fun time.",
+      "normalized_edited_story_text_sent": [
+        "she played in the parking lot .",
+        "they went in .",
+        "the kids had a fun time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157607397957916",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "2725567404-2724744907-2724745793-2724751335-2725574104",
+  "photo_sequence_ids": [
+    "2725567404",
+    "2724744907",
+    "2724745793",
+    "2724751335",
+    "2725574104"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sign was very tall and interesting . the building was a big brick . the building was also a little small . there was a lot of flowers . the church was a great place to visit .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "We visited an old church.  The sign was tall and interesting. The building was kind of a small rectangle. There were tons of beautiful flowers. It was a great place to visit.",
+      "normalized_edited_story_text_sent": [
+        "we visited an old church .",
+        "the sign was tall and interesting .",
+        "the building was kind of a small rectangle .",
+        "there were tons of beautiful flowers .",
+        "it was a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city has several famous old buildings. a lot of history amongst them.",
+      "normalized_edited_story_text_sent": [
+        "the city has several famous old buildings .",
+        "a lot of history amongst them ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the sign was very ol and interesting . the building was a big white building on huge grounds . the building was also very ornate. there was a lot of horticulture surrounding the building . the homestead was a great place to visit .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very ol and interesting .",
+        "the building was a big white building on huge grounds .",
+        "the building was also very ornate .",
+        "there was a lot of horticulture surrounding the building .",
+        "the homestead was a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the historical documents i looked at for my thesis were very detailed and interesting. the subject matter is fascinating to me. seeing pictures of the old structures really brought history to life. the small details, such as the gardens and landscaping, help to complete the picture. all in all, the plantation was a stunning place to visit .",
+      "normalized_edited_story_text_sent": [
+        "the historical documents i looked at for my thesis were very detailed and interesting .",
+        "the subject matter is fascinating to me .",
+        "seeing pictures of the old structures really brought history to life .",
+        "the small details , such as the gardens and landscaping , help to complete the picture .",
+        "all in all , the plantation was a stunning place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The sign was very tall and interesting. The building was a large brick building. There were a lot of flowers. The white church was a great place to visit .",
+      "normalized_edited_story_text_sent": [
+        "the sign was very tall and interesting .",
+        "the building was a large brick building .",
+        "there were a lot of flowers .",
+        "the white church was a great place to visit ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606503374257",
+  "model": "GLAC"
+}

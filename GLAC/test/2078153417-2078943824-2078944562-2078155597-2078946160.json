@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2078153417-2078943824-2078944562-2078155597-2078946160",
+  "photo_sequence_ids": [
+    "2078153417",
+    "2078943824",
+    "2078944562",
+    "2078155597",
+    "2078946160"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the museum . the building was very tall . the buildings were so big . the architecture was amazing . the whole town was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A19LVWX8ZLO6CS",
+      "edited_story_text": "we went to the history museum in downtown. the surrounding buildings were very tall . all the buildings were so big . the architecture was mind blowing. we toured the the whole town and found it beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we went to the history museum in downtown .",
+        "the surrounding buildings were very tall .",
+        "all the buildings were so big .",
+        "the architecture was mind blowing .",
+        "we toured the the whole town and found it beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the museum . the architecture was amazing . the whole town was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum .",
+        "the architecture was amazing .",
+        "the whole town was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "this morning, we went to the museum. we stood inside and looked out at all the tall buildings. it was amazing to see all the old architecture. we were up so high it was amazing. i love visiting old towns like this.",
+      "normalized_edited_story_text_sent": [
+        "this morning , we went to the museum .",
+        "we stood inside and looked out at all the tall buildings .",
+        "it was amazing to see all the old architecture .",
+        "we were up so high it was amazing .",
+        "i love visiting old towns like this ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "we went to the museum that had old bells . the buildings in the city were very tall . the city was very large. the architecture was amazing . the whole town was beautiful especially the views from above .",
+      "normalized_edited_story_text_sent": [
+        "we went to the museum that had old bells .",
+        "the buildings in the city were very tall .",
+        "the city was very large .",
+        "the architecture was amazing .",
+        "the whole town was beautiful especially the views from above ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "we went to the church and saw the bell . the church was very tall . the buildings was so big . the architecture was great all over town . the whole town was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we went to the church and saw the bell .",
+        "the church was very tall .",
+        "the buildings was so big .",
+        "the architecture was great all over town .",
+        "the whole town was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603348987515",
+  "model": "GLAC"
+}

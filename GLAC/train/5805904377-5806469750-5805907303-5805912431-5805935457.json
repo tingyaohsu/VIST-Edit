@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5805904377-5806469750-5805907303-5805912431-5805935457",
+  "photo_sequence_ids": [
+    "5805904377",
+    "5806469750",
+    "5805907303",
+    "5805912431",
+    "5805935457"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to location . they saw a lot of interesting buildings . they also saw a beautiful old church . they also visited the government building . they had a great time at the museum .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went on a trip to a foreign city . they saw a lot of historic buildings . they also visited a beautiful medieval church . they saw a government building . they were fascinated at the city\u0027s museum .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to a foreign city .",
+        "they saw a lot of historic buildings .",
+        "they also visited a beautiful medieval church .",
+        "they saw a government building .",
+        "they were fascinated at the city \u0027s museum ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went on a trip to location . they saw a lot of old buildings . they also saw a beautiful old church . they also visited the government building . they had a great time at the museum .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to location .",
+        "they saw a lot of old buildings .",
+        "they also saw a beautiful old church .",
+        "they also visited the government building .",
+        "they had a great time at the museum ."
+      ]
+    },
+    {
+      "worker_id": "A9N7QYMG6KIHD",
+      "edited_story_text": "the family went on a trip and saw a lot of interesting buildings, including a beautiful old church and a government building. then they also had a great time at the museum .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip and saw a lot of interesting buildings , including a beautiful old church and a government building .",
+        "then they also had a great time at the museum ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the family went on a trip to their favorite location to visit . they saw a lot of interesting buildings and took pictures . they also saw a beautiful church that was impressive . they also visited the government building to learn . they had a great time at the museum looking at all the historic items .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to their favorite location to visit .",
+        "they saw a lot of interesting buildings and took pictures .",
+        "they also saw a beautiful church that was impressive .",
+        "they also visited the government building to learn .",
+        "they had a great time at the museum looking at all the historic items ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the family went on a trip to an old city . they saw a lot of interesting buildings . they also saw a beautiful old church . they had fun taking silly photos . they had a great time at the museum .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to an old city .",
+        "they saw a lot of interesting buildings .",
+        "they also saw a beautiful old church .",
+        "they had fun taking silly photos .",
+        "they had a great time at the museum ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626778373335",
+  "model": "GLAC"
+}

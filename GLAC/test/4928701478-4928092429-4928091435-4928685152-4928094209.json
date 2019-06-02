@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4928701478-4928092429-4928091435-4928685152-4928094209",
+  "photo_sequence_ids": [
+    "4928701478",
+    "4928092429",
+    "4928091435",
+    "4928685152",
+    "4928094209"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the town was full of people . the people were excited to be there . the man was giving a speech . the crowd was very happy . the group was very proud of the march .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the beach town was full of tourists . the families were excited to be there for the holidays . the mayor was giving a speech before the parade. the crowd was very happy to be there . the visitors was very proud of the parade .",
+      "normalized_edited_story_text_sent": [
+        "the beach town was full of tourists .",
+        "the families were excited to be there for the holidays .",
+        "the mayor was giving a speech before the parade .",
+        "the crowd was very happy to be there .",
+        "the visitors was very proud of the parade ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "they took a trip to Minnesota last weekend. it was a lot of fun as everyone was there. the town was full of people . the people were excited to be there . the restaurant had a nice seating outside and good food. everyone enjoyed the drinks and the company. we all took a group photograph in the evening.",
+      "normalized_edited_story_text_sent": [
+        "they took a trip to minnesota last weekend .",
+        "it was a lot of fun as everyone was there .",
+        "the town was full of people .",
+        "the people were excited to be there .",
+        "the restaurant had a nice seating outside and good food .",
+        "everyone enjoyed the drinks and the company .",
+        "we all took a group photograph in the evening ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We headed down the highway. We sat outside and visited and opened presents. At night we all posed together for a group picture.",
+      "normalized_edited_story_text_sent": [
+        "we headed down the highway .",
+        "we sat outside and visited and opened presents .",
+        "at night we all posed together for a group picture ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the town was filled up by people . the people were anticipating an event . a man was giving a public speech . the crowd was very happy to hear him . the group proudly marched .",
+      "normalized_edited_story_text_sent": [
+        "the town was filled up by people .",
+        "the people were anticipating an event .",
+        "a man was giving a public speech .",
+        "the crowd was very happy to hear him .",
+        "the group proudly marched ."
+      ]
+    },
+    {
+      "worker_id": "A29GAVKOZCEEXL",
+      "edited_story_text": "the event was full of people . Everyone was excited to be there . John was giving a speech . the crowd was very happy . We where all very proud of the march .",
+      "normalized_edited_story_text_sent": [
+        "the event was full of people .",
+        "everyone was excited to be there .",
+        "[male] was giving a speech .",
+        "the crowd was very happy .",
+        "we where all very proud of the march ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624685271305",
+  "model": "GLAC"
+}

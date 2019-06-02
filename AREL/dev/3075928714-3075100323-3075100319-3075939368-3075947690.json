@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "3075928714-3075100323-3075100319-3075939368-3075947690",
+  "photo_sequence_ids": [
+    "3075928714",
+    "3075100323",
+    "3075100319",
+    "3075939368",
+    "3075947690"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3001/3075928714_ba8d59006b_o.jpg",
+    "https://farm4.staticflickr.com/3218/3075100323_92ee6ba91a_o.jpg",
+    "https://farm4.staticflickr.com/3064/3075100319_1b9dd0c6fb_o.jpg",
+    "https://farm4.staticflickr.com/3013/3075939368_4e8e56de81_o.jpg",
+    "https://farm4.staticflickr.com/3029/3075947690_a9a954b97e_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . we saw a lot of old buildings . here is a picture of a church . this is a picture of a building . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "this is a picture of a building. we saw a lot of old buildings there. here is another picture, this time of a church. Here are more pictures of buildings.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "we saw a lot of old buildings there .",
+        "here is another picture , this time of a church .",
+        "here are more pictures of buildings ."
+      ]
+    },
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "this is a picture of a museum. we saw a lot of pieces of art . here is a picture of a painting. this is a picture of more works of art. this is a photograph of a building .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a museum .",
+        "we saw a lot of pieces of art .",
+        "here is a picture of a painting .",
+        "this is a picture of more works of art .",
+        "this is a photograph of a building ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "this is a picture of a building we saw on vacation. we saw a lot of old buildings while we were there. we also saw this church. it has a lot of history behind it.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building we saw on vacation .",
+        "we saw a lot of old buildings while we were there .",
+        "we also saw this church .",
+        "it has a lot of history behind it ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a building . we also saw a lot of old buildings . here is a picture of a church and this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "we also saw a lot of old buildings .",
+        "here is a picture of a church and this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "Even the outside of the art museum was amazing . we saw paintings and statues . this is an amazing painting . this is a photo of more paintings and famous busts . this drawing is so detailed .",
+      "normalized_edited_story_text_sent": [
+        "even the outside of the art museum was amazing .",
+        "we saw paintings and statues .",
+        "this is an amazing painting .",
+        "this is a photo of more paintings and famous busts .",
+        "this drawing is so detailed ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157610561797005"
+}

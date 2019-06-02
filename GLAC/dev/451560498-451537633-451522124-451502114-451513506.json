@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "451560498-451537633-451522124-451502114-451513506",
+  "photo_sequence_ids": [
+    "451560498",
+    "451537633",
+    "451522124",
+    "451502114",
+    "451513506"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was prepared for the dinner . the chef was ready to eat . the chicken was delicious . the salad was delicious . the main course was the dessert .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The chef was busy cooking for the guests and decided it was time to sit down and enjoy the meal also.",
+      "normalized_edited_story_text_sent": [
+        "the chef was busy cooking for the guests and decided it was time to sit down and enjoy the meal also ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the food was prepared for the dinner .John chose the wine . the chicken was delicious .  the main course was the dessert . there were strawberries, cake and cookies. everyone enjoyed the food thoroughly.",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the dinner .",
+        "[male] chose the wine .",
+        "the chicken was delicious .",
+        "the main course was the dessert .",
+        "there were strawberries , cake and cookies .",
+        "everyone enjoyed the food thoroughly ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the food was all cooked ready to be eaten at dinner.  the chef was about to eat as well.  the chicken and salad were delicious.  the dessert was better than the main course.",
+      "normalized_edited_story_text_sent": [
+        "the food was all cooked ready to be eaten at dinner .",
+        "the chef was about to eat as well .",
+        "the chicken and salad were delicious .",
+        "the dessert was better than the main course ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "delicious food was prepared for the dinner . the chef had the food hot and ready to eat . the chicken was juicy and flavorful . the salad and drinks were delightful . the dessert was so tasty, it could have been the main course .",
+      "normalized_edited_story_text_sent": [
+        "delicious food was prepared for the dinner .",
+        "the chef had the food hot and ready to eat .",
+        "the chicken was juicy and flavorful .",
+        "the salad and drinks were delightful .",
+        "the dessert was so tasty , it could have been the main course ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "Mary and John prepared food for the dinner. They were absolutely ready to eat when they finished. The chicken was delicious. And the salad was, too - it all went great with the wine. And the dessert - oh man, the dessert...",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] prepared food for the dinner .",
+        "they were absolutely ready to eat when they finished .",
+        "the chicken was delicious .",
+        "and the salad was , too - it all went great with the wine .",
+        "and the dessert - oh man , the dessert ..."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600057236853",
+  "model": "GLAC"
+}

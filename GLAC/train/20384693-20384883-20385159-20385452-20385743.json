@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "20384693-20384883-20385159-20385452-20385743",
+  "photo_sequence_ids": [
+    "20384693",
+    "20384883",
+    "20385159",
+    "20385452",
+    "20385743"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fire was burning high . the fire was burning into the fire . the flames were still in good condition . the fire was burning brightly . the fire was coming down .",
+  "edited_stories": [
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "The fire is burning so bright. This is a great place to sit and meditate. It was cloudy and beautiful this night. As the fire was going out the fire was burning brighter than before. The fire was getting higher and higher.",
+      "normalized_edited_story_text_sent": [
+        "the fire is burning so bright .",
+        "this is a great place to sit and meditate .",
+        "it was cloudy and beautiful this night .",
+        "as the fire was going out the fire was burning brighter than before .",
+        "the fire was getting higher and higher ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the fire was burning high . the flames was burning from the fire . the flames were still in good condition . the fire was burning brightly . the smoke was coming up .",
+      "normalized_edited_story_text_sent": [
+        "the fire was burning high .",
+        "the flames was burning from the fire .",
+        "the flames were still in good condition .",
+        "the fire was burning brightly .",
+        "the smoke was coming up ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "My friends and I had a bonfire, which was fun. It\u0027s always nice to do this when it\u0027s cool out. The flames were in good condition almost the entire time. It almost went out of control at one point, but we managed to keep it calm. We went back inside when it started to burn out.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i had a bonfire , which was fun .",
+        "it \u0027s always nice to do this when it \u0027s cool out .",
+        "the flames were in good condition almost the entire time .",
+        "it almost went out of control at one point , but we managed to keep it calm .",
+        "we went back inside when it started to burn out ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "a big bonfire was lighted last night.  the fire was big, and the flames were high.  the fire was very bright.  in the end the fire went down.",
+      "normalized_edited_story_text_sent": [
+        "a big bonfire was lighted last night .",
+        "the fire was big , and the flames were high .",
+        "the fire was very bright .",
+        "in the end the fire went down ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The fire that was lit was burning high . It looked as if the fire was burning into the fire . However, the flames were still in good condition. The fire burned so brightly. After a while, the fire was coming down.",
+      "normalized_edited_story_text_sent": [
+        "the fire that was lit was burning high .",
+        "it looked as if the fire was burning into the fire .",
+        "however , the flames were still in good condition .",
+        "the fire burned so brightly .",
+        "after a while , the fire was coming down ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "476170",
+  "model": "GLAC"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "22669466-22671053-22674849-22669469-22675525",
+  "photo_sequence_ids": [
+    "22669466",
+    "22671053",
+    "22674849",
+    "22669469",
+    "22675525"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/18/22669466_9f0df25d13_o.jpg",
+    "https://farm1.staticflickr.com/19/22671053_02dab69e7e_o.jpg",
+    "https://farm1.staticflickr.com/17/22674849_cb2561aa42_o.jpg",
+    "https://farm1.staticflickr.com/15/22669469_3212c74a0f_o.jpg",
+    "https://farm1.staticflickr.com/16/22675525_85de5c20e7_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a lake . we took a walk around the park . the birds were playing in the grass . we had a great time there . this is a picture of a woman .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "It was a cloudy yet pleasant day at the lake today . we walked around the park .The statues of the birds and frogs were so cool and fun. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "it was a cloudy yet pleasant day at the lake today .",
+        "we walked around the park .",
+        "the statues of the birds and frogs were so cool and fun .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "this is a picture of a lake . we walked around the park . the birds were having fun in the grass . we had an awesome time there . this is a photo of a lady .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a lake .",
+        "we walked around the park .",
+        "the birds were having fun in the grass .",
+        "we had an awesome time there .",
+        "this is a photo of a lady ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a lake at the park. We took a walk around the park. There were these fake duck statues all along the pond. They were so cute I had to take a picture.  There were frog statues too.  The men were relaxing and getting ready for a picnic.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a lake at the park .",
+        "we took a walk around the park .",
+        "there were these fake duck statues all along the pond .",
+        "they were so cute i had to take a picture .",
+        "there were frog statues too .",
+        "the men were relaxing and getting ready for a picnic ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a lake . we took a walk around the park and the birds were playing in the grass . we had a great time there . this is a picture of a woman taking photos with the statues.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a lake .",
+        "we took a walk around the park and the birds were playing in the grass .",
+        "we had a great time there .",
+        "this is a picture of a woman taking photos with the statues ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "We went to a lake. We also took a walk around the park. The birds were playing in the grass. We had a great time. It was nice for Mom to have a day out.",
+      "normalized_edited_story_text_sent": [
+        "we went to a lake .",
+        "we also took a walk around the park .",
+        "the birds were playing in the grass .",
+        "we had a great time .",
+        "it was nice for mom to have a day out ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "546589"
+}

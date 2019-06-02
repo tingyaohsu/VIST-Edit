@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "20531382-20531446-20531078-21440231-20531265",
+  "photo_sequence_ids": [
+    "20531382",
+    "20531446",
+    "20531078",
+    "21440231",
+    "20531265"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the market was a lot of fun . there were many different types of food . the vegetables were delicious . the carrots were fresh . the vegetables were all very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The farmer\u0027s market was a lot of fun. There were so many different types of food. The fresh fruits and vegetables were delicious. The carrots, watermelons, and blueberries were fresh.",
+      "normalized_edited_story_text_sent": [
+        "the farmer \u0027s market was a lot of fun .",
+        "there were so many different types of food .",
+        "the fresh fruits and vegetables were delicious .",
+        "the carrots , watermelons , and blueberries were fresh ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The market I went to was a lot of fun. There were many different types of food I saw. The vegetables were delicious and very good. The carrots were fresh.",
+      "normalized_edited_story_text_sent": [
+        "the market i went to was a lot of fun .",
+        "there were many different types of food i saw .",
+        "the vegetables were delicious and very good .",
+        "the carrots were fresh ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "All the foods on the street corners were so fresh and yummy looking.",
+      "normalized_edited_story_text_sent": [
+        "all the foods on the street corners were so fresh and yummy looking ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the market was a lot of fun .we saw many different types of food . the vegetables were delicious . the carrots were so fresh . the food was all very good .",
+      "normalized_edited_story_text_sent": [
+        "the market was a lot of fun .",
+        "we saw many different types of food .",
+        "the vegetables were delicious .",
+        "the carrots were so fresh .",
+        "the food was all very good ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the market was a lot of fun. there were many different types of food. there were many different fresh fruits and vegetables to chose from.",
+      "normalized_edited_story_text_sent": [
+        "the market was a lot of fun .",
+        "there were many different types of food .",
+        "there were many different fresh fruits and vegetables to chose from ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "486365",
+  "model": "GLAC"
+}

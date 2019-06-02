@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "30428730-30428370-30429774-30430007-30429110",
+  "photo_sequence_ids": [
+    "30428730",
+    "30428370",
+    "30429774",
+    "30430007",
+    "30429110"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . they had a lot of fun and lots of fun . they had a lot of fun dancing . they even had a pinata . the kids had a blast .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W8TJXW68442D",
+      "edited_story_text": "The family was having a great time at the pool party . They had a lot of fun dancing . The kids had a blast with the pinata.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the pool party .",
+        "they had a lot of fun dancing .",
+        "the kids had a blast with the pinata ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family was having a great time. they had a lot of fun. they had a lot of fun dancing . they even had a beer bong . the guys had a blast .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "they had a lot of fun .",
+        "they had a lot of fun dancing .",
+        "they even had a beer bong .",
+        "the guys had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "We had a blast at our family party today. Lots of family and friends showed up. There was eating, dancing and drinking. We even made a custom funnel to have people take drinks from. The party lasted well into the night.",
+      "normalized_edited_story_text_sent": [
+        "we had a blast at our family party today .",
+        "lots of family and friends showed up .",
+        "there was eating , dancing and drinking .",
+        "we even made a custom funnel to have people take drinks from .",
+        "the party lasted well into the night ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was having a fun time at the party . they had a lot of fun and lots of partying. they had a lot of fun dancing . they even had a pinata . the kids had a blast .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a fun time at the party .",
+        "they had a lot of fun and lots of partying .",
+        "they had a lot of fun dancing .",
+        "they even had a pinata .",
+        "the kids had a blast ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594171848171",
+  "model": "GLAC"
+}

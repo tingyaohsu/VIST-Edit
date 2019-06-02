@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "1085999374-1085999140-1085138331-1085138447-1085997480",
+  "photo_sequence_ids": [
+    "1085999374",
+    "1085999140",
+    "1085138331",
+    "1085138447",
+    "1085997480"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1226/1085999374_758eed3d75_o.jpg",
+    "https://farm2.staticflickr.com/1077/1085999140_b78d5d8cf1_o.jpg",
+    "https://farm2.staticflickr.com/1294/1085138331_25f47952d2_o.jpg",
+    "https://farm2.staticflickr.com/1240/1085138447_08bcdbdc08_o.jpg",
+    "https://farm2.staticflickr.com/1366/1085997480_d3c2249002_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day for a family trip . i love to play with the animals . this is a picture of a park . the dog was happy to be there . we ate and had a good time and had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "it was a beautiful day for a family trip to the farm. i love to play with the animals and to pet them . this is a picture of a park like setting. we loved petting the chickens and just to be there . we ate and had a good time seeing the little chicks .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a family trip to the farm .",
+        "i love to play with the animals and to pet them .",
+        "this is a picture of a park like setting .",
+        "we loved petting the chickens and just to be there .",
+        "we ate and had a good time seeing the little chicks ."
+      ]
+    },
+    {
+      "worker_id": "A13TJ0P4X8HJ6Q",
+      "edited_story_text": "it was a beautiful day for a family trip . i love to play with the animals, like the chickens . this is a picture of a farm we visited. the dog was happy to be there . we ate and had a great time with the family.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a family trip .",
+        "i love to play with the animals , like the chickens .",
+        "this is a picture of a farm we visited .",
+        "the dog was happy to be there .",
+        "we ate and had a great time with the family ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was a beautiful day for a family trip . i love to play with the animals . this is a picture of a park and the dog was happy to be there . we ate and had a good time and had a good time .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a family trip .",
+        "i love to play with the animals .",
+        "this is a picture of a park and the dog was happy to be there .",
+        "we ate and had a good time and had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "it was a beautiful day for a family trip. i love to play with the animals. we took lots of pictures at the park. the dog was happy to be there. we ate and had a good time.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a family trip .",
+        "i love to play with the animals .",
+        "we took lots of pictures at the park .",
+        "the dog was happy to be there .",
+        "we ate and had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A28AZTW9BRRPBL",
+      "edited_story_text": "it was a beautiful day for a family trip . i love to play with the animals . this is a picture of a park . the chickens were happy to be there . we ate and had a good time .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a family trip .",
+        "i love to play with the animals .",
+        "this is a picture of a park .",
+        "the chickens were happy to be there .",
+        "we ate and had a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157601372125786"
+}

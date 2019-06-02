@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4315352329-4319676804-4320118362-4319368039-4930075610",
+  "photo_sequence_ids": [
+    "4315352329",
+    "4319676804",
+    "4320118362",
+    "4319368039",
+    "4930075610"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2722/4315352329_d0acb37659_o.jpg",
+    "https://farm5.staticflickr.com/4027/4319676804_3d1ee03bfd_o.jpg",
+    "https://farm5.staticflickr.com/4005/4320118362_3eb0619544_o.jpg",
+    "https://farm3.staticflickr.com/2686/4319368039_fa39175501_o.jpg",
+    "https://farm5.staticflickr.com/4122/4930075610_a1b033083c_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the market last weekend . the market has a lot of interesting things to see . the farmers market was full of fresh fruits and vegetables . there were many fruits and vegetables . the streets were filled with people .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the market last weekend . It has a lot of interesting things to see . the farmers market was full of fresh fruits and vegetables . the streets were filled with people .",
+      "normalized_edited_story_text_sent": [
+        "i went to the market last weekend .",
+        "it has a lot of interesting things to see .",
+        "the farmers market was full of fresh fruits and vegetables .",
+        "the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the market last weekend . there were plenty of interesting things to see along the way . the stands were packed with produce . colorful varieties of fruits and vegetables for sale. people could be found traveling the streets.",
+      "normalized_edited_story_text_sent": [
+        "i went to the market last weekend .",
+        "there were plenty of interesting things to see along the way .",
+        "the stands were packed with produce .",
+        "colorful varieties of fruits and vegetables for sale .",
+        "people could be found traveling the streets ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the market last weekend.  The market has a lot of interesting things to see.  The farmers market was full of fresh fruits and vegetables . The streets were filled with people.  I saw a telephone booth that looked pretty cool.  After a while it started raining on the way back.",
+      "normalized_edited_story_text_sent": [
+        "i went to the market last weekend .",
+        "the market has a lot of interesting things to see .",
+        "the farmers market was full of fresh fruits and vegetables .",
+        "the streets were filled with people .",
+        "i saw a telephone booth that looked pretty cool .",
+        "after a while it started raining on the way back ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the market last weekend. The market had a lot of interesting things to see! It was full of many fresh fruits and vegetables. The streets were filled with people.",
+      "normalized_edited_story_text_sent": [
+        "i went to the market last weekend .",
+        "the market had a lot of interesting things to see !",
+        "it was full of many fresh fruits and vegetables .",
+        "the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went to the street farmers\u0027 market last weekend . the market had a lot of interesting things to see . it was full of fresh fruits and vegetables . they looked mouth watering . it rained a little.",
+      "normalized_edited_story_text_sent": [
+        "i went to the street farmers \u0027 market last weekend .",
+        "the market had a lot of interesting things to see .",
+        "it was full of fresh fruits and vegetables .",
+        "they looked mouth watering .",
+        "it rained a little ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623312651344"
+}

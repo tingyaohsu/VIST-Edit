@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "220671139-220671318-220671669-220672143-220672458",
+  "photo_sequence_ids": [
+    "220671139",
+    "220671318",
+    "220671669",
+    "220672143",
+    "220672458"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The party was a lot of fun, there were a lot of people there, we had karaoke. I had a great time, everyone was having a great time drinking and dancing.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun , there were a lot of people there , we had karaoke .",
+        "i had a great time , everyone was having a great time drinking and dancing ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "We went clubbing today. The party was a lot of fun. There were a lot of people there. Billy and Jen was there. We all drank beers together. I had a great time . Everyone danced the night away.",
+      "normalized_edited_story_text_sent": [
+        "we went clubbing today .",
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "billy and jen was there .",
+        "we all drank beers together .",
+        "i had a great time .",
+        "everyone danced the night away ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The ladies and men were out having a blast dancing and doing crazy things.",
+      "normalized_edited_story_text_sent": [
+        "the ladies and men were out having a blast dancing and doing crazy things ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for the girls who came . there were a lot of people there from far and wide. some of them were very good at singing. i had a great time trying to dance . everyone was having a great time until the police came .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for the girls who came .",
+        "there were a lot of people there from far and wide .",
+        "some of them were very good at singing .",
+        "i had a great time trying to dance .",
+        "everyone was having a great time until the police came ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the party was a lot of fun . All his friends were there . some of them were very drunk . he had a great time . everyone was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "all his friends were there .",
+        "some of them were very drunk .",
+        "he had a great time .",
+        "everyone was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594245097786",
+  "model": "GLAC"
+}

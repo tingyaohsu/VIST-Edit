@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "2408632-2408574-2408535-2408530-2408601",
+  "photo_sequence_ids": [
+    "2408632",
+    "2408574",
+    "2408535",
+    "2408530",
+    "2408601"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the party last week . there were a lot of people there . they were very good . they were all very nice . they were making some food .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the festive party last week and there were a lot of people there . they were very good . they were all very nice . they were making some food .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the festive party last week and there were a lot of people there .",
+        "they were very good .",
+        "they were all very nice .",
+        "they were making some food ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "I had a great time at the party last week, there were a lot of people there and they were very good. The people were all very nice and they were making food.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week , there were a lot of people there and they were very good .",
+        "the people were all very nice and they were making food ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "John was sitting at the computer. He wrote a short story for the paper. Then he walked to his bike, and rode to get some lunch of ham and mashed potatos.",
+      "normalized_edited_story_text_sent": [
+        "[male] was sitting at the computer .",
+        "he wrote a short story for the paper .",
+        "then he walked to his bike , and rode to get some lunch of ham and mashed potatos ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "I had a great time at the party last week. There were a lot of good people there. They were all very nice and they were making some food.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "there were a lot of good people there .",
+        "they were all very nice and they were making some food ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i had a great time at the party last week with my friends . there were a lot of people there who I hadn\u0027t seen in a while . they were very good at talking all night. they were all very nice to me and my family . they were making some food and making some drinks.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week with my friends .",
+        "there were a lot of people there who i had n\u0027t seen in a while .",
+        "they were very good at talking all night .",
+        "they were all very nice to me and my family .",
+        "they were making some food and making some drinks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "60550",
+  "model": "GLAC"
+}

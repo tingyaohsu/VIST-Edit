@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4916748-4917865-4917864-4917868-4917870",
+  "photo_sequence_ids": [
+    "4916748",
+    "4917865",
+    "4917864",
+    "4917868",
+    "4917870"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be visiting the city . the scenery was beautiful . he walked around the bridge and saw the sights . he rode past the tall buildings . he stopped at the train station .",
+  "edited_stories": [
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the man was excited to be visiting the city . the scenery was beautiful . he walked around the bridge and saw the tornado . he rode past the tall buildings . he stopped at the flooding.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be visiting the city .",
+        "the scenery was beautiful .",
+        "he walked around the bridge and saw the tornado .",
+        "he rode past the tall buildings .",
+        "he stopped at the flooding ."
+      ]
+    },
+    {
+      "worker_id": "A2RLL9U1JBY31Q",
+      "edited_story_text": "There was a tornado warning. the houses were destroyed by the tornado. The people ran to the truck. the people drove away fast.",
+      "normalized_edited_story_text_sent": [
+        "there was a tornado warning .",
+        "the houses were destroyed by the tornado .",
+        "the people ran to the truck .",
+        "the people drove away fast ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The weather was insane.  The thunderstorms were so bad that the bridge was completely flooded out and we had to walk around.  We even got some pictures of the tornadoes.  Really cool, but pretty scary.",
+      "normalized_edited_story_text_sent": [
+        "the weather was insane .",
+        "the thunderstorms were so bad that the bridge was completely flooded out and we had to walk around .",
+        "we even got some pictures of the tornadoes .",
+        "really cool , but pretty scary ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "the man was excited to be visiting the city.  The scenery was so pretty. He walked around and saw the clouds and the beautiful houses.  The water was even flooding on the main road.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be visiting the city .",
+        "the scenery was so pretty .",
+        "he walked around and saw the clouds and the beautiful houses .",
+        "the water was even flooding on the main road ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Cannot believe there are people outside just walking around when there is a tornado warning.  You can see people at the park and a funnel cloud touching down right behind them.  Unreal!!!",
+      "normalized_edited_story_text_sent": [
+        "can not believe there are people outside just walking around when there is a tornado warning .",
+        "you can see people at the park and a funnel cloud touching down right behind them .",
+        "unreal !!!"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "123763",
+  "model": "GLAC"
+}

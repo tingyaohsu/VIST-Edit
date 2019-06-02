@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6528479039-6528483481-6528493093-6528495685-6528498135",
+  "photo_sequence_ids": [
+    "6528479039",
+    "6528483481",
+    "6528493093",
+    "6528495685",
+    "6528498135"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the annual halloween party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . others were very creative . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the annual halloween party was a lot of fun . people were dressed up in costumes . some of the costumes were very scary . others were very creative . everyone loved the theme .",
+      "normalized_edited_story_text_sent": [
+        "the annual halloween party was a lot of fun .",
+        "people were dressed up in costumes .",
+        "some of the costumes were very scary .",
+        "others were very creative .",
+        "everyone loved the theme ."
+      ]
+    },
+    {
+      "worker_id": "A1TXCO12MCTP8P",
+      "edited_story_text": "Today was my niece Harley\u0027s graduation. She looked so elegant dressed in her graduation gown .  Luckily her brother Sam was able to get leave from the Air Force and her sister Meg was able to get off from work. I made sure to snap a few pictures of the happy trio since I didn\u0027t know when they\u0027d all be together in one place again. It was a great day!",
+      "normalized_edited_story_text_sent": [
+        "today was my niece harley \u0027s graduation .",
+        "she looked so elegant dressed in her graduation gown .",
+        "luckily her brother sam was able to get leave from the air force and her sister meg was able to get off from work .",
+        "i made sure to snap a few pictures of the happy trio since i did n\u0027t know when they \u0027d all be together in one place again .",
+        "it was a great day !"
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the graduation ceremony was a lot of fun. we met up with some of lisa\u0027s friends to watch her, and got some great photos. now onto the party!",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "we met up with some of [female] \u0027s friends to watch her , and got some great photos .",
+        "now onto the party !"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and lisa were glad the annual graduation party was a lot of fun . there were a lot of people dressed up . some of the costumes were very scary . others were very creative . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the annual graduation party was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the costumes were very scary .",
+        "others were very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The annual halloween party that I went to was a lot of fun. there were a lot of people there dressed up in costume. some of the costumes that I saw were very scary. But others were very creative as well. i had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the annual halloween party that i went to was a lot of fun .",
+        "there were a lot of people there dressed up in costume .",
+        "some of the costumes that i saw were very scary .",
+        "but others were very creative as well .",
+        "i had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628461758115",
+  "model": "GLAC"
+}

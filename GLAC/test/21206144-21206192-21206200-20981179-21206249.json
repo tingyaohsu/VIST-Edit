@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "21206144-21206192-21206200-20981179-21206249",
+  "photo_sequence_ids": [
+    "21206144",
+    "21206192",
+    "21206200",
+    "20981179",
+    "21206249"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was happy to be at the party . the girl was excited to see her boyfriend . they were so happy to be there . the girls were having a great time . the men were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the lady was happy to be at the party . the girl was excited to see her boyfriend . the girls were having a great time . it was a great evening to be had.",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the party .",
+        "the girl was excited to see her boyfriend .",
+        "the girls were having a great time .",
+        "it was a great evening to be had ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The lady was happy to be at a party, and the girl was excited to see her boyfriend. They were all so happy to be there--the girls and men alike were glad to have come.",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at a party , and the girl was excited to see her boyfriend .",
+        "they were all so happy to be there -- the girls and men alike were glad to have come ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the lady was happy to be at the party . the girl was excited to see her fiance. they were so happy together.. the girls were having a great time . the men were also very happy .",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be at the party .",
+        "the girl was excited to see her fiance .",
+        "they were so happy together .",
+        "the girls were having a great time .",
+        "the men were also very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the lady was very happy to be at the party . the girl was animated to see her boyfriend . they were so happy to be there . the girls were having a great time . the men were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the party .",
+        "the girl was animated to see her boyfriend .",
+        "they were so happy to be there .",
+        "the girls were having a great time .",
+        "the men were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "She looks very happy in this moment. These two are very happy together. This man is very serious in nature it was hard to get him to show teeth. The wedding went off without a hitch. This hat is everything.",
+      "normalized_edited_story_text_sent": [
+        "she looks very happy in this moment .",
+        "these two are very happy together .",
+        "this man is very serious in nature it was hard to get him to show teeth .",
+        "the wedding went off without a hitch .",
+        "this hat is everything ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594120703798",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "8657013103-8657012989-8657012889-8657012325-8658118240",
+  "photo_sequence_ids": [
+    "8657013103",
+    "8657012989",
+    "8657012889",
+    "8657012325",
+    "8658118240"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a beautiful place to visit . the streets were filled with people . the locals were very friendly . the streets were crowded with people . the buildings were tall and majestic .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was a beautiful place to visit . the streets were filled with people . everyone was in a good mood.",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit .",
+        "the streets were filled with people .",
+        "everyone was in a good mood ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Washington D.C. was a beautiful place to visit . the streets were filled with people who came to visit like i did . the locals were very friendly and helped me find places to go to. the streets were crowded with people wanting to check out the sights and the marches . the buildings were tall and majestic, and they were lovely to look at .",
+      "normalized_edited_story_text_sent": [
+        "washington d.c. was a beautiful place to visit .",
+        "the streets were filled with people who came to visit like i did .",
+        "the locals were very friendly and helped me find places to go to .",
+        "the streets were crowded with people wanting to check out the sights and the marches .",
+        "the buildings were tall and majestic , and they were lovely to look at ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the city was a beautiful place to visit . the streets were filled with people . the locals were very friendly . the streets were crowded with people . the buildings were tall and majestic .\r\rI\u0027m so glad I paid a visit to this beautiful city. There were so many people walking through the streets. The locals were really down to earth and friendly. The streets were getting crowded! I\u0027ll never forget how tall and majestic the buildings were.",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit .",
+        "the streets were filled with people .",
+        "the locals were very friendly .",
+        "the streets were crowded with people .",
+        "the buildings were tall and majestic .",
+        "i \u0027m so glad i paid a visit to this beautiful city .",
+        "there were so many people walking through the streets .",
+        "the locals were really down to earth and friendly .",
+        "the streets were getting crowded !",
+        "i \u0027ll never forget how tall and majestic the buildings were ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city was a beautiful sight . streets were filled with tourists . the locals were nonetheless friendly . the streets were crowded because it was a holiday . majestic buildings stood tall .",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful sight .",
+        "streets were filled with tourists .",
+        "the locals were nonetheless friendly .",
+        "the streets were crowded because it was a holiday .",
+        "majestic buildings stood tall ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the city was a beautiful place to visit. there was a fair going on, so the streets were filled with people . the locals were all very friendly. we had a great time seeing the local crafts and talents!",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit .",
+        "there was a fair going on , so the streets were filled with people .",
+        "the locals were all very friendly .",
+        "we had a great time seeing the local crafts and talents !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157633268182236",
+  "model": "GLAC"
+}

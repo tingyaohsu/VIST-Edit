@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6707891197-6707659705-6716700637-6716576847-6716514913",
+  "photo_sequence_ids": [
+    "6707891197",
+    "6707659705",
+    "6716700637",
+    "6716576847",
+    "6716514913"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a great place to visit . the buildings were so old . the statues were very interesting . the streets were full of people . the signs were made of art .",
+  "edited_stories": [
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the city was a great place to visit . the buildings were so old . the people walking around were very interesting . the streets were full of protesters. the protesters held signs .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "the buildings were so old .",
+        "the people walking around were very interesting .",
+        "the streets were full of protesters .",
+        "the protesters held signs ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was a great place to visit during the night . the buildings were so old that they looked like they may fall . the statues were very interesting and also were old . the streets were full of people who were ready to party . the signs were made of art and were very big .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit during the night .",
+        "the buildings were so old that they looked like they may fall .",
+        "the statues were very interesting and also were old .",
+        "the streets were full of people who were ready to party .",
+        "the signs were made of art and were very big ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Here are some before and after pics of the village square and the opposition parade.   It was a peaceful demonstration.",
+      "normalized_edited_story_text_sent": [
+        "here are some before and after pics of the village square and the opposition parade .",
+        "it was a peaceful demonstration ."
+      ]
+    },
+    {
+      "worker_id": "A3UXPGGB0RPCMF",
+      "edited_story_text": "the city was a great place to visit  the buildings were so old",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit the buildings were so old"
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "We went to visit a great big city. It was interesting to see such old buildings. Then we went to see some interesting statues. But the streets were all full of people. The people in the street were holding up signs.",
+      "normalized_edited_story_text_sent": [
+        "we went to visit a great big city .",
+        "it was interesting to see such old buildings .",
+        "then we went to see some interesting statues .",
+        "but the streets were all full of people .",
+        "the people in the street were holding up signs ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628917529603",
+  "model": "GLAC"
+}

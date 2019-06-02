@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5632560905-5632581653-5633200836-5632626737-5632661781",
+  "photo_sequence_ids": [
+    "5632560905",
+    "5632581653",
+    "5633200836",
+    "5632626737",
+    "5632661781"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5223/5632560905_a126eabe4b_o.jpg",
+    "https://farm6.staticflickr.com/5069/5632581653_086163ce05_o.jpg",
+    "https://farm6.staticflickr.com/5184/5633200836_9b47f4c2fc_o.jpg",
+    "https://farm6.staticflickr.com/5222/5632626737_a385d95892_o.jpg",
+    "https://farm6.staticflickr.com/5029/5632661781_44d0bc0855_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the local church last week . there were a lot of people there . [male] is giving a speech to the audience . there were a lot of people there . they had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "Tonight I went to a super lowkey but amazing wedding of one of my friends. The ceremony took place on the backyard deck. We took pictures inside before going out. The dj was awesome! We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "tonight i went to a super lowkey but amazing wedding of one of my friends .",
+        "the ceremony took place on the backyard deck .",
+        "we took pictures inside before going out .",
+        "the dj was awesome !",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Last week I went to a nearby church. It was very crowded and pastor [Bob] was giving a sermon. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "last week i went to a nearby church .",
+        "it was very crowded and pastor [male] was giving a sermon .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the local church last week . there were a lot of people there . [Ken] is giving a speech to the audience . there were a lot of people there . We had a great time worshiping together.",
+      "normalized_edited_story_text_sent": [
+        "i went to the local church last week .",
+        "there were a lot of people there .",
+        "[male] is giving a speech to the audience .",
+        "there were a lot of people there .",
+        "we had a great time worshiping together ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "I went to the local church last week, there were a lot of people there. [male] is giving a speech to the audience. They had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the local church last week , there were a lot of people there .",
+        "[male] is giving a speech to the audience .",
+        "they had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the local club last week . there were many people there . [male] is talking to the audience . there were a lot of people there . they had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the local club last week .",
+        "there were many people there .",
+        "[male] is talking to the audience .",
+        "there were a lot of people there .",
+        "they had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626403967007"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2250328985-2251128640-2250334613-2251131236-2251132736",
+  "photo_sequence_ids": [
+    "2250328985",
+    "2251128640",
+    "2250334613",
+    "2251131236",
+    "2251132736"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old castle was very impressive . the view from the top was amazing . the trees were beautiful . the lake was calm . the water was blue .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "went to see the old castle today on the mountain. It was very impressive . the view from the top was amazing . the trees were beautiful . the lake was calm . the water was blue .",
+      "normalized_edited_story_text_sent": [
+        "went to see the old castle today on the mountain .",
+        "it was very impressive .",
+        "the view from the top was amazing .",
+        "the trees were beautiful .",
+        "the lake was calm .",
+        "the water was blue ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the old castle was very impressive. the view from the top was amazing. the trees and mountains were beautiful. the lake was calm  and the water was blue.",
+      "normalized_edited_story_text_sent": [
+        "the old castle was very impressive .",
+        "the view from the top was amazing .",
+        "the trees and mountains were beautiful .",
+        "the lake was calm and the water was blue ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the old castle was very impressive . the view from the top was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the old castle was very impressive .",
+        "the view from the top was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the ancient castle was very impressive . the view from the top was amazing. the trees were very beautiful . the lake was calm . the water was blue .",
+      "normalized_edited_story_text_sent": [
+        "the ancient castle was very impressive .",
+        "the view from the top was amazing .",
+        "the trees were very beautiful .",
+        "the lake was calm .",
+        "the water was blue ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the old Spanish castle was very impressive . the view from the top was amazing - you could see 360 degrees, with the mountains on one side and the serene ocean and white sand beaches on the other . the trees were beautiful . the lake was calm . the water was blue .",
+      "normalized_edited_story_text_sent": [
+        "the old spanish castle was very impressive .",
+        "the view from the top was amazing - you could see 360 degrees , with the mountains on one side and the serene ocean and white sand beaches on the other .",
+        "the trees were beautiful .",
+        "the lake was calm .",
+        "the water was blue ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603870972242",
+  "model": "GLAC"
+}

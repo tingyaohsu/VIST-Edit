@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "339659501-339676362-339685781-339685786-346521947",
+  "photo_sequence_ids": [
+    "339659501",
+    "339676362",
+    "339685781",
+    "339685786",
+    "346521947"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the crowd was getting ready for the fireworks . the show was spectacular . the performers were very talented . the drummer was really good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the band music was enchanting. the fireworks soon to be set off and the crowd was pretty excitingly expectant for the spectacular show. the performers\u0027 talents were immeasurable. the drummer was one of the featured highlights .",
+      "normalized_edited_story_text_sent": [
+        "the band music was enchanting .",
+        "the fireworks soon to be set off and the crowd was pretty excitingly expectant for the spectacular show .",
+        "the performers \u0027 talents were immeasurable .",
+        "the drummer was one of the featured highlights ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the band was playing music . the crowd was anticipating the fireworks . the show was spectacular . the performers were very talented . the drummer was enthusiastic.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the crowd was anticipating the fireworks .",
+        "the show was spectacular .",
+        "the performers were very talented .",
+        "the drummer was enthusiastic ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "A moniter was hanging in the equipment. Scaffolding was set up. The camera operator prepares. The camera operator is working now. The camera is being adjusted.",
+      "normalized_edited_story_text_sent": [
+        "a moniter was hanging in the equipment .",
+        "scaffolding was set up .",
+        "the camera operator prepares .",
+        "the camera operator is working now .",
+        "the camera is being adjusted ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary was glad the band was playing music . the crowd was getting ready for the fireworks . the show was spectacular . the performers were very talented . the drummer was really good .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the band was playing music .",
+        "the crowd was getting ready for the fireworks .",
+        "the show was spectacular .",
+        "the performers were very talented .",
+        "the drummer was really good ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the camera crew was setting up equipment outdoors. Scaffolding was erected and cameras and wires were placed all around. The crew shot from a variety of angles in the city at night.",
+      "normalized_edited_story_text_sent": [
+        "the camera crew was setting up equipment outdoors .",
+        "scaffolding was erected and cameras and wires were placed all around .",
+        "the crew shot from a variety of angles in the city at night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594460777407",
+  "model": "GLAC"
+}

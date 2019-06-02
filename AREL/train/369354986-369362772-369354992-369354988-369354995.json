@@ -1,0 +1,81 @@
+{
+  "photo_sequence_id": "369354986-369362772-369354992-369354988-369354995",
+  "photo_sequence_ids": [
+    "369354986",
+    "369362772",
+    "369354992",
+    "369354988",
+    "369354995"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/176/369354986_83ec0f0d17_o.jpg",
+    "https://farm1.staticflickr.com/185/369362772_094a62f0f7_o.jpg",
+    "https://farm1.staticflickr.com/166/369354992_dbbb996291_o.jpg",
+    "https://farm1.staticflickr.com/131/369354988_66745729a4_o.jpg",
+    "https://farm1.staticflickr.com/132/369354995_3da70df4b0_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was [male] \u0027s birthday . the baby was so happy to be there . they were so happy to be there . and she was so happy to see him . he was so happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "A34VIKOCYAW0F3",
+      "edited_story_text": "It was Matts birthday today. Everyone attended including his sister from Indiana. They were separated for some years, It was good to see them together",
+      "normalized_edited_story_text_sent": [
+        "it was matts birthday today .",
+        "everyone attended including his sister from indiana .",
+        "they were separated for some years , it was good to see them together"
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "It was [male] \u0027s birthday. The baby was so happy to be there, and she was so happy to see him. As well as he was happy to see him.",
+      "normalized_edited_story_text_sent": [
+        "it was [male] \u0027s birthday .",
+        "the baby was so happy to be there , and she was so happy to see him .",
+        "as well as he was happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "It was [male] \u0027s birthday. The baby brother was so happy to be there. Mom was so happy to see her boys.  It was a great time.  Nice to be able to get together once again since everyone is so busy.",
+      "normalized_edited_story_text_sent": [
+        "it was [male] \u0027s birthday .",
+        "the baby brother was so happy to be there .",
+        "mom was so happy to see her boys .",
+        "it was a great time .",
+        "nice to be able to get together once again since everyone is so busy ."
+      ]
+    },
+    {
+      "worker_id": "A195XH5AQZVSJN",
+      "edited_story_text": "Yesterday we celebrated Brody \u0027s birthday with a 1970s theme party. As you can see, Cindy and I got in on the fun too! Middle part anyone?  Kelly\u0027s kids were so happy to have their picture taken in the photo booth we set up.  Brody\u0027s favorite toy was a box that one of his gifts came in. Here he\u0027s taking a \"ride with his cousin, Mason. Mike and Jeffrey from next door really hammed it up in their cool boy t-shirts. Oops, Christopher, I thought. Halloween birthday doesn\u0027t always equal costume party. Then my brilliant brother Allen walked in the door dressed as Dudley Do-Right and I got it. Christopher was the villain Snidely Whiplash from the 1970s Dudley Do-Right cartoon series. Okay Allen and Christopher win the most creative prize! If we had one (shhhhhhh......)",
+      "normalized_edited_story_text_sent": [
+        "yesterday we celebrated brody \u0027s birthday with a 1970s theme party .",
+        "as you can see , cindy and i got in on the fun too !",
+        "middle part anyone ?",
+        "kelly \u0027s kids were so happy to have their picture taken in the photo booth we set up .",
+        "brody \u0027s favorite toy was a box that one of his gifts came in .",
+        "here he \u0027s taking a `` ride with his cousin , mason .",
+        "mike and jeffrey from next door really hammed it up in their cool boy t-shirts .",
+        "oops , christopher , i thought .",
+        "halloween birthday does n\u0027t always equal costume party .",
+        "then my brilliant brother allen walked in the door dressed as dudley do-right and i got it .",
+        "christopher was the villain snidely whiplash from the 1970s dudley do-right cartoon series .",
+        "okay allen and christopher win the most creative prize !",
+        "if we had one -LRB- shhhhhhh ... -RRB-"
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "it was [male] \u0027s birthday . the baby was so happy to be there, the kids were all smiles.  one even got dressed up for the occasion!",
+      "normalized_edited_story_text_sent": [
+        "it was [male] \u0027s birthday .",
+        "the baby was so happy to be there , the kids were all smiles .",
+        "one even got dressed up for the occasion !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594519612355"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "386605989-389296617-386607664-386607983-386606595",
+  "photo_sequence_ids": [
+    "386605989",
+    "389296617",
+    "386607664",
+    "386607983",
+    "386606595"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/166/386605989_2f4f042985_o.jpg",
+    "https://farm1.staticflickr.com/132/389296617_77708580a3_o.jpg",
+    "https://farm1.staticflickr.com/172/386607664_4f3b25cb65_o.jpg",
+    "https://farm1.staticflickr.com/140/386607983_2565d97136_o.jpg",
+    "https://farm1.staticflickr.com/167/386606595_54e8b05474_o.jpg"
+  ],
+  "auto_story_text_normalized": "the art gallery was decorated with stained glass . this is a picture of a statue . this is a picture of a tree . some of them were very unique . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the art gallery was decorated with glass that had been stained . this is a photo of a statue . here is a photo of a tree . some of them were very different . this is a photo of a building .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was decorated with glass that had been stained .",
+        "this is a photo of a statue .",
+        "here is a photo of a tree .",
+        "some of them were very different .",
+        "this is a photo of a building ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the art gallery was decorated with stained glass and this is a picture of a statue . also this is a picture of a tree and some of them were very unique . this is a picture of a very old nice building .",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was decorated with stained glass and this is a picture of a statue .",
+        "also this is a picture of a tree and some of them were very unique .",
+        "this is a picture of a very old nice building ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "The art gallery was decorated with so much stained glass and statues. Some very unique.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was decorated with so much stained glass and statues .",
+        "some very unique ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the art gallery was decorated with stained glass. some of the art was very unique.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was decorated with stained glass .",
+        "some of the art was very unique ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "The art gallery was decorated with stained glass, it was so beautiful to see. All the pictures had something very unique and special to them.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was decorated with stained glass , it was so beautiful to see .",
+        "all the pictures had something very unique and special to them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594529682304"
+}

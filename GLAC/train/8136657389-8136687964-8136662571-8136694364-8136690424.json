@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "8136657389-8136687964-8136662571-8136694364-8136690424",
+  "photo_sequence_ids": [
+    "8136657389",
+    "8136687964",
+    "8136662571",
+    "8136694364",
+    "8136690424"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the party last week . there were a lot of people there . some of them were very good . they were all very talented . they were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "last week, i went to a great party . many went . some of them were good friends of mine . they showed off their talent with costuming . they also had a blast like me .",
+      "normalized_edited_story_text_sent": [
+        "last week , i went to a great party .",
+        "many went .",
+        "some of them were good friends of mine .",
+        "they showed off their talent with costuming .",
+        "they also had a blast like me ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i had a great time at the party last week . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "I had a fantastic time at the party last week. There were so many people, with a few of them standing out due to their immense talent. It seemed as though everyone there had a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "i had a fantastic time at the party last week .",
+        "there were so many people , with a few of them standing out due to their immense talent .",
+        "it seemed as though everyone there had a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i had a great time at the party last week . there were a lot of people there . Some were in costumes. The place was crowded.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "there were a lot of people there .",
+        "some were in costumes .",
+        "the place was crowded ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "last week, i enjoyed the party . there were a lot of folks present . they were all brilliant and very talented . they were having a blast .",
+      "normalized_edited_story_text_sent": [
+        "last week , i enjoyed the party .",
+        "there were a lot of folks present .",
+        "they were all brilliant and very talented .",
+        "they were having a blast ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631883881971",
+  "model": "GLAC"
+}

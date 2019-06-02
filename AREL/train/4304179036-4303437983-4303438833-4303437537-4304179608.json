@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4304179036-4303437983-4303438833-4303437537-4304179608",
+  "photo_sequence_ids": [
+    "4304179036",
+    "4303437983",
+    "4303438833",
+    "4303437537",
+    "4304179608"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2788/4304179036_619c8eec47_o.jpg",
+    "https://farm3.staticflickr.com/2756/4303437983_a864fb930b_o.jpg",
+    "https://farm5.staticflickr.com/4019/4303438833_40b27e149b_o.jpg",
+    "https://farm5.staticflickr.com/4001/4303437537_2b9b016203_o.jpg",
+    "https://farm5.staticflickr.com/4063/4304179608_cdff008b36_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a cold winter day . the snow was covered in snow . there was a lot of snow on the ground . there was a lot of snow on the ground . i had a lot of snow .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "It was a cold winter day and everything was covered with snow. The trees, leaves and ground were coated with white. I\u0027m not a big fan of snow.",
+      "normalized_edited_story_text_sent": [
+        "it was a cold winter day and everything was covered with snow .",
+        "the trees , leaves and ground were coated with white .",
+        "i \u0027m not a big fan of snow ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "It was a cold winter day, the ground was covered in snow.",
+      "normalized_edited_story_text_sent": [
+        "it was a cold winter day , the ground was covered in snow ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "It was a cold winter day, and the ground was covered with a lot of snow.",
+      "normalized_edited_story_text_sent": [
+        "it was a cold winter day , and the ground was covered with a lot of snow ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "it was a cold winter day . the ground was covered in snow . there was a lot of snow on the trees. there was barely any color besides the white snow snd the blue sky . i had a lot of fun admiring the beauty of it all .",
+      "normalized_edited_story_text_sent": [
+        "it was a cold winter day .",
+        "the ground was covered in snow .",
+        "there was a lot of snow on the trees .",
+        "there was barely any color besides the white snow snd the blue sky .",
+        "i had a lot of fun admiring the beauty of it all ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "It was a brisk winter day. The mountain was coated in snow. There was so much snow on the terrain. The landscape was veiled with snow. I had a ton of snow fall.",
+      "normalized_edited_story_text_sent": [
+        "it was a brisk winter day .",
+        "the mountain was coated in snow .",
+        "there was so much snow on the terrain .",
+        "the landscape was veiled with snow .",
+        "i had a ton of snow fall ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623157272067"
+}

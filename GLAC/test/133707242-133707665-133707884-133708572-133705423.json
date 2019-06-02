@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "133707242-133707665-133707884-133708572-133705423",
+  "photo_sequence_ids": [
+    "133707242",
+    "133707665",
+    "133707884",
+    "133708572",
+    "133705423"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the restaurant was full of food . the chefs were all ready for the day . the lady was doing a speech . the people were in the crowd . the band was playing .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the restaurant was full of food . the lady was doing a speech . the people were in the crowd .",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was full of food .",
+        "the lady was doing a speech .",
+        "the people were in the crowd ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "All the baked goods were a big hit at the outdoor festival.",
+      "normalized_edited_story_text_sent": [
+        "all the baked goods were a big hit at the outdoor festival ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The restaurant was full of food. The chefs were all ready for the day with lots of delicious food. The lady was speaking to a large crowd and a band played after that.",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was full of food .",
+        "the chefs were all ready for the day with lots of delicious food .",
+        "the lady was speaking to a large crowd and a band played after that ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the restaurant was full of variety. the chefs were all ready for the day . the lady was making a speech . there were a lot of people there. the band was playing .",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was full of variety .",
+        "the chefs were all ready for the day .",
+        "the lady was making a speech .",
+        "there were a lot of people there .",
+        "the band was playing ."
+      ]
+    },
+    {
+      "worker_id": "A2ZDXFFGSPHGBE",
+      "edited_story_text": "there were many different foods at the restaurant . the chefs were all ready for the day . the lady was doing a speech . A crowd formed where a band was playing.",
+      "normalized_edited_story_text_sent": [
+        "there were many different foods at the restaurant .",
+        "the chefs were all ready for the day .",
+        "the lady was doing a speech .",
+        "a crowd formed where a band was playing ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594115071974",
+  "model": "GLAC"
+}

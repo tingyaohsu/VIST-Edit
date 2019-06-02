@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "6230428362-6230429172-6229911981-6230430734-6230431408",
+  "photo_sequence_ids": [
+    "6230428362",
+    "6230429172",
+    "6229911981",
+    "6230430734",
+    "6230431408"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the protest was very crowded . there was a man yelling with his fist up . some people held up a cardboard sign . others held up a poster . one guy had a camera and intense body language .",
+      "normalized_edited_story_text_sent": [
+        "the protest was very crowded .",
+        "there was a man yelling with his fist up .",
+        "some people held up a cardboard sign .",
+        "others held up a poster .",
+        "one guy had a camera and intense body language ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The protesters demanded equal rights, as they marched in the street.  Some held up signs and said hooray for our side.\r.",
+      "normalized_edited_story_text_sent": [
+        "the protesters demanded equal rights , as they marched in the street .",
+        "some held up signs and said hooray for our side ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people in attendance. emotions were high.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people in attendance .",
+        "emotions were high ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the march was amusing . many dressed strangely . some of the signs were creative . i was entertained . the winner was the guy who gave a good speech .",
+      "normalized_edited_story_text_sent": [
+        "the march was amusing .",
+        "many dressed strangely .",
+        "some of the signs were creative .",
+        "i was entertained .",
+        "the winner was the guy who gave a good speech ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the protest was interesting . there were a lot of people dressed up . some of them were very creative . i had a great time . people yelled their beliefs .",
+      "normalized_edited_story_text_sent": [
+        "the protest was interesting .",
+        "there were a lot of people dressed up .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "people yelled their beliefs ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627860505746",
+  "model": "GLAC"
+}

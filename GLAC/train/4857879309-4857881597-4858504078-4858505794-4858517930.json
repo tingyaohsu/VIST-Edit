@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4857879309-4857881597-4858504078-4858505794-4858517930",
+  "photo_sequence_ids": [
+    "4857879309",
+    "4857881597",
+    "4858504078",
+    "4858505794",
+    "4858517930"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was on vacation . they were so happy to be there . they saw a lot of interesting things . they had a great time . they were all very beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the family was ready for the wedding . they were so happy to be there . there were a lot of interesting things . the music was amazing . the flowers were all very beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the wedding .",
+        "they were so happy to be there .",
+        "there were a lot of interesting things .",
+        "the music was amazing .",
+        "the flowers were all very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was at a wedding . they were so happy to be there . they saw a lot of interesting things . they had a great time . the bride and groom looked great .",
+      "normalized_edited_story_text_sent": [
+        "the family was at a wedding .",
+        "they were so happy to be there .",
+        "they saw a lot of interesting things .",
+        "they had a great time .",
+        "the bride and groom looked great ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The wedding was by the water. The marriage certificate had been completed. A man sang and played the guitar. The flowers were pretty.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was by the water .",
+        "the marriage certificate had been completed .",
+        "a man sang and played the guitar .",
+        "the flowers were pretty ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family made a trip . they were happy to be at the wedding . they met many interesting unbeknownst people . they had a great day . everyone was dressed beautifully .",
+      "normalized_edited_story_text_sent": [
+        "the family made a trip .",
+        "they were happy to be at the wedding .",
+        "they met many interesting unbeknownst people .",
+        "they had a great day .",
+        "everyone was dressed beautifully ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family was at the wedding. They were so happy to be there. It was beautiful and they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was at the wedding .",
+        "they were so happy to be there .",
+        "it was beautiful and they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624523284401",
+  "model": "GLAC"
+}

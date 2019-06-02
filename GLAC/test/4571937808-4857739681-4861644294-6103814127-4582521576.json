@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4571937808-4857739681-4861644294-6103814127-4582521576",
+  "photo_sequence_ids": [
+    "4571937808",
+    "4857739681",
+    "4861644294",
+    "6103814127",
+    "4582521576"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people . the costumes were very good . the streets were full of people . the police were on hand to keep the crowds safe .",
+  "edited_stories": [
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The parade today was a lot of fun.  We waled down the busy street.  Here are cool pictures of the bikes people used and the parade.",
+      "normalized_edited_story_text_sent": [
+        "the parade today was a lot of fun .",
+        "we waled down the busy street .",
+        "here are cool pictures of the bikes people used and the parade ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the street was a lot of fun . there were so many people . they had bikes . the streets were full of people.  people drove around .",
+      "normalized_edited_story_text_sent": [
+        "the street was a lot of fun .",
+        "there were so many people .",
+        "they had bikes .",
+        "the streets were full of people .",
+        "people drove around ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my trip overseas was a lot of fun. i loved the marketplace with all of the colorful people shopping. outside, rickshaw drivers waited for customers. many city residents used scooters to travel. through it all, the police were on hand to keep the crowds safe .",
+      "normalized_edited_story_text_sent": [
+        "my trip overseas was a lot of fun .",
+        "i loved the marketplace with all of the colorful people shopping .",
+        "outside , rickshaw drivers waited for customers .",
+        "many city residents used scooters to travel .",
+        "through it all , the police were on hand to keep the crowds safe ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the parade was a lot of fun . there were so many people . the costumes were very good . the streets were full of people . the police were on hand to keep the crowds safe .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the parade was a lot of fun .",
+        "there were so many people .",
+        "the costumes were very good .",
+        "the streets were full of people .",
+        "the police were on hand to keep the crowds safe ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the parade was a lot of fun . there were so many people . the costumes were very good . some people were on bikes. the police were on hand to keep the crowds safe .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people .",
+        "the costumes were very good .",
+        "some people were on bikes .",
+        "the police were on hand to keep the crowds safe ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624218075171",
+  "model": "GLAC"
+}

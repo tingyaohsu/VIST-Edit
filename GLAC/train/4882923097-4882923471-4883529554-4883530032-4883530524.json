@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4882923097-4882923471-4883529554-4883530032-4883530524",
+  "photo_sequence_ids": [
+    "4882923097",
+    "4882923471",
+    "4883529554",
+    "4883530032",
+    "4883530524"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was held at a church . the bride and groom were very happy . the reception was beautiful . the bride and groom were so happy . the couple had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the wedding was held at a gorgeous church, with a long aisle, high ceilings and great lighting. The couple\u0027s wedding bands were beautiful. Everyone looked wonderful and was having a great time, taking photos and sharing the day.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a gorgeous church , with a long aisle , high ceilings and great lighting .",
+        "the couple \u0027s wedding bands were beautiful .",
+        "everyone looked wonderful and was having a great time , taking photos and sharing the day ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was inside a church . the bride and groom were joyous . the reception was gorgeous . the bride and groom were elated throughout . the couple had a great day .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was inside a church .",
+        "the bride and groom were joyous .",
+        "the reception was gorgeous .",
+        "the bride and groom were elated throughout .",
+        "the couple had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the wedding was held at a church . the rings were carried in a beautiful box. The church looked very elegant  the bride and groom were very happy . the reception was beautiful .  the couple had a great time . the whole family got pictures clicked and everyone was dressed very beautifully.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a church .",
+        "the rings were carried in a beautiful box .",
+        "the church looked very elegant the bride and groom were very happy .",
+        "the reception was beautiful .",
+        "the couple had a great time .",
+        "the whole family got pictures clicked and everyone was dressed very beautifully ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the wedding was held at a church . the bride and groom were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a church .",
+        "the bride and groom were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A19LVWX8ZLO6CS",
+      "edited_story_text": "the wedding was held at a prestigious and well known church . the bride and groom were very happy and showed off their rings. the reception was grand and very beautiful . the bride and groom were so happy and posed for pictures. all that attended had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a prestigious and well known church .",
+        "the bride and groom were very happy and showed off their rings .",
+        "the reception was grand and very beautiful .",
+        "the bride and groom were so happy and posed for pictures .",
+        "all that attended had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624580453635",
+  "model": "GLAC"
+}

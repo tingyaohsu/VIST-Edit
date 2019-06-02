@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "3682252099-3683064482-3683064834-3682251797-3682252201",
+  "photo_sequence_ids": [
+    "3682252099",
+    "3683064482",
+    "3683064834",
+    "3682251797",
+    "3682252201"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2504/3682252099_12e6b52b6a_o.jpg",
+    "https://farm3.staticflickr.com/2560/3683064482_f27068738c_o.jpg",
+    "https://farm3.staticflickr.com/2522/3683064834_325e939269_o.jpg",
+    "https://farm4.staticflickr.com/3581/3682251797_0e55ec6c69_o.jpg",
+    "https://farm3.staticflickr.com/2490/3682252201_4eec6fecb9_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the park to watch the fireworks . we went to the amusement park . we had a great time at the carnival . then we rode the ferris wheel . the grand finale was the best part .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the carnival to watch the fireworks.  They had rides and we rode a few good ones including ferris wheels and the merry go round.  At the end they had a firework. The finale was the best.",
+      "normalized_edited_story_text_sent": [
+        "we went to the carnival to watch the fireworks .",
+        "they had rides and we rode a few good ones including ferris wheels and the merry go round .",
+        "at the end they had a firework .",
+        "the finale was the best ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we traveled to the park to see the fireworks . we visited the amusement park . we had fun at the carnival . then we went on the ferris wheel . the grand finale was the most awesome part .",
+      "normalized_edited_story_text_sent": [
+        "we traveled to the park to see the fireworks .",
+        "we visited the amusement park .",
+        "we had fun at the carnival .",
+        "then we went on the ferris wheel .",
+        "the grand finale was the most awesome part ."
+      ]
+    },
+    {
+      "worker_id": "AWBXHIHEYDUH6",
+      "edited_story_text": "We had a great time at the amusement park. We rode the ferris wheel and then we watched the fireworks. The grand finale was the best part!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the amusement park .",
+        "we rode the ferris wheel and then we watched the fireworks .",
+        "the grand finale was the best part !"
+      ]
+    },
+    {
+      "worker_id": "A3JTAQ2N5WWH6I",
+      "edited_story_text": "We took a trip to the park today so we could watch the fireworks show.  We spent the earlier part of the day at the amusement park and carnival where we rode the ferris wheel.  Capping the day with the firework grand finale was the best part.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the park today so we could watch the fireworks show .",
+        "we spent the earlier part of the day at the amusement park and carnival where we rode the ferris wheel .",
+        "capping the day with the firework grand finale was the best part ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to the amusement park this weekend. We rode the ferris wheel and got on a bunch of different rides. It was really fun. That night, we stayed to watch the fireworks display, which was amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the amusement park this weekend .",
+        "we rode the ferris wheel and got on a bunch of different rides .",
+        "it was really fun .",
+        "that night , we stayed to watch the fireworks display , which was amazing ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157620874108902"
+}

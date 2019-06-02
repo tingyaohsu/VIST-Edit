@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "3682251351-3682251701-3682251797-3682251941-3683065528",
+  "photo_sequence_ids": [
+    "3682251351",
+    "3682251701",
+    "3682251797",
+    "3682251941",
+    "3683065528"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fair was a lot of fun . there were so many people to see . the rides were amazing . the carnival was very busy . the fireworks were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the fair was a lot of fun . there were businesses there. the rides were amazing . the carnival was busy . the fireworks were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the fair was a lot of fun .",
+        "there were businesses there .",
+        "the rides were amazing .",
+        "the carnival was busy .",
+        "the fireworks were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the fair was a lot of fun. there were so many people to see. the carnival was very busy. the rides were fun and the fireworks were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the fair was a lot of fun .",
+        "there were so many people to see .",
+        "the carnival was very busy .",
+        "the rides were fun and the fireworks were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "We wen to a fair. . there were so many people. the rides were amazing . the carnival was very interesting . the fireworks were beautiful. we had so much fun!",
+      "normalized_edited_story_text_sent": [
+        "we wen to a fair .",
+        "there were so many people .",
+        "the rides were amazing .",
+        "the carnival was very interesting .",
+        "the fireworks were beautiful .",
+        "we had so much fun !"
+      ]
+    },
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the fair was a lot of fun . it was very busy, and there were so many people to see . the rides were amazing . the fireworks were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the fair was a lot of fun .",
+        "it was very busy , and there were so many people to see .",
+        "the rides were amazing .",
+        "the fireworks were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the fair was a lot of fun . there were so many people to see . the rides were off the charts.",
+      "normalized_edited_story_text_sent": [
+        "the fair was a lot of fun .",
+        "there were so many people to see .",
+        "the rides were off the charts ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157620874108902",
+  "model": "GLAC"
+}

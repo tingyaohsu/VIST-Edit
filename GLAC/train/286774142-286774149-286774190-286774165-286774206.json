@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "286774142-286774149-286774190-286774165-286774206",
+  "photo_sequence_ids": [
+    "286774142",
+    "286774149",
+    "286774190",
+    "286774165",
+    "286774206"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was gathered for the birthday party . the little girl was excited to see her grandson . the whole family was there . the grandparents were happy . the boys were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3GE30DPGCRLTO",
+      "edited_story_text": "the family was gathered for the birthday party . they were all excited to see each other . the whole family was there . the grandparents were happy . the boys were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party .",
+        "they were all excited to see each other .",
+        "the whole family was there .",
+        "the grandparents were happy .",
+        "the boys were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was gathered for the big birthday party . the little girl was super happy to see her grandson . the whole family was there . the grandparents were happy . the boys were very happy .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the big birthday party .",
+        "the little girl was super happy to see her grandson .",
+        "the whole family was there .",
+        "the grandparents were happy .",
+        "the boys were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was gathered for the birthday party . the woman was excited to see her grandson . it was a fun day.",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party .",
+        "the woman was excited to see her grandson .",
+        "it was a fun day ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was gathered for the birthday party . the grandma was excited to see her grandson . the whole family was there . the grandparents were happy to celebrate . the family took many photos together .",
+      "normalized_edited_story_text_sent": [
+        "the family was gathered for the birthday party .",
+        "the grandma was excited to see her grandson .",
+        "the whole family was there .",
+        "the grandparents were happy to celebrate .",
+        "the family took many photos together ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Celebrating grandma\u0027s birthday .  the family was there and grandma was happy to see everyone.",
+      "normalized_edited_story_text_sent": [
+        "celebrating grandma \u0027s birthday .",
+        "the family was there and grandma was happy to see everyone ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594357207240",
+  "model": "GLAC"
+}

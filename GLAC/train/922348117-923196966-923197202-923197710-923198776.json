@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "922348117-923196966-923197202-923197710-923198776",
+  "photo_sequence_ids": [
+    "922348117",
+    "923196966",
+    "923197202",
+    "923197710",
+    "923198776"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a beautiful place to visit . the buildings were very old . the streets were full of people . the statues were interesting . the artwork was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the city was a beautiful place to visit . the buildings were very old . the streets were full of people . the statues were interesting . the artwork was amazing .\r\rI loved visiting this city. It was so beautiful. The buildings were ancient! The streets were bustling full of people. The statues were so unique and different! The artwork was really incredible.",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit .",
+        "the buildings were very old .",
+        "the streets were full of people .",
+        "the statues were interesting .",
+        "the artwork was amazing .",
+        "i loved visiting this city .",
+        "it was so beautiful .",
+        "the buildings were ancient !",
+        "the streets were bustling full of people .",
+        "the statues were so unique and different !",
+        "the artwork was really incredible ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was a beautiful place to visit . The architecture was impressive. There were men in uniforms walking. Many people looked on.",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit .",
+        "the architecture was impressive .",
+        "there were men in uniforms walking .",
+        "many people looked on ."
+      ]
+    },
+    {
+      "worker_id": "AHI4R9YE0SF9E",
+      "edited_story_text": "The city was a beautiful place to visit and the buildings were very old. In addition, the streets were full of people. A lot of the statues were interesting and the artwork was amazing.",
+      "normalized_edited_story_text_sent": [
+        "the city was a beautiful place to visit and the buildings were very old .",
+        "in addition , the streets were full of people .",
+        "a lot of the statues were interesting and the artwork was amazing ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the white house looked beautiful . the photograph was very old . another photo showed ovens . the dignitaries and soldiers walked in the old photo . another old photo showed soldiers and officials sitting in a room .",
+      "normalized_edited_story_text_sent": [
+        "the white house looked beautiful .",
+        "the photograph was very old .",
+        "another photo showed ovens .",
+        "the dignitaries and soldiers walked in the old photo .",
+        "another old photo showed soldiers and officials sitting in a room ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Here are some historical pictures of famous landmarks both here and abroad.  The Nazi death camps are a grim reminder of things that should never be repeated.",
+      "normalized_edited_story_text_sent": [
+        "here are some historical pictures of famous landmarks both here and abroad .",
+        "the nazi death camps are a grim reminder of things that should never be repeated ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601047470846",
+  "model": "GLAC"
+}

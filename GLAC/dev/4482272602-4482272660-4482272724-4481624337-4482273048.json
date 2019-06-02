@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4482272602-4482272660-4482272724-4481624337-4482273048",
+  "photo_sequence_ids": [
+    "4482272602",
+    "4482272660",
+    "4482272724",
+    "4481624337",
+    "4482273048"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the room was clean and inviting . the kitchen was a bit smaller than i expected . the bathroom was a little messy . the bedroom was very nice . the living room was also furnished .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The room was clean and inviting, but the kitchen was a bit smaller than I expected. The bathroom was a little messy and the bedroom was very nice. The living room was furnished.",
+      "normalized_edited_story_text_sent": [
+        "the room was clean and inviting , but the kitchen was a bit smaller than i expected .",
+        "the bathroom was a little messy and the bedroom was very nice .",
+        "the living room was furnished ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the room was clean and inviting. the kitchen was a bit smaller than i expected and the bathroom was a little messy. the bedroom was very nice though. the living room was furnished.",
+      "normalized_edited_story_text_sent": [
+        "the room was clean and inviting .",
+        "the kitchen was a bit smaller than i expected and the bathroom was a little messy .",
+        "the bedroom was very nice though .",
+        "the living room was furnished ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the room was clean and inviting . the kitchen was a bit smaller than i expected . the bathroom was a little messy . the bedroom was very nice . the living room was also furnished .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the room was clean and inviting .",
+        "the kitchen was a bit smaller than i expected .",
+        "the bathroom was a little messy .",
+        "the bedroom was very nice .",
+        "the living room was also furnished ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we went to see the new house . the kitchen was a bit smaller than i expected . the bathroom was small, but nice . the bedroom was very nice and furnished .",
+      "normalized_edited_story_text_sent": [
+        "we went to see the new house .",
+        "the kitchen was a bit smaller than i expected .",
+        "the bathroom was small , but nice .",
+        "the bedroom was very nice and furnished ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the home was clean and inviting . the kitchen was a bit smaller than i expected but nicely laid out and bright . the bathroom was well kept for the most part . the bedroom was furnished and looked quite nice . the living room was also furnished .",
+      "normalized_edited_story_text_sent": [
+        "the home was clean and inviting .",
+        "the kitchen was a bit smaller than i expected but nicely laid out and bright .",
+        "the bathroom was well kept for the most part .",
+        "the bedroom was furnished and looked quite nice .",
+        "the living room was also furnished ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623748328220",
+  "model": "GLAC"
+}

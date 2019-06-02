@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "6616045169-6616044629-6616053019-6616049313-6616054639",
+  "photo_sequence_ids": [
+    "6616045169",
+    "6616044629",
+    "6616053019",
+    "6616049313",
+    "6616054639"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7030/6616045169_9e90fa5267_o.jpg",
+    "https://farm8.staticflickr.com/7032/6616044629_0b8bf7e818_o.jpg",
+    "https://farm8.staticflickr.com/7150/6616053019_4b795d59bc_o.jpg",
+    "https://farm8.staticflickr.com/7156/6616049313_8b8636b668_o.jpg",
+    "https://farm8.staticflickr.com/7151/6616054639_454457388f_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the beach . the man was very excited to be there . we found a lot of rocks on the ground . he was doing a great job . the waves were very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the beach! [Male] was very excited to be there. We found a lot of rocks on the beach. [Male] was doing a great job. The waves were great!",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the beach !",
+        "[male] was very excited to be there .",
+        "we found a lot of rocks on the beach .",
+        "[male] was doing a great job .",
+        "the waves were great !"
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we have a great time at the beach . the man is very excited to be there . we found a lot of rocks on the ground . he is doing a great job . the waves are very good .",
+      "normalized_edited_story_text_sent": [
+        "we have a great time at the beach .",
+        "the man is very excited to be there .",
+        "we found a lot of rocks on the ground .",
+        "he is doing a great job .",
+        "the waves are very good ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "we had a great time at the beach .The kids, my husband, and I were excited to be there . We wrote our location and date in the sand to mark the trip! My son decided to jump off the rockcliff! . the waves were very good and so much fun to see.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the beach .",
+        "the kids , my husband , and i were excited to be there .",
+        "we wrote our location and date in the sand to mark the trip !",
+        "my son decided to jump off the rockcliff !",
+        ".",
+        "the waves were very good and so much fun to see ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we had a great time at the beach . the man was very excited to be there . we found a lot of rocks on the ground . he was doing a great job .The waves were so beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the beach .",
+        "the man was very excited to be there .",
+        "we found a lot of rocks on the ground .",
+        "he was doing a great job .",
+        "the waves were so beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we had a great time at the beach together . My son was very excited to be there . we found a lot of rocks on the ground by the water. My son was doing a great job . the waves were very good and not too high for us.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the beach together .",
+        "my son was very excited to be there .",
+        "we found a lot of rocks on the ground by the water .",
+        "my son was doing a great job .",
+        "the waves were very good and not too high for us ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628671377835"
+}

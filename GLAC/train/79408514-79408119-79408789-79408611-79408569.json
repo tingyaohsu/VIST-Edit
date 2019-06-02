@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "79408514-79408119-79408789-79408611-79408569",
+  "photo_sequence_ids": [
+    "79408514",
+    "79408119",
+    "79408789",
+    "79408611",
+    "79408569"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the friends gathered for a night out . the sun was setting . the people were walking along the beach . the man was having a great time . the family was happy to be together .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the friends gathered for a night out . the moon was shining over the water . the people were walking along the beach . the man was having a great time . the friends were happy to be together .",
+      "normalized_edited_story_text_sent": [
+        "the friends gathered for a night out .",
+        "the moon was shining over the water .",
+        "the people were walking along the beach .",
+        "the man was having a great time .",
+        "the friends were happy to be together ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the friends gathered for a night out . the sun was setting over the water. We went to the beach in the daytime. We had a great night out.",
+      "normalized_edited_story_text_sent": [
+        "the friends gathered for a night out .",
+        "the sun was setting over the water .",
+        "we went to the beach in the daytime .",
+        "we had a great night out ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the family gathered for a night out . the sun was setting . earlier they took a photo of the beach . they posed for photos . the family was happy to be together .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a night out .",
+        "the sun was setting .",
+        "earlier they took a photo of the beach .",
+        "they posed for photos .",
+        "the family was happy to be together ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The friends gathered for a night out as the sun was setting. The people were walking along the beach. The man was having a great time and the family was happy to be together .",
+      "normalized_edited_story_text_sent": [
+        "the friends gathered for a night out as the sun was setting .",
+        "the people were walking along the beach .",
+        "the man was having a great time and the family was happy to be together ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the friends gathered for a night out on the beach . the sun was setting which was beautiful . the people were walking along the beach with their best friends . the man was having a great time taking photos of the night . the family was happy to be together on a nice quiet evening.",
+      "normalized_edited_story_text_sent": [
+        "the friends gathered for a night out on the beach .",
+        "the sun was setting which was beautiful .",
+        "the people were walking along the beach with their best friends .",
+        "the man was having a great time taking photos of the night .",
+        "the family was happy to be together on a nice quiet evening ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1699506",
+  "model": "GLAC"
+}

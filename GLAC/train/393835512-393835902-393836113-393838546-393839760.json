@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "393835512-393835902-393836113-393838546-393839760",
+  "photo_sequence_ids": [
+    "393835512",
+    "393835902",
+    "393836113",
+    "393838546",
+    "393839760"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the table was set for the wedding . the bride and groom were ready to go . the cake was delicious . the bride and groom were very happy . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the wedding was beautiful. everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the table was set for the wedding . the bride and groom were ready to go . the cake was super tasty . the bride and groom were very happy . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the wedding .",
+        "the bride and groom were ready to go .",
+        "the cake was super tasty .",
+        "the bride and groom were very happy .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the table was set for the wedding. there were beautiful flowers. the bride and groom were ready to go . the bride and groom were very happy . the food and cake were delicious .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the wedding .",
+        "there were beautiful flowers .",
+        "the bride and groom were ready to go .",
+        "the bride and groom were very happy .",
+        "the food and cake were delicious ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the table was set for the wedding .The decorations were pretty. The cake had fruit on it. Everyone enjoyed the cake.",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the wedding .",
+        "the decorations were pretty .",
+        "the cake had fruit on it .",
+        "everyone enjoyed the cake ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the table settings for the wedding were beautiful. the cake was so pretty.  the bride and groom were ready to enjoy the delicious cake . the bride and groom were very happy.",
+      "normalized_edited_story_text_sent": [
+        "the table settings for the wedding were beautiful .",
+        "the cake was so pretty .",
+        "the bride and groom were ready to enjoy the delicious cake .",
+        "the bride and groom were very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594541988863",
+  "model": "GLAC"
+}

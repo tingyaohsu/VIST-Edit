@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "35433190-35433230-35433246-35433256-35433261",
+  "photo_sequence_ids": [
+    "35433190",
+    "35433230",
+    "35433246",
+    "35433256",
+    "35433261"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the protesters gathered for a peaceful protest . the police officers had a sign to keep the crowd alive . the rally was held at the location location . the march was a success . the protesters were very passionate .",
+  "edited_stories": [
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the protesters gathered for a peaceful protest, they had signs showing their support for the cause. here is a picture of me before I saw that the police officers had a sign to keep the crowd alive . the rally was held at the location  that had a tent for getting out of the hot sun . the march was a success , it ended with a picture of those from both side standing in agreement . the protesters were very passionate some of them got dressed is flashy costumes .",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered for a peaceful protest , they had signs showing their support for the cause .",
+        "here is a picture of me before i saw that the police officers had a sign to keep the crowd alive .",
+        "the rally was held at the location that had a tent for getting out of the hot sun .",
+        "the march was a success , it ended with a picture of those from both side standing in agreement .",
+        "the protesters were very passionate some of them got dressed is flashy costumes ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The came to cheer on racers. The runners raced by. We all posed for pictures. He was happy the race was done.",
+      "normalized_edited_story_text_sent": [
+        "the came to cheer on racers .",
+        "the runners raced by .",
+        "we all posed for pictures .",
+        "he was happy the race was done ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the protesters gathered for a peaceful protest .",
+      "normalized_edited_story_text_sent": [
+        "the protesters gathered for a peaceful protest ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the runners gathered for a fund raiser . the police officers had a sign to keep the crowd safe. the rally was held at the park. the race was a success . the participants were very passionate .",
+      "normalized_edited_story_text_sent": [
+        "the runners gathered for a fund raiser .",
+        "the police officers had a sign to keep the crowd safe .",
+        "the rally was held at the park .",
+        "the race was a success .",
+        "the participants were very passionate ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the people gathered with encouragement signs . the man had to wait . the race was going on . the race was a success . the races were very passionate .",
+      "normalized_edited_story_text_sent": [
+        "the people gathered with encouragement signs .",
+        "the man had to wait .",
+        "the race was going on .",
+        "the race was a success .",
+        "the races were very passionate ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "784072",
+  "model": "GLAC"
+}

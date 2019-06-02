@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6053198753-6059468949-6064266349-6143698378-6178288219",
+  "photo_sequence_ids": [
+    "6053198753",
+    "6059468949",
+    "6064266349",
+    "6143698378",
+    "6178288219"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6087/6053198753_7234be6aa6_o.jpg",
+    "https://farm7.staticflickr.com/6068/6059468949_64de7ee627_o.jpg",
+    "https://farm7.staticflickr.com/6203/6064266349_77bd90c316_o.jpg",
+    "https://farm7.staticflickr.com/6165/6143698378_31f6e2afcd_o.jpg",
+    "https://farm7.staticflickr.com/6177/6178288219_69603c2c34_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on vacation last weekend . this is a picture of a restaurant . this is a picture of a building . this is a picture of a building . this is the building we stayed at .",
+  "edited_stories": [
+    {
+      "worker_id": "A6QG9LM5WL0AQ",
+      "edited_story_text": "i went on vacation last weekend to a beautiful place . this is a picture of a casual restaurant we almost went to. this is a picture of a man climbing a tall ladder and doing maintenance on the place . this is a picture of a yellow building with lots of shuddered windows . this is the building we stayed at the area was so clean and nice .",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend to a beautiful place .",
+        "this is a picture of a casual restaurant we almost went to .",
+        "this is a picture of a man climbing a tall ladder and doing maintenance on the place .",
+        "this is a picture of a yellow building with lots of shuddered windows .",
+        "this is the building we stayed at the area was so clean and nice ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "i went on vacation last week . this was a picture of a restaurant . this was a picture of a building . this was a picture of a building . this was the building we stayed at .",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last week .",
+        "this was a picture of a restaurant .",
+        "this was a picture of a building .",
+        "this was a picture of a building .",
+        "this was the building we stayed at ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went on vacation last weekend in the  Caribbean . this is a picture of a restaurant i ate at. this is a picture of a building . this is the building we stayed at .",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend in the caribbean .",
+        "this is a picture of a restaurant i ate at .",
+        "this is a picture of a building .",
+        "this is the building we stayed at ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went on vacation last weekend. we at this restaurant a few times because the food was so good. there were a lot of colorful buildings in the city. the hotel we stayed at was very nice.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend .",
+        "we at this restaurant a few times because the food was so good .",
+        "there were a lot of colorful buildings in the city .",
+        "the hotel we stayed at was very nice ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went on vacation last weekend in the city . this is a picture of a restaurant . this is a picture of a building that I stayed at.",
+      "normalized_edited_story_text_sent": [
+        "i went on vacation last weekend in the city .",
+        "this is a picture of a restaurant .",
+        "this is a picture of a building that i stayed at ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627332233871"
+}

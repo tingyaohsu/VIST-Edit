@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4882923097-4883530032-4883530524-4882927495-4882928919",
+  "photo_sequence_ids": [
+    "4882923097",
+    "4883530032",
+    "4883530524",
+    "4882927495",
+    "4882928919"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the couple was very happy . the bride and groom were so happy . the family was there to celebrate .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were very happy . the groom wore a traditional kilt . the bride and groom were so happy . the family was there to celebrate .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the groom wore a traditional kilt .",
+        "the bride and groom were so happy .",
+        "the family was there to celebrate ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the wedding was beautiful. i loved the tributes to their Scottish heritage! the bride and groom were very happy, and everyone showed up to celebrate.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "i loved the tributes to their scottish heritage !",
+        "the bride and groom were very happy , and everyone showed up to celebrate ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The wedding was beautiful, and the bride and groom were overjoyed. The family was there to celebrate, and they certainly did that.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful , and the bride and groom were overjoyed .",
+        "the family was there to celebrate , and they certainly did that ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The wedding was beautiful. The whole family was there to celebrate. The bride and groom looked amazing and very happy.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the whole family was there to celebrate .",
+        "the bride and groom looked amazing and very happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was beautifully planned . the bride and groom were a happy pair . the vows were happily exchanged . the bride and groom were so happy they laughed throughout the ceremony . the family was there to celebrate a milestone .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautifully planned .",
+        "the bride and groom were a happy pair .",
+        "the vows were happily exchanged .",
+        "the bride and groom were so happy they laughed throughout the ceremony .",
+        "the family was there to celebrate a milestone ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624580453635",
+  "model": "GLAC"
+}

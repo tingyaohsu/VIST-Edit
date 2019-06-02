@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4283249791-4283993292-4283995394-4283996784-4283255261",
+  "photo_sequence_ids": [
+    "4283249791",
+    "4283993292",
+    "4283995394",
+    "4283996784",
+    "4283255261"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2750/4283249791_0c23abbed8_o.jpg",
+    "https://farm3.staticflickr.com/2691/4283993292_25685e1034_o.jpg",
+    "https://farm3.staticflickr.com/2691/4283995394_7c8e2cf1bd_o.jpg",
+    "https://farm5.staticflickr.com/4018/4283996784_f2f253c725_o.jpg",
+    "https://farm5.staticflickr.com/4041/4283255261_bfb364fa1a_o.jpg"
+  ],
+  "auto_story_text_normalized": "today we went to a new restaurant . we had a lot of work to do . the food was delicious and delicious . the meal was delicious . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "today we visited a new cooking school . we had a lot of work to do to make a great meal . the food looked awesome . the meal was very tasty . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "today we visited a new cooking school .",
+        "we had a lot of work to do to make a great meal .",
+        "the food looked awesome .",
+        "the meal was very tasty .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "Today we went to a new restaurant. It was held in an old house.  There were pots and pans hanging from the ceiling.  The meal was delicious. I had a great time .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a new restaurant .",
+        "it was held in an old house .",
+        "there were pots and pans hanging from the ceiling .",
+        "the meal was delicious .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "today we went to a new restaurant with a unique style. we had a lot of work to do . the food looked and tasted amazing . the meal was delicious . i had a great time with [male] and [female] .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a new restaurant with a unique style .",
+        "we had a lot of work to do .",
+        "the food looked and tasted amazing .",
+        "the meal was delicious .",
+        "i had a great time with [male] and [female] ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "Today I went to a cooking class with some of my friends. We learned a lot. The food we made was delicious, and we all ended up eating a lot. It was fun.",
+      "normalized_edited_story_text_sent": [
+        "today i went to a cooking class with some of my friends .",
+        "we learned a lot .",
+        "the food we made was delicious , and we all ended up eating a lot .",
+        "it was fun ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "today we go to a new restaurant . we have a lot of work to do . the food is delicious and delicious . the meal is delicious . i have a great time .",
+      "normalized_edited_story_text_sent": [
+        "today we go to a new restaurant .",
+        "we have a lot of work to do .",
+        "the food is delicious and delicious .",
+        "the meal is delicious .",
+        "i have a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623107791583"
+}

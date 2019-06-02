@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4394070262-4390743107-4390743335-4391525282-4391524182",
+  "photo_sequence_ids": [
+    "4394070262",
+    "4390743107",
+    "4390743335",
+    "4391525282",
+    "4391524182"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4041/4394070262_4ecb4700fc_o.jpg",
+    "https://farm3.staticflickr.com/2722/4390743107_491abfbbe0_o.jpg",
+    "https://farm5.staticflickr.com/4070/4390743335_4795807c05_o.jpg",
+    "https://farm5.staticflickr.com/4015/4391525282_b749f1dd8c_o.jpg",
+    "https://farm3.staticflickr.com/2691/4391524182_aeb9772cd1_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . it was in the snow . there was a lot of snow on the streets . the streets were covered in snow . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a building . it was in the snow . there was a lot of snow on the streets . the streets were covered in snow and it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "it was in the snow .",
+        "there was a lot of snow on the streets .",
+        "the streets were covered in snow and it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2LH2CAU6CXVW",
+      "edited_story_text": "The city is so beautiful when it snows. On this particular Winter day, snow had covered the ground.  There was a lot of snow on the streets.  The streets were almost impassable, so it was safe to play on the road.  We made memories that we will never forget.",
+      "normalized_edited_story_text_sent": [
+        "the city is so beautiful when it snows .",
+        "on this particular winter day , snow had covered the ground .",
+        "there was a lot of snow on the streets .",
+        "the streets were almost impassable , so it was safe to play on the road .",
+        "we made memories that we will never forget ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a building while it was in the snow . there was a lot of snow on the streets . it was a lot of fun to play in the snow.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building while it was in the snow .",
+        "there was a lot of snow on the streets .",
+        "it was a lot of fun to play in the snow ."
+      ]
+    },
+    {
+      "worker_id": "A3RH84U74MARF5",
+      "edited_story_text": "This is the view outside the building. There was snow covering everything. There was even a lot of snow on the streets. People were shoveling to try and clear the roads, while others were simply having fun.",
+      "normalized_edited_story_text_sent": [
+        "this is the view outside the building .",
+        "there was snow covering everything .",
+        "there was even a lot of snow on the streets .",
+        "people were shoveling to try and clear the roads , while others were simply having fun ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "This is a picture of a building covered in snow, the streets were also covered in snow. It was fun having snow ball fights and making snowmen.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building covered in snow , the streets were also covered in snow .",
+        "it was fun having snow ball fights and making snowmen ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623517255524"
+}

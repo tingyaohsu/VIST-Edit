@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6462092707-6462095753-6462093329-6462098595-6462103235",
+  "photo_sequence_ids": [
+    "6462092707",
+    "6462095753",
+    "6462093329",
+    "6462098595",
+    "6462103235"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7004/6462092707_8e635fa5b5_o.jpg",
+    "https://farm8.staticflickr.com/7158/6462095753_346d550994_o.jpg",
+    "https://farm8.staticflickr.com/7035/6462093329_d0031315d8_o.jpg",
+    "https://farm8.staticflickr.com/7167/6462098595_91c1d3db08_o.jpg",
+    "https://farm8.staticflickr.com/7149/6462103235_dc82d81b98_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to a car show today . of course , there were a lot of classic cars . there were a lot of cool cars . there were many different types of cars . at the end of the race , the car show was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to a car show today . of course, there were a lot of classic cars on display. all of them were really cool. some of the cars were really bright colors. the whole experience was amazing.",
+      "normalized_edited_story_text_sent": [
+        "i went to a car show today .",
+        "of course , there were a lot of classic cars on display .",
+        "all of them were really cool .",
+        "some of the cars were really bright colors .",
+        "the whole experience was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "i go to a car show today . of course , there are a lot of classic cars . there are a lot of cool cars . there are many different types of cars . at the end of the race , the car show is amazing .",
+      "normalized_edited_story_text_sent": [
+        "i go to a car show today .",
+        "of course , there are a lot of classic cars .",
+        "there are a lot of cool cars .",
+        "there are many different types of cars .",
+        "at the end of the race , the car show is amazing ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to a car show today . of course , there were a lot of classic cars . there were a lot of cool cars . there were many different types of cars . The car show was amazing  and I couldn\u0027t wait to go back.",
+      "normalized_edited_story_text_sent": [
+        "i went to a car show today .",
+        "of course , there were a lot of classic cars .",
+        "there were a lot of cool cars .",
+        "there were many different types of cars .",
+        "the car show was amazing and i could n\u0027t wait to go back ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to a car show today . of course , there were a lot of classic cars . there were also a lot of cool cars . there were so many different types of cars . I wish there was a race , the car show was amazing .",
+      "normalized_edited_story_text_sent": [
+        "i went to a car show today .",
+        "of course , there were a lot of classic cars .",
+        "there were also a lot of cool cars .",
+        "there were so many different types of cars .",
+        "i wish there was a race , the car show was amazing ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "I went to a car show today . Of course , there were a lot of classic cars to see . There were also a lot of cool cars to look at . Also,there were many different types of cars . At the end of the day , the car show was amazing .",
+      "normalized_edited_story_text_sent": [
+        "i went to a car show today .",
+        "of course , there were a lot of classic cars to see .",
+        "there were also a lot of cool cars to look at .",
+        "also , there were many different types of cars .",
+        "at the end of the day , the car show was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628295941191"
+}

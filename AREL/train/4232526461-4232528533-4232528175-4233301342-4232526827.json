@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4232526461-4232528533-4232528175-4233301342-4232526827",
+  "photo_sequence_ids": [
+    "4232526461",
+    "4232528533",
+    "4232528175",
+    "4233301342",
+    "4232526827"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2542/4232526461_b9dc6497a1_o.jpg",
+    "https://farm5.staticflickr.com/4066/4232528533_9191d56a83_o.jpg",
+    "https://farm3.staticflickr.com/2493/4232528175_20a6cebe2b_o.jpg",
+    "https://farm3.staticflickr.com/2544/4233301342_2e0f666cdb_o.jpg",
+    "https://farm5.staticflickr.com/4027/4232526827_0068670002_o.jpg"
+  ],
+  "auto_story_text_normalized": "the crowd gathered to watch the fireworks . there were many people there . there were a lot of people there . there were a lot of people there . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the crowd gathered to watch the fireworks and there were many people there .  it was such a great night .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered to watch the fireworks and there were many people there .",
+        "it was such a great night ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the crowd gathered to watch the fireworks . there were many people there . there were folks in funny hats . there were people in strange costumes . all in all it was a great night .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered to watch the fireworks .",
+        "there were many people there .",
+        "there were folks in funny hats .",
+        "there were people in strange costumes .",
+        "all in all it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "After the race, the crowd gathered to watch the fireworks. There were many people there. Some people wore costumes. It was a great night.",
+      "normalized_edited_story_text_sent": [
+        "after the race , the crowd gathered to watch the fireworks .",
+        "there were many people there .",
+        "some people wore costumes .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "There was a firework show for everyone to watch. Everyone gathered to wait for the fireworks. It was a good turn out. A lot of people showed up to watch the fireworks. It was a fun night.",
+      "normalized_edited_story_text_sent": [
+        "there was a firework show for everyone to watch .",
+        "everyone gathered to wait for the fireworks .",
+        "it was a good turn out .",
+        "a lot of people showed up to watch the fireworks .",
+        "it was a fun night ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the group assembled to watch the firecrackers . there were numerous people there . there were many people there . there were many people there . it was a joyful night .",
+      "normalized_edited_story_text_sent": [
+        "the group assembled to watch the firecrackers .",
+        "there were numerous people there .",
+        "there were many people there .",
+        "there were many people there .",
+        "it was a joyful night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622987335991"
+}

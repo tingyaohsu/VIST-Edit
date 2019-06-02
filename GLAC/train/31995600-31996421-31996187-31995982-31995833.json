@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "31995600-31996421-31996187-31995982-31995833",
+  "photo_sequence_ids": [
+    "31995600",
+    "31996421",
+    "31996187",
+    "31995982",
+    "31995833"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time . they had a lot of fun . they had a good time . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was having a great time . they had a lot of fun eating outside  . they had a lot of fun soaking up the sun. they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "they had a lot of fun eating outside .",
+        "they had a lot of fun soaking up the sun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was having a great time .We posed for pictures and sat outside. We gathered around tables and sat outside in the sunshine.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "we posed for pictures and sat outside .",
+        "we gathered around tables and sat outside in the sunshine ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the family was having a great time this day. they had a lot of fun too. they had a good time and were smiling. they had a lot of fun with each other. Everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time this day .",
+        "they had a lot of fun too .",
+        "they had a good time and were smiling .",
+        "they had a lot of fun with each other .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "our family spent the weekend together. my sisters mary and lisa were there. my dad Robert even came from out of town. we had a great meal outdoors and talked. everyone was glad we took the time to be together.",
+      "normalized_edited_story_text_sent": [
+        "our family spent the weekend together .",
+        "my sisters [female] and [female] were there .",
+        "my dad [male] even came from out of town .",
+        "we had a great meal outdoors and talked .",
+        "everyone was glad we took the time to be together ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the family was having a great time . Lisa and Mary got their picture taken on the sofa. everyone was posing to get their pictures clicked. the weather was great so everyone sat outside and had food and drinks. they had a lot of fun . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "[female] and [female] got their picture taken on the sofa .",
+        "everyone was posing to get their pictures clicked .",
+        "the weather was great so everyone sat outside and had food and drinks .",
+        "they had a lot of fun .",
+        "they had a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "712904",
+  "model": "GLAC"
+}

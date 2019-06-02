@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4286089190-4286089558-4285350041-4285343655-4285350837",
+  "photo_sequence_ids": [
+    "4286089190",
+    "4286089558",
+    "4285350041",
+    "4285343655",
+    "4285350837"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4039/4286089190_fdd7951231_o.jpg",
+    "https://farm3.staticflickr.com/2785/4286089558_afd0725f3f_o.jpg",
+    "https://farm3.staticflickr.com/2698/4285350041_0b8f6d996a_o.jpg",
+    "https://farm3.staticflickr.com/2775/4285343655_497549c257_o.jpg",
+    "https://farm3.staticflickr.com/2722/4285350837_7603dabe83_o.jpg"
+  ],
+  "auto_story_text_normalized": "the students were excited to be there . the students were very excited to be there . the students were able to make their way to the table . the teacher gave us a lot of information for them . the final product of the day was a success . it was a great success .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The students were excited to be there and ran to the table. The teacher gave us a lot of information for them, there was lots of food and things to do. The party was successful.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be there and ran to the table .",
+        "the teacher gave us a lot of information for them , there was lots of food and things to do .",
+        "the party was successful ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The students were excited to be welcoming the grandparents when they visited the classroom.  They sat around the table listening to the grandparents read a book to them.  They had some candies afterward.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be welcoming the grandparents when they visited the classroom .",
+        "they sat around the table listening to the grandparents read a book to them .",
+        "they had some candies afterward ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The students were excited to be there. The students all made their way to the table. The teacher gave us a lot of information for them. The final product of the day was a success . Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be there .",
+        "the students all made their way to the table .",
+        "the teacher gave us a lot of information for them .",
+        "the final product of the day was a success .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "the students were very excited to be there. the students were able to make their way to the table where the teacher gave us a lot of information. the final product of the day was a great success.",
+      "normalized_edited_story_text_sent": [
+        "the students were very excited to be there .",
+        "the students were able to make their way to the table where the teacher gave us a lot of information .",
+        "the final product of the day was a great success ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the students were excited to be there . they had a long summer. the students were able to make their way to the table . the teacher gave us a lot of information for them . the final product of the day was a success .It was a good day",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be there .",
+        "they had a long summer .",
+        "the students were able to make their way to the table .",
+        "the teacher gave us a lot of information for them .",
+        "the final product of the day was a success .",
+        "it was a good day"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623112779761"
+}

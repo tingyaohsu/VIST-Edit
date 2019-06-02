@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "6852935965-6852943079-6852948293-6852946215-6852949415",
+  "photo_sequence_ids": [
+    "6852935965",
+    "6852943079",
+    "6852948293",
+    "6852946215",
+    "6852949415"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the new office is in the middle of the building . the inside is very modern . the walls are all set up for the event . the logo is on the wall . the camera is ready to go .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the museum had a lot of interesting pieces. from pianos to record players",
+      "normalized_edited_story_text_sent": [
+        "the museum had a lot of interesting pieces .",
+        "from pianos to record players"
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The new office is located in the middle of the building. The inside is very modern. The walls are arranged for the event. The logo is on the wall, and the camera is ready.",
+      "normalized_edited_story_text_sent": [
+        "the new office is located in the middle of the building .",
+        "the inside is very modern .",
+        "the walls are arranged for the event .",
+        "the logo is on the wall , and the camera is ready ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the the new office is in the middle of the building . the inside is very modern . the walls are all set up for the event . the logo is on the wall . the camera is ready to go .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the the new office is in the middle of the building .",
+        "the inside is very modern .",
+        "the walls are all set up for the event .",
+        "the logo is on the wall .",
+        "the camera is ready to go ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the antique store had such a wide variety of things! there was an old piano, tons of glassware, record players, and vintage photographs. there was so much to see, and i got a few unique items to add to my collection.",
+      "normalized_edited_story_text_sent": [
+        "the antique store had such a wide variety of things !",
+        "there was an old piano , tons of glassware , record players , and vintage photographs .",
+        "there was so much to see , and i got a few unique items to add to my collection ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "In the center of the building is the new office. The interior was very modern. There were walls staged for tonight\u0027s event. A logo hung on one of them for all to see. There was also a camera ready to capture all the goings on.",
+      "normalized_edited_story_text_sent": [
+        "in the center of the building is the new office .",
+        "the interior was very modern .",
+        "there were walls staged for tonight \u0027s event .",
+        "a logo hung on one of them for all to see .",
+        "there was also a camera ready to capture all the goings on ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629261651447",
+  "model": "GLAC"
+}

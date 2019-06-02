@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "2273561989-2273571087-2274389014-2274395542-2273609911",
+  "photo_sequence_ids": [
+    "2273561989",
+    "2273571087",
+    "2274389014",
+    "2274395542",
+    "2273609911"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the beach was beautiful . the sand was very calm . the water was blue and clear . the rocks were covered in snow . the sun was setting .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the beach was serene . the sand was very calm . the water was blue and clear . the rocks were covered in snow . the sun was setting . it looked like a magazine picture.",
+      "normalized_edited_story_text_sent": [
+        "the beach was serene .",
+        "the sand was very calm .",
+        "the water was blue and clear .",
+        "the rocks were covered in snow .",
+        "the sun was setting .",
+        "it looked like a magazine picture ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big beach was beautiful and  the sand was very calm . the water was blue and clear . the rocks were covered in snow . the sun was setting .",
+      "normalized_edited_story_text_sent": [
+        "the big beach was beautiful and the sand was very calm .",
+        "the water was blue and clear .",
+        "the rocks were covered in snow .",
+        "the sun was setting ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the beach was beautiful . The view was amazing . the water was blue and clear .There were rocky cliffs all around . The water was a bright blueish green.",
+      "normalized_edited_story_text_sent": [
+        "the beach was beautiful .",
+        "the view was amazing .",
+        "the water was blue and clear .",
+        "there were rocky cliffs all around .",
+        "the water was a bright blueish green ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the city was beautiful . the hills were very calm . the water was blue and clear . the rocks were wet . the sun was in the sky .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the hills were very calm .",
+        "the water was blue and clear .",
+        "the rocks were wet .",
+        "the sun was in the sky ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the beach town was beautiful when we visited. the sand was warm and the water was very calm. the sea was lovely, blue and clear. water splashed against the sun-bleached rocks. we were the only people around for miles and miles.",
+      "normalized_edited_story_text_sent": [
+        "the beach town was beautiful when we visited .",
+        "the sand was warm and the water was very calm .",
+        "the sea was lovely , blue and clear .",
+        "water splashed against the sun-bleached rocks .",
+        "we were the only people around for miles and miles ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603934726675",
+  "model": "GLAC"
+}

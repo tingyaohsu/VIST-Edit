@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "273346081-273351952-273366353-276155691-276158889",
+  "photo_sequence_ids": [
+    "273346081",
+    "273351952",
+    "273366353",
+    "276155691",
+    "276158889"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/93/273346081_b2baee5ce0_o.jpg",
+    "https://farm1.staticflickr.com/107/273351952_3a0bf54be8_o.jpg",
+    "https://farm1.staticflickr.com/110/273366353_531950b3d0_o.jpg",
+    "https://farm1.staticflickr.com/101/276155691_e1d7172ad6_o.jpg",
+    "https://farm1.staticflickr.com/106/276158889_a08f818239_o.jpg"
+  ],
+  "auto_story_text_normalized": "the graduation ceremony was a lot of fun . i took a lot of pictures . he was so proud of him . my parents were so proud of me . it was a great day for all .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the graduation ceremony was a lot of fun . i took a lot of pictures of or family. . We were so proud of [Kevin] . my parents were so proud of him. . it was a great day for all .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "i took a lot of pictures of or family .",
+        ".",
+        "we were so proud of [male] .",
+        "my parents were so proud of him .",
+        ".",
+        "it was a great day for all ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the graduation ceremony was a lot of fun . i took a lot of pictures . he was so proud of him . this is his girlfriend  . it was a great day for all .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "i took a lot of pictures .",
+        "he was so proud of him .",
+        "this is his girlfriend .",
+        "it was a great day for all ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "The graduation ceremony was so much fun. I took a lot of pictures of the boys. He was so proud of his accomplishments! My parents couldn\u0027t possibly be more proud of me! It was a great day for all of us!",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was so much fun .",
+        "i took a lot of pictures of the boys .",
+        "he was so proud of his accomplishments !",
+        "my parents could n\u0027t possibly be more proud of me !",
+        "it was a great day for all of us !"
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the graduation ceremony was a lot of fun. i took a lot of pictures of my friend who was graduating. i was so proud of him fo what he had accomplished. it was a great day for everyone.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "i took a lot of pictures of my friend who was graduating .",
+        "i was so proud of him fo what he had accomplished .",
+        "it was a great day for everyone ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "the graduation ceremony was our last bit of fun at school. i took quite a few pictures of my school friends. my family was so proud of me and my fiance. my parents will now send my brother away to school. it was a great day for all but I will miss my friends.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was our last bit of fun at school .",
+        "i took quite a few pictures of my school friends .",
+        "my family was so proud of me and my fiance .",
+        "my parents will now send my brother away to school .",
+        "it was a great day for all but i will miss my friends ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594334689344"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4431939584-4431940126-4431940384-4431940498-4431169897",
+  "photo_sequence_ids": [
+    "4431939584",
+    "4431940126",
+    "4431940384",
+    "4431940498",
+    "4431169897"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4013/4431939584_cf8767a360_o.jpg",
+    "https://farm3.staticflickr.com/2735/4431940126_ed0b34844d_o.jpg",
+    "https://farm5.staticflickr.com/4052/4431940384_9f9b4475be_o.jpg",
+    "https://farm5.staticflickr.com/4067/4431940498_3d20229eac_o.jpg",
+    "https://farm3.staticflickr.com/2785/4431169897_ec2bfe69c8_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a man . there were a lot of people there . the people gathered around the street to see what they were doing . there was a lot of food there . we had a lot of food to choose from .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "this is a picture of a market . there were many people there . the people gathered around the street to see what was happening . there were so many items there . we had a lot to choose from .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a market .",
+        "there were many people there .",
+        "the people gathered around the street to see what was happening .",
+        "there were so many items there .",
+        "we had a lot to choose from ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "my friend and i went to the antique market. there were a lot of people there. there was also a lot of food being sold. we sat down and had a meal. it was delicious.",
+      "normalized_edited_story_text_sent": [
+        "my friend and i went to the antique market .",
+        "there were a lot of people there .",
+        "there was also a lot of food being sold .",
+        "we sat down and had a meal .",
+        "it was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a man . there were a lot of people there . the people gathered around the street to see what they were doing and there was a lot of food there . we had a lot of food to choose from .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a man .",
+        "there were a lot of people there .",
+        "the people gathered around the street to see what they were doing and there was a lot of food there .",
+        "we had a lot of food to choose from ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "\u0027We went to an open air market. There were many vendors selling interesting things.  One shop was selling used fur coats.  The weather was rainy but there were a lot of people out.",
+      "normalized_edited_story_text_sent": [
+        "` we went to an open air market .",
+        "there were many vendors selling interesting things .",
+        "one shop was selling used fur coats .",
+        "the weather was rainy but there were a lot of people out ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "this is a picture of a man . there were a lot of people there gathered around the street to see what they were doing . there was a lot of food there, we had lots choose from .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a man .",
+        "there were a lot of people there gathered around the street to see what they were doing .",
+        "there was a lot of food there , we had lots choose from ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623616942902"
+}

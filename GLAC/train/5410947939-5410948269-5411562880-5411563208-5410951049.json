@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5410947939-5410948269-5411562880-5411563208-5410951049",
+  "photo_sequence_ids": [
+    "5410947939",
+    "5410948269",
+    "5411562880",
+    "5411563208",
+    "5410951049"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the new office was in the middle of the museum . the inside was very modern . the ceiling was amazing . the model was a bit creepy . the students were excited to see the results .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The motor home was being worked on. The inside was gorgeous. Even the lights were pretty. He got the motor home ready.",
+      "normalized_edited_story_text_sent": [
+        "the motor home was being worked on .",
+        "the inside was gorgeous .",
+        "even the lights were pretty .",
+        "he got the motor home ready ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the new office was in the middle of the rv . the inside was very modern . the ceiling was low . the model was a bit creepy . the students were excited to see the results .",
+      "normalized_edited_story_text_sent": [
+        "the new office was in the middle of the rv .",
+        "the inside was very modern .",
+        "the ceiling was low .",
+        "the model was a bit creepy .",
+        "the students were excited to see the results ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The new office was in the middle of the factory. The inside was very modern. The ceiling was amazing. Everyone was excited to see the results.",
+      "normalized_edited_story_text_sent": [
+        "the new office was in the middle of the factory .",
+        "the inside was very modern .",
+        "the ceiling was amazing .",
+        "everyone was excited to see the results ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the new managers office was in the middle of the science museum . the inside was very modern and technical . the ceiling was amazing  and had many lights. the model was a bit overwhelming. the students were excited to see the results of their experiments .",
+      "normalized_edited_story_text_sent": [
+        "the new managers office was in the middle of the science museum .",
+        "the inside was very modern and technical .",
+        "the ceiling was amazing and had many lights .",
+        "the model was a bit overwhelming .",
+        "the students were excited to see the results of their experiments ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the new office was in the middle of the museum . the inside was very modern . the ceiling was amazing . the model was a bit creepy . the students were excited to see the results .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the new office was in the middle of the museum .",
+        "the inside was very modern .",
+        "the ceiling was amazing .",
+        "the model was a bit creepy .",
+        "the students were excited to see the results ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625837785063",
+  "model": "GLAC"
+}

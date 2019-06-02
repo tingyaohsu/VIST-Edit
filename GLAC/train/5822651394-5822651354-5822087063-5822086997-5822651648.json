@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5822651394-5822651354-5822087063-5822086997-5822651648",
+  "photo_sequence_ids": [
+    "5822651394",
+    "5822651354",
+    "5822087063",
+    "5822086997",
+    "5822651648"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the girl was so happy to be graduating . she was very proud of her accomplishments . the parents were excited to graduate . she was very happy . the family was all smiles .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the girl was so happy to be graduating . she was very proud of her accomplishments . her parents were excited and proud too . they were  very happy . the family was all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the girl was so happy to be graduating .",
+        "she was very proud of her accomplishments .",
+        "her parents were excited and proud too .",
+        "they were very happy .",
+        "the family was all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The girl was very happy to be graduating. She was very proud of her accomplishments. Her parents were excited to see her graduate.  The family was all smiles.",
+      "normalized_edited_story_text_sent": [
+        "the girl was very happy to be graduating .",
+        "she was very proud of her accomplishments .",
+        "her parents were excited to see her graduate .",
+        "the family was all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "Lisa was so happy to be graduating .  We are very proud of her accomplishments . It was a great ceremony and fun day.",
+      "normalized_edited_story_text_sent": [
+        "[female] was so happy to be graduating .",
+        "we are very proud of her accomplishments .",
+        "it was a great ceremony and fun day ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the girl was so happy to be graduating . she was very proud of her accomplishments . the parents were excited to graduate . she was dressed in a purple outfit . the family was all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the girl was so happy to be graduating .",
+        "she was very proud of her accomplishments .",
+        "the parents were excited to graduate .",
+        "she was dressed in a purple outfit .",
+        "the family was all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the girl was euphoric about graduating . she felt pride . her parents were excited to attend graduation . she felt accomplished . the family was grinning ear to ear .",
+      "normalized_edited_story_text_sent": [
+        "the girl was euphoric about graduating .",
+        "she felt pride .",
+        "her parents were excited to attend graduation .",
+        "she felt accomplished .",
+        "the family was grinning ear to ear ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626814267273",
+  "model": "GLAC"
+}

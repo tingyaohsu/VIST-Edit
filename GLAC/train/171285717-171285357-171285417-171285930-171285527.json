@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "171285717-171285357-171285417-171285930-171285527",
+  "photo_sequence_ids": [
+    "171285717",
+    "171285357",
+    "171285417",
+    "171285930",
+    "171285527"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the birthday party . the family was all there . the food was delicious . the kids enjoyed the celebration . the baby was so happy to be home .",
+  "edited_stories": [
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The family gathered for dinner, the family was all there, the food was delicious . Everyone enjoyed the celebration and the baby was adorable and well behaved.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for dinner , the family was all there , the food was delicious .",
+        "everyone enjoyed the celebration and the baby was adorable and well behaved ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family gathered for the birthday party . the men dug holes outside . the food was delicious . the kids enjoyed the celebration . the baby was so happy to be home .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the men dug holes outside .",
+        "the food was delicious .",
+        "the kids enjoyed the celebration .",
+        "the baby was so happy to be home ."
+      ]
+    },
+    {
+      "worker_id": "ASDU2G51DX5M7",
+      "edited_story_text": "Everyone from the family got together for the birthday party. The food was excellent and after we ate it we sat down together and entertained the children. Although it was a great day, it was also very tiring and you could tell by the end, the baby was happy to be home.",
+      "normalized_edited_story_text_sent": [
+        "everyone from the family got together for the birthday party .",
+        "the food was excellent and after we ate it we sat down together and entertained the children .",
+        "although it was a great day , it was also very tiring and you could tell by the end , the baby was happy to be home ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "the family gathered for the birthday party . the entire family was all there . the adults were outside fixing the grass, and the food was delicious.  The older kids were reading books to the younger kids.  The baby fell asleep with Dad and made for a great picture.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the entire family was all there .",
+        "the adults were outside fixing the grass , and the food was delicious .",
+        "the older kids were reading books to the younger kids .",
+        "the baby fell asleep with dad and made for a great picture ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the family gathered for the birthday party . the family was all there hanging out in the yard . the food we cooked was delicious . the kids enjoyed the family time . the baby was so happy to be home and slept well that night .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the family was all there hanging out in the yard .",
+        "the food we cooked was delicious .",
+        "the kids enjoyed the family time .",
+        "the baby was so happy to be home and slept well that night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594171854007",
+  "model": "GLAC"
+}

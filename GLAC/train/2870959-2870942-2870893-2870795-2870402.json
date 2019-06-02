@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2870959-2870942-2870893-2870795-2870402",
+  "photo_sequence_ids": [
+    "2870959",
+    "2870942",
+    "2870893",
+    "2870795",
+    "2870402"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . everyone had a great time . afterward we all got together for pictures .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the festive party was a lot of fun . there were a lot of people there . some of them were very good  and everyone had a great time . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the festive party was a lot of fun .",
+        "there were a lot of people there .",
+        "some of them were very good and everyone had a great time .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . some of them danced around . everyone enjoyed themselves  . afterward we all got together for pictures .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "some of them danced around .",
+        "everyone enjoyed themselves .",
+        "afterward we all got together for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "Lisa was enjoying a glass of wine while sitting on the floor. David and John tried the wine too.the party was a lot of fun . there were a lot of people there . everyone was talking and having a great time . afterward we all got together for pictures. Robert posed for the picture with a gun in his hand.",
+      "normalized_edited_story_text_sent": [
+        "[female] was enjoying a glass of wine while sitting on the floor .",
+        "[male] and [male] tried the wine too.the party was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone was talking and having a great time .",
+        "afterward we all got together for pictures .",
+        "[male] posed for the picture with a gun in his hand ."
+      ]
+    },
+    {
+      "worker_id": "A30DFNV9FV487C",
+      "edited_story_text": "We had so much time at our halloween party. I was dressed up as a movie star. My friend zeke was dressed as zorro. Tommy was a sheriff and of course, my friend sally had to copy me but she wanted to be a beauty queen. Even the kids were getting involved and dressed as robber.",
+      "normalized_edited_story_text_sent": [
+        "we had so much time at our halloween party .",
+        "i was dressed up as a movie star .",
+        "my friend zeke was dressed as zorro .",
+        "tommy was a sheriff and of course , my friend sally had to copy me but she wanted to be a beauty queen .",
+        "even the kids were getting involved and dressed as robber ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The party was lots of fun, and there were a lot of people there. Some of them were very good, but even though some were bad, everyone had a great time. Afterward we all got together and took pictures .",
+      "normalized_edited_story_text_sent": [
+        "the party was lots of fun , and there were a lot of people there .",
+        "some of them were very good , but even though some were bad , everyone had a great time .",
+        "afterward we all got together and took pictures ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "71769",
+  "model": "GLAC"
+}

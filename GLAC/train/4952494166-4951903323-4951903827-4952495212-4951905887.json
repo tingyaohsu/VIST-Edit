@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4952494166-4951903323-4951903827-4952495212-4951905887",
+  "photo_sequence_ids": [
+    "4952494166",
+    "4951903323",
+    "4951903827",
+    "4952495212",
+    "4951905887"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the crowd was excited . the band was ready to play . the lead singer was very talented . the concert was awesome .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the band was playing music . the crowd was excited . there were cheerleaders ready to lead out . the lead singer was very talented . the concert was awesome .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the crowd was excited .",
+        "there were cheerleaders ready to lead out .",
+        "the lead singer was very talented .",
+        "the concert was awesome ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the people were getting ready for dinner and a football game.  The cheerleaders were gathered and celebrating.  A player was given a special football as an award.  He was interviewed by several reporters.  The people visited Universal studios and had an awesome time.",
+      "normalized_edited_story_text_sent": [
+        "the people were getting ready for dinner and a football game .",
+        "the cheerleaders were gathered and celebrating .",
+        "a player was given a special football as an award .",
+        "he was interviewed by several reporters .",
+        "the people visited universal studios and had an awesome time ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The band was ready to perform. While the crowd steadily grew in excitement, they finally erupted when the music began. The lead singer\u0027s vocals were amazing, and overall, the concert was nothing short of awesome.",
+      "normalized_edited_story_text_sent": [
+        "the band was ready to perform .",
+        "while the crowd steadily grew in excitement , they finally erupted when the music began .",
+        "the lead singer \u0027s vocals were amazing , and overall , the concert was nothing short of awesome ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the band was playing music at the rose bowl pre party . the crowd was excited about the team playing in the game . the band was ready to play and thanked the team for inviting them. the lead singer James was very talented and took requests . the concert was awesome .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music at the rose bowl pre party .",
+        "the crowd was excited about the team playing in the game .",
+        "the band was ready to play and thanked the team for inviting them .",
+        "the lead singer james was very talented and took requests .",
+        "the concert was awesome ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We went to the post game party and we had a blast. There was live music and cheerleaders.  There were many athaltests getting presented with awards.  The concert at the end was awesome!!!",
+      "normalized_edited_story_text_sent": [
+        "we went to the post game party and we had a blast .",
+        "there was live music and cheerleaders .",
+        "there were many athaltests getting presented with awards .",
+        "the concert at the end was awesome !!!"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207403904",
+  "model": "GLAC"
+}

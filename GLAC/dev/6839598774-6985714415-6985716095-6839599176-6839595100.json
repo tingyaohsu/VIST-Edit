@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6839598774-6985714415-6985716095-6839599176-6839595100",
+  "photo_sequence_ids": [
+    "6839598774",
+    "6985714415",
+    "6985716095",
+    "6839599176",
+    "6839595100"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the parade . the flowers were in full bloom . the kids were excited to see the easter bunny . the children were all dressed up . the little girl was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was ready for shopping . sold flowers bloomed . kids anticipated seeing the easter bunny . children were in costume . a girl was having fun .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for shopping .",
+        "sold flowers bloomed .",
+        "kids anticipated seeing the easter bunny .",
+        "children were in costume .",
+        "a girl was having fun ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was ready for the parade . the flowers were all different colors. the kids were excited to see the easter bunny . the children were all dressed up . the little girl was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the parade .",
+        "the flowers were all different colors .",
+        "the kids were excited to see the easter bunny .",
+        "the children were all dressed up .",
+        "the little girl was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The floral shops opened early today.  So many people on the street selling bright colored arrangements.",
+      "normalized_edited_story_text_sent": [
+        "the floral shops opened early today .",
+        "so many people on the street selling bright colored arrangements ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "We went to the market in the city today. there were so many flowers and i brought my girlfriend lisa along. i got her some tulips and she loved them. I\u0027m so lucky to have her she\u0027s so beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market in the city today .",
+        "there were so many flowers and i brought my girlfriend [female] along .",
+        "i got her some tulips and she loved them .",
+        "i \u0027m so lucky to have her she \u0027s so beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was ready for the parade . the flowers were in full bloom .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the parade .",
+        "the flowers were in full bloom ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629593179079",
+  "model": "GLAC"
+}

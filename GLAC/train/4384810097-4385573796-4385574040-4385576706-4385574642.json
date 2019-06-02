@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4384810097-4385573796-4385574040-4385576706-4385574642",
+  "photo_sequence_ids": [
+    "4384810097",
+    "4385573796",
+    "4385574040",
+    "4385576706",
+    "4385574642"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to play the game . they played with their best . they even got to play in the field . the team was very proud of the winning team . the mascots were the best part .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the horse didn\u0027t clear the fence, even though it tried. the rider fell off of the horse. the rider eventually sat up.",
+      "normalized_edited_story_text_sent": [
+        "the horse did n\u0027t clear the fence , even though it tried .",
+        "the rider fell off of the horse .",
+        "the rider eventually sat up ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the kids were excited to jump in the competition. they tried their best, and did really well. One rider did fall during the competition, which was scary. But everyone was okay in the end.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to jump in the competition .",
+        "they tried their best , and did really well .",
+        "one rider did fall during the competition , which was scary .",
+        "but everyone was okay in the end ."
+      ]
+    },
+    {
+      "worker_id": "ADBDQ7FTFHKCR",
+      "edited_story_text": "the kids were excited to play the game . they played their best . they even got to play in the field . the team was very proud to win . the mascots were the best part .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play the game .",
+        "they played their best .",
+        "they even got to play in the field .",
+        "the team was very proud to win .",
+        "the mascots were the best part ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to play the game of polo . they played with their best . they even got to jump the horses in the field . the team was very proud of the winning team . the mascots were the best part .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play the game of polo .",
+        "they played with their best .",
+        "they even got to jump the horses in the field .",
+        "the team was very proud of the winning team .",
+        "the mascots were the best part ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "riding the horse was a lot of fun. it� a rush of excitement.",
+      "normalized_edited_story_text_sent": [
+        "riding the horse was a lot of fun .",
+        "it \u0027s a rush of excitement ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623377031461",
+  "model": "GLAC"
+}

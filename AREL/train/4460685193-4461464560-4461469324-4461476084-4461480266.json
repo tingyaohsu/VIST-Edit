@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4460685193-4461464560-4461469324-4461476084-4461480266",
+  "photo_sequence_ids": [
+    "4460685193",
+    "4461464560",
+    "4461469324",
+    "4461476084",
+    "4461480266"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4001/4460685193_5da292c8db_o.jpg",
+    "https://farm3.staticflickr.com/2722/4461464560_7e37e6c07f_o.jpg",
+    "https://farm5.staticflickr.com/4070/4461469324_61657f94f3_o.jpg",
+    "https://farm3.staticflickr.com/2718/4461476084_0430f5a26e_o.jpg",
+    "https://farm3.staticflickr.com/2744/4461480266_5683e50b23_o.jpg"
+  ],
+  "auto_story_text_normalized": "the room was empty . we had a great time there . this is a picture of a building . this is the room where you can see the living room . there were a lot of people there .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the waiting room was empty when we go there. my friend and i sat down and talked for a while. finally people started showing up. we all went into the living room to sit down. there were a lot of people there.",
+      "normalized_edited_story_text_sent": [
+        "the waiting room was empty when we go there .",
+        "my friend and i sat down and talked for a while .",
+        "finally people started showing up .",
+        "we all went into the living room to sit down .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A3D5BMOC6B7XNQ",
+      "edited_story_text": "Although the airport lounge was empty we still had a great time there. This is a picture of my seat on the plane.  This is a picture outside the boarding gate.  There were so many empty seats on my flight.",
+      "normalized_edited_story_text_sent": [
+        "although the airport lounge was empty we still had a great time there .",
+        "this is a picture of my seat on the plane .",
+        "this is a picture outside the boarding gate .",
+        "there were so many empty seats on my flight ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The airport lounge was empty as was the airplane.  This is not something you usually see!",
+      "normalized_edited_story_text_sent": [
+        "the airport lounge was empty as was the airplane .",
+        "this is not something you usually see !"
+      ]
+    },
+    {
+      "worker_id": "A2CAMPAA7650H2",
+      "edited_story_text": "the airport rewards member\u0027s lounge was empty . we looked forward to flying first class . the plane finally took off in the evening . we landed at another airport for a layover and waited for the next flight . there were no people on the second flight .",
+      "normalized_edited_story_text_sent": [
+        "the airport rewards member \u0027s lounge was empty .",
+        "we looked forward to flying first class .",
+        "the plane finally took off in the evening .",
+        "we landed at another airport for a layover and waited for the next flight .",
+        "there were no people on the second flight ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The room was empty. We had a great time there. This is a picture of a building and this is the living room. There were a lot of people there.",
+      "normalized_edited_story_text_sent": [
+        "the room was empty .",
+        "we had a great time there .",
+        "this is a picture of a building and this is the living room .",
+        "there were a lot of people there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623687984190"
+}

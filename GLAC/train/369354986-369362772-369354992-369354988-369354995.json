@@ -1,0 +1,61 @@
+{
+  "photo_sequence_id": "369354986-369362772-369354992-369354988-369354995",
+  "photo_sequence_ids": [
+    "369354986",
+    "369362772",
+    "369354992",
+    "369354988",
+    "369354995"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were having a great time at the party . they had a lot of fun . they had a lot of fun . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the kids went to a party.  they all had a lot of fun.  everyone was pleased they went to such a good party.",
+      "normalized_edited_story_text_sent": [
+        "the kids went to a party .",
+        "they all had a lot of fun .",
+        "everyone was pleased they went to such a good party ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "A few throwback pics of the kids.  siblings having fun together.",
+      "normalized_edited_story_text_sent": [
+        "a few throwback pics of the kids .",
+        "siblings having fun together ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the kids were having a great time at the party . they had so much fun . they had a great time together . one boy dressed up as the devil.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had so much fun .",
+        "they had a great time together .",
+        "one boy dressed up as the devil ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were having a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kids were having a great time. they posed for pictures together several times. in one picture, one of the kids had his face painted.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time .",
+        "they posed for pictures together several times .",
+        "in one picture , one of the kids had his face painted ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594519612355",
+  "model": "GLAC"
+}

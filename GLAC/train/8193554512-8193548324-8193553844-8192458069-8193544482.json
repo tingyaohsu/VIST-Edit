@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "8193554512-8193548324-8193553844-8192458069-8193544482",
+  "photo_sequence_ids": [
+    "8193554512",
+    "8193548324",
+    "8193553844",
+    "8192458069",
+    "8193544482"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went hiking . they took a break . they saw a beautiful waterfall . they also found a small waterfall . they even got to see some horses .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family went hiking . they took a break . they saw a beautiful waterfall . they also found a small waterfall . they even got to see some horses .\r\rMy family and I went hiking! Here they are taking a break! We saw a breath taking waterfall. We also saw a small waterfall too. We even saw a few horses.",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking .",
+        "they took a break .",
+        "they saw a beautiful waterfall .",
+        "they also found a small waterfall .",
+        "they even got to see some horses .",
+        "my family and i went hiking !",
+        "here they are taking a break !",
+        "we saw a breath taking waterfall .",
+        "we also saw a small waterfall too .",
+        "we even saw a few horses ."
+      ]
+    },
+    {
+      "worker_id": "A1TXCO12MCTP8P",
+      "edited_story_text": "Yesterday I went hiking with Dad and Uncle Jack. They\u0027ve been going to the same national park for years, and knew exactly where the best views were. We hiked up a mountain to see the most beautiful waterfall in the state. The landscape was breathtaking. All too soon, it was time to go home. We piled in Uncle Jack\u0027s pick-up and started the drive back to the city.",
+      "normalized_edited_story_text_sent": [
+        "yesterday i went hiking with dad and uncle jack .",
+        "they \u0027ve been going to the same national park for years , and knew exactly where the best views were .",
+        "we hiked up a mountain to see the most beautiful waterfall in the state .",
+        "the landscape was breathtaking .",
+        "all too soon , it was time to go home .",
+        "we piled in uncle jack \u0027s pick-up and started the drive back to the city ."
+      ]
+    },
+    {
+      "worker_id": "A3P6IXUM1ND35A",
+      "edited_story_text": "the family went hiking in the mountains. they took a break. they saw a beautiful waterfall, and posed for a picture next to a red truck.",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking in the mountains .",
+        "they took a break .",
+        "they saw a beautiful waterfall , and posed for a picture next to a red truck ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family went hiking before dinner . they took a break halfway through . they saw a beautiful waterfall which was running . they also found a small waterfall that they could stand under. they even got to see some horses that were passing by .",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking before dinner .",
+        "they took a break halfway through .",
+        "they saw a beautiful waterfall which was running .",
+        "they also found a small waterfall that they could stand under .",
+        "they even got to see some horses that were passing by ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went hiking . nature cooperated well. the sun was out. everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking .",
+        "nature cooperated well .",
+        "the sun was out .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632050169766",
+  "model": "GLAC"
+}

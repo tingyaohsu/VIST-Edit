@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "7298593624-7298574134-7298581320-7298599220-7298601850",
+  "photo_sequence_ids": [
+    "7298593624",
+    "7298574134",
+    "7298581320",
+    "7298599220",
+    "7298601850"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7221/7298593624_7b6daf0b7d_o.jpg",
+    "https://farm8.staticflickr.com/7085/7298574134_37706d9887_o.jpg",
+    "https://farm8.staticflickr.com/7075/7298581320_fea823ec27_o.jpg",
+    "https://farm8.staticflickr.com/7235/7298599220_82dfea1a4b_o.jpg",
+    "https://farm8.staticflickr.com/7237/7298601850_2f9d6689f7_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends decided to take a picture together . we had a lot of fun at the party . the water was calm and the water was calm . they had a lot of fun . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "a group of friends decided to took a picture together . we have a lot of fun at the party . the water is calm and the water is calm . they have a lot of fun . we have a great time .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to took a picture together .",
+        "we have a lot of fun at the party .",
+        "the water is calm and the water is calm .",
+        "they have a lot of fun .",
+        "we have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "My friends and I spend a lot of time together. We mainly hang out in the outdoors. We love go boating. Sometimes, we just sit around inchairs. I am friends with girls and boys.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i spend a lot of time together .",
+        "we mainly hang out in the outdoors .",
+        "we love go boating .",
+        "sometimes , we just sit around inchairs .",
+        "i am friends with girls and boys ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "A group of friends decided to take a picture together at the lake. We had a lot of fun at the party. The water was calm and the weather was nice.  The boys went boating while the adults relaxed at the cabin.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to take a picture together at the lake .",
+        "we had a lot of fun at the party .",
+        "the water was calm and the weather was nice .",
+        "the boys went boating while the adults relaxed at the cabin ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "a group of friends decided to take a picture together . They had a lot of fun at the party . the water was calm and they had a lot of fun . They had a great time.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends decided to take a picture together .",
+        "they had a lot of fun at the party .",
+        "the water was calm and they had a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Our group of friends decided to take a picture together. We had a lot of fun at the party! The water was calm, and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "our group of friends decided to take a picture together .",
+        "we had a lot of fun at the party !",
+        "the water was calm , and we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629960452550"
+}

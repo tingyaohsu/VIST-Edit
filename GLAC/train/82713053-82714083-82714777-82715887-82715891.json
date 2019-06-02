@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "82713053-82714083-82714777-82715887-82715891",
+  "photo_sequence_ids": [
+    "82713053",
+    "82714083",
+    "82714777",
+    "82715887",
+    "82715891"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready to go down the aisle . the couple is waiting for the wedding to start . the men are in the back of the church . the happy couple is walking around the church . the bride and groom pose for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the bride and groom are getting ready to go down the aisle . the couple is waiting for the wedding to start . the men are in the back of the church . the happy couple posed for pics . the family sat with the bride .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to go down the aisle .",
+        "the couple is waiting for the wedding to start .",
+        "the men are in the back of the church .",
+        "the happy couple posed for pics .",
+        "the family sat with the bride ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bride and groom are getting ready to go down the aisle .everyone looks on. The bride poses for pictures. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to go down the aisle .",
+        "everyone looks on .",
+        "the bride poses for pictures .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2ASAECAHB8WSZ",
+      "edited_story_text": "The guest stood outside the church waiting on the wedding. John and Lisa were excited. Family and friends gathered for the occasion. John and Lisa were finally married! Lisa looked so beautiful in her dress.",
+      "normalized_edited_story_text_sent": [
+        "the guest stood outside the church waiting on the wedding .",
+        "[male] and [female] were excited .",
+        "family and friends gathered for the occasion .",
+        "[male] and [female] were finally married !",
+        "[female] looked so beautiful in her dress ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the bride and groom are getting ready to go down the aisle . the couple is waiting for the wedding to start . the men are in the back of the church . the happy couple is walking around the church . the bride and groom pose for a picture .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the bride and groom are getting ready to go down the aisle .",
+        "the couple is waiting for the wedding to start .",
+        "the men are in the back of the church .",
+        "the happy couple is walking around the church .",
+        "the bride and groom pose for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bride and groom are getting ready to go down the aisle . the family were very proud of them",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to go down the aisle .",
+        "the family were very proud of them"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1767427",
+  "model": "GLAC"
+}

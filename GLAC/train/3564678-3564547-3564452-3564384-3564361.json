@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "3564678-3564547-3564452-3564384-3564361",
+  "photo_sequence_ids": [
+    "3564678",
+    "3564547",
+    "3564452",
+    "3564384",
+    "3564361"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fireworks were very loud . they were all very talented . they had a great time playing . the crowd was really good . the audience was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the loud fireworks were very loud . they were all very talented . they had a great time playing and the crowd was really good . the audience was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the loud fireworks were very loud .",
+        "they were all very talented .",
+        "they had a great time playing and the crowd was really good .",
+        "the audience was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "We went to a festival this weekend  The fireworks were very loud . The bands were all very talented . They had a great time playing . The crowd enjoy themselves . We were so happy listening to the entertainment.",
+      "normalized_edited_story_text_sent": [
+        "we went to a festival this weekend the fireworks were very loud .",
+        "the bands were all very talented .",
+        "they had a great time playing .",
+        "the crowd enjoy themselves .",
+        "we were so happy listening to the entertainment ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the fireworks were very loud . they were all very skilled. they had a fun and great time playing . the crowd was really good . the audience was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were very loud .",
+        "they were all very skilled .",
+        "they had a fun and great time playing .",
+        "the crowd was really good .",
+        "the audience was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the concert was very loud . the band was very talented . they had a great time playing . the crowd was really big . they all seemed to have a great time.",
+      "normalized_edited_story_text_sent": [
+        "the concert was very loud .",
+        "the band was very talented .",
+        "they had a great time playing .",
+        "the crowd was really big .",
+        "they all seemed to have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1O4TRWZO664V3",
+      "edited_story_text": "The fireworks at the party was very loud . The bands were very talented . They had a great time playing . The crowd was really good . Scott and Jen were so happy .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks at the party was very loud .",
+        "the bands were very talented .",
+        "they had a great time playing .",
+        "the crowd was really good .",
+        "scott and jen were so happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "89327",
+  "model": "GLAC"
+}

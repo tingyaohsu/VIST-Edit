@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "8737351-8737318-8737278-8736914-8737076",
+  "photo_sequence_ids": [
+    "8737351",
+    "8737318",
+    "8737278",
+    "8736914",
+    "8737076"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/6/8737351_655e84ed62_o.jpg",
+    "https://farm1.staticflickr.com/8/8737318_696387e9bf_o.jpg",
+    "https://farm1.staticflickr.com/7/8737278_098d60f3ed_o.jpg",
+    "https://farm1.staticflickr.com/5/8736914_2ab65a3d46_o.jpg",
+    "https://farm1.staticflickr.com/5/8737076_b462c04749_o.jpg"
+  ],
+  "auto_story_text_normalized": "today we went to a christmas party . [male] and [male] had a great time at the party . we had a lot of fun . after the meeting , everyone sat down to eat . we all had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "Today we went to a christmas party. [male] and [male] had a great time at the party. We had a lot of fun. After the party, everyone sat down to eat. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a christmas party .",
+        "[male] and [male] had a great time at the party .",
+        "we had a lot of fun .",
+        "after the party , everyone sat down to eat .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "today we go to a christmas party . [male] and [female] have a great time at the party . we have a lot of fun . after the meeting , everyone sat down to eat . we all have a great time and have a great time .",
+      "normalized_edited_story_text_sent": [
+        "today we go to a christmas party .",
+        "[male] and [female] have a great time at the party .",
+        "we have a lot of fun .",
+        "after the meeting , everyone sat down to eat .",
+        "we all have a great time and have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "today we went to a christmas party . [Jason] and [Susie] had a great time at the party . They had a lot of fun . after the meeting , everyone sat down to eat .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a christmas party .",
+        "[male] and [female] had a great time at the party .",
+        "they had a lot of fun .",
+        "after the meeting , everyone sat down to eat ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "today we went to a christmas party . [male] and [male] had a great time at the party . we all had a lot of fun and a great time.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a christmas party .",
+        "[male] and [male] had a great time at the party .",
+        "we all had a lot of fun and a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "today we went to a christmas party with our company.Us and our best couple friends all had a great time at the party . we had a lot of fun . after the initial meeting , everyone sat down to eat . we all had a great time eating, chatting, and laughing.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a christmas party with our company.us and our best couple friends all had a great time at the party .",
+        "we had a lot of fun .",
+        "after the initial meeting , everyone sat down to eat .",
+        "we all had a great time eating , chatting , and laughing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "217084"
+}

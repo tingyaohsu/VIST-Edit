@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "66884180-66884209-66884237-66884246-66884380",
+  "photo_sequence_ids": [
+    "66884180",
+    "66884209",
+    "66884237",
+    "66884246",
+    "66884380"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i made a lot of food for the party tonight . it was very tasty . i had a great time . the food was delicious . the meal was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "i grilled a chicken and made a lot of food for the party tonight . I made stuffing,  it was very tasty . i had a great time cooking today . the food was all very good and delicious . the party meal was a delicious success .",
+      "normalized_edited_story_text_sent": [
+        "i grilled a chicken and made a lot of food for the party tonight .",
+        "i made stuffing , it was very tasty .",
+        "i had a great time cooking today .",
+        "the food was all very good and delicious .",
+        "the party meal was a delicious success ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i made a lot of food for the party tonight so hopefully everyone comes . it was very tasty and cooked perfectly . i had a great time hanging out with my friends. the food was delicious and filled me up . the meal was delicious because I cooked it .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party tonight so hopefully everyone comes .",
+        "it was very tasty and cooked perfectly .",
+        "i had a great time hanging out with my friends .",
+        "the food was delicious and filled me up .",
+        "the meal was delicious because i cooked it ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i made a lot of food for the party tonight . It all turned out great, especially the turkey. We had appetizers also. It was a success.",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party tonight .",
+        "it all turned out great , especially the turkey .",
+        "we had appetizers also .",
+        "it was a success ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i made a lot of food for the party tonight . it was very tasty . i had a great time . the food was delicious . the meal was of ethnic origin.",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party tonight .",
+        "it was very tasty .",
+        "i had a great time .",
+        "the food was delicious .",
+        "the meal was of ethnic origin ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad i made a lot of food for the party tonight . it was very tasty . i had a great time . the food was delicious . the meal was delicious .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad i made a lot of food for the party tonight .",
+        "it was very tasty .",
+        "i had a great time .",
+        "the food was delicious .",
+        "the meal was delicious ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1443082",
+  "model": "GLAC"
+}

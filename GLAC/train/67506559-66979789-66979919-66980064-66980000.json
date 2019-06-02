@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "67506559-66979789-66979919-66980064-66980000",
+  "photo_sequence_ids": [
+    "67506559",
+    "66979789",
+    "66979919",
+    "66980064",
+    "66980000"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was happy to be in the family . the young girl was very excited . the grandparents were so proud of her . the daughter was happy to see her . the baby was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Here I am taking pics of my ladies!!! My bo came over too and so did my little niece.  She drew some nice pictures.",
+      "normalized_edited_story_text_sent": [
+        "here i am taking pics of my ladies !!!",
+        "my bo came over too and so did my little niece .",
+        "she drew some nice pictures ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the baby was happy to be in the family . the young girl was very excited . the grandparents were so proud of her . the daughter was happy to see her . the baby was having a great time .\r\rLisa was really happy to be part of our family. Mary was really excited too! Their grandparents were so proud! Mary was overjoyed to see Lisa. Lisa was having such a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be in the family .",
+        "the young girl was very excited .",
+        "the grandparents were so proud of her .",
+        "the daughter was happy to see her .",
+        "the baby was having a great time .",
+        "[female] was really happy to be part of our family .",
+        "[female] was really excited too !",
+        "their grandparents were so proud !",
+        "[female] was overjoyed to see [female] .",
+        "[female] was having such a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the baby girl was happy to be in the family and we got a picture of adoption party. the young girls were very excited to have a new family member. the new dad was so proud of her and she was so cute . the girl was happy to be in a family and is still adjusting. the baby girl was having a great time and colored us pictures .",
+      "normalized_edited_story_text_sent": [
+        "the baby girl was happy to be in the family and we got a picture of adoption party .",
+        "the young girls were very excited to have a new family member .",
+        "the new dad was so proud of her and she was so cute .",
+        "the girl was happy to be in a family and is still adjusting .",
+        "the baby girl was having a great time and colored us pictures ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the baby was happy to be in the family . the young girl was very excited .",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be in the family .",
+        "the young girl was very excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "maria and lisa were glad the baby was happy to be in the family . the young girl was very excited . the grandparents were so proud of her . the daughter was happy to see her . the baby was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] were glad the baby was happy to be in the family .",
+        "the young girl was very excited .",
+        "the grandparents were so proud of her .",
+        "the daughter was happy to see her .",
+        "the baby was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1445259",
+  "model": "GLAC"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5886063886-5887510260-5889990949-5889989765-5890524179",
+  "photo_sequence_ids": [
+    "5886063886",
+    "5887510260",
+    "5889990949",
+    "5889989765",
+    "5890524179"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the army was ready to go on a field trip . they got to see the planes from the plane . they took a picture of the organization organization . the airplane was flying high . the family was happy for the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The troops were prepared for their journey. In the air, a sense of wonder, sharing the perspective of one eagle soaring with another. Photographs were taken. Everyone in the organization stood with each other for it. As they did so, another plane shot by overhead. A feeling of happiness came over the families that were there, as though that plane signified what all of this meant, and that all of this was worth it.",
+      "normalized_edited_story_text_sent": [
+        "the troops were prepared for their journey .",
+        "in the air , a sense of wonder , sharing the perspective of one eagle soaring with another .",
+        "photographs were taken .",
+        "everyone in the organization stood with each other for it .",
+        "as they did so , another plane shot by overhead .",
+        "a feeling of happiness came over the families that were there , as though that plane signified what all of this meant , and that all of this was worth it ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the navy was ready to go on a field trip . they got to see the ships from the harbor . they took a picture of the organization  .",
+      "normalized_edited_story_text_sent": [
+        "the navy was ready to go on a field trip .",
+        "they got to see the ships from the harbor .",
+        "they took a picture of the organization ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we visited lisa before they shipped out today. i got some great pics of her and the rest of the crew. it\u0027s so hard to see her off, but it was nice to see where she\u0027ll be for the next few months, and meet some of her fellow soldiers.",
+      "normalized_edited_story_text_sent": [
+        "we visited [female] before they shipped out today .",
+        "i got some great pics of her and the rest of the crew .",
+        "it \u0027s so hard to see her off , but it was nice to see where she \u0027ll be for the next few months , and meet some of her fellow soldiers ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the navy was ready to sail . they saw jets fly overhead . they took pictures of their unit . jets blasted by high up . their families had a bittersweet day .",
+      "normalized_edited_story_text_sent": [
+        "the navy was ready to sail .",
+        "they saw jets fly overhead .",
+        "they took pictures of their unit .",
+        "jets blasted by high up .",
+        "their families had a bittersweet day ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The naval marines always have a day open to the public.  Here are some of the folks on deck and at the harbor.  We salute you!!!",
+      "normalized_edited_story_text_sent": [
+        "the naval marines always have a day open to the public .",
+        "here are some of the folks on deck and at the harbor .",
+        "we salute you !!!"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626958486375",
+  "model": "GLAC"
+}

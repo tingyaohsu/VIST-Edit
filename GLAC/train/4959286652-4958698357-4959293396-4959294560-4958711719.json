@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4959286652-4958698357-4959293396-4959294560-4958711719",
+  "photo_sequence_ids": [
+    "4959286652",
+    "4958698357",
+    "4959293396",
+    "4959294560",
+    "4958711719"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the parade . they saw a lot of cool cars . they even had a big cake . the flowers were beautiful . the family was happy to see them again .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David said the kids were excited to be in the parade . they saw a lot of cool cars . they even had a big cake . the flowers were beautiful . the family was happy to see them again .",
+      "normalized_edited_story_text_sent": [
+        "[male] said the kids were excited to be in the parade .",
+        "they saw a lot of cool cars .",
+        "they even had a big cake .",
+        "the flowers were beautiful .",
+        "the family was happy to see them again ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the friends were having a great time hanging out together . they saw a lot of cool cars . they even had a big cake . the flowers were beautiful . the family was happy to see them again .",
+      "normalized_edited_story_text_sent": [
+        "the friends were having a great time hanging out together .",
+        "they saw a lot of cool cars .",
+        "they even had a big cake .",
+        "the flowers were beautiful .",
+        "the family was happy to see them again ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the kids had anticipated marching in the parade . they passed many cool cars . they ate a big celebratory cake afterwards . beautiful flowers were delivered . their families enjoyed their company .",
+      "normalized_edited_story_text_sent": [
+        "the kids had anticipated marching in the parade .",
+        "they passed many cool cars .",
+        "they ate a big celebratory cake afterwards .",
+        "beautiful flowers were delivered .",
+        "their families enjoyed their company ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the kids were excited to be in the parade . they saw a lot of cool cars . they even had a big cake . the flowers were beautiful . the family was happy to see them again .\r\rMy kids were so excited to be part of the parade. We saw so many cool cars. There was even this huge cake. There were these beautiful flowers! I was happy to see the family again!",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the parade .",
+        "they saw a lot of cool cars .",
+        "they even had a big cake .",
+        "the flowers were beautiful .",
+        "the family was happy to see them again .",
+        "my kids were so excited to be part of the parade .",
+        "we saw so many cool cars .",
+        "there was even this huge cake .",
+        "there were these beautiful flowers !",
+        "i was happy to see the family again !"
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "Everyone was excited to be at the party. There were lots of cool things to see. There was even a delicious cake. The family had a great time.",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited to be at the party .",
+        "there were lots of cool things to see .",
+        "there was even a delicious cake .",
+        "the family had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624756855255",
+  "model": "GLAC"
+}

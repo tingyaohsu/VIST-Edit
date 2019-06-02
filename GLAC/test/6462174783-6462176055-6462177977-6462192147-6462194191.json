@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6462174783-6462176055-6462177977-6462192147-6462194191",
+  "photo_sequence_ids": [
+    "6462174783",
+    "6462176055",
+    "6462177977",
+    "6462192147",
+    "6462194191"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sign was made for the event . the signs were posted on the wall . the information was about to begin . the speaker was presented with the results . the plaque was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The signs were made for the event. They were posted on the wall. The information was listed throughout. The signs were a success.",
+      "normalized_edited_story_text_sent": [
+        "the signs were made for the event .",
+        "they were posted on the wall .",
+        "the information was listed throughout .",
+        "the signs were a success ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The signs were posted all over the wall, specifically made for this event. The speaker was about to begin. His presentation  was filled with information and results, culminating in a success plaque.",
+      "normalized_edited_story_text_sent": [
+        "the signs were posted all over the wall , specifically made for this event .",
+        "the speaker was about to begin .",
+        "his presentation was filled with information and results , culminating in a success plaque ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "A sign was made for an event, and then posted on the wall . Information had to be given out, and the speaker was presented with the results. And the plaque was a success.",
+      "normalized_edited_story_text_sent": [
+        "a sign was made for an event , and then posted on the wall .",
+        "information had to be given out , and the speaker was presented with the results .",
+        "and the plaque was a success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "a lot of motivational messages were posted.",
+      "normalized_edited_story_text_sent": [
+        "a lot of motivational messages were posted ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the sign was made for the event . the signs were posted on the wall . the information was about to begin . the speaker was presented with the results . the plaque was a success .\r\rThis sign was created specifically for the event. The signs were posted all along the walls. The information was at the beginning of the signs. The speaker presented the results. It turned out to be a success.",
+      "normalized_edited_story_text_sent": [
+        "the sign was made for the event .",
+        "the signs were posted on the wall .",
+        "the information was about to begin .",
+        "the speaker was presented with the results .",
+        "the plaque was a success .",
+        "this sign was created specifically for the event .",
+        "the signs were posted all along the walls .",
+        "the information was at the beginning of the signs .",
+        "the speaker presented the results .",
+        "it turned out to be a success ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628296383879",
+  "model": "GLAC"
+}

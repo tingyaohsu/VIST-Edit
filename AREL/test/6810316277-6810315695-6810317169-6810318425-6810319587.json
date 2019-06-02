@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "6810316277-6810315695-6810317169-6810318425-6810319587",
+  "photo_sequence_ids": [
+    "6810316277",
+    "6810315695",
+    "6810317169",
+    "6810318425",
+    "6810319587"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7014/6810316277_5d01179deb_o.jpg",
+    "https://farm8.staticflickr.com/7025/6810315695_8b80b75675_o.jpg",
+    "https://farm8.staticflickr.com/7172/6810317169_6e7e58a543_o.jpg",
+    "https://farm8.staticflickr.com/7026/6810318425_a5cfe4d3d1_o.jpg",
+    "https://farm8.staticflickr.com/7158/6810319587_7e1ef026f2_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the market last weekend . there were a lot of people there . there was a lot of food there . the food was delicious and delicious . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the fish market last weekend . there were a lot of people there . the food was delicious . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the fish market last weekend .",
+        "there were a lot of people there .",
+        "the food was delicious .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "she go to the market last weekend . there are a lot of people there . there is a lot of food there . the food is delicious and delicious . i have a great time there .",
+      "normalized_edited_story_text_sent": [
+        "she go to the market last weekend .",
+        "there are a lot of people there .",
+        "there is a lot of food there .",
+        "the food is delicious and delicious .",
+        "i have a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I went to the market last weekend. There were a lot of people there. There was a lot of food there. The food was delicious. I ate way too much.",
+      "normalized_edited_story_text_sent": [
+        "i went to the market last weekend .",
+        "there were a lot of people there .",
+        "there was a lot of food there .",
+        "the food was delicious .",
+        "i ate way too much ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to the market last weekend . there was a crowd . there was so much food there . the food was tasty and delicious . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the market last weekend .",
+        "there was a crowd .",
+        "there was so much food there .",
+        "the food was tasty and delicious .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the market last weekend. there were a lot of people there. they have so many different types of food for sale. it\u0027s all very delicious. i bought some food. it was a good trip.",
+      "normalized_edited_story_text_sent": [
+        "i went to the market last weekend .",
+        "there were a lot of people there .",
+        "they have so many different types of food for sale .",
+        "it \u0027s all very delicious .",
+        "i bought some food .",
+        "it was a good trip ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157629152279849"
+}

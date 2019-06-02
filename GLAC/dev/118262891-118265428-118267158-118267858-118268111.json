@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "118262891-118265428-118267158-118267858-118268111",
+  "photo_sequence_ids": [
+    "118262891",
+    "118265428",
+    "118267158",
+    "118267858",
+    "118268111"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were blooming . the trees were covered in snow . the plants were blooming . the house was still standing . the dog was looking for the animals .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the flowers were blooming . the trees were covered in cold snow . the plants were blooming . the building was still standing . the dog was looking for the animals .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "the trees were covered in cold snow .",
+        "the plants were blooming .",
+        "the building was still standing .",
+        "the dog was looking for the animals ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "Moss was on the fallen trees . Grass was turning green . the plants were blooming . the house was still standing . the pen was holding the animals .",
+      "normalized_edited_story_text_sent": [
+        "moss was on the fallen trees .",
+        "grass was turning green .",
+        "the plants were blooming .",
+        "the house was still standing .",
+        "the pen was holding the animals ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the trees were covered in snow.  nevertheless, the plants and flowers were blooming.  the house had also survived the winter and was still standing.  a dog was searching for the farm animals.",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in snow .",
+        "nevertheless , the plants and flowers were blooming .",
+        "the house had also survived the winter and was still standing .",
+        "a dog was searching for the farm animals ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the flowers were blooming . the trees were covered in leaves . the plants were lovely . the old house was still standing . the dog was looking for the animals .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "the trees were covered in leaves .",
+        "the plants were lovely .",
+        "the old house was still standing .",
+        "the dog was looking for the animals ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "All of the flowers were blooming. But the trees were covered in snow . The plants were blooming as well. The house was still standing. Meanwhile, the dog was up and about looking for the animals .",
+      "normalized_edited_story_text_sent": [
+        "all of the flowers were blooming .",
+        "but the trees were covered in snow .",
+        "the plants were blooming as well .",
+        "the house was still standing .",
+        "meanwhile , the dog was up and about looking for the animals ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594091145852",
+  "model": "GLAC"
+}

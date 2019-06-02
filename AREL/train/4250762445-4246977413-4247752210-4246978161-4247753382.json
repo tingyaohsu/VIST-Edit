@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4250762445-4246977413-4247752210-4246978161-4247753382",
+  "photo_sequence_ids": [
+    "4250762445",
+    "4246977413",
+    "4247752210",
+    "4246978161",
+    "4247753382"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4039/4250762445_5d860470dc_o.jpg",
+    "https://farm5.staticflickr.com/4057/4246977413_6496f00b38_o.jpg",
+    "https://farm5.staticflickr.com/4055/4247752210_45c1d964f2_o.jpg",
+    "https://farm3.staticflickr.com/2706/4246978161_868aeb8be4_o.jpg",
+    "https://farm5.staticflickr.com/4072/4247753382_dbb3e4fe59_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a trip to the beach . we had a lot of fun at the party . we had a lot of fun there . we had a lot of fun walking around . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we went on a trip to the beach and it was cold but a blast. we had a lot of fun at the party  . we walked around the snow and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the beach and it was cold but a blast .",
+        "we had a lot of fun at the party .",
+        "we walked around the snow and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "When we got off the plane, everything was cold \u0026 covered in ice. We had a lot of fun drinking to stay warm at night. It was nice to be with friends. We enjoyed seeing the sights. We thoroughly enjoyed ourselves.",
+      "normalized_edited_story_text_sent": [
+        "when we got off the plane , everything was cold \u0026 covered in ice .",
+        "we had a lot of fun drinking to stay warm at night .",
+        "it was nice to be with friends .",
+        "we enjoyed seeing the sights .",
+        "we thoroughly enjoyed ourselves ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went on a trip to the beach, and then later we went to a party. We had a lot of fun there! We walked around, and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the beach , and then later we went to a party .",
+        "we had a lot of fun there !",
+        "we walked around , and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AONJLTBODD2WN",
+      "edited_story_text": "we went on a trip to some place cold . we had a lot of fun at the party . we saw friends there . the hotel was cozy . we had a great time outdoors too.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to some place cold .",
+        "we had a lot of fun at the party .",
+        "we saw friends there .",
+        "the hotel was cozy .",
+        "we had a great time outdoors too ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "We went on a trip to the beach and had a fun time there. We had a great time at a party and walking around. We had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the beach and had a fun time there .",
+        "we had a great time at a party and walking around .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623019037905"
+}

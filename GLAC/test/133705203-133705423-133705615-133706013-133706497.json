@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "133705203-133705423-133705615-133706013-133706497",
+  "photo_sequence_ids": [
+    "133705203",
+    "133705423",
+    "133705615",
+    "133706013",
+    "133706497"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing a gig . the guitarist was very talented . the drummer was very good . the food was delicious . the music was great .",
+  "edited_stories": [
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the band was playing a gig . they had a very talented guitarist, and a great drummer. the food was delicious and the music was great .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "they had a very talented guitarist , and a great drummer .",
+        "the food was delicious and the music was great ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my band played a great gig the other night. the audience loved our guitarist, who is very talented. all of the guests commented on the great music. the food and drinks were a delicious complement to the music. overall, all the guests thought the evening was great.",
+      "normalized_edited_story_text_sent": [
+        "my band played a great gig the other night .",
+        "the audience loved our guitarist , who is very talented .",
+        "all of the guests commented on the great music .",
+        "the food and drinks were a delicious complement to the music .",
+        "overall , all the guests thought the evening was great ."
+      ]
+    },
+    {
+      "worker_id": "AKVDY8OXNMQED",
+      "edited_story_text": "The band was playing a gig . the guitarist, David was very talented . Robert was an awesome drummer . the food was delicious . the music was great .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the guitarist , [male] was very talented .",
+        "[male] was an awesome drummer .",
+        "the food was delicious .",
+        "the music was great ."
+      ]
+    },
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the band was playing a gig . the guitarist was very talented . the bar was very good . the drinks were delicious . the music was great .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the guitarist was very talented .",
+        "the bar was very good .",
+        "the drinks were delicious .",
+        "the music was great ."
+      ]
+    },
+    {
+      "worker_id": "A2SRC38HIJ2X19",
+      "edited_story_text": "The band Robert plays in was playing a gig . Robert, the guitarist, is very talented. The drummer was also very good . The food and drinks were delicious.The music was great and afterwards we all sat around and chilled with Robert.",
+      "normalized_edited_story_text_sent": [
+        "the band [male] plays in was playing a gig .",
+        "[male] , the guitarist , is very talented .",
+        "the drummer was also very good .",
+        "the food and drinks were delicious.the music was great and afterwards we all sat around and chilled with [male] ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594115071974",
+  "model": "GLAC"
+}

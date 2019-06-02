@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "3495415862-3494619793-3495423574-3495426178-3494627487",
+  "photo_sequence_ids": [
+    "3495415862",
+    "3494619793",
+    "3495423574",
+    "3495426178",
+    "3494627487"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was happy to be graduating . she was so excited to graduate . she was very proud . she posed for pictures with her friends . the graduates were all smiles .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the lady was happy to be graduating . she was in a huge crowd . she and her family was very proud . she posed for pictures with her friends and family . the graduates were all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be graduating .",
+        "she was in a huge crowd .",
+        "she and her family was very proud .",
+        "she posed for pictures with her friends and family .",
+        "the graduates were all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The lady was happy to be graduating and she was so excited to graduate. She was very proud and posed for pictures with her friends. The graduates were all smiles.",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be graduating and she was so excited to graduate .",
+        "she was very proud and posed for pictures with her friends .",
+        "the graduates were all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "Lisa was happy to be graduating. She was so proud. She posed for pictures with her friends. The graduates were all smiles!",
+      "normalized_edited_story_text_sent": [
+        "[female] was happy to be graduating .",
+        "she was so proud .",
+        "she posed for pictures with her friends .",
+        "the graduates were all smiles !"
+      ]
+    },
+    {
+      "worker_id": "A7NZ814Q5MX2R",
+      "edited_story_text": "my mother was proud to be receiving her doctorate. graduation was held in the stadium. she was a bit nervous to give a speech during the ceremony. we took a picture of her with her mom and son. despite her nerves, she began to smile as she approached the podium to speak.",
+      "normalized_edited_story_text_sent": [
+        "my mother was proud to be receiving her doctorate .",
+        "graduation was held in the stadium .",
+        "she was a bit nervous to give a speech during the ceremony .",
+        "we took a picture of her with her mom and son .",
+        "despite her nerves , she began to smile as she approached the podium to speak ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the lady was very happy to be graduating and she was so excited to graduate . she was very proud . she posed for pictures with her friends . the graduates were all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be graduating and she was so excited to graduate .",
+        "she was very proud .",
+        "she posed for pictures with her friends .",
+        "the graduates were all smiles ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625503935527",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "68559374-68558571-68557990-68554809-68554240",
+  "photo_sequence_ids": [
+    "68559374",
+    "68558571",
+    "68557990",
+    "68554809",
+    "68554240"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/35/68559374_e6d2a7a731_o.jpg",
+    "https://farm1.staticflickr.com/35/68558571_9ae4d78d44_o.jpg",
+    "https://farm1.staticflickr.com/15/68557990_69ee41f00a_o.jpg",
+    "https://farm1.staticflickr.com/35/68554809_b6fc6309b4_o.jpg",
+    "https://farm1.staticflickr.com/20/68554240_609db3dcc2_o.jpg"
+  ],
+  "auto_story_text_normalized": "the baby was so excited to see his family . the baby was so happy to be there . the baby was very happy to see him . he took a picture with his dad . the baby was very happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The baby was so happy to see his family. He took a picture with his dad.",
+      "normalized_edited_story_text_sent": [
+        "the baby was so happy to see his family .",
+        "he took a picture with his dad ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the baby was really happy with his family. the baby was quite curious and happy . the baby was excited to see [male] and play with his toy. he laid on is dad as he took a picture with him. the baby was excited to be with [male] and [female] .",
+      "normalized_edited_story_text_sent": [
+        "the baby was really happy with his family .",
+        "the baby was quite curious and happy .",
+        "the baby was excited to see [male] and play with his toy .",
+        "he laid on is dad as he took a picture with him .",
+        "the baby was excited to be with [male] and [female] ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the baby is so excited to saw his family . the baby is so happy to be there . the baby is very happy to saw him . he take a picture with his dad . the baby is very happy to saw him .",
+      "normalized_edited_story_text_sent": [
+        "the baby is so excited to saw his family .",
+        "the baby is so happy to be there .",
+        "the baby is very happy to saw him .",
+        "he take a picture with his dad .",
+        "the baby is very happy to saw him ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the baby was so excited to see his family and to be there . the baby was especially happy to see his dad . they took a picture together .",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see his family and to be there .",
+        "the baby was especially happy to see his dad .",
+        "they took a picture together ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the baby was so excited to see his family .The baby had fun being with their dad.",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see his family .",
+        "the baby had fun being with their dad ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1478789"
+}

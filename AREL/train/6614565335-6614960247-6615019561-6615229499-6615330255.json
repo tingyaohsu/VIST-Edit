@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6614565335-6614960247-6615019561-6615229499-6615330255",
+  "photo_sequence_ids": [
+    "6614565335",
+    "6614960247",
+    "6615019561",
+    "6615229499",
+    "6615330255"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7158/6614565335_aae101a27a_o.jpg",
+    "https://farm8.staticflickr.com/7031/6614960247_24a32dc716_o.jpg",
+    "https://farm8.staticflickr.com/7173/6615019561_1e795f4a6c_o.jpg",
+    "https://farm8.staticflickr.com/7156/6615229499_f6997f376c_o.jpg",
+    "https://farm8.staticflickr.com/7155/6615330255_d69fa3c426_o.jpg"
+  ],
+  "auto_story_text_normalized": "the day of the race was a fun time . the kids were very happy to be there . we had a lot of fun . this is a picture of a bus . we had a lot of fun at the event .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The day of the race was very exciting. The kids came with us and they were happy to come. Everyone was having fun. We even got to eat food on a bus. The event was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the day of the race was very exciting .",
+        "the kids came with us and they were happy to come .",
+        "everyone was having fun .",
+        "we even got to eat food on a bus .",
+        "the event was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The day of the race was a fun time. The kids were very happy to be there and we all had a lot of fun. This is a picture of a bus that had food inside for after the race. We had a lot of fun at the event.",
+      "normalized_edited_story_text_sent": [
+        "the day of the race was a fun time .",
+        "the kids were very happy to be there and we all had a lot of fun .",
+        "this is a picture of a bus that had food inside for after the race .",
+        "we had a lot of fun at the event ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the day of the race is a fun time . we are very happy to be there . we have a lot of fun . this was a picture of a bus . we have a lot of fun at the event .",
+      "normalized_edited_story_text_sent": [
+        "the day of the race is a fun time .",
+        "we are very happy to be there .",
+        "we have a lot of fun .",
+        "this was a picture of a bus .",
+        "we have a lot of fun at the event ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "everyone had fun on race day . the kids were very happy to be there and some of the adults wore matching outfits. we had a lot of fun with old and new friends . in this bus, there was a meal waiting for us. we enjoyed the delicious food and had fun being there.",
+      "normalized_edited_story_text_sent": [
+        "everyone had fun on race day .",
+        "the kids were very happy to be there and some of the adults wore matching outfits .",
+        "we had a lot of fun with old and new friends .",
+        "in this bus , there was a meal waiting for us .",
+        "we enjoyed the delicious food and had fun being there ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the day of the race is a fun time . the kids are very happy to be there . we have a lot of fun . this was a picture of a bus . we have a lot of fun at the event .",
+      "normalized_edited_story_text_sent": [
+        "the day of the race is a fun time .",
+        "the kids are very happy to be there .",
+        "we have a lot of fun .",
+        "this was a picture of a bus .",
+        "we have a lot of fun at the event ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628667758209"
+}

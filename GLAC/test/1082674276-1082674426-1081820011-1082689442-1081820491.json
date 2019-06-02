@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "1082674276-1082674426-1081820011-1082689442-1081820491",
+  "photo_sequence_ids": [
+    "1082674276",
+    "1082674426",
+    "1081820011",
+    "1082689442",
+    "1081820491"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a night out . they had a lot of fun . they had a great time . they had a good time . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "there was a family part held tonight.  everyone had fun.  it was a great time for the family.  there were smiles and hugs everywhere.",
+      "normalized_edited_story_text_sent": [
+        "there was a family part held tonight .",
+        "everyone had fun .",
+        "it was a great time for the family .",
+        "there were smiles and hugs everywhere ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "on halloween, the family got together for a night out. they had a lot of fun, especially my cousins david and maria. maria was thrilled that her boyfriend john was able to show up. the girls shared inside jokes and laughed all night long. according to aunt mary, even grumpy uncle robert had a good time.",
+      "normalized_edited_story_text_sent": [
+        "on halloween , the family got together for a night out .",
+        "they had a lot of fun , especially my cousins [male] and [female] .",
+        "[female] was thrilled that her boyfriend [male] was able to show up .",
+        "the girls shared inside jokes and laughed all night long .",
+        "according to aunt [female] , even grumpy uncle [male] had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "we got together for a night out . we had a lot of fun dancing and goofing off. we sat out by the patio relaxing and drinking into the evening.",
+      "normalized_edited_story_text_sent": [
+        "we got together for a night out .",
+        "we had a lot of fun dancing and goofing off .",
+        "we sat out by the patio relaxing and drinking into the evening ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family got together for a night out on the town . they had a lot of fun dressing up and dancing . they had a great time singing to the music . they had a good time chilling after in the backyard . they had a great time talking with each other .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a night out on the town .",
+        "they had a lot of fun dressing up and dancing .",
+        "they had a great time singing to the music .",
+        "they had a good time chilling after in the backyard .",
+        "they had a great time talking with each other ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a night out . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a night out .",
+        "they had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601366268174",
+  "model": "GLAC"
+}

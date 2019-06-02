@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4279217616-4279217880-4281798521-4281798799-4281799751",
+  "photo_sequence_ids": [
+    "4279217616",
+    "4279217880",
+    "4281798521",
+    "4281798799",
+    "4281799751"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2743/4279217616_d523fd438e_o.jpg",
+    "https://farm3.staticflickr.com/2800/4279217880_5a516a2170_o.jpg",
+    "https://farm5.staticflickr.com/4012/4281798521_66c8743c47_o.jpg",
+    "https://farm3.staticflickr.com/2700/4281798799_a919863c70_o.jpg",
+    "https://farm3.staticflickr.com/2796/4281799751_5c54f7e8ef_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a tree . it was a cold winter day . the buildings were very old . the buildings were very old . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a tree  and a snowman. it was a cold winter day . the buildings were very old . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a tree and a snowman .",
+        "it was a cold winter day .",
+        "the buildings were very old .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "this is a picture of a snow man . it was a cold winter day . the buildings were very old . the buildings were beautiful . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a snow man .",
+        "it was a cold winter day .",
+        "the buildings were very old .",
+        "the buildings were beautiful .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a tree while it was a cold winter day . the buildings were very old but  we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a tree while it was a cold winter day .",
+        "the buildings were very old but we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "It was a cold winter day, it snowed hard last night and the snow beautifully covered everything. We went into the city to sight see and the buildings were very old but cool to see.",
+      "normalized_edited_story_text_sent": [
+        "it was a cold winter day , it snowed hard last night and the snow beautifully covered everything .",
+        "we went into the city to sight see and the buildings were very old but cool to see ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "This is a picture of a tree, covered in snow on a cold winter day. The buildings were very old, and we had a great time sightseeing.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a tree , covered in snow on a cold winter day .",
+        "the buildings were very old , and we had a great time sightseeing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623221299462"
+}

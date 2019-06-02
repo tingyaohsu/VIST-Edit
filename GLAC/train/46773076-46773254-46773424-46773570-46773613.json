@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "46773076-46773254-46773424-46773570-46773613",
+  "photo_sequence_ids": [
+    "46773076",
+    "46773254",
+    "46773424",
+    "46773570",
+    "46773613"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was a beautiful sight to see . the grounds were so amazing . the grounds were very well kept . the women were excited for the wedding . the bride and groom were happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the church was a beautiful ancient site . the grounds were spacious . the grounds also kept neat . the women were excited for the wedding . the bride and groom were happily relieved no hiccups occurred .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful ancient site .",
+        "the grounds were spacious .",
+        "the grounds also kept neat .",
+        "the women were excited for the wedding .",
+        "the bride and groom were happily relieved no hiccups occurred ."
+      ]
+    },
+    {
+      "worker_id": "A1V2H0UF94ATWY",
+      "edited_story_text": "the historic church was a beautiful sight to see. the groom arrived in a fancy convertible. the reception tent was huge! the grounds were very well kept. the men had a good time after the wedding. the bride and groom looked great and seemed very happy.",
+      "normalized_edited_story_text_sent": [
+        "the historic church was a beautiful sight to see .",
+        "the groom arrived in a fancy convertible .",
+        "the reception tent was huge !",
+        "the grounds were very well kept .",
+        "the men had a good time after the wedding .",
+        "the bride and groom looked great and seemed very happy ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "it was a great day for a wedding. people arrived in vintage white cars to an outdoor reception site. the church was a beautiful sight to see and the grounds were beautiful and well-kept. the bride and groom were happy . Everyone enjoyed themselves and had a great day.",
+      "normalized_edited_story_text_sent": [
+        "it was a great day for a wedding .",
+        "people arrived in vintage white cars to an outdoor reception site .",
+        "the church was a beautiful sight to see and the grounds were beautiful and well-kept .",
+        "the bride and groom were happy .",
+        "everyone enjoyed themselves and had a great day ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the church was a beautiful sight to see . the grounds were so amazing and there were antique cars were there. The men posed together. The couple stood together for a picture.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight to see .",
+        "the grounds were so amazing and there were antique cars were there .",
+        "the men posed together .",
+        "the couple stood together for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the church was a beautiful sight to see and was very old . the grounds were so amazing especially the tent that was up. the grounds were very well kept and the grass had just been cut . the women were excited for the wedding and were ready to dance. the bride and groom were happy that everyone had a fun time .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight to see and was very old .",
+        "the grounds were so amazing especially the tent that was up .",
+        "the grounds were very well kept and the grass had just been cut .",
+        "the women were excited for the wedding and were ready to dance .",
+        "the bride and groom were happy that everyone had a fun time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1044910",
+  "model": "GLAC"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "5124819752-5124820826-5124826682-5124830848-5124832182",
+  "photo_sequence_ids": [
+    "5124819752",
+    "5124820826",
+    "5124826682",
+    "5124830848",
+    "5124832182"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fireworks were very loud . they were so bright . they were really loud . the finale was amazing . the sky was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "I visited a lot of houses on Halloween night. Many were decorated and had creepy statues in costumes. One particular favorite is a ghost hanging from someone\u0027s porch. I went back home, which thankfully had a street light in front so nothing scary can surprise me.",
+      "normalized_edited_story_text_sent": [
+        "i visited a lot of houses on halloween night .",
+        "many were decorated and had creepy statues in costumes .",
+        "one particular favorite is a ghost hanging from someone \u0027s porch .",
+        "i went back home , which thankfully had a street light in front so nothing scary can surprise me ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The lights were very bright and loud - while other noises went off in the background. The finale to the show was amazing and the sky was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the lights were very bright and loud - while other noises went off in the background .",
+        "the finale to the show was amazing and the sky was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the fireworks were very loud .They glowed green. The people stood outside at night. There were cars parked on the street.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were very loud .",
+        "they glowed green .",
+        "the people stood outside at night .",
+        "there were cars parked on the street ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the haunted house was a great time. really spooky.",
+      "normalized_edited_story_text_sent": [
+        "the haunted house was a great time .",
+        "really spooky ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The house had all kinds of scary monsters in the front yard. Some kids were too scared to go up to it! There were many scary sights to be seen. It was well done",
+      "normalized_edited_story_text_sent": [
+        "the house had all kinds of scary monsters in the front yard .",
+        "some kids were too scared to go up to it !",
+        "there were many scary sights to be seen .",
+        "it was well done"
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625138326527",
+  "model": "GLAC"
+}

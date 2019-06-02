@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4350372885-4351118688-4350373157-4350373479-4351119530",
+  "photo_sequence_ids": [
+    "4350372885",
+    "4351118688",
+    "4350373157",
+    "4350373479",
+    "4351119530"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4069/4350372885_1fc2c8eaae_o.jpg",
+    "https://farm5.staticflickr.com/4071/4351118688_0ace80df33_o.jpg",
+    "https://farm5.staticflickr.com/4019/4350373157_a1a96d98fd_o.jpg",
+    "https://farm5.staticflickr.com/4062/4350373479_e583777480_o.jpg",
+    "https://farm5.staticflickr.com/4030/4351119530_112383cbe5_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the art gallery today . i had a great time . i had a great time . there were a lot of people there . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went to the art gallery today . i had a great time . i had a great time . there were a lot of people there . There was a lot of nice work there.",
+      "normalized_edited_story_text_sent": [
+        "we went to the art gallery today .",
+        "i had a great time .",
+        "i had a great time .",
+        "there were a lot of people there .",
+        "there was a lot of nice work there ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the art gallery today . i had a great time . i had a great time . there were a lot of people there and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went to the art gallery today .",
+        "i had a great time .",
+        "i had a great time .",
+        "there were a lot of people there and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we went to the art gallery today .I had a great time . i had a great experience . there were a lot of people there . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went to the art gallery today .",
+        "i had a great time .",
+        "i had a great experience .",
+        "there were a lot of people there .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to the meeting today .  there were a lot of people there . we had a great time . by the time it ended we were all friends.",
+      "normalized_edited_story_text_sent": [
+        "we went to the meeting today .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "by the time it ended we were all friends ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We went to an art gallery today and had a great time, there were quite a lot of people there.",
+      "normalized_edited_story_text_sent": [
+        "we went to an art gallery today and had a great time , there were quite a lot of people there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623292282441"
+}

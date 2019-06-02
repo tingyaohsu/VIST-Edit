@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "1428261043-1702842977-1703715428-1703734026-1702899529",
+  "photo_sequence_ids": [
+    "1428261043",
+    "1702842977",
+    "1703715428",
+    "1703734026",
+    "1702899529"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1370/1428261043_6e63ffbb8e_o.jpg",
+    "https://farm3.staticflickr.com/2213/1702842977_c191226cbb_o.jpg",
+    "https://farm3.staticflickr.com/2270/1703715428_65a4ecbc9d_o.jpg",
+    "https://farm3.staticflickr.com/2290/1703734026_e4b577f947_o.jpg",
+    "https://farm3.staticflickr.com/2148/1702899529_a7433570df_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the lake today . there were a lot of interesting things to see . this is a picture of a waterfall . this is a picture of a building . this is a picture of a pond .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to the lake today and there were a lot of interesting things to see . we took this picture of a waterfall and building . also this is a picture of a pond .",
+      "normalized_edited_story_text_sent": [
+        "we went to the lake today and there were a lot of interesting things to see .",
+        "we took this picture of a waterfall and building .",
+        "also this is a picture of a pond ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "we went to the lake today . there were a considerable measure of fascinating things to see . this is a photo of a waterfall . this is a photo of a building . this is a photo of a pond .",
+      "normalized_edited_story_text_sent": [
+        "we went to the lake today .",
+        "there were a considerable measure of fascinating things to see .",
+        "this is a photo of a waterfall .",
+        "this is a photo of a building .",
+        "this is a photo of a pond ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to the lake today. there were a lot of interesting things to see. we saw a waterfall, an old building, and a pond.",
+      "normalized_edited_story_text_sent": [
+        "we went to the lake today .",
+        "there were a lot of interesting things to see .",
+        "we saw a waterfall , an old building , and a pond ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the park today. There were a lot of interesting things to see. This is a picture of a waterfall.  We hiked and saw an old building with  a wagon wheel in the back.  There were many trails to hike on.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "there were a lot of interesting things to see .",
+        "this is a picture of a waterfall .",
+        "we hiked and saw an old building with a wagon wheel in the back .",
+        "there were many trails to hike on ."
+      ]
+    },
+    {
+      "worker_id": "A13TJ0P4X8HJ6Q",
+      "edited_story_text": "we went to the lake today . there were a lot of interesting things to see . these are some pictures of a waterfall, a cool old building, and a pond .",
+      "normalized_edited_story_text_sent": [
+        "we went to the lake today .",
+        "there were a lot of interesting things to see .",
+        "these are some pictures of a waterfall , a cool old building , and a pond ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602649605030"
+}

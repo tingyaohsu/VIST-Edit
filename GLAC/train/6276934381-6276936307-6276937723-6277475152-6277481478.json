@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "6276934381-6276936307-6276937723-6277475152-6277481478",
+  "photo_sequence_ids": [
+    "6276934381",
+    "6276936307",
+    "6276937723",
+    "6277475152",
+    "6277481478"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be graduating . he was so proud of his accomplishments . he was very excited for the graduation . the graduates were all smiles . the graduate was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the woman smiled before starting the graduation ceremony . the man was so proud of his accomplishments . he was very excited for the graduation . the graduates were all smiles . everyone was very proud .",
+      "normalized_edited_story_text_sent": [
+        "the woman smiled before starting the graduation ceremony .",
+        "the man was so proud of his accomplishments .",
+        "he was very excited for the graduation .",
+        "the graduates were all smiles .",
+        "everyone was very proud ."
+      ]
+    },
+    {
+      "worker_id": "ABWGUXCKV8HZN",
+      "edited_story_text": "Mary was the dean of the school. the man was happy to be graduating . The woman was also happy to be graduating . the commencement speech was very interesting . the graduates were all smiles . the graduate was very proud .",
+      "normalized_edited_story_text_sent": [
+        "[female] was the dean of the school .",
+        "the man was happy to be graduating .",
+        "the woman was also happy to be graduating .",
+        "the commencement speech was very interesting .",
+        "the graduates were all smiles .",
+        "the graduate was very proud ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man was happy to be graduating .He approached the podium to receive his diploma. The graduate spoke at the podium. They smiled for the camera.",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be graduating .",
+        "he approached the podium to receive his diploma .",
+        "the graduate spoke at the podium .",
+        "they smiled for the camera ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the woman was happy to graduate . she was proud of her work . she was eager for the ceremony . the graduates were grinning widely . the ceremony had proud people .",
+      "normalized_edited_story_text_sent": [
+        "the woman was happy to graduate .",
+        "she was proud of her work .",
+        "she was eager for the ceremony .",
+        "the graduates were grinning widely .",
+        "the ceremony had proud people ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "my english teach ms. lisa made a graduation speech today . it was such a good speech. i got to walk on stage to shake her hand. i wont forget this moment.",
+      "normalized_edited_story_text_sent": [
+        "my english teach ms. [female] made a graduation speech today .",
+        "it was such a good speech .",
+        "i got to walk on stage to shake her hand .",
+        "i wont forget this moment ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627969263208",
+  "model": "GLAC"
+}

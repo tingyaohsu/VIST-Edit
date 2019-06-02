@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "9505886810-9503087437-9505836976-9502958341-9502956987",
+  "photo_sequence_ids": [
+    "9505886810",
+    "9503087437",
+    "9505836976",
+    "9502958341",
+    "9502956987"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the big day . the children were excited to be there . the kids were having a great time . the horses were very fun . the men were happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was ready for the trip . the kids were excited to go . the children played . it was fun to ride horses . the adults were also happy .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the trip .",
+        "the kids were excited to go .",
+        "the children played .",
+        "it was fun to ride horses .",
+        "the adults were also happy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was ready for the big day . They saw all the tourist attractions. The park was pretty and everyone enjoyed the views.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "they saw all the tourist attractions .",
+        "the park was pretty and everyone enjoyed the views ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family had a big day ahead of them. The kids were excited to be there. Everyone was happy and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family had a big day ahead of them .",
+        "the kids were excited to be there .",
+        "everyone was happy and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family was ready for the big day . the children were excited to be there . the kids were having a great time . the horses were very fun . the men were happy .\r\rMy family was ready for the big day! My kids were so overjoyed. The kids seemed to be really having a great time. The horses were so much fun! David and Robert seemed happy too.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "the children were excited to be there .",
+        "the kids were having a great time .",
+        "the horses were very fun .",
+        "the men were happy .",
+        "my family was ready for the big day !",
+        "my kids were so overjoyed .",
+        "the kids seemed to be really having a great time .",
+        "the horses were so much fun !",
+        "[male] and [male] seemed happy too ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was ready for the big day . the children were excited to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the big day .",
+        "the children were excited to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157635062356920",
+  "model": "GLAC"
+}

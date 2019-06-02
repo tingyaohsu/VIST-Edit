@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "3652284733-3653084102-3652289461-3653088450-3652300639",
+  "photo_sequence_ids": [
+    "3652284733",
+    "3653084102",
+    "3652289461",
+    "3653088450",
+    "3652300639"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time . they played games . they also had a car . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was having a great time while they got ready for vacation . they played games as the drove out of the city . they also had a car that had a radio in it . they had a lot of fun singing along to the music . they had a great time and were ready for another vacation .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time while they got ready for vacation .",
+        "they played games as the drove out of the city .",
+        "they also had a car that had a radio in it .",
+        "they had a lot of fun singing along to the music .",
+        "they had a great time and were ready for another vacation ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the family were excited for vacation . they packed their suitcases . we packed the car . dad drove some of the way . they spent a lot of time on the highway.",
+      "normalized_edited_story_text_sent": [
+        "the family were excited for vacation .",
+        "they packed their suitcases .",
+        "we packed the car .",
+        "dad drove some of the way .",
+        "they spent a lot of time on the highway ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the happy family was having a great time and they played games . they also had a car . they had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the happy family was having a great time and they played games .",
+        "they also had a car .",
+        "they had a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A7B2Y319WCO02",
+      "edited_story_text": "the family was getting ready . they packed their bags. they loaded up the car . they all piled in . they got on their way to have a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was getting ready .",
+        "they packed their bags .",
+        "they loaded up the car .",
+        "they all piled in .",
+        "they got on their way to have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family was having a great time . they packed bags . they also had a car . they had a lot of funning the car. they had a great time driving .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "they packed bags .",
+        "they also had a car .",
+        "they had a lot of funning the car .",
+        "they had a great time driving ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157620318549638",
+  "model": "GLAC"
+}

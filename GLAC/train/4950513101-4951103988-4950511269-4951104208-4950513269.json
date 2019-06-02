@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4950513101-4951103988-4950511269-4951104208-4950513269",
+  "photo_sequence_ids": [
+    "4950513101",
+    "4951103988",
+    "4950511269",
+    "4951104208",
+    "4950513269"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was happy to be graduating . he was excited for the graduation ceremony . he was very proud of his accomplishments . the graduates were so proud . the family was so proud of him .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the woman was happy to be graduating . she was excited for the graduation ceremony . she was very proud of her accomplishments .all the graduates were happy and proud . the family was so proud of her .",
+      "normalized_edited_story_text_sent": [
+        "the woman was happy to be graduating .",
+        "she was excited for the graduation ceremony .",
+        "she was very proud of her accomplishments .",
+        "all the graduates were happy and proud .",
+        "the family was so proud of her ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the man was happy to be graduating . he was excited for the graduation ceremony . he was very proud of his accomplishments . the graduates were so proud . the family was so proud of him .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the man was happy to be graduating .",
+        "he was excited for the graduation ceremony .",
+        "he was very proud of his accomplishments .",
+        "the graduates were so proud .",
+        "the family was so proud of him ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "A man was happy to be graduating . he was excited for the ceremony and very proud of his accomplishments . his family was so proud of him too. all the graduates were so proud .",
+      "normalized_edited_story_text_sent": [
+        "a man was happy to be graduating .",
+        "he was excited for the ceremony and very proud of his accomplishments .",
+        "his family was so proud of him too .",
+        "all the graduates were so proud ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The woman stood at the podium. The graduation cap was decorated. The graduate approached the podium. The graduates celebrated.",
+      "normalized_edited_story_text_sent": [
+        "the woman stood at the podium .",
+        "the graduation cap was decorated .",
+        "the graduate approached the podium .",
+        "the graduates celebrated ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the man was happy to be finally graduating . he was excited for the graduation ceremony . he was super proud of his accomplishments . the graduates were so proud . his family was so proud of him .",
+      "normalized_edited_story_text_sent": [
+        "the man was happy to be finally graduating .",
+        "he was excited for the graduation ceremony .",
+        "he was super proud of his accomplishments .",
+        "the graduates were so proud .",
+        "his family was so proud of him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625082576413",
+  "model": "GLAC"
+}

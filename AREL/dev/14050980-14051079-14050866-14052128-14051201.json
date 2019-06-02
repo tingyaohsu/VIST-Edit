@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "14050980-14051079-14050866-14052128-14051201",
+  "photo_sequence_ids": [
+    "14050980",
+    "14051079",
+    "14050866",
+    "14052128",
+    "14051201"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/13/14050980_938e98e042_o.jpg",
+    "https://farm1.staticflickr.com/13/14051079_12781df64a_o.jpg",
+    "https://farm1.staticflickr.com/11/14050866_3d8914a9b2_o.jpg",
+    "https://farm1.staticflickr.com/12/14052128_9ac9bb0470_o.jpg",
+    "https://farm1.staticflickr.com/11/14051201_d430ef2564_o.jpg"
+  ],
+  "auto_story_text_normalized": "today we went to a local market . i made a lot of sweets for the kids . there were so many different kinds of vegetables . there were many different types of mushrooms . i also bought a lot of cupcakes .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "today we went to a local market . i made a lot of sweets for the kids and cut them into squares . there were so many different kinds of vegetables, including radishes . there were many different types of mushrooms, but the white capped variety looked the best. i also bought a lot of cupcakes, and some strawberries to eat with them .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a local market .",
+        "i made a lot of sweets for the kids and cut them into squares .",
+        "there were so many different kinds of vegetables , including radishes .",
+        "there were many different types of mushrooms , but the white capped variety looked the best .",
+        "i also bought a lot of cupcakes , and some strawberries to eat with them ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "today we went to a local market . i saw lots of soap . there were so many different kinds of vegetables . there were a lot of mushrooms . i also saw strawberries .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a local market .",
+        "i saw lots of soap .",
+        "there were so many different kinds of vegetables .",
+        "there were a lot of mushrooms .",
+        "i also saw strawberries ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "Today we went to a local market. I made a lot of sweets for the kids. There were so many different kinds of vegetables. There were many different types of mushrooms. I really had a good time at the market.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a local market .",
+        "i made a lot of sweets for the kids .",
+        "there were so many different kinds of vegetables .",
+        "there were many different types of mushrooms .",
+        "i really had a good time at the market ."
+      ]
+    },
+    {
+      "worker_id": "A2D30R5ZNQS01W",
+      "edited_story_text": "Today we went to a local market. I bought a lot of sweets for the kids. There were so many different kinds of vegetables. There were many different types of mushrooms. I also bought a lot of strawberries.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a local market .",
+        "i bought a lot of sweets for the kids .",
+        "there were so many different kinds of vegetables .",
+        "there were many different types of mushrooms .",
+        "i also bought a lot of strawberries ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "today we went to a local market . i got ingredients to make a lot of sweets for the kids . there were so many different kinds of fresh vegetables and there were many different types of mushrooms . i bought a lot of cupcakes also.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a local market .",
+        "i got ingredients to make a lot of sweets for the kids .",
+        "there were so many different kinds of fresh vegetables and there were many different types of mushrooms .",
+        "i bought a lot of cupcakes also ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "342772"
+}

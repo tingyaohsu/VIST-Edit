@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4243039545-4243045735-4243048059-4293630189-4293427643",
+  "photo_sequence_ids": [
+    "4243039545",
+    "4243045735",
+    "4243048059",
+    "4293630189",
+    "4293427643"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2614/4243039545_662db6b09c_o.jpg",
+    "https://farm3.staticflickr.com/2581/4243045735_4167ac4eee_o.jpg",
+    "https://farm5.staticflickr.com/4049/4243048059_99816f52dc_o.jpg",
+    "https://farm5.staticflickr.com/4023/4293630189_cdd3d59ccd_o.jpg",
+    "https://farm5.staticflickr.com/4038/4293427643_b1f464dd15_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the house to get a bite to eat . we had a lot of food . there was a lot of food there . when we got to the park , we took a road trip . it was a beautiful day .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to the famous restaurant to get a bite to eat.  We drove in the snow to go there to get some good Asian food. It was worth it.  We ate so much.  It was evening time when we left the restaurant.",
+      "normalized_edited_story_text_sent": [
+        "we went to the famous restaurant to get a bite to eat .",
+        "we drove in the snow to go there to get some good asian food .",
+        "it was worth it .",
+        "we ate so much .",
+        "it was evening time when we left the restaurant ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we went to my friend\u0027s house to eat dinner. she made a lot of food, and it was all delicious. afterward, we took a walk to the park with her kids. Even though it was cold, it was a beautiful day, with the sun shining.",
+      "normalized_edited_story_text_sent": [
+        "we went to my friend \u0027s house to eat dinner .",
+        "she made a lot of food , and it was all delicious .",
+        "afterward , we took a walk to the park with her kids .",
+        "even though it was cold , it was a beautiful day , with the sun shining ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "We went to a small lodge for dinner. We had so much food there. There was so much to eat. The snow on the road glistened in between the trees. It was a nice winter day.",
+      "normalized_edited_story_text_sent": [
+        "we went to a small lodge for dinner .",
+        "we had so much food there .",
+        "there was so much to eat .",
+        "the snow on the road glistened in between the trees .",
+        "it was a nice winter day ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we went to the house to get a bite to eat . we had a lot of delicious asian food . the table was packed with food to eat. when we got to the park after eating, we took a road trip . it was a beautiful snowy day .",
+      "normalized_edited_story_text_sent": [
+        "we went to the house to get a bite to eat .",
+        "we had a lot of delicious asian food .",
+        "the table was packed with food to eat .",
+        "when we got to the park after eating , we took a road trip .",
+        "it was a beautiful snowy day ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "Today we went to the house to get a bite to eat . we ate a lot of food . there was a lot of food there. Later,we went on a road trip to the park . it was a beautiful day .",
+      "normalized_edited_story_text_sent": [
+        "today we went to the house to get a bite to eat .",
+        "we ate a lot of food .",
+        "there was a lot of food there .",
+        "later , we went on a road trip to the park .",
+        "it was a beautiful day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623259212490"
+}

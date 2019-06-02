@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "1806055913-1806058949-1806896756-1806900712-1806048445",
+  "photo_sequence_ids": [
+    "1806055913",
+    "1806058949",
+    "1806896756",
+    "1806900712",
+    "1806048445"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were having a great time at the party . they had lots of toys . they had a lot of fun . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the kids were having a great time at the party . they had lots of toys . hours went by fast. it was a fun day for them.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had lots of toys .",
+        "hours went by fast .",
+        "it was a fun day for them ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the kids were having a great time at the party . they had lots of toys and their parents were there for the party too . there were games to play and even a train to ride . everyone had a great time and a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had lots of toys and their parents were there for the party too .",
+        "there were games to play and even a train to ride .",
+        "everyone had a great time and a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were having a great time at the party . they had lots of toys to play with . they played hard. they rode on toys . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had lots of toys to play with .",
+        "they played hard .",
+        "they rode on toys .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the kids were having a great time at the party at their preschool . they had lots of toys that had been donated by the local fire department . they had a lot of fun . they had a lot of fun despite the fact that the party had to be moved indoors due to bad weather . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party at their preschool .",
+        "they had lots of toys that had been donated by the local fire department .",
+        "they had a lot of fun .",
+        "they had a lot of fun despite the fact that the party had to be moved indoors due to bad weather .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the kids were having a fun time at the party . they had tons of toys . they had a lot of fun . they had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a fun time at the party .",
+        "they had tons of toys .",
+        "they had a lot of fun .",
+        "they had a lot of fun .",
+        "they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602805299990",
+  "model": "GLAC"
+}

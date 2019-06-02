@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "2713971964-2710730474-2714016900-2714829954-2713347363",
+  "photo_sequence_ids": [
+    "2713971964",
+    "2710730474",
+    "2714016900",
+    "2714829954",
+    "2713347363"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was happy to be in the family . the cake was delicious . the family was so happy . the whole family was there . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the woman was in the hospital.  she had to take medications.  she was getting ready to leave.  she went back to work. she went out to eat.",
+      "normalized_edited_story_text_sent": [
+        "the woman was in the hospital .",
+        "she had to take medications .",
+        "she was getting ready to leave .",
+        "she went back to work .",
+        "she went out to eat ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "Mary had an accident, but she recovered well. Now she\u0027s back at her job and all smiles.",
+      "normalized_edited_story_text_sent": [
+        "[female] had an accident , but she recovered well .",
+        "now she \u0027s back at her job and all smiles ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "She was in her hospital bed and had tons of medications . She rested but then finally made it back to work . the family was so happy .She went out to eat, feeling better out enjoying soup.",
+      "normalized_edited_story_text_sent": [
+        "she was in her hospital bed and had tons of medications .",
+        "she rested but then finally made it back to work .",
+        "the family was so happy .",
+        "she went out to eat , feeling better out enjoying soup ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "Lisa was really happy to see the family.  Everyone was so happy to see her improvement. The whole family was there to cheer her on. The food was great, and the cake was delicious.",
+      "normalized_edited_story_text_sent": [
+        "[female] was really happy to see the family .",
+        "everyone was so happy to see her improvement .",
+        "the whole family was there to cheer her on .",
+        "the food was great , and the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the baby was happy to be in the family after being adopted . the cake was delicious and had no sugar in it . the family was so happy that she was getting better . the whole family was there to support her after surgery . the food was delicious and was low in sodium .",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be in the family after being adopted .",
+        "the cake was delicious and had no sugar in it .",
+        "the family was so happy that she was getting better .",
+        "the whole family was there to support her after surgery .",
+        "the food was delicious and was low in sodium ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606437775436",
+  "model": "GLAC"
+}

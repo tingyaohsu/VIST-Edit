@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "5131949-5132016-5132063-5132148-5132308",
+  "photo_sequence_ids": [
+    "5131949",
+    "5132016",
+    "5132063",
+    "5132148",
+    "5132308"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/5/5131949_e0f4c7a496_o.jpg",
+    "https://farm1.staticflickr.com/3/5132016_bb40ee79c7_o.jpg",
+    "https://farm1.staticflickr.com/5/5132063_dc49730b1d_o.jpg",
+    "https://farm1.staticflickr.com/3/5132148_89b0a2eb3e_o.jpg",
+    "https://farm1.staticflickr.com/4/5132308_1c3cfe6ddd_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family got together for a family reunion . [male] and [male] had a great time . then we went to the park to enjoy the day . we had a lot of food to eat . they had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "The whole family got together for a reunion! [female] and [male] even came and they had a GREAT time! There were so many people at the reunion the party spilled outside! Oh man, we had so much good food there too. The entire family had such an amazing time getting together.",
+      "normalized_edited_story_text_sent": [
+        "the whole family got together for a reunion !",
+        "[female] and [male] even came and they had a great time !",
+        "there were so many people at the reunion the party spilled outside !",
+        "oh man , we had so much good food there too .",
+        "the entire family had such an amazing time getting together ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the family got together for a family reunion . [male] and [male] had a great time .  it was good to see everyone. we had a lot of food to eat . they had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a family reunion .",
+        "[male] and [male] had a great time .",
+        "it was good to see everyone .",
+        "we had a lot of food to eat .",
+        "they had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The family gathered together for a family reunion. [male] and [female] enjoyed themselves. The kids got to go in the pool. Then we went inside to eat. Everyone had a great time at the reunion..",
+      "normalized_edited_story_text_sent": [
+        "the family gathered together for a family reunion .",
+        "[male] and [female] enjoyed themselves .",
+        "the kids got to go in the pool .",
+        "then we went inside to eat .",
+        "everyone had a great time at the reunion .",
+        "."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the family got together for a family reunion. [male] and [male] had a great time seeing everyone. then we went to the park to enjoy the day. we had a lot of food to eat. everyone had a great time visiting with relative they hadn\u0027t seen in a while.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a family reunion .",
+        "[male] and [male] had a great time seeing everyone .",
+        "then we went to the park to enjoy the day .",
+        "we had a lot of food to eat .",
+        "everyone had a great time visiting with relative they had n\u0027t seen in a while ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "Our family got together for a family reunion . We had a great time . We went to the park to enjoy the day and had a lot of food to eat . We had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "our family got together for a family reunion .",
+        "we had a great time .",
+        "we went to the park to enjoy the day and had a lot of food to eat .",
+        "we had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "129219"
+}

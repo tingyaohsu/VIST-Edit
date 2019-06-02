@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "10574929913-10574929303-10574935153-10574934063-10574934823",
+  "photo_sequence_ids": [
+    "10574929913",
+    "10574929303",
+    "10574935153",
+    "10574934063",
+    "10574934823"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3736/10574929913_b0a51936ed_o.jpg",
+    "https://farm4.staticflickr.com/3776/10574929303_e4a84f3bcc_o.jpg",
+    "https://farm8.staticflickr.com/7377/10574935153_18f7d8e75b_o.jpg",
+    "https://farm6.staticflickr.com/5532/10574934063_244f48a2c3_o.jpg",
+    "https://farm6.staticflickr.com/5498/10574934823_9b1175a397_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the first day of school . we took a group picture to commemorate the day . we had a lot of fun there . they were all very happy to be there . the kids had a great time playing with the kids .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went trick-or-treating at the village. We took a group picture to commemorate the day.  We had a lot of fun there and were happy we got a lot of candies.  It was nice for the kids to have a great time with other kids in a safe environment.",
+      "normalized_edited_story_text_sent": [
+        "we went trick-or-treating at the village .",
+        "we took a group picture to commemorate the day .",
+        "we had a lot of fun there and were happy we got a lot of candies .",
+        "it was nice for the kids to have a great time with other kids in a safe environment ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the first day of school was today . we took a group photo to remember the day . we had an awesome time there . they were all very excited to be there . the kids had a wonderful time playing with the kids .",
+      "normalized_edited_story_text_sent": [
+        "the first day of school was today .",
+        "we took a group photo to remember the day .",
+        "we had an awesome time there .",
+        "they were all very excited to be there .",
+        "the kids had a wonderful time playing with the kids ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "Today was the first day of school and we took a group picture to commemorate the day. We had a lot of fun there, everyone was very happy to be there. The kids had a great time playing with each other.",
+      "normalized_edited_story_text_sent": [
+        "today was the first day of school and we took a group picture to commemorate the day .",
+        "we had a lot of fun there , everyone was very happy to be there .",
+        "the kids had a great time playing with each other ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "today was Halloween at our apartment complex. we took a group picture to commemorate the day. we had a lot of fun going between apartments getting candy. they were all very happy to participate. the kids had a great time eating their candy afterwards.",
+      "normalized_edited_story_text_sent": [
+        "today was halloween at our apartment complex .",
+        "we took a group picture to commemorate the day .",
+        "we had a lot of fun going between apartments getting candy .",
+        "they were all very happy to participate .",
+        "the kids had a great time eating their candy afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "Today was the school\u0027s trick-or-treating event. We took lots of photos of the kids in their costumes. The kids had a lot of fun playing with each other.",
+      "normalized_edited_story_text_sent": [
+        "today was the school \u0027s trick-or-treating event .",
+        "we took lots of photos of the kids in their costumes .",
+        "the kids had a lot of fun playing with each other ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157637122825124"
+}

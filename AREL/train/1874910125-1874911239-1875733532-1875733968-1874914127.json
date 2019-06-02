@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "1874910125-1874911239-1875733532-1875733968-1874914127",
+  "photo_sequence_ids": [
+    "1874910125",
+    "1874911239",
+    "1875733532",
+    "1875733968",
+    "1874914127"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2021/1874910125_d00cb4886c_o.jpg",
+    "https://farm3.staticflickr.com/2025/1874911239_bb54576e38_o.jpg",
+    "https://farm3.staticflickr.com/2151/1875733532_d7c557c5e0_o.jpg",
+    "https://farm3.staticflickr.com/2365/1875733968_e63f8a82de_o.jpg",
+    "https://farm3.staticflickr.com/2371/1874914127_fac28f3fed_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the halloween party . there were a lot of cool decorations . there were a lot of people there . this is a picture of a tree . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "We had a great time at the Halloween party. Lots of people were there, cool decorations and check out the picture of this tree.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party .",
+        "lots of people were there , cool decorations and check out the picture of this tree ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "We had so much fun celebrating at the halloween party. The decorations were abundant. There was a good crowd of people. Here is a picture of a tree that was decorated outside. It was a phenomenal night .",
+      "normalized_edited_story_text_sent": [
+        "we had so much fun celebrating at the halloween party .",
+        "the decorations were abundant .",
+        "there was a good crowd of people .",
+        "here is a picture of a tree that was decorated outside .",
+        "it was a phenomenal night ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "We had a great time at the halloween party. There were a lot of cool decorations and a lot of people there. This is a picture of a tree. It was a great night.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party .",
+        "there were a lot of cool decorations and a lot of people there .",
+        "this is a picture of a tree .",
+        "it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We had a great time at the Halloween party and there were a lot of cool decorations. There were lots of people there and spooky decorations, it was a great night.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party and there were a lot of cool decorations .",
+        "there were lots of people there and spooky decorations , it was a great night ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had a great time at the halloween party.  There were a lot of cool decorations.  A lot of people were there.  We were inside and outside.  It was a great night .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party .",
+        "there were a lot of cool decorations .",
+        "a lot of people were there .",
+        "we were inside and outside .",
+        "it was a great night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602938417219"
+}

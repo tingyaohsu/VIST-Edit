@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "10844894755-10845047434-10845043604-10844957676-10845013464",
+  "photo_sequence_ids": [
+    "10844894755",
+    "10845047434",
+    "10845043604",
+    "10844957676",
+    "10845013464"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the military men were ready for the ceremony . the soldiers were all in attendance . the speaker was very motivational . the graduates were proud . the family was so happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Classic historical events that took place many years ago.",
+      "normalized_edited_story_text_sent": [
+        "classic historical events that took place many years ago ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "it was a time of mourning. losing a great leader is never easy.",
+      "normalized_edited_story_text_sent": [
+        "it was a time of mourning .",
+        "losing a great leader is never easy ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "yesterday was remembrance day for the national military ceremony. all of the former soldiers were in attendance. the ceremony\u0027s speaker was very moving and motivational. the attendees were all very proud of their accomplishments. all in all, the family was proud to be able to show their respects that day.",
+      "normalized_edited_story_text_sent": [
+        "yesterday was remembrance day for the national military ceremony .",
+        "all of the former soldiers were in attendance .",
+        "the ceremony \u0027s speaker was very moving and motivational .",
+        "the attendees were all very proud of their accomplishments .",
+        "all in all , the family was proud to be able to show their respects that day ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the military men were ready for the ceremony . the soldiers were all in attendance . the speaker was very motivational . the atmosphere was positive . the family was so happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the military men were ready for the ceremony .",
+        "the soldiers were all in attendance .",
+        "the speaker was very motivational .",
+        "the atmosphere was positive .",
+        "the family was so happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the military men were all ready for the ceremony. the soldiers were all in attendance for the event. the speaker was very motivational and inspired the crowd. the graduates were proud to have made it to this day. the family was so happy to be there to witness the event .",
+      "normalized_edited_story_text_sent": [
+        "the military men were all ready for the ceremony .",
+        "the soldiers were all in attendance for the event .",
+        "the speaker was very motivational and inspired the crowd .",
+        "the graduates were proud to have made it to this day .",
+        "the family was so happy to be there to witness the event ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157637647894305",
+  "model": "GLAC"
+}

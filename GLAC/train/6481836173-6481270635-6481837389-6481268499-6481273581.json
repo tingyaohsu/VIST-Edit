@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "6481836173-6481270635-6481837389-6481268499-6481273581",
+  "photo_sequence_ids": [
+    "6481836173",
+    "6481270635",
+    "6481837389",
+    "6481268499",
+    "6481273581"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was ready for the march . the soldiers marched in the streets . the people were walking down the street . the police were there to keep the peace . the protesters were very passionate .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the crowd was ready for the march . the soldiers marched in the streets . the people held welcome signs . the police were there to keep the peace . the protesters were very passionate .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the march .",
+        "the soldiers marched in the streets .",
+        "the people held welcome signs .",
+        "the police were there to keep the peace .",
+        "the protesters were very passionate ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the crowd was ready for the march . the soldiers marched in the streets . the people were also walking down the street . the police were there to keep the peace . the marchers were very passionate .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the march .",
+        "the soldiers marched in the streets .",
+        "the people were also walking down the street .",
+        "the police were there to keep the peace .",
+        "the marchers were very passionate ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the crowd was ready for the march . the soldiers marched in the streets . the people were walking down the street . the police were there to keep the peace . the protesters were very passionate .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the crowd was ready for the march .",
+        "the soldiers marched in the streets .",
+        "the people were walking down the street .",
+        "the police were there to keep the peace .",
+        "the protesters were very passionate ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the crowd was ready for the march . the soldiers marched in the streets . the people were crowded in the gym . the police were there to keep the peace . the people were very passionate .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the march .",
+        "the soldiers marched in the streets .",
+        "the people were crowded in the gym .",
+        "the police were there to keep the peace .",
+        "the people were very passionate ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the crowd was ready for the march . the soldiers marched in our school. parents also were there for the march. the soldier織s act was amazing. we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was ready for the march .",
+        "the soldiers marched in our school .",
+        "parents also were there for the march .",
+        "the soldier \u0027s act was amazing .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628343838277",
+  "model": "GLAC"
+}

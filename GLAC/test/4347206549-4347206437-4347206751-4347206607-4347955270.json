@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4347206549-4347206437-4347206751-4347206607-4347955270",
+  "photo_sequence_ids": [
+    "4347206549",
+    "4347206437",
+    "4347206751",
+    "4347206607",
+    "4347955270"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow covered the roads . the streets were empty . the homes were abandoned . the house was completely empty . the building was still in use .",
+  "edited_stories": [
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the snow covered the roads in North dakota. the streets were empty and nobody wanted to be out there. the homes were covered so much in snow . there wasnt even any traffic there.",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads in north dakota .",
+        "the streets were empty and nobody wanted to be out there .",
+        "the homes were covered so much in snow .",
+        "there wasnt even any traffic there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "thick snow covered the roads . the streets were mostly empty . empty houses stood in the snow . if the house were not for sale, it would be filled with people keeping warm . another building was still in use, providing shelter .",
+      "normalized_edited_story_text_sent": [
+        "thick snow covered the roads .",
+        "the streets were mostly empty .",
+        "empty houses stood in the snow .",
+        "if the house were not for sale , it would be filled with people keeping warm .",
+        "another building was still in use , providing shelter ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the snow covered the roads and made them dangerous. the streets were empty due to people wanting to stay warm . the homes were abandoned and needed repair. the house was completely empty as no one wanted to live in this area . the building was still in use by the city officals .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads and made them dangerous .",
+        "the streets were empty due to people wanting to stay warm .",
+        "the homes were abandoned and needed repair .",
+        "the house was completely empty as no one wanted to live in this area .",
+        "the building was still in use by the city officals ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the snow covered the roads . the streets were empty . the homes only had the lights on . the house was completely empty . the building was still in use .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the streets were empty .",
+        "the homes only had the lights on .",
+        "the house was completely empty .",
+        "the building was still in use ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the snow covered the roads throughout town. the streets were empty except for cars that got stuck . some of the homes were abandoned by people who left town. my neighbor\u0027s house was completely empty after they left . the building next to uswas still in use .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads throughout town .",
+        "the streets were empty except for cars that got stuck .",
+        "some of the homes were abandoned by people who left town .",
+        "my neighbor \u0027s house was completely empty after they left .",
+        "the building next to uswas still in use ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623280700593",
+  "model": "GLAC"
+}

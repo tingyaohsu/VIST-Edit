@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2688787325-2688792633-2688793679-2688793245-2688786489",
+  "photo_sequence_ids": [
+    "2688787325",
+    "2688792633",
+    "2688793679",
+    "2688793245",
+    "2688786489"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were playing golf . they were having a good time . they were running . they were going to win . the team was winning .",
+  "edited_stories": [
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the kids were playing golf . we were having a good time . they were working hard at their game . they were going to win . the team won their tournament.",
+      "normalized_edited_story_text_sent": [
+        "the kids were playing golf .",
+        "we were having a good time .",
+        "they were working hard at their game .",
+        "they were going to win .",
+        "the team won their tournament ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "Today we were playing baseball. We were having a good time . We were running all over the field. The other team was winning. But we still had fun.",
+      "normalized_edited_story_text_sent": [
+        "today we were playing baseball .",
+        "we were having a good time .",
+        "we were running all over the field .",
+        "the other team was winning .",
+        "but we still had fun ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The people were playing a game. There was a lot of running. They all had a great time. The better team won.",
+      "normalized_edited_story_text_sent": [
+        "the people were playing a game .",
+        "there was a lot of running .",
+        "they all had a great time .",
+        "the better team won ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the kids were playing golf . they were having a great time . they were running . they were going to win . the team was winning by a lot .",
+      "normalized_edited_story_text_sent": [
+        "the kids were playing golf .",
+        "they were having a great time .",
+        "they were running .",
+        "they were going to win .",
+        "the team was winning by a lot ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "A group gathered to watch a ball game outside. Everyone was having fun in the sun and playing their hardest to win, running and catching the balls. The team hoped they would win the game.",
+      "normalized_edited_story_text_sent": [
+        "a group gathered to watch a ball game outside .",
+        "everyone was having fun in the sun and playing their hardest to win , running and catching the balls .",
+        "the team hoped they would win the game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606307817709",
+  "model": "GLAC"
+}

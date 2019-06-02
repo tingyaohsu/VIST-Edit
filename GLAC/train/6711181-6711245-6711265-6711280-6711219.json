@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6711181-6711245-6711265-6711280-6711219",
+  "photo_sequence_ids": [
+    "6711181",
+    "6711245",
+    "6711265",
+    "6711280",
+    "6711219"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many costumes . the people were very good . some of them were very creative . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was fun . many costumes were on display . people were having a good time . some of them got creative with costuming . i had fun .",
+      "normalized_edited_story_text_sent": [
+        "the parade was fun .",
+        "many costumes were on display .",
+        "people were having a good time .",
+        "some of them got creative with costuming .",
+        "i had fun ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the parade was a lot of fun . there were so many costumes . the people were very good . some of them were very creative . i had a great time .\r\rI had a blast at the parade! I couldn\u0027t believe so many people dressed up in costumes! Most of these people had awesome costumes! Some were just plain creative. I had so much fun!",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many costumes .",
+        "the people were very good .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "i had a blast at the parade !",
+        "i could n\u0027t believe so many people dressed up in costumes !",
+        "most of these people had awesome costumes !",
+        "some were just plain creative .",
+        "i had so much fun !"
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . there were so many costumes . The city was lit up. Everyone showed off their costumes.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many costumes .",
+        "the city was lit up .",
+        "everyone showed off their costumes ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun for the girls who went . there were so many costumes that it was hard to tell who\u0027s was the best . the people were very good at having fun . some of them were very creative while others were not . i had a great time hanging with my friends.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun for the girls who went .",
+        "there were so many costumes that it was hard to tell who \u0027s was the best .",
+        "the people were very good at having fun .",
+        "some of them were very creative while others were not .",
+        "i had a great time hanging with my friends ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . there were so many costumes .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many costumes ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "167476",
+  "model": "GLAC"
+}

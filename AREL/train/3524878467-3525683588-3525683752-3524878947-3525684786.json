@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "3524878467-3525683588-3525683752-3524878947-3525684786",
+  "photo_sequence_ids": [
+    "3524878467",
+    "3525683588",
+    "3525683752",
+    "3524878947",
+    "3525684786"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3180/3524878467_fed43999a4_o.jpg",
+    "https://farm4.staticflickr.com/3330/3525683588_be57674159_o.jpg",
+    "https://farm4.staticflickr.com/3601/3525683752_7e8b62cc6f_o.jpg",
+    "https://farm4.staticflickr.com/3585/3524878947_42b032ac91_o.jpg",
+    "https://farm4.staticflickr.com/3070/3525684786_07a8fd4409_o.jpg"
+  ],
+  "auto_story_text_normalized": "the graduation ceremony was a lot of fun . i was so excited to be there . there were a lot of people there . there was a lot of people at the ceremony . after the ceremony , the ceremony began and everyone was excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "the graduation ceremony was a lot of fun . We were all so excited to be there . there were a lot of people at the ceremony to celebrate with us. after eeveryonewas seated, the ceremony began and everyone was excited .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "we were all so excited to be there .",
+        "there were a lot of people at the ceremony to celebrate with us .",
+        "after eeveryonewas seated , the ceremony began and everyone was excited ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the graduation ceremony was a lot of fun . i was so excited to be there . there were a lot of people there and there was a lot of people at the ceremony . after the ceremony , the ceremony began and everyone was excited .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "i was so excited to be there .",
+        "there were a lot of people there and there was a lot of people at the ceremony .",
+        "after the ceremony , the ceremony began and everyone was excited ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the graduation ceremony was a lot of fun . i was so excited to be there . there were a lot of people there . there was a lot of people at the ceremony . after the ceremony, they all celebrated",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun .",
+        "i was so excited to be there .",
+        "there were a lot of people there .",
+        "there was a lot of people at the ceremony .",
+        "after the ceremony , they all celebrated"
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the graduation ceremony was a lot of fun and i was so excited to be there . there were a lot of people there graduating. after the ceremony , everyone was excited.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a lot of fun and i was so excited to be there .",
+        "there were a lot of people there graduating .",
+        "after the ceremony , everyone was excited ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "The graduation ceremony was so much fun! I was so excited to be there. There were so many people there there. Everyone was excited after the ceremony.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was so much fun !",
+        "i was so excited to be there .",
+        "there were so many people there there .",
+        "everyone was excited after the ceremony ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157617949218325"
+}

@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4389398327-4389398293-4390166034-4390165968-4390165960",
+  "photo_sequence_ids": [
+    "4389398327",
+    "4389398293",
+    "4390166034",
+    "4390165968",
+    "4390165960"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to be graduating . they were very proud of their accomplishments . the principal gave a speech . the graduates were all smiles . the graduates were so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The guest speaker had the office co workers very inspired and impressed by the end of the meeting.",
+      "normalized_edited_story_text_sent": [
+        "the guest speaker had the office co workers very inspired and impressed by the end of the meeting ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the people were excited to be apart of the meeting . they were very proud of their accomplishments . the speaker gave a speech . everyone listened intently.",
+      "normalized_edited_story_text_sent": [
+        "the people were excited to be apart of the meeting .",
+        "they were very proud of their accomplishments .",
+        "the speaker gave a speech .",
+        "everyone listened intently ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The students were excited to be graduating.  They were very proud of their accomplishments.  The principal gave a speech.  The happy graduates were all smiles.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be graduating .",
+        "they were very proud of their accomplishments .",
+        "the principal gave a speech .",
+        "the happy graduates were all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the students were excited to participate in the meeting . they were very proud of their plans that they wanted to share them. the male speaker gave a motivating speech . the student were fully engaged . the speaker was also engaged.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to participate in the meeting .",
+        "they were very proud of their plans that they wanted to share them .",
+        "the male speaker gave a motivating speech .",
+        "the student were fully engaged .",
+        "the speaker was also engaged ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "They posed for a group picture. Everyone sat around the table with drinks. The man gave a presentation in front of a podium.",
+      "normalized_edited_story_text_sent": [
+        "they posed for a group picture .",
+        "everyone sat around the table with drinks .",
+        "the man gave a presentation in front of a podium ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623388688073",
+  "model": "GLAC"
+}

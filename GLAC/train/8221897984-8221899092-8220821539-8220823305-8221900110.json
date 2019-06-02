@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "8221897984-8221899092-8220821539-8220823305-8221900110",
+  "photo_sequence_ids": [
+    "8221897984",
+    "8221899092",
+    "8220821539",
+    "8220823305",
+    "8221900110"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the day of the parade . the kids were having a great time . the children were very happy to be there . the streets were filled with people . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family was excited for trick or treating . the kids were having a great time . the children were very happy to be there . the streets were filled with people . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for trick or treating .",
+        "the kids were having a great time .",
+        "the children were very happy to be there .",
+        "the streets were filled with people .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited for the day of the parade . Some wore costumes. There were green flags in the yard. We went to a restaurant afterwards.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the day of the parade .",
+        "some wore costumes .",
+        "there were green flags in the yard .",
+        "we went to a restaurant afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "our family was excited on parade day.  the children gt excited about going.  people filled the streets.  vendors sold delicious food.",
+      "normalized_edited_story_text_sent": [
+        "our family was excited on parade day .",
+        "the children gt excited about going .",
+        "people filled the streets .",
+        "vendors sold delicious food ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family was excited for the day of the parade. the children were having a great time and were happy to be there. the streets were filled with people and the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the day of the parade .",
+        "the children were having a great time and were happy to be there .",
+        "the streets were filled with people and the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was excited for the day of the parade . the kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the day of the parade .",
+        "the kids were having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631898865749",
+  "model": "GLAC"
+}

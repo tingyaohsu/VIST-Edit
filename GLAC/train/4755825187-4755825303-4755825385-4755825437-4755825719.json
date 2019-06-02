@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4755825187-4755825303-4755825385-4755825437-4755825719",
+  "photo_sequence_ids": [
+    "4755825187",
+    "4755825303",
+    "4755825385",
+    "4755825437",
+    "4755825719"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a party . they had lots of presents . they had a lot of gifts . they had a cake . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family was having a party. they had many presents. they also had a cake. the kids had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a party .",
+        "they had many presents .",
+        "they also had a cake .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the family was having a lovely party . they had lots of presents for the birthday child . they had a lot of gifts . they had a cake . the kids had a perfect time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a lovely party .",
+        "they had lots of presents for the birthday child .",
+        "they had a lot of gifts .",
+        "they had a cake .",
+        "the kids had a perfect time ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The baby shower was a hit with lots of gifts for the new mom.",
+      "normalized_edited_story_text_sent": [
+        "the baby shower was a hit with lots of gifts for the new mom ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "Our family had a party. There were lots of presents, a big cake. The kids had a really great time .",
+      "normalized_edited_story_text_sent": [
+        "our family had a party .",
+        "there were lots of presents , a big cake .",
+        "the kids had a really great time ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the family was having a birthday party for a young child. there were lots of presents and several deserts to choose from. The family took photos to remember the special day.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a birthday party for a young child .",
+        "there were lots of presents and several deserts to choose from .",
+        "the family took photos to remember the special day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624409430634",
+  "model": "GLAC"
+}

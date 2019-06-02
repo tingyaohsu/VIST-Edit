@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6230553630-6230555210-6230036845-6230558398-6230558644",
+  "photo_sequence_ids": [
+    "6230553630",
+    "6230555210",
+    "6230036845",
+    "6230558398",
+    "6230558644"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were crowded with people . the police officers were called the police . the protesters were peaceful . the crowd was large . the protest was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the streets were crowded with people from all over . the police officers were called to make sure everyone was safe. the protesters were peaceful so the police didn\u0027t have to do much . the crowd was large but remained respectful . the protest was a success and no one got hurt .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people from all over .",
+        "the police officers were called to make sure everyone was safe .",
+        "the protesters were peaceful so the police did n\u0027t have to do much .",
+        "the crowd was large but remained respectful .",
+        "the protest was a success and no one got hurt ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the streets were crowded with people there for a demonstration . the police officers were called for protection . the protesters were peaceful . the crowd was large . the protest was a success .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people there for a demonstration .",
+        "the police officers were called for protection .",
+        "the protesters were peaceful .",
+        "the crowd was large .",
+        "the protest was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the streets were crowded with attendees . police officers were called to the scene . the protesters were peacefully gathered . the crowd was packed . the protest wasn\u0027t a failure .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with attendees .",
+        "police officers were called to the scene .",
+        "the protesters were peacefully gathered .",
+        "the crowd was packed .",
+        "the protest was n\u0027t a failure ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the streets were crowded at the protest today. the police was there to make sure everything remained peaceful, and everything went well. I\u0027d say it was a huge success!",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded at the protest today .",
+        "the police was there to make sure everything remained peaceful , and everything went well .",
+        "i \u0027d say it was a huge success !"
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "During the protest!  So many people came out to support it!  It turned out great, it was peaceful and very uplifting.  There were police there too just in case.",
+      "normalized_edited_story_text_sent": [
+        "during the protest !",
+        "so many people came out to support it !",
+        "it turned out great , it was peaceful and very uplifting .",
+        "there were police there too just in case ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627860827386",
+  "model": "GLAC"
+}

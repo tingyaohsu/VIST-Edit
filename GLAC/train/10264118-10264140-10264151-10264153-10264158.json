@@ -1,0 +1,117 @@
+{
+  "photo_sequence_id": "10264118-10264140-10264151-10264153-10264158",
+  "photo_sequence_ids": [
+    "10264118",
+    "10264140",
+    "10264151",
+    "10264153",
+    "10264158"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the local restaurant . they had a great meal . they had a lot of fun . they had a good time . the night was very memorable .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the family went to the local restaurant . they had a great meal . It had been a while since they had seen each other and had a great time visiting . they had a good time . the night was very memorable .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the local restaurant .",
+        "they had a great meal .",
+        "it had been a while since they had seen each other and had a great time visiting .",
+        "they had a good time .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went to the local restaurant . they had a great meal . they had a lot of fun . They drank local beer.  the night was very memorable .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the local restaurant .",
+        "they had a great meal .",
+        "they had a lot of fun .",
+        "they drank local beer .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "ARM2CBQGJCQ5Z",
+      "edited_story_text": "the other night the family went to the local restaurant . they had a great meal with great food. they had a lot of fun with one another. they had some drinks. the night was very memorable .",
+      "normalized_edited_story_text_sent": [
+        "the other night the family went to the local restaurant .",
+        "they had a great meal with great food .",
+        "they had a lot of fun with one another .",
+        "they had some drinks .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "Our family went to the local restaurant and had a great meal. We had a lot of fun and all had a good time. The night was very memorable.",
+      "normalized_edited_story_text_sent": [
+        "our family went to the local restaurant and had a great meal .",
+        "we had a lot of fun and all had a good time .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the local restaurant . they had a good time . the night was very memorable . the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the local restaurant .",
+        "they had a good time .",
+        "the night was very memorable .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1C5S8FZ0UGYZX",
+      "edited_story_text": "The family went to the local restaurant.  We all had a great meal and a lot of fun . The beer was delicious. The night was very memorable .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the local restaurant .",
+        "we all had a great meal and a lot of fun .",
+        "the beer was delicious .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "Our family went to the local brewery/restaurant . We had a great meal and a lot of fun . We drank the night away and couldn\u0027t remember much . the night was very memorable .",
+      "normalized_edited_story_text_sent": [
+        "our family went to the local brewery/restaurant .",
+        "we had a great meal and a lot of fun .",
+        "we drank the night away and could n\u0027t remember much .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "A1F01FVEPYCPHO",
+      "edited_story_text": "My family went to the local restaurant, and we had a great meal. We had a lot of fun and such a good time .The night was very memorable.",
+      "normalized_edited_story_text_sent": [
+        "my family went to the local restaurant , and we had a great meal .",
+        "we had a lot of fun and such a good time .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the family went to the newly opened local German restaurant . they had a great, authentic meal of sausages and potatoes. they had a lot of fun . they had a good time and plan to return soon. the night was very memorable .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the newly opened local german restaurant .",
+        "they had a great , authentic meal of sausages and potatoes .",
+        "they had a lot of fun .",
+        "they had a good time and plan to return soon .",
+        "the night was very memorable ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Everyone had a good time experimenting with new foods and drinks.Everyone was all smiles.",
+      "normalized_edited_story_text_sent": [
+        "everyone had a good time experimenting with new foods and drinks.everyone was all smiles ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "255769",
+  "model": "GLAC"
+}

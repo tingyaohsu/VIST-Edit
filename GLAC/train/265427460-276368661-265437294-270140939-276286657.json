@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "265427460-276368661-265437294-270140939-276286657",
+  "photo_sequence_ids": [
+    "265427460",
+    "276368661",
+    "265437294",
+    "270140939",
+    "276286657"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . the kids were having a great time . the fire was burning and it was a good idea . the friends were all ready to go out . the girls were happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the family got together for a party . the kids weren\u0027t there. It was an adults only party . the fire was burning and it was a good idea since it was cold outside. the friends were all excited to get together . we roasted hot dogs.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the kids were n\u0027t there .",
+        "it was an adults only party .",
+        "the fire was burning and it was a good idea since it was cold outside .",
+        "the friends were all excited to get together .",
+        "we roasted hot dogs ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "My family and Jack\u0027s family got together for a bonfire party . Our kids were having a great time making smore . the fire was burning and it was a good idea since it kept us warm . Our friends were all ready to go to our party . Our girls were happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "my family and jack \u0027s family got together for a bonfire party .",
+        "our kids were having a great time making smore .",
+        "the fire was burning and it was a good idea since it kept us warm .",
+        "our friends were all ready to go to our party .",
+        "our girls were happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The entire family got together for a party. Every kid was having a great time. The fire was burning  bright and it was hot. All of the friends were ready to go out. Mary and Marie were happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the entire family got together for a party .",
+        "every kid was having a great time .",
+        "the fire was burning bright and it was hot .",
+        "all of the friends were ready to go out .",
+        "[female] and marie were happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the family got together for a party . the kids had a great time . the open grill fire was burning hot and cooking our hot dogs over the fire was a good idea . our friends were all ready to eat . the girls were happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the kids had a great time .",
+        "the open grill fire was burning hot and cooking our hot dogs over the fire was a good idea .",
+        "our friends were all ready to eat .",
+        "the girls were happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a happy get together . the kids were playing . it was a good idea to start a camp fire . all friends were ready for the excursion . the girls were also happy to be present .",
+      "normalized_edited_story_text_sent": [
+        "the family had a happy get together .",
+        "the kids were playing .",
+        "it was a good idea to start a camp fire .",
+        "all friends were ready for the excursion .",
+        "the girls were also happy to be present ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594320730897",
+  "model": "GLAC"
+}

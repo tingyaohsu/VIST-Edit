@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "451560498-451537633-451522124-451502114-451513506",
+  "photo_sequence_ids": [
+    "451560498",
+    "451537633",
+    "451522124",
+    "451502114",
+    "451513506"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/188/451560498_188f1d8d4b_o.jpg",
+    "https://farm1.staticflickr.com/192/451537633_8658d4a8d0_o.jpg",
+    "https://farm1.staticflickr.com/181/451522124_6a46b12c7c_o.jpg",
+    "https://farm1.staticflickr.com/175/451502114_91cf9315ff_o.jpg",
+    "https://farm1.staticflickr.com/217/451513506_15bd13baf0_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great dinner at the house . then we got to eat a lot of food . i had a great time . the food was delicious and the food was delicious . after a long day , it was time to go home .",
+  "edited_stories": [
+    {
+      "worker_id": "A2HHQJVM3JJQ8F",
+      "edited_story_text": "we had a great dinner at the house . the [female] liked her big rib . [male] brought the drink for dinner . the strawberries and cheese were delicious . everyone enjoyed the food .",
+      "normalized_edited_story_text_sent": [
+        "we had a great dinner at the house .",
+        "the [female] liked her big rib .",
+        "[male] brought the drink for dinner .",
+        "the strawberries and cheese were delicious .",
+        "everyone enjoyed the food ."
+      ]
+    },
+    {
+      "worker_id": "A15WCNO32MHBAF",
+      "edited_story_text": "We had a great holiday dinner, with chicken, wine, and lots of other food. I had a great time, and the food was delicious--not to mention dessert! It was a long evening, and I went home very full.",
+      "normalized_edited_story_text_sent": [
+        "we had a great holiday dinner , with chicken , wine , and lots of other food .",
+        "i had a great time , and the food was delicious -- not to mention dessert !",
+        "it was a long evening , and i went home very full ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "we had a great dinner at the house with the family.  we got to eat a lot of food and good drinks. i had a great time and we were acting silly. the desserts were delicious as well . after a long day of eating and drinking, it was time to go home .",
+      "normalized_edited_story_text_sent": [
+        "we had a great dinner at the house with the family .",
+        "we got to eat a lot of food and good drinks .",
+        "i had a great time and we were acting silly .",
+        "the desserts were delicious as well .",
+        "after a long day of eating and drinking , it was time to go home ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great dinner at my friend\u0027s house. the food was delicious. then we talked for a while. after a long day, it was time to go home .",
+      "normalized_edited_story_text_sent": [
+        "we had a great dinner at my friend \u0027s house .",
+        "the food was delicious .",
+        "then we talked for a while .",
+        "after a long day , it was time to go home ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "We had a great dinner at the house and we ate a lot of food. I had a great time. The food was delicious. We went home after the long day.",
+      "normalized_edited_story_text_sent": [
+        "we had a great dinner at the house and we ate a lot of food .",
+        "i had a great time .",
+        "the food was delicious .",
+        "we went home after the long day ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600057236853"
+}

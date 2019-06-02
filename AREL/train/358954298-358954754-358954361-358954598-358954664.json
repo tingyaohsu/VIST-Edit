@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "358954298-358954754-358954361-358954598-358954664",
+  "photo_sequence_ids": [
+    "358954298",
+    "358954754",
+    "358954361",
+    "358954598",
+    "358954664"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/135/358954298_0563a59aeb_o.jpg",
+    "https://farm1.staticflickr.com/153/358954754_0e68785357_o.jpg",
+    "https://farm1.staticflickr.com/132/358954361_8d14aadcca_o.jpg",
+    "https://farm1.staticflickr.com/149/358954598_c0a49f7f1b_o.jpg",
+    "https://farm1.staticflickr.com/125/358954664_03e29e6289_o.jpg"
+  ],
+  "auto_story_text_normalized": "today we went to work . it was a lot of fun . there were a lot of people there . this is a picture of a tower . this is a picture of a bathroom .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "today we went to work and it was a lot of fun . there were a lot of people there and we took a picture of the tower . this is a picture of a bathroom .",
+      "normalized_edited_story_text_sent": [
+        "today we went to work and it was a lot of fun .",
+        "there were a lot of people there and we took a picture of the tower .",
+        "this is a picture of a bathroom ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "Today we went to work, which was a lot of fun. there were a lot of people there. Here is a picture of a tower and the kitchen.",
+      "normalized_edited_story_text_sent": [
+        "today we went to work , which was a lot of fun .",
+        "there were a lot of people there .",
+        "here is a picture of a tower and the kitchen ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "today we went to work . we talked about evacuation procedures, but we still had a lot of fun together.  we took some photos of the building and where it needed work too.",
+      "normalized_edited_story_text_sent": [
+        "today we went to work .",
+        "we talked about evacuation procedures , but we still had a lot of fun together .",
+        "we took some photos of the building and where it needed work too ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "Had a fun time at work today, this is a tower and a bathroom being worked on, a lot of people there today.",
+      "normalized_edited_story_text_sent": [
+        "had a fun time at work today , this is a tower and a bathroom being worked on , a lot of people there today ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "Today we went to work on the tower, there were quite a lot of people.",
+      "normalized_edited_story_text_sent": [
+        "today we went to work on the tower , there were quite a lot of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594482035348"
+}

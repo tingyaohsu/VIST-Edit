@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5660430052-5660430606-5660431014-5659862103-5659862279",
+  "photo_sequence_ids": [
+    "5660430052",
+    "5660430606",
+    "5660431014",
+    "5659862103",
+    "5659862279"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5183/5660430052_c9bd31bb96_o.jpg",
+    "https://farm6.staticflickr.com/5269/5660430606_f4b4e0ecc2_o.jpg",
+    "https://farm6.staticflickr.com/5182/5660431014_10ccaef5a1_o.jpg",
+    "https://farm6.staticflickr.com/5142/5659862103_0f6ca0b7b3_o.jpg",
+    "https://farm6.staticflickr.com/5308/5659862279_5febb03e04_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the race yesterday . i was so excited to be there . the kids were excited for the race . then they went on the road . at the end of the day , everyone was tired .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a race today.  Everyone was excited and the kids were ready to run.  By the end of the day everyone was exhausted.",
+      "normalized_edited_story_text_sent": [
+        "i went to a race today .",
+        "everyone was excited and the kids were ready to run .",
+        "by the end of the day everyone was exhausted ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to the race yesterday . it was cold. i was so excited to be there . the kids were excited for the race . at the end of the day , everyone was tired .",
+      "normalized_edited_story_text_sent": [
+        "i went to the race yesterday .",
+        "it was cold .",
+        "i was so excited to be there .",
+        "the kids were excited for the race .",
+        "at the end of the day , everyone was tired ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "I went to the race yesterday and I was so excited to be there. The kids were excited for the race too. Then they went on to race each other. At the end of the day, everyone was tired.",
+      "normalized_edited_story_text_sent": [
+        "i went to the race yesterday and i was so excited to be there .",
+        "the kids were excited for the race too .",
+        "then they went on to race each other .",
+        "at the end of the day , everyone was tired ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I went to the race yesterday. I was so excited to be there. The kids were excited for the race. EVERYONE GAVE IT THEIR BEST EFFORT. At the end of the day, everyone was tired.",
+      "normalized_edited_story_text_sent": [
+        "i went to the race yesterday .",
+        "i was so excited to be there .",
+        "the kids were excited for the race .",
+        "everyone gave it their best effort .",
+        "at the end of the day , everyone was tired ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the race yesterday at the track as a competition . i was so excited to be there with my friends and family. the kids were excited for the race that day. Later they went on the road to run some more . at the end of the day , everyone was tired from too much running .",
+      "normalized_edited_story_text_sent": [
+        "i went to the race yesterday at the track as a competition .",
+        "i was so excited to be there with my friends and family .",
+        "the kids were excited for the race that day .",
+        "later they went on the road to run some more .",
+        "at the end of the day , everyone was tired from too much running ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626464008683"
+}

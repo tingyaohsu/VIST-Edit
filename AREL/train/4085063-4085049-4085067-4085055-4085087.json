@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4085063-4085049-4085067-4085055-4085087",
+  "photo_sequence_ids": [
+    "4085063",
+    "4085049",
+    "4085067",
+    "4085055",
+    "4085087"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/3/4085063_6cce86dd1d_o.jpg",
+    "https://farm1.staticflickr.com/4/4085049_2fda7bc44b_o.jpg",
+    "https://farm1.staticflickr.com/3/4085067_792498e13b_o.jpg",
+    "https://farm1.staticflickr.com/4/4085055_153fea5d72_o.jpg",
+    "https://farm1.staticflickr.com/4/4085087_d666677cb8_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a lot of fun . some of the vendors had a lot of food . there was a lot of food there . i had a lot of food there . it was a great day for all of them .",
+  "edited_stories": [
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "Some of the vendors had a lot of food, yeah there was a lot of food there. I ate a lot of food there, it was a great day for all of that.",
+      "normalized_edited_story_text_sent": [
+        "some of the vendors had a lot of food , yeah there was a lot of food there .",
+        "i ate a lot of food there , it was a great day for all of that ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "it was a lot of fun . some of the vendors brought  a lot of food . there was a lot of food there . i had a lot of food there . it was a great day for all of them .",
+      "normalized_edited_story_text_sent": [
+        "it was a lot of fun .",
+        "some of the vendors brought a lot of food .",
+        "there was a lot of food there .",
+        "i had a lot of food there .",
+        "it was a great day for all of them ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "It was a lot of fun at the market.  Some of the vendors had a lot of interesting food. I found a bin with a bunch of chickens.  There was a vendor selling food off the street.",
+      "normalized_edited_story_text_sent": [
+        "it was a lot of fun at the market .",
+        "some of the vendors had a lot of interesting food .",
+        "i found a bin with a bunch of chickens .",
+        "there was a vendor selling food off the street ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "We went to the local outdoor market to buy food. There was a variety of things being sold there. We bought dinner and looked around at everything. It was really fun, and the people were very friendly.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local outdoor market to buy food .",
+        "there was a variety of things being sold there .",
+        "we bought dinner and looked around at everything .",
+        "it was really fun , and the people were very friendly ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was a lot of fun . some of the vendors had a lot of food . there was a lot of food there . i had a lot of food there and it was a great day for all of them .",
+      "normalized_edited_story_text_sent": [
+        "it was a lot of fun .",
+        "some of the vendors had a lot of food .",
+        "there was a lot of food there .",
+        "i had a lot of food there and it was a great day for all of them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "102972"
+}

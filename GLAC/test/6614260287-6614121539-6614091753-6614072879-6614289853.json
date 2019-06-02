@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6614260287-6614121539-6614091753-6614072879-6614289853",
+  "photo_sequence_ids": [
+    "6614260287",
+    "6614121539",
+    "6614091753",
+    "6614072879",
+    "6614289853"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the statue was very interesting . the statues were so intricate . the flowers were in bloom . the statues were amazing . the view was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "I got to stand there and look at an interesting statue. It was so intricately carved. Under the snow all the flowers were blooming. You should have seen the amazing statues. And the view, my goodness how spectacular.",
+      "normalized_edited_story_text_sent": [
+        "i got to stand there and look at an interesting statue .",
+        "it was so intricately carved .",
+        "under the snow all the flowers were blooming .",
+        "you should have seen the amazing statues .",
+        "and the view , my goodness how spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the statue was very interesting . they were so detailed.",
+      "normalized_edited_story_text_sent": [
+        "the statue was very interesting .",
+        "they were so detailed ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the statue was inspiring . the other statues were similarly detailed . some statues had flowers in bloom . the best statues were astonishing . the view from the tower was awesome .",
+      "normalized_edited_story_text_sent": [
+        "the statue was inspiring .",
+        "the other statues were similarly detailed .",
+        "some statues had flowers in bloom .",
+        "the best statues were astonishing .",
+        "the view from the tower was awesome ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "It was cold outside. The statues were draped in snow. It was a very pretty view from above.",
+      "normalized_edited_story_text_sent": [
+        "it was cold outside .",
+        "the statues were draped in snow .",
+        "it was a very pretty view from above ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "I got a great view from the top of the building, even though it was covered in snow.  Also go to see some huge statues up close and personal.",
+      "normalized_edited_story_text_sent": [
+        "i got a great view from the top of the building , even though it was covered in snow .",
+        "also go to see some huge statues up close and personal ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628666827543",
+  "model": "GLAC"
+}

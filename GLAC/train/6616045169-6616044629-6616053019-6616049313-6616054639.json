@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6616045169-6616044629-6616053019-6616049313-6616054639",
+  "photo_sequence_ids": [
+    "6616045169",
+    "6616044629",
+    "6616053019",
+    "6616049313",
+    "6616054639"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was vacationing together . they took a picture of the beautiful scenery . they saw some pretty flowers . they also found a nice waterfall . they even got to see a bird .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the brother and sister were vacationing together . the brother took a photo by himself . they drew in the sand at a beach . the boy jumped from the dunes . they stood at the edge of the waves .",
+      "normalized_edited_story_text_sent": [
+        "the brother and sister were vacationing together .",
+        "the brother took a photo by himself .",
+        "they drew in the sand at a beach .",
+        "the boy jumped from the dunes .",
+        "they stood at the edge of the waves ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the family was vacationing together . they took a picture of the beautiful scenery . they saw some pretty flowers . they also found a nice waterfall . they even got to see a bird .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family was vacationing together .",
+        "they took a picture of the beautiful scenery .",
+        "they saw some pretty flowers .",
+        "they also found a nice waterfall .",
+        "they even got to see a bird ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family was vacationing together . they took a picture of the beautiful scenery . they saw some pretty flowers . they also found a nice waterfall . they even got to see a bird .\r\rWe family got time off as a family to go on vacation. We took a lot of pictures of the scenery. We saw a lot of pretty flowers. We also saw a really beautiful waterfall. We even did some bird watching.",
+      "normalized_edited_story_text_sent": [
+        "the family was vacationing together .",
+        "they took a picture of the beautiful scenery .",
+        "they saw some pretty flowers .",
+        "they also found a nice waterfall .",
+        "they even got to see a bird .",
+        "we family got time off as a family to go on vacation .",
+        "we took a lot of pictures of the scenery .",
+        "we saw a lot of pretty flowers .",
+        "we also saw a really beautiful waterfall .",
+        "we even did some bird watching ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was vacationing together . They enjoyed the beautiful scenery. They carved the date in the sand. The kids enjoyed the scenery and water.",
+      "normalized_edited_story_text_sent": [
+        "the family was vacationing together .",
+        "they enjoyed the beautiful scenery .",
+        "they carved the date in the sand .",
+        "the kids enjoyed the scenery and water ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was vacationing together . they took a picture of the beautiful scenery .",
+      "normalized_edited_story_text_sent": [
+        "the family was vacationing together .",
+        "they took a picture of the beautiful scenery ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628671377835",
+  "model": "GLAC"
+}

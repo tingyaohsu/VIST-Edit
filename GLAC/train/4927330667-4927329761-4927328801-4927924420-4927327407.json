@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4927330667-4927329761-4927328801-4927924420-4927327407",
+  "photo_sequence_ids": [
+    "4927330667",
+    "4927329761",
+    "4927328801",
+    "4927924420",
+    "4927327407"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was about to begin . the players were ready for the game . the team was getting ready . the teams were tied up . the crowd was excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the soccer game was about to commence . players were ready and prepared . one team was readying itself to beat the odds . the teams were eventually tied in the score . the crowd was worked up .",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was about to commence .",
+        "players were ready and prepared .",
+        "one team was readying itself to beat the odds .",
+        "the teams were eventually tied in the score .",
+        "the crowd was worked up ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the soccer game was beginning. the players were huddled  for the game . the team was running on the field . the teams were battling each other . the team kicked the ball across the field.",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was beginning .",
+        "the players were huddled for the game .",
+        "the team was running on the field .",
+        "the teams were battling each other .",
+        "the team kicked the ball across the field ."
+      ]
+    },
+    {
+      "worker_id": "ANZR2DCSMD0NX",
+      "edited_story_text": "the baseball game was about to begin and the players were ready. the teams tied up and the crowd was excited .",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was about to begin and the players were ready .",
+        "the teams tied up and the crowd was excited ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "It was an intense game of soccer. The blue team called a time out to plan a final play. Then they both went at it trying to score before the final timer.",
+      "normalized_edited_story_text_sent": [
+        "it was an intense game of soccer .",
+        "the blue team called a time out to plan a final play .",
+        "then they both went at it trying to score before the final timer ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the soccer game was about to begin . the players were ready!  the teams were tied up . the crowd was so excited . it was a great game.",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was about to begin .",
+        "the players were ready !",
+        "the teams were tied up .",
+        "the crowd was so excited .",
+        "it was a great game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624807908194",
+  "model": "GLAC"
+}

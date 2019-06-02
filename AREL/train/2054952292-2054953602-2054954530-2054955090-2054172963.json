@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "2054952292-2054953602-2054954530-2054955090-2054172963",
+  "photo_sequence_ids": [
+    "2054952292",
+    "2054953602",
+    "2054954530",
+    "2054955090",
+    "2054172963"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2076/2054952292_f5967d415d_o.jpg",
+    "https://farm3.staticflickr.com/2262/2054953602_6594b7a93d_o.jpg",
+    "https://farm3.staticflickr.com/2083/2054954530_0f4fae0502_o.jpg",
+    "https://farm3.staticflickr.com/2245/2054955090_9d055b42d3_o.jpg",
+    "https://farm3.staticflickr.com/2289/2054172963_eadaa3b646_o.jpg"
+  ],
+  "auto_story_text_normalized": "the purple flowers were so beautiful . we saw a lot of old buildings . it was a beautiful sight to see . we went to the park to see what was going on . it was very interesting to see .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "We went to the park to see what was going on. We saw a lot of old buildings and the purple flowers were so beautiful! It was a beautiful, very interesting to see .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to see what was going on .",
+        "we saw a lot of old buildings and the purple flowers were so beautiful !",
+        "it was a beautiful , very interesting to see ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the orchids were so beautiful . we saw a lot of old trees . it was a beautiful sight to see . we went to the park to see what was going on . it was very interesting to see .",
+      "normalized_edited_story_text_sent": [
+        "the orchids were so beautiful .",
+        "we saw a lot of old trees .",
+        "it was a beautiful sight to see .",
+        "we went to the park to see what was going on .",
+        "it was very interesting to see ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the purple flowers were so beautiful . the tall trees were a beautiful sight to see . we went to the park to see what was going on . it was very interesting to see .",
+      "normalized_edited_story_text_sent": [
+        "the purple flowers were so beautiful .",
+        "the tall trees were a beautiful sight to see .",
+        "we went to the park to see what was going on .",
+        "it was very interesting to see ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The purple flowers were so beautiful. We saw a lot of old buildings, and it was a beautiful sight. We went to the park to see if there was anything going on, and it was all very interesting.",
+      "normalized_edited_story_text_sent": [
+        "the purple flowers were so beautiful .",
+        "we saw a lot of old buildings , and it was a beautiful sight .",
+        "we went to the park to see if there was anything going on , and it was all very interesting ."
+      ]
+    },
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "The purple flowers were so beautiful. We saw a lot of old buildings. It was a beautiful sight. We went to the park to see what was there. It was very interesting.",
+      "normalized_edited_story_text_sent": [
+        "the purple flowers were so beautiful .",
+        "we saw a lot of old buildings .",
+        "it was a beautiful sight .",
+        "we went to the park to see what was there .",
+        "it was very interesting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603262854032"
+}

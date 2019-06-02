@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "11221958546-11221941546-11221796065-11221974313-11221739274",
+  "photo_sequence_ids": [
+    "11221958546",
+    "11221941546",
+    "11221796065",
+    "11221974313",
+    "11221739274"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5489/11221958546_23b37347c8_o.jpg",
+    "https://farm6.staticflickr.com/5471/11221941546_e18720f1ef_o.jpg",
+    "https://farm6.staticflickr.com/5516/11221796065_9970c530cf_o.jpg",
+    "https://farm6.staticflickr.com/5518/11221974313_353225f376_o.jpg",
+    "https://farm8.staticflickr.com/7370/11221739274_a4165ec598_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the halloween party last week . we had a lot of fun playing games . they were all dressed up . we even had a lot of fun . the whole family was there and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We had a costume party. Some dressed up as pirates. One guy wore balloons. A wall was decorated in peacock feathers. There were lots of good costumes.",
+      "normalized_edited_story_text_sent": [
+        "we had a costume party .",
+        "some dressed up as pirates .",
+        "one guy wore balloons .",
+        "a wall was decorated in peacock feathers .",
+        "there were lots of good costumes ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "we had a great time at the halloween party last week . we had a lot of fun playing games . they were all dressed up . we even had a lot of fun . the whole family was there and had a great time it\u0027s something that we loved",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last week .",
+        "we had a lot of fun playing games .",
+        "they were all dressed up .",
+        "we even had a lot of fun .",
+        "the whole family was there and had a great time it \u0027s something that we loved"
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we had a great time at the halloween party last week . we had a lot of fun playing games . Everyone was dressed up in costuemes  . the whole family was there and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last week .",
+        "we had a lot of fun playing games .",
+        "everyone was dressed up in costuemes .",
+        "the whole family was there and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "We had a great time at the Halloween party last week. We had a lot of fun playing games. Everyone was dressed up in costumes. The whole family was there and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last week .",
+        "we had a lot of fun playing games .",
+        "everyone was dressed up in costumes .",
+        "the whole family was there and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had a great time at the halloween party last week. We had a lot of fun playing games.  They were all dressed up. There were a Jewish guy and a pirate.  The whole family was there and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last week .",
+        "we had a lot of fun playing games .",
+        "they were all dressed up .",
+        "there were a jewish guy and a pirate .",
+        "the whole family was there and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157638379440683"
+}

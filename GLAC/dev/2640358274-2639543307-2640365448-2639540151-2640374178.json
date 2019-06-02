@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2640358274-2639543307-2640365448-2639540151-2640374178",
+  "photo_sequence_ids": [
+    "2640358274",
+    "2639543307",
+    "2640365448",
+    "2639540151",
+    "2640374178"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fireworks were very loud . they were also beautiful . they were all very loud . they were a lot of fun . they were so bright .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the fireworks were very loud as they went off . they were also beautiful in the dark black sky . they were all very loud which was not a surprise . they were a lot of fun to see in the sky . they were so bright especially the blue ones .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were very loud as they went off .",
+        "they were also beautiful in the dark black sky .",
+        "they were all very loud which was not a surprise .",
+        "they were a lot of fun to see in the sky .",
+        "they were so bright especially the blue ones ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we saw fireworks last night.  they were just beautiful.  they were very loud and bright with many colors.  it was a lot of fun seeing them.",
+      "normalized_edited_story_text_sent": [
+        "we saw fireworks last night .",
+        "they were just beautiful .",
+        "they were very loud and bright with many colors .",
+        "it was a lot of fun seeing them ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the fireworks were very loud . they were also beautiful . they were popping everywhere . they were a lot of fun . they were so bright .",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were very loud .",
+        "they were also beautiful .",
+        "they were popping everywhere .",
+        "they were a lot of fun .",
+        "they were so bright ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the fireworks lit up the night sky. they were vibrant and beautiful. i enjoyed every one of them.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks lit up the night sky .",
+        "they were vibrant and beautiful .",
+        "i enjoyed every one of them ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "spent last night watching the fireworks. they were so loud. but they were also beautiful to look at. i had a great time outside looking at them. the brightness was great against the dark sky.",
+      "normalized_edited_story_text_sent": [
+        "spent last night watching the fireworks .",
+        "they were so loud .",
+        "but they were also beautiful to look at .",
+        "i had a great time outside looking at them .",
+        "the brightness was great against the dark sky ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157605997253353",
+  "model": "GLAC"
+}

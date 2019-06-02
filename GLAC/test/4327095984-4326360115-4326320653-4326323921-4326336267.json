@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4327095984-4326360115-4326320653-4326323921-4326336267",
+  "photo_sequence_ids": [
+    "4327095984",
+    "4326360115",
+    "4326320653",
+    "4326323921",
+    "4326336267"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to go on the field trip . they got to see the players play . they had a great time . they played with the kids . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family was excited to go to a ball game . they got to see the players play . they had a great time . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to go to a ball game .",
+        "they got to see the players play .",
+        "they had a great time .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2BNOEYZ3VRW2R",
+      "edited_story_text": "The family was excited to go on this field trip. We got to see the players, and they played with the kids. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to go on this field trip .",
+        "we got to see the players , and they played with the kids .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the whole family wanted to go to the ballpark . they got to see their favorite players . they had a great time at the old ball game . players interacted with the kids . they all had fun .",
+      "normalized_edited_story_text_sent": [
+        "the whole family wanted to go to the ballpark .",
+        "they got to see their favorite players .",
+        "they had a great time at the old ball game .",
+        "players interacted with the kids .",
+        "they all had fun ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "the family was excited to go on the field trip . they got to see the baseball players play a game. then they played with the kids . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to go on the field trip .",
+        "they got to see the baseball players play a game .",
+        "then they played with the kids .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert said the family was excited to go on the field trip . they got to see the players play . they had a great time . they played with the kids . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] said the family was excited to go on the field trip .",
+        "they got to see the players play .",
+        "they had a great time .",
+        "they played with the kids .",
+        "they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623214581689",
+  "model": "GLAC"
+}

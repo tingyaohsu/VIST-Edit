@@ -1,0 +1,63 @@
+{
+  "photo_sequence_id": "141640351-141640454-141640509-141640548-141640600",
+  "photo_sequence_ids": [
+    "141640351",
+    "141640454",
+    "141640509",
+    "141640548",
+    "141640600"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the garden was beautiful . the grounds were very nice . the statues were interesting . the architecture was amazing . the flowers were so vibrant .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "The botanical gardens were beautiful.  Everything is blooming nicely, the architecture was cool.  had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the botanical gardens were beautiful .",
+        "everything is blooming nicely , the architecture was cool .",
+        "had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the garden was beautiful . the grounds were very nice . the statues were interesting . the architecture was unique. the flowers all had vibrant colors.",
+      "normalized_edited_story_text_sent": [
+        "the garden was beautiful .",
+        "the grounds were very nice .",
+        "the statues were interesting .",
+        "the architecture was unique .",
+        "the flowers all had vibrant colors ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the garden was beautiful with vibrant flowers . the grounds were very nice there were interesting  statues and amazing architecture.",
+      "normalized_edited_story_text_sent": [
+        "the garden was beautiful with vibrant flowers .",
+        "the grounds were very nice there were interesting statues and amazing architecture ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the garden was beautiful . the grounds were very nice .",
+      "normalized_edited_story_text_sent": [
+        "the garden was beautiful .",
+        "the grounds were very nice ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the garden was beautiful and the grounds were very nice, full of blooming plants and flowering trees . the architecture was amazing and I had fun taking pictures with the flowers and the landscaping . the flowers were so vibrant and there was a great variety of plants.",
+      "normalized_edited_story_text_sent": [
+        "the garden was beautiful and the grounds were very nice , full of blooming plants and flowering trees .",
+        "the architecture was amazing and i had fun taking pictures with the flowers and the landscaping .",
+        "the flowers were so vibrant and there was a great variety of plants ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594127440513",
+  "model": "GLAC"
+}

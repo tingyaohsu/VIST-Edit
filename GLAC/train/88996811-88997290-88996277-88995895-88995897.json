@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "88996811-88997290-88996277-88995895-88995897",
+  "photo_sequence_ids": [
+    "88996811",
+    "88997290",
+    "88996277",
+    "88995895",
+    "88995897"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the reception was huge . the wedding cake was amazing . the bride and groom were so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the wedding was beautiful . Everyone helped. The cake was huge. There was a chocolate fountain. Everyone enjoyed the wedding.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "everyone helped .",
+        "the cake was huge .",
+        "there was a chocolate fountain .",
+        "everyone enjoyed the wedding ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was wonderful . the bride and groom were on cloud nine . the reception had many people . the wedding cake was astonishing . the bride and groom were elated with everything .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was wonderful .",
+        "the bride and groom were on cloud nine .",
+        "the reception had many people .",
+        "the wedding cake was astonishing .",
+        "the bride and groom were elated with everything ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "lisa and robert were glad the wedding was beautiful . the bride and groom were very happy . the reception was huge . the wedding cake was amazing . the bride and groom were so happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] were glad the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the reception was huge .",
+        "the wedding cake was amazing .",
+        "the bride and groom were so happy ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was beautiful . the whole family was happy.",
+      "normalized_edited_story_text_sent": [
+        "the party was beautiful .",
+        "the whole family was happy ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My family was preparing for our Christmas party. My grandmother and aunt came to help. My niece stood by her giant fruit cake. There was even a chocolate fountain, which Lisa enjoyed very much.",
+      "normalized_edited_story_text_sent": [
+        "my family was preparing for our christmas party .",
+        "my grandmother and aunt came to help .",
+        "my niece stood by her giant fruit cake .",
+        "there was even a chocolate fountain , which [female] enjoyed very much ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594068837512",
+  "model": "GLAC"
+}

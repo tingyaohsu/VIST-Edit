@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5128839-5128817-5128826-5129810-5129603",
+  "photo_sequence_ids": [
+    "5128839",
+    "5128817",
+    "5128826",
+    "5129810",
+    "5129603"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . the place was full of people . everyone was having a great time . the night was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the party was a lot of fun. we had fancy drinks and talked for hours. i\u0027m glad everyone took the time to meet up!",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "we had fancy drinks and talked for hours .",
+        "i \u0027m glad everyone took the time to meet up !"
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . the people were drinking shots . everyone was having a great time . the night was a success .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "the people were drinking shots .",
+        "everyone was having a great time .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family got together for a party . there were a lot of people there drinking. the place was full of people . everyone was having a great time . the night was a success .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "there were a lot of people there drinking .",
+        "the place was full of people .",
+        "everyone was having a great time .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . There were lots of drinks on the table. He took a shot. The man addressed his guests.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were lots of drinks on the table .",
+        "he took a shot .",
+        "the man addressed his guests ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the party was a lot of fun and there were a lot of people there.  There were fancy drinks.  Everyone was having a great time.  The drinks were delicious.  John decided to give a toast.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and there were a lot of people there .",
+        "there were fancy drinks .",
+        "everyone was having a great time .",
+        "the drinks were delicious .",
+        "[male] decided to give a toast ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "129154",
+  "model": "GLAC"
+}

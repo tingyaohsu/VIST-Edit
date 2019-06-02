@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4461263664-4461261974-4460483061-4460485537-4460486325",
+  "photo_sequence_ids": [
+    "4461263664",
+    "4461261974",
+    "4460483061",
+    "4460485537",
+    "4460486325"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be at the party . he was having a great time . the girls were all dressed up . the food was delicious . the dog was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the couple was excited to be at the store . they were having a great time . the girl tried out the furniture. the food was delicious . the dogs were happy when they got home .",
+      "normalized_edited_story_text_sent": [
+        "the couple was excited to be at the store .",
+        "they were having a great time .",
+        "the girl tried out the furniture .",
+        "the food was delicious .",
+        "the dogs were happy when they got home ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was enthusiastically attending the excursion . he was having a great time shopping . the girls were all dressed up for dinner . delicious food was served . even the dog was content .",
+      "normalized_edited_story_text_sent": [
+        "the man was enthusiastically attending the excursion .",
+        "he was having a great time shopping .",
+        "the girls were all dressed up for dinner .",
+        "delicious food was served .",
+        "even the dog was content ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the man was excited to be at the date . he was having a great time . his date was all dressed up . the food was delicious . the dog was happy .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the date .",
+        "he was having a great time .",
+        "his date was all dressed up .",
+        "the food was delicious .",
+        "the dog was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the man was excited to be at the party for his friends . he was having a great time until he got tired. the girls were all dressed up and looked amazing. the food was delicious and the drinks were cold. the dog was happy to have another dog to play with .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the party for his friends .",
+        "he was having a great time until he got tired .",
+        "the girls were all dressed up and looked amazing .",
+        "the food was delicious and the drinks were cold .",
+        "the dog was happy to have another dog to play with ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Jack was excited to be at the work party . Jack was having a great time with his coworkers . the women from his workplace were all dressed up . the Mexican food was delicious . Jack\u0027s dog was happy that he got to play with the boss\u0027 dog.",
+      "normalized_edited_story_text_sent": [
+        "jack was excited to be at the work party .",
+        "jack was having a great time with his coworkers .",
+        "the women from his workplace were all dressed up .",
+        "the mexican food was delicious .",
+        "jack \u0027s dog was happy that he got to play with the boss \u0027 dog ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623562884889",
+  "model": "GLAC"
+}

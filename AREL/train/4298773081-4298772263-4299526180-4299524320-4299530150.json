@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4298773081-4298772263-4299526180-4299524320-4299530150",
+  "photo_sequence_ids": [
+    "4298773081",
+    "4298772263",
+    "4299526180",
+    "4299524320",
+    "4299530150"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4005/4298773081_fae5d71a0e_o.jpg",
+    "https://farm3.staticflickr.com/2786/4298772263_1a7c43dd41_o.jpg",
+    "https://farm5.staticflickr.com/4038/4299526180_93d96ae0c1_o.jpg",
+    "https://farm5.staticflickr.com/4016/4299524320_97d0e88fd4_o.jpg",
+    "https://farm3.staticflickr.com/2734/4299530150_8a550b757c_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the market . there were so many different kinds of foods . there was a lot of food there . we stopped by the market to buy some food . we went to the market to get to the market .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "We went to the market. There were so many different kinds of foods. There were all kinds of baked goods at one stop. There was a horse and carriage giving rides. It was dark by the time we left.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market .",
+        "there were so many different kinds of foods .",
+        "there were all kinds of baked goods at one stop .",
+        "there was a horse and carriage giving rides .",
+        "it was dark by the time we left ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to the market . there were so many different kinds of foods .  we stopped by the market to buy some food  and really enjoyed looking at and buying the food.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market .",
+        "there were so many different kinds of foods .",
+        "we stopped by the market to buy some food and really enjoyed looking at and buying the food ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "we went to the market to go shopping. there were so many different kinds of foods and they all looks so delicious . there was a lot of vegetables and fruits and meats . we stopped by the market to buy some of this wonderful food . we went to see the carriages and sights as well.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to go shopping .",
+        "there were so many different kinds of foods and they all looks so delicious .",
+        "there was a lot of vegetables and fruits and meats .",
+        "we stopped by the market to buy some of this wonderful food .",
+        "we went to see the carriages and sights as well ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "We went to the market. There were so many different kinds of foods. We stopped at the market to get some food.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market .",
+        "there were so many different kinds of foods .",
+        "we stopped at the market to get some food ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we went to the farmer\u0027s market . there were so many different types of foods . there was so much food there . we stopped by the market to buy some food . we went by the market to look at the pretty lights.",
+      "normalized_edited_story_text_sent": [
+        "we went to the farmer \u0027s market .",
+        "there were so many different types of foods .",
+        "there was so much food there .",
+        "we stopped by the market to buy some food .",
+        "we went by the market to look at the pretty lights ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623146557081"
+}

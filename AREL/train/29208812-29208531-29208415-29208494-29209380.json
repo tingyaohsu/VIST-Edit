@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "29208812-29208531-29208415-29208494-29209380",
+  "photo_sequence_ids": [
+    "29208812",
+    "29208531",
+    "29208415",
+    "29208494",
+    "29209380"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/21/29208812_fd422316a2_o.jpg",
+    "https://farm1.staticflickr.com/22/29208531_269931df65_o.jpg",
+    "https://farm1.staticflickr.com/23/29208415_eacb4b7be0_o.jpg",
+    "https://farm1.staticflickr.com/22/29208494_83eefdb73d_o.jpg",
+    "https://farm1.staticflickr.com/22/29209380_f3173e04cd_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a hiking trip . we saw a lot of water . we had a lot of fun exploring the area . this is a picture of rocks . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we went on a hiking trip . we saw a lot of water in the stream . we had a lot of fun exploring the area and looking for wildlife . this is a picture of rocks where [male] pretended to take a dive . we had a great time in the great outdoors .",
+      "normalized_edited_story_text_sent": [
+        "we went on a hiking trip .",
+        "we saw a lot of water in the stream .",
+        "we had a lot of fun exploring the area and looking for wildlife .",
+        "this is a picture of rocks where [male] pretended to take a dive .",
+        "we had a great time in the great outdoors ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "we went on a hiking trip. There was a lot of water. we had a lot of fun exploring the area. We took a picture of the mystic rock. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hiking trip .",
+        "there was a lot of water .",
+        "we had a lot of fun exploring the area .",
+        "we took a picture of the mystic rock .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3JTAQ2N5WWH6I",
+      "edited_story_text": "We had a great time on our hiking trip today.  We stuck close to the water while fulling enjoying ourselves exploring the area.  Here\u0027s a picture of one of the giant rocks we had fun playing on.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time on our hiking trip today .",
+        "we stuck close to the water while fulling enjoying ourselves exploring the area .",
+        "here \u0027s a picture of one of the giant rocks we had fun playing on ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "We went on a hiking trip.  We saw a lot of water.  We had a lot of fun exploring the area.  This is a picture of large rock.  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hiking trip .",
+        "we saw a lot of water .",
+        "we had a lot of fun exploring the area .",
+        "this is a picture of large rock .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we went on a hiking trip. we saw a lot of water. we had a lot of fun exploring the area. this is a picture of us standing on some rocks. we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went on a hiking trip .",
+        "we saw a lot of water .",
+        "we had a lot of fun exploring the area .",
+        "this is a picture of us standing on some rocks .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "657659"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4085063-4085049-4085067-4085055-4085087",
+  "photo_sequence_ids": [
+    "4085063",
+    "4085049",
+    "4085067",
+    "4085055",
+    "4085087"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the town was a busy place to visit . there were many interesting things to see . the vendors were very unique . the food was delicious . the market was full of fresh produce .",
+  "edited_stories": [
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The town\u0027s local market vendors were preparing for a day of work. They set up their carts and loaded them with their food products including produce and chickens. One man even sold meal dishes, ready to eat.",
+      "normalized_edited_story_text_sent": [
+        "the town \u0027s local market vendors were preparing for a day of work .",
+        "they set up their carts and loaded them with their food products including produce and chickens .",
+        "one man even sold meal dishes , ready to eat ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the large town was a busy place to visit and there were many interesting things to see . the vendors were very unique . the food was delicious . the market was full of fresh produce .",
+      "normalized_edited_story_text_sent": [
+        "the large town was a busy place to visit and there were many interesting things to see .",
+        "the vendors were very unique .",
+        "the food was delicious .",
+        "the market was full of fresh produce ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the marketplace was a busy place to visit. there were many interesting things to see . the vendors were very unique with some selling watermelon. the food included poultry . Also, the market was full of fresh produce .",
+      "normalized_edited_story_text_sent": [
+        "the marketplace was a busy place to visit .",
+        "there were many interesting things to see .",
+        "the vendors were very unique with some selling watermelon .",
+        "the food included poultry .",
+        "also , the market was full of fresh produce ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the town was a busy place to visit . the vendors had baskets . the vendors were very unique . the food was delicious . the market was full of fresh produce .",
+      "normalized_edited_story_text_sent": [
+        "the town was a busy place to visit .",
+        "the vendors had baskets .",
+        "the vendors were very unique .",
+        "the food was delicious .",
+        "the market was full of fresh produce ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the town was a busy place to visit . there were many interesting things to see . the vendors were transporting their items . the food was delicious . the market was full of fresh produce .",
+      "normalized_edited_story_text_sent": [
+        "the town was a busy place to visit .",
+        "there were many interesting things to see .",
+        "the vendors were transporting their items .",
+        "the food was delicious .",
+        "the market was full of fresh produce ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "102972",
+  "model": "GLAC"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "154487190-154490291-154495136-154489931-154499084",
+  "photo_sequence_ids": [
+    "154487190",
+    "154490291",
+    "154495136",
+    "154489931",
+    "154499084"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the beach was very calm . the sky was clear and blue . the people were walking along the shore . the man was taking a picture of the sand . the bridge was tall and white .",
+  "edited_stories": [
+    {
+      "worker_id": "A3A2AZLG73ZE1U",
+      "edited_story_text": "Our family went to San Francisco and walked across the Golden Gate Bridge. Mom loved looking out across the water. We took in the amazing view looking across the Bay. We even saw this cute little bird. Eventually we caught the cable car back to town.",
+      "normalized_edited_story_text_sent": [
+        "our family went to san francisco and walked across the golden gate bridge .",
+        "mom loved looking out across the water .",
+        "we took in the amazing view looking across the bay .",
+        "we even saw this cute little bird .",
+        "eventually we caught the cable car back to town ."
+      ]
+    },
+    {
+      "worker_id": "AUUJ47S79N93T",
+      "edited_story_text": "the dock was very calm . the sky was clear and blue . the people were walking along the pier. the man was taking a picture of the sights. the bus ride to get there was very fun .",
+      "normalized_edited_story_text_sent": [
+        "the dock was very calm .",
+        "the sky was clear and blue .",
+        "the people were walking along the pier .",
+        "the man was taking a picture of the sights .",
+        "the bus ride to get there was very fun ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the beach was very calm which was rare for this time of year . the sky was clear and blue as well as bright . the people were walking along the shore with no shoes on . the man was taking a picture of the sand which he did at every beach he went to . the bridge was tall and white because it had just been painted .",
+      "normalized_edited_story_text_sent": [
+        "the beach was very calm which was rare for this time of year .",
+        "the sky was clear and blue as well as bright .",
+        "the people were walking along the shore with no shoes on .",
+        "the man was taking a picture of the sand which he did at every beach he went to .",
+        "the bridge was tall and white because it had just been painted ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the beach was very calm . the sky was clear and cloudless . the people were walking along the shore . the man was taking a picture of the sand dunes . the bridge was tall and gray .",
+      "normalized_edited_story_text_sent": [
+        "the beach was very calm .",
+        "the sky was clear and cloudless .",
+        "the people were walking along the shore .",
+        "the man was taking a picture of the sand dunes .",
+        "the bridge was tall and gray ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "it was a lovely day, with  clear blue skies.  people were along the shore, looking at the calm beach. Davis took photos of the sand.  a tall white bridge was visible.",
+      "normalized_edited_story_text_sent": [
+        "it was a lovely day , with clear blue skies .",
+        "people were along the shore , looking at the calm beach .",
+        "davis took photos of the sand .",
+        "a tall white bridge was visible ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594147086240",
+  "model": "GLAC"
+}

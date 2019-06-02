@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4332006810-4335064615-4335065397-4335814318-4335074029",
+  "photo_sequence_ids": [
+    "4332006810",
+    "4335064615",
+    "4335065397",
+    "4335814318",
+    "4335074029"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the sun was setting . the sky was clear and the clouds were blue . the city was empty . the people were walking around . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The sun was setting and the sky was clear and the clouds were blue, the city was empty, the people were walking around . the food looked delicious .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting and the sky was clear and the clouds were blue , the city was empty , the people were walking around .",
+        "the food looked delicious ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "The sun didn\u0027t want to come out today, but the view was fantastic.  I enjoyed the market a lot.  The produce was great.",
+      "normalized_edited_story_text_sent": [
+        "the sun did n\u0027t want to come out today , but the view was fantastic .",
+        "i enjoyed the market a lot .",
+        "the produce was great ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the sun was setting . the sky was clear . the city was settled . the people were walking around . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting .",
+        "the sky was clear .",
+        "the city was settled .",
+        "the people were walking around .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "On our trip, we saw the mountains and beautiful cityscapes. There was so much to see, from the mural to the farmer\u0027s market.",
+      "normalized_edited_story_text_sent": [
+        "on our trip , we saw the mountains and beautiful cityscapes .",
+        "there was so much to see , from the mural to the farmer \u0027s market ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "it was almost sunset . the sky was with blue tinted clouds  . the city had few people in it . some people walked around . the food was amazing .",
+      "normalized_edited_story_text_sent": [
+        "it was almost sunset .",
+        "the sky was with blue tinted clouds .",
+        "the city had few people in it .",
+        "some people walked around .",
+        "the food was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623375467685",
+  "model": "GLAC"
+}

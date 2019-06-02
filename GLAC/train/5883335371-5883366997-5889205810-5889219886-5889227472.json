@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5883335371-5883366997-5889205810-5889219886-5889227472",
+  "photo_sequence_ids": [
+    "5883335371",
+    "5883366997",
+    "5889205810",
+    "5889219886",
+    "5889227472"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the animals were very friendly . they were all very big . they were also very interesting . they were a lot of fun . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the animals were very friendly to everyone who went to the zoo . they were all very big and scared the kids. they were also very interesting to look at . they were a lot of fun and made funny faces . they were very happy when everyone went home .",
+      "normalized_edited_story_text_sent": [
+        "the animals were very friendly to everyone who went to the zoo .",
+        "they were all very big and scared the kids .",
+        "they were also very interesting to look at .",
+        "they were a lot of fun and made funny faces .",
+        "they were very happy when everyone went home ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the animals were very friendly .There was a Koala. We saw a flamingo and everyone loved the giraffe. There were many animals to see.",
+      "normalized_edited_story_text_sent": [
+        "the animals were very friendly .",
+        "there was a koala .",
+        "we saw a flamingo and everyone loved the giraffe .",
+        "there were many animals to see ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the animals at the zoo were tame . some were very big . others were intriguing . they were fun to witness . the animals were content .",
+      "normalized_edited_story_text_sent": [
+        "the animals at the zoo were tame .",
+        "some were very big .",
+        "others were intriguing .",
+        "they were fun to witness .",
+        "the animals were content ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The animals were very friendly. Some of them were very big. They were also very interesting. They were very happy and a lot of fun to watch.",
+      "normalized_edited_story_text_sent": [
+        "the animals were very friendly .",
+        "some of them were very big .",
+        "they were also very interesting .",
+        "they were very happy and a lot of fun to watch ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the animals were very cute . the flamingo was amusing . the giraffe had his mouth open . the meerkat looked suspicious . the warthog was in a big stone cave.",
+      "normalized_edited_story_text_sent": [
+        "the animals were very cute .",
+        "the flamingo was amusing .",
+        "the giraffe had his mouth open .",
+        "the meerkat looked suspicious .",
+        "the warthog was in a big stone cave ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627074673796",
+  "model": "GLAC"
+}

@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "188516609-188516673-188516850-188516920-188516711",
+  "photo_sequence_ids": [
+    "188516609",
+    "188516673",
+    "188516850",
+    "188516920",
+    "188516711"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/71/188516609_a14cf8dc4d_o.jpg",
+    "https://farm1.staticflickr.com/78/188516673_3ade6f8135_o.jpg",
+    "https://farm1.staticflickr.com/66/188516850_8398f7336f_o.jpg",
+    "https://farm1.staticflickr.com/61/188516920_43e4303466_o.jpg",
+    "https://farm1.staticflickr.com/48/188516711_2201a9cc1d_o.jpg"
+  ],
+  "auto_story_text_normalized": "the cake was ready for the party . everyone was having a great time at the party . we had a lot of fun . [female] and [female] had a great time . i had a lot of fun at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the cake was ready for the party . everyone was having a great time at the party . we had a lot of fun . [female] and [female] had a great time and i had a lot of fun at the party .",
+      "normalized_edited_story_text_sent": [
+        "the cake was ready for the party .",
+        "everyone was having a great time at the party .",
+        "we had a lot of fun .",
+        "[female] and [female] had a great time and i had a lot of fun at the party ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "The cake was ready for the party. Everyone was having a great time at the party. Yes, we had a lot of fun . [Female] and [female] had a great time . I really had a lot of fun at the party.",
+      "normalized_edited_story_text_sent": [
+        "the cake was ready for the party .",
+        "everyone was having a great time at the party .",
+        "yes , we had a lot of fun .",
+        "[female] and [female] had a great time .",
+        "i really had a lot of fun at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "Once the cake was ready for the party, everyone started having a great time. [Ann] and [Liz] had fun together, I had lots of fun at the party too!",
+      "normalized_edited_story_text_sent": [
+        "once the cake was ready for the party , everyone started having a great time .",
+        "[female] and [female] had fun together , i had lots of fun at the party too !"
+      ]
+    },
+    {
+      "worker_id": "A2HHQJVM3JJQ8F",
+      "edited_story_text": "the drinks were ready for the St. Patrick day party . everyone was having a great time at the party . [female] wore her tira . [female] and [female] had a great time . we kissed some Irish .",
+      "normalized_edited_story_text_sent": [
+        "the drinks were ready for the st. patrick day party .",
+        "everyone was having a great time at the party .",
+        "[female] wore her tira .",
+        "[female] and [female] had a great time .",
+        "we kissed some irish ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The beer were chilled in the bathtub and was ready for the party.  Everyone was having a great time at the party. We had a lot of fun. [female] and [female] had a great time. I had a lot of fun at the party.  [Female] had a bit to drink and was kissing everyone.",
+      "normalized_edited_story_text_sent": [
+        "the beer were chilled in the bathtub and was ready for the party .",
+        "everyone was having a great time at the party .",
+        "we had a lot of fun .",
+        "[female] and [female] had a great time .",
+        "i had a lot of fun at the party .",
+        "[female] had a bit to drink and was kissing everyone ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594197494263"
+}

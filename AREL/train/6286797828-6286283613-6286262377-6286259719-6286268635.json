@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6286797828-6286283613-6286262377-6286259719-6286268635",
+  "photo_sequence_ids": [
+    "6286797828",
+    "6286283613",
+    "6286262377",
+    "6286259719",
+    "6286268635"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6101/6286797828_6186f40e71_o.jpg",
+    "https://farm7.staticflickr.com/6219/6286283613_4ecace3f9f_o.jpg",
+    "https://farm7.staticflickr.com/6043/6286262377_c27000d50f_o.jpg",
+    "https://farm7.staticflickr.com/6236/6286259719_80390ba629_o.jpg",
+    "https://farm7.staticflickr.com/6107/6286268635_06351e1a97_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the conference . we had a lot of people there . then he gave a speech to the audience . there were a lot of people there . this is a picture of a group of people .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i had a wonderful time at the conference . we saw a lot of people there . then he gave a speech to the audience . there was a crowd. this is a photo of a group of people .",
+      "normalized_edited_story_text_sent": [
+        "i had a wonderful time at the conference .",
+        "we saw a lot of people there .",
+        "then he gave a speech to the audience .",
+        "there was a crowd .",
+        "this is a photo of a group of people ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The conference was really enjoyable. A lot of people came together. [male] gave a speech to the audience. He was a very good speaker. Everyone who came had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the conference was really enjoyable .",
+        "a lot of people came together .",
+        "[male] gave a speech to the audience .",
+        "he was a very good speaker .",
+        "everyone who came had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the conference. A lot of people came! [Male] gave his speech to the audience, and there were a lot of people there. Here is a picture of the whole group of people.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the conference .",
+        "a lot of people came !",
+        "[male] gave his speech to the audience , and there were a lot of people there .",
+        "here is a picture of the whole group of people ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "i had a awesome time at the meeting . we had a more people there . then he gave a discourse to the audience . there were many people there . this is a photo of a group of people .",
+      "normalized_edited_story_text_sent": [
+        "i had a awesome time at the meeting .",
+        "we had a more people there .",
+        "then he gave a discourse to the audience .",
+        "there were many people there .",
+        "this is a photo of a group of people ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i had a awesome time at the conference . we had many people there . then he gave a speech to the audience . there were many people there . this is a photo of a group of people .",
+      "normalized_edited_story_text_sent": [
+        "i had a awesome time at the conference .",
+        "we had many people there .",
+        "then he gave a speech to the audience .",
+        "there were many people there .",
+        "this is a photo of a group of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627866775475"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "15610160074-15612714863-15610170814-15610154464-16206659906",
+  "photo_sequence_ids": [
+    "15610160074",
+    "15612714863",
+    "15610170814",
+    "15610154464",
+    "16206659906"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7534/15610160074_95b9c4939a_o.jpg",
+    "https://farm8.staticflickr.com/7540/15612714863_bf04c80e53_o.jpg",
+    "https://farm9.staticflickr.com/8565/15610170814_a45daec0e2_o.jpg",
+    "https://farm8.staticflickr.com/7570/15610154464_26bc47c480_o.jpg",
+    "https://farm8.staticflickr.com/7569/16206659906_5cfe82ccd6_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was the day of the big meeting . the speaker gave a speech to the audience . one of the speakers gave a speech . they were very excited to be there . the audience was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "ADAKTHXLJRCI7",
+      "edited_story_text": "It was the day of the big meeting . The first speaker addressed the audience . A second speaker then spoke to the audience. The color guard stood at attention. The audience seemed pleased.",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the big meeting .",
+        "the first speaker addressed the audience .",
+        "a second speaker then spoke to the audience .",
+        "the color guard stood at attention .",
+        "the audience seemed pleased ."
+      ]
+    },
+    {
+      "worker_id": "ADOVF9SBJJK33",
+      "edited_story_text": "it was the day of the big meeting . the two speakers gave a speech to the audience . they were very excited to be there . there were uniformed soldiers watching. the audience was very pleased.",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the big meeting .",
+        "the two speakers gave a speech to the audience .",
+        "they were very excited to be there .",
+        "there were uniformed soldiers watching .",
+        "the audience was very pleased ."
+      ]
+    },
+    {
+      "worker_id": "A3HE75FVA00JSF",
+      "edited_story_text": "It was the day of the big meeting. One of the speakers gave a speech to the audience, who were all very excited to be there. The audience was pleased.",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the big meeting .",
+        "one of the speakers gave a speech to the audience , who were all very excited to be there .",
+        "the audience was pleased ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "It was the day of the big meeting. The first speaker gave a speech to the audience. Followed by other speakers who gave speeches also. Even the color guards were very excited to be there. The audience was very attentive.",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the big meeting .",
+        "the first speaker gave a speech to the audience .",
+        "followed by other speakers who gave speeches also .",
+        "even the color guards were very excited to be there .",
+        "the audience was very attentive ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "it was the day of the big meeting. The speakers gave a speech to the audience. One of the speakers gave a speech and was very inspiring. They were very excited to be there.  The audience was very happy.  The military ceremony at the beginning was very good.",
+      "normalized_edited_story_text_sent": [
+        "it was the day of the big meeting .",
+        "the speakers gave a speech to the audience .",
+        "one of the speakers gave a speech and was very inspiring .",
+        "they were very excited to be there .",
+        "the audience was very happy .",
+        "the military ceremony at the beginning was very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157649780970810"
+}

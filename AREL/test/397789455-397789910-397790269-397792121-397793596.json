@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "397789455-397789910-397790269-397792121-397793596",
+  "photo_sequence_ids": [
+    "397789455",
+    "397789910",
+    "397790269",
+    "397792121",
+    "397793596"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/111/397789455_cfc64af538_o.jpg",
+    "https://farm1.staticflickr.com/155/397789910_c16df2c84b_o.jpg",
+    "https://farm1.staticflickr.com/150/397790269_a96945096c_o.jpg",
+    "https://farm1.staticflickr.com/137/397792121_1ef13ecb5d_o.jpg",
+    "https://farm1.staticflickr.com/174/397793596_92cb5fdcb2_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party . we had a lot of fun playing games . we had a lot of fun at the party . the artwork was amazing . the night ended with a few drinks .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we had a great time at the party . we had a lot of fun playing games . we had a lot of fun at the party . The host showed us some of her artwork . the night ended with a few drinks .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "we had a lot of fun playing games .",
+        "we had a lot of fun at the party .",
+        "the host showed us some of her artwork .",
+        "the night ended with a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We had a great time playing games at the party.  The artwork was fantastic, and the night ended with some delicious drinks.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time playing games at the party .",
+        "the artwork was fantastic , and the night ended with some delicious drinks ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "we had a great time at the party. we had a lot of fun playing games. we all enjoyed sitting around and eating and chatting at the party. there was some amazing artwork hung on the wall. the night ended with a few drinks.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "we had a lot of fun playing games .",
+        "we all enjoyed sitting around and eating and chatting at the party .",
+        "there was some amazing artwork hung on the wall .",
+        "the night ended with a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the party and we had a lot of fun playing games . we had a lot of fun at the party . the artwork was amazing . the night ended with a few drinks .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party and we had a lot of fun playing games .",
+        "we had a lot of fun at the party .",
+        "the artwork was amazing .",
+        "the night ended with a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went to a great party together. We played lots of fun games. Then we all sat down to eat together. I took some photos of the family picture frames. We ended the night with some drinks.",
+      "normalized_edited_story_text_sent": [
+        "we went to a great party together .",
+        "we played lots of fun games .",
+        "then we all sat down to eat together .",
+        "i took some photos of the family picture frames .",
+        "we ended the night with some drinks ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594548530232"
+}

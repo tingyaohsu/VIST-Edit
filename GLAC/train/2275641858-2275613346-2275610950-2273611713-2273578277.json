@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "2275641858-2275613346-2275610950-2273611713-2273578277",
+  "photo_sequence_ids": [
+    "2275641858",
+    "2275613346",
+    "2275610950",
+    "2273611713",
+    "2273578277"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the road was long and winding . the lodge was very tall and peaceful . the trees were covered in snow . the statue was a nice addition to the tree . the lake was calm and clear .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the road was long and winding . the lodge had a long empty hallway. the building widened in certain spots. Towards a small exit, the walls were muddy. the lake was calm and a beautiful blue color .",
+      "normalized_edited_story_text_sent": [
+        "the road was long and winding .",
+        "the lodge had a long empty hallway .",
+        "the building widened in certain spots .",
+        "towards a small exit , the walls were muddy .",
+        "the lake was calm and a beautiful blue color ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "went for a bike ride on a long road with David yesterday.  we stayed in an abandoned old house. everything was empty and peaceful. we loved the tour of nature. the best part was the calm, beautiful blue lake.",
+      "normalized_edited_story_text_sent": [
+        "went for a bike ride on a long road with [male] yesterday .",
+        "we stayed in an abandoned old house .",
+        "everything was empty and peaceful .",
+        "we loved the tour of nature .",
+        "the best part was the calm , beautiful blue lake ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the road was long and winding but we made it to our destination before the sun set . the lodge was very tall and peaceful . the trees on the mountain were covered in snow . the statue was a nice addition to the tree . the lake was calm and clear and we took a dip before pitching our tents .",
+      "normalized_edited_story_text_sent": [
+        "the road was long and winding but we made it to our destination before the sun set .",
+        "the lodge was very tall and peaceful .",
+        "the trees on the mountain were covered in snow .",
+        "the statue was a nice addition to the tree .",
+        "the lake was calm and clear and we took a dip before pitching our tents ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the road was long and winding, we rode our bicycles to the lodge . the lodge was supposed to be very tall and peaceful, but is was not a lodge at all it was an abandoned concrete building . the trees were covered in snow the last time we we here, but we could not see them from this room . the statue was gone and there was no tree, so we explored this tunnel . the lake was calm and clear, the water has a bluish-green color, it was pretty .",
+      "normalized_edited_story_text_sent": [
+        "the road was long and winding , we rode our bicycles to the lodge .",
+        "the lodge was supposed to be very tall and peaceful , but is was not a lodge at all it was an abandoned concrete building .",
+        "the trees were covered in snow the last time we we here , but we could not see them from this room .",
+        "the statue was gone and there was no tree , so we explored this tunnel .",
+        "the lake was calm and clear , the water has a bluish-green color , it was pretty ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the road was long and winding . the lodge was very tall and peaceful . the lake was calm and clear .",
+      "normalized_edited_story_text_sent": [
+        "the road was long and winding .",
+        "the lodge was very tall and peaceful .",
+        "the lake was calm and clear ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603934726675",
+  "model": "GLAC"
+}

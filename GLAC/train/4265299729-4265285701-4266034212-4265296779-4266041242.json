@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4265299729-4265285701-4266034212-4265296779-4266041242",
+  "photo_sequence_ids": [
+    "4265299729",
+    "4265285701",
+    "4266034212",
+    "4265296779",
+    "4266041242"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow covered the roads . the trees were covered in snow . the trees were frozen . the forest was covered with snow . the trees were covered in snow .",
+  "edited_stories": [
+    {
+      "worker_id": "ANZR2DCSMD0NX",
+      "edited_story_text": "the snow covered the roads and the forest . the trees were also frozen .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads and the forest .",
+        "the trees were also frozen ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a layer of snow had fallen on the roads . the trees were also covered . branches of trees were frozen by the low temperature . the forest filled with snow-covered trees . the weight of the snow pressed down on tree branches .",
+      "normalized_edited_story_text_sent": [
+        "a layer of snow had fallen on the roads .",
+        "the trees were also covered .",
+        "branches of trees were frozen by the low temperature .",
+        "the forest filled with snow-covered trees .",
+        "the weight of the snow pressed down on tree branches ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the snow covered the house and groun . the mountains were covered in snow . the trees were frozen . the forest was covered with snow . A bridge in the distance along with the wooed areas was also covered in snow .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the house and groun .",
+        "the mountains were covered in snow .",
+        "the trees were frozen .",
+        "the forest was covered with snow .",
+        "a bridge in the distance along with the wooed areas was also covered in snow ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert said the snow covered the roads . the trees were covered in snow . the trees were frozen . the forest was covered with snow . the trees were covered in snow .",
+      "normalized_edited_story_text_sent": [
+        "[male] said the snow covered the roads .",
+        "the trees were covered in snow .",
+        "the trees were frozen .",
+        "the forest was covered with snow .",
+        "the trees were covered in snow ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the snow covered the roads . the trees were covered in snow . the trees were frozen . the forest was covered with snow . the snow made a slick layer .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "the trees were covered in snow .",
+        "the trees were frozen .",
+        "the forest was covered with snow .",
+        "the snow made a slick layer ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623063255669",
+  "model": "GLAC"
+}

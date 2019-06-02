@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "20452243-20452290-20452551-20452929-20453018",
+  "photo_sequence_ids": [
+    "20452243",
+    "20452290",
+    "20452551",
+    "20452929",
+    "20453018"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . the girls were excited to be there . the friends were having a good time . the guys were happy . the whole group was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family got together for a party . the girls were excited to be there . our friends also were having a good time . the guys were playful . the whole group was there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the girls were excited to be there .",
+        "our friends also were having a good time .",
+        "the guys were playful .",
+        "the whole group was there ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the family got together for a party . the girls and guys were excited to be there . everyone was having a good time. the whole gang was there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the girls and guys were excited to be there .",
+        "everyone was having a good time .",
+        "the whole gang was there ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The family got together for a party. The couple was excited to be there. The friends were having a good time. The guys were happy. The whole group was there.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the couple was excited to be there .",
+        "the friends were having a good time .",
+        "the guys were happy .",
+        "the whole group was there ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family got together for a party. the women were excited to be there . the friends were having a great time . the guys were happy . the whole group was there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the women were excited to be there .",
+        "the friends were having a great time .",
+        "the guys were happy .",
+        "the whole group was there ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the family got together for a party. lisa and her boyfriend john were excited to be there. my friends mary and maria had a good time. my friend robert was acting silly. i was happy that lisa, david and the whole group had showed up.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "[female] and her boyfriend [male] were excited to be there .",
+        "my friends [female] and [female] had a good time .",
+        "my friend [male] was acting silly .",
+        "i was happy that [female] , [male] and the whole group had showed up ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "477308",
+  "model": "GLAC"
+}

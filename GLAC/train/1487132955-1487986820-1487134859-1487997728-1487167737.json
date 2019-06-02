@@ -1,0 +1,61 @@
+{
+  "photo_sequence_id": "1487132955-1487986820-1487134859-1487997728-1487167737",
+  "photo_sequence_ids": [
+    "1487132955",
+    "1487986820",
+    "1487134859",
+    "1487997728",
+    "1487167737"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the stadium was packed . the stands were empty and the fans were excited . the field was full of people . the game was about to begin . the team was ready for the game .",
+  "edited_stories": [
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "the stands were empty during batting practice, then soon after the stadium was packed and the fans were excited . the team was ready, the field was full of people, and the game was about to begin .",
+      "normalized_edited_story_text_sent": [
+        "the stands were empty during batting practice , then soon after the stadium was packed and the fans were excited .",
+        "the team was ready , the field was full of people , and the game was about to begin ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The stadium was packed with fans, and they were excited as there was a marching parade on the field. The teams were ready as the game was about to begin.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed with fans , and they were excited as there was a marching parade on the field .",
+        "the teams were ready as the game was about to begin ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The baseball game was underway complete with a marching band.",
+      "normalized_edited_story_text_sent": [
+        "the baseball game was underway complete with a marching band ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the stadium held a fan appreciation day . the stands weren\u0027t full, but the fans who came were excited . the field was full of people . the game was about to begin . the team was ready for the game .",
+      "normalized_edited_story_text_sent": [
+        "the stadium held a fan appreciation day .",
+        "the stands were n\u0027t full , but the fans who came were excited .",
+        "the field was full of people .",
+        "the game was about to begin .",
+        "the team was ready for the game ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The stadium was packed, the stands were empty and the fans were excited. The field was just full to bursting of people . The team was certainly ready for the game--everyone was.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was packed , the stands were empty and the fans were excited .",
+        "the field was just full to bursting of people .",
+        "the team was certainly ready for the game -- everyone was ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602272641871",
+  "model": "GLAC"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4240870628-4262347589-4240102269-4240111795-4263096440",
+  "photo_sequence_ids": [
+    "4240870628",
+    "4262347589",
+    "4240102269",
+    "4240111795",
+    "4263096440"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was very excited to be on the beach . he was curious about what he was doing . he found a stick and started to get a little tipsy . he was so happy that he could n\u0027t help but he was able to see it . he was finally able to take a picture of the animal .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the dog was very excited to be on the beach with the seal . he was curious about what he was doing when he pulled the camera out . he found a stick and started to get a little tipsy from the beer in his bag . he was so happy that he couldn\u0027t help but he was able to see it which he captured with his camera . he was finally able to take a picture of the animal which was a lifelong dream .",
+      "normalized_edited_story_text_sent": [
+        "the dog was very excited to be on the beach with the seal .",
+        "he was curious about what he was doing when he pulled the camera out .",
+        "he found a stick and started to get a little tipsy from the beer in his bag .",
+        "he was so happy that he could n\u0027t help but he was able to see it which he captured with his camera .",
+        "he was finally able to take a picture of the animal which was a lifelong dream ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "We decided to take a trip to the beach today.  The sea lions were out resting on the beach.  John decided to take pictures of our trip.  We brought the dog who also enjoyed the outing!",
+      "normalized_edited_story_text_sent": [
+        "we decided to take a trip to the beach today .",
+        "the sea lions were out resting on the beach .",
+        "[male] decided to take pictures of our trip .",
+        "we brought the dog who also enjoyed the outing !"
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the dog was very excited to be on the beach. he was curious about the seals off at a distance. he found a stick and we played fetch. he was so happy that he couldn\u0027t contain himself. he was finally able to calm down long enough that I could photograph the seals.",
+      "normalized_edited_story_text_sent": [
+        "the dog was very excited to be on the beach .",
+        "he was curious about the seals off at a distance .",
+        "he found a stick and we played fetch .",
+        "he was so happy that he could n\u0027t contain himself .",
+        "he was finally able to calm down long enough that i could photograph the seals ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the seal at the beach was just chilling and playing with a stick. then it was just lazying around. mary took a lot of pictures at the beach. the dog was very excited to be on the beach . the seals were playing and having fun. Mary had a lot of great moments at the beach",
+      "normalized_edited_story_text_sent": [
+        "the seal at the beach was just chilling and playing with a stick .",
+        "then it was just lazying around .",
+        "[female] took a lot of pictures at the beach .",
+        "the dog was very excited to be on the beach .",
+        "the seals were playing and having fun .",
+        "[female] had a lot of great moments at the beach"
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Being on the beach drove the dog to a high level of excitement. The curious thing was browsing about, eventually stumbling upon a stick before becoming slightly inebriated. He was so thrilled that he couldn\u0027t contain it, but was also fully aware of it. A photograph was taken of a sea creature that was on the beach as a parting memory.",
+      "normalized_edited_story_text_sent": [
+        "being on the beach drove the dog to a high level of excitement .",
+        "the curious thing was browsing about , eventually stumbling upon a stick before becoming slightly inebriated .",
+        "he was so thrilled that he could n\u0027t contain it , but was also fully aware of it .",
+        "a photograph was taken of a sea creature that was on the beach as a parting memory ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623003626359",
+  "model": "GLAC"
+}

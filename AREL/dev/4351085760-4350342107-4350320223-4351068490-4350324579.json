@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4351085760-4350342107-4350320223-4351068490-4350324579",
+  "photo_sequence_ids": [
+    "4351085760",
+    "4350342107",
+    "4350320223",
+    "4351068490",
+    "4350324579"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2677/4351085760_25e9e6f6d0_o.jpg",
+    "https://farm5.staticflickr.com/4024/4350342107_e322c07f35_o.jpg",
+    "https://farm3.staticflickr.com/2725/4350320223_3ddc592e43_o.jpg",
+    "https://farm5.staticflickr.com/4008/4351068490_4a70ecf12e_o.jpg",
+    "https://farm3.staticflickr.com/2681/4350324579_7be0168054_o.jpg"
+  ],
+  "auto_story_text_normalized": "a man takes a picture of a woman . i had a great time . the architecture was beautiful . there was a lot of buildings . i love this place .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i had a great time visiting my friends in the city. i took pictures of all of them. the architecture there is so beautiful. all of the buildings are amazing. i love to visit this place.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time visiting my friends in the city .",
+        "i took pictures of all of them .",
+        "the architecture there is so beautiful .",
+        "all of the buildings are amazing .",
+        "i love to visit this place ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "a man takes a photo of another man . i had a great time . the architecture was very pretty. there were many  buildings . i love this place so much .",
+      "normalized_edited_story_text_sent": [
+        "a man takes a photo of another man .",
+        "i had a great time .",
+        "the architecture was very pretty .",
+        "there were many buildings .",
+        "i love this place so much ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "there was a man in a food court. he is with his son . the architecture was beautiful . there were a lot of buildings . i love this place .",
+      "normalized_edited_story_text_sent": [
+        "there was a man in a food court .",
+        "he is with his son .",
+        "the architecture was beautiful .",
+        "there were a lot of buildings .",
+        "i love this place ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "a man takes a picture of a woman . i had a great time . the architecture was beautiful . there was a lot of buildings and i love this place .",
+      "normalized_edited_story_text_sent": [
+        "a man takes a picture of a woman .",
+        "i had a great time .",
+        "the architecture was beautiful .",
+        "there was a lot of buildings and i love this place ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The men were having a good time touring the city.  The architecture was beautiful.  There was a lot of buildings and many interesting things to see.  I love this place.",
+      "normalized_edited_story_text_sent": [
+        "the men were having a good time touring the city .",
+        "the architecture was beautiful .",
+        "there was a lot of buildings and many interesting things to see .",
+        "i love this place ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623416538636"
+}

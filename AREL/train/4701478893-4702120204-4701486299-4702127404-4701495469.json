@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4701478893-4702120204-4701486299-4702127404-4701495469",
+  "photo_sequence_ids": [
+    "4701478893",
+    "4702120204",
+    "4701486299",
+    "4702127404",
+    "4701495469"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4044/4701478893_f55d6cfe98_o.jpg",
+    "https://farm5.staticflickr.com/4036/4702120204_81d8db9f33_o.jpg",
+    "https://farm2.staticflickr.com/1267/4701486299_83b7efce3d_o.jpg",
+    "https://farm5.staticflickr.com/4037/4702127404_5d2beb4284_o.jpg",
+    "https://farm5.staticflickr.com/4048/4701495469_022b4d0828_o.jpg"
+  ],
+  "auto_story_text_normalized": "the speaker gave a speech at the conference . we all had a lot of fun . they were all very happy to see each other . they were very happy to be there . we all had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the speaker gave a speech at the conference .They  all had a lot of fun . they were all very happy to see each other .",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech at the conference .",
+        "they all had a lot of fun .",
+        "they were all very happy to see each other ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the speaker was there to congratulate the students . we all had a lot of fun . they were all very happy to see each other . they were very happy to be there . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was there to congratulate the students .",
+        "we all had a lot of fun .",
+        "they were all very happy to see each other .",
+        "they were very happy to be there .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the speaker gave a discourse at the conference . we all had a great deal of fun . they were all exceptionally happy to see each other . they were extremely happy to be there . we all had a awesome time .",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a discourse at the conference .",
+        "we all had a great deal of fun .",
+        "they were all exceptionally happy to see each other .",
+        "they were extremely happy to be there .",
+        "we all had a awesome time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the speaker gave a speech at the graduation . we all had a lot of fun . they were all very happy to see each other . they were very happy to graduate . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech at the graduation .",
+        "we all had a lot of fun .",
+        "they were all very happy to see each other .",
+        "they were very happy to graduate .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "The speaker gave a speech at the conference. We all had a lot of fun. The kids were all very happy to see each other and were very happy to be there. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the speaker gave a speech at the conference .",
+        "we all had a lot of fun .",
+        "the kids were all very happy to see each other and were very happy to be there .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624153192795"
+}

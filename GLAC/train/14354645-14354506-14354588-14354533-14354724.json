@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "14354645-14354506-14354588-14354533-14354724",
+  "photo_sequence_ids": [
+    "14354645",
+    "14354506",
+    "14354588",
+    "14354533",
+    "14354724"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . the kids were having a great time . the girls were in the living room . the baby was happy to see his dad . the dog was very excited .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a party . He covered his head with his shirt. Everyone sat around. She fell asleep on the couch.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "he covered his head with his shirt .",
+        "everyone sat around .",
+        "she fell asleep on the couch ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family got together for a party . the kids were having a great time . the girls were in the living room . the baby was happy to see his dad . they enjoyed eachother .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the kids were having a great time .",
+        "the girls were in the living room .",
+        "the baby was happy to see his dad .",
+        "they enjoyed eachother ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family got together for a party.  the girl was in the living room sleeping on the couch, the other people were sleeping on the chair.  the movie is about to start.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the girl was in the living room sleeping on the couch , the other people were sleeping on the chair .",
+        "the movie is about to start ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big family got together for a party and the kids were having a great time . the girls were in the living room . the baby was happy to see his dad . the dog was very excited .",
+      "normalized_edited_story_text_sent": [
+        "the big family got together for a party and the kids were having a great time .",
+        "the girls were in the living room .",
+        "the baby was happy to see his dad .",
+        "the dog was very excited ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the college students got together for a party . Some were sleeping on a chairs. Others were relaxing but awake on chairs. \r One man was happily sitting and smiling in the living room . After the party a woman slept on the couch.",
+      "normalized_edited_story_text_sent": [
+        "the college students got together for a party .",
+        "some were sleeping on a chairs .",
+        "others were relaxing but awake on chairs .",
+        "one man was happily sitting and smiling in the living room .",
+        "after the party a woman slept on the couch ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "347575",
+  "model": "GLAC"
+}

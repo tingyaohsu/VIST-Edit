@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "8349259523-8350328154-8350329404-8350327656-8349263551",
+  "photo_sequence_ids": [
+    "8349259523",
+    "8350328154",
+    "8350329404",
+    "8350327656",
+    "8349263551"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . everyone had a great time . the costumes were very good . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . everyone had a great time . the tree was decorated beautifully. the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone had a great time .",
+        "the tree was decorated beautifully .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . The Christmas tree was lit. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "the christmas tree was lit .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . everyone had a grand time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "everyone had a grand time ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "We has a blast at the party. So many people came. A great time was had by all. Everyone dressed up very pretty. I had such a fantastic time there.",
+      "normalized_edited_story_text_sent": [
+        "we has a blast at the party .",
+        "so many people came .",
+        "a great time was had by all .",
+        "everyone dressed up very pretty .",
+        "i had such a fantastic time there ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the Christmas party was a lot of fun. there were a lot of people there, and everyone had a blast. The weather was surprisingly nice, so we even got outside and watched lisa do some hoop tricks.",
+      "normalized_edited_story_text_sent": [
+        "the christmas party was a lot of fun .",
+        "there were a lot of people there , and everyone had a blast .",
+        "the weather was surprisingly nice , so we even got outside and watched [female] do some hoop tricks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632439821875",
+  "model": "GLAC"
+}

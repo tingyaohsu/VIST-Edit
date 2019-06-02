@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "380018825-380021108-380023278-380024122-380026981",
+  "photo_sequence_ids": [
+    "380018825",
+    "380021108",
+    "380023278",
+    "380024122",
+    "380026981"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/146/380018825_245cadf032_o.jpg",
+    "https://farm1.staticflickr.com/183/380021108_f6fd2a2217_o.jpg",
+    "https://farm1.staticflickr.com/182/380023278_f779e3394c_o.jpg",
+    "https://farm1.staticflickr.com/173/380024122_ca026bd92e_o.jpg",
+    "https://farm1.staticflickr.com/130/380026981_0ee52ca3e4_o.jpg"
+  ],
+  "auto_story_text_normalized": "today we went to a funeral . there was a lot of damage to the building . there were a lot of people there . it was a very important day for all of them . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Today we went to a funeral. There was a lot of damage to the building. There were a lot of people there, and it was a very important day for all of them. I was glad I went.",
+      "normalized_edited_story_text_sent": [
+        "today we went to a funeral .",
+        "there was a lot of damage to the building .",
+        "there were a lot of people there , and it was a very important day for all of them .",
+        "i was glad i went ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "today we went to a funeral . there was a lot of damage to the building . there were a lot of people there and it was a very important day for all of them . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a funeral .",
+        "there was a lot of damage to the building .",
+        "there were a lot of people there and it was a very important day for all of them .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "There was a funeral procession today. There wall was painted red. A lot of higher ranking officers were there. It is very important to take the time to grieve. I got a new pin for my jacket.",
+      "normalized_edited_story_text_sent": [
+        "there was a funeral procession today .",
+        "there wall was painted red .",
+        "a lot of higher ranking officers were there .",
+        "it is very important to take the time to grieve .",
+        "i got a new pin for my jacket ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "today we went to a funeral . It was a service man that died in a horrible accident at a building. there was a lot of damage to the building . there were a lot of people there . it was a very important day for all of them .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a funeral .",
+        "it was a service man that died in a horrible accident at a building .",
+        "there was a lot of damage to the building .",
+        "there were a lot of people there .",
+        "it was a very important day for all of them ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "today we went to a funeral . there was a lot of damage to the old building . there were also a lot of people there . it was a very important day for all of them and i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "today we went to a funeral .",
+        "there was a lot of damage to the old building .",
+        "there were also a lot of people there .",
+        "it was a very important day for all of them and i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594518186150"
+}

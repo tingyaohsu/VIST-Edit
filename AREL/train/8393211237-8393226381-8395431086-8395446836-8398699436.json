@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "8393211237-8393226381-8395431086-8395446836-8398699436",
+  "photo_sequence_ids": [
+    "8393211237",
+    "8393226381",
+    "8395431086",
+    "8395446836",
+    "8398699436"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8510/8393211237_db3cb7336a_o.jpg",
+    "https://farm9.staticflickr.com/8360/8393226381_dea2c10ba2_o.jpg",
+    "https://farm9.staticflickr.com/8514/8395431086_8c20db34af_o.jpg",
+    "https://farm9.staticflickr.com/8373/8395446836_fee0e2cba7_o.jpg",
+    "https://farm9.staticflickr.com/8092/8398699436_62baf0c28d_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the house last night . the living room was very nice . the room was full of people . i had a great time . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the house last night. The living room was very nice. The room was full of people. We ate the food that the lady made. I had a great time. This is a picture of a building where we were at.",
+      "normalized_edited_story_text_sent": [
+        "i went to the house last night .",
+        "the living room was very nice .",
+        "the room was full of people .",
+        "we ate the food that the lady made .",
+        "i had a great time .",
+        "this is a picture of a building where we were at ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I went to the house last night. The living room was very nice. The room was full of people. THERE WAS ALL KINDS OF FOOD. This is a picture of a building.",
+      "normalized_edited_story_text_sent": [
+        "i went to the house last night .",
+        "the living room was very nice .",
+        "the room was full of people .",
+        "there was all kinds of food .",
+        "this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i went to the hotel last night . the living room was very nice . the restaurant was full of people . i had a great time on our vacation, the hotel was nice.",
+      "normalized_edited_story_text_sent": [
+        "i went to the hotel last night .",
+        "the living room was very nice .",
+        "the restaurant was full of people .",
+        "i had a great time on our vacation , the hotel was nice ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to someone\u0027s house last night. The living room was very nice, and it was full of people. I had a great time. Here is a picture of the house.",
+      "normalized_edited_story_text_sent": [
+        "i went to someone \u0027s house last night .",
+        "the living room was very nice , and it was full of people .",
+        "i had a great time .",
+        "here is a picture of the house ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the hotel last night . the living room was very nice . the room was full of people downstairs . i had a great time ultimately relaxing in my room later . this is a picture of the hotel.",
+      "normalized_edited_story_text_sent": [
+        "i went to the hotel last night .",
+        "the living room was very nice .",
+        "the room was full of people downstairs .",
+        "i had a great time ultimately relaxing in my room later .",
+        "this is a picture of the hotel ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632556438915"
+}

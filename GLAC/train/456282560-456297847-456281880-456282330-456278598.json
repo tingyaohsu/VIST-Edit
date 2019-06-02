@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "456282560-456297847-456281880-456282330-456278598",
+  "photo_sequence_ids": [
+    "456282560",
+    "456297847",
+    "456281880",
+    "456282330",
+    "456278598"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was very happy to be outside . she was taking a break . she was getting ready for a ride . she was excited to go skiing . she was so excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we went camping last weekend. we were really happy to be outside. it was nice to take a break while getting ready for the ride. overall, it was a great trip with friends!",
+      "normalized_edited_story_text_sent": [
+        "we went camping last weekend .",
+        "we were really happy to be outside .",
+        "it was nice to take a break while getting ready for the ride .",
+        "overall , it was a great trip with friends !"
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and Robert was glad the lady was very happy to be outside . she was taking a break . she was getting ready for a ride . she was excited to go skiing . she was so excited .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the lady was very happy to be outside .",
+        "she was taking a break .",
+        "she was getting ready for a ride .",
+        "she was excited to go skiing .",
+        "she was so excited ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The friends gathered together for a trip of camping and motorcycle riding.",
+      "normalized_edited_story_text_sent": [
+        "the friends gathered together for a trip of camping and motorcycle riding ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the lady was happy to be outdoors . she was taking a relaxing break from work . she was ready to ride a motorcycle . she was eager to go skiing . life was exciting again .",
+      "normalized_edited_story_text_sent": [
+        "the lady was happy to be outdoors .",
+        "she was taking a relaxing break from work .",
+        "she was ready to ride a motorcycle .",
+        "she was eager to go skiing .",
+        "life was exciting again ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the lady was very happy to be outside and enjoyed the fresh air. she was taking a break from her studying. she was getting ready for a ride with her boyfriend on his bike . she was excited to go skiing but preferred riding the bike . she was so excited that they got to go camping .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be outside and enjoyed the fresh air .",
+        "she was taking a break from her studying .",
+        "she was getting ready for a ride with her boyfriend on his bike .",
+        "she was excited to go skiing but preferred riding the bike .",
+        "she was so excited that they got to go camping ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600068572282",
+  "model": "GLAC"
+}

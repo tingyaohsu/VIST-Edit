@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "106158-106160-106223-106255-106259",
+  "photo_sequence_ids": [
+    "106158",
+    "106160",
+    "106223",
+    "106255",
+    "106259"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was held at a beautiful church . the bride and groom were very happy . the couple was so excited to be married . the bride and groom were very happy . the family was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the wedding was held at a beautiful church which was downtown . the bride and groom were very happy as this was their first marriage . the couple was so excited to be married by their best friend who was a minister . the bride and groom were very happy that everyone dressed up nice . the family was having a great time and started to dance .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a beautiful church which was downtown .",
+        "the bride and groom were very happy as this was their first marriage .",
+        "the couple was so excited to be married by their best friend who was a minister .",
+        "the bride and groom were very happy that everyone dressed up nice .",
+        "the family was having a great time and started to dance ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was held at a beautiful church . the bride and groom were very happy . the couple was so excited to be married . the family was having a great time. the cake was pretty too.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a beautiful church .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the family was having a great time .",
+        "the cake was pretty too ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The bride and groom were all smiles and had a lovely weddings with a large cake for their guests to enjoy.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were all smiles and had a lovely weddings with a large cake for their guests to enjoy ."
+      ]
+    },
+    {
+      "worker_id": "A2PSVYL53CDVJ3",
+      "edited_story_text": "I attended the wedding of two friends. It was held at a beautiful church near my house. First, the girls took photos together, and then the bridesmaids and bride took photos. We cut the cake, which was delicious. The bride and groom looked radiant and we had fun dancing afterwards.",
+      "normalized_edited_story_text_sent": [
+        "i attended the wedding of two friends .",
+        "it was held at a beautiful church near my house .",
+        "first , the girls took photos together , and then the bridesmaids and bride took photos .",
+        "we cut the cake , which was delicious .",
+        "the bride and groom looked radiant and we had fun dancing afterwards ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the wedding was held at a beautiful church . the couple was so excited to be married . he family was having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a beautiful church .",
+        "the couple was so excited to be married .",
+        "he family was having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "214418",
+  "model": "GLAC"
+}

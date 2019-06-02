@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "146743025-146742164-146742685-146742856-146742967",
+  "photo_sequence_ids": [
+    "146743025",
+    "146742164",
+    "146742685",
+    "146742856",
+    "146742967"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/49/146743025_cb29c06229_o.jpg",
+    "https://farm1.staticflickr.com/46/146742164_943aec35ff_o.jpg",
+    "https://farm1.staticflickr.com/44/146742685_19e6ff7d95_o.jpg",
+    "https://farm1.staticflickr.com/45/146742856_c3bd6ba31a_o.jpg",
+    "https://farm1.staticflickr.com/52/146742967_5053359660_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to the beach . we walked along the beach . the ocean was beautiful . we saw a duck swimming in the water . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "My friends and I  took a trip to the beach . we biked to the parking lot and walked along the beach . the ocean was beautiful . we saw a duck swimming in the water and many seas lying on the beach. it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "my friends and i took a trip to the beach .",
+        "we biked to the parking lot and walked along the beach .",
+        "the ocean was beautiful .",
+        "we saw a duck swimming in the water and many seas lying on the beach .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "Yesterday wtook a trip to the beach . we  enjoyed a walk along the beach . the ocean was beautiful and we saw a duck swimming in the water. it was such a great day.",
+      "normalized_edited_story_text_sent": [
+        "yesterday wtook a trip to the beach .",
+        "we enjoyed a walk along the beach .",
+        "the ocean was beautiful and we saw a duck swimming in the water .",
+        "it was such a great day ."
+      ]
+    },
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "we took a trip to the beach . we walked along the beach . the ocean was beautiful . we saw a duck swimming in the water . it was a great day .\r\rWe took a trip to the beach. We walked along; the ocean was beautiful. We saw a duck swimming in the water; it was a great day.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the beach .",
+        "we walked along the beach .",
+        "the ocean was beautiful .",
+        "we saw a duck swimming in the water .",
+        "it was a great day .",
+        "we took a trip to the beach .",
+        "we walked along ; the ocean was beautiful .",
+        "we saw a duck swimming in the water ; it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We took a walk along the beach. the ocean was beautiful and we saw a duck swimming in the water . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "we took a walk along the beach .",
+        "the ocean was beautiful and we saw a duck swimming in the water .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we took a trip to the beach and walked along the beach . the ocean was beautiful . we saw a duck swimming in the water . it was a great day .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the beach and walked along the beach .",
+        "the ocean was beautiful .",
+        "we saw a duck swimming in the water .",
+        "it was a great day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594135262167"
+}

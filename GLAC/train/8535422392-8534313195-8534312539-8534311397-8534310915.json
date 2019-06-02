@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "8535422392-8534313195-8534312539-8534311397-8534310915",
+  "photo_sequence_ids": [
+    "8535422392",
+    "8534313195",
+    "8534312539",
+    "8534311397",
+    "8534310915"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers were ready for the ceremony . the graduates were all excited . the students were very proud . the valedictorian gave a speech . the graduates were happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "The service was very touching.  When the soldier handed John the flag we all cried.  The bagpipe player was also a moment that really brought us all to tears.",
+      "normalized_edited_story_text_sent": [
+        "the service was very touching .",
+        "when the soldier handed [male] the flag we all cried .",
+        "the bagpipe player was also a moment that really brought us all to tears ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the soldiers were prepared for the ceremony . the cadets were excited . the cadets were proud to be graduating . the valedictorian spoke well . the graduates were relieved .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were prepared for the ceremony .",
+        "the cadets were excited .",
+        "the cadets were proud to be graduating .",
+        "the valedictorian spoke well .",
+        "the graduates were relieved ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the soldiers were ready for the ceremony . the graduates were all excited .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for the ceremony .",
+        "the graduates were all excited ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The soldiers were ready for the memorial ceremony. The colors were presented in the chapel while outside bagpipes were playing. The flag of the fallen soldier was ceremoniously folded and presented to a family member.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for the memorial ceremony .",
+        "the colors were presented in the chapel while outside bagpipes were playing .",
+        "the flag of the fallen soldier was ceremoniously folded and presented to a family member ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the soldiers were ready for the ceremony . the graduates were all excited . the students were very proud . the valedictorian gave a speech . the graduates were happy .\r\rThe soldiers were prepped and read to go for the ceremony. All of the graduates were ecstatic. The students were very proud of themselves. The valedictorian gave a memorable speech. The graduates were overwhelmed with joy.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for the ceremony .",
+        "the graduates were all excited .",
+        "the students were very proud .",
+        "the valedictorian gave a speech .",
+        "the graduates were happy .",
+        "the soldiers were prepped and read to go for the ceremony .",
+        "all of the graduates were ecstatic .",
+        "the students were very proud of themselves .",
+        "the valedictorian gave a memorable speech .",
+        "the graduates were overwhelmed with joy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632932199777",
+  "model": "GLAC"
+}

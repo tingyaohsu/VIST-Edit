@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4985766338-4985764894-4985165707-4985765614-4985765844",
+  "photo_sequence_ids": [
+    "4985766338",
+    "4985764894",
+    "4985165707",
+    "4985765614",
+    "4985765844"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4153/4985766338_060f985b1d_o.jpg",
+    "https://farm5.staticflickr.com/4154/4985764894_e90594a123_o.jpg",
+    "https://farm5.staticflickr.com/4145/4985165707_25843f4047_o.jpg",
+    "https://farm5.staticflickr.com/4146/4985765614_3ed17afe9b_o.jpg",
+    "https://farm5.staticflickr.com/4105/4985765844_0c1df2935b_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends gathered for a picnic . the men were ready to get the food ready . people were having a good time . the kids had a great time playing . the girls were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "A group of friends gathered for a picnic and rafting down the river. The men were ready to get the raft ready after they ate.  People were having a good time.  The kids had a great time playing.  It was a good day indeed.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends gathered for a picnic and rafting down the river .",
+        "the men were ready to get the raft ready after they ate .",
+        "people were having a good time .",
+        "the kids had a great time playing .",
+        "it was a good day indeed ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "a group of friends gathered for a picnic. the men got the food ready. people were having a good time. the kids had a great time playing games. everyone was very happy.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends gathered for a picnic .",
+        "the men got the food ready .",
+        "people were having a good time .",
+        "the kids had a great time playing games .",
+        "everyone was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "A nice group of friends got together for a picnic. The guys were very eager to start preparing the food. The people were having an awesome time there. The children had so much fun playing in the water. The girls were super  cheerful.",
+      "normalized_edited_story_text_sent": [
+        "a nice group of friends got together for a picnic .",
+        "the guys were very eager to start preparing the food .",
+        "the people were having an awesome time there .",
+        "the children had so much fun playing in the water .",
+        "the girls were super cheerful ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "Coworkers and friends gathered for a company picnic. Everyone helped get the raft built! Everyone had a great time! Everyone really enjoyed working and playing together.  The boys were so happy they were jumping for joy!",
+      "normalized_edited_story_text_sent": [
+        "coworkers and friends gathered for a company picnic .",
+        "everyone helped get the raft built !",
+        "everyone had a great time !",
+        "everyone really enjoyed working and playing together .",
+        "the boys were so happy they were jumping for joy !"
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "A group of friends gathered for a picnic.  The men built a raft for the children to have a great time playing on.  All the people had a good time.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends gathered for a picnic .",
+        "the men built a raft for the children to have a great time playing on .",
+        "all the people had a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624944950104"
+}

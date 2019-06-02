@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "160919407-160919417-160913430-160913417-160919420",
+  "photo_sequence_ids": [
+    "160919407",
+    "160919417",
+    "160913430",
+    "160913417",
+    "160919420"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was held at a beautiful church . the bride and groom were very happy . the couple was so excited to be married . the bride and groom looked great . the reception was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the wedding was held at a beautiful church . the bride and groom were very happy . the reception was a success . a beautiful day to remember.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a beautiful church .",
+        "the bride and groom were very happy .",
+        "the reception was a success .",
+        "a beautiful day to remember ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the wedding was held at a beautiful church that was located outside the city . the bride and groom were very happy that everyone traveled for the wedding . the couple was so excited to be married in front of their friends . the bride and groom looked great in their outfits . the reception was a success due to no one getting sick .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a beautiful church that was located outside the city .",
+        "the bride and groom were very happy that everyone traveled for the wedding .",
+        "the couple was so excited to be married in front of their friends .",
+        "the bride and groom looked great in their outfits .",
+        "the reception was a success due to no one getting sick ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was held at a beautiful church . the bride and groom were very happy . the couple was so excited to be married . the bride and groom looked great and posed for many picture . the reception was very fun .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a beautiful church .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the bride and groom looked great and posed for many picture .",
+        "the reception was very fun ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the wedding was held at a pretty church . the bride and groom were very excited. the couple was so excited to be married . the bride and groom looked great . the reception was a success .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held at a pretty church .",
+        "the bride and groom were very excited .",
+        "the couple was so excited to be married .",
+        "the bride and groom looked great .",
+        "the reception was a success ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the wedding very traditional, and was held at a beautiful church . the bride and groom were glowing and were very happy . the couple was so excited to be married, and everyone cheered for them as the exited the church . the bride and groom looked great in their couture dress and suit . the reception was a success .",
+      "normalized_edited_story_text_sent": [
+        "the wedding very traditional , and was held at a beautiful church .",
+        "the bride and groom were glowing and were very happy .",
+        "the couple was so excited to be married , and everyone cheered for them as the exited the church .",
+        "the bride and groom looked great in their couture dress and suit .",
+        "the reception was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594156380350",
+  "model": "GLAC"
+}

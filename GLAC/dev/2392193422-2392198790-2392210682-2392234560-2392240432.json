@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "2392193422-2392198790-2392210682-2392234560-2392240432",
+  "photo_sequence_ids": [
+    "2392193422",
+    "2392198790",
+    "2392210682",
+    "2392234560",
+    "2392240432"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the cruise ship was ready to sail . the harbor was a great place . the boat was very nice . the captain was a bit of fun . the boat was so beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the cruise ship was ready to sail . the harbor was a great place for views  . the boat was very big \u0026 nice . the captain was a fun guy . the boat was so beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the cruise ship was ready to sail .",
+        "the harbor was a great place for views .",
+        "the boat was very big \u0026 nice .",
+        "the captain was a fun guy .",
+        "the boat was so beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A27IABVBUZ9X8Z",
+      "edited_story_text": "the cruise ship was ready to sail . the harbor was a great place . the boat was very nice . the captain was fun . the boat was large and beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the cruise ship was ready to sail .",
+        "the harbor was a great place .",
+        "the boat was very nice .",
+        "the captain was fun .",
+        "the boat was large and beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the cruise ship was ready to sail and we were excited. the harbor was a great place to be. the boat was very nice and very big with people playing around. the captain was a bit of fun and entertained us. the boat was so beautiful and made our day.",
+      "normalized_edited_story_text_sent": [
+        "the cruise ship was ready to sail and we were excited .",
+        "the harbor was a great place to be .",
+        "the boat was very nice and very big with people playing around .",
+        "the captain was a bit of fun and entertained us .",
+        "the boat was so beautiful and made our day ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the cruise ship was ready to sail . the harbor was a great place . the boat was very large and had a popular logo on it. the captain was a bit of fun . the boat had people jumping off of it.",
+      "normalized_edited_story_text_sent": [
+        "the cruise ship was ready to sail .",
+        "the harbor was a great place .",
+        "the boat was very large and had a popular logo on it .",
+        "the captain was a bit of fun .",
+        "the boat had people jumping off of it ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the cruise ship was ready to go to sea. the harbor was a fun and good place . the boat was very nice . the captain was a bit of fun . the boat was so beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the cruise ship was ready to go to sea .",
+        "the harbor was a fun and good place .",
+        "the boat was very nice .",
+        "the captain was a bit of fun .",
+        "the boat was so beautiful ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157604409060777",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "569375368-569375868-569377392-569388666-569833985",
+  "photo_sequence_ids": [
+    "569375368",
+    "569375868",
+    "569377392",
+    "569388666",
+    "569833985"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bikers were getting ready for the race . they were off to the start of the race . the forest was beautiful . the trees were green and green . the horses were very close .",
+  "edited_stories": [
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the bikers were getting ready for the long trail ride . they were ready to ride through the woods . the forest was beautiful . the trees were tall and green . after the ride, they all rested in the grass .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for the long trail ride .",
+        "they were ready to ride through the woods .",
+        "the forest was beautiful .",
+        "the trees were tall and green .",
+        "after the ride , they all rested in the grass ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bikers were getting ready for the race to start  . they were off to the start of the race and crossed the bridge fast . the forest was beautiful and was a great place for the race . the trees were green and brown with some orange mixed in. the horses were very close to the bikers as they raced .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for the race to start .",
+        "they were off to the start of the race and crossed the bridge fast .",
+        "the forest was beautiful and was a great place for the race .",
+        "the trees were green and brown with some orange mixed in .",
+        "the horses were very close to the bikers as they raced ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the bikers were getting ready for the big race in the woods . they were off to the start of the race . the forest was beautiful . the trees were tons of vegetation . the horses were very close .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for the big race in the woods .",
+        "they were off to the start of the race .",
+        "the forest was beautiful .",
+        "the trees were tons of vegetation .",
+        "the horses were very close ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bikers were getting ready for the race . it was a very scenic race. full of beautiful trees",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for the race .",
+        "it was a very scenic race .",
+        "full of beautiful trees"
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the bikers were getting ready for the race . they were off on the race . the forest trail was beautiful . the trees were green and leafy . the horses were very close .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were getting ready for the race .",
+        "they were off on the race .",
+        "the forest trail was beautiful .",
+        "the trees were green and leafy .",
+        "the horses were very close ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600452998161",
+  "model": "GLAC"
+}

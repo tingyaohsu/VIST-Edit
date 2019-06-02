@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "6810316277-6810315695-6810317169-6810318425-6810319587",
+  "photo_sequence_ids": [
+    "6810316277",
+    "6810315695",
+    "6810317169",
+    "6810318425",
+    "6810319587"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization organization is a great place to visit . the restaurant is a big place for people . the room is filled with people . the food is delicious . the main course is the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "this restaurant is a great place to visit . the restaurant is a big place for people to come hang out . the room is filled with people that are hungry . the food is delicious and is made quickly . the main course is the best of all the courses .",
+      "normalized_edited_story_text_sent": [
+        "this restaurant is a great place to visit .",
+        "the restaurant is a big place for people to come hang out .",
+        "the room is filled with people that are hungry .",
+        "the food is delicious and is made quickly .",
+        "the main course is the best of all the courses ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the restaurant was a great place to visit . the restaurant is big enough to seat many people . the tables were filled up . the food tastes good . the main courses are fine .",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was a great place to visit .",
+        "the restaurant is big enough to seat many people .",
+        "the tables were filled up .",
+        "the food tastes good .",
+        "the main courses are fine ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the organization is a great place to visit. the restaurant is a big place that can hold many people. the food is delicious. the main course is the best.",
+      "normalized_edited_story_text_sent": [
+        "the organization is a great place to visit .",
+        "the restaurant is a big place that can hold many people .",
+        "the food is delicious .",
+        "the main course is the best ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the organization is a great place to visit . the restaurant is a big place for people . it was very crowded.  the food is delicious . the main course is the best .",
+      "normalized_edited_story_text_sent": [
+        "the organization is a great place to visit .",
+        "the restaurant is a big place for people .",
+        "it was very crowded .",
+        "the food is delicious .",
+        "the main course is the best ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the organization organization organization is a great place to visit . the restaurant is a big place for people . the room is filled with people . the food is delicious . the main course is the best .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the organization organization organization is a great place to visit .",
+        "the restaurant is a big place for people .",
+        "the room is filled with people .",
+        "the food is delicious .",
+        "the main course is the best ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629152279849",
+  "model": "GLAC"
+}

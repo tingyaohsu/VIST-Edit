@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4407447206-4407447408-4407447586-4406681433-4407448074",
+  "photo_sequence_ids": [
+    "4407447206",
+    "4407447408",
+    "4407447586",
+    "4406681433",
+    "4407448074"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4048/4407447206_7966ac669e_o.jpg",
+    "https://farm5.staticflickr.com/4061/4407447408_4d1df89d67_o.jpg",
+    "https://farm3.staticflickr.com/2726/4407447586_b1441ea604_o.jpg",
+    "https://farm3.staticflickr.com/2746/4406681433_c26f49ba22_o.jpg",
+    "https://farm5.staticflickr.com/4001/4407448074_15da5a0897_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a truck . this is a picture of a car . this is a picture of a car . this is a picture of a truck . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this was a picture of a truck . this was a picture of a car . this was a picture of a car . this was a picture of a truck . i have a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a truck .",
+        "this was a picture of a car .",
+        "this was a picture of a car .",
+        "this was a picture of a truck .",
+        "i have a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a truck then this is a picture of a car and this is a picture of a truck . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a truck then this is a picture of a car and this is a picture of a truck .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "this is a picture of a game . this is a picture of a spaceship . this is a picture of a robot . this is a picture of a spaceship . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a game .",
+        "this is a picture of a spaceship .",
+        "this is a picture of a robot .",
+        "this is a picture of a spaceship .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "There are some toy robots that are able to change shapes between a car, truck and airplane.",
+      "normalized_edited_story_text_sent": [
+        "there are some toy robots that are able to change shapes between a car , truck and airplane ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a truck . this is a picture of a car . this is a picture of a car . this is a picture of a truck and i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a truck .",
+        "this is a picture of a car .",
+        "this is a picture of a car .",
+        "this is a picture of a truck and i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623555688218"
+}

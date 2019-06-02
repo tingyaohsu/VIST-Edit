@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "18438601733-18873125569-18438604473-18871585700-18871582520",
+  "photo_sequence_ids": [
+    "18438601733",
+    "18873125569",
+    "18438604473",
+    "18871585700",
+    "18871582520"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the runners were very excited to be in the race . the crowd was anxious for the race . the bikers were off and running . the race began and the people were neck and neck . the race was over and the winner was crowned .",
+  "edited_stories": [
+    {
+      "worker_id": "A1MKCTVKE7J0ZP",
+      "edited_story_text": "The runners were very excited to be in the race. The crowd was anxious for the race. Some people participated with prosthetic aids. The race began and the people were neck and neck. The race was over and the winner was thrilled.",
+      "normalized_edited_story_text_sent": [
+        "the runners were very excited to be in the race .",
+        "the crowd was anxious for the race .",
+        "some people participated with prosthetic aids .",
+        "the race began and the people were neck and neck .",
+        "the race was over and the winner was thrilled ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the runners were very excited to be in the race . the crowd was very anxious for the race . the bikers were off and running . the race began and the people were neck and neck .",
+      "normalized_edited_story_text_sent": [
+        "the runners were very excited to be in the race .",
+        "the crowd was very anxious for the race .",
+        "the bikers were off and running .",
+        "the race began and the people were neck and neck ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the runners were very excited to be in the race . the crowd was anxious for the race . the bikers were off and running . the race began and the people were working hard . the race was over and the winner was crowned .",
+      "normalized_edited_story_text_sent": [
+        "the runners were very excited to be in the race .",
+        "the crowd was anxious for the race .",
+        "the bikers were off and running .",
+        "the race began and the people were working hard .",
+        "the race was over and the winner was crowned ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the runners were very excited to be in the race .",
+      "normalized_edited_story_text_sent": [
+        "the runners were very excited to be in the race ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The marathon was in full swing in the streets.",
+      "normalized_edited_story_text_sent": [
+        "the marathon was in full swing in the streets ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157654923602631",
+  "model": "GLAC"
+}

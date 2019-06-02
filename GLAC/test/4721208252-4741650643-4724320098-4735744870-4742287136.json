@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4721208252-4741650643-4724320098-4735744870-4742287136",
+  "photo_sequence_ids": [
+    "4721208252",
+    "4741650643",
+    "4724320098",
+    "4735744870",
+    "4742287136"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bird was in the water . the birds were looking for food . the bird was eating . the bird was eating . the duck was watching the fish .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David saw that the bird was in the water . the birds were looking for food . the bird was eating . the bird was eating . the duck was watching the fish .",
+      "normalized_edited_story_text_sent": [
+        "[male] saw that the bird was in the water .",
+        "the birds were looking for food .",
+        "the bird was eating .",
+        "the bird was eating .",
+        "the duck was watching the fish ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "I took several pictures of birds and a duck.  One bird was in the water.  The birds were looking for food.  I got a picture of a bird eating a worm.  The duck was watching the fish.",
+      "normalized_edited_story_text_sent": [
+        "i took several pictures of birds and a duck .",
+        "one bird was in the water .",
+        "the birds were looking for food .",
+        "i got a picture of a bird eating a worm .",
+        "the duck was watching the fish ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The bird is on the branch. The bird soars in the clear sky. A small bird has a worm in its mouth. The duck is in the water.",
+      "normalized_edited_story_text_sent": [
+        "the bird is on the branch .",
+        "the bird soars in the clear sky .",
+        "a small bird has a worm in its mouth .",
+        "the duck is in the water ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bird was floating in water . birds of prey hunted . one bird was eating a worm . another bird was hungering to eat . the duck was intently looking for fish .",
+      "normalized_edited_story_text_sent": [
+        "the bird was floating in water .",
+        "birds of prey hunted .",
+        "one bird was eating a worm .",
+        "another bird was hungering to eat .",
+        "the duck was intently looking for fish ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the bird was in the water .some birds were looking for food . some birds were eating . one had a fat worm . the duck was watching the fish .",
+      "normalized_edited_story_text_sent": [
+        "the bird was in the water .",
+        "some birds were looking for food .",
+        "some birds were eating .",
+        "one had a fat worm .",
+        "the duck was watching the fish ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624199731521",
+  "model": "GLAC"
+}

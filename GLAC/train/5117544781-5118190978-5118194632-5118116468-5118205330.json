@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5117544781-5118190978-5118194632-5118116468-5118205330",
+  "photo_sequence_ids": [
+    "5117544781",
+    "5118190978",
+    "5118194632",
+    "5118116468",
+    "5118205330"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be at the party . they had a lot of fun playing games . they played with the toys . they also got to play a game . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the kids were excited to be at the party . they had a lot of fun playing games . they all dressed in costumes . they also got to play a game . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they had a lot of fun playing games .",
+        "they all dressed in costumes .",
+        "they also got to play a game .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "APILOZNIFB92X",
+      "edited_story_text": "the kids were so excited to be at the party . they had a lot of fun playing many halloween games . they played with the toys and they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were so excited to be at the party .",
+        "they had a lot of fun playing many halloween games .",
+        "they played with the toys and they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the kids were excited to be at the party . they had a lot of fun playing games . they played with the toys . they also got to play a game . they had a great time .\r\rMy kids were so excited to be at the party. They had so much fun playing games. They played with all the toys. There was also a fun game to play. They had such a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they had a lot of fun playing games .",
+        "they played with the toys .",
+        "they also got to play a game .",
+        "they had a great time .",
+        "my kids were so excited to be at the party .",
+        "they had so much fun playing games .",
+        "they played with all the toys .",
+        "there was also a fun game to play .",
+        "they had such a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the kids were excited to be at the party for Halloween . they had a lot of fun playing games and talking to each other . they played with the toys and played with each other. they also got to play a game of hide and seek . they had a great time during that day .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party for halloween .",
+        "they had a lot of fun playing games and talking to each other .",
+        "they played with the toys and played with each other .",
+        "they also got to play a game of hide and seek .",
+        "they had a great time during that day ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to be at the party .They were in costumes. There were great Halloween decorations. He was a pumpkin.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they were in costumes .",
+        "there were great halloween decorations .",
+        "he was a pumpkin ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625129431759",
+  "model": "GLAC"
+}

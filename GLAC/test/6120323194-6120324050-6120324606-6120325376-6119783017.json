@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "6120323194-6120324050-6120324606-6120325376-6119783017",
+  "photo_sequence_ids": [
+    "6120323194",
+    "6120324050",
+    "6120324606",
+    "6120325376",
+    "6119783017"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the party . the children were excited . the kids were having a great time . the boys were happy . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the kids were ready for the first day of school . the children were excited . the kids were having a great time . the boy and girl were happy . they waved goodbye .",
+      "normalized_edited_story_text_sent": [
+        "the kids were ready for the first day of school .",
+        "the children were excited .",
+        "the kids were having a great time .",
+        "the boy and girl were happy .",
+        "they waved goodbye ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was ready for chool . the children were excited .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for chool .",
+        "the children were excited ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the family was ready for the first day of school party . the children were excited and ready waiting for the bus with their backpacks. the kids were laughing and having a great time . the boy and girl  were happy . the whole family was there to see them off.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the first day of school party .",
+        "the children were excited and ready waiting for the bus with their backpacks .",
+        "the kids were laughing and having a great time .",
+        "the boy and girl were happy .",
+        "the whole family was there to see them off ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "it was the end of the summer and the children were getting ready for their first day of school. The parents made the twins line up outside so they could get some photos",
+      "normalized_edited_story_text_sent": [
+        "it was the end of the summer and the children were getting ready for their first day of school .",
+        "the parents made the twins line up outside so they could get some photos"
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family was ready for the party . the children were excited . the kids were having a great time . the boys were happy . the whole family was there .\r\rMy kids were ready for the party. My kids were so happy to go! They were having such a fun time. I remember the boys were in such a good mood. The entire family showed up.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the party .",
+        "the children were excited .",
+        "the kids were having a great time .",
+        "the boys were happy .",
+        "the whole family was there .",
+        "my kids were ready for the party .",
+        "my kids were so happy to go !",
+        "they were having such a fun time .",
+        "i remember the boys were in such a good mood .",
+        "the entire family showed up ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627483112861",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2065825004-2052702362-2065028731-2076097626-2050132256",
+  "photo_sequence_ids": [
+    "2065825004",
+    "2052702362",
+    "2065028731",
+    "2076097626",
+    "2050132256"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the city . there was a lot of cool things . the streets were very busy . the shops were so nice . the streets were crowded .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the city . there was a lot of cool things . the streets were very busy . the shops were active.",
+      "normalized_edited_story_text_sent": [
+        "we went to the city .",
+        "there was a lot of cool things .",
+        "the streets were very busy .",
+        "the shops were active ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the city to see the band . there was a lot of cool things to see on the way . the streets were very busy due to it being the weekend . the shops were so nice we had to stop and look . the streets were crowded as people were going to the concert also .",
+      "normalized_edited_story_text_sent": [
+        "we went to the city to see the band .",
+        "there was a lot of cool things to see on the way .",
+        "the streets were very busy due to it being the weekend .",
+        "the shops were so nice we had to stop and look .",
+        "the streets were crowded as people were going to the concert also ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "we went to the city where there were a lot of cool things. the streets were very busy and the shops were so nice. the streets were crowded.",
+      "normalized_edited_story_text_sent": [
+        "we went to the city where there were a lot of cool things .",
+        "the streets were very busy and the shops were so nice .",
+        "the streets were crowded ."
+      ]
+    },
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "There are so many strange contraptions hanging from the sky in the city. This is a cool old advertisement for the Toshiba battery. There are all kinds of buildings in this city. This market had all kinds of plants to choose from. There are stores open for your shopping pleasures.",
+      "normalized_edited_story_text_sent": [
+        "there are so many strange contraptions hanging from the sky in the city .",
+        "this is a cool old advertisement for the toshiba battery .",
+        "there are all kinds of buildings in this city .",
+        "this market had all kinds of plants to choose from .",
+        "there are stores open for your shopping pleasures ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we spent the afternoon in the city. it was interesting to see new things. the buildings and streets were unique. some of the shops were a bit odder than i was used. but the people were friendly and we had a lot of fun experiences.",
+      "normalized_edited_story_text_sent": [
+        "we spent the afternoon in the city .",
+        "it was interesting to see new things .",
+        "the buildings and streets were unique .",
+        "some of the shops were a bit odder than i was used .",
+        "but the people were friendly and we had a lot of fun experiences ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603248353977",
+  "model": "GLAC"
+}

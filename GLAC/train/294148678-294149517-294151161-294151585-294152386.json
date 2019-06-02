@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "294148678-294149517-294151161-294151585-294152386",
+  "photo_sequence_ids": [
+    "294148678",
+    "294149517",
+    "294151161",
+    "294151585",
+    "294152386"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was having a great time . the tree was covered in snow . the bird was very happy . the little girl was watching the play . the dog was also interested .",
+  "edited_stories": [
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The baby I was with was having a great time. The tree I saw was covered in snow. The bird was very happy and interested. The little girl I was with was watching the play.",
+      "normalized_edited_story_text_sent": [
+        "the baby i was with was having a great time .",
+        "the tree i saw was covered in snow .",
+        "the bird was very happy and interested .",
+        "the little girl i was with was watching the play ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the baby was having a great time . the tree was covered in snow . the bird was very happy . the little girl was watching the play . the play was very good .",
+      "normalized_edited_story_text_sent": [
+        "the baby was having a great time .",
+        "the tree was covered in snow .",
+        "the bird was very happy .",
+        "the little girl was watching the play .",
+        "the play was very good ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the baby was having a fun time . the tree was covered in cold snow . the bird was very happy . the little girl was watching the play . the dog was also interested .",
+      "normalized_edited_story_text_sent": [
+        "the baby was having a fun time .",
+        "the tree was covered in cold snow .",
+        "the bird was very happy .",
+        "the little girl was watching the play .",
+        "the dog was also interested ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "John was having a great time. The entire tree was covered in snow. The bird outside was very happy.  Maria was watching the play intently. The dog was also interested in the bird.",
+      "normalized_edited_story_text_sent": [
+        "[male] was having a great time .",
+        "the entire tree was covered in snow .",
+        "the bird outside was very happy .",
+        "[female] was watching the play intently .",
+        "the dog was also interested in the bird ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the baby was having a great time . the tree was covered in leaves . the bird was chirping happily . the little girl was watching the play . the dog was also interested .",
+      "normalized_edited_story_text_sent": [
+        "the baby was having a great time .",
+        "the tree was covered in leaves .",
+        "the bird was chirping happily .",
+        "the little girl was watching the play .",
+        "the dog was also interested ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594369842318",
+  "model": "GLAC"
+}

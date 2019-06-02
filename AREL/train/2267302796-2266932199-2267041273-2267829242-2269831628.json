@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "2267302796-2266932199-2267041273-2267829242-2269831628",
+  "photo_sequence_ids": [
+    "2267302796",
+    "2266932199",
+    "2267041273",
+    "2267829242",
+    "2269831628"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2287/2267302796_c53b367aa5_o.jpg",
+    "https://farm3.staticflickr.com/2274/2266932199_def371a964_o.jpg",
+    "https://farm3.staticflickr.com/2247/2267041273_c69b72102f_o.jpg",
+    "https://farm3.staticflickr.com/2049/2267829242_bfe0d660b7_o.jpg",
+    "https://farm3.staticflickr.com/2132/2269831628_e13e480491_o.jpg"
+  ],
+  "auto_story_text_normalized": "[female] had a great day at the store . [male] was very happy to be there . she was very happy to be there . she had a great time . after that , we all got together and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1PBRKFHSF1OF8",
+      "edited_story_text": "[female] had a great day at school . [male] was very happy to be there . she was very happy to be there and had a great time . after that , we all got together and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] had a great day at school .",
+        "[male] was very happy to be there .",
+        "she was very happy to be there and had a great time .",
+        "after that , we all got together and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "[female] brought a stuffed animal to school. [female] was very excited to bring her teddy bear. [male] brought a small bear toy and kissed it. [female] held her favorite pink kangaroo toy. Even the teacher brought a teddy bear! She brought her bear to the salon after school.",
+      "normalized_edited_story_text_sent": [
+        "[female] brought a stuffed animal to school .",
+        "[female] was very excited to bring her teddy bear .",
+        "[male] brought a small bear toy and kissed it .",
+        "[female] held her favorite pink kangaroo toy .",
+        "even the teacher brought a teddy bear !",
+        "she brought her bear to the salon after school ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "[female] had a great day at the store . She was able to bring her favorite teddy bear with her. [male] was very happy to join them. They had a great time together. After that, [female] gave the bear to auntie, who posed for a picture with it.",
+      "normalized_edited_story_text_sent": [
+        "[female] had a great day at the store .",
+        "she was able to bring her favorite teddy bear with her .",
+        "[male] was very happy to join them .",
+        "they had a great time together .",
+        "after that , [female] gave the bear to auntie , who posed for a picture with it ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "[female] had a great day at school today. [male] was very happy to get to play games with her. they both had a great time together.",
+      "normalized_edited_story_text_sent": [
+        "[female] had a great day at school today .",
+        "[male] was very happy to get to play games with her .",
+        "they both had a great time together ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "[female] had a great day at the store . [male] was very happy to be there . she was very happy to be there . she had a great time and after that , we all got together and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] had a great day at the store .",
+        "[male] was very happy to be there .",
+        "she was very happy to be there .",
+        "she had a great time and after that , we all got together and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603916697455"
+}

@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4266231894-4266236932-4265493827-4266248180-4266261926",
+  "photo_sequence_ids": [
+    "4266231894",
+    "4266236932",
+    "4265493827",
+    "4266248180",
+    "4266261926"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the lady was singing . the crowd was dancing . the man was singing . the people were having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the band was playing music . the people were posing with costume characters . the crowd was dancing . the man was singing . the people were having a good time .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the people were posing with costume characters .",
+        "the crowd was dancing .",
+        "the man was singing .",
+        "the people were having a good time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There was an Adidas van out front. They posed with Storm Troopers. There were many Storm Troopers. Darth Vader was also there.",
+      "normalized_edited_story_text_sent": [
+        "there was an adidas van out front .",
+        "they posed with storm troopers .",
+        "there were many storm troopers .",
+        "darth vader was also there ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "We saw a band dressed up as Star Wars characters. Lisa and Robert were great singers, and the crowd had a great time dancing.",
+      "normalized_edited_story_text_sent": [
+        "we saw a band dressed up as star wars characters .",
+        "[female] and [male] were great singers , and the crowd had a great time dancing ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "There was a band playing music. A woman was singing lead. Everyone was dancing. Then a man started singing. Every single person was having a good time.",
+      "normalized_edited_story_text_sent": [
+        "there was a band playing music .",
+        "a woman was singing lead .",
+        "everyone was dancing .",
+        "then a man started singing .",
+        "every single person was having a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the band was playing festive music and the lady was singing . the crowd was dancing . the man was singing . the people were having a good time .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing festive music and the lady was singing .",
+        "the crowd was dancing .",
+        "the man was singing .",
+        "the people were having a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623063719839",
+  "model": "GLAC"
+}

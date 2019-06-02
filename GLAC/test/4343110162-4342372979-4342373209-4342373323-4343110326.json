@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4343110162-4342372979-4342373209-4342373323-4343110326",
+  "photo_sequence_ids": [
+    "4343110162",
+    "4342372979",
+    "4342373209",
+    "4342373323",
+    "4343110326"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was empty . the room was empty . the computer was clean . the room was not . the office was not .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The office wasn\u0027t empty. It was full of things. The computers were organized. The office was finally clean.",
+      "normalized_edited_story_text_sent": [
+        "the office was n\u0027t empty .",
+        "it was full of things .",
+        "the computers were organized .",
+        "the office was finally clean ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the office was far from empty . the room was going to be empty soon though, as unnecessary things were piled up to be lugged out . the computers were cleaned . the room was not neat . the office was not neat, and much work still had to be done .",
+      "normalized_edited_story_text_sent": [
+        "the office was far from empty .",
+        "the room was going to be empty soon though , as unnecessary things were piled up to be lugged out .",
+        "the computers were cleaned .",
+        "the room was not neat .",
+        "the office was not neat , and much work still had to be done ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the office was empty . the room was empty . the computer was clean . the room was not . the office was not .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the office was empty .",
+        "the room was empty .",
+        "the computer was clean .",
+        "the room was not .",
+        "the office was not ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The office was empty and the room were empty.  The computer was clean, but the office and room were not.",
+      "normalized_edited_story_text_sent": [
+        "the office was empty and the room were empty .",
+        "the computer was clean , but the office and room were not ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the office was empty. computers were being set up. the man set up several computers in a row.",
+      "normalized_edited_story_text_sent": [
+        "the office was empty .",
+        "computers were being set up .",
+        "the man set up several computers in a row ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623619778624",
+  "model": "GLAC"
+}

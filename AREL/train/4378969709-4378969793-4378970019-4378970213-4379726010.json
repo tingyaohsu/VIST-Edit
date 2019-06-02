@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4378969709-4378969793-4378970019-4378970213-4379726010",
+  "photo_sequence_ids": [
+    "4378969709",
+    "4378969793",
+    "4378970019",
+    "4378970213",
+    "4379726010"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4009/4378969709_274aaf639b_o.jpg",
+    "https://farm3.staticflickr.com/2776/4378969793_e408595686_o.jpg",
+    "https://farm3.staticflickr.com/2761/4378970019_dce404a3f5_o.jpg",
+    "https://farm5.staticflickr.com/4064/4378970213_209003f105_o.jpg",
+    "https://farm3.staticflickr.com/2792/4379726010_80c489598b_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the conference last week . the meeting was a lot of fun . the students were able to talk to each other . the office is ready for the meeting to begin . it was a great meeting .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "i go to the conference last week . the meeting is a lot of fun . the students are able to talk to each other . the office was ready for the meeting to begin . it is a great meeting .",
+      "normalized_edited_story_text_sent": [
+        "i go to the conference last week .",
+        "the meeting is a lot of fun .",
+        "the students are able to talk to each other .",
+        "the office was ready for the meeting to begin .",
+        "it is a great meeting ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "i went to the conference last week.  It was held at the Headquater.  The attendees were able to talk to each other and shared ideas. tit was a great meeting and I learned a lot of things I can use for my work.",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last week .",
+        "it was held at the headquater .",
+        "the attendees were able to talk to each other and shared ideas .",
+        "tit was a great meeting and i learned a lot of things i can use for my work ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "I went to a conference last week.  Students and teachers were able to interact well, it was a good solid conference.  All of the attendees were happy.",
+      "normalized_edited_story_text_sent": [
+        "i went to a conference last week .",
+        "students and teachers were able to interact well , it was a good solid conference .",
+        "all of the attendees were happy ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went to the conference last week, the meeting was educational. The students were able to talk to each other, it was an informative meeting for all.",
+      "normalized_edited_story_text_sent": [
+        "i went to the conference last week , the meeting was educational .",
+        "the students were able to talk to each other , it was an informative meeting for all ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "i went to a conference last week . the meeting was a lot of fun! the students were able to talk to each other during it. Here the office is ready for the meeting to begin . it was a great meeting .",
+      "normalized_edited_story_text_sent": [
+        "i went to a conference last week .",
+        "the meeting was a lot of fun !",
+        "the students were able to talk to each other during it .",
+        "here the office is ready for the meeting to begin .",
+        "it was a great meeting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623362769573"
+}

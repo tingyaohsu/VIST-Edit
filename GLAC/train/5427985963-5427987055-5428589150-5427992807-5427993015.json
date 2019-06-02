@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5427985963-5427987055-5428589150-5427992807-5427993015",
+  "photo_sequence_ids": [
+    "5427985963",
+    "5427987055",
+    "5428589150",
+    "5427992807",
+    "5427993015"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the runners were ready for the race . the racers were off ! the race was underway . the bikers were neck and neck . the race was very close .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the runners were well prepared . the racers were off after the shot . the race was underway sooner than you could blink . the top runners were neck and neck . the race was very close until the end .",
+      "normalized_edited_story_text_sent": [
+        "the runners were well prepared .",
+        "the racers were off after the shot .",
+        "the race was underway sooner than you could blink .",
+        "the top runners were neck and neck .",
+        "the race was very close until the end ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the runners were ready for the  charity race in the city . after the gun went off, the racers were off ! the race was underway  and there were a few people in the lead. the runners were neck and neck on the sunny day . the race was very close .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready for the charity race in the city .",
+        "after the gun went off , the racers were off !",
+        "the race was underway and there were a few people in the lead .",
+        "the runners were neck and neck on the sunny day .",
+        "the race was very close ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The runners lined up to run the race.  They hit the one mile mark.  The clock showed their time. The girls were running together and the race was close.",
+      "normalized_edited_story_text_sent": [
+        "the runners lined up to run the race .",
+        "they hit the one mile mark .",
+        "the clock showed their time .",
+        "the girls were running together and the race was close ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the runners were ready for the race . the racers were off ! the racers went by quickly. the bikers were neck and neck . the race was very close .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready for the race .",
+        "the racers were off !",
+        "the racers went by quickly .",
+        "the bikers were neck and neck .",
+        "the race was very close ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the runners were ready for the race . the racers were off ! the race was underway . the woman ran alone . the race was very fun .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready for the race .",
+        "the racers were off !",
+        "the race was underway .",
+        "the woman ran alone .",
+        "the race was very fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625879475637",
+  "model": "GLAC"
+}

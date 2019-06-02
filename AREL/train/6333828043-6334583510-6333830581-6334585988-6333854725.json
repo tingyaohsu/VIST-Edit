@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "6333828043-6334583510-6333830581-6334585988-6333854725",
+  "photo_sequence_ids": [
+    "6333828043",
+    "6334583510",
+    "6333830581",
+    "6334585988",
+    "6333854725"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6031/6333828043_ffce845ed7_o.jpg",
+    "https://farm7.staticflickr.com/6097/6334583510_10dd7d89ba_o.jpg",
+    "https://farm7.staticflickr.com/6049/6333830581_ceae8eeb63_o.jpg",
+    "https://farm7.staticflickr.com/6212/6334585988_ccb7a193d5_o.jpg",
+    "https://farm7.staticflickr.com/6228/6333854725_0fc552e003_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the old church last weekend . there were a lot of people there . we saw many old buildings . the streets were filled with people . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to this old church last weekend. There were a lot of people there! We saw so many old buildings. The streets were filled with people, and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to this old church last weekend .",
+        "there were a lot of people there !",
+        "we saw so many old buildings .",
+        "the streets were filled with people , and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to the old church last weekend . there were a lot of people there . we saw many old buildings . the streets were empty . we stayed till dark .",
+      "normalized_edited_story_text_sent": [
+        "we went to the old church last weekend .",
+        "there were a lot of people there .",
+        "we saw many old buildings .",
+        "the streets were empty .",
+        "we stayed till dark ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "we went to an old church last weekend . there were a lot of people there . we saw many old buildings around there. the streets were filled with people . we had such a great time .",
+      "normalized_edited_story_text_sent": [
+        "we went to an old church last weekend .",
+        "there were a lot of people there .",
+        "we saw many old buildings around there .",
+        "the streets were filled with people .",
+        "we had such a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2G6PVTS2DHBJJ",
+      "edited_story_text": "Last weekend, we went to the old church. There were a lot of people there attending a graduation. We saw many old buildings. The streets were filled with people. We had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "last weekend , we went to the old church .",
+        "there were a lot of people there attending a graduation .",
+        "we saw many old buildings .",
+        "the streets were filled with people .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we traveled to the old church last weekend . there was a crowd . we saw many old buildings . the streets were filled with people . we had an awesome time there .",
+      "normalized_edited_story_text_sent": [
+        "we traveled to the old church last weekend .",
+        "there was a crowd .",
+        "we saw many old buildings .",
+        "the streets were filled with people .",
+        "we had an awesome time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627978450369"
+}

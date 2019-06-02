@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "345042358-345044356-345046756-345049693-345051681",
+  "photo_sequence_ids": [
+    "345042358",
+    "345044356",
+    "345046756",
+    "345049693",
+    "345051681"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a birthday party . the boy was excited to see the cake . the mom was so happy . the family was there . the father was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the family got together for christmas. Everyone was excited to open their gifts. My mom was so happy with her book . everyone loved their gifts and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for christmas .",
+        "everyone was excited to open their gifts .",
+        "my mom was so happy with her book .",
+        "everyone loved their gifts and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family celebrated a birthday . the boy couldn\u0027t wait to see the cake . the mom was filled with joy . the whole family attended . the father was as happy as the mother .",
+      "normalized_edited_story_text_sent": [
+        "the family celebrated a birthday .",
+        "the boy could n\u0027t wait to see the cake .",
+        "the mom was filled with joy .",
+        "the whole family attended .",
+        "the father was as happy as the mother ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the family got together for Christmas . Everyone got some fun gifts. they all seemed pretty happy . It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for christmas .",
+        "everyone got some fun gifts .",
+        "they all seemed pretty happy .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The family got together for a Christmas party. Robert was excited to see the cake, and mom and dad were so happy. The whole family was there.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a christmas party .",
+        "[male] was excited to see the cake , and mom and dad were so happy .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "Christmas time with family!  Here we all our opening our gifts.  Everyone enjoyed what they got!",
+      "normalized_edited_story_text_sent": [
+        "christmas time with family !",
+        "here we all our opening our gifts .",
+        "everyone enjoyed what they got !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594458437632",
+  "model": "GLAC"
+}

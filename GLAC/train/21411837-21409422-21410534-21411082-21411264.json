@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "21411837-21409422-21410534-21411082-21411264",
+  "photo_sequence_ids": [
+    "21411837",
+    "21409422",
+    "21410534",
+    "21411082",
+    "21411264"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was beautiful . the market was busy . the shops were very busy . the stores were open . the day was sunny .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was beautiful for it being the winter . the market was busy as people walked around . the shops were very busy for it being a Tuesday . the stores were open for business. the day was sunny yet cold outside .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful for it being the winter .",
+        "the market was busy as people walked around .",
+        "the shops were very busy for it being a tuesday .",
+        "the stores were open for business .",
+        "the day was sunny yet cold outside ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "we took a panoramic view of the city on our way in to town.  We explored the farmers market.  Then we took a ride on the train.  We went to see the robots at the local university.  We finished the day by sitting around discussing how much fun we had.",
+      "normalized_edited_story_text_sent": [
+        "we took a panoramic view of the city on our way in to town .",
+        "we explored the farmers market .",
+        "then we took a ride on the train .",
+        "we went to see the robots at the local university .",
+        "we finished the day by sitting around discussing how much fun we had ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was beautiful and serene . the market was busy . everyone came out to shop.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful and serene .",
+        "the market was busy .",
+        "everyone came out to shop ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was beautiful . the market was busy . the shops were very busy . We rode a tram . The water was pretty .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the market was busy .",
+        "the shops were very busy .",
+        "we rode a tram .",
+        "the water was pretty ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the city was beautiful . the market and shops were very busy. the stores were open and interesting . the day was sunny and just perfect.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the market and shops were very busy .",
+        "the stores were open and interesting .",
+        "the day was sunny and just perfect ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "499924",
+  "model": "GLAC"
+}

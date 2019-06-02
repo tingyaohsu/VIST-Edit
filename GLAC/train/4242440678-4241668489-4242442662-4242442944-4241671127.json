@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4242440678-4241668489-4242442662-4242442944-4241671127",
+  "photo_sequence_ids": [
+    "4242440678",
+    "4241668489",
+    "4242442662",
+    "4242442944",
+    "4241671127"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time . they played games . they also played some games . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "my kids Sam and Dean were having a good time . they played games and played with a glow stick. . they also played some video games  after playing outside. they had a lot of fun with their grandfather . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "my kids sam and dean were having a good time .",
+        "they played games and played with a glow stick .",
+        "they also played some video games after playing outside .",
+        "they had a lot of fun with their grandfather .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family was having a fun time . they played many games . they also played some fun games . they had a ton of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a fun time .",
+        "they played many games .",
+        "they also played some fun games .",
+        "they had a ton of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was having a great time playing in the snow . they played games and played with lights . they also played some games that were in the closet . they had a lot of fun but were tired. they had a great time hanging with friends but were ready for sleep .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time playing in the snow .",
+        "they played games and played with lights .",
+        "they also played some games that were in the closet .",
+        "they had a lot of fun but were tired .",
+        "they had a great time hanging with friends but were ready for sleep ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Daivd and the family was having a great time . they played games . they also played some games . they had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "daivd and the family was having a great time .",
+        "they played games .",
+        "they also played some games .",
+        "they had a lot of fun .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the family was having a great time. they played a variety of games, which were a lot of fun. they also went outside and played in the snow.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time .",
+        "they played a variety of games , which were a lot of fun .",
+        "they also went outside and played in the snow ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623007875703",
+  "model": "GLAC"
+}

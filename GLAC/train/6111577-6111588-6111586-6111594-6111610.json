@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6111577-6111588-6111586-6111594-6111610",
+  "photo_sequence_ids": [
+    "6111577",
+    "6111588",
+    "6111586",
+    "6111594",
+    "6111610"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very busy . the buildings were so tall . the building was amazing . the flowers were blooming . the streets were full of people .",
+  "edited_stories": [
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "we took a trip to the city this past fall. we got their on the subway and spent time wandering the streets and gazing at architecture. we also bought a few pumpkins to carve.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the city this past fall .",
+        "we got their on the subway and spent time wandering the streets and gazing at architecture .",
+        "we also bought a few pumpkins to carve ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the city was very busy with cars flying by on every street . the buildings were tall and breathtaking. the historical buildings was amazing, especially the detail on the architecture . the fall flowers were blooming and many markets had pumpkins in their displays . the streets were full of people enjoying the sunny day .",
+      "normalized_edited_story_text_sent": [
+        "the city was very busy with cars flying by on every street .",
+        "the buildings were tall and breathtaking .",
+        "the historical buildings was amazing , especially the detail on the architecture .",
+        "the fall flowers were blooming and many markets had pumpkins in their displays .",
+        "the streets were full of people enjoying the sunny day ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was very busy for it being a Tuesday . the buildings were so tall you could not see over them . the building was amazing and really nicely painted . the flowers were blooming and the trees were green . the streets were full of people who wanted to have a drink .",
+      "normalized_edited_story_text_sent": [
+        "the city was very busy for it being a tuesday .",
+        "the buildings were so tall you could not see over them .",
+        "the building was amazing and really nicely painted .",
+        "the flowers were blooming and the trees were green .",
+        "the streets were full of people who wanted to have a drink ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "This city was bustling. The buildings were towering and fascinating. The people crowded the streets, moving and busy, contrast by the calming bed of beautiful flowers blooming in the parks.",
+      "normalized_edited_story_text_sent": [
+        "this city was bustling .",
+        "the buildings were towering and fascinating .",
+        "the people crowded the streets , moving and busy , contrast by the calming bed of beautiful flowers blooming in the parks ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the city was very busy . the park was sunny . the building was amazing . the flowers were lined up for sale . the streets were full of interesting stores .",
+      "normalized_edited_story_text_sent": [
+        "the city was very busy .",
+        "the park was sunny .",
+        "the building was amazing .",
+        "the flowers were lined up for sale .",
+        "the streets were full of interesting stores ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "152764",
+  "model": "GLAC"
+}

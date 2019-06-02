@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "6328546-6328551-6328563-6328577-6328585",
+  "photo_sequence_ids": [
+    "6328546",
+    "6328551",
+    "6328563",
+    "6328577",
+    "6328585"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/7/6328546_ec23d044e7_o.jpg",
+    "https://farm1.staticflickr.com/3/6328551_7c173ee6d0_o.jpg",
+    "https://farm1.staticflickr.com/7/6328563_655bddd489_o.jpg",
+    "https://farm1.staticflickr.com/6/6328577_9f3c0ee8b0_o.jpg",
+    "https://farm1.staticflickr.com/6/6328585_bf7df3f5e2_o.jpg"
+  ],
+  "auto_story_text_normalized": "the party was a lot of fun . the girls were having a good time . [female] and [female] are having a good time and having a good time . the girls were having a good time . the party was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A16NITTBMCSN0V",
+      "edited_story_text": "the party was a lot of fun . the girls were being very silly. [female] and [female] made lots of friends and had a good time. the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the girls were being very silly .",
+        "[female] and [female] made lots of friends and had a good time .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the party was a lot of fun . the girls had a good time . [female] and [female] are having a good time. the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the girls had a good time .",
+        "[female] and [female] are having a good time .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "the party was a lot of fun. the girls were having a good time. [female] and [female] especially had a good time. the girls were having a good time and the party was a success.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the girls were having a good time .",
+        "[female] and [female] especially had a good time .",
+        "the girls were having a good time and the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the party was a lot of fun . the girls were having a great time . [female] and [female] are having a blast. the girls were having an awesome time . the party was a success .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the girls were having a great time .",
+        "[female] and [female] are having a blast .",
+        "the girls were having an awesome time .",
+        "the party was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The party was a lot of fun, and the girls had a good time. [Female] and [female] had a good time, but all the girls had a good time. The party was a success.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun , and the girls had a good time .",
+        "[female] and [female] had a good time , but all the girls had a good time .",
+        "the party was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "158010"
+}

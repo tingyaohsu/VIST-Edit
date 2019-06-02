@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "5389359636-5388720009-5388706397-5388704005-5389316984",
+  "photo_sequence_ids": [
+    "5389359636",
+    "5388720009",
+    "5388706397",
+    "5388704005",
+    "5389316984"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5256/5389359636_c5399d8995_o.jpg",
+    "https://farm6.staticflickr.com/5217/5388720009_e059f541a1_o.jpg",
+    "https://farm6.staticflickr.com/5258/5388706397_2a32de6326_o.jpg",
+    "https://farm6.staticflickr.com/5134/5388704005_1d9c3a3267_o.jpg",
+    "https://farm6.staticflickr.com/5171/5389316984_10c47727d4_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the concert last night . i got to see a lot of people . the band was amazing . the lead singer of the band played a lot of songs . we had a great time at the concert .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I went to the concert last night. I got to see a lot of peoplE. The band was amazing. TheY played a lot of songs. We had a great time at the concert.",
+      "normalized_edited_story_text_sent": [
+        "i went to the concert last night .",
+        "i got to see a lot of people .",
+        "the band was amazing .",
+        "they played a lot of songs .",
+        "we had a great time at the concert ."
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "i went to the concert last night . The band  played  very well  and the lead singer was  very energetic . They got the crowd very hype  it  was a goodnight",
+      "normalized_edited_story_text_sent": [
+        "i went to the concert last night .",
+        "the band played very well and the lead singer was very energetic .",
+        "they got the crowd very hype it was a goodnight"
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "I went to a rap concert last night with friends. The rapper on stage did a great show. The got the crowd to participate in a sing along. There were a lot people at the concert. We cheered on the band who were excellent.  The concert was awesome and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a rap concert last night with friends .",
+        "the rapper on stage did a great show .",
+        "the got the crowd to participate in a sing along .",
+        "there were a lot people at the concert .",
+        "we cheered on the band who were excellent .",
+        "the concert was awesome and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the concert last night . i got to see a lot of people . the band was amazing . the lead singer of the band played a lot of songs . It was one of the best nights.",
+      "normalized_edited_story_text_sent": [
+        "i went to the concert last night .",
+        "i got to see a lot of people .",
+        "the band was amazing .",
+        "the lead singer of the band played a lot of songs .",
+        "it was one of the best nights ."
+      ]
+    },
+    {
+      "worker_id": "A3I4GTLPDHWT8J",
+      "edited_story_text": "Last night I attended a concert and saw a lot of people.  The band was amazing and the lead singer played a lot of songs.  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "last night i attended a concert and saw a lot of people .",
+        "the band was amazing and the lead singer played a lot of songs .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625907820708"
+}

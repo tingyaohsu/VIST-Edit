@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "8491725384-8490623803-8491733536-8490634097-8490641683",
+  "photo_sequence_ids": [
+    "8491725384",
+    "8490623803",
+    "8491733536",
+    "8490634097",
+    "8490641683"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be at the party . they had a lot of fun . they had lots of food . they ate and enjoyed the meal . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to be at the party . They had a sign with a cake on it. There where red, white, and blue decorations and everyone enjoyed cake.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they had a sign with a cake on it .",
+        "there where red , white , and blue decorations and everyone enjoyed cake ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the children were glad to attend the party.  there was a lot of food.  the kids ate a lot and enjoyed their meal. everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the children were glad to attend the party .",
+        "there was a lot of food .",
+        "the kids ate a lot and enjoyed their meal .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the workers were excited to be at the party . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the workers were excited to be at the party .",
+        "they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "Everyone was excited to be at the party. There was a lot of food. Everyone ate and enjoyed the meal. It was a great time.",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited to be at the party .",
+        "there was a lot of food .",
+        "everyone ate and enjoyed the meal .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the kids were excited to be at the party . they had a lot of fun . they had lots of food . they ate and enjoyed the meal . they had a great time .\r\rMy kids were excited to be part of the party. They had so much fun! There was a lot of food there! I\u0027m glad they enjoyed the food. We had such a wonderful time!",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they had a lot of fun .",
+        "they had lots of food .",
+        "they ate and enjoyed the meal .",
+        "they had a great time .",
+        "my kids were excited to be part of the party .",
+        "they had so much fun !",
+        "there was a lot of food there !",
+        "i \u0027m glad they enjoyed the food .",
+        "we had such a wonderful time !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632806954073",
+  "model": "GLAC"
+}

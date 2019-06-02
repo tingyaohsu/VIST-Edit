@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4281973885-4282718892-4281976931-4281977367-4281977833",
+  "photo_sequence_ids": [
+    "4281973885",
+    "4282718892",
+    "4281976931",
+    "4281977367",
+    "4281977833"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow covered the roads . the roads were cleared . the trees were covered in snow . the tree was covered . the statue was placed on the ground .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the snow covered the ground. the roads were cleared of snow. the cemetery was covered in snow . He cleared off the snow from a headstone. the headstone was placed on the ground .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the ground .",
+        "the roads were cleared of snow .",
+        "the cemetery was covered in snow .",
+        "he cleared off the snow from a headstone .",
+        "the headstone was placed on the ground ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The chapel in the winter was a beautiful sight and people still went out in the snow to pay their respects.",
+      "normalized_edited_story_text_sent": [
+        "the chapel in the winter was a beautiful sight and people still went out in the snow to pay their respects ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the snow covered the roads . There was snow at the cemetery. There were flowers at the grave marker. There was a green grave marker.",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the roads .",
+        "there was snow at the cemetery .",
+        "there were flowers at the grave marker .",
+        "there was a green grave marker ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the snow had blanketed the roads . the roads were efficiently cleared . the trees were still covered in snow . a tree was covered so heavily its branches drooped . despite the weather, flowers were placed on a grave .",
+      "normalized_edited_story_text_sent": [
+        "the snow had blanketed the roads .",
+        "the roads were efficiently cleared .",
+        "the trees were still covered in snow .",
+        "a tree was covered so heavily its branches drooped .",
+        "despite the weather , flowers were placed on a grave ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The snow covered the ground. The roads were cleared, though. The cemetery was covered in snow. Robert placed some flowers on the grave. The headstone was in very good condition.",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the ground .",
+        "the roads were cleared , though .",
+        "the cemetery was covered in snow .",
+        "[male] placed some flowers on the grave .",
+        "the headstone was in very good condition ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623104927681",
+  "model": "GLAC"
+}

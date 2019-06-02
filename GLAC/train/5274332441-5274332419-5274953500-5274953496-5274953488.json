@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5274332441-5274332419-5274953500-5274953496-5274953488",
+  "photo_sequence_ids": [
+    "5274332441",
+    "5274332419",
+    "5274953500",
+    "5274953496",
+    "5274953488"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be in the game . he was doing a great job . the teams were very good . the players were really talented . the fans were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "the player was looking forward to the game. he was doing a great job. the teams had talented players and everyone played a good game.",
+      "normalized_edited_story_text_sent": [
+        "the player was looking forward to the game .",
+        "he was doing a great job .",
+        "the teams had talented players and everyone played a good game ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was excited to attend the ball game . he was doing a great job explaining plays to his kids . the teams were very well managed . the players seemed more talented in person . the fans were having a blast .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to attend the ball game .",
+        "he was doing a great job explaining plays to his kids .",
+        "the teams were very well managed .",
+        "the players seemed more talented in person .",
+        "the fans were having a blast ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the man was excited to be in the game . he was doing a great job . the teams were very good . the players were really talented . the fans were having a great time .\r\rRobert was overjoyed to finally be in the game! Robert was doing a really great job! The teams presented were really good too! All of the players showed great talent! The fans cheering them on, were also having a really great time!",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be in the game .",
+        "he was doing a great job .",
+        "the teams were very good .",
+        "the players were really talented .",
+        "the fans were having a great time .",
+        "[male] was overjoyed to finally be in the game !",
+        "[male] was doing a really great job !",
+        "the teams presented were really good too !",
+        "all of the players showed great talent !",
+        "the fans cheering them on , were also having a really great time !"
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the baseball player was excited to be in the game . he was doing a great job and scored two home runs . the teams were very good. the players were really talented. afterwards there was a celebration for the game.",
+      "normalized_edited_story_text_sent": [
+        "the baseball player was excited to be in the game .",
+        "he was doing a great job and scored two home runs .",
+        "the teams were very good .",
+        "the players were really talented .",
+        "afterwards there was a celebration for the game ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Found these old historic pics of the great Yankees in the fifties.  Some of these look they are from spring training.",
+      "normalized_edited_story_text_sent": [
+        "found these old historic pics of the great yankees in the fifties .",
+        "some of these look they are from spring training ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625632178504",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "23682211-23682212-23682718-23682209-23681617",
+  "photo_sequence_ids": [
+    "23682211",
+    "23682212",
+    "23682718",
+    "23682209",
+    "23681617"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/18/23682211_2d6fb0b2bd_o.jpg",
+    "https://farm1.staticflickr.com/18/23682212_2a82c4d576_o.jpg",
+    "https://farm1.staticflickr.com/18/23682718_b7f5733123_o.jpg",
+    "https://farm1.staticflickr.com/18/23682209_811acd365b_o.jpg",
+    "https://farm1.staticflickr.com/18/23681617_d1541974f2_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the fireworks show last weekend . the fireworks were very colorful . the grand finale was spectacular . this is a picture of a firework . this was a great show .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "i go to the fireworks show last weekend . the fireworks are very colorful . the grand finale were spectacular . this was a picture of a firework . this is a great show .",
+      "normalized_edited_story_text_sent": [
+        "i go to the fireworks show last weekend .",
+        "the fireworks are very colorful .",
+        "the grand finale were spectacular .",
+        "this was a picture of a firework .",
+        "this is a great show ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i went to the fireworks show last weekend . the fireworks were very colorful . i felt i had to take pictures, although they don\u0027t do the beauty justice. the grand finale was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "i went to the fireworks show last weekend .",
+        "the fireworks were very colorful .",
+        "i felt i had to take pictures , although they do n\u0027t do the beauty justice .",
+        "the grand finale was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I went to the fireworks show last weekend. The fireworks were very colorful and bright.The grand finale was spectacular. It lasted for about 30 minutes. It was a great show.",
+      "normalized_edited_story_text_sent": [
+        "i went to the fireworks show last weekend .",
+        "the fireworks were very colorful and bright.the grand finale was spectacular .",
+        "it lasted for about 30 minutes .",
+        "it was a great show ."
+      ]
+    },
+    {
+      "worker_id": "A15HH69K0VGFQ",
+      "edited_story_text": "I went to the fireworks show last weekend . The fireworks were very colorful.  This is a photo of a my favorite firework of the night. This show was amazing. The grand finale was spectacular.",
+      "normalized_edited_story_text_sent": [
+        "i went to the fireworks show last weekend .",
+        "the fireworks were very colorful .",
+        "this is a photo of a my favorite firework of the night .",
+        "this show was amazing .",
+        "the grand finale was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "I went to the fireworks show last weekend, and to say the least it was amazing. The fireworks were very colorful, and most of all, the grand finale was as spectacular as you\u0027d think. This is a picture of a fireworks, and we had a blast watching them.",
+      "normalized_edited_story_text_sent": [
+        "i went to the fireworks show last weekend , and to say the least it was amazing .",
+        "the fireworks were very colorful , and most of all , the grand finale was as spectacular as you \u0027d think .",
+        "this is a picture of a fireworks , and we had a blast watching them ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "546640"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "5524487081-5525044298-5524380665-5524911804-5524878018",
+  "photo_sequence_ids": [
+    "5524487081",
+    "5525044298",
+    "5524380665",
+    "5524911804",
+    "5524878018"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready to go down the aisle . the wedding party is held in a church . the bride and groom are happy . the couple is dancing . the man is having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "the bride and groom were getting ready to walk down the aisle . the church was the site of the beautiful ceremony. everyone is having a good time as the bride and groom did their traditional dance together.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready to walk down the aisle .",
+        "the church was the site of the beautiful ceremony .",
+        "everyone is having a good time as the bride and groom did their traditional dance together ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the bride and groom are getting ready to go down the aisle for their wedding . the wedding party is held in a church which was a nice touch and expensive . the bride and groom are happy that their friends came . the couple is dancing the night away. the man is having a great time as he kisses his bride .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to go down the aisle for their wedding .",
+        "the wedding party is held in a church which was a nice touch and expensive .",
+        "the bride and groom are happy that their friends came .",
+        "the couple is dancing the night away .",
+        "the man is having a great time as he kisses his bride ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the bride and groom kissed. They all posed together. The bride and groom danced together and with family. Everyone enjoyed the reception.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom kissed .",
+        "they all posed together .",
+        "the bride and groom danced together and with family .",
+        "everyone enjoyed the reception ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "The bride and groom are getting ready to go down the aisle and wedding is held in a church. The bride and groom are so happy and dancing, having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to go down the aisle and wedding is held in a church .",
+        "the bride and groom are so happy and dancing , having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the bride and groom are getting ready to go down the aisle . it was an amazing night",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready to go down the aisle .",
+        "it was an amazing night"
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626260567448",
+  "model": "GLAC"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4234468087-4234468591-4234469093-4234469417-4234517129",
+  "photo_sequence_ids": [
+    "4234468087",
+    "4234468591",
+    "4234469093",
+    "4234469417",
+    "4234517129"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4054/4234468087_a48ec3eea2_o.jpg",
+    "https://farm5.staticflickr.com/4035/4234468591_b715145423_o.jpg",
+    "https://farm5.staticflickr.com/4060/4234469093_3356b0cf2a_o.jpg",
+    "https://farm5.staticflickr.com/4005/4234469417_d56c85b25e_o.jpg",
+    "https://farm5.staticflickr.com/4058/4234517129_3621481df4_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a lot of fun at the party . everyone was having a good time . the party was a lot of fun . we had a lot of fun at the party . we ended the night with a fireworks show .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a lot of fun at the party and everyone was having a good time . the party was a lot of fun . we had a lot of fun at the party . we ended the night with a fireworks show .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the party and everyone was having a good time .",
+        "the party was a lot of fun .",
+        "we had a lot of fun at the party .",
+        "we ended the night with a fireworks show ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had an awesome time at the party . everyone had fun. the party was awesome . we enjoyed the party . there was a fireworks show at the end of the night.",
+      "normalized_edited_story_text_sent": [
+        "we had an awesome time at the party .",
+        "everyone had fun .",
+        "the party was awesome .",
+        "we enjoyed the party .",
+        "there was a fireworks show at the end of the night ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we had a lot of fun at the party . everyone was having a good time and talking. It was so nice to see everyone. We all had a bit too much to drink but we shared stories and laughs. We ended the night with fireworks and it was awesome yet scary.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the party .",
+        "everyone was having a good time and talking .",
+        "it was so nice to see everyone .",
+        "we all had a bit too much to drink but we shared stories and laughs .",
+        "we ended the night with fireworks and it was awesome yet scary ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we had a lot of fun at the party and everyone was having a good time .It was a lot of fun . we ended the night with a fireworks show .",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the party and everyone was having a good time .",
+        "it was a lot of fun .",
+        "we ended the night with a fireworks show ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we had a lot of fun at the party. everyone had a good time. at the end of the night, we lit off fireworks.",
+      "normalized_edited_story_text_sent": [
+        "we had a lot of fun at the party .",
+        "everyone had a good time .",
+        "at the end of the night , we lit off fireworks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622991566633"
+}

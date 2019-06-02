@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "3641399783-3641390735-3642207664-3641396131-3641396385",
+  "photo_sequence_ids": [
+    "3641399783",
+    "3641390735",
+    "3642207664",
+    "3641396131",
+    "3641396385"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a nice dinner . the appetizers were delicious . the guys enjoyed the meal . the food was delicious . the dessert was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family got together for a nice dinner . the appetizers were delicious . the guys enjoyed the food since they had never eaten there before . the food was presented well . the dessert was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "the appetizers were delicious .",
+        "the guys enjoyed the food since they had never eaten there before .",
+        "the food was presented well .",
+        "the dessert was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a nice dinner . the appetizers and meal were delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "the appetizers and meal were delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family got together for a nice dinner . the appetizers were delicious . the guys enjoyed the meal . the food looked nice . the dessert was tasty .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "the appetizers were delicious .",
+        "the guys enjoyed the meal .",
+        "the food looked nice .",
+        "the dessert was tasty ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "The family got together for a nice dinner. The setting was great. The guys enjoyed the meal. The food was delicious. The dessert was also delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "the setting was great .",
+        "the guys enjoyed the meal .",
+        "the food was delicious .",
+        "the dessert was also delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3GE30DPGCRLTO",
+      "edited_story_text": "the family got together for a nice dinner . the appetizers were delicious . the guys enjoyed the meal . all of the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice dinner .",
+        "the appetizers were delicious .",
+        "the guys enjoyed the meal .",
+        "all of the food was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157619880943327",
+  "model": "GLAC"
+}

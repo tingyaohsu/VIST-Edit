@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4243039545-4243045735-4243048059-4293630189-4293427643",
+  "photo_sequence_ids": [
+    "4243039545",
+    "4243045735",
+    "4243048059",
+    "4293630189",
+    "4293427643"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the house was very nice and quaint . the food was delicious . the table was full of fresh vegetables . the trees were covered in snow . the sky was clear and the sun was setting .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the house was very quaint. the food was delicious. the table was full of fresh fruits and vegetables. the trees were covered in snow, and the sky was clear as the sun was setting. It was a perfect day!",
+      "normalized_edited_story_text_sent": [
+        "the house was very quaint .",
+        "the food was delicious .",
+        "the table was full of fresh fruits and vegetables .",
+        "the trees were covered in snow , and the sky was clear as the sun was setting .",
+        "it was a perfect day !"
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the house was very nice and quaint . the food was delicious . the table was full of fresh desserts . outside the trees were covered in snow . the sky was clear and the sun was setting .",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice and quaint .",
+        "the food was delicious .",
+        "the table was full of fresh desserts .",
+        "outside the trees were covered in snow .",
+        "the sky was clear and the sun was setting ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the house was very nice and quaint . the food was delicious . the table was full of fresh vegetables . the ground was covered in snow . the sky was clear and the sun was setting .",
+      "normalized_edited_story_text_sent": [
+        "the house was very nice and quaint .",
+        "the food was delicious .",
+        "the table was full of fresh vegetables .",
+        "the ground was covered in snow .",
+        "the sky was clear and the sun was setting ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "on our visit overseas, the house we stayed in was very nice and quaint. the food they served us was delicious. at every meal, the table was full of fresh vegetables. the weather was cold but pleasant and the trees were lovely. the sky was clear and bright and we enjoyed beautiful days.",
+      "normalized_edited_story_text_sent": [
+        "on our visit overseas , the house we stayed in was very nice and quaint .",
+        "the food they served us was delicious .",
+        "at every meal , the table was full of fresh vegetables .",
+        "the weather was cold but pleasant and the trees were lovely .",
+        "the sky was clear and bright and we enjoyed beautiful days ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The building had a unique architectural design. The food was delicious. The table was filled with food. Outside, there was snow covering the ground. The sky was clear and the sun was setting .",
+      "normalized_edited_story_text_sent": [
+        "the building had a unique architectural design .",
+        "the food was delicious .",
+        "the table was filled with food .",
+        "outside , there was snow covering the ground .",
+        "the sky was clear and the sun was setting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623259212490",
+  "model": "GLAC"
+}

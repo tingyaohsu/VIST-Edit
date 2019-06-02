@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "358954686-358954664-358954463-358954397-358954298",
+  "photo_sequence_ids": [
+    "358954686",
+    "358954664",
+    "358954463",
+    "358954397",
+    "358954298"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was empty . the room was very clean . the bathroom was not too bad . the bedroom was big . the books were nice .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "An empty office with a curiously pristine room. The bathroom was decently presentable, but was most interesting area was the vast bedroom that was a host to a stack of fascinating books.",
+      "normalized_edited_story_text_sent": [
+        "an empty office with a curiously pristine room .",
+        "the bathroom was decently presentable , but was most interesting area was the vast bedroom that was a host to a stack of fascinating books ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the room was empty . the room was very clean . the wall was not too bad . the lights were bright . the directions were nice .",
+      "normalized_edited_story_text_sent": [
+        "the room was empty .",
+        "the room was very clean .",
+        "the wall was not too bad .",
+        "the lights were bright .",
+        "the directions were nice ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the office was empty . the kitchen was very clean . Another room only had walls and no decor. the room was lit well. the plans for the house were available .",
+      "normalized_edited_story_text_sent": [
+        "the office was empty .",
+        "the kitchen was very clean .",
+        "another room only had walls and no decor .",
+        "the room was lit well .",
+        "the plans for the house were available ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the office was empty with no furniture . the room was very clean and had brand new paint . the bathroom was not too bad but needed a new toilet . the bedroom was big and could fit a big bed . the books were nice to have cause the cable wasn\u0027t ready.",
+      "normalized_edited_story_text_sent": [
+        "the office was empty with no furniture .",
+        "the room was very clean and had brand new paint .",
+        "the bathroom was not too bad but needed a new toilet .",
+        "the bedroom was big and could fit a big bed .",
+        "the books were nice to have cause the cable was n\u0027t ready ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the office had been emptied . the kitchen was very clean . the bathroom was also not too dirty . there was a big meeting room . even the books were a good read .",
+      "normalized_edited_story_text_sent": [
+        "the office had been emptied .",
+        "the kitchen was very clean .",
+        "the bathroom was also not too dirty .",
+        "there was a big meeting room .",
+        "even the books were a good read ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594482035348",
+  "model": "GLAC"
+}

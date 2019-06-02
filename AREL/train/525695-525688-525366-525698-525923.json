@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "525695-525688-525366-525698-525923",
+  "photo_sequence_ids": [
+    "525695",
+    "525688",
+    "525366",
+    "525698",
+    "525923"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/1/525695_e22f86544d_o.jpg",
+    "https://farm1.staticflickr.com/1/525688_62e34c5ee3_o.jpg",
+    "https://farm1.staticflickr.com/1/525366_1545517107_o.jpg",
+    "https://farm1.staticflickr.com/1/525698_623cfa3241_o.jpg",
+    "https://farm1.staticflickr.com/1/525923_0a190eecaf_o.jpg"
+  ],
+  "auto_story_text_normalized": "i was so happy to be married . the bride and groom were very happy to be married . there were a lot of people there . the bride and groom were very happy . after the ceremony , the bride and groom posed for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I was so happy to be married. The bridesmaids looked beautiful in their dresses. The groomsmen all wore different shoes. We had fun at the reception. We waved good-bye as we drove away.",
+      "normalized_edited_story_text_sent": [
+        "i was so happy to be married .",
+        "the bridesmaids looked beautiful in their dresses .",
+        "the groomsmen all wore different shoes .",
+        "we had fun at the reception .",
+        "we waved good-bye as we drove away ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I was so happy to attend the wedding, and the bride and groom were happy to be married. There were a lot of people there, and the bride and groom were so happy. They posed for pictures.",
+      "normalized_edited_story_text_sent": [
+        "i was so happy to attend the wedding , and the bride and groom were happy to be married .",
+        "there were a lot of people there , and the bride and groom were so happy .",
+        "they posed for pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i was so happy to be married. all my friends were there . we were very happy . after the ceremony , we posed for a picture .",
+      "normalized_edited_story_text_sent": [
+        "i was so happy to be married .",
+        "all my friends were there .",
+        "we were very happy .",
+        "after the ceremony , we posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I wen to a wedding. The bridesmaids were wearing purple. The men were dressed fine. The bride and groom were very happy. They drove off together.",
+      "normalized_edited_story_text_sent": [
+        "i wen to a wedding .",
+        "the bridesmaids were wearing purple .",
+        "the men were dressed fine .",
+        "the bride and groom were very happy .",
+        "they drove off together ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I was so happy to see my friends be married. The bride and groom were very happy to be married. There were a lot of people there and the bride and groom were very happy. After the ceremony, the bride and groom posed for a picture .",
+      "normalized_edited_story_text_sent": [
+        "i was so happy to see my friends be married .",
+        "the bride and groom were very happy to be married .",
+        "there were a lot of people there and the bride and groom were very happy .",
+        "after the ceremony , the bride and groom posed for a picture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "28374"
+}

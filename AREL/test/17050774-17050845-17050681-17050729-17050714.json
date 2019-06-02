@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "17050774-17050845-17050681-17050729-17050714",
+  "photo_sequence_ids": [
+    "17050774",
+    "17050845",
+    "17050681",
+    "17050729",
+    "17050714"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/14/17050774_7025ce96a0_o.jpg",
+    "https://farm1.staticflickr.com/13/17050845_2190f9e884_o.jpg",
+    "https://farm1.staticflickr.com/11/17050681_e053a39f12_o.jpg",
+    "https://farm1.staticflickr.com/9/17050729_05faa813f1_o.jpg",
+    "https://farm1.staticflickr.com/12/17050714_7e127aeba6_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party last night . everyone was having a great time . the music was great . we had a lot of fun dancing . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "My friends and I had a great time at the party last night. We took lots of group photos and some of our friends had some wild costumes on. The music was great and we all danced a lot. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i had a great time at the party last night .",
+        "we took lots of group photos and some of our friends had some wild costumes on .",
+        "the music was great and we all danced a lot .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "It was a memorable time at the party.  People showed up dressing up and ready to party.  We had a lot of fun doing goofy things.",
+      "normalized_edited_story_text_sent": [
+        "it was a memorable time at the party .",
+        "people showed up dressing up and ready to party .",
+        "we had a lot of fun doing goofy things ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We had a party for the sports event. Men and women were invited. We wore different clothes. We also painted flags on our faces. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a party for the sports event .",
+        "men and women were invited .",
+        "we wore different clothes .",
+        "we also painted flags on our faces .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "Everyone had a great time at the party last night . the music was great and we had a lot of fun dancing .",
+      "normalized_edited_story_text_sent": [
+        "everyone had a great time at the party last night .",
+        "the music was great and we had a lot of fun dancing ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the party last night . everyone was having a great time . the music was great . we had a lot of fun dancing and enjoying each others company.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last night .",
+        "everyone was having a great time .",
+        "the music was great .",
+        "we had a lot of fun dancing and enjoying each others company ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "406196"
+}

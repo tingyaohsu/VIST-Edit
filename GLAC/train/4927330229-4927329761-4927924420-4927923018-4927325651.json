@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4927330229-4927329761-4927924420-4927923018-4927325651",
+  "photo_sequence_ids": [
+    "4927330229",
+    "4927329761",
+    "4927924420",
+    "4927923018",
+    "4927325651"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was about to begin . the players were ready for the game . the team was getting ready . the teams were tied up . the white team scored .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the soccer match was a close one. both teams went at it hard",
+      "normalized_edited_story_text_sent": [
+        "the soccer match was a close one .",
+        "both teams went at it hard"
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the soccer game was about to begin once the whistle blew . the players were ready for the game to start . the team was getting ready by doing some stretches . the teams were tied up at halftime . the white team scored late to win the game .",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was about to begin once the whistle blew .",
+        "the players were ready for the game to start .",
+        "the team was getting ready by doing some stretches .",
+        "the teams were tied up at halftime .",
+        "the white team scored late to win the game ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We went to see the local football team play our arch rivals from across town.  They played well but sill ended up losing the match in a tight one, two to one.",
+      "normalized_edited_story_text_sent": [
+        "we went to see the local football team play our arch rivals from across town .",
+        "they played well but sill ended up losing the match in a tight one , two to one ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "today we went to an outdoor soccer game. the teams played very well and the game was very exciting. it was a cloudy day but the rain held out during the game. the game went late into the evening and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "today we went to an outdoor soccer game .",
+        "the teams played very well and the game was very exciting .",
+        "it was a cloudy day but the rain held out during the game .",
+        "the game went late into the evening and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the baseball game was about to begin . the players were ready for the game . the team was getting ready . the teams were tied up . the white team scored .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the baseball game was about to begin .",
+        "the players were ready for the game .",
+        "the team was getting ready .",
+        "the teams were tied up .",
+        "the white team scored ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624807908194",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "1397547036-1397545698-1396656009-1397546470-1396661127",
+  "photo_sequence_ids": [
+    "1397547036",
+    "1397545698",
+    "1396656009",
+    "1397546470",
+    "1396661127"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a birthday party . the kids had a great time . grandma was so happy to see her . the whole family was there . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a birthday party . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Happy Birthday Grandma! the family got together for a birthday party . the kids had a great time . grandma was so happy to see the baby.",
+      "normalized_edited_story_text_sent": [
+        "happy birthday grandma !",
+        "the family got together for a birthday party .",
+        "the kids had a great time .",
+        "grandma was so happy to see the baby ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family got together for a birthday party . the kids had fun playing with the baby  . grandma was so happy to see her baby  . the family loved the views . the food and dessert was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids had fun playing with the baby .",
+        "grandma was so happy to see her baby .",
+        "the family loved the views .",
+        "the food and dessert was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "this weekend, the family got together for a birthday party for my aunt lisa. grandma and grandpa had a great time with the new baby. the baby was the apple of grandpa\u0027s eye. the whole family loved the party. the food was delicious, especially dessert.",
+      "normalized_edited_story_text_sent": [
+        "this weekend , the family got together for a birthday party for my aunt [female] .",
+        "grandma and grandpa had a great time with the new baby .",
+        "the baby was the apple of grandpa \u0027s eye .",
+        "the whole family loved the party .",
+        "the food was delicious , especially dessert ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family got together for a birthday party as well as a baby shower. the kids had a great time hanging out with each other . grandma was so happy to see her only grandchild. the whole family was there expect for the cousins. the food was delicious and was all eaten .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party as well as a baby shower .",
+        "the kids had a great time hanging out with each other .",
+        "grandma was so happy to see her only grandchild .",
+        "the whole family was there expect for the cousins .",
+        "the food was delicious and was all eaten ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602047008082",
+  "model": "GLAC"
+}

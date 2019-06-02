@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "8220823305-8221897984-8221898312-8221902650-8221902990",
+  "photo_sequence_ids": [
+    "8220823305",
+    "8221897984",
+    "8221898312",
+    "8221902650",
+    "8221902990"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8344/8220823305_a2bb154e4a_o.jpg",
+    "https://farm9.staticflickr.com/8344/8221897984_3f8c880220_o.jpg",
+    "https://farm9.staticflickr.com/8197/8221898312_a9f0b02685_o.jpg",
+    "https://farm9.staticflickr.com/8478/8221902650_c1201fc55a_o.jpg",
+    "https://farm9.staticflickr.com/8338/8221902990_628f39fe8b_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a nice day to go to the restaurant . we had a lot of work to do . he was very happy to be there . he was so happy to see him . [female] was so happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "It was a nice day to go to a restaurant. We had a lot of work to do first. [Male] was very happy to be there, and [male] was so happy to see him. [Female] was so happy to come too.",
+      "normalized_edited_story_text_sent": [
+        "it was a nice day to go to a restaurant .",
+        "we had a lot of work to do first .",
+        "[male] was very happy to be there , and [male] was so happy to see him .",
+        "[female] was so happy to come too ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "it is a nice day to went to the restaurant . he have a lot of work to do . he is very happy to be there . he is so happy to saw him . [female] and [male] is so happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "it is a nice day to went to the restaurant .",
+        "he have a lot of work to do .",
+        "he is very happy to be there .",
+        "he is so happy to saw him .",
+        "[female] and [male] is so happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "it is a nice day to went to the restaurant . we have a lot of work to do . he is very happy to be there . he is so happy to saw him . [female] and [male] is so happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "it is a nice day to went to the restaurant .",
+        "we have a lot of work to do .",
+        "he is very happy to be there .",
+        "he is so happy to saw him .",
+        "[female] and [male] is so happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "it was a nice day to go to the restaurant. we had a lot of work to do and had to wait to get in to the restaurant. he was very optimistic about being there . he was so happy to see him in the spirit of fun. [female] was so impressed and honored to be there.",
+      "normalized_edited_story_text_sent": [
+        "it was a nice day to go to the restaurant .",
+        "we had a lot of work to do and had to wait to get in to the restaurant .",
+        "he was very optimistic about being there .",
+        "he was so happy to see him in the spirit of fun .",
+        "[female] was so impressed and honored to be there ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "it was a decent day to go to the restaurant . we had a more work to do . he was extremely glad to be there . he was so cheerful to see him . [female] was so cheerful to be there .",
+      "normalized_edited_story_text_sent": [
+        "it was a decent day to go to the restaurant .",
+        "we had a more work to do .",
+        "he was extremely glad to be there .",
+        "he was so cheerful to see him .",
+        "[female] was so cheerful to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631898865749"
+}

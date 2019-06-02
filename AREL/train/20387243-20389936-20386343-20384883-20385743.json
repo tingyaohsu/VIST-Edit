@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "20387243-20389936-20386343-20384883-20385743",
+  "photo_sequence_ids": [
+    "20387243",
+    "20389936",
+    "20386343",
+    "20384883",
+    "20385743"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/15/20387243_c24d31a854_o.jpg",
+    "https://farm1.staticflickr.com/17/20389936_e2c562db0c_o.jpg",
+    "https://farm1.staticflickr.com/16/20386343_1f217fd9c2_o.jpg",
+    "https://farm1.staticflickr.com/16/20384883_e5462f9c98_o.jpg",
+    "https://farm1.staticflickr.com/15/20385743_755e2ec15a_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a boat . i had a great time there . the water was calm and the weather was very cold . at night , we went out for a bonfire . we ended the day with a fire .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "this is a picture of a boat and lake we were at . we had a great time on the water . the water was calm and the weather was cloudy and cold. at night , we built  a bonfire . It was fun to end the day with a fire .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a boat and lake we were at .",
+        "we had a great time on the water .",
+        "the water was calm and the weather was cloudy and cold .",
+        "at night , we built a bonfire .",
+        "it was fun to end the day with a fire ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a boat . i had a great time there . the water was calm and the weather was very cold . at night , we went out for a bonfire and we ended the day with a fire .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a boat .",
+        "i had a great time there .",
+        "the water was calm and the weather was very cold .",
+        "at night , we went out for a bonfire and we ended the day with a fire ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "A lot of people have boats docked at this lake. i had a great time there . the water was calm and the weather was very nice. at night, we went out for a bonfire, which was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people have boats docked at this lake .",
+        "i had a great time there .",
+        "the water was calm and the weather was very nice .",
+        "at night , we went out for a bonfire , which was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "Here are the docks \u0026 a boat near the boat houses. I had so much fun there. The water was calm \u0026 crisp. At night, we stayed warm by the fire. We kept the fire going through the night.",
+      "normalized_edited_story_text_sent": [
+        "here are the docks \u0026 a boat near the boat houses .",
+        "i had so much fun there .",
+        "the water was calm \u0026 crisp .",
+        "at night , we stayed warm by the fire .",
+        "we kept the fire going through the night ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "This is a picture of a boat dock.  I had a great time out boating all day.  The water was calm and the weather was very cold.  At night, we ended the day with a fire.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a boat dock .",
+        "i had a great time out boating all day .",
+        "the water was calm and the weather was very cold .",
+        "at night , we ended the day with a fire ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "476170"
+}

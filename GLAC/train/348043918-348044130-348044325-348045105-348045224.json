@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "348043918-348044130-348044325-348045105-348045224",
+  "photo_sequence_ids": [
+    "348043918",
+    "348044130",
+    "348044325",
+    "348045105",
+    "348045224"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was prepared for the party . the main course was the main course . the appetizers were delicious . the table was decorated with a beautiful view . the final presentation was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2XKIP0PJ3FJ20",
+      "edited_story_text": "The food was prepared for the party and the main course had a lot of variety. The appetizers were delicious. The table was decorated and was beautiful, and the final presentation was a success.",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party and the main course had a lot of variety .",
+        "the appetizers were delicious .",
+        "the table was decorated and was beautiful , and the final presentation was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the food was prepared for the party . the main course was ready to show . the appetizers were delicious . the table was decorated with a beautiful view . the final presentation was a success .",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for the party .",
+        "the main course was ready to show .",
+        "the appetizers were delicious .",
+        "the table was decorated with a beautiful view .",
+        "the final presentation was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "there was a great deal of food prepared for the party.  the appetizers were delicious.  the main course was exceptional.  the table decoration was lovely.  the crowning event was the final presentation.",
+      "normalized_edited_story_text_sent": [
+        "there was a great deal of food prepared for the party .",
+        "the appetizers were delicious .",
+        "the main course was exceptional .",
+        "the table decoration was lovely .",
+        "the crowning event was the final presentation ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the food was cooked ahead of time for the party . the main course was filling . the appetizers tasted great . the table was decorated beautifully . the final presentation got its points across .",
+      "normalized_edited_story_text_sent": [
+        "the food was cooked ahead of time for the party .",
+        "the main course was filling .",
+        "the appetizers tasted great .",
+        "the table was decorated beautifully .",
+        "the final presentation got its points across ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The food was prepared for my party. My main course was the main course. The appetizers were delicious. My table was decorated with a beautiful view. The final presentation was a success.",
+      "normalized_edited_story_text_sent": [
+        "the food was prepared for my party .",
+        "my main course was the main course .",
+        "the appetizers were delicious .",
+        "my table was decorated with a beautiful view .",
+        "the final presentation was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594463433934",
+  "model": "GLAC"
+}

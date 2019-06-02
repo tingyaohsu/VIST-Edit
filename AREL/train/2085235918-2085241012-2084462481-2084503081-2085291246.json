@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "2085235918-2085241012-2084462481-2084503081-2085291246",
+  "photo_sequence_ids": [
+    "2085235918",
+    "2085241012",
+    "2084462481",
+    "2084503081",
+    "2085291246"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2313/2085235918_e75a8a567b_o.jpg",
+    "https://farm3.staticflickr.com/2278/2085241012_5e81db7244_o.jpg",
+    "https://farm3.staticflickr.com/2265/2084462481_e4f166fb04_o.jpg",
+    "https://farm3.staticflickr.com/2245/2084503081_d0037afd0f_o.jpg",
+    "https://farm3.staticflickr.com/2197/2085291246_2322c14aa7_o.jpg"
+  ],
+  "auto_story_text_normalized": "the city was lit up at night . there was a lot of rides at the fair . the food was delicious . there was a lot of food there . at the end of the day , we went back to the hotel .",
+  "edited_stories": [
+    {
+      "worker_id": "A2T5H8DESQEDUA",
+      "edited_story_text": "the city was lit up at night . there were a lot of rides at the fair . the food was delicious and there was a lot of foos. at the end of the day , we went back to the hotel .",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "there were a lot of rides at the fair .",
+        "the food was delicious and there was a lot of foos .",
+        "at the end of the day , we went back to the hotel ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "the city was lit up at night . there were a lot of rides at the fair and there was a lot of delicious food. at the end of the night , we went back to the hotel .",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "there were a lot of rides at the fair and there was a lot of delicious food .",
+        "at the end of the night , we went back to the hotel ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the city was lit up at night . there was a lot of rides at the fair . the food was delicious . there was a lot of food there and at the end of the day , we went back to the hotel .",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "there was a lot of rides at the fair .",
+        "the food was delicious .",
+        "there was a lot of food there and at the end of the day , we went back to the hotel ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The city was lit up at night with the lights of the fair. There were a lot of rides at the fair, the food was delicious, and there was so much food! At the end of the day when we were tired, we went back to the hotel.",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night with the lights of the fair .",
+        "there were a lot of rides at the fair , the food was delicious , and there was so much food !",
+        "at the end of the day when we were tired , we went back to the hotel ."
+      ]
+    },
+    {
+      "worker_id": "A2HHQJVM3JJQ8F",
+      "edited_story_text": "the city was lit up at night . there was a carousel that many were enjoying . the small candy store had many sweets . we got a hot drink at an outdoor stand to stay warm . the market square was beautiful at night .",
+      "normalized_edited_story_text_sent": [
+        "the city was lit up at night .",
+        "there was a carousel that many were enjoying .",
+        "the small candy store had many sweets .",
+        "we got a hot drink at an outdoor stand to stay warm .",
+        "the market square was beautiful at night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603365865172"
+}

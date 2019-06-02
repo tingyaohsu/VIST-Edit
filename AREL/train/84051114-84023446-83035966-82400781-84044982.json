@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "84051114-84023446-83035966-82400781-84044982",
+  "photo_sequence_ids": [
+    "84051114",
+    "84023446",
+    "83035966",
+    "82400781",
+    "84044982"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/36/84051114_3944cf69e5_o.jpg",
+    "https://farm1.staticflickr.com/43/84023446_d03da7efea_o.jpg",
+    "https://farm1.staticflickr.com/39/83035966_13fa16bc78_o.jpg",
+    "https://farm1.staticflickr.com/41/82400781_48b875f26f_o.jpg",
+    "https://farm1.staticflickr.com/41/84044982_e5cc80897a_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the restaurant last weekend . we had a lot of drinks . we had a few drinks and had a few drinks . we went to the bar to get some food . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A6QG9LM5WL0AQ",
+      "edited_story_text": "i went to a cool restaurant last weekend . we had a lot of drinks . we drank and drank some more . we went to the bar for some food . we had a real blast .",
+      "normalized_edited_story_text_sent": [
+        "i went to a cool restaurant last weekend .",
+        "we had a lot of drinks .",
+        "we drank and drank some more .",
+        "we went to the bar for some food .",
+        "we had a real blast ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "I went to the restaurant last weekend and we had a lot of drinks before we had food. Yes, we drank a lot and then we went to the bar to get some food. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last weekend and we had a lot of drinks before we had food .",
+        "yes , we drank a lot and then we went to the bar to get some food .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "last weekend i went to a restaurant with alcohol . the bartender served us and we drank a lot . we started with a few drinks to celebrate . after that, we got some food at the bar . it was a pretty fun experience.",
+      "normalized_edited_story_text_sent": [
+        "last weekend i went to a restaurant with alcohol .",
+        "the bartender served us and we drank a lot .",
+        "we started with a few drinks to celebrate .",
+        "after that , we got some food at the bar .",
+        "it was a pretty fun experience ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to a restaurant last weekend. We had a lot of drinks, and then we went to the bar to get some food. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a restaurant last weekend .",
+        "we had a lot of drinks , and then we went to the bar to get some food .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i went to the restaurant last weekend ago . we had a great deal of drinks . we had a few drinks and had a few drinks . we went to the bar to get some sustenance . we had a incredible time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last weekend ago .",
+        "we had a great deal of drinks .",
+        "we had a few drinks and had a few drinks .",
+        "we went to the bar to get some sustenance .",
+        "we had a incredible time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1761721"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "391460337-391460750-391461218-391461610-391464232",
+  "photo_sequence_ids": [
+    "391460337",
+    "391460750",
+    "391461218",
+    "391461610",
+    "391464232"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were in full bloom . the purple flower was so cute . the purple flowers were lovely . the plants were beautiful . the flowers were blooming .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the flowers were in full bloom today. my favorite flowers were the purple ones.  they looked so cute.  the plants were also lovely.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom today .",
+        "my favorite flowers were the purple ones .",
+        "they looked so cute .",
+        "the plants were also lovely ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the flowers were in full bloom . the red flower was so cute . the vase was lovely . the plants were beautiful . the flowers were blooming .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom .",
+        "the red flower was so cute .",
+        "the vase was lovely .",
+        "the plants were beautiful .",
+        "the flowers were blooming ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the roses were in full bloom . the purple flowers were lovely . all the plants were beautiful . we made pretty bouquets with the flowers .",
+      "normalized_edited_story_text_sent": [
+        "the roses were in full bloom .",
+        "the purple flowers were lovely .",
+        "all the plants were beautiful .",
+        "we made pretty bouquets with the flowers ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the flowers were in full bloom. the red flower was so cute. the red flowers were all lovely. the plants were beautiful . the blooming flowers were all beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom .",
+        "the red flower was so cute .",
+        "the red flowers were all lovely .",
+        "the plants were beautiful .",
+        "the blooming flowers were all beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the flowers were in full bloom . the purple flower was so ornate . the roses smelled so nice . the plants were beautiful . the flowers were blooming .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were in full bloom .",
+        "the purple flower was so ornate .",
+        "the roses smelled so nice .",
+        "the plants were beautiful .",
+        "the flowers were blooming ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594537876926",
+  "model": "GLAC"
+}

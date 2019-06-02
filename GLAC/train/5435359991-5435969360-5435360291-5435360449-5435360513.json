@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5435359991-5435969360-5435360291-5435360449-5435360513",
+  "photo_sequence_ids": [
+    "5435359991",
+    "5435969360",
+    "5435360291",
+    "5435360449",
+    "5435360513"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd gathered for the event . the lady was in the water . the sun was setting . the sky was lit up . the fireworks were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the crowd gathered for the event . the paper was in the grass . the sun was setting . the sky was lit up . the evening was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "the paper was in the grass .",
+        "the sun was setting .",
+        "the sky was lit up .",
+        "the evening was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the crowd gathered for the event . There were leaves changing colors. The sky turned dark. It was an impressive sunset.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "there were leaves changing colors .",
+        "the sky turned dark .",
+        "it was an impressive sunset ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd gathered for the event . great times and food",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "great times and food"
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the crowd gathered for the event . the lady was in the water . the sun was setting . the sky was lit up . the fireworks were beautiful .\r\rThere was a crowd gathering for the event. Mary was swimming in the water. The sun was finally setting for the day. When the sun went down, the sky lit up! The fireworks were absolutely astounding.",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "the lady was in the water .",
+        "the sun was setting .",
+        "the sky was lit up .",
+        "the fireworks were beautiful .",
+        "there was a crowd gathering for the event .",
+        "[female] was swimming in the water .",
+        "the sun was finally setting for the day .",
+        "when the sun went down , the sky lit up !",
+        "the fireworks were absolutely astounding ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the crowd gathered for the event . there was no water around . the sun was setting . the sky was lit up . the fireworks were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the crowd gathered for the event .",
+        "there was no water around .",
+        "the sun was setting .",
+        "the sky was lit up .",
+        "the fireworks were beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626023683282",
+  "model": "GLAC"
+}

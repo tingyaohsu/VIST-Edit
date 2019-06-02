@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4769801777-4769802729-4769803479-4769803851-4769803123",
+  "photo_sequence_ids": [
+    "4769801777",
+    "4769802729",
+    "4769803479",
+    "4769803851",
+    "4769803123"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4102/4769801777_ed7423dcdd_o.jpg",
+    "https://farm5.staticflickr.com/4139/4769802729_d3051b4f90_o.jpg",
+    "https://farm5.staticflickr.com/4077/4769803479_a687e4bbf6_o.jpg",
+    "https://farm5.staticflickr.com/4117/4769803851_7a39ca81ee_o.jpg",
+    "https://farm5.staticflickr.com/4081/4769803123_9bbec71b6c_o.jpg"
+  ],
+  "auto_story_text_normalized": "the dog was so excited to see the dog . we had a great time at the park . the fireworks started with a big bang . then the fireworks started . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the brown dog was so excited to see the black dog . we had a great time at the park . the fireworks started with a big bang . then more fireworks started . we had an awesome time there .",
+      "normalized_edited_story_text_sent": [
+        "the brown dog was so excited to see the black dog .",
+        "we had a great time at the park .",
+        "the fireworks started with a big bang .",
+        "then more fireworks started .",
+        "we had an awesome time there ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "the dog was so excited to see the person and other dogs. we had a great time at the park . the fireworks started with a big bang and were spectacular. We were so happy to see each other again and spend time with our dogs .",
+      "normalized_edited_story_text_sent": [
+        "the dog was so excited to see the person and other dogs .",
+        "we had a great time at the park .",
+        "the fireworks started with a big bang and were spectacular .",
+        "we were so happy to see each other again and spend time with our dogs ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the dog was so excited to see the other dogs. we all had a great time at the park . the fireworks started with a big bang  and we had so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the dog was so excited to see the other dogs .",
+        "we all had a great time at the park .",
+        "the fireworks started with a big bang and we had so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the dog was so excited to see the dog . we had a great time at the park . the fireworks started with a big bang . then the fireworks started . we had a great time there It was incredible",
+      "normalized_edited_story_text_sent": [
+        "the dog was so excited to see the dog .",
+        "we had a great time at the park .",
+        "the fireworks started with a big bang .",
+        "then the fireworks started .",
+        "we had a great time there it was incredible"
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The dogs were excited to see [female].  They had fun with other dogs too. \r We had a great time at the park.  The fireworks started with a big bang . It was a spectacular show.",
+      "normalized_edited_story_text_sent": [
+        "the dogs were excited to see [female] .",
+        "they had fun with other dogs too .",
+        "we had a great time at the park .",
+        "the fireworks started with a big bang .",
+        "it was a spectacular show ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624440382340"
+}

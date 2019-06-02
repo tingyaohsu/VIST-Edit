@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "784295046-784295170-783418723-783418799-783418909",
+  "photo_sequence_ids": [
+    "784295046",
+    "784295170",
+    "783418723",
+    "783418799",
+    "783418909"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was lit up at night . the stained glass windows were beautiful . the ceiling was amazing . the stained glass windows were very ornate . the building was decorated with a lot of people .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the church was lit up at night but not during the day . the stained glass windows were beautiful and were cleaned every day . the ceiling was amazing which was painted thousands of years earlier . the stained glass windows were very ornate and bright. the building was decorated with a lot of people taking photos .",
+      "normalized_edited_story_text_sent": [
+        "the church was lit up at night but not during the day .",
+        "the stained glass windows were beautiful and were cleaned every day .",
+        "the ceiling was amazing which was painted thousands of years earlier .",
+        "the stained glass windows were very ornate and bright .",
+        "the building was decorated with a lot of people taking photos ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "The church was lit, the glass windows looked gorgeous and the top ceiling was beautiful. The building attracted a lot of guest.",
+      "normalized_edited_story_text_sent": [
+        "the church was lit , the glass windows looked gorgeous and the top ceiling was beautiful .",
+        "the building attracted a lot of guest ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the church was lit up at night . the stained glass windows were beautiful . the ceiling was amazing . the inside was very decorated . the building was decorated with a lot of people .",
+      "normalized_edited_story_text_sent": [
+        "the church was lit up at night .",
+        "the stained glass windows were beautiful .",
+        "the ceiling was amazing .",
+        "the inside was very decorated .",
+        "the building was decorated with a lot of people ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the museum was a art master piece . the stained glass windows were beautiful . the ceiling was amazing . the stained glass windows were very ornate . the building was decorated with a lot of people .",
+      "normalized_edited_story_text_sent": [
+        "the museum was a art master piece .",
+        "the stained glass windows were beautiful .",
+        "the ceiling was amazing .",
+        "the stained glass windows were very ornate .",
+        "the building was decorated with a lot of people ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and Maria were glad the church was lit up at night . the stained glass windows were beautiful . the ceiling was amazing . the stained glass windows were very ornate . the building was decorated with a lot of people .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the church was lit up at night .",
+        "the stained glass windows were beautiful .",
+        "the ceiling was amazing .",
+        "the stained glass windows were very ornate .",
+        "the building was decorated with a lot of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600773345228",
+  "model": "GLAC"
+}

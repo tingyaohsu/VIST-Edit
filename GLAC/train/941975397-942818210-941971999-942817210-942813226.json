@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "941975397-942818210-941971999-942817210-942813226",
+  "photo_sequence_ids": [
+    "941975397",
+    "942818210",
+    "941971999",
+    "942817210",
+    "942813226"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were blooming . the flowers were so beautiful . the plants were bright . the flowers were lovely . the flower was vibrant .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "it was spring.  beautiful flowers were blooming outside.  the plants were bright looking.  the flowers looked vibrant.",
+      "normalized_edited_story_text_sent": [
+        "it was spring .",
+        "beautiful flowers were blooming outside .",
+        "the plants were bright looking .",
+        "the flowers looked vibrant ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the flowers were blooming . the flowers were so beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "the flowers were so beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the flowers were blossoming . the flowers were gorgeous . plants were also brightly colored . the flowers were a nice sight . one flower was vibrating with life .",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blossoming .",
+        "the flowers were gorgeous .",
+        "plants were also brightly colored .",
+        "the flowers were a nice sight .",
+        "one flower was vibrating with life ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the flowers were blooming . the flowers were so beautiful .They were pink, white, and reds. The foliage was impressive.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "the flowers were so beautiful .",
+        "they were pink , white , and reds .",
+        "the foliage was impressive ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "i\u0027m so proud of my garden this year! look at all of these vibrant colors. i love it when everything is in full bloom.",
+      "normalized_edited_story_text_sent": [
+        "i \u0027m so proud of my garden this year !",
+        "look at all of these vibrant colors .",
+        "i love it when everything is in full bloom ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606501282252",
+  "model": "GLAC"
+}

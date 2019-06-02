@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "1742849142-1741999639-1742849884-1742001393-1742851524",
+  "photo_sequence_ids": [
+    "1742849142",
+    "1741999639",
+    "1742849884",
+    "1742001393",
+    "1742851524"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was a great place to visit . the grounds were so beautiful . the architecture was amazing . the gardens were very well kept . the homes were also in disrepair .",
+  "edited_stories": [
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the stately home next to the old church was a great place to visit . the grounds were so beautiful . the architecture was amazing . the gardens were very well kept, especially the elaborate rose garden . however, most of homes in the neighboring village had fallen intp disrepair .",
+      "normalized_edited_story_text_sent": [
+        "the stately home next to the old church was a great place to visit .",
+        "the grounds were so beautiful .",
+        "the architecture was amazing .",
+        "the gardens were very well kept , especially the elaborate rose garden .",
+        "however , most of homes in the neighboring village had fallen intp disrepair ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "today we visited an historic church.  it was a great place, with amazing architecture and lovely grounds.  the gardens were very well maintained, but the homes were in disrepair.",
+      "normalized_edited_story_text_sent": [
+        "today we visited an historic church .",
+        "it was a great place , with amazing architecture and lovely grounds .",
+        "the gardens were very well maintained , but the homes were in disrepair ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the church was a great place to visit . the grounds were very beautiful . the architecture was amazing . the gardens were very well kept . Unfortunately, the homes were in disrepair .",
+      "normalized_edited_story_text_sent": [
+        "the church was a great place to visit .",
+        "the grounds were very beautiful .",
+        "the architecture was amazing .",
+        "the gardens were very well kept .",
+        "unfortunately , the homes were in disrepair ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the church was a great place to visit . the grounds were so beautiful and had many different buildings . the architecture was amazing . the gardens were very well kept and were peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the church was a great place to visit .",
+        "the grounds were so beautiful and had many different buildings .",
+        "the architecture was amazing .",
+        "the gardens were very well kept and were peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "while on vacation, the old stone church was a great place to visit. the grounds were so beautiful and my grandmother especially enjoyed that part. the landscaping and architecture was just amazing. i was impressed that the gardens were so well kept. the entire place was very well maintained and a real slice of history.",
+      "normalized_edited_story_text_sent": [
+        "while on vacation , the old stone church was a great place to visit .",
+        "the grounds were so beautiful and my grandmother especially enjoyed that part .",
+        "the landscaping and architecture was just amazing .",
+        "i was impressed that the gardens were so well kept .",
+        "the entire place was very well maintained and a real slice of history ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602689117526",
+  "model": "GLAC"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "3297760-3297643-3297714-3297692-3297775",
+  "photo_sequence_ids": [
+    "3297760",
+    "3297643",
+    "3297714",
+    "3297692",
+    "3297775"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the convention was a lot of fun . there were a lot of people there . the speaker was very good . we had a great time . afterward we all went to the bar .",
+  "edited_stories": [
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the convention was a lot of fun . there were a lot of people everywhere . the speaker was very influential . we had a great time . afterward we all went to the bar .",
+      "normalized_edited_story_text_sent": [
+        "the convention was a lot of fun .",
+        "there were a lot of people everywhere .",
+        "the speaker was very influential .",
+        "we had a great time .",
+        "afterward we all went to the bar ."
+      ]
+    },
+    {
+      "worker_id": "A27FBMV6E4YO3T",
+      "edited_story_text": "The street party was a lot of fun . There was a large crowd . We gathered around a blue plastic pool. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the street party was a lot of fun .",
+        "there was a large crowd .",
+        "we gathered around a blue plastic pool .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the fair was a lot of fun . there were a lot of people there . the food was very good . we had a great time . we had fun getting our drinks out of the tiny pool .",
+      "normalized_edited_story_text_sent": [
+        "the fair was a lot of fun .",
+        "there were a lot of people there .",
+        "the food was very good .",
+        "we had a great time .",
+        "we had fun getting our drinks out of the tiny pool ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the convention was a lot of fun . there were a lot of people there . the people gathered around.  they had a great time . afterward we all went in the pool.",
+      "normalized_edited_story_text_sent": [
+        "the convention was a lot of fun .",
+        "there were a lot of people there .",
+        "the people gathered around .",
+        "they had a great time .",
+        "afterward we all went in the pool ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the convention was a lot of fun . there were a lot of people there . the speaker was very good . the lights were bright . afterward we all went to the bar .",
+      "normalized_edited_story_text_sent": [
+        "the convention was a lot of fun .",
+        "there were a lot of people there .",
+        "the speaker was very good .",
+        "the lights were bright .",
+        "afterward we all went to the bar ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "82746",
+  "model": "GLAC"
+}

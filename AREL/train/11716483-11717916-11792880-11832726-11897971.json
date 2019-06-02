@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "11716483-11717916-11792880-11832726-11897971",
+  "photo_sequence_ids": [
+    "11716483",
+    "11717916",
+    "11792880",
+    "11832726",
+    "11897971"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/11/11716483_715dcf1e66_o.jpg",
+    "https://farm1.staticflickr.com/6/11717916_1f58950b52_o.jpg",
+    "https://farm1.staticflickr.com/6/11792880_57b69f554a_o.jpg",
+    "https://farm1.staticflickr.com/8/11832726_e448826d14_o.jpg",
+    "https://farm1.staticflickr.com/7/11897971_f36fa56c8f_o.jpg"
+  ],
+  "auto_story_text_normalized": "we got to see a lot of people at the museum . after a while , we went to the museum to play some games . i had a great time . they had a lot of interesting things to do . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I took a photo of my hotel TV. The radio they had in the hotel looked pretty old. Then I made some coffee so I would have energy. While it was brewing I read a book about samurai. Then I went outside to attend the concert.",
+      "normalized_edited_story_text_sent": [
+        "i took a photo of my hotel tv .",
+        "the radio they had in the hotel looked pretty old .",
+        "then i made some coffee so i would have energy .",
+        "while it was brewing i read a book about samurai .",
+        "then i went outside to attend the concert ."
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "after watching  wt  we got to  take in  a few sights  and  saw  a  few  very cool displays . And  even  got  to check out  a  concert venue",
+      "normalized_edited_story_text_sent": [
+        "after watching wt we got to take in a few sights and saw a few very cool displays .",
+        "and even got to check out a concert venue"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "My home has a lot of neat things, like a television. I have a new radio. I make my own coffee. I like to read fiction. Sometimes I go to look at an old building.",
+      "normalized_edited_story_text_sent": [
+        "my home has a lot of neat things , like a television .",
+        "i have a new radio .",
+        "i make my own coffee .",
+        "i like to read fiction .",
+        "sometimes i go to look at an old building ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We got to see a lot of people at the museum today. After awhile, we went there to play games, and I had a great time. They had a lot of interesting things to do!",
+      "normalized_edited_story_text_sent": [
+        "we got to see a lot of people at the museum today .",
+        "after awhile , we went there to play games , and i had a great time .",
+        "they had a lot of interesting things to do !"
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we got to see a lot of people at the museum . after a while , we went to the museum to play some games . i had a great time . they had a lot of interesting things to do . I really enjoyed myself .",
+      "normalized_edited_story_text_sent": [
+        "we got to see a lot of people at the museum .",
+        "after a while , we went to the museum to play some games .",
+        "i had a great time .",
+        "they had a lot of interesting things to do .",
+        "i really enjoyed myself ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "287464"
+}

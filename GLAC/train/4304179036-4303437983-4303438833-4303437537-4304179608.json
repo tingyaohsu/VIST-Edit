@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4304179036-4303437983-4303438833-4303437537-4304179608",
+  "photo_sequence_ids": [
+    "4304179036",
+    "4303437983",
+    "4303438833",
+    "4303437537",
+    "4304179608"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the snow covered the roads . the trees were covered in snow . the trees were covered in snow . the trees were bare . the flowers were blooming .",
+  "edited_stories": [
+    {
+      "worker_id": "A2GMFKPE64NQQC",
+      "edited_story_text": "Snow had fallen throughout the area. Even the trees were covered in snow. There was so much snow that some trees were bent over from the weight. Each tree looked like it was covered in icicles. Even with all the snow, some trees still had beautiful berries on them.",
+      "normalized_edited_story_text_sent": [
+        "snow had fallen throughout the area .",
+        "even the trees were covered in snow .",
+        "there was so much snow that some trees were bent over from the weight .",
+        "each tree looked like it was covered in icicles .",
+        "even with all the snow , some trees still had beautiful berries on them ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The trees were bare and covered in snow. There were some frozen flowers. It was beautiful.\r\rthe snow covered the roads . the trees were covered in snow . the trees were covered in snow . the trees were bare . the flowers were blooming .",
+      "normalized_edited_story_text_sent": [
+        "the trees were bare and covered in snow .",
+        "there were some frozen flowers .",
+        "it was beautiful .",
+        "the snow covered the roads .",
+        "the trees were covered in snow .",
+        "the trees were covered in snow .",
+        "the trees were bare .",
+        "the flowers were blooming ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The roads were blanketed in snow. Bare trees coated in winter\u0027s sparkle, while flowers still blossom and bloom, even through the cold.",
+      "normalized_edited_story_text_sent": [
+        "the roads were blanketed in snow .",
+        "bare trees coated in winter \u0027s sparkle , while flowers still blossom and bloom , even through the cold ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "the roads had a deep blanket of snow today . and the trees were white with ice . it was so heavy some of the trees even bent over under the weight . it looked like an ice forest against the deep blue sky . but eventually we did find some trees trying to bloom under the snow .",
+      "normalized_edited_story_text_sent": [
+        "the roads had a deep blanket of snow today .",
+        "and the trees were white with ice .",
+        "it was so heavy some of the trees even bent over under the weight .",
+        "it looked like an ice forest against the deep blue sky .",
+        "but eventually we did find some trees trying to bloom under the snow ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the snow covered the land . the trees were encapsulated by snow . the trees branches were white . only parts of some trees were bare . there, some flowers bloomed against comprehension .",
+      "normalized_edited_story_text_sent": [
+        "the snow covered the land .",
+        "the trees were encapsulated by snow .",
+        "the trees branches were white .",
+        "only parts of some trees were bare .",
+        "there , some flowers bloomed against comprehension ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623157272067",
+  "model": "GLAC"
+}

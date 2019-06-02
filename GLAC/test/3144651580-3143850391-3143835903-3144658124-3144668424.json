@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "3144651580-3143850391-3143835903-3144658124-3144668424",
+  "photo_sequence_ids": [
+    "3144651580",
+    "3143850391",
+    "3143835903",
+    "3144658124",
+    "3144668424"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family is having a party . they are making a toast . the girl is happy to be there . the man is opening the gift . the family is having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Thanksgiving witht the family.  pics of all the family and a group photo before we eat.",
+      "normalized_edited_story_text_sent": [
+        "thanksgiving witht the family .",
+        "pics of all the family and a group photo before we eat ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The family had a party. We made a toast.  Lisa was happy to be there.  Robert opened his gift, and everyone was having a great time!",
+      "normalized_edited_story_text_sent": [
+        "the family had a party .",
+        "we made a toast .",
+        "[female] was happy to be there .",
+        "[male] opened his gift , and everyone was having a great time !"
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the family is having a party . they are making a toast . the girl and the baby happy to be there . the man is opening the gift .",
+      "normalized_edited_story_text_sent": [
+        "the family is having a party .",
+        "they are making a toast .",
+        "the girl and the baby happy to be there .",
+        "the man is opening the gift ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family is having a party . they are smiling. the baby is happy to be there . the man is surprised by the picture . the family is having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family is having a party .",
+        "they are smiling .",
+        "the baby is happy to be there .",
+        "the man is surprised by the picture .",
+        "the family is having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "MARY AND JOHN SAID the family is having a party . they are making a toast . the girl is happy to be there . the man is opening the gift . the family is having a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] said the family is having a party .",
+        "they are making a toast .",
+        "the girl is happy to be there .",
+        "the man is opening the gift .",
+        "the family is having a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157611736381187",
+  "model": "GLAC"
+}

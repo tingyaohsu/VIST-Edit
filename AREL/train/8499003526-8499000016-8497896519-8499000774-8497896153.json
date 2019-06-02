@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "8499003526-8499000016-8497896519-8499000774-8497896153",
+  "photo_sequence_ids": [
+    "8499003526",
+    "8499000016",
+    "8497896519",
+    "8499000774",
+    "8497896153"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8093/8499003526_e36bc75166_o.jpg",
+    "https://farm9.staticflickr.com/8108/8499000016_6571a92b56_o.jpg",
+    "https://farm9.staticflickr.com/8389/8497896519_a0a0525831_o.jpg",
+    "https://farm9.staticflickr.com/8106/8499000774_dd22c01de9_o.jpg",
+    "https://farm9.staticflickr.com/8505/8497896153_bfed0c8427_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day for a funeral . i had a great time there . the casket was placed on the side of the road . the soldiers were all ready for the parade . the dog was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DWJDNFZNQUFC",
+      "edited_story_text": "it was a beautiful day for a funeral . it was peaceful there . the casket was placed on the side of the grave . the soldiers were carried the casket. the relatives received the honorary flag.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a funeral .",
+        "it was peaceful there .",
+        "the casket was placed on the side of the grave .",
+        "the soldiers were carried the casket .",
+        "the relatives received the honorary flag ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "it was a sad day for a funeral . i had a sad time there . the casket was placed on the side of the road . the soldiers were all ready for the parade that was  somber.",
+      "normalized_edited_story_text_sent": [
+        "it was a sad day for a funeral .",
+        "i had a sad time there .",
+        "the casket was placed on the side of the road .",
+        "the soldiers were all ready for the parade that was somber ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "It was a beautiful day for the funeral. I was glad I went. The casket was carried to the parade by soldiers. The dog came to the funeral too.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for the funeral .",
+        "i was glad i went .",
+        "the casket was carried to the parade by soldiers .",
+        "the dog came to the funeral too ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "it was a beautiful day for a funeral . the casket was placed on the side of the road . the soldiers were ready for the funeral march",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a funeral .",
+        "the casket was placed on the side of the road .",
+        "the soldiers were ready for the funeral march"
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "it was a beautiful day at the  funeral . i enjoyed my time there . the casket was placed along the side of the road . the soldiers came ready for the parade .  even the dog seemed happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day at the funeral .",
+        "i enjoyed my time there .",
+        "the casket was placed along the side of the road .",
+        "the soldiers came ready for the parade .",
+        "even the dog seemed happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632828469673"
+}

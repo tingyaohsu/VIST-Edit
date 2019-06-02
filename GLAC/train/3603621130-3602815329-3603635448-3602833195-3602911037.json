@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "3603621130-3602815329-3603635448-3602833195-3602911037",
+  "photo_sequence_ids": [
+    "3603621130",
+    "3602815329",
+    "3603635448",
+    "3602833195",
+    "3602911037"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a beautiful event . the students were very excited . the students were very proud . they were very happy to finally graduate . the graduates were all smiles .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the graduation ceremony was a pretty event . the students were very happy. the students were very proud . they were very happy to finally graduate . the graduates were all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a pretty event .",
+        "the students were very happy .",
+        "the students were very proud .",
+        "they were very happy to finally graduate .",
+        "the graduates were all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The graduation ceremony was a beautiful event. The students were really excited, and beyond ready to graduate. The parents were so proud. Everyone was all smiles.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a beautiful event .",
+        "the students were really excited , and beyond ready to graduate .",
+        "the parents were so proud .",
+        "everyone was all smiles ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the graduation ceremony was a beautiful event for all the students . the students were very excited that they were finished school . the students were very proud that they all passed . they were very happy to finally graduate and start summer vacation . the graduates were all smiles as their families cheered.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a beautiful event for all the students .",
+        "the students were very excited that they were finished school .",
+        "the students were very proud that they all passed .",
+        "they were very happy to finally graduate and start summer vacation .",
+        "the graduates were all smiles as their families cheered ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "I attended a graduation ceremony and it was a beautiful event . the students were all very excited . the students were very proud too. They were very happy to finally graduate. All of the graduates were all smiles.",
+      "normalized_edited_story_text_sent": [
+        "i attended a graduation ceremony and it was a beautiful event .",
+        "the students were all very excited .",
+        "the students were very proud too .",
+        "they were very happy to finally graduate .",
+        "all of the graduates were all smiles ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the graduation ceremony was a beautiful event . the students were very excited . the students were very happy to finally be out . the graduates were all smiles .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a beautiful event .",
+        "the students were very excited .",
+        "the students were very happy to finally be out .",
+        "the graduates were all smiles ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157619692962767",
+  "model": "GLAC"
+}

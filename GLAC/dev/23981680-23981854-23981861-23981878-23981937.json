@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "23981680-23981854-23981861-23981878-23981937",
+  "photo_sequence_ids": [
+    "23981680",
+    "23981854",
+    "23981861",
+    "23981878",
+    "23981937"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was held in a beautiful venue . the bride and groom were very happy . the couple was so happy to be married . the bride and groom were very happy . the new couple was a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the cemetery was quiet. the bride and groom were very happy . the couple was so happy to be married . the bride and groom were very happy driving. the new couple was a great time .",
+      "normalized_edited_story_text_sent": [
+        "the cemetery was quiet .",
+        "the bride and groom were very happy .",
+        "the couple was so happy to be married .",
+        "the bride and groom were very happy driving .",
+        "the new couple was a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The wedding was held in a really beautiful venue. The bride and groom were really happy with everything, including being married. They had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held in a really beautiful venue .",
+        "the bride and groom were really happy with everything , including being married .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "visiting the graveyard where my parents are buried is always sad but beautiful. afterwards, my sister and brother were welcome guests at my house. they always help lighten the mood. they are camera hogs, too, but i don\u0027t mind. unfortunately it\u0027s always not long before they have to head home.",
+      "normalized_edited_story_text_sent": [
+        "visiting the graveyard where my parents are buried is always sad but beautiful .",
+        "afterwards , my sister and brother were welcome guests at my house .",
+        "they always help lighten the mood .",
+        "they are camera hogs , too , but i do n\u0027t mind .",
+        "unfortunately it \u0027s always not long before they have to head home ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i went to a wedding today.  it was held in a lovely venue.  david and lisa were really thrilled to get married.  they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to a wedding today .",
+        "it was held in a lovely venue .",
+        "[male] and [female] were really thrilled to get married .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a fun time. full of laughs and cheers.",
+      "normalized_edited_story_text_sent": [
+        "the party was a fun time .",
+        "full of laughs and cheers ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "549401",
+  "model": "GLAC"
+}

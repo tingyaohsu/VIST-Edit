@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "1460470968-1459536791-1458191288-1459760857-1460638176",
+  "photo_sequence_ids": [
+    "1460470968",
+    "1459536791",
+    "1458191288",
+    "1459760857",
+    "1460638176"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the ceremony was held in a beautiful venue . the audience was packed with excitement . the graduates were excited to be graduating . the students were very proud of their accomplishments . the family was so happy for them .",
+  "edited_stories": [
+    {
+      "worker_id": "A15Y215D57OSO5",
+      "edited_story_text": "the ceremony was held in a beautiful venue . the guests were filled with excitement . the graduates were excited to finally be graduating. the students were very proud of their accomplishments. their families were so happy for them .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a beautiful venue .",
+        "the guests were filled with excitement .",
+        "the graduates were excited to finally be graduating .",
+        "the students were very proud of their accomplishments .",
+        "their families were so happy for them ."
+      ]
+    },
+    {
+      "worker_id": "A1MKCTVKE7J0ZP",
+      "edited_story_text": "The ceremony was held in a beautiful venue. The audience was packed and jittery with excitement. The students were so thrilled to be graduating.They were very proud of their accomplishments. The family was so happy for them .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a beautiful venue .",
+        "the audience was packed and jittery with excitement .",
+        "the students were so thrilled to be graduating.they were very proud of their accomplishments .",
+        "the family was so happy for them ."
+      ]
+    },
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the ceremony was held in a large arena . the audience was packed with excitement . the students were excited to finally graduate. the students are very proud of their accomplishments . the family was so happy for them .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a large arena .",
+        "the audience was packed with excitement .",
+        "the students were excited to finally graduate .",
+        "the students are very proud of their accomplishments .",
+        "the family was so happy for them ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the ceremony was held in a beautiful venue. IT WAS SO BIG! the audience was packed with excitement . the graduates were excited to be graduating . EVERYONE LOOKED SO NICE IN THEIR CAP AND GOWNS. IT WAS EVIDENT the students were very proud of their accomplishments . the familIES was so happy for them .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a beautiful venue .",
+        "it was so big !",
+        "the audience was packed with excitement .",
+        "the graduates were excited to be graduating .",
+        "everyone looked so nice in their cap and gowns .",
+        "it was evident the students were very proud of their accomplishments .",
+        "the families was so happy for them ."
+      ]
+    },
+    {
+      "worker_id": "A2E746SZEOVYXS",
+      "edited_story_text": "the ceremony was held in a beautiful venue and the audience was packed with excitement. The graduates were excited to be graduating and were very proud of their accomplishments. All the families were happy for them .",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was held in a beautiful venue and the audience was packed with excitement .",
+        "the graduates were excited to be graduating and were very proud of their accomplishments .",
+        "all the families were happy for them ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602202104234",
+  "model": "GLAC"
+}

@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4440524819-4440524789-4464594421-4440524869-4440525113",
+  "photo_sequence_ids": [
+    "4440524819",
+    "4440524789",
+    "4464594421",
+    "4440524869",
+    "4440525113"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4053/4440524819_e149734048_o.jpg",
+    "https://farm5.staticflickr.com/4053/4440524789_c550c73e32_o.jpg",
+    "https://farm3.staticflickr.com/2798/4464594421_5daa31455f_o.jpg",
+    "https://farm5.staticflickr.com/4061/4440524869_f04a69e0b7_o.jpg",
+    "https://farm5.staticflickr.com/4054/4440525113_4a6f19e3ce_o.jpg"
+  ],
+  "auto_story_text_normalized": "the meeting was about to begin . she was very proud of her work . there were a lot of people there . the speaker had a lot of questions . the students were very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the meeting was about to get started, and there were a lot of people there. she gave a presentation and was very proud of the work she\u0027d done. the students had a lot of questions afterward. everyone was happy they had attended.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to get started , and there were a lot of people there .",
+        "she gave a presentation and was very proud of the work she \u0027d done .",
+        "the students had a lot of questions afterward .",
+        "everyone was happy they had attended ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The meeting was about to begin, and the student was very proud of her work. There were a lot of people there and the speaker had a lot of questions. The students were thrilled to be there.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin , and the student was very proud of her work .",
+        "there were a lot of people there and the speaker had a lot of questions .",
+        "the students were thrilled to be there ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the meeting was about to begin . she was very proud of her work and [male] wrote some suggestions . there were a lot of people there to collaborate . a lot of questions were raised by the speaker. it was an enjoyable experience for the students .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "she was very proud of her work and [male] wrote some suggestions .",
+        "there were a lot of people there to collaborate .",
+        "a lot of questions were raised by the speaker .",
+        "it was an enjoyable experience for the students ."
+      ]
+    },
+    {
+      "worker_id": "A2G6PVTS2DHBJJ",
+      "edited_story_text": "The meeting was about to begin. He was very proud of his work. There were a lot of people there. The speaker had a lot of questions. The students were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "he was very proud of his work .",
+        "there were a lot of people there .",
+        "the speaker had a lot of questions .",
+        "the students were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the meeting was about to begin . she was very proud of her work . there were a lot of people there .the speaker had a lot to say . the students were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the meeting was about to begin .",
+        "she was very proud of her work .",
+        "there were a lot of people there .",
+        "the speaker had a lot to say .",
+        "the students were very happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623514925837"
+}

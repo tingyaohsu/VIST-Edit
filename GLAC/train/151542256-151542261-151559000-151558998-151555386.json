@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "151542256-151542261-151559000-151558998-151555386",
+  "photo_sequence_ids": [
+    "151542256",
+    "151542261",
+    "151559000",
+    "151558998",
+    "151555386"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . they saw a lot of interesting things . they even saw some beautiful flowers . the pink ones were very big . the best part was the panda .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The group of people enjoyed looking at all the lovely flowers and fish.",
+      "normalized_edited_story_text_sent": [
+        "the group of people enjoyed looking at all the lovely flowers and fish ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the family went to the zoo . they saw a lot of interesting things in the plant and reptile exhibits . they even saw some beautiful flowers in the rose garden. the pink ones were very big . the best part was the panda, who had just had a set of cute little twin cubs the month before .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw a lot of interesting things in the plant and reptile exhibits .",
+        "they even saw some beautiful flowers in the rose garden .",
+        "the pink ones were very big .",
+        "the best part was the panda , who had just had a set of cute little twin cubs the month before ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the family and I went on a trip to the zoo . We saw a lot of interesting things while we were there. We even saw some beautiful flowers . the pink ones  we saw were very big. the best part about this trip to the zoo was seeing the panda.",
+      "normalized_edited_story_text_sent": [
+        "the family and i went on a trip to the zoo .",
+        "we saw a lot of interesting things while we were there .",
+        "we even saw some beautiful flowers .",
+        "the pink ones we saw were very big .",
+        "the best part about this trip to the zoo was seeing the panda ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went to the zoo . they saw many great things . they even saw some beautiful flowers . the pink ones were very big and bright. . the best part was the panda .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw many great things .",
+        "they even saw some beautiful flowers .",
+        "the pink ones were very big and bright .",
+        "the best part was the panda ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my whole extended family went to the botanical gardens this week. we saw a lot of interesting elements of nature. the flowers, of course, were beautiful. the pink ones were very big and smelled great. i thought the best part was the fish pond and all of its aquatic inhabitants.",
+      "normalized_edited_story_text_sent": [
+        "my whole extended family went to the botanical gardens this week .",
+        "we saw a lot of interesting elements of nature .",
+        "the flowers , of course , were beautiful .",
+        "the pink ones were very big and smelled great .",
+        "i thought the best part was the fish pond and all of its aquatic inhabitants ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594142632397",
+  "model": "GLAC"
+}

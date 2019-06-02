@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4333769073-4334511108-4333768295-4333768349-4334515420",
+  "photo_sequence_ids": [
+    "4333769073",
+    "4334511108",
+    "4333768295",
+    "4333768349",
+    "4334515420"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2779/4333769073_99daa0c944_o.jpg",
+    "https://farm3.staticflickr.com/2745/4334511108_39db5869e5_o.jpg",
+    "https://farm3.staticflickr.com/2754/4333768295_402e8e2378_o.jpg",
+    "https://farm5.staticflickr.com/4026/4333768349_869a525e3f_o.jpg",
+    "https://farm5.staticflickr.com/4044/4334515420_12f9c23390_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to visit my friend \u0027s house today . the church was covered in snow . the view from the top of the mountain was beautiful . the view from the top of the mountain was amazing . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to visit my friend \u0027s house today and the church was covered in snow but the view from the top of the mountain was beautiful . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today and the church was covered in snow but the view from the top of the mountain was beautiful .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "i went to visit my friend \u0027s house today . everything was covered in snow . the view from the top of the mountain was beautiful and amazing. i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today .",
+        "everything was covered in snow .",
+        "the view from the top of the mountain was beautiful and amazing .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i went for a drive today . I saw a church that was covered in snow . the view from the top of the mountain was beautiful . things were covered in snow . i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went for a drive today .",
+        "i saw a church that was covered in snow .",
+        "the view from the top of the mountain was beautiful .",
+        "things were covered in snow .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "i went to visit my friend \u0027s house today. there was a church covered in snow. the view from the top of the mountain was beautiful. It was amazing. i had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today .",
+        "there was a church covered in snow .",
+        "the view from the top of the mountain was beautiful .",
+        "it was amazing .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A15WCNO32MHBAF",
+      "edited_story_text": "I drove to my friend\u0027s house today, past a snow-covered church, overlooking a scenic view of the snow covered valley from the top of the mountain. Once, there, we escaped the cold by heading for the pub, where we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i drove to my friend \u0027s house today , past a snow-covered church , overlooking a scenic view of the snow covered valley from the top of the mountain .",
+        "once , there , we escaped the cold by heading for the pub , where we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623238708241"
+}

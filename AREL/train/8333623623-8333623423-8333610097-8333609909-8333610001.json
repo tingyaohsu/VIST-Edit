@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "8333623623-8333623423-8333610097-8333609909-8333610001",
+  "photo_sequence_ids": [
+    "8333623623",
+    "8333623423",
+    "8333610097",
+    "8333609909",
+    "8333610001"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8362/8333623623_47f037fe88_o.jpg",
+    "https://farm9.staticflickr.com/8358/8333623423_af63979ea4_o.jpg",
+    "https://farm9.staticflickr.com/8492/8333610097_b985115009_o.jpg",
+    "https://farm9.staticflickr.com/8497/8333609909_bed42c19d0_o.jpg",
+    "https://farm9.staticflickr.com/8216/8333610001_86fa48e1fa_o.jpg"
+  ],
+  "auto_story_text_normalized": "the group of people went to an art gallery . we saw a lot of people there . we walked around the streets to see what was going on . there were a lot of people there . this is a picture of a tree .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "the group of people go to an art gallery . we see a lot of people there . he walk around the streets to saw what is going on . there are a lot of people there . this was a picture of a tree .",
+      "normalized_edited_story_text_sent": [
+        "the group of people go to an art gallery .",
+        "we see a lot of people there .",
+        "he walk around the streets to saw what is going on .",
+        "there are a lot of people there .",
+        "this was a picture of a tree ."
+      ]
+    },
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "A group of people went to church service. There was a manger scene that used doll like replicas of biblical characters . We walked around the snowing streets to do shopping. People and shops were getting ready for the Holiday . This is a picture of elves in a store window.",
+      "normalized_edited_story_text_sent": [
+        "a group of people went to church service .",
+        "there was a manger scene that used doll like replicas of biblical characters .",
+        "we walked around the snowing streets to do shopping .",
+        "people and shops were getting ready for the holiday .",
+        "this is a picture of elves in a store window ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The group of people went to an art gallery. We saw a lot of people there. After we attended the gallery, we walked around the streets to see what was going on. There were snow on the ground and street was empty.",
+      "normalized_edited_story_text_sent": [
+        "the group of people went to an art gallery .",
+        "we saw a lot of people there .",
+        "after we attended the gallery , we walked around the streets to see what was going on .",
+        "there were snow on the ground and street was empty ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I attended Mass at Christmass. There was a nativity scene featuring dolls. People were trying to get through the snow-covered streets. The town was highly decorated. More dolls were made up like elves.",
+      "normalized_edited_story_text_sent": [
+        "i attended mass at christmass .",
+        "there was a nativity scene featuring dolls .",
+        "people were trying to get through the snow-covered streets .",
+        "the town was highly decorated .",
+        "more dolls were made up like elves ."
+      ]
+    },
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "The group of people went to an art gallery. We saw a lot of people there. We walked around the streets to see what was going on. There were a lot of lights. This is a picture of a elves.",
+      "normalized_edited_story_text_sent": [
+        "the group of people went to an art gallery .",
+        "we saw a lot of people there .",
+        "we walked around the streets to see what was going on .",
+        "there were a lot of lights .",
+        "this is a picture of a elves ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632405642272"
+}

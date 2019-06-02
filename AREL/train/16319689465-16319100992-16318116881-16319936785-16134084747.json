@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "16319689465-16319100992-16318116881-16319936785-16134084747",
+  "photo_sequence_ids": [
+    "16319689465",
+    "16319100992",
+    "16318116881",
+    "16319936785",
+    "16134084747"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7500/16319689465_318b40436c_o.jpg",
+    "https://farm8.staticflickr.com/7497/16319100992_8c20242048_o.jpg",
+    "https://farm8.staticflickr.com/7566/16318116881_82453b3db6_o.jpg",
+    "https://farm8.staticflickr.com/7581/16319936785_1c6365b6c9_o.jpg",
+    "https://farm8.staticflickr.com/7582/16134084747_fda0428e93_o.jpg"
+  ],
+  "auto_story_text_normalized": "the speaker had a speech . [male] was very proud of his speech . the speaker gave a speech . the speaker was very happy . all of the students were very proud of their accomplishments .",
+  "edited_stories": [
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "The speaker had a speech. [male] was very proud of his speech. Another speaker gave a speech and he was very happy. All of the students were very proud of their accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "the speaker had a speech .",
+        "[male] was very proud of his speech .",
+        "another speaker gave a speech and he was very happy .",
+        "all of the students were very proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A15HH69K0VGFQ",
+      "edited_story_text": "This speaker delivered a very powerful speech. [male] was very proud of his presentation. The host shook hands with guests after his speech. The speaker was very pleased to meet all the people. All of the presenters were very proud of their accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "this speaker delivered a very powerful speech .",
+        "[male] was very proud of his presentation .",
+        "the host shook hands with guests after his speech .",
+        "the speaker was very pleased to meet all the people .",
+        "all of the presenters were very proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "The speaker made a speech. He was very proud of his speech. He made a lot of good points. He was very happy. All of the students were very proud of their accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "the speaker made a speech .",
+        "he was very proud of his speech .",
+        "he made a lot of good points .",
+        "he was very happy .",
+        "all of the students were very proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "the [male] introduced the keynote speaker . The speaker was very excited about his message . Everyone was excited to meet the speaker . Everyone took a moment to meet with the speaker . all of the students had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the [male] introduced the keynote speaker .",
+        "the speaker was very excited about his message .",
+        "everyone was excited to meet the speaker .",
+        "everyone took a moment to meet with the speaker .",
+        "all of the students had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "The speaker had a speech. Dr. Martin was very proud of his speech. The speaker was very happy. All of the students were very proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the speaker had a speech .",
+        "dr. martin was very proud of his speech .",
+        "the speaker was very happy .",
+        "all of the students were very proud of their accomplishments ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157650366560532"
+}

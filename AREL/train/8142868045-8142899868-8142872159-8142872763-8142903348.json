@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "8142868045-8142899868-8142872159-8142872763-8142903348",
+  "photo_sequence_ids": [
+    "8142868045",
+    "8142899868",
+    "8142872159",
+    "8142872763",
+    "8142903348"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8333/8142868045_d47dcee576_o.jpg",
+    "https://farm9.staticflickr.com/8326/8142899868_3eb09b7caf_o.jpg",
+    "https://farm9.staticflickr.com/8476/8142872159_9a25c48d33_o.jpg",
+    "https://farm9.staticflickr.com/8188/8142872763_05a32084b6_o.jpg",
+    "https://farm9.staticflickr.com/8333/8142903348_27e4d81d62_o.jpg"
+  ],
+  "auto_story_text_normalized": "the kids were all dressed up for the event . the kids had a great time at the party . the kids all dressed up for the occasion . the kids were very happy to be there . we had a great time at the event .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The kids got all dressed up for the party, and they had a great time. They were all dressed for the occasion, and they were very happy to be there. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids got all dressed up for the party , and they had a great time .",
+        "they were all dressed for the occasion , and they were very happy to be there .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "All of the kids were dressed in costumes for the event. The kids enjoyed getting the faces painted. Everyone loved posing for group photos. The kids even got to dance. Everyone had a great time at the event.",
+      "normalized_edited_story_text_sent": [
+        "all of the kids were dressed in costumes for the event .",
+        "the kids enjoyed getting the faces painted .",
+        "everyone loved posing for group photos .",
+        "the kids even got to dance .",
+        "everyone had a great time at the event ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the kids were all dressed up for the event . the kids had a great time at the party . there was singing dancing and games.  we had a great time at the event .",
+      "normalized_edited_story_text_sent": [
+        "the kids were all dressed up for the event .",
+        "the kids had a great time at the party .",
+        "there was singing dancing and games .",
+        "we had a great time at the event ."
+      ]
+    },
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "The kids were all dressed up for the event and they had a great time at the party. The kids were very happy to be there and we had a great time at the event!",
+      "normalized_edited_story_text_sent": [
+        "the kids were all dressed up for the event and they had a great time at the party .",
+        "the kids were very happy to be there and we had a great time at the event !"
+      ]
+    },
+    {
+      "worker_id": "A2X2CN7XX6C96N",
+      "edited_story_text": "everyone\u0027s kids were all dressed up for the event . the kids had a great time at the party . the kids all dressed up for the occasion . the kids were very happy to be there . we had a great time at the event .",
+      "normalized_edited_story_text_sent": [
+        "everyone \u0027s kids were all dressed up for the event .",
+        "the kids had a great time at the party .",
+        "the kids all dressed up for the occasion .",
+        "the kids were very happy to be there .",
+        "we had a great time at the event ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631898749264"
+}

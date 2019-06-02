@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "182377457-182377997-182378273-182378686-182379348",
+  "photo_sequence_ids": [
+    "182377457",
+    "182377997",
+    "182378273",
+    "182378686",
+    "182379348"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was ready for the party . the family gathered around the fire . the turkey was cooked . the chicken was placed on the grill . the turkey was done .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The outdoor barbeque had lots of different foods to choose from.",
+      "normalized_edited_story_text_sent": [
+        "the outdoor barbeque had lots of different foods to choose from ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The food was ready of the BBQ. The family was gathered around the fire and making hot dogs and corn.  The hot dog buns were ready for the hot dogs.",
+      "normalized_edited_story_text_sent": [
+        "the food was ready of the bbq .",
+        "the family was gathered around the fire and making hot dogs and corn .",
+        "the hot dog buns were ready for the hot dogs ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the food for the party was prepared . the family was gathered around a fire . the turkey was cooked well . the chicken was cooking on the grill . the turkey was finished and everyone ate it .",
+      "normalized_edited_story_text_sent": [
+        "the food for the party was prepared .",
+        "the family was gathered around a fire .",
+        "the turkey was cooked well .",
+        "the chicken was cooking on the grill .",
+        "the turkey was finished and everyone ate it ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "All of the food was ready for the party. The family took seats around the fire. The turkey was cooked as well. Also, the chicken was placed on the grill. Finally, the turkey was done .",
+      "normalized_edited_story_text_sent": [
+        "all of the food was ready for the party .",
+        "the family took seats around the fire .",
+        "the turkey was cooked as well .",
+        "also , the chicken was placed on the grill .",
+        "finally , the turkey was done ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the food was ready for the party . the family gathered around the grill . the corn was cooked . the chicken was placed on the grill . the food was done and it was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the food was ready for the party .",
+        "the family gathered around the grill .",
+        "the corn was cooked .",
+        "the chicken was placed on the grill .",
+        "the food was done and it was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594188123351",
+  "model": "GLAC"
+}

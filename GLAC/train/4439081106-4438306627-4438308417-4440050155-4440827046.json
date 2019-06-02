@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4439081106-4438306627-4438308417-4440050155-4440827046",
+  "photo_sequence_ids": [
+    "4439081106",
+    "4438306627",
+    "4438308417",
+    "4440050155",
+    "4440827046"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was giving a speech . he was very happy to be there . he was very excited . he was given a speech . he was so proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the man was giving a speech about his first day on the job . he was very happy to be there and welcomed everyone . he was very excited that they all showed up . he was given a speech until it started raining . he was so proud of the work his team had done.",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech about his first day on the job .",
+        "he was very happy to be there and welcomed everyone .",
+        "he was very excited that they all showed up .",
+        "he was given a speech until it started raining .",
+        "he was so proud of the work his team had done ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man was giving a speech . The soldier took a picture. They worked together. Everyone worked hard.",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech .",
+        "the soldier took a picture .",
+        "they worked together .",
+        "everyone worked hard ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The military personnel were there to assist with the flood preparations. Many local volunteers also worked on sandbagging to hold back the flood waters. One of the officers gave and interview and said he was very proud of how hard everyone worked as a team for an important project.",
+      "normalized_edited_story_text_sent": [
+        "the military personnel were there to assist with the flood preparations .",
+        "many local volunteers also worked on sandbagging to hold back the flood waters .",
+        "one of the officers gave and interview and said he was very proud of how hard everyone worked as a team for an important project ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the military man was giving a speech about the project that needed to be done . he was very happy to be there and he stopped to give a short interview to the press . he was very excited by how quickly the volunteers were getting the job done. he was given a speech to address the members of the crowd that had gathered to help . he was so proud to see the last sandbag being placed down to finish the project .",
+      "normalized_edited_story_text_sent": [
+        "the military man was giving a speech about the project that needed to be done .",
+        "he was very happy to be there and he stopped to give a short interview to the press .",
+        "he was very excited by how quickly the volunteers were getting the job done .",
+        "he was given a speech to address the members of the crowd that had gathered to help .",
+        "he was so proud to see the last sandbag being placed down to finish the project ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a man was publicly speaking . he was happy to be present . he was eager to tell tales . he was soon finished and applauded . the man was proud .",
+      "normalized_edited_story_text_sent": [
+        "a man was publicly speaking .",
+        "he was happy to be present .",
+        "he was eager to tell tales .",
+        "he was soon finished and applauded .",
+        "the man was proud ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623509449753",
+  "model": "GLAC"
+}

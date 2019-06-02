@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "66871027-66880607-66880609-66880611-66871030",
+  "photo_sequence_ids": [
+    "66871027",
+    "66880607",
+    "66880609",
+    "66880611",
+    "66871030"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/26/66871027_7bba851935_o.jpg",
+    "https://farm1.staticflickr.com/28/66880607_7a6dd5d425_o.jpg",
+    "https://farm1.staticflickr.com/24/66880609_d2c4b17cf4_o.jpg",
+    "https://farm1.staticflickr.com/28/66880611_72d62f1761_o.jpg",
+    "https://farm1.staticflickr.com/34/66871030_9759cf237b_o.jpg"
+  ],
+  "auto_story_text_normalized": "i made a lot of food for the party . the meat is placed in a pan . then i put the dough on the stove . and the meat was ready to be eaten . after the meal , it was time to eat .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i made a lot of food for the party . the vegetables are placed in a pan . then i put the dough on the stove . and the meat was ready to be eaten . this is the desert .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party .",
+        "the vegetables are placed in a pan .",
+        "then i put the dough on the stove .",
+        "and the meat was ready to be eaten .",
+        "this is the desert ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "I made a lot of food to get ready for the party. First I cooked the mean, then I cooked the macaroni and bread. Soon the food was ready and it was time to eat.",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food to get ready for the party .",
+        "first i cooked the mean , then i cooked the macaroni and bread .",
+        "soon the food was ready and it was time to eat ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "i made a lot of food for the party . the meat is placed in a pan . then i put the dough on the stove . and the meat is ready to be eaten . after the meal , it is time to eat .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party .",
+        "the meat is placed in a pan .",
+        "then i put the dough on the stove .",
+        "and the meat is ready to be eaten .",
+        "after the meal , it is time to eat ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "i made more food for the party . the meat is put in a dish . then i put the mixture on the stove . and the meat was prepare to be eaten . after the meal ,the time had come to eat .",
+      "normalized_edited_story_text_sent": [
+        "i made more food for the party .",
+        "the meat is put in a dish .",
+        "then i put the mixture on the stove .",
+        "and the meat was prepare to be eaten .",
+        "after the meal , the time had come to eat ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I decided to make a lot of food for the party. I put some meat inside the pan. I stirred up my macaroni and cheese. I checked to make sure the meat was ready to be eaten. Everything was finished and it was time to eat.",
+      "normalized_edited_story_text_sent": [
+        "i decided to make a lot of food for the party .",
+        "i put some meat inside the pan .",
+        "i stirred up my macaroni and cheese .",
+        "i checked to make sure the meat was ready to be eaten .",
+        "everything was finished and it was time to eat ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1450140"
+}

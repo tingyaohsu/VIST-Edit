@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "48584887-48584749-48584642-48584495-49325140",
+  "photo_sequence_ids": [
+    "48584887",
+    "48584749",
+    "48584642",
+    "48584495",
+    "49325140"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom were ready to go down the aisle . they were so happy that they could n\u0027t be married . the ceremony was beautiful . the food was delicious . the couple was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the men were standing together . they were so happy together. . the ceremony was beautiful . the desert was delicious . the family was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the men were standing together .",
+        "they were so happy together .",
+        "the ceremony was beautiful .",
+        "the desert was delicious .",
+        "the family was very happy ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bride and groom were ready to go down the aisle . they were so happy to eat the cake they picked out . the ceremony was beautiful . the food was delicious . the couple was very happy .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were ready to go down the aisle .",
+        "they were so happy to eat the cake they picked out .",
+        "the ceremony was beautiful .",
+        "the food was delicious .",
+        "the couple was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the bride and groom were ready to go down the aisle as the guests were gathering. they were so happy that they couldn\u0027t wait to be married and be part of the family. the ceremony was beautiful especially the background . the food was delicious and everyone had plenty. the couple was very happy and one last picture before leaving for their honeymoon.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were ready to go down the aisle as the guests were gathering .",
+        "they were so happy that they could n\u0027t wait to be married and be part of the family .",
+        "the ceremony was beautiful especially the background .",
+        "the food was delicious and everyone had plenty .",
+        "the couple was very happy and one last picture before leaving for their honeymoon ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "the bride and groom were ready to go down the aisle . The look on their happy faces says everything. The food, music, and ceremony was very beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were ready to go down the aisle .",
+        "the look on their happy faces says everything .",
+        "the food , music , and ceremony was very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The bridge and groom are just about ready to go down the aisle.  They couldn\u0027t be happier to be getting married.  There is a fantastic castle backdrop, happy family, and great food.  What more could you ask for?",
+      "normalized_edited_story_text_sent": [
+        "the bridge and groom are just about ready to go down the aisle .",
+        "they could n\u0027t be happier to be getting married .",
+        "there is a fantastic castle backdrop , happy family , and great food .",
+        "what more could you ask for ?"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1056310",
+  "model": "GLAC"
+}

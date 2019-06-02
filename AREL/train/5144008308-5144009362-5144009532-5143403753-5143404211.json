@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5144008308-5144009362-5144009532-5143403753-5143404211",
+  "photo_sequence_ids": [
+    "5144008308",
+    "5144009362",
+    "5144009532",
+    "5143403753",
+    "5143404211"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4005/5144008308_aa6dd69246_o.jpg",
+    "https://farm5.staticflickr.com/4044/5144009362_3a8052b706_o.jpg",
+    "https://farm2.staticflickr.com/1318/5144009532_3bafaacc69_o.jpg",
+    "https://farm2.staticflickr.com/1356/5143403753_3db9ce7ab8_o.jpg",
+    "https://farm5.staticflickr.com/4131/5143404211_56c5d59898_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends went to a halloween party . we had a lot of fun at the party . we had a lot of fun at the party . some people had a great time . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "friends went to a halloween party . we had a great deal of fun at the party . we had a great deal of fun at the party . some people had a incredible time . everybody had a incredible time .",
+      "normalized_edited_story_text_sent": [
+        "friends went to a halloween party .",
+        "we had a great deal of fun at the party .",
+        "we had a great deal of fun at the party .",
+        "some people had a incredible time .",
+        "everybody had a incredible time ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "a group of friends go to a halloween party . we have a lot of fun at the party . we have a lot of fun at the party . some people have a great time . everyone have a great time .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends go to a halloween party .",
+        "we have a lot of fun at the party .",
+        "we have a lot of fun at the party .",
+        "some people have a great time .",
+        "everyone have a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "A group of friends went to a halloween party.  We had a lot of fun at the party. Everyone had a great time just hanging out and acting goofy.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went to a halloween party .",
+        "we had a lot of fun at the party .",
+        "everyone had a great time just hanging out and acting goofy ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "a group of friends went to a halloween party . we had a blast at the party . we had a good time at the party . some people had an awesome . everyone had fun .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went to a halloween party .",
+        "we had a blast at the party .",
+        "we had a good time at the party .",
+        "some people had an awesome .",
+        "everyone had fun ."
+      ]
+    },
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "A group of us went to a halloween party. we dressed up in costumes and had a lot of friends.We took a lot of photos together. Everyone at the party had a good time together.",
+      "normalized_edited_story_text_sent": [
+        "a group of us went to a halloween party .",
+        "we dressed up in costumes and had a lot of friends.we took a lot of photos together .",
+        "everyone at the party had a good time together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625306347444"
+}

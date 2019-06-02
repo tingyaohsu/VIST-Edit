@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "66994313-66994709-66995305-66994032-67693915",
+  "photo_sequence_ids": [
+    "66994313",
+    "66994709",
+    "66995305",
+    "66994032",
+    "67693915"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a dinner . they had a lot of food . they had a great time . they had a few drinks . they had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the family got together for thanksgiving . they had a lot of food to eat. they had a great time and brought their families with them . they had a few drinks. after it they went to the park.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for thanksgiving .",
+        "they had a lot of food to eat .",
+        "they had a great time and brought their families with them .",
+        "they had a few drinks .",
+        "after it they went to the park ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a dinner . they had a lot of food .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a dinner .",
+        "they had a lot of food ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the family dinner was ready . they food, delicious . they revelers, enthralled. the drinks, shared. they had a blast .",
+      "normalized_edited_story_text_sent": [
+        "the family dinner was ready .",
+        "they food , delicious .",
+        "they revelers , enthralled .",
+        "the drinks , shared .",
+        "they had a blast ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family got together for a dinner party at the house . they had a lot of food which is always a good thing. they had a great time talking to old friends . they had a few drinks and ate a ton of food . they had a good time playing the piano.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a dinner party at the house .",
+        "they had a lot of food which is always a good thing .",
+        "they had a great time talking to old friends .",
+        "they had a few drinks and ate a ton of food .",
+        "they had a good time playing the piano ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the family got together for a dinner . they had a lot of food . they had a great time . they had a few drinks . they had a good time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family got together for a dinner .",
+        "they had a lot of food .",
+        "they had a great time .",
+        "they had a few drinks .",
+        "they had a good time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1445664",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "21396976-21397015-21397089-21397434-21397471",
+  "photo_sequence_ids": [
+    "21396976",
+    "21397015",
+    "21397089",
+    "21397434",
+    "21397471"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/15/21396976_c69b64f4f0_o.jpg",
+    "https://farm1.staticflickr.com/15/21397015_2c35d62097_o.jpg",
+    "https://farm1.staticflickr.com/17/21397089_4b2bf6c055_o.jpg",
+    "https://farm1.staticflickr.com/16/21397434_d77bf75d13_o.jpg",
+    "https://farm1.staticflickr.com/16/21397471_b6297b78da_o.jpg"
+  ],
+  "auto_story_text_normalized": "the room was set up and ready for the party . it was a lot of fun . they have a new house . we had to clean up the house . and the kids were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the room was set up and ready for the party . it was a lot of fun . The house is newer so we had to clean up the house a little .  the kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the room was set up and ready for the party .",
+        "it was a lot of fun .",
+        "the house is newer so we had to clean up the house a little .",
+        "the kids were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "The room was set up and ready for the party. It was a lot of fun. They have a new house. We had to clean up and around the house. The kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the room was set up and ready for the party .",
+        "it was a lot of fun .",
+        "they have a new house .",
+        "we had to clean up and around the house .",
+        "the kids were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "the room was set up and ready for the party . There needed to be some work but we powered through and had the place cleaned and ready to partay! .  The kids were having a blast at the party and our new home",
+      "normalized_edited_story_text_sent": [
+        "the room was set up and ready for the party .",
+        "there needed to be some work but we powered through and had the place cleaned and ready to partay !",
+        ".",
+        "the kids were having a blast at the party and our new home"
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Today we got the room ready for the part. The room was in their new home, which is really nice. The kids had a great time together as well.",
+      "normalized_edited_story_text_sent": [
+        "today we got the room ready for the part .",
+        "the room was in their new home , which is really nice .",
+        "the kids had a great time together as well ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the room was empty before we set up for the party. setting it up was a lot of fun . It was fun to help because they have a new house . we had to clean up the house a little before the party started. the kids and adults all  had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the room was empty before we set up for the party .",
+        "setting it up was a lot of fun .",
+        "it was fun to help because they have a new house .",
+        "we had to clean up the house a little before the party started .",
+        "the kids and adults all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "497938"
+}

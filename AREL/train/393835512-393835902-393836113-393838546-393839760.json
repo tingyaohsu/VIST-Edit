@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "393835512-393835902-393836113-393838546-393839760",
+  "photo_sequence_ids": [
+    "393835512",
+    "393835902",
+    "393836113",
+    "393838546",
+    "393839760"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/137/393835512_53cc3d6fca_o.jpg",
+    "https://farm1.staticflickr.com/175/393835902_5f45eaf44c_o.jpg",
+    "https://farm1.staticflickr.com/180/393836113_6cf46a3c77_o.jpg",
+    "https://farm1.staticflickr.com/131/393838546_d7baa031a0_o.jpg",
+    "https://farm1.staticflickr.com/181/393839760_4fe2481592_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party . we had a lot of fun at the party . the cake was delicious . the bride was very happy to be there . after the meal , we had a delicious dessert .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i had a great time at my friend\u0027s wedding. the bride looked so happy. We had a lot of fun at the reception afterward. The food was amazing and the cake was delicious.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at my friend \u0027s wedding .",
+        "the bride looked so happy .",
+        "we had a lot of fun at the reception afterward .",
+        "the food was amazing and the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I loved my place setting at the party. It was so much fun at the party. The cake was beautiful \u0026 tasted delicious. The bride was very happy that everything went as planned. After the main course, we had some of the wedding cake.",
+      "normalized_edited_story_text_sent": [
+        "i loved my place setting at the party .",
+        "it was so much fun at the party .",
+        "the cake was beautiful \u0026 tasted delicious .",
+        "the bride was very happy that everything went as planned .",
+        "after the main course , we had some of the wedding cake ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the wedding party . the cake was delicious . the bride was very happy to be there . after the meal , we had a delicious dessert .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the wedding party .",
+        "the cake was delicious .",
+        "the bride was very happy to be there .",
+        "after the meal , we had a delicious dessert ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "We had a great time at the party.  The bride was very happy to be there. After the meal, we had a delicious dessert. The cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "the bride was very happy to be there .",
+        "after the meal , we had a delicious dessert .",
+        "the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "ANMD34DNHLOLC",
+      "edited_story_text": "i had a great time at the wedding. we had a lot of fun at the party . the cake was delicious . the bride was very happy to be there . after the meal , we had a delicious dessert .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the wedding .",
+        "we had a lot of fun at the party .",
+        "the cake was delicious .",
+        "the bride was very happy to be there .",
+        "after the meal , we had a delicious dessert ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594541988863"
+}

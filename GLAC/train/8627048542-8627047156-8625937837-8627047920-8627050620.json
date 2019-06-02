@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "8627048542-8627047156-8625937837-8627047920-8627050620",
+  "photo_sequence_ids": [
+    "8627048542",
+    "8627047156",
+    "8625937837",
+    "8627047920",
+    "8627050620"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . they had a lot of fun and had a good time . they had a few drinks too . everyone had a great time . the night was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family was having a great time at the party. it was a lot of fun. they had a few drinks too. the night was a success .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "it was a lot of fun .",
+        "they had a few drinks too .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and john were glad the the family was having a great time at the party . they had a lot of fun and had a good time . they had a few drinks too . everyone had a great time . the night was a success .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] were glad the the family was having a great time at the party .",
+        "they had a lot of fun and had a good time .",
+        "they had a few drinks too .",
+        "everyone had a great time .",
+        "the night was a success ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was having a great time at the party . There was a cake and signs for St Patrick\u0027s day. Everyone enjoyed the party.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "there was a cake and signs for st patrick \u0027s day .",
+        "everyone enjoyed the party ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We had a great birthday for John.  Loved the festive mood and decorative cake.  Great group shot at the end.",
+      "normalized_edited_story_text_sent": [
+        "we had a great birthday for [male] .",
+        "loved the festive mood and decorative cake .",
+        "great group shot at the end ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a great time at the party . they had a lot of fun and had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they had a lot of fun and had a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157633184822264",
+  "model": "GLAC"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5680433681-5680997288-5680997912-5680435661-5680439037",
+  "photo_sequence_ids": [
+    "5680433681",
+    "5680997288",
+    "5680997912",
+    "5680435661",
+    "5680439037"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to be at the meeting . the speaker was very knowledgeable . the audience was eager to hear the speech . the crowd was full of energy . the speakers were very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the students were excited to be at the meeting . the speaker was very knowledgeable . the audience was eager to hear the speech . the crowd was full of energy . the presentation was very good .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be at the meeting .",
+        "the speaker was very knowledgeable .",
+        "the audience was eager to hear the speech .",
+        "the crowd was full of energy .",
+        "the presentation was very good ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the students were excited to be at the meeting . they were eager to hear the featured speaker and listened intently . the speaker was very knowledgeable and made a great presentation . afterward, the crowd was full of energy and exchanged a lot of information .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be at the meeting .",
+        "they were eager to hear the featured speaker and listened intently .",
+        "the speaker was very knowledgeable and made a great presentation .",
+        "afterward , the crowd was full of energy and exchanged a lot of information ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the students were excited to be at the meeting . the speaker was very knowledgeable . the young audience was eager to hear the speech . the crowd was full of energy . everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be at the meeting .",
+        "the speaker was very knowledgeable .",
+        "the young audience was eager to hear the speech .",
+        "the crowd was full of energy .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the students were excited to be at the meeting and chatted among themselves . the main speaker was very knowledgeable and funny . the audience listened eagerly to the speech . the crowd was engaged and full of energy . the rest of the speakers were also very good .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be at the meeting and chatted among themselves .",
+        "the main speaker was very knowledgeable and funny .",
+        "the audience listened eagerly to the speech .",
+        "the crowd was engaged and full of energy .",
+        "the rest of the speakers were also very good ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the students were excited to be at the meeting knowing something new . the speaker was very knowledgeable . the audience was eager to hear the speech . the crowd was full of energy . the speakers were very smart .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to be at the meeting knowing something new .",
+        "the speaker was very knowledgeable .",
+        "the audience was eager to hear the speech .",
+        "the crowd was full of energy .",
+        "the speakers were very smart ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626507385367",
+  "model": "GLAC"
+}

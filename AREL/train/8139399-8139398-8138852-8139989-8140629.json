@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "8139399-8139398-8138852-8139989-8140629",
+  "photo_sequence_ids": [
+    "8139399",
+    "8139398",
+    "8138852",
+    "8139989",
+    "8140629"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/8/8139399_85e6dc913f_o.jpg",
+    "https://farm1.staticflickr.com/4/8139398_4563a8153e_o.jpg",
+    "https://farm1.staticflickr.com/8/8138852_14dd84180a_o.jpg",
+    "https://farm1.staticflickr.com/4/8139989_b2068bae4f_o.jpg",
+    "https://farm1.staticflickr.com/5/8140629_d009d6d558_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . the boat was very old and had a lot of fun . there was a lot of graffiti on the side of the road . this is a picture of a building . there were a lot of people there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "this is a picture of a building .there was a lot of graffiti on the side of the road . this is a picture of a building . there were not a lot of people there walking.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "there was a lot of graffiti on the side of the road .",
+        "this is a picture of a building .",
+        "there were not a lot of people there walking ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "here\u0027s the building by the water . the old boat was pretty fun . there were brick walls and graffiti by the roadside. there\u0027s a building near the tables. many people were near the fruit and vegetable stand .",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s the building by the water .",
+        "the old boat was pretty fun .",
+        "there were brick walls and graffiti by the roadside .",
+        "there \u0027s a building near the tables .",
+        "many people were near the fruit and vegetable stand ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a building . the boat was very old and had a lot of fun . there was a lot of graffiti on the side of the road . this is a picture of a building and there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "the boat was very old and had a lot of fun .",
+        "there was a lot of graffiti on the side of the road .",
+        "this is a picture of a building and there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "here is a picture of a building . the boat was very old and was a lot of fun . there was a lot of graffiti on the side of the road . this is another picture of a building . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "here is a picture of a building .",
+        "the boat was very old and was a lot of fun .",
+        "there was a lot of graffiti on the side of the road .",
+        "this is another picture of a building .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of the building. The boat was really old, but we had a lot of fun. You can see the graffiti on the side of the road. Here\u0027s another picture of the building. There were a lot of people there!",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of the building .",
+        "the boat was really old , but we had a lot of fun .",
+        "you can see the graffiti on the side of the road .",
+        "here \u0027s another picture of the building .",
+        "there were a lot of people there !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "202700"
+}

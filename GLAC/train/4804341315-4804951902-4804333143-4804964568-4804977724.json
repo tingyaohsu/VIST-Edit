@@ -1,0 +1,62 @@
+{
+  "photo_sequence_id": "4804341315-4804951902-4804333143-4804964568-4804977724",
+  "photo_sequence_ids": [
+    "4804341315",
+    "4804951902",
+    "4804333143",
+    "4804964568",
+    "4804977724"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to see the football game . the players were very excited . the mascot was in the crowd . the team was ready for the game . the fans were all lined up .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the kids were excited to see the football game. the players were very excited and ready to play.  everyone had so much fun.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to see the football game .",
+        "the players were very excited and ready to play .",
+        "everyone had so much fun ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The kids were outside playing with each other. They were playing hop scotch and running around with the adults. Everyone was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were outside playing with each other .",
+        "they were playing hop scotch and running around with the adults .",
+        "everyone was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the kids were so excited for the event today! everyone lined up to play the games. They really emphasized teamwork with the activities.",
+      "normalized_edited_story_text_sent": [
+        "the kids were so excited for the event today !",
+        "everyone lined up to play the games .",
+        "they really emphasized teamwork with the activities ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to play on the playground. The kids played with a green ball. Everyone ran around.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play on the playground .",
+        "the kids played with a green ball .",
+        "everyone ran around ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The kids were excited to see the football game before the game.  They played outside on the playground before the game started.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to see the football game before the game .",
+        "they played outside on the playground before the game started ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624409178315",
+  "model": "GLAC"
+}

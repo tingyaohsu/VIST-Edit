@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "31336357-32792454-32792758-31336483-32793123",
+  "photo_sequence_ids": [
+    "31336357",
+    "32792454",
+    "32792758",
+    "31336483",
+    "32793123"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready for the wedding . the bride and groom are very happy . the couple is having a great time at the reception . the couple is now in the church . the new car is being presented .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the bride at the rehearsal. Switch to the big day!  She looked beautiful.  The groom and best man at the altar.  The car was decorated by the groomsmen.",
+      "normalized_edited_story_text_sent": [
+        "the bride at the rehearsal .",
+        "switch to the big day !",
+        "she looked beautiful .",
+        "the groom and best man at the altar .",
+        "the car was decorated by the groomsmen ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the bride and groom were getting ready for the wedding.  they wed under an arch and posed for some pictures. the couple drove away in their car.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready for the wedding .",
+        "they wed under an arch and posed for some pictures .",
+        "the couple drove away in their car ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the bride and groom are getting ready for the wedding . the bride and groom were so excited to see each other . the location of the wedding was so beautiful and peaceful . after it they left the wedding in a car",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the bride and groom were so excited to see each other .",
+        "the location of the wedding was so beautiful and peaceful .",
+        "after it they left the wedding in a car"
+      ]
+    },
+    {
+      "worker_id": "A2JP8W265WCC35",
+      "edited_story_text": "The bride and groom are very happy as they get ready for the wedding. They had a great time at the reception and are now at the church, where a new car awaits them.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are very happy as they get ready for the wedding .",
+        "they had a great time at the reception and are now at the church , where a new car awaits them ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the bride and groom are getting ready for the wedding . the bride and groom are very happy . the couple is having a great time at the reception . the couple is now in the church . the ride took nice pics .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the wedding .",
+        "the bride and groom are very happy .",
+        "the couple is having a great time at the reception .",
+        "the couple is now in the church .",
+        "the ride took nice pics ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594085302199",
+  "model": "GLAC"
+}

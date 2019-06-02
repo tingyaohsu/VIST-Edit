@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4858488050-4857879309-4858504078-4858548766-4857934157",
+  "photo_sequence_ids": [
+    "4858488050",
+    "4857879309",
+    "4858504078",
+    "4858548766",
+    "4857934157"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited for the wedding . the church was decorated with flowers . the couple was ready to be married . the groom and his wife were very happy . the bride and groom were so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was nervously excited . the church was decorated with flowers for the wedding . the couple had dated and was ready . the groom and wife were happy to be joined . the bride and groom were happy so many could attend .",
+      "normalized_edited_story_text_sent": [
+        "the family was nervously excited .",
+        "the church was decorated with flowers for the wedding .",
+        "the couple had dated and was ready .",
+        "the groom and wife were happy to be joined .",
+        "the bride and groom were happy so many could attend ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Nobody could wait for the wedding day.  All the kids were dressed up and of course so was the bride and groom.  I captured the moments here.",
+      "normalized_edited_story_text_sent": [
+        "nobody could wait for the wedding day .",
+        "all the kids were dressed up and of course so was the bride and groom .",
+        "i captured the moments here ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited for the wedding .The ceremony was outside near the water. The marriage certificate was signed. The family gathered in the room .She gave him a drink.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the wedding .",
+        "the ceremony was outside near the water .",
+        "the marriage certificate was signed .",
+        "the family gathered in the room .",
+        "she gave him a drink ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the family was excited for the wedding . the church was decorated with flowers . the couple was ready to be married . the groom and his wife were very happy . the bride and groom were so happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the family was excited for the wedding .",
+        "the church was decorated with flowers .",
+        "the couple was ready to be married .",
+        "the groom and his wife were very happy .",
+        "the bride and groom were so happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was excited for the wedding which was about to start . the church was decorated with flowers and also with chairs . the couple was ready to be married because they loved each other . the groom and his wife were very happy that the entire family was there . the bride and groom were so happy that the weather was nice that day .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for the wedding which was about to start .",
+        "the church was decorated with flowers and also with chairs .",
+        "the couple was ready to be married because they loved each other .",
+        "the groom and his wife were very happy that the entire family was there .",
+        "the bride and groom were so happy that the weather was nice that day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624523284401",
+  "model": "GLAC"
+}

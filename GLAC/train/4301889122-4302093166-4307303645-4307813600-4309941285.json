@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4301889122-4302093166-4307303645-4307813600-4309941285",
+  "photo_sequence_ids": [
+    "4301889122",
+    "4302093166",
+    "4307303645",
+    "4307813600",
+    "4309941285"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the car was very shiny . the cars were also in good condition . the vehicles were lined up . the red truck was the best . the yellow car was the most popular .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the car was very shiny . the cars were also in good condition . the vehicles were lined up . the orange sports car was the best . the dark grey car was the most popular .",
+      "normalized_edited_story_text_sent": [
+        "the car was very shiny .",
+        "the cars were also in good condition .",
+        "the vehicles were lined up .",
+        "the orange sports car was the best .",
+        "the dark grey car was the most popular ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "These vehicles were pristine. All of them looked as though they just came off the assembly line by the looks of their unreal perfection. They were all lined up, showcasing them for everyone to see. By far, the best one was a red colored truck, but most people were taking a liking to the yellow car.",
+      "normalized_edited_story_text_sent": [
+        "these vehicles were pristine .",
+        "all of them looked as though they just came off the assembly line by the looks of their unreal perfection .",
+        "they were all lined up , showcasing them for everyone to see .",
+        "by far , the best one was a red colored truck , but most people were taking a liking to the yellow car ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the cars were all very shiny . the cars were also in good condition at the car show . the vehicles were lined up for the show. the orange car was the best and won. the gray car was the most popular .",
+      "normalized_edited_story_text_sent": [
+        "the cars were all very shiny .",
+        "the cars were also in good condition at the car show .",
+        "the vehicles were lined up for the show .",
+        "the orange car was the best and won .",
+        "the gray car was the most popular ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the car was very shiny . the cars were also in good condition",
+      "normalized_edited_story_text_sent": [
+        "the car was very shiny .",
+        "the cars were also in good condition"
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "went to car show downtown.  the cars were very shiny . the cars were also in good condition . the vehicles were lined up . the orange lambourghini was the best .",
+      "normalized_edited_story_text_sent": [
+        "went to car show downtown .",
+        "the cars were very shiny .",
+        "the cars were also in good condition .",
+        "the vehicles were lined up .",
+        "the orange lambourghini was the best ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623276651796",
+  "model": "GLAC"
+}

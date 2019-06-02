@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4488468130-4487819525-4487819677-4488470792-4487822401",
+  "photo_sequence_ids": [
+    "4488468130",
+    "4487819525",
+    "4487819677",
+    "4488470792",
+    "4487822401"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very beautiful . there were many people out . the streets were empty . the horses were covered in snow . the dog was curious .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was very beautiful for a spring day . there were many people out enjoying the warmer weather. the streets were empty once the rain came . the horses were covered in snow because they were up north . the dog was curious why the horses were there.",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful for a spring day .",
+        "there were many people out enjoying the warmer weather .",
+        "the streets were empty once the rain came .",
+        "the horses were covered in snow because they were up north .",
+        "the dog was curious why the horses were there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city had a beautiful day . there were many people out and about . the streets weren\u0027t empty until later . the horses were covered in snow the day before . today, it was suddenly sunny, and even the dog was curious .",
+      "normalized_edited_story_text_sent": [
+        "the city had a beautiful day .",
+        "there were many people out and about .",
+        "the streets were n\u0027t empty until later .",
+        "the horses were covered in snow the day before .",
+        "today , it was suddenly sunny , and even the dog was curious ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the city was very beautiful and had many murals . there were many people out  walking around enjoying the sunny day. the streets were empty except for a few cars and  some pedestrians . the horses that were out were covered in sunlight. the dog was curious and sniffed my friend Amy and i .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful and had many murals .",
+        "there were many people out walking around enjoying the sunny day .",
+        "the streets were empty except for a few cars and some pedestrians .",
+        "the horses that were out were covered in sunlight .",
+        "the dog was curious and sniffed my friend amy and i ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the city was very beautiful . there were many people out . the streets were empty . the horses were covered in snow . the dog was curious .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the city was very beautiful .",
+        "there were many people out .",
+        "the streets were empty .",
+        "the horses were covered in snow .",
+        "the dog was curious ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the city was very beautiful . there were many people out . the streets had cars parked . the horses were covered in snow . the dog was curious .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "there were many people out .",
+        "the streets had cars parked .",
+        "the horses were covered in snow .",
+        "the dog was curious ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623639739647",
+  "model": "GLAC"
+}

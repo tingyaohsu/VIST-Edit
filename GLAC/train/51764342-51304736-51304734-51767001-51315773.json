@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "51764342-51304736-51304734-51767001-51315773",
+  "photo_sequence_ids": [
+    "51764342",
+    "51304736",
+    "51304734",
+    "51767001",
+    "51315773"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the table was set for the party . the food was delicious . the family was excited to be there . the baby was very happy . the dinner was great .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the table was set for the get-together . delicious food was served . the family was excited to be reunited . the baby was very cheerful . the dinner was a great meal .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the get-together .",
+        "delicious food was served .",
+        "the family was excited to be reunited .",
+        "the baby was very cheerful .",
+        "the dinner was a great meal ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the table was all set for the party . the food that we had was so delicious. Everybody in the family was excited to be there . the baby was very happy to be there too. Overall, the dinner was great.",
+      "normalized_edited_story_text_sent": [
+        "the table was all set for the party .",
+        "the food that we had was so delicious .",
+        "everybody in the family was excited to be there .",
+        "the baby was very happy to be there too .",
+        "overall , the dinner was great ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the table was set for my husbands birthday party . the prime rib was delicious . our familids were excited to be there . my baby was very happy to see our family . the dinner was great .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for my husbands birthday party .",
+        "the prime rib was delicious .",
+        "our familids were excited to be there .",
+        "my baby was very happy to see our family .",
+        "the dinner was great ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the table was set for the party . the food was delicious . The cake was chocolate. Everyone gathered around. He cut the cake.",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the party .",
+        "the food was delicious .",
+        "the cake was chocolate .",
+        "everyone gathered around .",
+        "he cut the cake ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the table was set for the party . the food was awesome . the family was excited to be there . even the baby was very happy . the dinner was great .",
+      "normalized_edited_story_text_sent": [
+        "the table was set for the party .",
+        "the food was awesome .",
+        "the family was excited to be there .",
+        "even the baby was very happy .",
+        "the dinner was great ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1121075",
+  "model": "GLAC"
+}

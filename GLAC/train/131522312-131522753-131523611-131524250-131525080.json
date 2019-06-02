@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "131522312-131522753-131523611-131524250-131525080",
+  "photo_sequence_ids": [
+    "131522312",
+    "131522753",
+    "131523611",
+    "131524250",
+    "131525080"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the lady was having a good time . the man was happy to be there . the guy was enjoying the show . the women were very excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a great time.",
+      "normalized_edited_story_text_sent": [
+        "the party was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the band was playing music for all the people . the lady was having a good time dancing to the music. the man was happy to be there as he just got off work . the guy was enjoying the show and the singing . the women were very excited that the boys came to the party .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music for all the people .",
+        "the lady was having a good time dancing to the music .",
+        "the man was happy to be there as he just got off work .",
+        "the guy was enjoying the show and the singing .",
+        "the women were very excited that the boys came to the party ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "david and lisa went to a nightclub last night.  lisa had a great time, while david enjoyed the show.  some other women in the club were getting excited.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] went to a nightclub last night .",
+        "[female] had a great time , while [male] enjoyed the show .",
+        "some other women in the club were getting excited ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the band was playing music . the music played loud . the lady was having a good time . the man was happy to be there . the guy was enjoying the show .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the music played loud .",
+        "the lady was having a good time .",
+        "the man was happy to be there .",
+        "the guy was enjoying the show ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the band was playing some really good music . the lady we saw was having a good time . the man we saw was also happy to be there. the guy was really enjoying the show. All of the the women there were very excited .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing some really good music .",
+        "the lady we saw was having a good time .",
+        "the man we saw was also happy to be there .",
+        "the guy was really enjoying the show .",
+        "all of the the women there were very excited ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594111789928",
+  "model": "GLAC"
+}

@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "38106672-38106810-38106929-38107073-38107216",
+  "photo_sequence_ids": [
+    "38106672",
+    "38106810",
+    "38106929",
+    "38107073",
+    "38107216"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/24/38106672_a37ea61547_o.jpg",
+    "https://farm1.staticflickr.com/23/38106810_b0ba747996_o.jpg",
+    "https://farm1.staticflickr.com/28/38106929_17dee90461_o.jpg",
+    "https://farm1.staticflickr.com/29/38107073_f9f25284b1_o.jpg",
+    "https://farm1.staticflickr.com/24/38107216_8eaa6b3db3_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went to the lake . the kids were very excited to play in the water . there were a lot of people there . this is a picture of a boat . [male] and [male] were able to take a boat ride .",
+  "edited_stories": [
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "the family went to the lake . the kids were very excited to play in the water . there were a lot of people swimming there . this is a picture of us on our floaties . [male] and [male] even went in the water .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake .",
+        "the kids were very excited to play in the water .",
+        "there were a lot of people swimming there .",
+        "this is a picture of us on our floaties .",
+        "[male] and [male] even went in the water ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "the family went to the lake it was a hot summer day . the kids were very excited to play in the water and cool of in the lake water . there were a lot of people there swimming and having fun. this is a picture of a boat that was docked close by. [male] and [male] were able to take a boat ride and enjoy the views .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake it was a hot summer day .",
+        "the kids were very excited to play in the water and cool of in the lake water .",
+        "there were a lot of people there swimming and having fun .",
+        "this is a picture of a boat that was docked close by .",
+        "[male] and [male] were able to take a boat ride and enjoy the views ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "he go to the lake . he was very excited to play in the water . there was a lot of people there . this was a picture of a boat . [male] and [female] was able to take a boat ride .",
+      "normalized_edited_story_text_sent": [
+        "he go to the lake .",
+        "he was very excited to play in the water .",
+        "there was a lot of people there .",
+        "this was a picture of a boat .",
+        "[male] and [female] was able to take a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family went to the lake . the kids were very excited to play in the water . there were a lot of people there and this is a picture of a boat . [male] and [male] were able to take a boat ride .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake .",
+        "the kids were very excited to play in the water .",
+        "there were a lot of people there and this is a picture of a boat .",
+        "[male] and [male] were able to take a boat ride ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the family took a trip to the lake . the kids were thrilled to play in the water . there was a crowd at the lake . this is a photo of a flotation device. [male] and [male] were able to play with the devices .",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to the lake .",
+        "the kids were thrilled to play in the water .",
+        "there was a crowd at the lake .",
+        "this is a photo of a flotation device .",
+        "[male] and [male] were able to play with the devices ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "846237"
+}

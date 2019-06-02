@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4406771859-4406772971-4407542046-4406776447-4407543194",
+  "photo_sequence_ids": [
+    "4406771859",
+    "4406772971",
+    "4407542046",
+    "4406776447",
+    "4407543194"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were many different costumes . some of them were very detailed . the floats were very colorful . they were all very beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There are lots of transformer prints. There is a story printed on one. The pictures are very colorful.",
+      "normalized_edited_story_text_sent": [
+        "there are lots of transformer prints .",
+        "there is a story printed on one .",
+        "the pictures are very colorful ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The parade was a ton of fun with lots of different costumes. Some of them were really, really detailed--and the floats! They were so colorful and beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a ton of fun with lots of different costumes .",
+        "some of them were really , really detailed -- and the floats !",
+        "they were so colorful and beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the parade was fa great fascination. there was a kaleidoscope of costumes . some of them had quite intricate designs. the floats\u0027 hues were wonderfully diverse. they were all fancifully wondrous.",
+      "normalized_edited_story_text_sent": [
+        "the parade was fa great fascination .",
+        "there was a kaleidoscope of costumes .",
+        "some of them had quite intricate designs .",
+        "the floats \u0027 hues were wonderfully diverse .",
+        "they were all fancifully wondrous ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and maria thought the parade was a lot of fun . there were many different costumes . some of them were very detailed . the floats were very colorful . they were all very beautiful .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] thought the parade was a lot of fun .",
+        "there were many different costumes .",
+        "some of them were very detailed .",
+        "the floats were very colorful .",
+        "they were all very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Scenes from the comic book series Robot masters.",
+      "normalized_edited_story_text_sent": [
+        "scenes from the comic book series robot masters ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623431354665",
+  "model": "GLAC"
+}

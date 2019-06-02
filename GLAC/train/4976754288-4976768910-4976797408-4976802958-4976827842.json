@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4976754288-4976768910-4976797408-4976802958-4976827842",
+  "photo_sequence_ids": [
+    "4976754288",
+    "4976768910",
+    "4976797408",
+    "4976802958",
+    "4976827842"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the mountains . they saw a lot of beautiful trees . they also saw some interesting things . they even got to see a koala . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went on a trip to the mountains. they saw a lot of beautiful trees and interesting things, including a koala.  they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the mountains .",
+        "they saw a lot of beautiful trees and interesting things , including a koala .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "our family went on a trip to the mountains . we saw a lot of beautiful trees and a very tall waterfall . we also saw some interesting sights at Niddal Hole Point . we even caught a glimpse of a cute koala . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "our family went on a trip to the mountains .",
+        "we saw a lot of beautiful trees and a very tall waterfall .",
+        "we also saw some interesting sights at niddal hole point .",
+        "we even caught a glimpse of a cute koala .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the family went on a trip to the mountains . they saw beautiful trees and  some interesting things . they even got to see a koala  and ride a horse. they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the mountains .",
+        "they saw beautiful trees and some interesting things .",
+        "they even got to see a koala and ride a horse .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The family went on a trip to the mountains. They saw a lot of beautiful trees and some interesting things like a waterfall. They even got to see a koala!  They had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the mountains .",
+        "they saw a lot of beautiful trees and some interesting things like a waterfall .",
+        "they even got to see a koala !",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The family went on a trip to the mountains.  They road the horses through out the woods and saw the water fall.  They took great pictures and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the mountains .",
+        "they road the horses through out the woods and saw the water fall .",
+        "they took great pictures and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624923667378",
+  "model": "GLAC"
+}

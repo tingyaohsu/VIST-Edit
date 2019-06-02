@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "2869052531-2869053041-2869072483-2869900866-2869077877",
+  "photo_sequence_ids": [
+    "2869052531",
+    "2869053041",
+    "2869072483",
+    "2869900866",
+    "2869077877"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2200/2869052531_44774a58d6_o.jpg",
+    "https://farm4.staticflickr.com/3120/2869053041_a0bbf730fe_o.jpg",
+    "https://farm4.staticflickr.com/3077/2869072483_609e50db40_o.jpg",
+    "https://farm4.staticflickr.com/3212/2869900866_f86387498b_o.jpg",
+    "https://farm4.staticflickr.com/3006/2869077877_b13072e730_o.jpg"
+  ],
+  "auto_story_text_normalized": "my sister and i decided to take a trip to the family reunion . we had a great time at the party . the kids had a great time at the party . and of course we had to take a picture of the cake . at the end of the day , everyone was tired and ready to go home .",
+  "edited_stories": [
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "my sister and i chose to travel to the family get-together . we had a extraordinary time at the party . the children had a great time at the party . and furthermore we needed to take a picture of the cake. at the end of the day , everybody was tired and prepared to go home .",
+      "normalized_edited_story_text_sent": [
+        "my sister and i chose to travel to the family get-together .",
+        "we had a extraordinary time at the party .",
+        "the children had a great time at the party .",
+        "and furthermore we needed to take a picture of the cake .",
+        "at the end of the day , everybody was tired and prepared to go home ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "My daughter attended preschool for the first time. She was excited riding in the car. I took her inside. It was decorated with crafts. She immediately went to the tricycles.",
+      "normalized_edited_story_text_sent": [
+        "my daughter attended preschool for the first time .",
+        "she was excited riding in the car .",
+        "i took her inside .",
+        "it was decorated with crafts .",
+        "she immediately went to the tricycles ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "my sister and i decided to take a trip to the family reunion . We had a great time at the party . the kids had a great time at the party in [location] and of course we had to take a picture of the cake. At the end of the day , everyone was tired and ready to go home .",
+      "normalized_edited_story_text_sent": [
+        "my sister and i decided to take a trip to the family reunion .",
+        "we had a great time at the party .",
+        "the kids had a great time at the party in [location] and of course we had to take a picture of the cake .",
+        "at the end of the day , everyone was tired and ready to go home ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "My sister and I decided to take a trip to the family reunion. We had a great time at the party. The kids had a great time at the party too. And of course we had to take a picture of the cake. At the end of the day, everyone was tired and ready to go home.",
+      "normalized_edited_story_text_sent": [
+        "my sister and i decided to take a trip to the family reunion .",
+        "we had a great time at the party .",
+        "the kids had a great time at the party too .",
+        "and of course we had to take a picture of the cake .",
+        "at the end of the day , everyone was tired and ready to go home ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "my sister and i took a trip to the family reunion . we had a great time at the party . the kids had a great time at the party . of course we had to take a picture of the cake . at the end of the day , everyone was tired and ready to go home .",
+      "normalized_edited_story_text_sent": [
+        "my sister and i took a trip to the family reunion .",
+        "we had a great time at the party .",
+        "the kids had a great time at the party .",
+        "of course we had to take a picture of the cake .",
+        "at the end of the day , everyone was tired and ready to go home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157607397957916"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6120541648-6120000581-6120006065-6120550408-6120552658",
+  "photo_sequence_ids": [
+    "6120541648",
+    "6120000581",
+    "6120006065",
+    "6120550408",
+    "6120552658"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization is a great place to visit . the architecture is amazing . the artwork is interesting . the buildings are so tall . the city is very beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the downtown is a great place to visit . the architecture is amazing . the artwork is interesting . the buildings are so tall . the city trip was a hit .",
+      "normalized_edited_story_text_sent": [
+        "the downtown is a great place to visit .",
+        "the architecture is amazing .",
+        "the artwork is interesting .",
+        "the buildings are so tall .",
+        "the city trip was a hit ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the stadium is a great place to visit . the architecture is amazing . the artwork is interesting and on display. the buildings are very tall . the city is very beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the stadium is a great place to visit .",
+        "the architecture is amazing .",
+        "the artwork is interesting and on display .",
+        "the buildings are very tall .",
+        "the city is very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the stadium is a great place to visit. The entrance was grand. The stadium is in a pretty, wooded area. We had a great day visiting the stadium.",
+      "normalized_edited_story_text_sent": [
+        "the stadium is a great place to visit .",
+        "the entrance was grand .",
+        "the stadium is in a pretty , wooded area .",
+        "we had a great day visiting the stadium ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The football stadium is a great place to visit because the architecture is amazing. Also, the artwork is interesting. the buildings are so tall. The city is very beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the football stadium is a great place to visit because the architecture is amazing .",
+        "also , the artwork is interesting .",
+        "the buildings are so tall .",
+        "the city is very beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "The stadium was really great to visit. the architecture is amazing . the artwork is interesting . the buildings are so tall . the city is quite beautiful and charming.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was really great to visit .",
+        "the architecture is amazing .",
+        "the artwork is interesting .",
+        "the buildings are so tall .",
+        "the city is quite beautiful and charming ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631742265391",
+  "model": "GLAC"
+}

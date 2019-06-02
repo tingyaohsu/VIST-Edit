@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "28260689-28261104-28261224-28261247-28261336",
+  "photo_sequence_ids": [
+    "28260689",
+    "28261104",
+    "28261224",
+    "28261247",
+    "28261336"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . the friends were having a great time . the drinks were flowing . the night was a success . everyone had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the party was a ton of fun . the friends were having a fantastic time . the drinks were flowing . the night was a success . everyone had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a ton of fun .",
+        "the friends were having a fantastic time .",
+        "the drinks were flowing .",
+        "the night was a success .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the festive party was a lot of fun and the friends were having a great time . the drinks were flowing . the night was a success . everyone had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the festive party was a lot of fun and the friends were having a great time .",
+        "the drinks were flowing .",
+        "the night was a success .",
+        "everyone had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "last night\u0027s party was fun.  drinks were plentiful, and all of the guests had a good time. the party hosts said this event was a success.",
+      "normalized_edited_story_text_sent": [
+        "last night \u0027s party was fun .",
+        "drinks were plentiful , and all of the guests had a good time .",
+        "the party hosts said this event was a success ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . the friends were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the friends were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . the friends were having a great time . the drinks were flowing . the night was a success . Robert got really drunk .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "the friends were having a great time .",
+        "the drinks were flowing .",
+        "the night was a success .",
+        "[male] got really drunk ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "638064",
+  "model": "GLAC"
+}

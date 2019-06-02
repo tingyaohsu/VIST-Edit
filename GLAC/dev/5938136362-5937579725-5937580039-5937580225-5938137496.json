@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5938136362-5937579725-5937580039-5937580225-5938137496",
+  "photo_sequence_ids": [
+    "5938136362",
+    "5937579725",
+    "5937580039",
+    "5937580225",
+    "5938137496"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . they were having a great time . the crowd was getting ready to go . the kids were excited . the crowd was packed .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the couple played instruments . the girl admired the scarves . the boy looked at some stone sculpture . people also admired some pottery . the festival was packed .",
+      "normalized_edited_story_text_sent": [
+        "the couple played instruments .",
+        "the girl admired the scarves .",
+        "the boy looked at some stone sculpture .",
+        "people also admired some pottery .",
+        "the festival was packed ."
+      ]
+    },
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "There was a block party on Lisa\u0027s block. There was live music, vendors with clothes and art and also a small parade. it was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "there was a block party on [female] \u0027s block .",
+        "there was live music , vendors with clothes and art and also a small parade .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "A small band was playing some interesting music . The kids were having a great time watching a local artist . [Lisa] and [Mary] were ready to go after buying tons of pottery . [Maria] was excited to do a little shopping as well . the crowd was packed and we finally decided to call it a day .",
+      "normalized_edited_story_text_sent": [
+        "a small band was playing some interesting music .",
+        "the kids were having a great time watching a local artist .",
+        "[female] and [female] were ready to go after buying tons of pottery .",
+        "[female] was excited to do a little shopping as well .",
+        "the crowd was packed and we finally decided to call it a day ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "there was a packed crowd listening to the band playing music.  the kids got excited.  everyone was ready to rock.  the band played well.",
+      "normalized_edited_story_text_sent": [
+        "there was a packed crowd listening to the band playing music .",
+        "the kids got excited .",
+        "everyone was ready to rock .",
+        "the band played well ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the band was playing outside . they were having a great session . the crowd was getting ready to continue onto other activities . the kids were energized . the crowd was packed together .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing outside .",
+        "they were having a great session .",
+        "the crowd was getting ready to continue onto other activities .",
+        "the kids were energized .",
+        "the crowd was packed together ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627071164103",
+  "model": "GLAC"
+}

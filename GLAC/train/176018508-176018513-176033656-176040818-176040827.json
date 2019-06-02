@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "176018508-176018513-176033656-176040818-176040827",
+  "photo_sequence_ids": [
+    "176018508",
+    "176018513",
+    "176033656",
+    "176040818",
+    "176040827"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the team was ready for the game . the players were getting ready . the crowd was cheering . the cheerleaders were very talented . the game was about to begin .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the team was ready for the big game . the players were getting ready . the crowd was cheering loudly . the cheerleaders were very skilled. the game was about to begin .",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the big game .",
+        "the players were getting ready .",
+        "the crowd was cheering loudly .",
+        "the cheerleaders were very skilled .",
+        "the game was about to begin ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the team was ready for the game . the players were lined up at home plate . the crowd was cheering . the crowd was cheering them on. the game was about to begin .",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the game .",
+        "the players were lined up at home plate .",
+        "the crowd was cheering .",
+        "the crowd was cheering them on .",
+        "the game was about to begin ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The players on both teams were getting ready for the game. The cheerleaders were really good. The crowd roared as the game begun.",
+      "normalized_edited_story_text_sent": [
+        "the players on both teams were getting ready for the game .",
+        "the cheerleaders were really good .",
+        "the crowd roared as the game begun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the team was ready for the game . the players were getting ready .",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the game .",
+        "the players were getting ready ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the team was ready for the game . the players were warming up . the crowd was cheering . the mascot was very talented . the game was still going after nightfall.",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the game .",
+        "the players were warming up .",
+        "the crowd was cheering .",
+        "the mascot was very talented .",
+        "the game was still going after nightfall ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594178913581",
+  "model": "GLAC"
+}

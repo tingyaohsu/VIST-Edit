@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "5129863404-5129262515-5129864604-5129266395-5129261261",
+  "photo_sequence_ids": [
+    "5129863404",
+    "5129262515",
+    "5129864604",
+    "5129266395",
+    "5129261261"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family is having a great time at the park . they are playing with the dogs . the dog is happy to be there . the baby is taking a picture . the little girl is enjoying the trip .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The family went with the dogs to the park. While there, the dogs were so excited to be playing outside with everyone. But the dogs weren\u0027t the only ones having fun. The baby was also enjoying her time in the park and taking pictures of everything.",
+      "normalized_edited_story_text_sent": [
+        "the family went with the dogs to the park .",
+        "while there , the dogs were so excited to be playing outside with everyone .",
+        "but the dogs were n\u0027t the only ones having fun .",
+        "the baby was also enjoying her time in the park and taking pictures of everything ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "as usual, mary and her family are having a great time at the park. they enjoy playing with their dogs there. one dog is not happy to be costumed. another dog is costumed, too. one doggie peeks out from a lady\u0027s purse.",
+      "normalized_edited_story_text_sent": [
+        "as usual , [female] and her family are having a great time at the park .",
+        "they enjoy playing with their dogs there .",
+        "one dog is not happy to be costumed .",
+        "another dog is costumed , too .",
+        "one doggie peeks out from a lady \u0027s purse ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the family had a great time at the park . the dogs were so cute in their costumes. the ewok was the best, I thought!.",
+      "normalized_edited_story_text_sent": [
+        "the family had a great time at the park .",
+        "the dogs were so cute in their costumes .",
+        "the ewok was the best , i thought !"
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family is having a great time at the park with their dogs . they are playing with the dogs who are all dressed up in costumes . the dog is happy to be there but is hungry. the baby is taking a picture with their dogs . the little girl is enjoying the trip but is getting tired and hungry.",
+      "normalized_edited_story_text_sent": [
+        "the family is having a great time at the park with their dogs .",
+        "they are playing with the dogs who are all dressed up in costumes .",
+        "the dog is happy to be there but is hungry .",
+        "the baby is taking a picture with their dogs .",
+        "the little girl is enjoying the trip but is getting tired and hungry ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the dogs were so cute. one was dressed as a pumpkin and one was even dressed as superman.",
+      "normalized_edited_story_text_sent": [
+        "the dogs were so cute .",
+        "one was dressed as a pumpkin and one was even dressed as superman ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625150379941",
+  "model": "GLAC"
+}

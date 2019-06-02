@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4495556673-4496195710-4495556511-4495556373-4495557099",
+  "photo_sequence_ids": [
+    "4495556673",
+    "4496195710",
+    "4495556511",
+    "4495556373",
+    "4495557099"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the party . the children were excited to see each other . the cake was delicious . the kids enjoyed the gifts . the baby was happy that everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the family got together for the party.  the kids were especially glad to see each other.  they really liked their gifts.  the cake was beautiful.  even the baby was in a good mood.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for the party .",
+        "the kids were especially glad to see each other .",
+        "they really liked their gifts .",
+        "the cake was beautiful .",
+        "even the baby was in a good mood ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family gathered for the party for the married couple . the children were excited to see each other because they didn\u0027t see each other much . the cake was delicious and grandma did great making it . the kids enjoyed the gifts that they got . the baby was happy that everyone had a great time and didn\u0027t cry once .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the party for the married couple .",
+        "the children were excited to see each other because they did n\u0027t see each other much .",
+        "the cake was delicious and grandma did great making it .",
+        "the kids enjoyed the gifts that they got .",
+        "the baby was happy that everyone had a great time and did n\u0027t cry once ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family gathered for the wedding . the children were excited to see each other . the cake was delicious . the kids enjoyed the event . the baby was happy that everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the wedding .",
+        "the children were excited to see each other .",
+        "the cake was delicious .",
+        "the kids enjoyed the event .",
+        "the baby was happy that everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the family gathered for Maria\u0027s birthday party . the children were excited to see each other . the cake was beautiful and tasted delicious . everyone took a lot of pictures to memorialize the event. maria enjoyed looking at the book compiled for her. she enjoyed opening the gifts. The party was a great success.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for [female] \u0027s birthday party .",
+        "the children were excited to see each other .",
+        "the cake was beautiful and tasted delicious .",
+        "everyone took a lot of pictures to memorialize the event .",
+        "[female] enjoyed looking at the book compiled for her .",
+        "she enjoyed opening the gifts .",
+        "the party was a great success ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family gathered for the party and was excited to see each other.  the cake was delicious. the gifts were enjoyed. everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the party and was excited to see each other .",
+        "the cake was delicious .",
+        "the gifts were enjoyed .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623782056916",
+  "model": "GLAC"
+}

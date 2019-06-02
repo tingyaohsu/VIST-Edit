@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5742248788-5741695647-5742249490-5742249548-5742249572",
+  "photo_sequence_ids": [
+    "5742248788",
+    "5741695647",
+    "5742249490",
+    "5742249548",
+    "5742249572"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3228/5742248788_bc4260e193_o.jpg",
+    "https://farm6.staticflickr.com/5189/5741695647_2b1d066af6_o.jpg",
+    "https://farm6.staticflickr.com/5142/5742249490_220fef83b4_o.jpg",
+    "https://farm4.staticflickr.com/3516/5742249548_817eea23a9_o.jpg",
+    "https://farm4.staticflickr.com/3596/5742249572_7e231c5c59_o.jpg"
+  ],
+  "auto_story_text_normalized": "the man was very happy to be at the meeting . the girls were very happy to be there . the speaker gave a great speech . we all got together for a group photo . the group poses for a picture .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the man was very happy to be at the meeting . the girls were very happy to be there . the speaker gave a great speech . we all got together for a group photo . The picture came out great.",
+      "normalized_edited_story_text_sent": [
+        "the man was very happy to be at the meeting .",
+        "the girls were very happy to be there .",
+        "the speaker gave a great speech .",
+        "we all got together for a group photo .",
+        "the picture came out great ."
+      ]
+    },
+    {
+      "worker_id": "AN2GMCKM5CLG8",
+      "edited_story_text": "[male] was very happy to be at the meeting . the girls were very happy to be there too . the speaker gave a great speech . we all got together for a group photo . the group posed, all together, for a photograph .",
+      "normalized_edited_story_text_sent": [
+        "[male] was very happy to be at the meeting .",
+        "the girls were very happy to be there too .",
+        "the speaker gave a great speech .",
+        "we all got together for a group photo .",
+        "the group posed , all together , for a photograph ."
+      ]
+    },
+    {
+      "worker_id": "A3IDBFPW2T9P5D",
+      "edited_story_text": "The man was very happy to be at the meeting. The girls were also very happy to be there. The speaker gave a great speech. We all got together for a group photo, and the group posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "the man was very happy to be at the meeting .",
+        "the girls were also very happy to be there .",
+        "the speaker gave a great speech .",
+        "we all got together for a group photo , and the group posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "the man was very happy to be at the meeting. the lady was happy to be there. the speaker at USF gave a great speech . we all stood together for a group photo. the group posed for a picture .",
+      "normalized_edited_story_text_sent": [
+        "the man was very happy to be at the meeting .",
+        "the lady was happy to be there .",
+        "the speaker at usf gave a great speech .",
+        "we all stood together for a group photo .",
+        "the group posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the man was exceptionally glad to be at the meeting . the girls were exceptionally glad to be there . the speaker gave a extraordinary discourse . we all got together for a group picture. the group poses for a photo.",
+      "normalized_edited_story_text_sent": [
+        "the man was exceptionally glad to be at the meeting .",
+        "the girls were exceptionally glad to be there .",
+        "the speaker gave a extraordinary discourse .",
+        "we all got together for a group picture .",
+        "the group poses for a photo ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626644157407"
+}

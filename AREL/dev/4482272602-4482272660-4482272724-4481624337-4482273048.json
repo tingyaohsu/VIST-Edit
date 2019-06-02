@@ -1,0 +1,81 @@
+{
+  "photo_sequence_id": "4482272602-4482272660-4482272724-4481624337-4482273048",
+  "photo_sequence_ids": [
+    "4482272602",
+    "4482272660",
+    "4482272724",
+    "4481624337",
+    "4482273048"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2780/4482272602_0dc0a5f3a2_o.jpg",
+    "https://farm5.staticflickr.com/4068/4482272660_4d96c0eaf4_o.jpg",
+    "https://farm5.staticflickr.com/4039/4482272724_2b13559140_o.jpg",
+    "https://farm5.staticflickr.com/4032/4481624337_bc23eb1ab4_o.jpg",
+    "https://farm3.staticflickr.com/2722/4482273048_42ee8807b3_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is the living room . this is the living room that is the living room . the kitchen is very clean . the bedroom is nice and clean . the bathroom is very clean and clean .",
+  "edited_stories": [
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "We went to go apartment hunting and stumbled upon this beautiful place. this is the living room . this is the living room that is the living room . the kitchen is very clean . the bedroom is nice and clean . the bathroom is very clean and clean . The whole place looks great and cannot wait to move in.",
+      "normalized_edited_story_text_sent": [
+        "we went to go apartment hunting and stumbled upon this beautiful place .",
+        "this is the living room .",
+        "this is the living room that is the living room .",
+        "the kitchen is very clean .",
+        "the bedroom is nice and clean .",
+        "the bathroom is very clean and clean .",
+        "the whole place looks great and can not wait to move in ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "Here is the entryway and living room of the apartment for rent . the apartment has an upgraded kitchen . it has a work station adjacent to the kitchen . It has a large bedroom . the bathroom is also large with double sinks .",
+      "normalized_edited_story_text_sent": [
+        "here is the entryway and living room of the apartment for rent .",
+        "the apartment has an upgraded kitchen .",
+        "it has a work station adjacent to the kitchen .",
+        "it has a large bedroom .",
+        "the bathroom is also large with double sinks ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "this is a clear view of the living room . this is the kitchen next to the living room . the kitchen is very clean and well decorated. the bedroom is properly cleaned and the bed is made. there\u0027s an impressive cleanliness to the bathroom.",
+      "normalized_edited_story_text_sent": [
+        "this is a clear view of the living room .",
+        "this is the kitchen next to the living room .",
+        "the kitchen is very clean and well decorated .",
+        "the bedroom is properly cleaned and the bed is made .",
+        "there \u0027s an impressive cleanliness to the bathroom ."
+      ]
+    },
+    {
+      "worker_id": "A2OATZCX1YXE77",
+      "edited_story_text": "This is the living room with wood flooring. The kitchen is small, but very clean with white counter tops. The kitchen also has a little desk area with a chair. The nice bedroom has vaulted ceilings and is kept clean. The bathroom is well appointed and tidy.",
+      "normalized_edited_story_text_sent": [
+        "this is the living room with wood flooring .",
+        "the kitchen is small , but very clean with white counter tops .",
+        "the kitchen also has a little desk area with a chair .",
+        "the nice bedroom has vaulted ceilings and is kept clean .",
+        "the bathroom is well appointed and tidy ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "when you come in first of is the living room .then you can go over to the kitchen . the kitchen is very clean  with lots of light. the bedroom is nice and clean big closet and vaulted ceiling. the bathroom is updated with two sinks and clean .",
+      "normalized_edited_story_text_sent": [
+        "when you come in first of is the living room .",
+        "then you can go over to the kitchen .",
+        "the kitchen is very clean with lots of light .",
+        "the bedroom is nice and clean big closet and vaulted ceiling .",
+        "the bathroom is updated with two sinks and clean ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623748328220"
+}

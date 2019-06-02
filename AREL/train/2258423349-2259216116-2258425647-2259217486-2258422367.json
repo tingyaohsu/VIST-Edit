@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "2258423349-2259216116-2258425647-2259217486-2258422367",
+  "photo_sequence_ids": [
+    "2258423349",
+    "2259216116",
+    "2258425647",
+    "2259217486",
+    "2258422367"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2291/2258423349_8732fe56ff_o.jpg",
+    "https://farm3.staticflickr.com/2390/2259216116_9fc5e5be4e_o.jpg",
+    "https://farm3.staticflickr.com/2089/2258425647_d68d7d3b9c_o.jpg",
+    "https://farm3.staticflickr.com/2047/2259217486_25dddb6af7_o.jpg",
+    "https://farm3.staticflickr.com/2139/2258422367_1b0e3acb5a_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a christmas tree . we took a walk through the park . the trees and trees were very beautiful . we had a great time and had a great time . but the dog had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this is a picture of a christmas tree I bought at the farm. we took a walk through the park . the trees  were very beautiful . we had a great time and so did the dog.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a christmas tree i bought at the farm .",
+        "we took a walk through the park .",
+        "the trees were very beautiful .",
+        "we had a great time and so did the dog ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a Christmas tree we brought to Grandma. We went to visit her.  We took a walk through the park.  The trees were losing their leaves.  Grandma just loves the dog.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a christmas tree we brought to grandma .",
+        "we went to visit her .",
+        "we took a walk through the park .",
+        "the trees were losing their leaves .",
+        "grandma just loves the dog ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "this is a picture of a christmas tree . we took a walk through the park . and trees were very beautiful . the dog and us had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a christmas tree .",
+        "we took a walk through the park .",
+        "and trees were very beautiful .",
+        "the dog and us had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a christmas tree . we took a walk through the park . the trees were very beautiful . we had a great time   the dog also had a great time .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a christmas tree .",
+        "we took a walk through the park .",
+        "the trees were very beautiful .",
+        "we had a great time the dog also had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "This is a picture of a Christmas tree . We took a walk through the neighborhood. The trees were very beautiful . We had a great time visiting the family. Even the dog had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a christmas tree .",
+        "we took a walk through the neighborhood .",
+        "the trees were very beautiful .",
+        "we had a great time visiting the family .",
+        "even the dog had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603947798265"
+}

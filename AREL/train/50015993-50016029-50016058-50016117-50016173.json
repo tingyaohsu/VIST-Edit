@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "50015993-50016029-50016058-50016117-50016173",
+  "photo_sequence_ids": [
+    "50015993",
+    "50016029",
+    "50016058",
+    "50016117",
+    "50016173"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/27/50015993_16cd2df644_o.jpg",
+    "https://farm1.staticflickr.com/25/50016029_04c598ad25_o.jpg",
+    "https://farm1.staticflickr.com/24/50016058_9179808f1d_o.jpg",
+    "https://farm1.staticflickr.com/30/50016117_e6392805b3_o.jpg",
+    "https://farm1.staticflickr.com/33/50016173_80e3d39619_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went on a trip to the lake . the grounds were very beautiful . this is a picture of a building . there were a lot of old statues there . i also saw a lot of old buildings .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "we went on a trip to the lake . the grounds were very beautiful . this is a picture of a building . there were a lot of old statues there . i also saw a lot of old buildings  I would like to go again this trip",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the lake .",
+        "the grounds were very beautiful .",
+        "this is a picture of a building .",
+        "there were a lot of old statues there .",
+        "i also saw a lot of old buildings i would like to go again this trip"
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "We went on a trip to the lake. The grounds were very beautiful. We took pictures of the old buildings. There were a lot of places to walk around there. I also got very close to the old clock tower.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the lake .",
+        "the grounds were very beautiful .",
+        "we took pictures of the old buildings .",
+        "there were a lot of places to walk around there .",
+        "i also got very close to the old clock tower ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went on a trip to the lake . the grounds were very beautiful . this is a picture of a building . there were a lot of old statues there . I loved seeing them all.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the lake .",
+        "the grounds were very beautiful .",
+        "this is a picture of a building .",
+        "there were a lot of old statues there .",
+        "i loved seeing them all ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we went on a trip to the lake that was close to us . the grounds by it were very beautiful . this is a picture of a building that is near the lake that I saw. there were a lot of old statues there by the water . i also saw a lot of old buildings  that I wanted to capture that were by me.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to the lake that was close to us .",
+        "the grounds by it were very beautiful .",
+        "this is a picture of a building that is near the lake that i saw .",
+        "there were a lot of old statues there by the water .",
+        "i also saw a lot of old buildings that i wanted to capture that were by me ."
+      ]
+    },
+    {
+      "worker_id": "A3I4GTLPDHWT8J",
+      "edited_story_text": "We took a trip the lake which had very beautiful grounds.  Here is a picture of a building we saw.  There were also a lot of old statues and buildings.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip the lake which had very beautiful grounds .",
+        "here is a picture of a building we saw .",
+        "there were also a lot of old statues and buildings ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1085694"
+}

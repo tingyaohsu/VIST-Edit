@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6232157436-6232157164-6231655909-6232174432-6232184294",
+  "photo_sequence_ids": [
+    "6232157436",
+    "6232157164",
+    "6231655909",
+    "6232174432",
+    "6232184294"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the people were walking around the street . they were taking a break . they were having a good time . the crowd was large . the fireworks were very loud .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the people were walking around the street waiting for the game to start. they were taking a break from the baseball action . they were having a good time just relaxing . the crowd was large and making a lot of noise . the fireworks were very loud which woke up all the kids .",
+      "normalized_edited_story_text_sent": [
+        "the people were walking around the street waiting for the game to start .",
+        "they were taking a break from the baseball action .",
+        "they were having a good time just relaxing .",
+        "the crowd was large and making a lot of noise .",
+        "the fireworks were very loud which woke up all the kids ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the people were getting ready for the game . they were taking a break . they were having a good time . the crowd was large . the fireworks were very loud .",
+      "normalized_edited_story_text_sent": [
+        "the people were getting ready for the game .",
+        "they were taking a break .",
+        "they were having a good time .",
+        "the crowd was large .",
+        "the fireworks were very loud ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the people were walking around the street having a good time. they took a break.  the crowd was large and the fireworks were very loud.",
+      "normalized_edited_story_text_sent": [
+        "the people were walking around the street having a good time .",
+        "they took a break .",
+        "the crowd was large and the fireworks were very loud ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the people were parked along the street . they ready for the game . the crowd was large . the announcer was watchig . the horizon was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the people were parked along the street .",
+        "they ready for the game .",
+        "the crowd was large .",
+        "the announcer was watchig .",
+        "the horizon was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "Everyone was walking along the street to the game. They got to take a break on the bleachers once there. Everyone had a great time watching the game. You should have seen the crowd, it was huge. The fireworks at nightfall were really loud.",
+      "normalized_edited_story_text_sent": [
+        "everyone was walking along the street to the game .",
+        "they got to take a break on the bleachers once there .",
+        "everyone had a great time watching the game .",
+        "you should have seen the crowd , it was huge .",
+        "the fireworks at nightfall were really loud ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627864675956",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4928683392-4928089463-4928685152-4928095097-4928693392",
+  "photo_sequence_ids": [
+    "4928683392",
+    "4928089463",
+    "4928685152",
+    "4928095097",
+    "4928693392"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were empty . the roads were clear . the people were walking around . the shop was full of food . the man was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the streets were empty . the roads were clear . the people were walking around . the shop was full of food . the vendors were good  .",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty .",
+        "the roads were clear .",
+        "the people were walking around .",
+        "the shop was full of food .",
+        "the vendors were good ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the streets were empty . the roads were clear as well . the people were walking around like zombies . the shop was full of food . the man was very pleased .",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty .",
+        "the roads were clear as well .",
+        "the people were walking around like zombies .",
+        "the shop was full of food .",
+        "the man was very pleased ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the highways were near empty . the roads were clear of much traffic. the people were walking around an outdoor dining area while others ate. the bedroom had a daybed in it . A man peeked into a doorway to talk to two others inside .",
+      "normalized_edited_story_text_sent": [
+        "the highways were near empty .",
+        "the roads were clear of much traffic .",
+        "the people were walking around an outdoor dining area while others ate .",
+        "the bedroom had a daybed in it .",
+        "a man peeked into a doorway to talk to two others inside ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The roads were empty. People gathered in an alleyway and ate lots of food. Everyone was happy.",
+      "normalized_edited_story_text_sent": [
+        "the roads were empty .",
+        "people gathered in an alleyway and ate lots of food .",
+        "everyone was happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert was glad the streets were empty . the roads were clear . the people were walking around . the shop was full of food . the man was very happy .",
+      "normalized_edited_story_text_sent": [
+        "[male] was glad the streets were empty .",
+        "the roads were clear .",
+        "the people were walking around .",
+        "the shop was full of food .",
+        "the man was very happy ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624685271305",
+  "model": "GLAC"
+}

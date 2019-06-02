@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4253097911-4253101795-4253860848-4253875856-4253113455",
+  "photo_sequence_ids": [
+    "4253097911",
+    "4253101795",
+    "4253860848",
+    "4253875856",
+    "4253113455"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2762/4253097911_ef805f398f_o.jpg",
+    "https://farm5.staticflickr.com/4035/4253101795_85ba8b79dc_o.jpg",
+    "https://farm5.staticflickr.com/4013/4253860848_a723e219f2_o.jpg",
+    "https://farm5.staticflickr.com/4035/4253875856_747a6e4c5e_o.jpg",
+    "https://farm5.staticflickr.com/4005/4253113455_b5b5fdaaa0_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . she was so happy to be in the water . the buildings were very old . the hotel room was very nice . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A1LWEMMZXMGEP4",
+      "edited_story_text": "this is a picture of a building . she is so happy to be in the water . the buildings are very old . the hotel room is very nice . this is a picture of a couple.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "she is so happy to be in the water .",
+        "the buildings are very old .",
+        "the hotel room is very nice .",
+        "this is a picture of a couple ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a building and a woman she was so happy to be in the water . the buildings were very old but the hotel room was very nice .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building and a woman she was so happy to be in the water .",
+        "the buildings were very old but the hotel room was very nice ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "Here is a photo of an estate. She was overly ecstatic to be standing near the water. The buildings there were historical. The hotel room was superb. Here  is a photo of some more architecture.",
+      "normalized_edited_story_text_sent": [
+        "here is a photo of an estate .",
+        "she was overly ecstatic to be standing near the water .",
+        "the buildings there were historical .",
+        "the hotel room was superb .",
+        "here is a photo of some more architecture ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "this is a picture of a building in the distance. she was so happy to be near the water and see all those sights. the buildings were very old and charming . the hotel room was very nice with a great view. this is a picture of a building we saw .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building in the distance .",
+        "she was so happy to be near the water and see all those sights .",
+        "the buildings were very old and charming .",
+        "the hotel room was very nice with a great view .",
+        "this is a picture of a building we saw ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "this is a picture of a building we went to vist she was so happy to be near the water . the buildings were very old . the hotel room was very nice, we enjoyed the view and the furniture.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building we went to vist she was so happy to be near the water .",
+        "the buildings were very old .",
+        "the hotel room was very nice , we enjoyed the view and the furniture ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623035815239"
+}

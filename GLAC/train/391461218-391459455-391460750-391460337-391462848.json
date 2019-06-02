@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "391461218-391459455-391460750-391460337-391462848",
+  "photo_sequence_ids": [
+    "391461218",
+    "391459455",
+    "391460750",
+    "391460337",
+    "391462848"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were blooming . they were very colorful . they were all so beautiful . they were in the middle of the world . they were n\u0027t sure what they were going to be .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "All of the roses were blooming. They were so colorful. It felt magical, like we were in another world.",
+      "normalized_edited_story_text_sent": [
+        "all of the roses were blooming .",
+        "they were so colorful .",
+        "it felt magical , like we were in another world ."
+      ]
+    },
+    {
+      "worker_id": "A2YTQDLACTLIBA",
+      "edited_story_text": "The roses were blooming and they were very colorful and so beautiful. They were whorled in the center.",
+      "normalized_edited_story_text_sent": [
+        "the roses were blooming and they were very colorful and so beautiful .",
+        "they were whorled in the center ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the bright flowers were blooming and they were very colorful . they were all so beautiful . they were in the middle of the world . they were n\u0027t sure what they were going to be .",
+      "normalized_edited_story_text_sent": [
+        "the bright flowers were blooming and they were very colorful .",
+        "they were all so beautiful .",
+        "they were in the middle of the world .",
+        "they were n\u0027t sure what they were going to be ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the flowers were blooming . they were very colorful . they were vibrant and full of petals . they were in the middle of the world . they all had the biggest blooms.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were blooming .",
+        "they were very colorful .",
+        "they were vibrant and full of petals .",
+        "they were in the middle of the world .",
+        "they all had the biggest blooms ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "For Valentine\u0027s day my husband bought me the flowers.  They were roses. They were very bright . The roses were all so beautiful. I wish I can get them every day.",
+      "normalized_edited_story_text_sent": [
+        "for valentine \u0027s day my husband bought me the flowers .",
+        "they were roses .",
+        "they were very bright .",
+        "the roses were all so beautiful .",
+        "i wish i can get them every day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594537876926",
+  "model": "GLAC"
+}

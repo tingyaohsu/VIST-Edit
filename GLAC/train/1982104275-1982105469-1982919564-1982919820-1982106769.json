@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "1982104275-1982105469-1982919564-1982919820-1982106769",
+  "photo_sequence_ids": [
+    "1982104275",
+    "1982105469",
+    "1982919564",
+    "1982919820",
+    "1982106769"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old church was a beautiful sight . the grounds were well kept . the grounds were lovely . the flowers were also interesting . the architecture was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the big old church was a beautiful sight and the grounds were well kept . the grounds were lovely . the flowers were also interesting . the architecture was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the big old church was a beautiful sight and the grounds were well kept .",
+        "the grounds were lovely .",
+        "the flowers were also interesting .",
+        "the architecture was amazing ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The statues were very cool. There was a cool building in a wooded area. The architecture of the buildings was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the statues were very cool .",
+        "there was a cool building in a wooded area .",
+        "the architecture of the buildings was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "One amazing spectacle is the old church. The grounds around the church are immaculate, on top of being enchanting with beautiful and flavorful varieties of flowers. All this, adding to the impressive architecture of the building.",
+      "normalized_edited_story_text_sent": [
+        "one amazing spectacle is the old church .",
+        "the grounds around the church are immaculate , on top of being enchanting with beautiful and flavorful varieties of flowers .",
+        "all this , adding to the impressive architecture of the building ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the statue was a beautiful sight . the grounds were well kept . the grounds were lovely . the flowers were also interesting . the architecture was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the statue was a beautiful sight .",
+        "the grounds were well kept .",
+        "the grounds were lovely .",
+        "the flowers were also interesting .",
+        "the architecture was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the old monument was a beautiful sight. all of the buildings and grounds around the site were well kept. the main building was modest and smartly designed. the gardens were gorgeous, too. we learned a lot about history and architecture while we were there.",
+      "normalized_edited_story_text_sent": [
+        "the old monument was a beautiful sight .",
+        "all of the buildings and grounds around the site were well kept .",
+        "the main building was modest and smartly designed .",
+        "the gardens were gorgeous , too .",
+        "we learned a lot about history and architecture while we were there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603106928876",
+  "model": "GLAC"
+}

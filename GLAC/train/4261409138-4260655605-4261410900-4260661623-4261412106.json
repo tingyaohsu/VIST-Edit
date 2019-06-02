@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4261409138-4260655605-4261410900-4260661623-4261412106",
+  "photo_sequence_ids": [
+    "4261409138",
+    "4260655605",
+    "4261410900",
+    "4260661623",
+    "4261412106"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the zoo . they saw a lot of interesting flowers . they even had a cute little frog . the panda was very big . the kids loved the miniature cars .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "He played with the dog outside. they saw a lot of interesting flowers . The dog enjoyed the day too . There was a line of pretty trees.",
+      "normalized_edited_story_text_sent": [
+        "he played with the dog outside .",
+        "they saw a lot of interesting flowers .",
+        "the dog enjoyed the day too .",
+        "there was a line of pretty trees ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the family went on a trip to the park . they saw a lot of interesting flowers . the kids got to pet a cute dog. they all enjoyed walking around and getting some fresh air.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the park .",
+        "they saw a lot of interesting flowers .",
+        "the kids got to pet a cute dog .",
+        "they all enjoyed walking around and getting some fresh air ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the guy played with the dog. they saw a lot of interesting flowers . they even had a cute little dog . the trees were very big . the car had a dent .",
+      "normalized_edited_story_text_sent": [
+        "the guy played with the dog .",
+        "they saw a lot of interesting flowers .",
+        "they even had a cute little dog .",
+        "the trees were very big .",
+        "the car had a dent ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family went on a big trip to the zoo and they saw a lot of interesting flowers . they even had a cute little frog . the panda was very big . the kids loved the miniature cars .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a big trip to the zoo and they saw a lot of interesting flowers .",
+        "they even had a cute little frog .",
+        "the panda was very big .",
+        "the kids loved the miniature cars ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went on a trip to the park. it was a beautiful day to do so.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the park .",
+        "it was a beautiful day to do so ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623052897651",
+  "model": "GLAC"
+}

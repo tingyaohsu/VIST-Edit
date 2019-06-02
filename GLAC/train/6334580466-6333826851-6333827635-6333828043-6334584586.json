@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "6334580466-6333826851-6333827635-6333828043-6334584586",
+  "photo_sequence_ids": [
+    "6334580466",
+    "6333826851",
+    "6333827635",
+    "6333828043",
+    "6334584586"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the park . the first stop was the organization organization . the architecture was beautiful . the children loved the statues . the old buildings were also interesting .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "this weekend my family went on a trip to the park. first we went to see an old building. it had amazing architecture. it was fun to be there with my sisters. all of the old buildings were so impressive.",
+      "normalized_edited_story_text_sent": [
+        "this weekend my family went on a trip to the park .",
+        "first we went to see an old building .",
+        "it had amazing architecture .",
+        "it was fun to be there with my sisters .",
+        "all of the old buildings were so impressive ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the family went on a trip to the park . the first stop was the organization organization . the architecture was beautiful . the children loved the statues . the old buildings were also interesting .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family went on a trip to the park .",
+        "the first stop was the organization organization .",
+        "the architecture was beautiful .",
+        "the children loved the statues .",
+        "the old buildings were also interesting ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "the family went on a trip to the park . the first stop was the organization organization . the architecture was beautiful . the kids loved the statues and the buildings were so cool!  We got so many great pics!",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the park .",
+        "the first stop was the organization organization .",
+        "the architecture was beautiful .",
+        "the kids loved the statues and the buildings were so cool !",
+        "we got so many great pics !"
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the family went on a trip to a castle . the first stop was the entrance door. the architecture was beautiful . the children loved the statues . the old buildings were very interesting .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to a castle .",
+        "the first stop was the entrance door .",
+        "the architecture was beautiful .",
+        "the children loved the statues .",
+        "the old buildings were very interesting ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the family went on a trip to the country side . the first stop was the center of the town . the architecture was beautiful . the children loved the statues . the old buildings were also interesting .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the country side .",
+        "the first stop was the center of the town .",
+        "the architecture was beautiful .",
+        "the children loved the statues .",
+        "the old buildings were also interesting ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627978450369",
+  "model": "GLAC"
+}

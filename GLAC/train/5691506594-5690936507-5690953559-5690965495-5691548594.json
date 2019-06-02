@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5691506594-5690936507-5690953559-5690965495-5691548594",
+  "photo_sequence_ids": [
+    "5691506594",
+    "5690936507",
+    "5690953559",
+    "5690965495",
+    "5691548594"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i had a great time at the party . there were a lot of people there . they were very happy . they were all very tired . they were very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A2GKDQGHV5A5TT",
+      "edited_story_text": "I had a great time at the party. There were a lot of people there . They all were very happy, but tired.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party .",
+        "there were a lot of people there .",
+        "they all were very happy , but tired ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad i had a great time at the party . there were a lot of people there . they were very happy . they were all very tired . they were very good .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad i had a great time at the party .",
+        "there were a lot of people there .",
+        "they were very happy .",
+        "they were all very tired .",
+        "they were very good ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "I had a great time at the party and there were a lot of people there. Everyone was happy but also tired. They were very nice people.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party and there were a lot of people there .",
+        "everyone was happy but also tired .",
+        "they were very nice people ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "I had a great time at the party. after the party we decided to go camping. I packed everything that I was going to need. We had so much fun that weekend.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party .",
+        "after the party we decided to go camping .",
+        "i packed everything that i was going to need .",
+        "we had so much fun that weekend ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "i had a great time buying things online. there were a lot of people searching these items . they were very happy . they were all very tired . they were very good .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time buying things online .",
+        "there were a lot of people searching these items .",
+        "they were very happy .",
+        "they were all very tired .",
+        "they were very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626655773394",
+  "model": "GLAC"
+}

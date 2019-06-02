@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4247696867-4247710625-4248472628-4248493586-4247704215",
+  "photo_sequence_ids": [
+    "4247696867",
+    "4247710625",
+    "4248472628",
+    "4248493586",
+    "4247704215"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was getting ready for the concert . the crowd was anxious to see the band play . the drummer was very talented . the audience was excited . the performance was great .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the band was getting ready for the concert . the crowd was anxious to see the band play . the drummer was very talented  . the performance was great and i want to see them again.",
+      "normalized_edited_story_text_sent": [
+        "the band was getting ready for the concert .",
+        "the crowd was anxious to see the band play .",
+        "the drummer was very talented .",
+        "the performance was great and i want to see them again ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the band was getting ready for the concert by warming up. the crowd was anxious to see the band play and started to chant their name . the drummer was very talented even thou he was hurt . the audience was excited when the lights dimmed . the performance was great and everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the band was getting ready for the concert by warming up .",
+        "the crowd was anxious to see the band play and started to chant their name .",
+        "the drummer was very talented even thou he was hurt .",
+        "the audience was excited when the lights dimmed .",
+        "the performance was great and everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the band was getting ready for the play. the kids were cute in the play.  Everyone was celebrating the holidays after the play.",
+      "normalized_edited_story_text_sent": [
+        "the band was getting ready for the play .",
+        "the kids were cute in the play .",
+        "everyone was celebrating the holidays after the play ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The band was getting ready for the Christmas concert at the community center. The crowd was anxious to see the band play. The drummer was very talented, and the performance was great.",
+      "normalized_edited_story_text_sent": [
+        "the band was getting ready for the christmas concert at the community center .",
+        "the crowd was anxious to see the band play .",
+        "the drummer was very talented , and the performance was great ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the people were getting ready for the party. the crowd was anxious to eat the various foods . Families and friends posed for pictures together. the groups were excited. the dinner was great .",
+      "normalized_edited_story_text_sent": [
+        "the people were getting ready for the party .",
+        "the crowd was anxious to eat the various foods .",
+        "families and friends posed for pictures together .",
+        "the groups were excited .",
+        "the dinner was great ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623145509240",
+  "model": "GLAC"
+}

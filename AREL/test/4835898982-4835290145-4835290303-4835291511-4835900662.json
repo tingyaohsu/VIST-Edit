@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4835898982-4835290145-4835290303-4835291511-4835900662",
+  "photo_sequence_ids": [
+    "4835898982",
+    "4835290145",
+    "4835290303",
+    "4835291511",
+    "4835900662"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4092/4835898982_5583341f45_o.jpg",
+    "https://farm5.staticflickr.com/4090/4835290145_3063b09358_o.jpg",
+    "https://farm5.staticflickr.com/4144/4835290303_fd4760df63_o.jpg",
+    "https://farm5.staticflickr.com/4083/4835291511_d42f6a7590_o.jpg",
+    "https://farm5.staticflickr.com/4103/4835900662_9886f94388_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a rock . there were a lot of interesting pieces of art . there was a lot of interesting things to see . next , we saw a lot of different shapes . i also found a lot of interesting pieces .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "at the museum we saw many different forms of art.  there many different carvings  .a lot of the carvings looked alike but were different .there were different colors and shapes. all of the work was interesting. we had a good time .",
+      "normalized_edited_story_text_sent": [
+        "at the museum we saw many different forms of art .",
+        "there many different carvings .",
+        "a lot of the carvings looked alike but were different .",
+        "there were different colors and shapes .",
+        "all of the work was interesting .",
+        "we had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "this is a picture of a rock . there were a lot of interesting pieces of art . there was a lot of interesting things to see . next , we saw a lot of different shapes . I couldn\u0027t wait to go back to the museum and see everything again.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a rock .",
+        "there were a lot of interesting pieces of art .",
+        "there was a lot of interesting things to see .",
+        "next , we saw a lot of different shapes .",
+        "i could n\u0027t wait to go back to the museum and see everything again ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "This is a picture of an old tooth. there were a lot of interesting pieces of art . there was a lot of interesting things to see . next , we saw a lot of different shapes . i also found a lot of interesting pieces .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of an old tooth .",
+        "there were a lot of interesting pieces of art .",
+        "there was a lot of interesting things to see .",
+        "next , we saw a lot of different shapes .",
+        "i also found a lot of interesting pieces ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of a rock. I saw a lot of pieces of art, and there were a lot of interesting things to see. We saw a lot of different shapes, and interesting pieces.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of a rock .",
+        "i saw a lot of pieces of art , and there were a lot of interesting things to see .",
+        "we saw a lot of different shapes , and interesting pieces ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this was a picture of a rock . there are a lot of interesting pieces of art . there is a lot of interesting things to saw . next , we see a lot of different shapes . i also found a lot of interesting pieces .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a rock .",
+        "there are a lot of interesting pieces of art .",
+        "there is a lot of interesting things to saw .",
+        "next , we see a lot of different shapes .",
+        "i also found a lot of interesting pieces ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624597178924"
+}

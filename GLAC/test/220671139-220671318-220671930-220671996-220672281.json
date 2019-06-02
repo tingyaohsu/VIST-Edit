@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "220671139-220671318-220671930-220671996-220672281",
+  "photo_sequence_ids": [
+    "220671139",
+    "220671318",
+    "220671930",
+    "220671996",
+    "220672281"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the party was a lot of fun . there were many people there . some of them were very nice . i had a great time . everyone was having a blast.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were many people there .",
+        "some of them were very nice .",
+        "i had a great time .",
+        "everyone was having a blast ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "Lisa and Mary went to a party. There were a lot of people there. Some of them were very nice. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] went to a party .",
+        "there were a lot of people there .",
+        "some of them were very nice .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun for the atendees . there were a lot of people there who decided to show the last minute . some of them were very good at dancing . i had a great time trying to sing with everyone. everyone was having a great time until one of the people was sick.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun for the atendees .",
+        "there were a lot of people there who decided to show the last minute .",
+        "some of them were very good at dancing .",
+        "i had a great time trying to sing with everyone .",
+        "everyone was having a great time until one of the people was sick ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . She got on the mic . We posed for silly pictures. Everyone had fun",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "she got on the mic .",
+        "we posed for silly pictures .",
+        "everyone had fun"
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The party I was at was a lot of fun. There were a lot of people there. Some of them were very good people. I had a great time as was everyone else.",
+      "normalized_edited_story_text_sent": [
+        "the party i was at was a lot of fun .",
+        "there were a lot of people there .",
+        "some of them were very good people .",
+        "i had a great time as was everyone else ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594245097786",
+  "model": "GLAC"
+}

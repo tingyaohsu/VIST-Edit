@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4257686-4257842-3479460-4258527-4258823",
+  "photo_sequence_ids": [
+    "4257686",
+    "4257842",
+    "3479460",
+    "4258527",
+    "4258823"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on vacation . they visited the city . they saw the buildings . they also saw a boat . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the family went to a restaurant . the restaurant was crowded. they saw amazing buildings . they also saw several boats. they had a great time especially on the amusement rides .",
+      "normalized_edited_story_text_sent": [
+        "the family went to a restaurant .",
+        "the restaurant was crowded .",
+        "they saw amazing buildings .",
+        "they also saw several boats .",
+        "they had a great time especially on the amusement rides ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went on vacation . they visited the city . they saw the buildings . they also saw a great skyline. they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went on vacation .",
+        "they visited the city .",
+        "they saw the buildings .",
+        "they also saw a great skyline .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family went on vacation for the first time in a while . they visited the city and saw all the sights. they saw the buildings as well as the rooftops . they also saw a boat which was rare due it being cold . they had a great time and want to do it again next year.",
+      "normalized_edited_story_text_sent": [
+        "the family went on vacation for the first time in a while .",
+        "they visited the city and saw all the sights .",
+        "they saw the buildings as well as the rooftops .",
+        "they also saw a boat which was rare due it being cold .",
+        "they had a great time and want to do it again next year ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went on vacation. they visited the city and saw the buildings. they also went on a boat ride. they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went on vacation .",
+        "they visited the city and saw the buildings .",
+        "they also went on a boat ride .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "My family went on vacation. We visited the city and saw the buildings. We also saw a boat. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my family went on vacation .",
+        "we visited the city and saw the buildings .",
+        "we also saw a boat .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "100423",
+  "model": "GLAC"
+}

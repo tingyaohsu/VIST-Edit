@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "3646995419-3646998081-3647000819-3647819264-3647840902",
+  "photo_sequence_ids": [
+    "3646995419",
+    "3646998081",
+    "3647000819",
+    "3647819264",
+    "3647840902"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3577/3646995419_82a006dd0f_o.jpg",
+    "https://farm4.staticflickr.com/3386/3646998081_698a29d6ac_o.jpg",
+    "https://farm4.staticflickr.com/3114/3647000819_827b5e2ac0_o.jpg",
+    "https://farm4.staticflickr.com/3652/3647819264_649e814f2f_o.jpg",
+    "https://farm4.staticflickr.com/3375/3647840902_648a46c81c_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the parade last week . there were a lot of people there . there was a group of people in the parade . some of the people in the parade were very talented . the winner of the race was a big hit with the race .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the parade last week . there were a lot of people there to watch . there was a marching band in the parade . the parade was packed with talented people, including the flag bearers. the race winner was popular with the crowd.",
+      "normalized_edited_story_text_sent": [
+        "i went to the parade last week .",
+        "there were a lot of people there to watch .",
+        "there was a marching band in the parade .",
+        "the parade was packed with talented people , including the flag bearers .",
+        "the race winner was popular with the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "i go to the parade last week . there are a lot of people there . there is a group of people in the parade . some of the people in the parade are very talented . the winner of the race is a big hit with the race .",
+      "normalized_edited_story_text_sent": [
+        "i go to the parade last week .",
+        "there are a lot of people there .",
+        "there is a group of people in the parade .",
+        "some of the people in the parade are very talented .",
+        "the winner of the race is a big hit with the race ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the parade last week and there were a lot of people there . there was a group of people in the parade and some of the people in the parade were very talented and the winner of the race was a big hit with the race .",
+      "normalized_edited_story_text_sent": [
+        "i went to the parade last week and there were a lot of people there .",
+        "there was a group of people in the parade and some of the people in the parade were very talented and the winner of the race was a big hit with the race ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "i went to the parade last week to watch our local band. there were a lot of people there with their chairs sitting alongside of the street . there was a group of people in the parade from the school, and some vetrans. some of the people in the parade were very talented those kids know how to play their music. the winner of the race was a big hit and nobody thought he would be winning .",
+      "normalized_edited_story_text_sent": [
+        "i went to the parade last week to watch our local band .",
+        "there were a lot of people there with their chairs sitting alongside of the street .",
+        "there was a group of people in the parade from the school , and some vetrans .",
+        "some of the people in the parade were very talented those kids know how to play their music .",
+        "the winner of the race was a big hit and nobody thought he would be winning ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "i went to the parade last week . there were a lot of people there . There were some very talented people in the parade. the winner of the race was a big hit with the parade .",
+      "normalized_edited_story_text_sent": [
+        "i went to the parade last week .",
+        "there were a lot of people there .",
+        "there were some very talented people in the parade .",
+        "the winner of the race was a big hit with the parade ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157620102507052"
+}

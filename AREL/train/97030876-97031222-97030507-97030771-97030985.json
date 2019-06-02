@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "97030876-97031222-97030507-97030771-97030985",
+  "photo_sequence_ids": [
+    "97030876",
+    "97031222",
+    "97030507",
+    "97030771",
+    "97030985"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/29/97030876_8435dc0efa_o.jpg",
+    "https://farm1.staticflickr.com/29/97031222_2daa1b4866_o.jpg",
+    "https://farm1.staticflickr.com/23/97030507_775e6b9d05_o.jpg",
+    "https://farm1.staticflickr.com/37/97030771_a79ad1f666_o.jpg",
+    "https://farm1.staticflickr.com/12/97030985_a6819529da_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the car show . it was a lot of fun . there were a lot of people there . we got to see a lot of cool things . this is a picture of a car .",
+  "edited_stories": [
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "we went to a car show . it was so much fun . there seemed to be a lot of people there . we got to see a lot of cool things . this is a picture of a car from there .",
+      "normalized_edited_story_text_sent": [
+        "we went to a car show .",
+        "it was so much fun .",
+        "there seemed to be a lot of people there .",
+        "we got to see a lot of cool things .",
+        "this is a picture of a car from there ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "WE TOOK A TRIP WITH OUR TRAILER. It was a lot of fun. WE WENT SKIING. DAD TOOK A LOT OF PICTURES. We got to see a lot of cool things.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip with our trailer .",
+        "it was a lot of fun .",
+        "we went skiing .",
+        "dad took a lot of pictures .",
+        "we got to see a lot of cool things ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went to an RV show. It was fun to play nearby in the snow. There were lots of people there taking photos. We also took pictures of cool things with our camera. We even saw a large silver RV.",
+      "normalized_edited_story_text_sent": [
+        "we went to an rv show .",
+        "it was fun to play nearby in the snow .",
+        "there were lots of people there taking photos .",
+        "we also took pictures of cool things with our camera .",
+        "we even saw a large silver rv ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "we went to a camper and car show . there were a lot of people there . we got to see many of cool things . this is a picture of a camper and car",
+      "normalized_edited_story_text_sent": [
+        "we went to a camper and car show .",
+        "there were a lot of people there .",
+        "we got to see many of cool things .",
+        "this is a picture of a camper and car"
+      ]
+    },
+    {
+      "worker_id": "A2X2CN7XX6C96N",
+      "edited_story_text": "we went to the RV show . it was a lot of fun . there were a lot of people there . we got to see a lot of cool things . this is a picture of my RV .",
+      "normalized_edited_story_text_sent": [
+        "we went to the rv show .",
+        "it was a lot of fun .",
+        "there were a lot of people there .",
+        "we got to see a lot of cool things .",
+        "this is a picture of my rv ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594061082572"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4482338138-4481690955-4482344194-4482349014-4482350160",
+  "photo_sequence_ids": [
+    "4482338138",
+    "4481690955",
+    "4482344194",
+    "4482349014",
+    "4482350160"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he was also giving a speech . the audience was impressed . the speakers were very good . the presentation was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker was knew the topic well . he gave a speech . the audience speech created a good impression . all the speakers were really good communicators . the presentation succeeded according to plan .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was knew the topic well .",
+        "he gave a speech .",
+        "the audience speech created a good impression .",
+        "all the speakers were really good communicators .",
+        "the presentation succeeded according to plan ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "it was nice to be inducted. all my hard work finally paying off.",
+      "normalized_edited_story_text_sent": [
+        "it was nice to be inducted .",
+        "all my hard work finally paying off ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria WAS HAPPY THAT the speaker was very knowledgeable . he was also giving a speech . the audience was impressed . the speakers were very good . the presentation was a success .",
+      "normalized_edited_story_text_sent": [
+        "[female] was happy that the speaker was very knowledgeable .",
+        "he was also giving a speech .",
+        "the audience was impressed .",
+        "the speakers were very good .",
+        "the presentation was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "What a proud moment when John was presented with this commendation for  his role in ending the conflict.  We could not be more proud of him.",
+      "normalized_edited_story_text_sent": [
+        "what a proud moment when [male] was presented with this commendation for his role in ending the conflict .",
+        "we could not be more proud of him ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man put a medal on the other soldier. The soldiers sat at a table. He stood before the soldiers. They worked hard.",
+      "normalized_edited_story_text_sent": [
+        "the man put a medal on the other soldier .",
+        "the soldiers sat at a table .",
+        "he stood before the soldiers .",
+        "they worked hard ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623624264675",
+  "model": "GLAC"
+}

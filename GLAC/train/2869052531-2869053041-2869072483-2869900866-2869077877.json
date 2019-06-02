@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "2869052531-2869053041-2869072483-2869900866-2869077877",
+  "photo_sequence_ids": [
+    "2869052531",
+    "2869053041",
+    "2869072483",
+    "2869900866",
+    "2869077877"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baby was excited to be in the family . he was so happy to see his brother . the boy was very happy with the gifts . the cake was a great gift . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the baby was excited to be in the car . she was so happy to see her father . the bulletin board had flowers.  the kids had a great time in preschool.",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited to be in the car .",
+        "she was so happy to see her father .",
+        "the bulletin board had flowers .",
+        "the kids had a great time in preschool ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "She sat in the car posing for a picture. They walked in the school. The kids enjoyed the classroom.",
+      "normalized_edited_story_text_sent": [
+        "she sat in the car posing for a picture .",
+        "they walked in the school .",
+        "the kids enjoyed the classroom ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the baby was excited to be in the big family . he was so joyous to see his brother . the boy was very happy with the gifts . the cake was a great gift . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited to be in the big family .",
+        "he was so joyous to see his brother .",
+        "the boy was very happy with the gifts .",
+        "the cake was a great gift .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the girl was riding in her car seat.  she was excited to be going.  her dad walked her into the building.  the billboard was decorated to welcome the children.  the kids loved to play at daycare.",
+      "normalized_edited_story_text_sent": [
+        "the girl was riding in her car seat .",
+        "she was excited to be going .",
+        "her dad walked her into the building .",
+        "the billboard was decorated to welcome the children .",
+        "the kids loved to play at daycare ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the baby was excited to be in the family .",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited to be in the family ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157607397957916",
+  "model": "GLAC"
+}

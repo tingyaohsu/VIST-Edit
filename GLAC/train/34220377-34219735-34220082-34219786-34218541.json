@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "34220377-34219735-34220082-34219786-34218541",
+  "photo_sequence_ids": [
+    "34220377",
+    "34219735",
+    "34220082",
+    "34219786",
+    "34218541"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing a gig . the crowd was very excited . the drummer was very good . the audience was having a great time . the fans were really happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "A band had a major gig, playing for an amped up crowd. The drummer was insanely good, and the audience was feeding off that energy, with their fans screaming at the top of their lungs in excitement!",
+      "normalized_edited_story_text_sent": [
+        "a band had a major gig , playing for an amped up crowd .",
+        "the drummer was insanely good , and the audience was feeding off that energy , with their fans screaming at the top of their lungs in excitement !"
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the band was playing a big gig . the crowd was very animated. the drummer was very great. the audience was having a great time . the fans were really happy .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a big gig .",
+        "the crowd was very animated .",
+        "the drummer was very great .",
+        "the audience was having a great time .",
+        "the fans were really happy ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the band was playing a gig . the crowd was very excited . the drummer was very good . the audience was having a great time . the fans had fun outside .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig .",
+        "the crowd was very excited .",
+        "the drummer was very good .",
+        "the audience was having a great time .",
+        "the fans had fun outside ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the band was playing a gig at the local fair . the crowd was very excited and sung along. the drummer was very good at keeping the beat. the audience was having a great time while the music played . the fans were really happy that they came to the show .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a gig at the local fair .",
+        "the crowd was very excited and sung along .",
+        "the drummer was very good at keeping the beat .",
+        "the audience was having a great time while the music played .",
+        "the fans were really happy that they came to the show ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "We stood listening to the band playing the gig. I was very excited. The ride was very good. David was having a great time. The guys were really happy.",
+      "normalized_edited_story_text_sent": [
+        "we stood listening to the band playing the gig .",
+        "i was very excited .",
+        "the ride was very good .",
+        "[male] was having a great time .",
+        "the guys were really happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "758123",
+  "model": "GLAC"
+}

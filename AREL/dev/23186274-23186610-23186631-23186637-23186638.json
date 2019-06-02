@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "23186274-23186610-23186631-23186637-23186638",
+  "photo_sequence_ids": [
+    "23186274",
+    "23186610",
+    "23186631",
+    "23186637",
+    "23186638"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/19/23186274_e6fcb27a3c_o.jpg",
+    "https://farm1.staticflickr.com/17/23186610_f5661b2d75_o.jpg",
+    "https://farm1.staticflickr.com/17/23186631_51a2fc4088_o.jpg",
+    "https://farm1.staticflickr.com/17/23186637_e750213e25_o.jpg",
+    "https://farm1.staticflickr.com/17/23186638_2758b620e0_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party . they had a great time . he had a great time . a couple of friends pose for a picture . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had an awesome time at the party . they had a wonderful time . he had fun . a couple of friends pose for a photo . we had a sweet time .",
+      "normalized_edited_story_text_sent": [
+        "we had an awesome time at the party .",
+        "they had a wonderful time .",
+        "he had fun .",
+        "a couple of friends pose for a photo .",
+        "we had a sweet time ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "we had a great time at the party.  a couple of friends posed for a picture . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "a couple of friends posed for a picture .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "we had a great time at the get-together . they had a incredible time . he had a extraordinary time . a couple of friends pose for a photo. we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the get-together .",
+        "they had a incredible time .",
+        "he had a extraordinary time .",
+        "a couple of friends pose for a photo .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "We had a great time at the party . We all had a great time eating cake. He had a great time after that kiss. We were just a couple of friends posing for a picture. We had a great time the whole night.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "we all had a great time eating cake .",
+        "he had a great time after that kiss .",
+        "we were just a couple of friends posing for a picture .",
+        "we had a great time the whole night ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "We had a great time at my friend\u0027s birthday party. We hadn\u0027t seen each other in a while, so it was good to talk. We also laughed a lot. I can\u0027t wait to see everyone again.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at my friend \u0027s birthday party .",
+        "we had n\u0027t seen each other in a while , so it was good to talk .",
+        "we also laughed a lot .",
+        "i ca n\u0027t wait to see everyone again ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "533451"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "2713971964-2710730474-2714016900-2714829954-2713347363",
+  "photo_sequence_ids": [
+    "2713971964",
+    "2710730474",
+    "2714016900",
+    "2714829954",
+    "2713347363"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3246/2713971964_ebd71d8212_o.jpg",
+    "https://farm4.staticflickr.com/3148/2710730474_3816546a8e_o.jpg",
+    "https://farm4.staticflickr.com/3167/2714016900_ff74a220f3_o.jpg",
+    "https://farm4.staticflickr.com/3026/2714829954_92536a6a66_o.jpg",
+    "https://farm4.staticflickr.com/3057/2713347363_780d38f1be_o.jpg"
+  ],
+  "auto_story_text_normalized": "the baby was very excited to see the baby . i had a great time there . i had a great time there . the woman is taking a picture with her mother . my husband and i had a great dinner .",
+  "edited_stories": [
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "The baby was very excited to see [female]. We had a great time there. [Female] was sick in the hospital. The woman is taking a picture at her desk. [Female] and I had a great dinner.",
+      "normalized_edited_story_text_sent": [
+        "the baby was very excited to see [female] .",
+        "we had a great time there .",
+        "[female] was sick in the hospital .",
+        "the woman is taking a picture at her desk .",
+        "[female] and i had a great dinner ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "[female] was admitted to the hospital. She was put on new meds that can be taken with her favorite juice. After some time [female] recovered very swiftly. She was back to normal in no time.",
+      "normalized_edited_story_text_sent": [
+        "[female] was admitted to the hospital .",
+        "she was put on new meds that can be taken with her favorite juice .",
+        "after some time [female] recovered very swiftly .",
+        "she was back to normal in no time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The baby was excited to see me. I had a great time there. Here\u0027s the woman taking a picture with her mother. My husband and I had a great dinner.",
+      "normalized_edited_story_text_sent": [
+        "the baby was excited to see me .",
+        "i had a great time there .",
+        "here \u0027s the woman taking a picture with her mother .",
+        "my husband and i had a great dinner ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the baby was very excited to see the baby and i had a great time there . i had a great time there . the woman is taking a picture with her mother . my husband and i had a great dinner .",
+      "normalized_edited_story_text_sent": [
+        "the baby was very excited to see the baby and i had a great time there .",
+        "i had a great time there .",
+        "the woman is taking a picture with her mother .",
+        "my husband and i had a great dinner ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the woman was in the hospital . this is her medicine . now she is back at work and enjoys eating out.",
+      "normalized_edited_story_text_sent": [
+        "the woman was in the hospital .",
+        "this is her medicine .",
+        "now she is back at work and enjoys eating out ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157606437775436"
+}

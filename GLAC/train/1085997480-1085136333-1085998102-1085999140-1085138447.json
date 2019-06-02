@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "1085997480-1085136333-1085998102-1085999140-1085138447",
+  "photo_sequence_ids": [
+    "1085997480",
+    "1085136333",
+    "1085998102",
+    "1085999140",
+    "1085138447"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was excited to be in the woods . he was getting ready for the day . he was going to take a break . he saw a bird . he was so cute .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the dog was excited to be in the woods and was looking for the cat . he was getting ready for the day to be over . he was going to take a break but then saw the car . he saw a bird also as he chased the cat. he was so cute so he didn\u0027t hurt him .",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to be in the woods and was looking for the cat .",
+        "he was getting ready for the day to be over .",
+        "he was going to take a break but then saw the car .",
+        "he saw a bird also as he chased the cat .",
+        "he was so cute so he did n\u0027t hurt him ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The chickens were so cute and the people had such a good time holding them.",
+      "normalized_edited_story_text_sent": [
+        "the chickens were so cute and the people had such a good time holding them ."
+      ]
+    },
+    {
+      "worker_id": "A2K2S0P331IZHL",
+      "edited_story_text": "I go to hang out with these cute little chicks! As well as visit with the chickens and hear about their habits from Mary, who was a great guide!",
+      "normalized_edited_story_text_sent": [
+        "i go to hang out with these cute little chicks !",
+        "as well as visit with the chickens and hear about their habits from [female] , who was a great guide !"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the baby birds were amazing. Mary was getting ready for the day. she was going to take a break . she saw a bird . she was so cute .",
+      "normalized_edited_story_text_sent": [
+        "the baby birds were amazing .",
+        "[female] was getting ready for the day .",
+        "she was going to take a break .",
+        "she saw a bird .",
+        "she was so cute ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the dog was excited to be in the giant woods . he was getting ready for the day . he was going to take a rest. he saw a bird . he was so cute .",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to be in the giant woods .",
+        "he was getting ready for the day .",
+        "he was going to take a rest .",
+        "he saw a bird .",
+        "he was so cute ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601372125786",
+  "model": "GLAC"
+}

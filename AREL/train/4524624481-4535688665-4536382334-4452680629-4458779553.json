@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4524624481-4535688665-4536382334-4452680629-4458779553",
+  "photo_sequence_ids": [
+    "4524624481",
+    "4535688665",
+    "4536382334",
+    "4452680629",
+    "4458779553"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4029/4524624481_4d70036bbc_o.jpg",
+    "https://farm5.staticflickr.com/4015/4535688665_1b221e3f9a_o.jpg",
+    "https://farm3.staticflickr.com/2709/4536382334_141b70cc19_o.jpg",
+    "https://farm5.staticflickr.com/4071/4452680629_982e547cbe_o.jpg",
+    "https://farm3.staticflickr.com/2804/4458779553_951d6f0db5_o.jpg"
+  ],
+  "auto_story_text_normalized": "the car show was great . she was so excited to see her new car . the model was very happy to be there . there were a lot of classic cars . the car was very expensive .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the car show was great . she was so excited to see her new car . the model was happy to be there . there were a lot of classic cars at the event . the car was very expensive .",
+      "normalized_edited_story_text_sent": [
+        "the car show was great .",
+        "she was so excited to see her new car .",
+        "the model was happy to be there .",
+        "there were a lot of classic cars at the event .",
+        "the car was very expensive ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "The car show was great. The model was so excited to see and show her new car. The model posed besides her car. There were a lot of classic cars. The car was very expensive .",
+      "normalized_edited_story_text_sent": [
+        "the car show was great .",
+        "the model was so excited to see and show her new car .",
+        "the model posed besides her car .",
+        "there were a lot of classic cars .",
+        "the car was very expensive ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "the car show was great. There was a half naked model excited to show off a new car. the model was very happy to be there. there were many classic cars. Some cars were very expensive .",
+      "normalized_edited_story_text_sent": [
+        "the car show was great .",
+        "there was a half naked model excited to show off a new car .",
+        "the model was very happy to be there .",
+        "there were many classic cars .",
+        "some cars were very expensive ."
+      ]
+    },
+    {
+      "worker_id": "A2LH24MZKYTF1G",
+      "edited_story_text": "The car show was great . The model was very happy to be there and was excited to see her new car. There were a lot of classic and expensive cars.",
+      "normalized_edited_story_text_sent": [
+        "the car show was great .",
+        "the model was very happy to be there and was excited to see her new car .",
+        "there were a lot of classic and expensive cars ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "The car show was great. She was so excited to see her new car. The model seemed  very happy to be there and there were a lot of classic cars. The car was very expensive .",
+      "normalized_edited_story_text_sent": [
+        "the car show was great .",
+        "she was so excited to see her new car .",
+        "the model seemed very happy to be there and there were a lot of classic cars .",
+        "the car was very expensive ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623543731149"
+}

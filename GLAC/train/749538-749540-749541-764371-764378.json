@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "749538-749540-749541-764371-764378",
+  "photo_sequence_ids": [
+    "749538",
+    "749540",
+    "749541",
+    "764371",
+    "764378"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . everyone was having a great time . the costumes were very good . some of the people were really crazy . it was a great night .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The party was just tons of fun, and everyone was having a great time. The costumes were very amazing, even though some of the people were really crazy. It was a fantastic night.",
+      "normalized_edited_story_text_sent": [
+        "the party was just tons of fun , and everyone was having a great time .",
+        "the costumes were very amazing , even though some of the people were really crazy .",
+        "it was a fantastic night ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . everyone was having a great time . Robert acted goofy . some of the people were really crazy . the DJ spun the jams .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was having a great time .",
+        "[male] acted goofy .",
+        "some of the people were really crazy .",
+        "the dj spun the jams ."
+      ]
+    },
+    {
+      "worker_id": "A197GEXK2G2RA",
+      "edited_story_text": "We went to a concert for this local D.J. and it was a blast. The music was fun, the drinks were delicious, and everyone had a great time. We will definitely see him again when he comes back.",
+      "normalized_edited_story_text_sent": [
+        "we went to a concert for this local d.j. and it was a blast .",
+        "the music was fun , the drinks were delicious , and everyone had a great time .",
+        "we will definitely see him again when he comes back ."
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "The concert was a blast. I went with my best friend and the venue was packed. We had drinks, yelled and laughed our butts off. Can\u0027\u0027t wait to catch another show.",
+      "normalized_edited_story_text_sent": [
+        "the concert was a blast .",
+        "i went with my best friend and the venue was packed .",
+        "we had drinks , yelled and laughed our butts off .",
+        "can `` t wait to catch another show ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . everyone was having a great time . the DJ put on a great performance",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone was having a great time .",
+        "the dj put on a great performance"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "19074",
+  "model": "GLAC"
+}

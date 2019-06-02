@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4443162250-4443162868-4443163780-4443164392-4442387467",
+  "photo_sequence_ids": [
+    "4443162250",
+    "4443162868",
+    "4443163780",
+    "4443164392",
+    "4442387467"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was in a beautiful venue . the church was decorated with a nice fountain . the bride and groom were very happy . the reception was held at a local church . the couple was so happy to be married .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the wedding was in a beautiful venue, which made the bride and groom very happy . the reception was held at a local church that was decorated with a nice fountain. the couple was so happy to be married .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was in a beautiful venue , which made the bride and groom very happy .",
+        "the reception was held at a local church that was decorated with a nice fountain .",
+        "the couple was so happy to be married ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding took place in a beautiful church . the church had an ornate fountain . the bride and groom were elated . the reception was also inside the local church . the couple was jubilant about their marriage .",
+      "normalized_edited_story_text_sent": [
+        "the wedding took place in a beautiful church .",
+        "the church had an ornate fountain .",
+        "the bride and groom were elated .",
+        "the reception was also inside the local church .",
+        "the couple was jubilant about their marriage ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The wedding was held in a beautiful venue (a local church), and it had a really nice fountain. The bride and groom were overjoyed to be married.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held in a beautiful venue -LRB- a local church -RRB- , and it had a really nice fountain .",
+        "the bride and groom were overjoyed to be married ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Maria WAS HAPPY THAT the wedding was in a beautiful venue . the church was decorated with a nice fountain . the bride and groom were very happy . the reception was held at a local church . the couple was so happy to be married .",
+      "normalized_edited_story_text_sent": [
+        "[female] was happy that the wedding was in a beautiful venue .",
+        "the church was decorated with a nice fountain .",
+        "the bride and groom were very happy .",
+        "the reception was held at a local church .",
+        "the couple was so happy to be married ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the wedding was in a beautiful venue . The bride walked down the aisle. The couple stood at the alter. They were very happy.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was in a beautiful venue .",
+        "the bride walked down the aisle .",
+        "the couple stood at the alter .",
+        "they were very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623519648199",
+  "model": "GLAC"
+}

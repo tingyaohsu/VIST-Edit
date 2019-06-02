@@ -1,0 +1,80 @@
+{
+  "photo_sequence_id": "5883335371-5883366997-5889205810-5889219886-5889227472",
+  "photo_sequence_ids": [
+    "5883335371",
+    "5883366997",
+    "5889205810",
+    "5889219886",
+    "5889227472"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5072/5883335371_76f4916a08_o.jpg",
+    "https://farm6.staticflickr.com/5077/5883366997_7cda9e6f7e_o.jpg",
+    "https://farm6.staticflickr.com/5265/5889205810_8d06856650_o.jpg",
+    "https://farm6.staticflickr.com/5072/5889219886_243d26218d_o.jpg",
+    "https://farm6.staticflickr.com/5232/5889227472_4ab75e2cae_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to a farm . he saw a lot of interesting things . the cow was very happy to see them . we got to see a bird . after a long day of work , he went back to his hotel and took a picture of the fire .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we took a trip to a farm . he saw a lot of interesting things there . the cow was happy to see them . we also got to see a bird . after a long day of work , he went back to his hotel and took a picture of the fire .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to a farm .",
+        "he saw a lot of interesting things there .",
+        "the cow was happy to see them .",
+        "we also got to see a bird .",
+        "after a long day of work , he went back to his hotel and took a picture of the fire ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "we take a trip to a farm . he see a lot of interesting things . the cow is very happy to saw them . we get to saw a bird . after a long day of work , he go back to his hotel and take a picture of the fire .",
+      "normalized_edited_story_text_sent": [
+        "we take a trip to a farm .",
+        "he see a lot of interesting things .",
+        "the cow is very happy to saw them .",
+        "we get to saw a bird .",
+        "after a long day of work , he go back to his hotel and take a picture of the fire ."
+      ]
+    },
+    {
+      "worker_id": "A2CAMPAA7650H2",
+      "edited_story_text": "they took a trip to the zoo and saw a koala . they saw a lot of interesting things, too, including a flamingo . the giraffe was very happy to see the family . we got to see a meerkat . after a long day of walking , the last animal they saw was a warthog, and then they went back to the hotel  .",
+      "normalized_edited_story_text_sent": [
+        "they took a trip to the zoo and saw a koala .",
+        "they saw a lot of interesting things , too , including a flamingo .",
+        "the giraffe was very happy to see the family .",
+        "we got to see a meerkat .",
+        "after a long day of walking , the last animal they saw was a warthog , and then they went back to the hotel ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We took a trip to the local zoo to see lots of animals. We saw lots of cool animals, including a flamingo. The giraffe had a strange expression on his face. The meerkat came out of hiding and I took a photo. My favorite was the warthog, which had big tusks.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the local zoo to see lots of animals .",
+        "we saw lots of cool animals , including a flamingo .",
+        "the giraffe had a strange expression on his face .",
+        "the meerkat came out of hiding and i took a photo .",
+        "my favorite was the warthog , which had big tusks ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "we took a trip to a zoo. We saw a lot of interesting animals. the koala bear was very happy to see us. we got to see flamingos. We saw a giraffe with a very long neck. After a long day of walking at the zoo, we went back to the hotel.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to a zoo .",
+        "we saw a lot of interesting animals .",
+        "the koala bear was very happy to see us .",
+        "we got to see flamingos .",
+        "we saw a giraffe with a very long neck .",
+        "after a long day of walking at the zoo , we went back to the hotel ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627074673796"
+}

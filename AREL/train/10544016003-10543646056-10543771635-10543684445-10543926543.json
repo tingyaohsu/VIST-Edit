@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "10544016003-10543646056-10543771635-10543684445-10543926543",
+  "photo_sequence_ids": [
+    "10544016003",
+    "10543646056",
+    "10543771635",
+    "10543684445",
+    "10543926543"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2815/10544016003_e826716cfa_o.jpg",
+    "https://farm8.staticflickr.com/7391/10543646056_7bab84e5cd_o.jpg",
+    "https://farm4.staticflickr.com/3830/10543771635_5ae1fe4483_o.jpg",
+    "https://farm8.staticflickr.com/7358/10543684445_e02070564d_o.jpg",
+    "https://farm4.staticflickr.com/3798/10543926543_c290f131bd_o.jpg"
+  ],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of people there . even the kids were dressed up . the whole family had a great time . everyone had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the halloween party is a lot of fun . there are a lot of people there . even the kids are dressed up . the whole family have a great time . everyone have a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party is a lot of fun .",
+        "there are a lot of people there .",
+        "even the kids are dressed up .",
+        "the whole family have a great time .",
+        "everyone have a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "The Halloween party was a lot of fun. There were a lot of people there . The kids were dressed in their Halloween costumes. They were so cute dancing in their costumes. The whole family had a great time. It truly was a family oriented party.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people there .",
+        "the kids were dressed in their halloween costumes .",
+        "they were so cute dancing in their costumes .",
+        "the whole family had a great time .",
+        "it truly was a family oriented party ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "The kids were all dressed up for Halloween. There were a lot of people going. The whole family was ready for a great time. The Halloween party was a lot of fun. Everyone had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the kids were all dressed up for halloween .",
+        "there were a lot of people going .",
+        "the whole family was ready for a great time .",
+        "the halloween party was a lot of fun .",
+        "everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the halloween party was a lot of fun . there were a lot of people there . even the kids were dressed up . the whole family had a great time and everyone had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were a lot of people there .",
+        "even the kids were dressed up .",
+        "the whole family had a great time and everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "The kids were dressed up for the Halloween party. The whole school was involved. Even the toddlers were in costume. It was fun for the whole family. Everyone had so much fun at the party.",
+      "normalized_edited_story_text_sent": [
+        "the kids were dressed up for the halloween party .",
+        "the whole school was involved .",
+        "even the toddlers were in costume .",
+        "it was fun for the whole family .",
+        "everyone had so much fun at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157637055790775"
+}

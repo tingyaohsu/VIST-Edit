@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "8657012693-8657012325-8657012989-8658118424-8658118240",
+  "photo_sequence_ids": [
+    "8657012693",
+    "8657012325",
+    "8657012989",
+    "8658118424",
+    "8658118240"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were crowded with people . the protesters were very loud and engaging . the crowd was peaceful . the police were there to keep the peace . the protest was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the streets were crowded with people . the protesters were very loud and engaging .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the protesters were very loud and engaging ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the streets were crowded with people . the protesters were very loud and engaging . the crowd was peaceful . the police were there to keep the peace . the protest was a success .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the streets were crowded with people .",
+        "the protesters were very loud and engaging .",
+        "the crowd was peaceful .",
+        "the police were there to keep the peace .",
+        "the protest was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The streets were crowded with people. The protesters were very loud and engaging but the crowd was peaceful. The police were there to keep the peace. The protest was a success .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the protesters were very loud and engaging but the crowd was peaceful .",
+        "the police were there to keep the peace .",
+        "the protest was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the streets were crowded with protesters . the protesters shouted slogans . the crowd did no violence . the police were there to monitor things . the protest did not turn chaotic .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with protesters .",
+        "the protesters shouted slogans .",
+        "the crowd did no violence .",
+        "the police were there to monitor things .",
+        "the protest did not turn chaotic ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the streets were crowded with people . the protesters were very loud and engaging .It was a gloomy day. There were many people on the street.",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the protesters were very loud and engaging .",
+        "it was a gloomy day .",
+        "there were many people on the street ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157633268182236",
+  "model": "GLAC"
+}

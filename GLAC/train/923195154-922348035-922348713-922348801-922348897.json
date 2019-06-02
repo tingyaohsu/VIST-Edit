@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "923195154-922348035-922348713-922348801-922348897",
+  "photo_sequence_ids": [
+    "923195154",
+    "922348035",
+    "922348713",
+    "922348801",
+    "922348897"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers were all ready for the day . they were very excited to be there . they were given a speech . the men were happy . they were proud of their accomplishments .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The rescue workers greeted the politicians. There were soldiers in the street. They worked in an office. The soldiers were at storefronts on the street.",
+      "normalized_edited_story_text_sent": [
+        "the rescue workers greeted the politicians .",
+        "there were soldiers in the street .",
+        "they worked in an office .",
+        "the soldiers were at storefronts on the street ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the men were all ready for the day . the soldiers were very excited to be there . they were giving a speech . the men were happy . they were proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the men were all ready for the day .",
+        "the soldiers were very excited to be there .",
+        "they were giving a speech .",
+        "the men were happy .",
+        "they were proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the soldiers were all ready for the day . they were very excited to be there . they were doing work . the men were happy . they were proud of their accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all ready for the day .",
+        "they were very excited to be there .",
+        "they were doing work .",
+        "the men were happy .",
+        "they were proud of their accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the soldiers were all ready for the day . they were very excited to be there .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all ready for the day .",
+        "they were very excited to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the soldiers were all ready for the day . they were very excited to be there . they were given a speech . the men were happy . they were proud of their accomplishments .\r\rThe soldiers were ready and set to go for the day. They were more than happy to be there. When they arrived, they were given a speech. All of the men looked happy. They were very proud of their achievements.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were all ready for the day .",
+        "they were very excited to be there .",
+        "they were given a speech .",
+        "the men were happy .",
+        "they were proud of their accomplishments .",
+        "the soldiers were ready and set to go for the day .",
+        "they were more than happy to be there .",
+        "when they arrived , they were given a speech .",
+        "all of the men looked happy .",
+        "they were very proud of their achievements ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601047470846",
+  "model": "GLAC"
+}

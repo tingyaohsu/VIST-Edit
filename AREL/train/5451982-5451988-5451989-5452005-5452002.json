@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "5451982-5451988-5451989-5452005-5452002",
+  "photo_sequence_ids": [
+    "5451982",
+    "5451988",
+    "5451989",
+    "5452005",
+    "5452002"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/4/5451982_d5f1adef64_o.jpg",
+    "https://farm1.staticflickr.com/4/5451988_50c9eec641_o.jpg",
+    "https://farm1.staticflickr.com/3/5451989_198e814552_o.jpg",
+    "https://farm1.staticflickr.com/4/5452005_100748bb24_o.jpg",
+    "https://farm1.staticflickr.com/6/5452002_9fa7509398_o.jpg"
+  ],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . [female] and [female] were having a good time . she is having fun with her friends . then we got a little drunk . she had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The Halloween party was a lot of fun. [female] and [female] had a good time, and had fun with their friends. We all got a little drunk, but we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "[female] and [female] had a good time , and had fun with their friends .",
+        "we all got a little drunk , but we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The Halloween party was a lot of fun . [Francine] and [Liz] were having a good time together. They are is having fun with their friends, at the party, we got a little drunk. Overall, she had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "[female] and [female] were having a good time together .",
+        "they are is having fun with their friends , at the party , we got a little drunk .",
+        "overall , she had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "We went to a Halloween party last night and had a lot of fun. [Bob] and [Janice] had a good time. Everyone was pretty drunk. Overall, it was a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went to a halloween party last night and had a lot of fun .",
+        "[male] and [female] had a good time .",
+        "everyone was pretty drunk .",
+        "overall , it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the halloween party was a lot of fun . [female] and [female] were having an awesome time . she is having fun with her friends . then we got a little drunk . she had a great time dressing up in costumes .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "[female] and [female] were having an awesome time .",
+        "she is having fun with her friends .",
+        "then we got a little drunk .",
+        "she had a great time dressing up in costumes ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the halloween party is a lot of fun . [male] and [male] are having a good time . he is having fun with him friends . then we get a little drunk . she have a great time .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party is a lot of fun .",
+        "[male] and [male] are having a good time .",
+        "he is having fun with him friends .",
+        "then we get a little drunk .",
+        "she have a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "137301"
+}

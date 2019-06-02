@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4234484202-4234491610-4234496372-4234512148-4233745509",
+  "photo_sequence_ids": [
+    "4234484202",
+    "4234491610",
+    "4234496372",
+    "4234512148",
+    "4233745509"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4037/4234484202_d8f11d5cd1_o.jpg",
+    "https://farm5.staticflickr.com/4045/4234491610_e886206bbb_o.jpg",
+    "https://farm3.staticflickr.com/2775/4234496372_503b9cbd6a_o.jpg",
+    "https://farm3.staticflickr.com/2666/4234512148_3c8e0fb62f_o.jpg",
+    "https://farm3.staticflickr.com/2614/4233745509_155bd61309_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the party last night . the man is getting ready for the party . some of the costumes were very cool . we had a lot of fun dancing . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the party last night . the man is getting ready for the party . some of the costumes were very cool . we had a lot of fun dancing and we had a great time and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "the man is getting ready for the party .",
+        "some of the costumes were very cool .",
+        "we had a lot of fun dancing and we had a great time and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the party last night. Here\u0027s [male] getting ready for the party. Some of the costumes were cool, and there was a lot of dancing. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "here \u0027s [male] getting ready for the party .",
+        "some of the costumes were cool , and there was a lot of dancing .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3226N19Y26CQC",
+      "edited_story_text": "I went to the party last night.  The boy is getting ready for the party.  Some of the games were very cool.  We had a lot of fun dancing and playing.  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "the boy is getting ready for the party .",
+        "some of the games were very cool .",
+        "we had a lot of fun dancing and playing .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the party last night.  The kids had a lot of fun. The boys were posing for the picture.  The girls had fun too.  They watched television after they ate. It was great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "the kids had a lot of fun .",
+        "the boys were posing for the picture .",
+        "the girls had fun too .",
+        "they watched television after they ate .",
+        "it was great time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "i went to the kids\u0027 party last night. they got ready for the party and wore some very cool costumes. we had a lot of fun dancing. we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the kids \u0027 party last night .",
+        "they got ready for the party and wore some very cool costumes .",
+        "we had a lot of fun dancing .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623114581602"
+}

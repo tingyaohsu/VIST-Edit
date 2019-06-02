@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "17437540-17439347-17439348-17461182-17465339",
+  "photo_sequence_ids": [
+    "17437540",
+    "17439347",
+    "17439348",
+    "17461182",
+    "17465339"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the grocery store . there were so many different kinds of food . i bought some souvenirs . i also bought some tomato . and then i had a few drinks .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "I went to the grocery store and there were so many different kinds of food.  I bought some souvenirs and tomatoes, and then I had a few drinks.",
+      "normalized_edited_story_text_sent": [
+        "i went to the grocery store and there were so many different kinds of food .",
+        "i bought some souvenirs and tomatoes , and then i had a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "today i went shopping at the grocery store.  i was amazed at the variety of foods.  i bought a tomato and some souvenirs.  then  i had a few drinks at the store.",
+      "normalized_edited_story_text_sent": [
+        "today i went shopping at the grocery store .",
+        "i was amazed at the variety of foods .",
+        "i bought a tomato and some souvenirs .",
+        "then i had a few drinks at the store ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "I went to the grocery store . There were so many different kinds of delicious food . I bought some souvenirs . I also bought some tomato cans . I then had a few beers.",
+      "normalized_edited_story_text_sent": [
+        "i went to the grocery store .",
+        "there were so many different kinds of delicious food .",
+        "i bought some souvenirs .",
+        "i also bought some tomato cans .",
+        "i then had a few beers ."
+      ]
+    },
+    {
+      "worker_id": "A2ZDXFFGSPHGBE",
+      "edited_story_text": "i went to the market . many different kinds of food were featured . I bought some tomatoes, souveneers and had a few drinks",
+      "normalized_edited_story_text_sent": [
+        "i went to the market .",
+        "many different kinds of food were featured .",
+        "i bought some tomatoes , souveneers and had a few drinks"
+      ]
+    },
+    {
+      "worker_id": "AWMQYV1RQM94M",
+      "edited_story_text": "I went to a French grocery store. There were so many different kinds of food such as spices. I bought some souvenirs . I also bought some tomato plants to grow. finally, I had a few drinks .",
+      "normalized_edited_story_text_sent": [
+        "i went to a french grocery store .",
+        "there were so many different kinds of food such as spices .",
+        "i bought some souvenirs .",
+        "i also bought some tomato plants to grow .",
+        "finally , i had a few drinks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "414318",
+  "model": "GLAC"
+}

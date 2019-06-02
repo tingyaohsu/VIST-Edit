@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4433198683-4433972608-4433971786-4433198409-4433198861",
+  "photo_sequence_ids": [
+    "4433198683",
+    "4433972608",
+    "4433971786",
+    "4433198409",
+    "4433198861"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4068/4433198683_4f38b3423d_o.jpg",
+    "https://farm3.staticflickr.com/2690/4433972608_639b7a6730_o.jpg",
+    "https://farm5.staticflickr.com/4064/4433971786_40fa687017_o.jpg",
+    "https://farm5.staticflickr.com/4058/4433198409_1f2d055b93_o.jpg",
+    "https://farm5.staticflickr.com/4071/4433198861_d75cc942e3_o.jpg"
+  ],
+  "auto_story_text_normalized": "the sun is setting for the sunset . we took a break from the beach to take a picture . we went on a bike ride . it was a beautiful day . the sunset was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SG85M8W4G6F2",
+      "edited_story_text": "We watched the sun rise over the ocean. we took a break from the beach to take a picture . we went on a bike ride along the coast. it was a beautiful day . the sunset was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we watched the sun rise over the ocean .",
+        "we took a break from the beach to take a picture .",
+        "we went on a bike ride along the coast .",
+        "it was a beautiful day .",
+        "the sunset was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the sun is setting for the sunset . we took a break from the beach to take a picture . we went on a bike ride . it was a beautiful day and the sunset was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the sun is setting for the sunset .",
+        "we took a break from the beach to take a picture .",
+        "we went on a bike ride .",
+        "it was a beautiful day and the sunset was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The sun was setting as I took a photo. We decided to take a break from the beach to take a picture. Then we went for a nice bike ride. It was a really beautiful day. The sunset was so beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the sun was setting as i took a photo .",
+        "we decided to take a break from the beach to take a picture .",
+        "then we went for a nice bike ride .",
+        "it was a really beautiful day .",
+        "the sunset was so beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2LH2CAU6CXVW",
+      "edited_story_text": "The sun is setting over the ocean as we stand on the beach.  We took a break from our beach stroll to snap a picture.  We had spent most of the day bike riding near the shore.  It was such a beautiful day.  The weather was perfect.  The sunset was absolutely beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the sun is setting over the ocean as we stand on the beach .",
+        "we took a break from our beach stroll to snap a picture .",
+        "we had spent most of the day bike riding near the shore .",
+        "it was such a beautiful day .",
+        "the weather was perfect .",
+        "the sunset was absolutely beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The sun was beginning to set, so we took a break from the beach to capture the moment. Then, we went on a bike ride. It was a beautiful day and a lovely sunset.",
+      "normalized_edited_story_text_sent": [
+        "the sun was beginning to set , so we took a break from the beach to capture the moment .",
+        "then , we went on a bike ride .",
+        "it was a beautiful day and a lovely sunset ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623496934551"
+}

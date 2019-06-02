@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "12806199-12806110-12806094-12806038-12806197",
+  "photo_sequence_ids": [
+    "12806199",
+    "12806110",
+    "12806094",
+    "12806038",
+    "12806197"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/11/12806199_6dd8c226d4_o.jpg",
+    "https://farm1.staticflickr.com/9/12806110_34b3f6613e_o.jpg",
+    "https://farm1.staticflickr.com/11/12806094_4c3e4b9c04_o.jpg",
+    "https://farm1.staticflickr.com/9/12806038_256e0ca6b5_o.jpg",
+    "https://farm1.staticflickr.com/10/12806197_93272a5849_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party last week . we had a lot of fun . i was so excited to see the party . i had a great time . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "We had a great time at the party last week. We had a lot of fun gathered around a table. i was so excited to be at the party. I had a great time playing a game with bottle caps.  We all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "we had a lot of fun gathered around a table .",
+        "i was so excited to be at the party .",
+        "i had a great time playing a game with bottle caps .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we had a great time at the party last week . we had a lot of fun .I was really happy to see a lot of people there. . i had a great time . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "we had a lot of fun .",
+        "i was really happy to see a lot of people there .",
+        ".",
+        "i had a great time .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A36MKJ6Z5JW64B",
+      "edited_story_text": "we had a great time at the party last week. We had a lot of fun hanging out and playing games. I was so excited to see everyone at the party.  I had a great time.  We  all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "we had a lot of fun hanging out and playing games .",
+        "i was so excited to see everyone at the party .",
+        "i had a great time .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at my friend\u0027s party last week. we played games and had some drinks. we ended up talking until late. everyone really enjoyed themselves.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at my friend \u0027s party last week .",
+        "we played games and had some drinks .",
+        "we ended up talking until late .",
+        "everyone really enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we had a great time at the party last week . we had a lot of fun . i was so excited to see the party .We all played games and had a blast. It was great to be with all my friends",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party last week .",
+        "we had a lot of fun .",
+        "i was so excited to see the party .",
+        "we all played games and had a blast .",
+        "it was great to be with all my friends"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "311966"
+}

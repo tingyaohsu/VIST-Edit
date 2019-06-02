@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "147651862-147652834-147652533-147652890-147652186",
+  "photo_sequence_ids": [
+    "147651862",
+    "147652834",
+    "147652533",
+    "147652890",
+    "147652186"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the birthday party . the baby was excited to see the new toys . he was so happy that he was able to open the presents . he was very happy with his gifts . he was a little nervous about the cake .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family gathered for the big birthday party . the baby was super excited to see the new toys . he was so happy that he was able to open the presents . he was very excited with his gifts . he was a little nervous about the cake .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the big birthday party .",
+        "the baby was super excited to see the new toys .",
+        "he was so happy that he was able to open the presents .",
+        "he was very excited with his gifts .",
+        "he was a little nervous about the cake ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The family gathered for the birthday party.  The baby was excited to see the new toys, he was so happy that he was able to open the presents.  He was very happy with his gifts but was a little nervous about the cake.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the birthday party .",
+        "the baby was excited to see the new toys , he was so happy that he was able to open the presents .",
+        "he was very happy with his gifts but was a little nervous about the cake ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The family all got together for the birthday party. You can bet the baby was excited to see his new toys. He was so happy that to open the presents, and he was very happy with all his gifts. He was just a little nervous about the cake, though.",
+      "normalized_edited_story_text_sent": [
+        "the family all got together for the birthday party .",
+        "you can bet the baby was excited to see his new toys .",
+        "he was so happy that to open the presents , and he was very happy with all his gifts .",
+        "he was just a little nervous about the cake , though ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Elderly and young gathered together for the fun and gifts and cake were presented.",
+      "normalized_edited_story_text_sent": [
+        "elderly and young gathered together for the fun and gifts and cake were presented ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Rita\u0027s family gathered for the birthday party . Rita was excited to see her new toys . Rita was so happy that she was able to open the presents . Rita was very happy with her new gifts . Rita was a little nervous about cutting the cake .",
+      "normalized_edited_story_text_sent": [
+        "rita \u0027s family gathered for the birthday party .",
+        "rita was excited to see her new toys .",
+        "rita was so happy that she was able to open the presents .",
+        "rita was very happy with her new gifts .",
+        "rita was a little nervous about cutting the cake ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594136696437",
+  "model": "GLAC"
+}

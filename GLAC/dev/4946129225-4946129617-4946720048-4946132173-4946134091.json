@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4946129225-4946129617-4946720048-4946132173-4946134091",
+  "photo_sequence_ids": [
+    "4946129225",
+    "4946129617",
+    "4946720048",
+    "4946132173",
+    "4946134091"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very proud of his work . he was very excited to be there . he was so happy that he was able to get the awards . he was given a speech at the end of the ceremony . he was very happy with the results .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The speaker was very excited to be there. Proud of his accomplishments, he spoke, solemn and reserved during his speech. Eventually, breaking a smile and illuminating his happiness upon receiving his awards.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very excited to be there .",
+        "proud of his accomplishments , he spoke , solemn and reserved during his speech .",
+        "eventually , breaking a smile and illuminating his happiness upon receiving his awards ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The speaker very proud of his work and therefore really excited to be there to get his awards. After he got them, he was given a speech at the end of the ceremony to say he was happy with the results.",
+      "normalized_edited_story_text_sent": [
+        "the speaker very proud of his work and therefore really excited to be there to get his awards .",
+        "after he got them , he was given a speech at the end of the ceremony to say he was happy with the results ."
+      ]
+    },
+    {
+      "worker_id": "APILOZNIFB92X",
+      "edited_story_text": "the speaker was very proud of her work . she was very excited to be there and she was so happy that she received the award. she gave a speech at the end of the ceremony and she was very happy with the results .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very proud of her work .",
+        "she was very excited to be there and she was so happy that she received the award .",
+        "she gave a speech at the end of the ceremony and she was very happy with the results ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker was proud to present his results . he was very excited to be speaking . he was so happy he received an award . he was gave another acceptance speech at the end of the ceremony . he had a very satisfactory day .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was proud to present his results .",
+        "he was very excited to be speaking .",
+        "he was so happy he received an award .",
+        "he was gave another acceptance speech at the end of the ceremony .",
+        "he had a very satisfactory day ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the speaker was very proud of his work . They spoke at the podium. There were people on stage. People watched in the audience. The girls performed on stage.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very proud of his work .",
+        "they spoke at the podium .",
+        "there were people on stage .",
+        "people watched in the audience .",
+        "the girls performed on stage ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625082582503",
+  "model": "GLAC"
+}

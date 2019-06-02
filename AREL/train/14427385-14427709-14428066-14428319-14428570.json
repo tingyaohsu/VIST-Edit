@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "14427385-14427709-14428066-14428319-14428570",
+  "photo_sequence_ids": [
+    "14427385",
+    "14427709",
+    "14428066",
+    "14428319",
+    "14428570"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/11/14427385_8fa28acdb4_o.jpg",
+    "https://farm1.staticflickr.com/9/14427709_963ab77b85_o.jpg",
+    "https://farm1.staticflickr.com/11/14428066_9529ab189a_o.jpg",
+    "https://farm1.staticflickr.com/10/14428319_ae331a4c02_o.jpg",
+    "https://farm1.staticflickr.com/10/14428570_3545790ac8_o.jpg"
+  ],
+  "auto_story_text_normalized": "everyone was excited for the graduation ceremony . the students were very excited to see the ceremony . we were so happy to be there . we had a great time . the best part of the day was the best part of the day .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "Everyone was excited for the graduation ceremony.  The students were very excited to be done with school.  We were so happy to be there. The ceremony was nice.  We took a lot of pictures with the graduates.  The best part was the celebration at the end at our favorite restaurant.",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited for the graduation ceremony .",
+        "the students were very excited to be done with school .",
+        "we were so happy to be there .",
+        "the ceremony was nice .",
+        "we took a lot of pictures with the graduates .",
+        "the best part was the celebration at the end at our favorite restaurant ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "everyone was excited for the graduation ceremony . the students were very excited to see the ceremony and we were so happy to be there . we had a great time . the best part of the day was the best part of the day .",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited for the graduation ceremony .",
+        "the students were very excited to see the ceremony and we were so happy to be there .",
+        "we had a great time .",
+        "the best part of the day was the best part of the day ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "everyone was excited for the graduation ceremony . the students were very excited to graduate . we were so happy to be there . we had a great time . the best part of the day was when she got her diploma .",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited for the graduation ceremony .",
+        "the students were very excited to graduate .",
+        "we were so happy to be there .",
+        "we had a great time .",
+        "the best part of the day was when she got her diploma ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "Everyone was excited for the graduation ceremony. The students were very excited to graduate. We were so happy to be there, and we had a great time. The best part of the day was when everyone was getting their diplomas, and seeing their smiles.",
+      "normalized_edited_story_text_sent": [
+        "everyone was excited for the graduation ceremony .",
+        "the students were very excited to graduate .",
+        "we were so happy to be there , and we had a great time .",
+        "the best part of the day was when everyone was getting their diplomas , and seeing their smiles ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "We were all excited to go to my friend\u0027s graduation ceremony.  There were a lot of people there with their friends and family. I was happy to see my friend get her diploma.",
+      "normalized_edited_story_text_sent": [
+        "we were all excited to go to my friend \u0027s graduation ceremony .",
+        "there were a lot of people there with their friends and family .",
+        "i was happy to see my friend get her diploma ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "349272"
+}

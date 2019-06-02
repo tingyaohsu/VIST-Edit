@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "15065818094-15066064824-15662513106-15684604921-15686517305",
+  "photo_sequence_ids": [
+    "15065818094",
+    "15066064824",
+    "15662513106",
+    "15684604921",
+    "15686517305"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5601/15065818094_0b81990038_o.jpg",
+    "https://farm8.staticflickr.com/7563/15066064824_9f07e22c15_o.jpg",
+    "https://farm4.staticflickr.com/3940/15662513106_b2d1684d55_o.jpg",
+    "https://farm6.staticflickr.com/5600/15684604921_33b56d698c_o.jpg",
+    "https://farm8.staticflickr.com/7504/15686517305_0086eefde6_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the christmas decorations to see the christmas decorations . this is a picture of a tree . there were a lot of decorations there . the pumpkin carving contest was a lot of fun . i had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the christmas decorations to see the christmas decorations . this is a picture of a tree . there were a lot of decorations there and the pumpkin carving contest was a lot of fun . i had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to the christmas decorations to see the christmas decorations .",
+        "this is a picture of a tree .",
+        "there were a lot of decorations there and the pumpkin carving contest was a lot of fun .",
+        "i had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "Halloween party was super.  We decorated the place very scary like.  We had a lot of goodies - donuts, cookies, popcorn.  It was spooky.",
+      "normalized_edited_story_text_sent": [
+        "halloween party was super .",
+        "we decorated the place very scary like .",
+        "we had a lot of goodies - donuts , cookies , popcorn .",
+        "it was spooky ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We visited the haunted house on Halloween. It was dimly lit inside. There were creepy Halloween decorations. They also had a special Halloween snack table. Someone made a silly scary popcorn hand.",
+      "normalized_edited_story_text_sent": [
+        "we visited the haunted house on halloween .",
+        "it was dimly lit inside .",
+        "there were creepy halloween decorations .",
+        "they also had a special halloween snack table .",
+        "someone made a silly scary popcorn hand ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "we went to the halloween party to see the unique decorations . an eerie green lighting scattered around the room . there were a lot of scary decorations there . the pumpkin carving contest was a lot of fun and there were lots of tasty treats to eat . i had a lot of fun and took home a bag of popcorn and candy corn shaped like a hand .",
+      "normalized_edited_story_text_sent": [
+        "we went to the halloween party to see the unique decorations .",
+        "an eerie green lighting scattered around the room .",
+        "there were a lot of scary decorations there .",
+        "the pumpkin carving contest was a lot of fun and there were lots of tasty treats to eat .",
+        "i had a lot of fun and took home a bag of popcorn and candy corn shaped like a hand ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we went to see the christmas decorations and took a picture of the tree. there were a lot of decorations there . the pumpkin carving contest was a lot of fun . i had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to see the christmas decorations and took a picture of the tree .",
+        "there were a lot of decorations there .",
+        "the pumpkin carving contest was a lot of fun .",
+        "i had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157648674018690"
+}

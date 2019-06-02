@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "1742001393-1742001577-1742851312-1742851524-1742002163",
+  "photo_sequence_ids": [
+    "1742001393",
+    "1742001577",
+    "1742851312",
+    "1742851524",
+    "1742002163"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the garden was beautiful . the plants were blooming . the flowers were so vibrant . the trees were in full bloom . the water was calm .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The garden was exquisite. A lot of the plants were blooming. the flowers were so vibrant and the trees were in full bloom . The water in the pond was calm and looking at it was relaxing.",
+      "normalized_edited_story_text_sent": [
+        "the garden was exquisite .",
+        "a lot of the plants were blooming .",
+        "the flowers were so vibrant and the trees were in full bloom .",
+        "the water in the pond was calm and looking at it was relaxing ."
+      ]
+    },
+    {
+      "worker_id": "A3S67QA0SQVPUJ",
+      "edited_story_text": "The garden was so beautiful . All of the pretty plants were blooming. The colors of the flowers were so vibrant.  The trees were in full bloom . The water was nice and calm.",
+      "normalized_edited_story_text_sent": [
+        "the garden was so beautiful .",
+        "all of the pretty plants were blooming .",
+        "the colors of the flowers were so vibrant .",
+        "the trees were in full bloom .",
+        "the water was nice and calm ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the garden was beautiful . the plants were blooming . the flowers were so vibrant . the trees were green and lush. the water was calm and the waterfront grass was very green.",
+      "normalized_edited_story_text_sent": [
+        "the garden was beautiful .",
+        "the plants were blooming .",
+        "the flowers were so vibrant .",
+        "the trees were green and lush .",
+        "the water was calm and the waterfront grass was very green ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the garden was pretty. the plants were blooming . the flowers were so colorful. the trees were in full bloom . the water was calm .",
+      "normalized_edited_story_text_sent": [
+        "the garden was pretty .",
+        "the plants were blooming .",
+        "the flowers were so colorful .",
+        "the trees were in full bloom .",
+        "the water was calm ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the garden was beautiful and lush . the plants were sprouting . the flowers were so vibrant . the trees were in full bloom . the water was steady and calm .",
+      "normalized_edited_story_text_sent": [
+        "the garden was beautiful and lush .",
+        "the plants were sprouting .",
+        "the flowers were so vibrant .",
+        "the trees were in full bloom .",
+        "the water was steady and calm ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602689117526",
+  "model": "GLAC"
+}

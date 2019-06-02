@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4683917461-4684548716-4683913995-4684544220-4683913381",
+  "photo_sequence_ids": [
+    "4683917461",
+    "4684548716",
+    "4683913995",
+    "4684544220",
+    "4683913381"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1276/4683917461_7d51edced9_o.jpg",
+    "https://farm5.staticflickr.com/4055/4684548716_b188e47141_o.jpg",
+    "https://farm5.staticflickr.com/4058/4683913995_5e68f1feed_o.jpg",
+    "https://farm5.staticflickr.com/4026/4684544220_3e8aace678_o.jpg",
+    "https://farm5.staticflickr.com/4051/4683913381_be1d6dedf6_o.jpg"
+  ],
+  "auto_story_text_normalized": "the bride and groom were so happy to be married . the table was set up for the reception . the bride and groom pose for a picture . the bride was very happy to be there . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the bride and groom were so happy to be married . the table was set up for the reception . the bride and groom pose for a photo . the bride was excited to be there . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were so happy to be married .",
+        "the table was set up for the reception .",
+        "the bride and groom pose for a photo .",
+        "the bride was excited to be there .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The bride and groom were so happy to be married and the table was set up for the reception. The bride and groom posed for a picture. We were all happy to eat, take photos with friends and have a great time together!",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were so happy to be married and the table was set up for the reception .",
+        "the bride and groom posed for a picture .",
+        "we were all happy to eat , take photos with friends and have a great time together !"
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the bride and groom were so happy to be married . the table was set up for the reception . the bride and groom pose for a picture . the bride was very happy to be there . they had such a great time at their wedding.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were so happy to be married .",
+        "the table was set up for the reception .",
+        "the bride and groom pose for a picture .",
+        "the bride was very happy to be there .",
+        "they had such a great time at their wedding ."
+      ]
+    },
+    {
+      "worker_id": "A3GM1Y0H93CZT1",
+      "edited_story_text": "The brides were so happy to be married. The tables were set up beautifully for the reception. The [Sarah] and [Jon] posed for a picture. The bride\u0027s baby sister was there. We all had a great time at the wedding.",
+      "normalized_edited_story_text_sent": [
+        "the brides were so happy to be married .",
+        "the tables were set up beautifully for the reception .",
+        "the [female] and [male] posed for a picture .",
+        "the bride \u0027s baby sister was there .",
+        "we all had a great time at the wedding ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The guests were arriving for the wedding. The table was set up for the reception. Everyone posed for pictures. Everyone enjoyed the meal. Everyone had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the guests were arriving for the wedding .",
+        "the table was set up for the reception .",
+        "everyone posed for pictures .",
+        "everyone enjoyed the meal .",
+        "everyone had a good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624235889886"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4389398247-4390166096-4390166124-4390165984-4390165968",
+  "photo_sequence_ids": [
+    "4389398247",
+    "4390166096",
+    "4390166124",
+    "4390165984",
+    "4390165968"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2790/4389398247_e10d4865f6_o.jpg",
+    "https://farm5.staticflickr.com/4068/4390166096_ff23b11b32_o.jpg",
+    "https://farm3.staticflickr.com/2752/4390166124_460e0ed267_o.jpg",
+    "https://farm5.staticflickr.com/4009/4390165984_d44a834edd_o.jpg",
+    "https://farm3.staticflickr.com/2758/4390165968_2b38b4121d_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the meeting yesterday . i got to meet a lot of people . the speaker was very happy . a group of people who attended the meeting . the speaker was very pleased with the presentation .",
+  "edited_stories": [
+    {
+      "worker_id": "A15WCNO32MHBAF",
+      "edited_story_text": "I met with the rest of the team yesterday, to plan our talk at the conference. I got to meet a lot of people, and was part of the group photo. The talk went well, and our speaker was very happy with the presentation. The meeting was a big success.",
+      "normalized_edited_story_text_sent": [
+        "i met with the rest of the team yesterday , to plan our talk at the conference .",
+        "i got to meet a lot of people , and was part of the group photo .",
+        "the talk went well , and our speaker was very happy with the presentation .",
+        "the meeting was a big success ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the meeting yesterday and i got to meet a lot of people . the speaker was very happy and so was a group of people who attended the meeting . the speaker was very pleased with the presentation .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday and i got to meet a lot of people .",
+        "the speaker was very happy and so was a group of people who attended the meeting .",
+        "the speaker was very pleased with the presentation ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the meeting yesterday at the college. i got to meet a lot of people with the same interests. the speaker was very good.  his presentation was very informative.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday at the college .",
+        "i got to meet a lot of people with the same interests .",
+        "the speaker was very good .",
+        "his presentation was very informative ."
+      ]
+    },
+    {
+      "worker_id": "A13TJ0P4X8HJ6Q",
+      "edited_story_text": "i went to the meeting yesterday . i got to meet a lot of people . the speaker was very engaging. There were several people who attended the meeting . the speaker was very pleased with the presentation, as was I.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "i got to meet a lot of people .",
+        "the speaker was very engaging .",
+        "there were several people who attended the meeting .",
+        "the speaker was very pleased with the presentation , as was i."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the meeting yesterday . i got to meet a lot of people  The speaker was very interesting . a group of people who attended the meeting . the speaker was very pleased with the presentation .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "i got to meet a lot of people the speaker was very interesting .",
+        "a group of people who attended the meeting .",
+        "the speaker was very pleased with the presentation ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623388688073"
+}

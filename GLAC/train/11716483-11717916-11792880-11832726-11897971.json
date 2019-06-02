@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "11716483-11717916-11792880-11832726-11897971",
+  "photo_sequence_ids": [
+    "11716483",
+    "11717916",
+    "11792880",
+    "11832726",
+    "11897971"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i was so excited to be at the meeting . the speaker was very boring and had a great time . the presentation was amazing . the speaker was very informative and engaging . the audience was really good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C5S8FZ0UGYZX",
+      "edited_story_text": "I had an interesting day.  Believe it or not, here\u0027s me in the background on TV.  I got up so early and made a big pot of coffee.  Spent the morning reading this new book, and then it was off to the speaker event.",
+      "normalized_edited_story_text_sent": [
+        "i had an interesting day .",
+        "believe it or not , here \u0027s me in the background on tv .",
+        "i got up so early and made a big pot of coffee .",
+        "spent the morning reading this new book , and then it was off to the speaker event ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i was so excited to be at the meeting due to it being my first time going . the speaker was very boring and had a great time talking about nothing . the presentation was amazing due to all the photos . the speaker was very informative and engaging to those who attended. the audience was really good at pretending to be impressed.",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be at the meeting due to it being my first time going .",
+        "the speaker was very boring and had a great time talking about nothing .",
+        "the presentation was amazing due to all the photos .",
+        "the speaker was very informative and engaging to those who attended .",
+        "the audience was really good at pretending to be impressed ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "i was so excited to be at the meeting. the presentation was amazing and the speaker was very informative and engaging. the audience was great.",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be at the meeting .",
+        "the presentation was amazing and the speaker was very informative and engaging .",
+        "the audience was great ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "I was stoked to attend this meeting. The speaker was bland and uninspired, but seemed as though they enjoyed speaking there. There was another speaker that was both captivating and enlightening, accompanied by a stellar presentation. Kudos to the audience for being respectful.",
+      "normalized_edited_story_text_sent": [
+        "i was stoked to attend this meeting .",
+        "the speaker was bland and uninspired , but seemed as though they enjoyed speaking there .",
+        "there was another speaker that was both captivating and enlightening , accompanied by a stellar presentation .",
+        "kudos to the audience for being respectful ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i was so excited to be at the meeting . i could hardly sleep the night before.",
+      "normalized_edited_story_text_sent": [
+        "i was so excited to be at the meeting .",
+        "i could hardly sleep the night before ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "287464",
+  "model": "GLAC"
+}

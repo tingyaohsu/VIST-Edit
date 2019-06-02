@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5234345-5234387-5234503-5234490-5234420",
+  "photo_sequence_ids": [
+    "5234345",
+    "5234387",
+    "5234503",
+    "5234490",
+    "5234420"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/3/5234345_ab06f7082c_o.jpg",
+    "https://farm1.staticflickr.com/5/5234387_e69e47c219_o.jpg",
+    "https://farm1.staticflickr.com/3/5234503_4cdec8758e_o.jpg",
+    "https://farm1.staticflickr.com/3/5234490_96b7ce84c9_o.jpg",
+    "https://farm1.staticflickr.com/3/5234420_3e53c6be93_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family took a trip to the museum . there were a lot of people there . this is a picture of a table . we had a great dinner and had a great time . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the family took a trip to the museum . there were a lot of people there . this is a picture of a table . we had a great dinner and had a great time . i had a great time there  It is something very incredible",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to the museum .",
+        "there were a lot of people there .",
+        "this is a picture of a table .",
+        "we had a great dinner and had a great time .",
+        "i had a great time there it is something very incredible"
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Today the family took a trip to the museum. It was crowded but we still saw a lot of cool things, including this table. Afterwards we ate lunch while [Janice] read a magazine. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "today the family took a trip to the museum .",
+        "it was crowded but we still saw a lot of cool things , including this table .",
+        "afterwards we ate lunch while [female] read a magazine .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "Our family took a trip to a museum. It wasn\u0027t too crowded. This little table was on display there and was for sale too! We had a great dinner and had a great time. I had a wonderful day exploring and was so happy when I got to kick my tired  feet up for a massage.",
+      "normalized_edited_story_text_sent": [
+        "our family took a trip to a museum .",
+        "it was n\u0027t too crowded .",
+        "this little table was on display there and was for sale too !",
+        "we had a great dinner and had a great time .",
+        "i had a wonderful day exploring and was so happy when i got to kick my tired feet up for a massage ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the family took a trip to the museum . there were a lot of people there . this is a picture of a table . we had a great dinner and had a great time . We spent some good family time together.",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to the museum .",
+        "there were a lot of people there .",
+        "this is a picture of a table .",
+        "we had a great dinner and had a great time .",
+        "we spent some good family time together ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "for a family trip, we went to the museum and there was a walking trail . many people came to see the museum\u0027s offerings. there was a table with a neat design . we were able to eat asian cuisine and i loved it .i really liked going there .",
+      "normalized_edited_story_text_sent": [
+        "for a family trip , we went to the museum and there was a walking trail .",
+        "many people came to see the museum \u0027s offerings .",
+        "there was a table with a neat design .",
+        "we were able to eat asian cuisine and i loved it .",
+        "i really liked going there ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "134606"
+}

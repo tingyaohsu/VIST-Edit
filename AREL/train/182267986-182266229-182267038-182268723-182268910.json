@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "182267986-182266229-182267038-182268723-182268910",
+  "photo_sequence_ids": [
+    "182267986",
+    "182266229",
+    "182267038",
+    "182268723",
+    "182268910"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/69/182267986_52437b0b10_o.jpg",
+    "https://farm1.staticflickr.com/71/182266229_518fd3bec7_o.jpg",
+    "https://farm1.staticflickr.com/64/182267038_c5b5af742b_o.jpg",
+    "https://farm1.staticflickr.com/57/182268723_686101d3b1_o.jpg",
+    "https://farm1.staticflickr.com/68/182268910_e7b1797e6a_o.jpg"
+  ],
+  "auto_story_text_normalized": "the fireworks show started off with a bang . it was the fourth of july . i could n\u0027t believe how many people were there . some of them were very loud . some of the fireworks were beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "The fireworks show started off with a bang! It was the fourth of july. I could n\u0027t believe how many people were there . Some of the fireworks were very loud and beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show started off with a bang !",
+        "it was the fourth of july .",
+        "i could n\u0027t believe how many people were there .",
+        "some of the fireworks were very loud and beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "it was the fourth of july the fireworks show started off with a bang .some of the fireworks were beautiful . i couldn\u0027t believe how many people were there . some of them were very loud .",
+      "normalized_edited_story_text_sent": [
+        "it was the fourth of july the fireworks show started off with a bang .",
+        "some of the fireworks were beautiful .",
+        "i could n\u0027t believe how many people were there .",
+        "some of them were very loud ."
+      ]
+    },
+    {
+      "worker_id": "A26HIBLVF2REIT",
+      "edited_story_text": "the fireworks show started off with a bang, of course, because it was the fourth of july. some of the fireworks were especially loud! but all of them were beautiful. i couldn\u0027t believe how many people were at the field to see them launch.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show started off with a bang , of course , because it was the fourth of july .",
+        "some of the fireworks were especially loud !",
+        "but all of them were beautiful .",
+        "i could n\u0027t believe how many people were at the field to see them launch ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the fireworks show started off with a bang . it was the fourth of july .  some of them were very loud .  the fireworks were beautiful  and bright.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show started off with a bang .",
+        "it was the fourth of july .",
+        "some of them were very loud .",
+        "the fireworks were beautiful and bright ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The fireworks show started off with a bang this fourth of july. i could n\u0027t believe how many people were there . Some of the fireworks were really loud and quite beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks show started off with a bang this fourth of july .",
+        "i could n\u0027t believe how many people were there .",
+        "some of the fireworks were really loud and quite beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594187905192"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4389259867-4389261747-4389262027-4389262299-4390033100",
+  "photo_sequence_ids": [
+    "4389259867",
+    "4389261747",
+    "4389262027",
+    "4389262299",
+    "4390033100"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to be in the halloween party . they had a lot of fun activities . they had a great time . they even had a pinata . the children enjoyed the candy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my brother david was very excited to attend his school\u0027s halloween party. they had a lot of fun activities planned for all the kids. they had a great time with the fun characters that were there. the kids loved to dance and play with the fun creatures. all of the children enjoyed posing for pictures to remember the day.",
+      "normalized_edited_story_text_sent": [
+        "my brother [male] was very excited to attend his school \u0027s halloween party .",
+        "they had a lot of fun activities planned for all the kids .",
+        "they had a great time with the fun characters that were there .",
+        "the kids loved to dance and play with the fun creatures .",
+        "all of the children enjoyed posing for pictures to remember the day ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the kids were excited to be in the halloween party that the school did . they had a lot of fun activities including some dancing. they had a great time with all the mascots . they even had a pinata which had candy inside. the children enjoyed the candy especially the chocolates .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the halloween party that the school did .",
+        "they had a lot of fun activities including some dancing .",
+        "they had a great time with all the mascots .",
+        "they even had a pinata which had candy inside .",
+        "the children enjoyed the candy especially the chocolates ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the kids were excited to be in the party . they had a lot of fun activities . they had a great time . they even had a muppets . the children enjoyed the show .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be in the party .",
+        "they had a lot of fun activities .",
+        "they had a great time .",
+        "they even had a muppets .",
+        "the children enjoyed the show ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the kids were excited for the costume party . there were many fun activities for them . they had a fun time . there was even a pinata to strike . the candy that fell out was enjoyed .",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for the costume party .",
+        "there were many fun activities for them .",
+        "they had a fun time .",
+        "there was even a pinata to strike .",
+        "the candy that fell out was enjoyed ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to be at the party . they had a lot of fun activities . There were a lot of characters. He posed with Elmo and Big Bird.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the party .",
+        "they had a lot of fun activities .",
+        "there were a lot of characters .",
+        "he posed with elmo and big bird ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623389582731",
+  "model": "GLAC"
+}

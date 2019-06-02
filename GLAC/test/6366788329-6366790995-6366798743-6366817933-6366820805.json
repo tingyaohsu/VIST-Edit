@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "6366788329-6366790995-6366798743-6366817933-6366820805",
+  "photo_sequence_ids": [
+    "6366788329",
+    "6366790995",
+    "6366798743",
+    "6366817933",
+    "6366820805"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the baseball game was a great success . the players were very good . the teams were very talented . the cheerleaders were really good . the fans were very excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A2YS1UEOU64B4B",
+      "edited_story_text": "The soccer game was a great success. The players were very good. Both teams were very talented, and the cheerleaders  did a great job of getting the fans excited about the game.",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was a great success .",
+        "the players were very good .",
+        "both teams were very talented , and the cheerleaders did a great job of getting the fans excited about the game ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the soccer game was a great success . the players and team were good and talented. the cheerleaders were also really good. the fans were very excited.",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was a great success .",
+        "the players and team were good and talented .",
+        "the cheerleaders were also really good .",
+        "the fans were very excited ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the soccer game was a great success . the players were very good . the teams were very talented . the players tried their best . the fans were very excited .",
+      "normalized_edited_story_text_sent": [
+        "the soccer game was a great success .",
+        "the players were very good .",
+        "the teams were very talented .",
+        "the players tried their best .",
+        "the fans were very excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the baseball game was a great success . the players were very good . the teams were very talented . the cheerleaders were really good . the fans were very excited .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the baseball game was a great success .",
+        "the players were very good .",
+        "the teams were very talented .",
+        "the cheerleaders were really good .",
+        "the fans were very excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the soccer game finished without problems . the players were very competitive . the teams developed their talents . the cheerleaders were also very athletic . the fans were rowdy .",
+      "normalized_edited_story_text_sent": [
+        "the soccer game finished without problems .",
+        "the players were very competitive .",
+        "the teams developed their talents .",
+        "the cheerleaders were also very athletic .",
+        "the fans were rowdy ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628058774325",
+  "model": "GLAC"
+}

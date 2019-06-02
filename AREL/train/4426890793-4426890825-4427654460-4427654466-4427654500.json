@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4426890793-4426890825-4427654460-4427654466-4427654500",
+  "photo_sequence_ids": [
+    "4426890793",
+    "4426890825",
+    "4427654460",
+    "4427654466",
+    "4427654500"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4015/4426890793_ff507709de_o.jpg",
+    "https://farm5.staticflickr.com/4065/4426890825_60119d7d83_o.jpg",
+    "https://farm5.staticflickr.com/4028/4427654460_c9e15861ed_o.jpg",
+    "https://farm5.staticflickr.com/4003/4427654466_3120c42a57_o.jpg",
+    "https://farm5.staticflickr.com/4048/4427654500_2baf6e9a44_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the meeting yesterday . he gave a speech about what he had to say . the speaker was very happy to be there . he gave a speech to the audience . he was very proud of his work .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i went to the meeting yesterday and he gave a speech about what he had to say . the speaker was very happy to be there while he gave a speech to the audience . he was very proud of his work and so were we.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday and he gave a speech about what he had to say .",
+        "the speaker was very happy to be there while he gave a speech to the audience .",
+        "he was very proud of his work and so were we ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went to the meeting yesterday, he gave a speech about what he had to say. The speaker was very happy to be there, he gave a speech to the audience and was very proud of his work.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday , he gave a speech about what he had to say .",
+        "the speaker was very happy to be there , he gave a speech to the audience and was very proud of his work ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the meeting yesterday . he gave a speech about what he had to say . the speaker was very happy to be there . he gave a speech to the audience and he was very proud of his work .",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "he gave a speech about what he had to say .",
+        "the speaker was very happy to be there .",
+        "he gave a speech to the audience and he was very proud of his work ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": "i went to a lecture today. They gave a speech and presented an award",
+      "normalized_edited_story_text_sent": [
+        "i went to a lecture today .",
+        "they gave a speech and presented an award"
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I heard a motivational speaker yesterday. He used a projector screen to help him speak about integrity in business. Afterwards, he signed his book for me.",
+      "normalized_edited_story_text_sent": [
+        "i heard a motivational speaker yesterday .",
+        "he used a projector screen to help him speak about integrity in business .",
+        "afterwards , he signed his book for me ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623606566942"
+}

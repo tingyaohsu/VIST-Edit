@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "16219421-16219275-16216826-16217114-16218274",
+  "photo_sequence_ids": [
+    "16219421",
+    "16219275",
+    "16216826",
+    "16217114",
+    "16218274"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were many people in attendance . the marching band was very good . the marching band was amazing . the float was huge .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the parade was a ton of fun . there were many great people in attendance . the marching band was very good . the marching band was amazing . the float was huge .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a ton of fun .",
+        "there were many great people in attendance .",
+        "the marching band was very good .",
+        "the marching band was amazing .",
+        "the float was huge ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "A gathering for military people with a type of celebration.",
+      "normalized_edited_story_text_sent": [
+        "a gathering for military people with a type of celebration ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the parade was a lot of fun . there were many people in attendance including service groups. the military was amazing in their uniforms. Other soldiers stood attention. the creations on stage were huge .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many people in attendance including service groups .",
+        "the military was amazing in their uniforms .",
+        "other soldiers stood attention .",
+        "the creations on stage were huge ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the procession was a great deal of fun . there were numerous individuals in participation . the walking band was great . the walking band was stunning . the buoy was enormous .",
+      "normalized_edited_story_text_sent": [
+        "the procession was a great deal of fun .",
+        "there were numerous individuals in participation .",
+        "the walking band was great .",
+        "the walking band was stunning .",
+        "the buoy was enormous ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the parade was a lot of fun. there were many people in attendance. the marching band was very good. the marching band was amazing. the soldiers lined the street. the float was huge .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were many people in attendance .",
+        "the marching band was very good .",
+        "the marching band was amazing .",
+        "the soldiers lined the street .",
+        "the float was huge ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "389187",
+  "model": "GLAC"
+}

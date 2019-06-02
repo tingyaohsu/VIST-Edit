@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "1665672886-1664819935-1664755389-1665637100-1665622686",
+  "photo_sequence_ids": [
+    "1665672886",
+    "1664819935",
+    "1664755389",
+    "1665637100",
+    "1665622686"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a birthday party . the kids were having a great time . the adults were excited to see the new toys . the cake was amazing . the cake was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "there was great foods at the halloween party. everyone got together and sat around the room carving pumpkins. They made some really cool faces on the pumpkins. also placed some lights inside the pumpkins and it looked great on display .",
+      "normalized_edited_story_text_sent": [
+        "there was great foods at the halloween party .",
+        "everyone got together and sat around the room carving pumpkins .",
+        "they made some really cool faces on the pumpkins .",
+        "also placed some lights inside the pumpkins and it looked great on display ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a birthday party . the kids were having a great time . the adults were excited to see the new toys . the cake was amazing . the family did pumpkin carving to end the night.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids were having a great time .",
+        "the adults were excited to see the new toys .",
+        "the cake was amazing .",
+        "the family did pumpkin carving to end the night ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The family was having a great time carving pumpkins ans having a party.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time carving pumpkins ans having a party ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "last night, the family got together for a halloween party. all of the guests spent time carving pumpkins. my sister lisa is an artist and she spent a lot of time carving hers. the results were amazing to see. in fact, several of the pumpkins were true works of art.",
+      "normalized_edited_story_text_sent": [
+        "last night , the family got together for a halloween party .",
+        "all of the guests spent time carving pumpkins .",
+        "my sister [female] is an artist and she spent a lot of time carving hers .",
+        "the results were amazing to see .",
+        "in fact , several of the pumpkins were true works of art ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the family got together for a Halloween party . Everyone was having a great time carving pumpkins. the adults were excited to see the new creations . the pumpkins looked amazing . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a halloween party .",
+        "everyone was having a great time carving pumpkins .",
+        "the adults were excited to see the new creations .",
+        "the pumpkins looked amazing .",
+        "the food was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602571938321",
+  "model": "GLAC"
+}

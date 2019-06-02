@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4439081106-4439087920-4438319351-4440815296-4440050155",
+  "photo_sequence_ids": [
+    "4439081106",
+    "4439087920",
+    "4438319351",
+    "4440815296",
+    "4440050155"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the men were getting ready for the meeting . they were all prepared and ready . they were ready to go . they were so excited . they were very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the soldiers were getting ready for the meeting . they were all prepared and ready for the inspection . they were ready to go see what needed to be done . they were so excited about people coming to visit. they were very proud of their base .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were getting ready for the meeting .",
+        "they were all prepared and ready for the inspection .",
+        "they were ready to go see what needed to be done .",
+        "they were so excited about people coming to visit .",
+        "they were very proud of their base ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the men were getting ready for the meeting . they were all prepared and ready . they were moving supplies . they were so excited . they were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the men were getting ready for the meeting .",
+        "they were all prepared and ready .",
+        "they were moving supplies .",
+        "they were so excited .",
+        "they were very proud ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the men held a meeting before we got to work. we accomplished a lot, and everyone was really proud.",
+      "normalized_edited_story_text_sent": [
+        "the men held a meeting before we got to work .",
+        "we accomplished a lot , and everyone was really proud ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Everyone wanted to help out the military volunteers with the public.",
+      "normalized_edited_story_text_sent": [
+        "everyone wanted to help out the military volunteers with the public ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the men were getting ready for the meeting. they were all well prepared and ready to go. they were so excited, and they were very proud.",
+      "normalized_edited_story_text_sent": [
+        "the men were getting ready for the meeting .",
+        "they were all well prepared and ready to go .",
+        "they were so excited , and they were very proud ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623509449753",
+  "model": "GLAC"
+}

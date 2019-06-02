@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "57691508-57691676-57691837-57692013-57692426",
+  "photo_sequence_ids": [
+    "57691508",
+    "57691676",
+    "57691837",
+    "57692013",
+    "57692426"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/28/57691508_225e6b1d51_o.jpg",
+    "https://farm1.staticflickr.com/33/57691676_e60858b33c_o.jpg",
+    "https://farm1.staticflickr.com/27/57691837_e0a30ecdfe_o.jpg",
+    "https://farm1.staticflickr.com/33/57692013_cdf303d3cc_o.jpg",
+    "https://farm1.staticflickr.com/25/57692426_7e0de97a04_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was [female] \u0027s birthday party . he was going to be a big hit , but he did n\u0027t want to play with his guitar . they played some games and played games . we played some games in the living room . he was so happy to see him .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "it was [female] \u0027s birthday party and [male] wore a special shirt . he would have been the life of the party, but his refusal to play the guitar and [female]\u0027s address changed that. they played some games and had fun . in the living room, we played round in our special outfits . he enjoyed seeing him at the party.",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s birthday party and [male] wore a special shirt .",
+        "he would have been the life of the party , but his refusal to play the guitar and [female] \u0027s address changed that .",
+        "they played some games and had fun .",
+        "in the living room , we played round in our special outfits .",
+        "he enjoyed seeing him at the party ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We all went to [female]\u0027s birhtday party. Everyone dressed up in silly clothes. Everyone played around at the party. People had fun and played games together. Everyone was happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "we all went to [female] \u0027s birhtday party .",
+        "everyone dressed up in silly clothes .",
+        "everyone played around at the party .",
+        "people had fun and played games together .",
+        "everyone was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "it was [Nicole] \u0027s birthday party . She was going to be a big hit , but she did n\u0027t want to play with his guitar . they played some games and played games . we played some games in the living room . he was so happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s birthday party .",
+        "she was going to be a big hit , but she did n\u0027t want to play with his guitar .",
+        "they played some games and played games .",
+        "we played some games in the living room .",
+        "he was so happy to see him ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We were going to have a party. She dressed in an old gown. She pretended to wrestle me. We were just playing to the camera. There was a dummy, too.",
+      "normalized_edited_story_text_sent": [
+        "we were going to have a party .",
+        "she dressed in an old gown .",
+        "she pretended to wrestle me .",
+        "we were just playing to the camera .",
+        "there was a dummy , too ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "it was [female] \u0027s birthday party . he was going to be a big hit , but he did n\u0027t want to play with his guitar . they wore costumes. we played some games in the living room . he was so happy to see him .",
+      "normalized_edited_story_text_sent": [
+        "it was [female] \u0027s birthday party .",
+        "he was going to be a big hit , but he did n\u0027t want to play with his guitar .",
+        "they wore costumes .",
+        "we played some games in the living room .",
+        "he was so happy to see him ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1249068"
+}

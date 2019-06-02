@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "66920839-66921926-66920689-66921706-66922852",
+  "photo_sequence_ids": [
+    "66920839",
+    "66921926",
+    "66920689",
+    "66921706",
+    "66922852"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was excited to be at the party . the table was set up for the guests . the dog was ready to go . the food was delicious . the dogs were very happy with the new toys .",
+  "edited_stories": [
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "the cat was excited to be at the party . the table was set up for the guests and they were ready to eat. the cat was ready to play. the food was delicious and there was a lot . We were very happy with the new toys they brought for the cat .",
+      "normalized_edited_story_text_sent": [
+        "the cat was excited to be at the party .",
+        "the table was set up for the guests and they were ready to eat .",
+        "the cat was ready to play .",
+        "the food was delicious and there was a lot .",
+        "we were very happy with the new toys they brought for the cat ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the dog was excited to be at the party . the table was set up for the guests . the dog was ready to go . the food was delicious . the dogs were very happy with the new toys .\r\rMy dog Mary was so happy to be at the party. The table was set up nicely for the guests. I could tell the dog was ready to go though! The food was incredible! And all of the dogs were overjoyed for the new toys they just got.",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to be at the party .",
+        "the table was set up for the guests .",
+        "the dog was ready to go .",
+        "the food was delicious .",
+        "the dogs were very happy with the new toys .",
+        "my dog [female] was so happy to be at the party .",
+        "the table was set up nicely for the guests .",
+        "i could tell the dog was ready to go though !",
+        "the food was incredible !",
+        "and all of the dogs were overjoyed for the new toys they just got ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "This little cat became the newest member of our family.  Her she is playing with me on the floor, as my family watches.",
+      "normalized_edited_story_text_sent": [
+        "this little cat became the newest member of our family .",
+        "her she is playing with me on the floor , as my family watches ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the cat was excited to be at the party . it was a fun night.",
+      "normalized_edited_story_text_sent": [
+        "the cat was excited to be at the party .",
+        "it was a fun night ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The man played with his cat while we waited for the meal to be ready. He even got down on the floor and played with the cat. We were served a large tasty meal. After the meal, the man and his cat rested together on the floor.",
+      "normalized_edited_story_text_sent": [
+        "the man played with his cat while we waited for the meal to be ready .",
+        "he even got down on the floor and played with the cat .",
+        "we were served a large tasty meal .",
+        "after the meal , the man and his cat rested together on the floor ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1444744",
+  "model": "GLAC"
+}

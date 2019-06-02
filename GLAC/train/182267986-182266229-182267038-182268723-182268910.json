@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "182267986-182266229-182267038-182268723-182268910",
+  "photo_sequence_ids": [
+    "182267986",
+    "182266229",
+    "182267038",
+    "182268723",
+    "182268910"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the fireworks were beautiful . they were very loud . they were also very loud . they were all very loud . they were a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The fireworks were exquisite, but they were very loud.  They were a lot of fun, and I really enjoyed watching them.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were exquisite , but they were very loud .",
+        "they were a lot of fun , and i really enjoyed watching them ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The fireworks were beautiful. They were also very loud. At the same time, they were a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were beautiful .",
+        "they were also very loud .",
+        "at the same time , they were a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we watched some fireworks tonight.  the fireworks were very lovely.  they were very loud.  we had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "we watched some fireworks tonight .",
+        "the fireworks were very lovely .",
+        "they were very loud .",
+        "we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "The fireworks display was beautiful, but very loud. It was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks display was beautiful , but very loud .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the fireworks were beautiful . they were very loud . They were red, yellow, and orange. We enjoyed the celebration. The show was amazing.",
+      "normalized_edited_story_text_sent": [
+        "the fireworks were beautiful .",
+        "they were very loud .",
+        "they were red , yellow , and orange .",
+        "we enjoyed the celebration .",
+        "the show was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594187905192",
+  "model": "GLAC"
+}

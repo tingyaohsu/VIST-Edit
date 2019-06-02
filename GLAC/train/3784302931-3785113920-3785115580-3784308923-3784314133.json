@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "3784302931-3785113920-3785115580-3784308923-3784314133",
+  "photo_sequence_ids": [
+    "3784302931",
+    "3785113920",
+    "3785115580",
+    "3784308923",
+    "3784314133"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the tables were decorated with decorations . the salad was delicious . the food was amazing . the dessert was so good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the wedding was beautiful . the tables were decorated with gifts . the decor was nice . the food was amazing . the dessert was so good .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the tables were decorated with gifts .",
+        "the decor was nice .",
+        "the food was amazing .",
+        "the dessert was so good ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the wedding was very beautiful . the tables were decorated with decorations . the salad was yummy. the food was amazing . the dessert was so good .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was very beautiful .",
+        "the tables were decorated with decorations .",
+        "the salad was yummy .",
+        "the food was amazing .",
+        "the dessert was so good ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the tables were decorated with decorations . the food was amazing",
+      "normalized_edited_story_text_sent": [
+        "the tables were decorated with decorations .",
+        "the food was amazing"
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "Mina and Jacob\u0027s wedding was beautiful . their tables were decorated with flowers and decorations . the Cobb salad was delicious and tasty . the prime rib and chicken was juicy and amazing . the macaroons and cupcakes were so good .",
+      "normalized_edited_story_text_sent": [
+        "mina and jacob \u0027s wedding was beautiful .",
+        "their tables were decorated with flowers and decorations .",
+        "the cobb salad was delicious and tasty .",
+        "the prime rib and chicken was juicy and amazing .",
+        "the macaroons and cupcakes were so good ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the wedding I went to was very beautiful . the tables were beautifully decorated with decorations . the salad I ate was delicious. In fact, all of the food I ate was amazing . Even the dessert was good.",
+      "normalized_edited_story_text_sent": [
+        "the wedding i went to was very beautiful .",
+        "the tables were beautifully decorated with decorations .",
+        "the salad i ate was delicious .",
+        "in fact , all of the food i ate was amazing .",
+        "even the dessert was good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157621931946156",
+  "model": "GLAC"
+}

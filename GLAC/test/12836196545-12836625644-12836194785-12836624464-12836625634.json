@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "12836196545-12836625644-12836194785-12836624464-12836625634",
+  "photo_sequence_ids": [
+    "12836196545",
+    "12836625644",
+    "12836194785",
+    "12836624464",
+    "12836625634"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the tree was covered in snow . the trees were covered with snow . the branches were covered in snow . the house was frozen . the lake was very green .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "went for a hike yesterday afternoon in the woods.  we saw snow covered trees.  the hills looked breathtaking. we stumbled upon a small old cabin that was abandoned. everything was great and snowy and beautiful.",
+      "normalized_edited_story_text_sent": [
+        "went for a hike yesterday afternoon in the woods .",
+        "we saw snow covered trees .",
+        "the hills looked breathtaking .",
+        "we stumbled upon a small old cabin that was abandoned .",
+        "everything was great and snowy and beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "the fence was decorated with balloons. the pine trees were tall. the dirt was piled up very tall right next to the tree line. the house had been burnt down.",
+      "normalized_edited_story_text_sent": [
+        "the fence was decorated with balloons .",
+        "the pine trees were tall .",
+        "the dirt was piled up very tall right next to the tree line .",
+        "the house had been burnt down ."
+      ]
+    },
+    {
+      "worker_id": "A35C0II2FFV18S",
+      "edited_story_text": "the fence was covered in snow . the trees were covered with snow . the hills were covered in snow . the house was frozen . the forest was very green .",
+      "normalized_edited_story_text_sent": [
+        "the fence was covered in snow .",
+        "the trees were covered with snow .",
+        "the hills were covered in snow .",
+        "the house was frozen .",
+        "the forest was very green ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the tree was covered in snow due to the blizzard . the trees were covered with snow from top to bottom . the branches were covered in snow as well as some ice. the house was frozen which would be frozen for a while . the lake was very green which was rare due to the blizzard .",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in snow due to the blizzard .",
+        "the trees were covered with snow from top to bottom .",
+        "the branches were covered in snow as well as some ice .",
+        "the house was frozen which would be frozen for a while .",
+        "the lake was very green which was rare due to the blizzard ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the tree was covered in leaves . the trees were tall .  the house was quite old . the lake was very green . the hill was barren in places.",
+      "normalized_edited_story_text_sent": [
+        "the tree was covered in leaves .",
+        "the trees were tall .",
+        "the house was quite old .",
+        "the lake was very green .",
+        "the hill was barren in places ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157641657578444",
+  "model": "GLAC"
+}

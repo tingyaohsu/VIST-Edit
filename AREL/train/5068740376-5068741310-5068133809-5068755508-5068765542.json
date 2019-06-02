@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5068740376-5068741310-5068133809-5068755508-5068765542",
+  "photo_sequence_ids": [
+    "5068740376",
+    "5068741310",
+    "5068133809",
+    "5068755508",
+    "5068765542"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4153/5068740376_987651b377_o.jpg",
+    "https://farm5.staticflickr.com/4132/5068741310_452e673bd1_o.jpg",
+    "https://farm5.staticflickr.com/4092/5068133809_8df6baafb7_o.jpg",
+    "https://farm5.staticflickr.com/4151/5068755508_aa6563e34c_o.jpg",
+    "https://farm5.staticflickr.com/4153/5068765542_0d9495a7aa_o.jpg"
+  ],
+  "auto_story_text_normalized": "the garden was in full bloom . the flowers were blooming . there was also a lot of trees . there were a lot of plants there . we found a tree that looked like a tree .",
+  "edited_stories": [
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "the garden was growing and the flowers started blooming. There are plenty of trees as well along with plants. A tree was found that looked like a tree.",
+      "normalized_edited_story_text_sent": [
+        "the garden was growing and the flowers started blooming .",
+        "there are plenty of trees as well along with plants .",
+        "a tree was found that looked like a tree ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "the garden was in full sprout. the flowers were blooming . there was also many trees . there were more plants there . we found a tree that looked like a tree.",
+      "normalized_edited_story_text_sent": [
+        "the garden was in full sprout .",
+        "the flowers were blooming .",
+        "there was also many trees .",
+        "there were more plants there .",
+        "we found a tree that looked like a tree ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the garden was in full bloom . the flowers were blooming . there was also a lot of trees . there were a lot of plants there . we found a tree that was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the garden was in full bloom .",
+        "the flowers were blooming .",
+        "there was also a lot of trees .",
+        "there were a lot of plants there .",
+        "we found a tree that was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The garden was in full bloom. All the flowers were blooming, and the leaves were turning green. There were a lot of plants there. We found a tree that looked like this.",
+      "normalized_edited_story_text_sent": [
+        "the garden was in full bloom .",
+        "all the flowers were blooming , and the leaves were turning green .",
+        "there were a lot of plants there .",
+        "we found a tree that looked like this ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "the garden was in full bloom . there was also a lot of trees and plants there . We found this tree that looked like something else .",
+      "normalized_edited_story_text_sent": [
+        "the garden was in full bloom .",
+        "there was also a lot of trees and plants there .",
+        "we found this tree that looked like something else ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625134324560"
+}

@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4332006810-4335064615-4335065397-4335814318-4335074029",
+  "photo_sequence_ids": [
+    "4332006810",
+    "4335064615",
+    "4335065397",
+    "4335814318",
+    "4335074029"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2798/4332006810_b56b5698a4_o.jpg",
+    "https://farm3.staticflickr.com/2762/4335064615_bb84f2ce18_o.jpg",
+    "https://farm5.staticflickr.com/4039/4335065397_87542d75a5_o.jpg",
+    "https://farm5.staticflickr.com/4026/4335814318_8298324772_o.jpg",
+    "https://farm5.staticflickr.com/4029/4335074029_d2630ac1c9_o.jpg"
+  ],
+  "auto_story_text_normalized": "in the middle of nowhere we went to the top of the mountain . the city was beautiful . there was a lot of interesting things to see . there was a lot of interesting things to see . there was a lot of food there .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "in the middle of nowhere we went to the top of the mountain . the city was beautiful . there was a lot of interesting things to see . They had a nice farmers market. The food was great.",
+      "normalized_edited_story_text_sent": [
+        "in the middle of nowhere we went to the top of the mountain .",
+        "the city was beautiful .",
+        "there was a lot of interesting things to see .",
+        "they had a nice farmers market .",
+        "the food was great ."
+      ]
+    },
+    {
+      "worker_id": "A8E99XNOTT390",
+      "edited_story_text": "We drive to the top of a mountain in a remote area that gave us a beautiful view of the city. We visited the city and saw so many interesting things. There was also a lot of food at the markets.",
+      "normalized_edited_story_text_sent": [
+        "we drive to the top of a mountain in a remote area that gave us a beautiful view of the city .",
+        "we visited the city and saw so many interesting things .",
+        "there was also a lot of food at the markets ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we took a trip to see the top of the mountain. then we went into the city, which was beautiful. there were a lot of interesting things to see there. we went to the market, where there was a lot of food to buy.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to see the top of the mountain .",
+        "then we went into the city , which was beautiful .",
+        "there were a lot of interesting things to see there .",
+        "we went to the market , where there was a lot of food to buy ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "In the middle of nowhere, we went to the top of the mountain. The city was beautiful, and there were a lot of interesting things to see. There was a lot of food there!",
+      "normalized_edited_story_text_sent": [
+        "in the middle of nowhere , we went to the top of the mountain .",
+        "the city was beautiful , and there were a lot of interesting things to see .",
+        "there was a lot of food there !"
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "In the middle of nowhere we went to the top of the mountain and saw a beautiful city. There were lots of interesting things to do, and lots of great food to try. We really enjoyed ourselves!",
+      "normalized_edited_story_text_sent": [
+        "in the middle of nowhere we went to the top of the mountain and saw a beautiful city .",
+        "there were lots of interesting things to do , and lots of great food to try .",
+        "we really enjoyed ourselves !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623375467685"
+}

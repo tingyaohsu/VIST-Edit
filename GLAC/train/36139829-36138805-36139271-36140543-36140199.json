@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "36139829-36138805-36139271-36140543-36140199",
+  "photo_sequence_ids": [
+    "36139829",
+    "36138805",
+    "36139271",
+    "36140543",
+    "36140199"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the friends were excited to be at the party . they had a lot of fun . they had a great time . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the friends were excited to be at the party at the mall. they had a lot of fun being in the crowd . they had a great time looking around. they had a lot of fun even got matching tattoos . David had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the friends were excited to be at the party at the mall .",
+        "they had a lot of fun being in the crowd .",
+        "they had a great time looking around .",
+        "they had a lot of fun even got matching tattoos .",
+        "[male] had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the friends were excited to be at the party . they had a lot of fun . they had a great time . they danced with eachother . they enjoyed the night .",
+      "normalized_edited_story_text_sent": [
+        "the friends were excited to be at the party .",
+        "they had a lot of fun .",
+        "they had a great time .",
+        "they danced with eachother .",
+        "they enjoyed the night ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the friends were excited to be at lunch. they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the friends were excited to be at lunch .",
+        "they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we had a great time at the party with my friends. it was harry potter themed and gigantic. there were people everywhere. my friends lisa and mary were having a great time.  im really glad i left the house and made it out.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party with my friends .",
+        "it was harry potter themed and gigantic .",
+        "there were people everywhere .",
+        "my friends [female] and [female] were having a great time .",
+        "im really glad i left the house and made it out ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the friends were elated to be at the party . they had a lot of enjoyment. they had a great time . they had a lot of fun . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the friends were elated to be at the party .",
+        "they had a lot of enjoyment .",
+        "they had a great time .",
+        "they had a lot of fun .",
+        "they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "801340",
+  "model": "GLAC"
+}

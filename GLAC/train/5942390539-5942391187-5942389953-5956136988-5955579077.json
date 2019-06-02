@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5942390539-5942391187-5942389953-5956136988-5955579077",
+  "photo_sequence_ids": [
+    "5942390539",
+    "5942391187",
+    "5942389953",
+    "5956136988",
+    "5955579077"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the 4th of july . they were excited to be in the park . the food was delicious . the fireworks were very loud . the finale was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was ready for the 4th of july bash at the house . they were excited to be in the park for the fireworks display. the food was delicious and the cake was the best. the fireworks were very loud which caused the dogs to bark. the finale was spectacular and everyone went home happy.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the 4th of july bash at the house .",
+        "they were excited to be in the park for the fireworks display .",
+        "the food was delicious and the cake was the best .",
+        "the fireworks were very loud which caused the dogs to bark .",
+        "the finale was spectacular and everyone went home happy ."
+      ]
+    },
+    {
+      "worker_id": "A1AF392CLGHH0X",
+      "edited_story_text": "Our family was excited to be in the park for the 4th of July. the food was delicious. the fireworks were very loud and the finale was spectacular.",
+      "normalized_edited_story_text_sent": [
+        "our family was excited to be in the park for the 4th of july .",
+        "the food was delicious .",
+        "the fireworks were very loud and the finale was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A14H63JO45VV04",
+      "edited_story_text": "The 4th of July had finally arrived and the family and I were very exited.  The plan was to go to the park, which we have done for years.  This was a great place to gather and see old friends and eat delicious food.  After dark we all gathered around to watch the fireworks.  As always, they were extremely loud.  Followed by a spactacular finale.",
+      "normalized_edited_story_text_sent": [
+        "the 4th of july had finally arrived and the family and i were very exited .",
+        "the plan was to go to the park , which we have done for years .",
+        "this was a great place to gather and see old friends and eat delicious food .",
+        "after dark we all gathered around to watch the fireworks .",
+        "as always , they were extremely loud .",
+        "followed by a spactacular finale ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the family got together for the 4th of july. the cake was so beautiful!  everyone had a lot of fun hanging out and watching the fireworks.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for the 4th of july .",
+        "the cake was so beautiful !",
+        "everyone had a lot of fun hanging out and watching the fireworks ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the family was ready for the 4th of july picnic . they were all excited to be in the park except [Robert] . the red, white and blue cake was delicious . the fireworks were very loud and beautiful . the finale was absolutely spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the 4th of july picnic .",
+        "they were all excited to be in the park except [male] .",
+        "the red , white and blue cake was delicious .",
+        "the fireworks were very loud and beautiful .",
+        "the finale was absolutely spectacular ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627235661874",
+  "model": "GLAC"
+}

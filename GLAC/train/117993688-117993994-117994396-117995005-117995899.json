@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "117993688-117993994-117994396-117995005-117995899",
+  "photo_sequence_ids": [
+    "117993688",
+    "117993994",
+    "117994396",
+    "117995005",
+    "117995899"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride was excited to be married . the groom was so happy . the ceremony was beautiful . the wedding was a big hit . the cake was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWDCN2KF1HGN",
+      "edited_story_text": "The wedding was held outdoors, with cones marking the way.  some people took the opportunity to take pictures along the way.   many people sat under the temporary shelter for the wedding.   The bride and groom stood side by side during the ceremony.   The wedding cake was simple, but beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was held outdoors , with cones marking the way .",
+        "some people took the opportunity to take pictures along the way .",
+        "many people sat under the temporary shelter for the wedding .",
+        "the bride and groom stood side by side during the ceremony .",
+        "the wedding cake was simple , but beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The bride was excited to be married . The groom was so happy, but he looked a little scared. The ceremony was beautiful . The wedding was a big hit. The cake was delicious and delicious.",
+      "normalized_edited_story_text_sent": [
+        "the bride was excited to be married .",
+        "the groom was so happy , but he looked a little scared .",
+        "the ceremony was beautiful .",
+        "the wedding was a big hit .",
+        "the cake was delicious and delicious ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the wedding was a big hit, bride was excited to be married, the groom was happy . the ceremony was beautiful and the cake was delicious. everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a big hit , bride was excited to be married , the groom was happy .",
+        "the ceremony was beautiful and the cake was delicious .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the bride was excited to be married and the groom was so happy. the ceremony was beautiful . the wedding was beautiful and the cake was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the bride was excited to be married and the groom was so happy .",
+        "the ceremony was beautiful .",
+        "the wedding was beautiful and the cake was delicious ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "the bride was excited get married. the groom was so happy and the ceremony was beautiful. the wedding was a big hit including the delicious cake.",
+      "normalized_edited_story_text_sent": [
+        "the bride was excited get married .",
+        "the groom was so happy and the ceremony was beautiful .",
+        "the wedding was a big hit including the delicious cake ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594090741088",
+  "model": "GLAC"
+}

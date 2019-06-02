@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4640140937-4640749230-4640750512-4640751908-4640753838",
+  "photo_sequence_ids": [
+    "4640140937",
+    "4640749230",
+    "4640750512",
+    "4640751908",
+    "4640753838"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4060/4640140937_2416436c1c_o.jpg",
+    "https://farm5.staticflickr.com/4006/4640749230_308d3a01b5_o.jpg",
+    "https://farm5.staticflickr.com/4024/4640750512_afff16a6c3_o.jpg",
+    "https://farm4.staticflickr.com/3339/4640751908_db7c75bce4_o.jpg",
+    "https://farm5.staticflickr.com/4008/4640753838_47c70ca3b5_o.jpg"
+  ],
+  "auto_story_text_normalized": "the festival was set up for the event . there was a lot of food there . there were a lot of people there . there was also a band playing music . at the end of the day , the band played music .",
+  "edited_stories": [
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the festival was set up for the event . there was a lot of food there . there were a lot of people there . there was people having fun . at the end of the day , the band played music .",
+      "normalized_edited_story_text_sent": [
+        "the festival was set up for the event .",
+        "there was a lot of food there .",
+        "there were a lot of people there .",
+        "there was people having fun .",
+        "at the end of the day , the band played music ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the festival was set up for the event . there was a lot of food there . there were a lot of people there . there was also a band playing music and at the end of the day , the band played music .",
+      "normalized_edited_story_text_sent": [
+        "the festival was set up for the event .",
+        "there was a lot of food there .",
+        "there were a lot of people there .",
+        "there was also a band playing music and at the end of the day , the band played music ."
+      ]
+    },
+    {
+      "worker_id": "A2G6PVTS2DHBJJ",
+      "edited_story_text": "The festival was set up. There was a lot of food there. There were a lot of people there. There was also a band playing music. At the end of the day, the band played music for the crowd.",
+      "normalized_edited_story_text_sent": [
+        "the festival was set up .",
+        "there was a lot of food there .",
+        "there were a lot of people there .",
+        "there was also a band playing music .",
+        "at the end of the day , the band played music for the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the festival was set up for the event . there were a lot of food and a lot of people there. there was also a band playing music at the end of the day.",
+      "normalized_edited_story_text_sent": [
+        "the festival was set up for the event .",
+        "there were a lot of food and a lot of people there .",
+        "there was also a band playing music at the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "The festival was set up for the event and there was a lot of food there. There were lots of food, good music and friends to enjoy the day with.",
+      "normalized_edited_story_text_sent": [
+        "the festival was set up for the event and there was a lot of food there .",
+        "there were lots of food , good music and friends to enjoy the day with ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624137503998"
+}

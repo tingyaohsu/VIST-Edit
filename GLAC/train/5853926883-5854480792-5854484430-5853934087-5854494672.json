@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5853926883-5854480792-5854484430-5853934087-5854494672",
+  "photo_sequence_ids": [
+    "5853926883",
+    "5854480792",
+    "5854484430",
+    "5853934087",
+    "5854494672"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the group of friends got together for a meeting . they all sat around and talked . they had a great time . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the group of friends got together for a meeting . they all sat around and talked . they looked completely bored . they wanted to go home . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together for a meeting .",
+        "they all sat around and talked .",
+        "they looked completely bored .",
+        "they wanted to go home .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "a group of friends linked up at a meeting . they sat around and chatted . they had fun . they felt their time was well spent . they had a great time reconnecting .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends linked up at a meeting .",
+        "they sat around and chatted .",
+        "they had fun .",
+        "they felt their time was well spent .",
+        "they had a great time reconnecting ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the meeting went pretty well. it was very informal. everyone was really focused on the speakers and tried to absorb all of the information until toward the end, when things lightened up a bit.",
+      "normalized_edited_story_text_sent": [
+        "the meeting went pretty well .",
+        "it was very informal .",
+        "everyone was really focused on the speakers and tried to absorb all of the information until toward the end , when things lightened up a bit ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the group of friends got together for a meeting . they learned a lot.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together for a meeting .",
+        "they learned a lot ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the group of people got together for a meeting . they all sat around and talked . they shared their ideas . they had a lot of fun . they learned a lot.",
+      "normalized_edited_story_text_sent": [
+        "the group of people got together for a meeting .",
+        "they all sat around and talked .",
+        "they shared their ideas .",
+        "they had a lot of fun .",
+        "they learned a lot ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626883738735",
+  "model": "GLAC"
+}

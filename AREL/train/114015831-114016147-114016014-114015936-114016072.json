@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "114015831-114016147-114016014-114015936-114016072",
+  "photo_sequence_ids": [
+    "114015831",
+    "114016147",
+    "114016014",
+    "114015936",
+    "114016072"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/47/114015831_905299c297_o.jpg",
+    "https://farm1.staticflickr.com/50/114016147_0f2c680de2_o.jpg",
+    "https://farm1.staticflickr.com/47/114016014_c16dcca3c6_o.jpg",
+    "https://farm1.staticflickr.com/49/114015936_315c4cf24d_o.jpg",
+    "https://farm1.staticflickr.com/38/114016072_36260e4f88_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a crowd . there were a lot of people there . there were a lot of people there . some of them were very close . there were a lot of people there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "This is a picture of a crowd, there were a lot of people there, some of them were very close together and enjoyed the music.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a crowd , there were a lot of people there , some of them were very close together and enjoyed the music ."
+      ]
+    },
+    {
+      "worker_id": "ANMD34DNHLOLC",
+      "edited_story_text": "it was st patricks day.  the crowds were large.  it was a party in the streets.  several couples embraced.  it was so crowded.",
+      "normalized_edited_story_text_sent": [
+        "it was st patricks day .",
+        "the crowds were large .",
+        "it was a party in the streets .",
+        "several couples embraced .",
+        "it was so crowded ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "this is a picture of a crowd out by the pub . there were a lot of people out in the crowd gathering. there were a lot of people there drinking and celebrating. some of them were very close .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a crowd out by the pub .",
+        "there were a lot of people out in the crowd gathering .",
+        "there were a lot of people there drinking and celebrating .",
+        "some of them were very close ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "this is a picture of a crowd . there were a lot of people there . there were a lot of people there . some of them were very close . there were a lot of people there It was very spectacular",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a crowd .",
+        "there were a lot of people there .",
+        "there were a lot of people there .",
+        "some of them were very close .",
+        "there were a lot of people there it was very spectacular"
+      ]
+    },
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "This is a picture of a crowd at an Irish festival. There were a lot of people there at this outside venture, some wore silly hats. The crowd was entertained by a group dressed in Irish greens. Here is a picture of a couple who seemed to get closer by the experience.  The crowd was shoulder to shoulder.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a crowd at an irish festival .",
+        "there were a lot of people there at this outside venture , some wore silly hats .",
+        "the crowd was entertained by a group dressed in irish greens .",
+        "here is a picture of a couple who seemed to get closer by the experience .",
+        "the crowd was shoulder to shoulder ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594084559688"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4266029369-4266776062-4266776442-4266777430-4266030961",
+  "photo_sequence_ids": [
+    "4266029369",
+    "4266776062",
+    "4266776442",
+    "4266777430",
+    "4266030961"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the park . there were lots of snow . some people were very creative . they had a lot of fun . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "we went to the park . there were lots of snow . some people were very creative . they painted the snow . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park .",
+        "there were lots of snow .",
+        "some people were very creative .",
+        "they painted the snow .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "Yeah, we went on a walk to the park the day of the snow. There was so much snow! We saw some pretty creative things in peoples\u0027 front yards. Everyone clearly had a lot of fun. It was great to have work off for the day.",
+      "normalized_edited_story_text_sent": [
+        "yeah , we went on a walk to the park the day of the snow .",
+        "there was so much snow !",
+        "we saw some pretty creative things in peoples \u0027 front yards .",
+        "everyone clearly had a lot of fun .",
+        "it was great to have work off for the day ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "we were walking along the snowy streets and came across graffiti on the snow.  some people were very creative. it was very interesting to see and we had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we were walking along the snowy streets and came across graffiti on the snow .",
+        "some people were very creative .",
+        "it was very interesting to see and we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "we went to the ski resort . there was a lot of snow . some people got pretty creative . It looks like they had fun. we had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to the ski resort .",
+        "there was a lot of snow .",
+        "some people got pretty creative .",
+        "it looks like they had fun .",
+        "we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the park . there were lots of snow . some people were a bit morbid . they had a lot of fun . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park .",
+        "there were lots of snow .",
+        "some people were a bit morbid .",
+        "they had a lot of fun .",
+        "it was a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623189575342",
+  "model": "GLAC"
+}

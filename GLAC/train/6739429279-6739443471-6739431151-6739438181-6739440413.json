@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6739429279-6739443471-6739431151-6739438181-6739440413",
+  "photo_sequence_ids": [
+    "6739429279",
+    "6739443471",
+    "6739431151",
+    "6739438181",
+    "6739440413"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the local park . they stopped by the pond and got a chance to see the animals . the train was also a big hit . they even saw some cool statues . the wildlife was a great experience .",
+  "edited_stories": [
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the group went to help plant trees . they worked by the side of the road . they dug holes . they posed with a tree . they replaced the dirt around the tree .",
+      "normalized_edited_story_text_sent": [
+        "the group went to help plant trees .",
+        "they worked by the side of the road .",
+        "they dug holes .",
+        "they posed with a tree .",
+        "they replaced the dirt around the tree ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went on a trip to help plant trees. Holes had to be dug. Everyone was happy to help. The tree was planted.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to help plant trees .",
+        "holes had to be dug .",
+        "everyone was happy to help .",
+        "the tree was planted ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went on a trip to help plant trees in the city.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to help plant trees in the city ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The family took a trip to the local park to plant trees. They stopped by a pond and saw some ducks. It was a great experience.",
+      "normalized_edited_story_text_sent": [
+        "the family took a trip to the local park to plant trees .",
+        "they stopped by a pond and saw some ducks .",
+        "it was a great experience ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went on a trip to the local park . they stopped by the pond and got a chance to see the animals . they saw pretty flowers . they even saw some cool statues . the wildlife was a great experience .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the local park .",
+        "they stopped by the pond and got a chance to see the animals .",
+        "they saw pretty flowers .",
+        "they even saw some cool statues .",
+        "the wildlife was a great experience ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628974721157",
+  "model": "GLAC"
+}

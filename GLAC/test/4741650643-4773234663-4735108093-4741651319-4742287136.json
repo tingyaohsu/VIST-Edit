@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4741650643-4773234663-4735108093-4741651319-4742287136",
+  "photo_sequence_ids": [
+    "4741650643",
+    "4773234663",
+    "4735108093",
+    "4741651319",
+    "4742287136"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bird was looking for something to eat . he was so excited to see the birds . he was n\u0027t sure what he was doing . he was very happy . the chicks were in the water .",
+  "edited_stories": [
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the bird was looking for something to eat . he was so excited to see the birds . he wasn\u0027t sure what the bird was doing . he was very happy . the bird was in the sky .",
+      "normalized_edited_story_text_sent": [
+        "the bird was looking for something to eat .",
+        "he was so excited to see the birds .",
+        "he was n\u0027t sure what the bird was doing .",
+        "he was very happy .",
+        "the bird was in the sky ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Many different species of birds were photographed that day.",
+      "normalized_edited_story_text_sent": [
+        "many different species of birds were photographed that day ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bird of prey glided in the sky . he was alert when he saw another bird . he wasn\u0027t sure what kind of bird that was . he was happy to look for other prey . some chicks were swimming in the water .",
+      "normalized_edited_story_text_sent": [
+        "the bird of prey glided in the sky .",
+        "he was alert when he saw another bird .",
+        "he was n\u0027t sure what kind of bird that was .",
+        "he was happy to look for other prey .",
+        "some chicks were swimming in the water ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bird was looking for something to eat . he was so excited to see the small animals . he was not sure what he was doing . he was very happy when he found a worm . the chicks were in the water .",
+      "normalized_edited_story_text_sent": [
+        "the bird was looking for something to eat .",
+        "he was so excited to see the small animals .",
+        "he was not sure what he was doing .",
+        "he was very happy when he found a worm .",
+        "the chicks were in the water ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "It was a beautiful sunny day and perfect for taking photos of birds. I saw hawks and seagulls flying and hawks perched on posts and rocks in the field.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful sunny day and perfect for taking photos of birds .",
+        "i saw hawks and seagulls flying and hawks perched on posts and rocks in the field ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624199731521",
+  "model": "GLAC"
+}

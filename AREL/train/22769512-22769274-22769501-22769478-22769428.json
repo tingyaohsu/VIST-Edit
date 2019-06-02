@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "22769512-22769274-22769501-22769478-22769428",
+  "photo_sequence_ids": [
+    "22769512",
+    "22769274",
+    "22769501",
+    "22769478",
+    "22769428"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/18/22769512_fab73fa37f_o.jpg",
+    "https://farm1.staticflickr.com/15/22769274_7c427e78d7_o.jpg",
+    "https://farm1.staticflickr.com/17/22769501_e84809cca8_o.jpg",
+    "https://farm1.staticflickr.com/19/22769478_4231456c5a_o.jpg",
+    "https://farm1.staticflickr.com/19/22769428_e73f8209f6_o.jpg"
+  ],
+  "auto_story_text_normalized": "i love to travel this is a picture of a cake . she was so happy to be there . [female] was very happy to be there . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I love to travel. I was so happy to be there . We were all very happy to be there. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i love to travel .",
+        "i was so happy to be there .",
+        "we were all very happy to be there .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i love to go to parties with my friends. [female] was so happy to see that we had come. we had some drinks and had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i love to go to parties with my friends .",
+        "[female] was so happy to see that we had come .",
+        "we had some drinks and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "we ad a wild ethnic parties last night. Many people gathered in customs.  I met a lot of new people. Some people got really drunk. and some of them were getting frisky and taking body shots.",
+      "normalized_edited_story_text_sent": [
+        "we ad a wild ethnic parties last night .",
+        "many people gathered in customs .",
+        "i met a lot of new people .",
+        "some people got really drunk .",
+        "and some of them were getting frisky and taking body shots ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "I love to take trips and travel and take pictures of a cake. She was really excited to be there and she was having a great time.",
+      "normalized_edited_story_text_sent": [
+        "i love to take trips and travel and take pictures of a cake .",
+        "she was really excited to be there and she was having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "I love to travel. This is a picture of a cake . She was so happy to be there . Nicole was very happy to be there. We had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i love to travel .",
+        "this is a picture of a cake .",
+        "she was so happy to be there .",
+        "nicole was very happy to be there .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "525776"
+}

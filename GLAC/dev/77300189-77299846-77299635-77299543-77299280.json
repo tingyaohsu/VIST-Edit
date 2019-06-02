@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "77300189-77299846-77299635-77299543-77299280",
+  "photo_sequence_ids": [
+    "77300189",
+    "77299846",
+    "77299635",
+    "77299543",
+    "77299280"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were lots of decorations . some of the pumpkins were scary . the pumpkin was very scary . the winner was a great hit .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Check out the unique cookies my daughter made for Halloween.  Not sure what they will taste like though.",
+      "normalized_edited_story_text_sent": [
+        "check out the unique cookies my daughter made for halloween .",
+        "not sure what they will taste like though ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the halloween party was a lot of fun . there were lots of decorations . There were pumpkin cookies and lip cookies. There were lots of treats for Halloween.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "there were lots of decorations .",
+        "there were pumpkin cookies and lip cookies .",
+        "there were lots of treats for halloween ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the cookies all turned out great. we made a lot of different designs",
+      "normalized_edited_story_text_sent": [
+        "the cookies all turned out great .",
+        "we made a lot of different designs"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the halloween party was a blast . many decorative cookies were displayed . some pumpkins were carved scary . one pumpkin scared some kids . the winner was very popular .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a blast .",
+        "many decorative cookies were displayed .",
+        "some pumpkins were carved scary .",
+        "one pumpkin scared some kids .",
+        "the winner was very popular ."
+      ]
+    },
+    {
+      "worker_id": "A3L60SOWLYEDN2",
+      "edited_story_text": "the halloween party was lots of fun . we had lots of decorations. some of the pumpkins were scary . the pumpkin was very scary . the winner was a great hit .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was lots of fun .",
+        "we had lots of decorations .",
+        "some of the pumpkins were scary .",
+        "the pumpkin was very scary .",
+        "the winner was a great hit ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1656734",
+  "model": "GLAC"
+}

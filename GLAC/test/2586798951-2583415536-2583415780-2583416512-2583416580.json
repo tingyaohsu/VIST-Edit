@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "2586798951-2583415536-2583415780-2583416512-2583416580",
+  "photo_sequence_ids": [
+    "2586798951",
+    "2583415536",
+    "2583415780",
+    "2583416512",
+    "2583416580"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a hike . they saw a lot of animals . they also got to see some wildlife . the scenery was beautiful . they took a break from the park .",
+  "edited_stories": [
+    {
+      "worker_id": "A2YTQDLACTLIBA",
+      "edited_story_text": "the family went on a hike. they saw a lot of animals. They also got to see some wildlife. The scenery was beautiful. They took a break and sat down. .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a hike .",
+        "they saw a lot of animals .",
+        "they also got to see some wildlife .",
+        "the scenery was beautiful .",
+        "they took a break and sat down ."
+      ]
+    },
+    {
+      "worker_id": "A1E1WY7DFTAMFW",
+      "edited_story_text": "Robert and his family went on a hike. They saw a lot of animals on the trails.  Robert� sister also got to see some wildlife . The scenery was beautiful.  They took a break from and enjoyed a picnic.",
+      "normalized_edited_story_text_sent": [
+        "[male] and his family went on a hike .",
+        "they saw a lot of animals on the trails .",
+        "[male] \u0027s sister also got to see some wildlife .",
+        "the scenery was beautiful .",
+        "they took a break from and enjoyed a picnic ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "when my family visited last week, we spent one day taking a hike. we saw a lot of animals, including some friendly pigs. my uncle thought the pigs were a little too loud. all of the scenery was beautiful. my whole family had a terrific time getting back to nature.",
+      "normalized_edited_story_text_sent": [
+        "when my family visited last week , we spent one day taking a hike .",
+        "we saw a lot of animals , including some friendly pigs .",
+        "my uncle thought the pigs were a little too loud .",
+        "all of the scenery was beautiful .",
+        "my whole family had a terrific time getting back to nature ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the family went hiking today.  they got to see a lot of animals, including wildlife.  they took a break from the park before resuming their hike.  the scenery was breathtaking.",
+      "normalized_edited_story_text_sent": [
+        "the family went hiking today .",
+        "they got to see a lot of animals , including wildlife .",
+        "they took a break from the park before resuming their hike .",
+        "the scenery was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went on a big hike . they saw a lot of creatures. they also got to see some wildlife . the scenery was beautiful . they took a break from the park .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a big hike .",
+        "they saw a lot of creatures .",
+        "they also got to see some wildlife .",
+        "the scenery was beautiful .",
+        "they took a break from the park ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157605635232532",
+  "model": "GLAC"
+}

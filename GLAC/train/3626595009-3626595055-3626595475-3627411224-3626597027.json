@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "3626595009-3626595055-3626595475-3627411224-3626597027",
+  "photo_sequence_ids": [
+    "3626595009",
+    "3626595055",
+    "3626595475",
+    "3627411224",
+    "3626597027"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited to graduate . the graduates were very proud . the dean of the school was so happy . the graduates were all smiles . the graduates were so proud .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "It was a beautiful day for a graduation, the students were so proud and happy.  The dean of the school was proud, everyone was smiling and happy.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day for a graduation , the students were so proud and happy .",
+        "the dean of the school was proud , everyone was smiling and happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the students were animated to graduate . the graduates were very proud and happy. the dean of the school was so happy . the graduates were all smiles . the graduates were so proud .",
+      "normalized_edited_story_text_sent": [
+        "the students were animated to graduate .",
+        "the graduates were very proud and happy .",
+        "the dean of the school was so happy .",
+        "the graduates were all smiles .",
+        "the graduates were so proud ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the students were excited to graduate . all their hard work finally paying off. a time for celebration.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "all their hard work finally paying off .",
+        "a time for celebration ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the students were looking forward to graduation . graduates were proud of their hard work . the dean of the school was happy to attend . the graduates were grinning from ear to ear . the graduates felt their success was deserved .",
+      "normalized_edited_story_text_sent": [
+        "the students were looking forward to graduation .",
+        "graduates were proud of their hard work .",
+        "the dean of the school was happy to attend .",
+        "the graduates were grinning from ear to ear .",
+        "the graduates felt their success was deserved ."
+      ]
+    },
+    {
+      "worker_id": "A1PELXP1T9FA0W",
+      "edited_story_text": "John graduated from Berkeley College today. He was with his friends. All students were excited to graduate . The graduates were very proud . The dean of the school was so happy  and celebrated with them. The graduates were smiling.",
+      "normalized_edited_story_text_sent": [
+        "[male] graduated from berkeley college today .",
+        "he was with his friends .",
+        "all students were excited to graduate .",
+        "the graduates were very proud .",
+        "the dean of the school was so happy and celebrated with them .",
+        "the graduates were smiling ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157619680518585",
+  "model": "GLAC"
+}

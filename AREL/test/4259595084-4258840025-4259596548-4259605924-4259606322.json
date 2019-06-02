@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4259595084-4258840025-4259596548-4259605924-4259606322",
+  "photo_sequence_ids": [
+    "4259595084",
+    "4258840025",
+    "4259596548",
+    "4259605924",
+    "4259606322"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4066/4259595084_f6ebc4f462_o.jpg",
+    "https://farm3.staticflickr.com/2764/4258840025_9d0baba09b_o.jpg",
+    "https://farm3.staticflickr.com/2761/4259596548_f635269f83_o.jpg",
+    "https://farm5.staticflickr.com/4033/4259605924_8466cf86b2_o.jpg",
+    "https://farm5.staticflickr.com/4063/4259606322_6cb844f769_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on a boat trip last weekend . there was a lot of trees in the distance . there was a lot of wildlife there . the boats were docked in the water . we took a boat ride on the boat .",
+  "edited_stories": [
+    {
+      "worker_id": "ADOVF9SBJJK33",
+      "edited_story_text": "i went on a boat trip last weekend and seen a lot of different boats. . there was a forest in the distance . there was a lot of wildlife in the forest and lake . there were a lot of boats docked in the water . we had fun riding the boat.",
+      "normalized_edited_story_text_sent": [
+        "i went on a boat trip last weekend and seen a lot of different boats .",
+        ".",
+        "there was a forest in the distance .",
+        "there was a lot of wildlife in the forest and lake .",
+        "there were a lot of boats docked in the water .",
+        "we had fun riding the boat ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "last weekend, i went out on a boat with my friend. the lake was really beautiful and surrounded by trees. there was also a lot of wildlife there. we had a fun time together.",
+      "normalized_edited_story_text_sent": [
+        "last weekend , i went out on a boat with my friend .",
+        "the lake was really beautiful and surrounded by trees .",
+        "there was also a lot of wildlife there .",
+        "we had a fun time together ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went on a boat trip last weekend. There was a lot of trees in the distance. The dock area had a lot of wildlife.  It was very pretty with the meadow and the lake.",
+      "normalized_edited_story_text_sent": [
+        "i went on a boat trip last weekend .",
+        "there was a lot of trees in the distance .",
+        "the dock area had a lot of wildlife .",
+        "it was very pretty with the meadow and the lake ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went on a boat trip last weekend. There were a lot of trees and wildlife in the distance. After removing the docked boat, we took a ride.",
+      "normalized_edited_story_text_sent": [
+        "i went on a boat trip last weekend .",
+        "there were a lot of trees and wildlife in the distance .",
+        "after removing the docked boat , we took a ride ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went on a boat trip last weekend . the sight was beautiful. there was a lot of wildlife there . the boats were docked in the water . we took a boat ride on the boat .",
+      "normalized_edited_story_text_sent": [
+        "i went on a boat trip last weekend .",
+        "the sight was beautiful .",
+        "there was a lot of wildlife there .",
+        "the boats were docked in the water .",
+        "we took a boat ride on the boat ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157635221100135"
+}

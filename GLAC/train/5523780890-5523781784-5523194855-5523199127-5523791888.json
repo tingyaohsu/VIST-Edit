@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5523780890-5523781784-5523194855-5523199127-5523791888",
+  "photo_sequence_ids": [
+    "5523780890",
+    "5523781784",
+    "5523194855",
+    "5523199127",
+    "5523791888"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was excited to be at the park . the kids were having a great time . the whole family was there . the boys played with the animals . the children had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family was excited for a trip to the park . kids were having fun . the entire family had joined . the boys fooled around with animals . the kids had their share of fun .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited for a trip to the park .",
+        "kids were having fun .",
+        "the entire family had joined .",
+        "the boys fooled around with animals .",
+        "the kids had their share of fun ."
+      ]
+    },
+    {
+      "worker_id": "AHI4R9YE0SF9E",
+      "edited_story_text": "The family was super excited to be at the park. All of the kids were having a great time. In addition, the whole family was there. The boys played with the animals during the day. All of the children had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the family was super excited to be at the park .",
+        "all of the kids were having a great time .",
+        "in addition , the whole family was there .",
+        "the boys played with the animals during the day .",
+        "all of the children had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the family was excited to be in the woods . the kids were having a great time . the whole family was there . the boys played with the animals . the children had a lot of fun in the forest .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be in the woods .",
+        "the kids were having a great time .",
+        "the whole family was there .",
+        "the boys played with the animals .",
+        "the children had a lot of fun in the forest ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was excited to be at the park . the kids were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the park .",
+        "the kids were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was excited to be at the park . the kids were having a great time .They ate snacks and hiked in the woods. There was a wood burning stove.",
+      "normalized_edited_story_text_sent": [
+        "the family was excited to be at the park .",
+        "the kids were having a great time .",
+        "they ate snacks and hiked in the woods .",
+        "there was a wood burning stove ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626133271663",
+  "model": "GLAC"
+}

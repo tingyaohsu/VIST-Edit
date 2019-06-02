@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "58247963-58248016-58248069-58248094-58248257",
+  "photo_sequence_ids": [
+    "58247963",
+    "58248016",
+    "58248069",
+    "58248094",
+    "58248257"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to visit the old church . they had a beautiful view of the house . the grounds were very nice . the cemetery was a big place . the grave was well lit .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went to visit the old church . There was a fireplace. They walked around outside near the wooded area. There were chairs outside.",
+      "normalized_edited_story_text_sent": [
+        "the family went to visit the old church .",
+        "there was a fireplace .",
+        "they walked around outside near the wooded area .",
+        "there were chairs outside ."
+      ]
+    },
+    {
+      "worker_id": "A197GEXK2G2RA",
+      "edited_story_text": "the family went to visit the old church . they had a beautiful view of the house . the grounds were very nice . the cemetery was a big place . the grave was well lit .\r\rThe family gathered outside of the old church - the pinnacle of their trip. The lit graves stretched across the vast cemetery.  The view was beautiful and the family relished their time together by the fireplace.",
+      "normalized_edited_story_text_sent": [
+        "the family went to visit the old church .",
+        "they had a beautiful view of the house .",
+        "the grounds were very nice .",
+        "the cemetery was a big place .",
+        "the grave was well lit .",
+        "the family gathered outside of the old church - the pinnacle of their trip .",
+        "the lit graves stretched across the vast cemetery .",
+        "the view was beautiful and the family relished their time together by the fireplace ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We went to the new cottage inn on the coast.  It was very nice and cozy.  They have a nice open area to eat outside.  It was a little too cool to do so though.",
+      "normalized_edited_story_text_sent": [
+        "we went to the new cottage inn on the coast .",
+        "it was very nice and cozy .",
+        "they have a nice open area to eat outside .",
+        "it was a little too cool to do so though ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and mary were glad the family went to visit the old church . they had a beautiful view of the house . the grounds were very nice . the cemetery was a big place . the grave was well lit .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family went to visit the old church .",
+        "they had a beautiful view of the house .",
+        "the grounds were very nice .",
+        "the cemetery was a big place .",
+        "the grave was well lit ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family went to visit the old church because it was going to be torn down . they had a beautiful view of the house from all the windows . the grounds were very nice and well maintained . the cemetery was a big place and must of been many miles . the grave was well lit which was what is promised.",
+      "normalized_edited_story_text_sent": [
+        "the family went to visit the old church because it was going to be torn down .",
+        "they had a beautiful view of the house from all the windows .",
+        "the grounds were very nice and well maintained .",
+        "the cemetery was a big place and must of been many miles .",
+        "the grave was well lit which was what is promised ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1260584",
+  "model": "GLAC"
+}

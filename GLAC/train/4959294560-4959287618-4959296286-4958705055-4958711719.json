@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4959294560-4959287618-4959296286-4958705055-4958711719",
+  "photo_sequence_ids": [
+    "4959294560",
+    "4959287618",
+    "4959296286",
+    "4958705055",
+    "4958711719"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were excited to play in the yard . they had a lot of fun playing . they played with the adults . they also had a mock time . the whole family had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "A lot of fun to be had during our one year anniversary as a company.  We played games in the office yard and ate great food.",
+      "normalized_edited_story_text_sent": [
+        "a lot of fun to be had during our one year anniversary as a company .",
+        "we played games in the office yard and ate great food ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were excited to play in the yard . They all enjoyed cake. The man took pictures. They played horseshoes. Everyone posed for a picture.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play in the yard .",
+        "they all enjoyed cake .",
+        "the man took pictures .",
+        "they played horseshoes .",
+        "everyone posed for a picture ."
+      ]
+    },
+    {
+      "worker_id": "A1DAKVNZ5LJEL4",
+      "edited_story_text": "the kids were excited to play ball in the yard . they had a lot of fun playing outside. Even the adults played with the kids . They even had a snack time after they played. Everyone in the entire family had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to play ball in the yard .",
+        "they had a lot of fun playing outside .",
+        "even the adults played with the kids .",
+        "they even had a snack time after they played .",
+        "everyone in the entire family had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the youngsters were excited to party in the yard . they played amusing games . they hung out with older people . the older people also had an entertaining time . the entire family had fun .",
+      "normalized_edited_story_text_sent": [
+        "the youngsters were excited to party in the yard .",
+        "they played amusing games .",
+        "they hung out with older people .",
+        "the older people also had an entertaining time .",
+        "the entire family had fun ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The kids and the adults had a lot of fun playing in the yard.  They hate cake and took pictures.  They than lined up and took a family photo of their fun day.",
+      "normalized_edited_story_text_sent": [
+        "the kids and the adults had a lot of fun playing in the yard .",
+        "they hate cake and took pictures .",
+        "they than lined up and took a family photo of their fun day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624756855255",
+  "model": "GLAC"
+}

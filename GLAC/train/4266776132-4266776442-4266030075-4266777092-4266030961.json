@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4266776132-4266776442-4266030075-4266777092-4266030961",
+  "photo_sequence_ids": [
+    "4266776132",
+    "4266776442",
+    "4266030075",
+    "4266777092",
+    "4266030961"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were lots of costumes . some of them were very creative . some of them were scary . others were very fast .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the parade was a lot of fun . there were lots of costumes . some of them were very creative . some of them were scary . others were very strange .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were lots of costumes .",
+        "some of them were very creative .",
+        "some of them were scary .",
+        "others were very strange ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the snow painting festival was fun . there were lots of different designs . some of them were very creative . some of them were political . others were very artistic .",
+      "normalized_edited_story_text_sent": [
+        "the snow painting festival was fun .",
+        "there were lots of different designs .",
+        "some of them were very creative .",
+        "some of them were political .",
+        "others were very artistic ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the parade was a lot of fun . there were lots of costumes . some of them were very creative . some of them were scary . others were very fast .\r\rThe parade was so much fun! There were a lot of costumes there. I loved the creativity put into them. Some were also really scary! Others seemed like they were just rushed.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were lots of costumes .",
+        "some of them were very creative .",
+        "some of them were scary .",
+        "others were very fast .",
+        "the parade was so much fun !",
+        "there were a lot of costumes there .",
+        "i loved the creativity put into them .",
+        "some were also really scary !",
+        "others seemed like they were just rushed ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun for those who went . there were lots of costumes that were on display . some of them were very creative but most were not . some of them were scary but only to those who are sensitive . others were very fast but most were slow.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun for those who went .",
+        "there were lots of costumes that were on display .",
+        "some of them were very creative but most were not .",
+        "some of them were scary but only to those who are sensitive .",
+        "others were very fast but most were slow ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the Chrismas parade was a lot of fun . the guests wore lots of costumes . some of the costumes worn were very creative . A few of the costumes were very scary . others were very fast made.",
+      "normalized_edited_story_text_sent": [
+        "the chrismas parade was a lot of fun .",
+        "the guests wore lots of costumes .",
+        "some of the costumes worn were very creative .",
+        "a few of the costumes were very scary .",
+        "others were very fast made ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623189575342",
+  "model": "GLAC"
+}

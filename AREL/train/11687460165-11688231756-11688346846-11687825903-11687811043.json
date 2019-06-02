@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "11687460165-11688231756-11688346846-11687825903-11687811043",
+  "photo_sequence_ids": [
+    "11687460165",
+    "11688231756",
+    "11688346846",
+    "11687825903",
+    "11687811043"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3665/11687460165_2fd3678b2d_o.jpg",
+    "https://farm8.staticflickr.com/7428/11688231756_b4d2906aa2_o.jpg",
+    "https://farm3.staticflickr.com/2831/11688346846_e0f0722f93_o.jpg",
+    "https://farm6.staticflickr.com/5486/11687825903_f763835478_o.jpg",
+    "https://farm4.staticflickr.com/3697/11687811043_9887c7cda9_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a snowy day . the city is lit up in the night . we had a lot of people out in the snow . as the sun went down the bridge was still in time . after a long day , it was time to go home .",
+  "edited_stories": [
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "It was a cold day . the city is lit up in the night . we had a lot of people out in the snow . as the sun went down the bridge was still in time . after a long day , it was time to go home .",
+      "normalized_edited_story_text_sent": [
+        "it was a cold day .",
+        "the city is lit up in the night .",
+        "we had a lot of people out in the snow .",
+        "as the sun went down the bridge was still in time .",
+        "after a long day , it was time to go home ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "It was a snowy day. The city is lit up in the night. There was a lot of people out in the snow. As the sun went down the bridge was beautiful. After a long day, it was time to go home.",
+      "normalized_edited_story_text_sent": [
+        "it was a snowy day .",
+        "the city is lit up in the night .",
+        "there was a lot of people out in the snow .",
+        "as the sun went down the bridge was beautiful .",
+        "after a long day , it was time to go home ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "It was a snowy day. The city is lit up in the night. We had a lot of people out in the snow playing and throwing snowballs. Everyone had fun and was tired, so they went home to relax after the exciting day.",
+      "normalized_edited_story_text_sent": [
+        "it was a snowy day .",
+        "the city is lit up in the night .",
+        "we had a lot of people out in the snow playing and throwing snowballs .",
+        "everyone had fun and was tired , so they went home to relax after the exciting day ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "it was a snowy day . the city is lit up in the night . there were a lot of people out in the snow . as the sun went down the bridge was still. after a long day , it was time to go home .",
+      "normalized_edited_story_text_sent": [
+        "it was a snowy day .",
+        "the city is lit up in the night .",
+        "there were a lot of people out in the snow .",
+        "as the sun went down the bridge was still .",
+        "after a long day , it was time to go home ."
+      ]
+    },
+    {
+      "worker_id": "A2TDK0LD62WZ8Y",
+      "edited_story_text": "It was a snowy day, and the city was lit up at night. A lot of people were out in the snow. As the sun went down, the bridge was brightly lit. After a long day, it was time to go home.",
+      "normalized_edited_story_text_sent": [
+        "it was a snowy day , and the city was lit up at night .",
+        "a lot of people were out in the snow .",
+        "as the sun went down , the bridge was brightly lit .",
+        "after a long day , it was time to go home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157639271334604"
+}

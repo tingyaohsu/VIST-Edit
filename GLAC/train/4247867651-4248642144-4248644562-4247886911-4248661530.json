@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4247867651-4248642144-4248644562-4247886911-4248661530",
+  "photo_sequence_ids": [
+    "4247867651",
+    "4248642144",
+    "4248644562",
+    "4247886911",
+    "4248661530"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for a birthday party . the boy was excited to see his brother . the parents were so happy . the family was there . the baby was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The family gathered for a birthday party and the boy was excited to see his brother. The parents were so happy that the family was there. The baby was very happy.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a birthday party and the boy was excited to see his brother .",
+        "the parents were so happy that the family was there .",
+        "the baby was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The family gathered for a birthday party. The father was pleased to have his family together. Both parents were so happy. The whole family was there. Even the family chicken attended.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a birthday party .",
+        "the father was pleased to have his family together .",
+        "both parents were so happy .",
+        "the whole family was there .",
+        "even the family chicken attended ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "The family gathered for a birthday party . the boy was excited to see his brother . the parents were so happy. Everyone was there. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a birthday party .",
+        "the boy was excited to see his brother .",
+        "the parents were so happy .",
+        "everyone was there .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "the family gathered for a birthday party . the boy was excited to see his brother . the parents were so happy,the father loved the rooster.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a birthday party .",
+        "the boy was excited to see his brother .",
+        "the parents were so happy , the father loved the rooster ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "Everyone in our family gathered for a birthday party. This guy was very excited to his brother. And his parents were happy as well. The entire family joined the fun. Even the baby rooster was happy.",
+      "normalized_edited_story_text_sent": [
+        "everyone in our family gathered for a birthday party .",
+        "this guy was very excited to his brother .",
+        "and his parents were happy as well .",
+        "the entire family joined the fun .",
+        "even the baby rooster was happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623021292833",
+  "model": "GLAC"
+}

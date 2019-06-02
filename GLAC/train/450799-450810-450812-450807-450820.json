@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "450799-450810-450812-450807-450820",
+  "photo_sequence_ids": [
+    "450799",
+    "450810",
+    "450812",
+    "450807",
+    "450820"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was dressed up as a vampire . she was having a great time . she was trying to get a picture of the man . the girl was not amused . the guy was not too happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "lisa brought her gorilla costume to work one day. her coworker robert tried on the mask, just for fun. robert loved to act silly and today was no exception. another coworker, john, wanted to try on the costume, too. john had a great time acting like a jungle ape.",
+      "normalized_edited_story_text_sent": [
+        "[female] brought her gorilla costume to work one day .",
+        "her coworker [male] tried on the mask , just for fun .",
+        "[male] loved to act silly and today was no exception .",
+        "another coworker , [male] , wanted to try on the costume , too .",
+        "[male] had a great time acting like a jungle ape ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the lady was dressed up as a vampire and he was a gorilla . she was having a great time with her friends at work. she was trying to get a picture of the man but he wouldn\u0027t stop moving . the girl was not amused and yelled at him . the guy was not too happy and went home .",
+      "normalized_edited_story_text_sent": [
+        "the lady was dressed up as a vampire and he was a gorilla .",
+        "she was having a great time with her friends at work .",
+        "she was trying to get a picture of the man but he would n\u0027t stop moving .",
+        "the girl was not amused and yelled at him .",
+        "the guy was not too happy and went home ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the lady was holding a costume. The man had a gorilla mask on. He sat at his desk in his costume. He had a good time.",
+      "normalized_edited_story_text_sent": [
+        "the lady was holding a costume .",
+        "the man had a gorilla mask on .",
+        "he sat at his desk in his costume .",
+        "he had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "my coworker was acting silly for halloween. he pretended he was a gorilla.",
+      "normalized_edited_story_text_sent": [
+        "my coworker was acting silly for halloween .",
+        "he pretended he was a gorilla ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The lady was dressed as a vampire and she was having a great time. She was trying to get a picture of the man and the girl was not amused. The guy wasn\u0027t happy, either.",
+      "normalized_edited_story_text_sent": [
+        "the lady was dressed as a vampire and she was having a great time .",
+        "she was trying to get a picture of the man and the girl was not amused .",
+        "the guy was n\u0027t happy , either ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "11090",
+  "model": "GLAC"
+}

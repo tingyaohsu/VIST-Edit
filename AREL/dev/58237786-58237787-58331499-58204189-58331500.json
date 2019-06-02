@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "58237786-58237787-58331499-58204189-58331500",
+  "photo_sequence_ids": [
+    "58237786",
+    "58237787",
+    "58331499",
+    "58204189",
+    "58331500"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/25/58237786_d84930b0c0_o.jpg",
+    "https://farm1.staticflickr.com/25/58237787_1c6c4e761f_o.jpg",
+    "https://farm1.staticflickr.com/25/58331499_5cd83b49b6_o.jpg",
+    "https://farm1.staticflickr.com/32/58204189_0539cb84e0_o.jpg",
+    "https://farm1.staticflickr.com/32/58331500_71a8111bb1_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party yesterday . everyone was very happy to be there . the bride and groom are having a good time . i had to take a picture with my sister . there was a lot of alcohol there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I had a great time at the party yesterday. Everyone was very happy to be there. A LOT OF PEOPLE ENJOYED DANCING. I had to take a picture with my sisteR. There was a lot of alcohol there.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "everyone was very happy to be there .",
+        "a lot of people enjoyed dancing .",
+        "i had to take a picture with my sister .",
+        "there was a lot of alcohol there ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "i had a great time at the party yesterday . everyone was very happy to be there . the bride and groom were having a good time . i took a picture with my sister . there was a lot of drinking at the party .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "everyone was very happy to be there .",
+        "the bride and groom were having a good time .",
+        "i took a picture with my sister .",
+        "there was a lot of drinking at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "I had a great time at the party yesterday. Everyone was very happy to be there including me. The bride and groom look great and are having a good time. Of course, I had to take a picture with my sister. There was a lot of alcohol there and a lot of people were drinking.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "everyone was very happy to be there including me .",
+        "the bride and groom look great and are having a good time .",
+        "of course , i had to take a picture with my sister .",
+        "there was a lot of alcohol there and a lot of people were drinking ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the party yesterday . everyone was very happy to be there . the bride and groom are having a good time and i had to take a picture with my sister . there was a lot of alcohol there .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "everyone was very happy to be there .",
+        "the bride and groom are having a good time and i had to take a picture with my sister .",
+        "there was a lot of alcohol there ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the party yesterday! Everyone was very happy to be there. The bride and groom had a good time. I had to take a picture with my sister. There was a lot of alcohol there.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday !",
+        "everyone was very happy to be there .",
+        "the bride and groom had a good time .",
+        "i had to take a picture with my sister .",
+        "there was a lot of alcohol there ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1260032"
+}

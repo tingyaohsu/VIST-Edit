@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5645261762-5645261354-5644696583-5645261924-5645261892",
+  "photo_sequence_ids": [
+    "5645261762",
+    "5645261354",
+    "5644696583",
+    "5645261924",
+    "5645261892"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the dinner . the food was delicious . the whole family enjoyed the meal . the baby was happy to see her . the family had a great time together .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The whole family gathered for a dinner, and boy was the food delicious! The whole family enjoyed it, too! Also, the baby was happy to see grandma. The family just had a great time together.",
+      "normalized_edited_story_text_sent": [
+        "the whole family gathered for a dinner , and boy was the food delicious !",
+        "the whole family enjoyed it , too !",
+        "also , the baby was happy to see grandma .",
+        "the family just had a great time together ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a dinner party . the food was tasteful . the entire family enjoyed the delicious meal . the baby was glad to see relatives . the family had a great reunion .",
+      "normalized_edited_story_text_sent": [
+        "the family had a dinner party .",
+        "the food was tasteful .",
+        "the entire family enjoyed the delicious meal .",
+        "the baby was glad to see relatives .",
+        "the family had a great reunion ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family gathered for the dinner . He held up a plate with steal. They posed for pictures. They looked at the cake while the dog looked on.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the dinner .",
+        "he held up a plate with steal .",
+        "they posed for pictures .",
+        "they looked at the cake while the dog looked on ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family gathered for the dinner at the restaurant . the food was delicious and very filling . the whole family enjoyed the meal and wanted to go again next week. the baby was happy to see her grandmother again . the family had a great time together and talked all night long .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for the dinner at the restaurant .",
+        "the food was delicious and very filling .",
+        "the whole family enjoyed the meal and wanted to go again next week .",
+        "the baby was happy to see her grandmother again .",
+        "the family had a great time together and talked all night long ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The family all came together for supper. The dishes were delightful. Everyone enjoyed the meal and were stuffed. It was nice to have the family together again. It brought a warm and homey feeling, including the baby, who was also happy to see them.",
+      "normalized_edited_story_text_sent": [
+        "the family all came together for supper .",
+        "the dishes were delightful .",
+        "everyone enjoyed the meal and were stuffed .",
+        "it was nice to have the family together again .",
+        "it brought a warm and homey feeling , including the baby , who was also happy to see them ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157626554955140",
+  "model": "GLAC"
+}

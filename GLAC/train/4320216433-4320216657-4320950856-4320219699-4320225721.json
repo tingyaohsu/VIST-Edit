@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4320216433-4320216657-4320950856-4320219699-4320225721",
+  "photo_sequence_ids": [
+    "4320216433",
+    "4320216657",
+    "4320950856",
+    "4320219699",
+    "4320225721"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the restaurant was set up for the wedding . the tables were decorated with nice decorations . the table was decorated beautifully . the guests were excited to be there . the view was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The restaurant was set up for the wedding. The tables were decorated with exquisite taste. All of the guests were excited to be there, and the view was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was set up for the wedding .",
+        "the tables were decorated with exquisite taste .",
+        "all of the guests were excited to be there , and the view was beautiful ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the restaurant was set up for the wedding . the tables were decorated with nice decorations . They had bottle service ready. Everyone sat down at the reception. The rural area was pretty.",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was set up for the wedding .",
+        "the tables were decorated with nice decorations .",
+        "they had bottle service ready .",
+        "everyone sat down at the reception .",
+        "the rural area was pretty ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The dining car on the train was quite fancy. The tables were set formally. The bar had a limited offering. The guests enjoyed themselves. The view along the way was quite lovely.",
+      "normalized_edited_story_text_sent": [
+        "the dining car on the train was quite fancy .",
+        "the tables were set formally .",
+        "the bar had a limited offering .",
+        "the guests enjoyed themselves .",
+        "the view along the way was quite lovely ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "We took a luxurious train ride through the Italian countryside. The train had elegant carts for restaurant eating and wine tasting. We ended up spending most of our time drinking the wine than going to the countryside itself.",
+      "normalized_edited_story_text_sent": [
+        "we took a luxurious train ride through the italian countryside .",
+        "the train had elegant carts for restaurant eating and wine tasting .",
+        "we ended up spending most of our time drinking the wine than going to the countryside itself ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the restaurant was set up for the wedding and the after party. the tables were decorated with nice decorations as well as plates and silverware . the table was decorated beautifully by the staff and you could tell they spent a lot of time on it. the guests were excited to be there and were ready to party . the view was beautiful as the sky was blue .",
+      "normalized_edited_story_text_sent": [
+        "the restaurant was set up for the wedding and the after party .",
+        "the tables were decorated with nice decorations as well as plates and silverware .",
+        "the table was decorated beautifully by the staff and you could tell they spent a lot of time on it .",
+        "the guests were excited to be there and were ready to party .",
+        "the view was beautiful as the sky was blue ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623199274325",
+  "model": "GLAC"
+}

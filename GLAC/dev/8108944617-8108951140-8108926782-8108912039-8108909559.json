@@ -1,0 +1,61 @@
+{
+  "photo_sequence_id": "8108944617-8108951140-8108926782-8108912039-8108909559",
+  "photo_sequence_ids": [
+    "8108944617",
+    "8108951140",
+    "8108926782",
+    "8108912039",
+    "8108909559"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the local fair . there were lots of games and prizes . the kids enjoyed the rides . the kids had a great time . the children had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "We went to the local fair to sell all the games and prizes. Our kids really enjoyed the rides, and they had a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local fair to sell all the games and prizes .",
+        "our kids really enjoyed the rides , and they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the local fair . there were lots of games and prizes .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local fair .",
+        "there were lots of games and prizes ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "we went to the local fair . there were lots of games and prizes . the kids enjoyed the rides . the adults played too . everyone had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we went to the local fair .",
+        "there were lots of games and prizes .",
+        "the kids enjoyed the rides .",
+        "the adults played too .",
+        "everyone had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "pictures were removed.",
+      "normalized_edited_story_text_sent": [
+        "pictures were removed ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "We went to the local fair with the kids that day. There were lots of carnival games and a variety of prizes to win. The kids had a great time there, especially riding all the rides the fair had.",
+      "normalized_edited_story_text_sent": [
+        "we went to the local fair with the kids that day .",
+        "there were lots of carnival games and a variety of prizes to win .",
+        "the kids had a great time there , especially riding all the rides the fair had ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157631819742383",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "7350422846-7350422702-7165210345-7165210143-7165210091",
+  "photo_sequence_ids": [
+    "7350422846",
+    "7350422702",
+    "7165210345",
+    "7165210143",
+    "7165210091"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8162/7350422846_5251880670_o.jpg",
+    "https://farm8.staticflickr.com/7219/7350422702_9dd89ff476_o.jpg",
+    "https://farm8.staticflickr.com/7087/7165210345_d69d60749a_o.jpg",
+    "https://farm9.staticflickr.com/8025/7165210143_70238d1f01_o.jpg",
+    "https://farm9.staticflickr.com/8159/7165210091_abbccc756d_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day of the big parade . there were many people there . there were a lot of people there . they were very happy to be there . it was a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2027D8EZOU608",
+      "edited_story_text": "today was the day of the big parade . there were many people there . there were a lot of people there to grieve. they were very upset to be there . it was a sad day .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big parade .",
+        "there were many people there .",
+        "there were a lot of people there to grieve .",
+        "they were very upset to be there .",
+        "it was a sad day ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "Today was the day of the big parade. There were many people in attendance and they seemed happy to be there. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big parade .",
+        "there were many people in attendance and they seemed happy to be there .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Today was the day of the big parade! There were a lot of people there, and they were very happy to be there. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big parade !",
+        "there were a lot of people there , and they were very happy to be there .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "today was the day of the funeral . there were many people there . there was a crowd . they were not very happy to be there . it was a bad day .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the funeral .",
+        "there were many people there .",
+        "there was a crowd .",
+        "they were not very happy to be there .",
+        "it was a bad day ."
+      ]
+    },
+    {
+      "worker_id": "A2QP7JJU9J2C2S",
+      "edited_story_text": "Today was the day of the big funeral. There were many people there. All the pallbearers where dressed respectfully there. The [woman] was not happy to be there. It was not a great day .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big funeral .",
+        "there were many people there .",
+        "all the pallbearers where dressed respectfully there .",
+        "the [female] was not happy to be there .",
+        "it was not a great day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157630078030316"
+}

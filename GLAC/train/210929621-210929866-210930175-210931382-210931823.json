@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "210929621-210929866-210930175-210931382-210931823",
+  "photo_sequence_ids": [
+    "210929621",
+    "210929866",
+    "210930175",
+    "210931382",
+    "210931823"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be at the party . he was having a great time . the crowd was very nice . the girl was happy to see him . the family was all together .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "David was very excited about our surprise party for him. he was excited that we planned it all for him. all of his best friends came. we took him out golfing.  all of our family and friends had a great day.",
+      "normalized_edited_story_text_sent": [
+        "[male] was very excited about our surprise party for him .",
+        "he was excited that we planned it all for him .",
+        "all of his best friends came .",
+        "we took him out golfing .",
+        "all of our family and friends had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the man was excited to be at the party for his friend . he was having a great time talking to the people . the crowd was very nice to all th golfers . the girl was happy to see him hit the tee shot straight. the family was all together for the first time in a while.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the party for his friend .",
+        "he was having a great time talking to the people .",
+        "the crowd was very nice to all th golfers .",
+        "the girl was happy to see him hit the tee shot straight .",
+        "the family was all together for the first time in a while ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the man was excited to be at the party . he was having a great time golfing . everyone was very nice . the girl was happy to see him. the family was all together .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the party .",
+        "he was having a great time golfing .",
+        "everyone was very nice .",
+        "the girl was happy to see him .",
+        "the family was all together ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the man was excited to be at the party, since he had been looking forward to his bachelor party for weeks . he was having a great time, and won the first round of golf . the crowd was very nice . the girl was happy to see him . the family was all together .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the party , since he had been looking forward to his bachelor party for weeks .",
+        "he was having a great time , and won the first round of golf .",
+        "the crowd was very nice .",
+        "the girl was happy to see him .",
+        "the family was all together ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the men were excited to be at the party. they were having a great time. the crowd was very nice.  they also went golfing.",
+      "normalized_edited_story_text_sent": [
+        "the men were excited to be at the party .",
+        "they were having a great time .",
+        "the crowd was very nice .",
+        "they also went golfing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594230490220",
+  "model": "GLAC"
+}

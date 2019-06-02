@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6528483481-6528475593-6528490095-6528498135-6535561225",
+  "photo_sequence_ids": [
+    "6528483481",
+    "6528475593",
+    "6528490095",
+    "6528498135",
+    "6535561225"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7167/6528483481_6bb30f18f2_o.jpg",
+    "https://farm8.staticflickr.com/7023/6528475593_460e934b8e_o.jpg",
+    "https://farm8.staticflickr.com/7170/6528490095_c3a5c5e81d_o.jpg",
+    "https://farm8.staticflickr.com/7174/6528498135_86e2f51db6_o.jpg",
+    "https://farm8.staticflickr.com/7034/6535561225_2d2725c764_o.jpg"
+  ],
+  "auto_story_text_normalized": "the students were excited to go to the graduation party . all of the students were very excited . [female] and [female] were so proud of her . the girls were very happy to be there . she was very happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the students were excited to go to graduation . all of the students were very excited to get their diplomas . [female] and [female] were so proud of her . the girls were very happy to be there . she was very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to go to graduation .",
+        "all of the students were very excited to get their diplomas .",
+        "[female] and [female] were so proud of her .",
+        "the girls were very happy to be there .",
+        "she was very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "all of the students were excited to go to the graduation party. [female] and [female] were so proud of her . the girls were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "all of the students were excited to go to the graduation party .",
+        "[female] and [female] were so proud of her .",
+        "the girls were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2TDK0LD62WZ8Y",
+      "edited_story_text": "All of the students were very excited to go to the graduation party. [female] and [female] were so proud of their brother. The girls were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "all of the students were very excited to go to the graduation party .",
+        "[female] and [female] were so proud of their brother .",
+        "the girls were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The students were excited to graduate.  After the ceremony, we went to a graduation party.  All of the students were very excited . [female] and [female] were so proud of her. The girls were very happy to be there. She had a great time at the party with her friends.",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to graduate .",
+        "after the ceremony , we went to a graduation party .",
+        "all of the students were very excited .",
+        "[female] and [female] were so proud of her .",
+        "the girls were very happy to be there .",
+        "she had a great time at the party with her friends ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the students were excited to go to the graduation party . all of the students were very excited . [Shannon] and [Lucy] were so proud of her . the girls were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the students were excited to go to the graduation party .",
+        "all of the students were very excited .",
+        "[female] and [female] were so proud of her .",
+        "the girls were very happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157628461758115"
+}

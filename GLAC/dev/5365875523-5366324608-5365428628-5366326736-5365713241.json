@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5365875523-5366324608-5365428628-5366326736-5365713241",
+  "photo_sequence_ids": [
+    "5365875523",
+    "5366324608",
+    "5365428628",
+    "5366326736",
+    "5365713241"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was full of people . the streets were filled with people . the crowd was excited . the signs were made . the protesters were very passionate .",
+  "edited_stories": [
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the city and streets were full of people. the crowd was excited. the protesters were very passionate and carried signs.",
+      "normalized_edited_story_text_sent": [
+        "the city and streets were full of people .",
+        "the crowd was excited .",
+        "the protesters were very passionate and carried signs ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city street filled up . people crowded the streets . the crowd was enthusiastic . homemade signs were displayed . the protesters were passionate about the issue .",
+      "normalized_edited_story_text_sent": [
+        "the city street filled up .",
+        "people crowded the streets .",
+        "the crowd was enthusiastic .",
+        "homemade signs were displayed .",
+        "the protesters were passionate about the issue ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the city was full of people . the streets were filled with demonstrators . the crowd was excited . many signs were made . the protesters were very passionate .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the streets were filled with demonstrators .",
+        "the crowd was excited .",
+        "many signs were made .",
+        "the protesters were very passionate ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "A lot of people in streets today peacefully protesting by marching.  Many also carried signs in support of their cause.",
+      "normalized_edited_story_text_sent": [
+        "a lot of people in streets today peacefully protesting by marching .",
+        "many also carried signs in support of their cause ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was full of people who came to march . the streets were filled with people who wanted equal rights. the crowd was excited and were friendly . the signs were made the day before . the protesters were very passionate but were civil.",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people who came to march .",
+        "the streets were filled with people who wanted equal rights .",
+        "the crowd was excited and were friendly .",
+        "the signs were made the day before .",
+        "the protesters were very passionate but were civil ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625850715298",
+  "model": "GLAC"
+}

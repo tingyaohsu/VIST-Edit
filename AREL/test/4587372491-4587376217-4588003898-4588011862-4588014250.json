@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4587372491-4587376217-4588003898-4588011862-4588014250",
+  "photo_sequence_ids": [
+    "4587372491",
+    "4587376217",
+    "4588003898",
+    "4588011862",
+    "4588014250"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4059/4587372491_f4705b0613_o.jpg",
+    "https://farm5.staticflickr.com/4029/4587376217_aba2a63b25_o.jpg",
+    "https://farm4.staticflickr.com/3313/4588003898_2f6e04f2ea_o.jpg",
+    "https://farm5.staticflickr.com/4049/4588011862_1d73157cfd_o.jpg",
+    "https://farm5.staticflickr.com/4003/4588014250_8b9247d5bd_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to visit my friend \u0027s house today . there were many people there . she was very happy to be there . there were a lot of flowers there . there were many flowers in the park .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "A VIOLINIST PLAYED BEFORE THE WEDDING STARTED. THE FLOWER GIRLS WERE ADORABLE AS THEY WALKED DOWN THE AISLE. THE GROOM LOOKED VERY NERVOUS. THE FLORIST DID A WONDERFUL JOB WITH THE PLANTS. IT WAS A BEAUTIFUL WEDDING.",
+      "normalized_edited_story_text_sent": [
+        "a violinist played before the wedding started .",
+        "the flower girls were adorable as they walked down the aisle .",
+        "the groom looked very nervous .",
+        "the florist did a wonderful job with the plants .",
+        "it was a beautiful wedding ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i went to visit my friend \u0027s house today for a wedding . there was a crowd. she was excited to be there . there were a lot of flowers there . there were many flowers in the yard.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today for a wedding .",
+        "there was a crowd .",
+        "she was excited to be there .",
+        "there were a lot of flowers there .",
+        "there were many flowers in the yard ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "i went to my friend \u0027s wedding today . there were many people there . she was very happy to be there . there were a lot of flowers there .",
+      "normalized_edited_story_text_sent": [
+        "i went to my friend \u0027s wedding today .",
+        "there were many people there .",
+        "she was very happy to be there .",
+        "there were a lot of flowers there ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I attended a friend\u0027s wedding. It was held outdoors. A woman played violin during the ceremony. Everyone was dressed nice. The ground were landscaped with lots of pretty flowers.",
+      "normalized_edited_story_text_sent": [
+        "i attended a friend \u0027s wedding .",
+        "it was held outdoors .",
+        "a woman played violin during the ceremony .",
+        "everyone was dressed nice .",
+        "the ground were landscaped with lots of pretty flowers ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went to visit my friend \u0027s house today, there were many people there. She was having a wedding, with many flowers from the park.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit my friend \u0027s house today , there were many people there .",
+        "she was having a wedding , with many flowers from the park ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623889944943"
+}

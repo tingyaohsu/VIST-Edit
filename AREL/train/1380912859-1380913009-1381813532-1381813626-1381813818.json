@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "1380912859-1380913009-1381813532-1381813626-1381813818",
+  "photo_sequence_ids": [
+    "1380912859",
+    "1380913009",
+    "1381813532",
+    "1381813626",
+    "1381813818"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1432/1380912859_24cb4e8dc6_o.jpg",
+    "https://farm2.staticflickr.com/1089/1380913009_9f52a1cbf6_o.jpg",
+    "https://farm2.staticflickr.com/1172/1381813532_a585700bd6_o.jpg",
+    "https://farm2.staticflickr.com/1294/1381813626_66b6f33b38_o.jpg",
+    "https://farm2.staticflickr.com/1089/1381813818_6505861fab_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the beach last weekend . we got to see a lot of people there . the horses were all lined up . i saw a lot of interesting people . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the beach last weekend and we got to see a lot of people there . the horses were all lined up . i saw a lot of interesting people . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend and we got to see a lot of people there .",
+        "the horses were all lined up .",
+        "i saw a lot of interesting people .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "i went to the beach last weekend . I got to see a lot of interesting people there . the horses were all lined up .  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend .",
+        "i got to see a lot of interesting people there .",
+        "the horses were all lined up .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "I went to the beach last weekend, we got to see a lot of people there. The horses there were all lined up also, we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend , we got to see a lot of people there .",
+        "the horses there were all lined up also , we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I went to the beach last weekend and we got to see a lot of people there. The beautiful horses were all lined up, I saw boats and a lot of interesting people, and got to watch the sunset.",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend and we got to see a lot of people there .",
+        "the beautiful horses were all lined up , i saw boats and a lot of interesting people , and got to watch the sunset ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the beach last weekend. We got to see a lot of people there. There were people lined up on camels, and I saw a lot of different interesting people. We had a great time!",
+      "normalized_edited_story_text_sent": [
+        "i went to the beach last weekend .",
+        "we got to see a lot of people there .",
+        "there were people lined up on camels , and i saw a lot of different interesting people .",
+        "we had a great time !"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602004965238"
+}

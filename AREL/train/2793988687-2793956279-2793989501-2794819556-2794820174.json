@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "2793988687-2793956279-2793989501-2794819556-2794820174",
+  "photo_sequence_ids": [
+    "2793988687",
+    "2793956279",
+    "2793989501",
+    "2794819556",
+    "2794820174"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3247/2793988687_b1719e1878_o.jpg",
+    "https://farm4.staticflickr.com/3207/2793956279_3d9afed8b1_o.jpg",
+    "https://farm4.staticflickr.com/3047/2793989501_933809b748_o.jpg",
+    "https://farm4.staticflickr.com/3046/2794819556_a4849243c4_o.jpg",
+    "https://farm4.staticflickr.com/3169/2794820174_191dd6a532_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of things on the way to the park . a lot of people showed up to show their support . this is a picture of a tree . some of them were very interesting . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "On the way to the park, I noticed a lot of things. There was an activity going on that a lot of people showed to support. There were many interesting things there, for example, this picture of a tree and this picture of a building.",
+      "normalized_edited_story_text_sent": [
+        "on the way to the park , i noticed a lot of things .",
+        "there was an activity going on that a lot of people showed to support .",
+        "there were many interesting things there , for example , this picture of a tree and this picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "We took a walk to the park. The sidewalks were very busy that afternoon, with a lot of people outside. a lot of people showed up to show their support. We enjoyed the natural surroundings in the park and took a look at some of the old buildings in the area.",
+      "normalized_edited_story_text_sent": [
+        "we took a walk to the park .",
+        "the sidewalks were very busy that afternoon , with a lot of people outside .",
+        "a lot of people showed up to show their support .",
+        "we enjoyed the natural surroundings in the park and took a look at some of the old buildings in the area ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "there were so many things on the way to the park . many people showed up to show their support . here is a photo of a tree . some of them were fascinating . here is a photo of a building .",
+      "normalized_edited_story_text_sent": [
+        "there were so many things on the way to the park .",
+        "many people showed up to show their support .",
+        "here is a photo of a tree .",
+        "some of them were fascinating .",
+        "here is a photo of a building ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "there were a lot of things on the way to the park . a lot of people showed up to show their support . this is a picture of a tree . some of them were very interesting and this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of things on the way to the park .",
+        "a lot of people showed up to show their support .",
+        "this is a picture of a tree .",
+        "some of them were very interesting and this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A2HHQJVM3JJQ8F",
+      "edited_story_text": "the scaffolding was high . the three-wheel motorcycle was nice . this is a picture of a garbage can . the stained glass was very interesting . this is a picture of a chimney on an old building .",
+      "normalized_edited_story_text_sent": [
+        "the scaffolding was high .",
+        "the three-wheel motorcycle was nice .",
+        "this is a picture of a garbage can .",
+        "the stained glass was very interesting .",
+        "this is a picture of a chimney on an old building ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157606932450262"
+}

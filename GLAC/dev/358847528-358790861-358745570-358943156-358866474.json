@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "358847528-358790861-358745570-358943156-358866474",
+  "photo_sequence_ids": [
+    "358847528",
+    "358790861",
+    "358745570",
+    "358943156",
+    "358866474"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was excited for the upcoming game . the fans were excited . the teams were ready to start . the team was ready . the players were really good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the crowd was excited for the upcoming game between the two teams . the fans were excited that the game was being played during the day . the teams were ready to start to game but had to wait for the ceremony . the team was ready to play their best for the crowd . the players were really good at playing their best .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited for the upcoming game between the two teams .",
+        "the fans were excited that the game was being played during the day .",
+        "the teams were ready to start to game but had to wait for the ceremony .",
+        "the team was ready to play their best for the crowd .",
+        "the players were really good at playing their best ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "JOHN SAID TO MARY the crowd was excited for the upcoming game . the fans were excited . the teams were ready to start . the team was ready . the players were really good .",
+      "normalized_edited_story_text_sent": [
+        "[male] said to [female] the crowd was excited for the upcoming game .",
+        "the fans were excited .",
+        "the teams were ready to start .",
+        "the team was ready .",
+        "the players were really good ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the crowd was excited for the upcoming game . the fans were cheering . the teams were ready to start . the team was ready . the players were really good .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited for the upcoming game .",
+        "the fans were cheering .",
+        "the teams were ready to start .",
+        "the team was ready .",
+        "the players were really good ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the crowd was excited to be visiting the landmark . the fans were excited . the teams were ready to start . the team was ready . the players were really good .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited to be visiting the landmark .",
+        "the fans were excited .",
+        "the teams were ready to start .",
+        "the team was ready .",
+        "the players were really good ."
+      ]
+    },
+    {
+      "worker_id": "AR72L0JX4D03W",
+      "edited_story_text": "The fans in the crowd were excited for the upcoming game.  The teams were ready to start. The players were really good .",
+      "normalized_edited_story_text_sent": [
+        "the fans in the crowd were excited for the upcoming game .",
+        "the teams were ready to start .",
+        "the players were really good ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594482057549",
+  "model": "GLAC"
+}

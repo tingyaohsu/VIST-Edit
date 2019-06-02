@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "151542256-151542261-151559000-151558998-151555386",
+  "photo_sequence_ids": [
+    "151542256",
+    "151542261",
+    "151559000",
+    "151558998",
+    "151555386"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/48/151542256_7ac8ba4212_o.jpg",
+    "https://farm1.staticflickr.com/53/151542261_d252ea5998_o.jpg",
+    "https://farm1.staticflickr.com/53/151559000_8005f0f02b_o.jpg",
+    "https://farm1.staticflickr.com/50/151558998_d764888891_o.jpg",
+    "https://farm1.staticflickr.com/47/151555386_9258a3525d_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went out to the country to see the sights . there were a lot of interesting things to see . and the flowers were so beautiful . the flowers were very beautiful . it was a great day for the family .",
+  "edited_stories": [
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "my  family went out to the country to see the sights . there were a lot of interesting things to see . and the flowers were so beautiful . There were roses and a variety of other flowers, as well as a pond with fish . it was a great day for our family.",
+      "normalized_edited_story_text_sent": [
+        "my family went out to the country to see the sights .",
+        "there were a lot of interesting things to see .",
+        "and the flowers were so beautiful .",
+        "there were roses and a variety of other flowers , as well as a pond with fish .",
+        "it was a great day for our family ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the family visited the country to see the sights . there were many interesting things to see . and the flowers were very pretty . the flowers were very lovely. it was a great time for the family .",
+      "normalized_edited_story_text_sent": [
+        "the family visited the country to see the sights .",
+        "there were many interesting things to see .",
+        "and the flowers were very pretty .",
+        "the flowers were very lovely .",
+        "it was a great time for the family ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The family went to the countryside to see the sights. There were a lot of cool things to see. The flowers were very beautiful. There were pink and white flowers. It was a great day to see nature with the family.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the countryside to see the sights .",
+        "there were a lot of cool things to see .",
+        "the flowers were very beautiful .",
+        "there were pink and white flowers .",
+        "it was a great day to see nature with the family ."
+      ]
+    },
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "the family went out to the country to see the sights . there were a lot of interesting things to see . the flowers were so beautiful . the roses were very perfect . it was a great day for the family .",
+      "normalized_edited_story_text_sent": [
+        "the family went out to the country to see the sights .",
+        "there were a lot of interesting things to see .",
+        "the flowers were so beautiful .",
+        "the roses were very perfect .",
+        "it was a great day for the family ."
+      ]
+    },
+    {
+      "worker_id": "A34VIKOCYAW0F3",
+      "edited_story_text": "The family had a reunion out in the country. The flowers and waterfall were so beautiful. We all enjoyed it very much getting together and seeing this beautiful area.",
+      "normalized_edited_story_text_sent": [
+        "the family had a reunion out in the country .",
+        "the flowers and waterfall were so beautiful .",
+        "we all enjoyed it very much getting together and seeing this beautiful area ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594142632397"
+}

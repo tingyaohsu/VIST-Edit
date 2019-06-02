@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "116534546-116534722-116534958-116535063-116535114",
+  "photo_sequence_ids": [
+    "116534546",
+    "116534722",
+    "116534958",
+    "116535063",
+    "116535114"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the runners were getting ready for the race . the bikers were off ! the participants were very excited . the race was about to begin . the winner was crowned .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we went to a bike race.  the bikers were excited and ready to start.  then they were off!  we saw the winner getting his crown.",
+      "normalized_edited_story_text_sent": [
+        "we went to a bike race .",
+        "the bikers were excited and ready to start .",
+        "then they were off !",
+        "we saw the winner getting his crown ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the participants were very excited, the race was about to begin off they go! Everyone had a good time and male had a lot of support. the winner was recognized.",
+      "normalized_edited_story_text_sent": [
+        "the participants were very excited , the race was about to begin off they go !",
+        "everyone had a good time and male had a lot of support .",
+        "the winner was recognized ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the runners were getting ready for the race . as soon as the whistle was blown, the bikers were off ! the participants were very excited and you could feel the energy in the air . We arrive right before the race was about to begin . the winner was crowned .",
+      "normalized_edited_story_text_sent": [
+        "the runners were getting ready for the race .",
+        "as soon as the whistle was blown , the bikers were off !",
+        "the participants were very excited and you could feel the energy in the air .",
+        "we arrive right before the race was about to begin .",
+        "the winner was crowned ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the runners were getting ready for the race of their lives . the bikers were off first due to being faster ! the participants were very excited that the race had started. the race was about to begin but lightning delayed it . the winner was crowned and everyone went home .",
+      "normalized_edited_story_text_sent": [
+        "the runners were getting ready for the race of their lives .",
+        "the bikers were off first due to being faster !",
+        "the participants were very excited that the race had started .",
+        "the race was about to begin but lightning delayed it .",
+        "the winner was crowned and everyone went home ."
+      ]
+    },
+    {
+      "worker_id": "A2DWSKGD9RNKMJ",
+      "edited_story_text": "This picture shows the runners getting ready for the race . the bikers were off with people cheering ! the crowd was very excited . the race was about to begin and there was this adorable puppy . the winner was crowned .",
+      "normalized_edited_story_text_sent": [
+        "this picture shows the runners getting ready for the race .",
+        "the bikers were off with people cheering !",
+        "the crowd was very excited .",
+        "the race was about to begin and there was this adorable puppy .",
+        "the winner was crowned ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594088507493",
+  "model": "GLAC"
+}

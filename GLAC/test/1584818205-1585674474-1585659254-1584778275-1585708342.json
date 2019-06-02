@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "1584818205-1585674474-1585659254-1584778275-1585708342",
+  "photo_sequence_ids": [
+    "1584818205",
+    "1585674474",
+    "1585659254",
+    "1584778275",
+    "1585708342"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the flowers were very pretty . they were so beautiful . they were all different colors . the pink ones were not too good . the bird was the best .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The ants were crawling on the rope. The butterfly was very pretty. The flowers were so beautiful. They were all different colors. The bird was my favorite.",
+      "normalized_edited_story_text_sent": [
+        "the ants were crawling on the rope .",
+        "the butterfly was very pretty .",
+        "the flowers were so beautiful .",
+        "they were all different colors .",
+        "the bird was my favorite ."
+      ]
+    },
+    {
+      "worker_id": "A1E235KE3CSO7H",
+      "edited_story_text": "the flowers were very pretty in their natural environment. The fauna and flora were diverse and a wonder of beauty. Specifically, there their was a dpecled bird, a butterfly, and even tiny ants. they were all different colors.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were very pretty in their natural environment .",
+        "the fauna and flora were diverse and a wonder of beauty .",
+        "specifically , there their was a dpecled bird , a butterfly , and even tiny ants .",
+        "they were all different colors ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the flowers we saw were very pretty . they were all so beautiful to look at. they were all unique with different colors. But the pink ones were not too good though. I thought that the bird was the best thing that I saw.",
+      "normalized_edited_story_text_sent": [
+        "the flowers we saw were very pretty .",
+        "they were all so beautiful to look at .",
+        "they were all unique with different colors .",
+        "but the pink ones were not too good though .",
+        "i thought that the bird was the best thing that i saw ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the flowers were very pretty . There were butterflies and gorgeous flowers. I saw cool birds. What a great place to visit.",
+      "normalized_edited_story_text_sent": [
+        "the flowers were very pretty .",
+        "there were butterflies and gorgeous flowers .",
+        "i saw cool birds .",
+        "what a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The scenery was beautiful with the different types of birds and butterflies and flowers.",
+      "normalized_edited_story_text_sent": [
+        "the scenery was beautiful with the different types of birds and butterflies and flowers ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602444903586",
+  "model": "GLAC"
+}

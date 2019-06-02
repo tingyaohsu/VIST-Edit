@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "766263320-765359781-766292776-766228474-765387567",
+  "photo_sequence_ids": [
+    "766263320",
+    "765359781",
+    "766292776",
+    "766228474",
+    "765387567"
+  ],
+  "photo_sequence_urls": [
+    "https://farm2.staticflickr.com/1132/766263320_8f62530b68_o.jpg",
+    "https://farm2.staticflickr.com/1302/765359781_1949a5151d_o.jpg",
+    "https://farm2.staticflickr.com/1318/766292776_4829bffe91_o.jpg",
+    "https://farm2.staticflickr.com/1282/766228474_c871dd4e8a_o.jpg",
+    "https://farm2.staticflickr.com/1045/765387567_45b1306258_o.jpg"
+  ],
+  "auto_story_text_normalized": "a group of friends went on a trip to location . this is a picture of a building . there was a statue of an old barn . there was also a lot of old buildings . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "A group of friends went on a trip to see the local ruins. Here is a picture of one of the buildings, and here is one of the statues. There were a lot of buildings. Here is a picture of one of them.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went on a trip to see the local ruins .",
+        "here is a picture of one of the buildings , and here is one of the statues .",
+        "there were a lot of buildings .",
+        "here is a picture of one of them ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "a group of friends went on a trip . here is a picture of a building . there was a statue of an old barn . there were also a lot of old buildings . this is another picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went on a trip .",
+        "here is a picture of a building .",
+        "there was a statue of an old barn .",
+        "there were also a lot of old buildings .",
+        "this is another picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "A group of friends went on a trip to [location]. There were lots of old buildings. There was an ancient tree that was very tall. Some of the trees were growing over the buildings. There was an ancient temple in the middle of the trees.",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went on a trip to [location] .",
+        "there were lots of old buildings .",
+        "there was an ancient tree that was very tall .",
+        "some of the trees were growing over the buildings .",
+        "there was an ancient temple in the middle of the trees ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We made a trip with a group. We went to an old building. It was deep in the woods. The trees were even trying to grow on the building. It was picturesque.",
+      "normalized_edited_story_text_sent": [
+        "we made a trip with a group .",
+        "we went to an old building .",
+        "it was deep in the woods .",
+        "the trees were even trying to grow on the building .",
+        "it was picturesque ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "a group of friends went on a trip to exotic location . this is a picture of an old building . there was an awesome tree . there was also many old buildings . this is a photo of a building .",
+      "normalized_edited_story_text_sent": [
+        "a group of friends went on a trip to exotic location .",
+        "this is a picture of an old building .",
+        "there was an awesome tree .",
+        "there was also many old buildings .",
+        "this is a photo of a building ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600738834989"
+}

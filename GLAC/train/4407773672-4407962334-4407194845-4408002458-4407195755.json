@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4407773672-4407962334-4407194845-4408002458-4407195755",
+  "photo_sequence_ids": [
+    "4407773672",
+    "4407962334",
+    "4407194845",
+    "4408002458",
+    "4407195755"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be in the city . he was so happy to see his friends . he was very proud of the new couple . the band was playing at the concert . the girls were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the man was excited to be in the city . he was so happy to see his friends . he was very proud of his new album . the band was playing at the concert . the girls were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be in the city .",
+        "he was so happy to see his friends .",
+        "he was very proud of his new album .",
+        "the band was playing at the concert .",
+        "the girls were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was excited to start over in a new city . he was happy to see his friends he had made . of one couple he was especially proud . at the concert where they met up, a band was playing . the girls were having much fun .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to start over in a new city .",
+        "he was happy to see his friends he had made .",
+        "of one couple he was especially proud .",
+        "at the concert where they met up , a band was playing .",
+        "the girls were having much fun ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The man was excited to be in the city and he was so happy to see his friends. He was very proud of the new couple. The band was playing at the concert. The girls were having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be in the city and he was so happy to see his friends .",
+        "he was very proud of the new couple .",
+        "the band was playing at the concert .",
+        "the girls were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "the man was excited to be in the city, he was there to meet his friend and go to the Come up show featuring Shad . he was so happy to see his friend, he has not seen him for a long time . he was very proud of the new couple and he talked to his friend about them while they stood in the hallway . the band was playing at the concert during the Come up show . the girls were in the front row and they were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be in the city , he was there to meet his friend and go to the come up show featuring shad .",
+        "he was so happy to see his friend , he has not seen him for a long time .",
+        "he was very proud of the new couple and he talked to his friend about them while they stood in the hallway .",
+        "the band was playing at the concert during the come up show .",
+        "the girls were in the front row and they were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the man was excited to be in the city . he was so happy to see his friends . They went to a concert. it was great fun",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be in the city .",
+        "he was so happy to see his friends .",
+        "they went to a concert .",
+        "it was great fun"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623510015317",
+  "model": "GLAC"
+}

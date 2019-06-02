@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "66979648-66979713-66979789-66980064-66980141",
+  "photo_sequence_ids": [
+    "66979648",
+    "66979713",
+    "66979789",
+    "66980064",
+    "66980141"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/30/66979648_221a4800e9_o.jpg",
+    "https://farm1.staticflickr.com/33/66979713_85fb7295b9_o.jpg",
+    "https://farm1.staticflickr.com/27/66979789_749922eb9d_o.jpg",
+    "https://farm1.staticflickr.com/29/66980064_c37564b085_o.jpg",
+    "https://farm1.staticflickr.com/33/66980141_91eb49df6a_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party yesterday . i was so happy to see me . we all had a great time . i took a picture of me while i was there . this is a picture of a woman .",
+  "edited_stories": [
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "I had a great time at the party yesterday. There was a photographer to take pictures. We all had a great time. I had my picture taken while I was there. The photographer also took pictures of several of the children.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "there was a photographer to take pictures .",
+        "we all had a great time .",
+        "i had my picture taken while i was there .",
+        "the photographer also took pictures of several of the children ."
+      ]
+    },
+    {
+      "worker_id": "A2TDK0LD62WZ8Y",
+      "edited_story_text": "I had a great time at the party yesterday. I was so happy to see everybody. We all had a great time. I took a picture of people while I was there, including this picture of a woman I know.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "i was so happy to see everybody .",
+        "we all had a great time .",
+        "i took a picture of people while i was there , including this picture of a woman i know ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i had a great time at the party yesterday . we all had a great time . i took a picture of myself while i was there . this is a picture of a woman .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party yesterday .",
+        "we all had a great time .",
+        "i took a picture of myself while i was there .",
+        "this is a picture of a woman ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i had a great time at the birthday party yesterday. i was so happy to see my sister and her kids. we all had a great time. i took a lot of pictures of everyone while i was there.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the birthday party yesterday .",
+        "i was so happy to see my sister and her kids .",
+        "we all had a great time .",
+        "i took a lot of pictures of everyone while i was there ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I had a really great time at the party yesterday. I was so happy to take a selfie at the party. We all had a wonderful time. I took a photo of my niece at the party. She sometimes looks serious in her photos.",
+      "normalized_edited_story_text_sent": [
+        "i had a really great time at the party yesterday .",
+        "i was so happy to take a selfie at the party .",
+        "we all had a wonderful time .",
+        "i took a photo of my niece at the party .",
+        "she sometimes looks serious in her photos ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1445259"
+}

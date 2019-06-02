@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "185024794-185025013-185024509-185024637-185024753",
+  "photo_sequence_ids": [
+    "185024794",
+    "185025013",
+    "185024509",
+    "185024637",
+    "185024753"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the cake was very elegant . the bride and groom were so happy . the couple was very happy . the reception was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the wedding was beautiful . There was a lot of Red Bull. The groom and his groomsmen posed. They spoke at the reception.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "there was a lot of red bull .",
+        "the groom and his groomsmen posed .",
+        "they spoke at the reception ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "I was so excited when I got up the morning of my wedding . We got party essentials. Our picture was done with the groom and best man and all  my wedding party.   The bride and groom were so happy . The reception was awesome .",
+      "normalized_edited_story_text_sent": [
+        "i was so excited when i got up the morning of my wedding .",
+        "we got party essentials .",
+        "our picture was done with the groom and best man and all my wedding party .",
+        "the bride and groom were so happy .",
+        "the reception was awesome ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "John was very excited before the wedding. There was a bunch of red bulls and vodka and cigars. all the men got dressed for a nice picture. the wedding was beautiful . the cake was very elegant . the bride and groom were so happy . the couple was very happy . Robert gave a very good toast. the reception was a success .",
+      "normalized_edited_story_text_sent": [
+        "[male] was very excited before the wedding .",
+        "there was a bunch of red bulls and vodka and cigars .",
+        "all the men got dressed for a nice picture .",
+        "the wedding was beautiful .",
+        "the cake was very elegant .",
+        "the bride and groom were so happy .",
+        "the couple was very happy .",
+        "[male] gave a very good toast .",
+        "the reception was a success ."
+      ]
+    },
+    {
+      "worker_id": "A2PSVYL53CDVJ3",
+      "edited_story_text": "I went to the wedding of David and Maria. In the morning I downed a lot of Red Bull out of my collection. I then took a picture with the other guys, and watched the bride and groom walk down the aisle. I listened to one wedding guest tell a funny story during the reception.",
+      "normalized_edited_story_text_sent": [
+        "i went to the wedding of [male] and [female] .",
+        "in the morning i downed a lot of red bull out of my collection .",
+        "i then took a picture with the other guys , and watched the bride and groom walk down the aisle .",
+        "i listened to one wedding guest tell a funny story during the reception ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the wedding was beautiful and one of a kind . the cake was very elegant and must of costed a fortune. the bride and groom were so happy that everyone had fun. the couple was very happy that their friend gave a great speach . the reception was a success due to all the red bull.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful and one of a kind .",
+        "the cake was very elegant and must of costed a fortune .",
+        "the bride and groom were so happy that everyone had fun .",
+        "the couple was very happy that their friend gave a great speach .",
+        "the reception was a success due to all the red bull ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594192099361",
+  "model": "GLAC"
+}

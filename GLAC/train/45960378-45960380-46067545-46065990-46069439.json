@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "45960378-45960380-46067545-46065990-46069439",
+  "photo_sequence_ids": [
+    "45960378",
+    "45960380",
+    "46067545",
+    "46065990",
+    "46069439"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . the kids were having a great time . the cake was delicious . the food was amazing . the baby was happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family got together for a party . the kids were having a great time . the mom had to put on make up . the food was amazing . the baby was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the kids were having a great time .",
+        "the mom had to put on make up .",
+        "the food was amazing .",
+        "the baby was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a party . She put her make up on and got dressed. The washer was full. Food was cooking . She finally rested.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "she put her make up on and got dressed .",
+        "the washer was full .",
+        "food was cooking .",
+        "she finally rested ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "my family got together for an anniversary party . the kids were having a great time playing with their cousins. the strawberry cake was delicious and a hit with the family. the Mexican food was amazing . the baby was happy to be there as well.",
+      "normalized_edited_story_text_sent": [
+        "my family got together for an anniversary party .",
+        "the kids were having a great time playing with their cousins .",
+        "the strawberry cake was delicious and a hit with the family .",
+        "the mexican food was amazing .",
+        "the baby was happy to be there as well ."
+      ]
+    },
+    {
+      "worker_id": "ACAJFF4MF5S5X",
+      "edited_story_text": "the family got ready for a party . the kids were ready to have a great time . the cake baking in the oven looked delicious . the food came out amazing . the baby was happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family got ready for a party .",
+        "the kids were ready to have a great time .",
+        "the cake baking in the oven looked delicious .",
+        "the food came out amazing .",
+        "the baby was happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family got prepared for a party . kids were playing . the cake had delicious ingredients . the food was delightful . the baby was happy to be surrounded by family .",
+      "normalized_edited_story_text_sent": [
+        "the family got prepared for a party .",
+        "kids were playing .",
+        "the cake had delicious ingredients .",
+        "the food was delightful .",
+        "the baby was happy to be surrounded by family ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1006285",
+  "model": "GLAC"
+}

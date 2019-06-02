@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "2118096031-2118095305-2118873632-2118095921-2118092861",
+  "photo_sequence_ids": [
+    "2118096031",
+    "2118095305",
+    "2118873632",
+    "2118095921",
+    "2118092861"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the statue of the church was amazing . the statues were so intricate . the architecture was amazing . the statues were very interesting . the artwork was beautiful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "We have a great time visiting the cemetery . the graves were so meaningful . the architecture was impressive and historic . the statues told a lot about the era they were from. the art was astounding, everyone should visit.",
+      "normalized_edited_story_text_sent": [
+        "we have a great time visiting the cemetery .",
+        "the graves were so meaningful .",
+        "the architecture was impressive and historic .",
+        "the statues told a lot about the era they were from .",
+        "the art was astounding , everyone should visit ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the statue of the church was amazing . the statues were so intricate .",
+      "normalized_edited_story_text_sent": [
+        "the statue of the church was amazing .",
+        "the statues were so intricate ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the headstones at the cemetery were amazing.  one had a flag next to it.  the night sky made a beautiful backdrop for the cemetery.",
+      "normalized_edited_story_text_sent": [
+        "the headstones at the cemetery were amazing .",
+        "one had a flag next to it .",
+        "the night sky made a beautiful backdrop for the cemetery ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the statue of the church was amazing due to it being made from salt . the statues were so intricate and colorful . the architecture was amazing and very sturdy. the statues were very interesting due to the writings on them . the artwork was beautiful and looked lifelike.",
+      "normalized_edited_story_text_sent": [
+        "the statue of the church was amazing due to it being made from salt .",
+        "the statues were so intricate and colorful .",
+        "the architecture was amazing and very sturdy .",
+        "the statues were very interesting due to the writings on them .",
+        "the artwork was beautiful and looked lifelike ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the statue of the church was great. the statues were so intricate . the architecture was fantastic. the statues were very interesting . the artwork was beautiful .",
+      "normalized_edited_story_text_sent": [
+        "the statue of the church was great .",
+        "the statues were so intricate .",
+        "the architecture was fantastic .",
+        "the statues were very interesting .",
+        "the artwork was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603481848222",
+  "model": "GLAC"
+}

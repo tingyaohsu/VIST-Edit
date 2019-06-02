@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "358759160-358795071-358765928-358785086-358762947",
+  "photo_sequence_ids": [
+    "358759160",
+    "358795071",
+    "358765928",
+    "358785086",
+    "358762947"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/134/358759160_6a4a01e292_o.jpg",
+    "https://farm1.staticflickr.com/134/358795071_e0c198a540_o.jpg",
+    "https://farm1.staticflickr.com/158/358765928_a5346c4f9b_o.jpg",
+    "https://farm1.staticflickr.com/157/358785086_0f11cec201_o.jpg",
+    "https://farm1.staticflickr.com/147/358762947_4f5c52c801_o.jpg"
+  ],
+  "auto_story_text_normalized": "the man was taking pictures of the city . we arrived at the destination . we took a lot of pictures . he took a picture with his friend [male] . the bridge was a great way to end the day .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "the man was taking pictures of the city. we arrived at the destination and took a lot of pictures . he took a picture with his friend [male] . the bridge was a great way to end the day .",
+      "normalized_edited_story_text_sent": [
+        "the man was taking pictures of the city .",
+        "we arrived at the destination and took a lot of pictures .",
+        "he took a picture with his friend [male] .",
+        "the bridge was a great way to end the day ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "I took pictures of the city. We arrived at the destination. We took a lot of pictures. I took pictures with my friend. The bridge was a great way to end the day.",
+      "normalized_edited_story_text_sent": [
+        "i took pictures of the city .",
+        "we arrived at the destination .",
+        "we took a lot of pictures .",
+        "i took pictures with my friend .",
+        "the bridge was a great way to end the day ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "The man was taking pictures our trip through the city. After we arrived at the destination, we took a lot of pictures. He also took a picture with his friend [male]. Seeing the [location] was a great way to end the day .",
+      "normalized_edited_story_text_sent": [
+        "the man was taking pictures our trip through the city .",
+        "after we arrived at the destination , we took a lot of pictures .",
+        "he also took a picture with his friend [male] .",
+        "seeing the [location] was a great way to end the day ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the man was taking pictures as we walked through the city. when he arrived at his destination, he took more pictures of the sites. checking out the bridge was a great way to end the day .",
+      "normalized_edited_story_text_sent": [
+        "the man was taking pictures as we walked through the city .",
+        "when he arrived at his destination , he took more pictures of the sites .",
+        "checking out the bridge was a great way to end the day ."
+      ]
+    },
+    {
+      "worker_id": "ADOVF9SBJJK33",
+      "edited_story_text": "The man was taking pictures of the city . They arrived at the Pacific Coast bike trail. They unloaded our bikes and took lots of photos . They took some group photos. The bridge was a great highlight to end the day .",
+      "normalized_edited_story_text_sent": [
+        "the man was taking pictures of the city .",
+        "they arrived at the pacific coast bike trail .",
+        "they unloaded our bikes and took lots of photos .",
+        "they took some group photos .",
+        "the bridge was a great highlight to end the day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594481790103"
+}

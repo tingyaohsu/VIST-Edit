@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5565618266-5573141447-5573733896-5573746986-5573203941",
+  "photo_sequence_ids": [
+    "5565618266",
+    "5573141447",
+    "5573733896",
+    "5573746986",
+    "5573203941"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5098/5565618266_185e721473_o.jpg",
+    "https://farm6.staticflickr.com/5143/5573141447_2987560060_o.jpg",
+    "https://farm6.staticflickr.com/5296/5573733896_ec24f817d5_o.jpg",
+    "https://farm6.staticflickr.com/5180/5573746986_91a7e22c69_o.jpg",
+    "https://farm6.staticflickr.com/5297/5573203941_229c1c1e75_o.jpg"
+  ],
+  "auto_story_text_normalized": "the first day of the game , we got to go to the big game last weekend . they were all excited to be there . there was a lot of people there . this is a picture of a crowd . the game ended with a performance at the end of the game .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to the very first game last weekend! We were all excited to be there, and there was a lot of people there. This is a picture of the crowd. The game ended with a performance.",
+      "normalized_edited_story_text_sent": [
+        "we went to the very first game last weekend !",
+        "we were all excited to be there , and there was a lot of people there .",
+        "this is a picture of the crowd .",
+        "the game ended with a performance ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the first day of the game , we got to go to the big game last weekend . they were all excited to be there . there was a lot of people there . this is a picture of a crowd . the game ended with a performance at the end of the game  para celebrar en un acto muy hermoso",
+      "normalized_edited_story_text_sent": [
+        "the first day of the game , we got to go to the big game last weekend .",
+        "they were all excited to be there .",
+        "there was a lot of people there .",
+        "this is a picture of a crowd .",
+        "the game ended with a performance at the end of the game para celebrar en un acto muy hermoso"
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "Last weekend, on the first day of the tournament we got to go to the big game . Everyone was excited to be there . there was a lot of people there . Here is a picture of a crowd . the game ended with a performance.",
+      "normalized_edited_story_text_sent": [
+        "last weekend , on the first day of the tournament we got to go to the big game .",
+        "everyone was excited to be there .",
+        "there was a lot of people there .",
+        "here is a picture of a crowd .",
+        "the game ended with a performance ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We got tickets to go to the big game. We were very excited to see the game. There were a lot of people in the stands. The really intense. At the end of the game, there was a special performance.",
+      "normalized_edited_story_text_sent": [
+        "we got tickets to go to the big game .",
+        "we were very excited to see the game .",
+        "there were a lot of people in the stands .",
+        "the really intense .",
+        "at the end of the game , there was a special performance ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The first day of the basketball game, we got great tickets to the big game last weekend.  They were all excited to be there. It was a full house!  This is a picture of a crowd. The game ended with a performance at the end of the game.",
+      "normalized_edited_story_text_sent": [
+        "the first day of the basketball game , we got great tickets to the big game last weekend .",
+        "they were all excited to be there .",
+        "it was a full house !",
+        "this is a picture of a crowd .",
+        "the game ended with a performance at the end of the game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626367932082"
+}

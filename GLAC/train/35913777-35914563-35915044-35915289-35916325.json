@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "35913777-35914563-35915044-35915289-35916325",
+  "photo_sequence_ids": [
+    "35913777",
+    "35914563",
+    "35915044",
+    "35915289",
+    "35916325"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the beach today . there was a lot of people out there . the kids were playing in the sand . the kids were having a great time . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "we went to the river today . there was a lot of people out there . some of us went on the raft into the river. it was beautiful and the weather was perfect to be outdoors. . the kids were having a great time . the whole family was there . they all went fo some lunch afterward.",
+      "normalized_edited_story_text_sent": [
+        "we went to the river today .",
+        "there was a lot of people out there .",
+        "some of us went on the raft into the river .",
+        "it was beautiful and the weather was perfect to be outdoors .",
+        "the kids were having a great time .",
+        "the whole family was there .",
+        "they all went fo some lunch afterward ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went to the beach today . the weather was pitch perfect. the water was crystal clear.",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today .",
+        "the weather was pitch perfect .",
+        "the water was crystal clear ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "Our family went to the river today. There was a lot of people in the cabin with some diving off the river dock. Our family settled with sunbathing on the shore and on the cabin deck.",
+      "normalized_edited_story_text_sent": [
+        "our family went to the river today .",
+        "there was a lot of people in the cabin with some diving off the river dock .",
+        "our family settled with sunbathing on the shore and on the cabin deck ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "we went to the beach today because it was so warm outside . there was a lot of people out there also enjoying the water . the kids were playing in the sand and hanging out . the kids were having a great time and didn\u0027t want to leave . the whole family was there for the entire day .",
+      "normalized_edited_story_text_sent": [
+        "we went to the beach today because it was so warm outside .",
+        "there was a lot of people out there also enjoying the water .",
+        "the kids were playing in the sand and hanging out .",
+        "the kids were having a great time and did n\u0027t want to leave .",
+        "the whole family was there for the entire day ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "we went to trip to the lake house today . there was a lot of people out there . the kids were playing on the water . the kids were having a great time . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "we went to trip to the lake house today .",
+        "there was a lot of people out there .",
+        "the kids were playing on the water .",
+        "the kids were having a great time .",
+        "the whole family was there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "794103",
+  "model": "GLAC"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "6796325717-6796334005-6796330057-6796336623-6796339769",
+  "photo_sequence_ids": [
+    "6796325717",
+    "6796334005",
+    "6796330057",
+    "6796336623",
+    "6796339769"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . others were very happy . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1XWT5Q5HGYR12",
+      "edited_story_text": "Mary was a beautician. Her place of work was having their annual get together. It was a lot of fun and she got to see many friends she doesn\u0027t normally see.",
+      "normalized_edited_story_text_sent": [
+        "[female] was a beautician .",
+        "her place of work was having their annual get together .",
+        "it was a lot of fun and she got to see many friends she does n\u0027t normally see ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the party was a lot of fun . Everyone had matching shirts. Everyone posed for pictures together. It was a good day.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "everyone had matching shirts .",
+        "everyone posed for pictures together .",
+        "it was a good day ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We had a party with all the hair stylists.  Even the guys got into the action.  Everyone had a good time. Can\u0027t you tell?",
+      "normalized_edited_story_text_sent": [
+        "we had a party with all the hair stylists .",
+        "even the guys got into the action .",
+        "everyone had a good time .",
+        "ca n\u0027t you tell ?"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people there . some of them wore Aveda shirts . everyone looked very happy . we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people there .",
+        "some of them wore aveda shirts .",
+        "everyone looked very happy .",
+        "we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629123437977",
+  "model": "GLAC"
+}

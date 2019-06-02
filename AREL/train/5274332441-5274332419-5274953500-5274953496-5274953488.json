@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5274332441-5274332419-5274953500-5274953496-5274953488",
+  "photo_sequence_ids": [
+    "5274332441",
+    "5274332419",
+    "5274953500",
+    "5274953496",
+    "5274953488"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5088/5274332441_7b696b8bde_o.jpg",
+    "https://farm6.staticflickr.com/5006/5274332419_6f3af96e0f_o.jpg",
+    "https://farm6.staticflickr.com/5163/5274953500_b5bc1a4626_o.jpg",
+    "https://farm6.staticflickr.com/5286/5274953496_54467acb37_o.jpg",
+    "https://farm6.staticflickr.com/5248/5274953488_a1253380cc_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the park last weekend . i had a great time at the park . there was a lot of snow on the ground . he is a lot of fun . this is a picture of a man .",
+  "edited_stories": [
+    {
+      "worker_id": "A1UUQNC65P8UU5",
+      "edited_story_text": "I went to the park last weekend and I had a great time. There was a lot of snow on the ground. [Male] is a lot of fun. This is a picture of a man in front of a crowd.",
+      "normalized_edited_story_text_sent": [
+        "i went to the park last weekend and i had a great time .",
+        "there was a lot of snow on the ground .",
+        "[male] is a lot of fun .",
+        "this is a picture of a man in front of a crowd ."
+      ]
+    },
+    {
+      "worker_id": "A3D5BMOC6B7XNQ",
+      "edited_story_text": "I saw man swing a baseball bat.  Baseball is a waiting game then all of a sudden someone slides on home plate and scores.  All that activity can take the strength out of you and you need to rest.  Then you get right back up and play again for the crowd.",
+      "normalized_edited_story_text_sent": [
+        "i saw man swing a baseball bat .",
+        "baseball is a waiting game then all of a sudden someone slides on home plate and scores .",
+        "all that activity can take the strength out of you and you need to rest .",
+        "then you get right back up and play again for the crowd ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "Went to the park last weekend, had a great time, lots of snow. [Brett] is a lot of fun. This is a picture of [Eric].",
+      "normalized_edited_story_text_sent": [
+        "went to the park last weekend , had a great time , lots of snow .",
+        "[male] is a lot of fun .",
+        "this is a picture of [male] ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i visited the baseball park last weekend . i had an awesome time at the park . there was dirt and grass on the field . he is feeling better. this is a photo of a man swinging a bat .",
+      "normalized_edited_story_text_sent": [
+        "i visited the baseball park last weekend .",
+        "i had an awesome time at the park .",
+        "there was dirt and grass on the field .",
+        "he is feeling better .",
+        "this is a photo of a man swinging a bat ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the park last weekend . I had a lot of fun.  . it was a nice day. . he is a lot of fun . this is a picture of a man .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park last weekend .",
+        "i had a lot of fun .",
+        ".",
+        "it was a nice day .",
+        ".",
+        "he is a lot of fun .",
+        "this is a picture of a man ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625632178504"
+}

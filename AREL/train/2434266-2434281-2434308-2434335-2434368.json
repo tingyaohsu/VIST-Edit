@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "2434266-2434281-2434308-2434335-2434368",
+  "photo_sequence_ids": [
+    "2434266",
+    "2434281",
+    "2434308",
+    "2434335",
+    "2434368"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/3/2434266_0dd3ee5ac0_o.jpg",
+    "https://farm1.staticflickr.com/3/2434281_6ced37f195_o.jpg",
+    "https://farm1.staticflickr.com/2/2434308_052c02fddc_o.jpg",
+    "https://farm1.staticflickr.com/3/2434335_2d7d29dc46_o.jpg",
+    "https://farm1.staticflickr.com/1/2434368_77e7f21676_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last week . it was a lot of fun . it was a very nice day . i had a great time . we had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "last week i attended a wonderful party. it was a lot of fun to see the tree with its decorations. the day was so fun that time just flew by . i went outdoors and had some fun . we had a lot of fun eating the gingerbread cookies .",
+      "normalized_edited_story_text_sent": [
+        "last week i attended a wonderful party .",
+        "it was a lot of fun to see the tree with its decorations .",
+        "the day was so fun that time just flew by .",
+        "i went outdoors and had some fun .",
+        "we had a lot of fun eating the gingerbread cookies ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i had a great time at the party last week . it was a lot of fun . it was a very nice day . We even made some cookies . we had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "it was a lot of fun .",
+        "it was a very nice day .",
+        "we even made some cookies .",
+        "we had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "I had a great time at the party last week. It was a lot of fun and there was a lot of food. it was a very nice day and the Christmas tree was cute. I had a great time and before I knew it it was almost 5. To end the day, we had fun making ginger bread men.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "it was a lot of fun and there was a lot of food .",
+        "it was a very nice day and the christmas tree was cute .",
+        "i had a great time and before i knew it it was almost 5 .",
+        "to end the day , we had fun making ginger bread men ."
+      ]
+    },
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "i had a great time at the party last week. we were celebrating the Christmas holiday. the time went by fast. i had to wash my feet off with a hose. after that we ate gingerbread cookies.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week .",
+        "we were celebrating the christmas holiday .",
+        "the time went by fast .",
+        "i had to wash my feet off with a hose .",
+        "after that we ate gingerbread cookies ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I had a great time at the party last week! It was a lot of fun, we all had fun and it was a very nice day.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last week !",
+        "it was a lot of fun , we all had fun and it was a very nice day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "61237"
+}

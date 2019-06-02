@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "16326641792-16327542235-16140156360-16140010998-15705142164",
+  "photo_sequence_ids": [
+    "16326641792",
+    "16327542235",
+    "16140156360",
+    "16140010998",
+    "15705142164"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7525/16326641792_6ed6f4060b_o.jpg",
+    "https://farm8.staticflickr.com/7471/16327542235_82e0f7d764_o.jpg",
+    "https://farm8.staticflickr.com/7545/16140156360_1cb48f0564_o.jpg",
+    "https://farm8.staticflickr.com/7516/16140010998_baa3339df1_o.jpg",
+    "https://farm8.staticflickr.com/7572/15705142164_ff875d41db_o.jpg"
+  ],
+  "auto_story_text_normalized": "there was a lot of people there . the police were there to support the cause . there were a lot of people there . we had a lot of fun there . the police were on the way to the end of the parade .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "there was a lot of people there including some police to keep the peace. the police were also there to support the cause. there were a lot of people marching in the streets there. we had a lot of fun there and came out to support the cause. marchers politely made way for bus traffic to get through.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of people there including some police to keep the peace .",
+        "the police were also there to support the cause .",
+        "there were a lot of people marching in the streets there .",
+        "we had a lot of fun there and came out to support the cause .",
+        "marchers politely made way for bus traffic to get through ."
+      ]
+    },
+    {
+      "worker_id": "A34EIXOWQY9383",
+      "edited_story_text": "There were a lot of people there, and we had tons of fun. The police were there to support the cause and were seen up until the end of the parade.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people there , and we had tons of fun .",
+        "the police were there to support the cause and were seen up until the end of the parade ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "there were a lot of people there, and we all had lots of fun. the police were there to support the cause. they were on the way to the end of the parade .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people there , and we all had lots of fun .",
+        "the police were there to support the cause .",
+        "they were on the way to the end of the parade ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "There was a lot of people there at the pride rally. The police were there to support the cause which was great. The police ended the rally in an amazing way.",
+      "normalized_edited_story_text_sent": [
+        "there was a lot of people there at the pride rally .",
+        "the police were there to support the cause which was great .",
+        "the police ended the rally in an amazing way ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "we all went to a peaceful demonstration. there was a lot of people there . the police were there to support the cause . Many people support this cause . we had a lot of fun there . the police were on the way to the end of the parade and made sure we all stayed safe.",
+      "normalized_edited_story_text_sent": [
+        "we all went to a peaceful demonstration .",
+        "there was a lot of people there .",
+        "the police were there to support the cause .",
+        "many people support this cause .",
+        "we had a lot of fun there .",
+        "the police were on the way to the end of the parade and made sure we all stayed safe ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157650387632771"
+}

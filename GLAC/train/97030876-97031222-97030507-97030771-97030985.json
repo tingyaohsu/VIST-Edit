@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "97030876-97031222-97030507-97030771-97030985",
+  "photo_sequence_ids": [
+    "97030876",
+    "97031222",
+    "97030507",
+    "97030771",
+    "97030985"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the plane was ready for the day . the pilot was ready to go . he was excited . he was going to be a good idea . the helicopter was coming .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the plane was ready for the day but the people were not . the pilot was ready to go but had to wait for the passangers . he was excited that he was flying again. he was going to be a good pilot and wait for the passangers . the helicopter was coming in case the airplane could not fly.",
+      "normalized_edited_story_text_sent": [
+        "the plane was ready for the day but the people were not .",
+        "the pilot was ready to go but had to wait for the passangers .",
+        "he was excited that he was flying again .",
+        "he was going to be a good pilot and wait for the passangers .",
+        "the helicopter was coming in case the airplane could not fly ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "We took the motor home on a trip. The kids went down the snowy mountain. We got great pictures. The mountains were beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we took the motor home on a trip .",
+        "the kids went down the snowy mountain .",
+        "we got great pictures .",
+        "the mountains were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We took our old RV out to the white sands dessert and had a blast.  Look at the nice mountains!!!",
+      "normalized_edited_story_text_sent": [
+        "we took our old rv out to the white sands dessert and had a blast .",
+        "look at the nice mountains !!!"
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the camper was ready for the day. the driver was excited and ready to go. it was a good idea.",
+      "normalized_edited_story_text_sent": [
+        "the camper was ready for the day .",
+        "the driver was excited and ready to go .",
+        "it was a good idea ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the plane was ready for the day . the pilot was ready to go . he was excited . he was going to be a good idea . the helicopter was coming .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the plane was ready for the day .",
+        "the pilot was ready to go .",
+        "he was excited .",
+        "he was going to be a good idea .",
+        "the helicopter was coming ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594061082572",
+  "model": "GLAC"
+}

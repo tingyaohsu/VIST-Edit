@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4250762445-4246982857-4247759818-4247760126-4247760760",
+  "photo_sequence_ids": [
+    "4250762445",
+    "4246982857",
+    "4247759818",
+    "4247760126",
+    "4247760760"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for the wedding . the bride and groom were very happy . the family was so excited to be there . the whole family was there . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The whole family gathered for the wedding. The bride and groom were really happy, and the family was so excited to be there for them. The delicious food didn\u0027t hurt, either.",
+      "normalized_edited_story_text_sent": [
+        "the whole family gathered for the wedding .",
+        "the bride and groom were really happy , and the family was so excited to be there for them .",
+        "the delicious food did n\u0027t hurt , either ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "family came from near and far for my sister\u0027s wedding in alaska. the bride and groom planned the event very carefully. everyone was excited to be there and to enjoy time together. the whole family managed to show up. everyone agreed that the food was delicious and the event was a success.",
+      "normalized_edited_story_text_sent": [
+        "family came from near and far for my sister \u0027s wedding in alaska .",
+        "the bride and groom planned the event very carefully .",
+        "everyone was excited to be there and to enjoy time together .",
+        "the whole family managed to show up .",
+        "everyone agreed that the food was delicious and the event was a success ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the family and extended family gathered for the wedding in the bride\u0027s hometown . the bride and groom were very happy and had spent a lot of money on the event . the family was so excited to be there . the whole family was there . the food was delicious, and was prepared by a famous chef .",
+      "normalized_edited_story_text_sent": [
+        "the family and extended family gathered for the wedding in the bride \u0027s hometown .",
+        "the bride and groom were very happy and had spent a lot of money on the event .",
+        "the family was so excited to be there .",
+        "the whole family was there .",
+        "the food was delicious , and was prepared by a famous chef ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family gathered by the plane. the people were very happy . the family was so excited to be together . the whole family was there . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered by the plane .",
+        "the people were very happy .",
+        "the family was so excited to be together .",
+        "the whole family was there .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "it was freezing outside, but everyone was having a good time inside. great food and company.",
+      "normalized_edited_story_text_sent": [
+        "it was freezing outside , but everyone was having a good time inside .",
+        "great food and company ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623019037905",
+  "model": "GLAC"
+}

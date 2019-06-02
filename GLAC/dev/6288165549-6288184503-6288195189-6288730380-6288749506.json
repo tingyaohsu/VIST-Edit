@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "6288165549-6288184503-6288195189-6288730380-6288749506",
+  "photo_sequence_ids": [
+    "6288165549",
+    "6288184503",
+    "6288195189",
+    "6288730380",
+    "6288749506"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people dressed up . some of the performers were very talented . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people dressed up . some of the performers were very talented . i had a great time . the winner was very good .\r\rI couldn\u0027t believe how fun the parade was. So many people dressed up. The performers were so talented. I had such a wonderful time. I was also impressed by the winner!",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the performers were very talented .",
+        "i had a great time .",
+        "the winner was very good .",
+        "i could n\u0027t believe how fun the parade was .",
+        "so many people dressed up .",
+        "the performers were so talented .",
+        "i had such a wonderful time .",
+        "i was also impressed by the winner !"
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The parade was a lot of fun. There were a lot of people wore costumes, and some of the performers were very talented. I had a great time. The winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people wore costumes , and some of the performers were very talented .",
+        "i had a great time .",
+        "the winner was very good ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was a good source of recreation . many people dressed for the occasion . some of the performers were very skilled . i enjoyed the parade . the winner was exceptional .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a good source of recreation .",
+        "many people dressed for the occasion .",
+        "some of the performers were very skilled .",
+        "i enjoyed the parade .",
+        "the winner was exceptional ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the parade was a lot of fun . there were a lot of people dressed up . some of the performers were the best ever . i had a great time . the winner was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of the performers were the best ever .",
+        "i had a great time .",
+        "the winner was very good ."
+      ]
+    },
+    {
+      "worker_id": "A3VVR8NR3ED04C",
+      "edited_story_text": "The parade was a lot of fun and there were a lot of people dressed up. Some of the performers were very talented. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun and there were a lot of people dressed up .",
+        "some of the performers were very talented .",
+        "i had a great time ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627892108009",
+  "model": "GLAC"
+}

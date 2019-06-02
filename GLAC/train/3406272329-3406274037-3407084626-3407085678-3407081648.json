@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "3406272329-3406274037-3407084626-3407085678-3407081648",
+  "photo_sequence_ids": [
+    "3406272329",
+    "3406274037",
+    "3407084626",
+    "3407085678",
+    "3407081648"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers were ready for the day . they were all excited to be part of the military . the soldiers were very proud of the troops . the soldiers were also given a flag . the soldier was so happy to be there .",
+  "edited_stories": [
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The soldiers sat at ease. They appeared to all be part of the military. Assignments were handed out. Not all the soldiers appear to be happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers sat at ease .",
+        "they appeared to all be part of the military .",
+        "assignments were handed out .",
+        "not all the soldiers appear to be happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the soldiers were ready for the day . they were all excited to be part of the military .They soluted. The man showed the men the instructions. They all wore black helmets.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were ready for the day .",
+        "they were all excited to be part of the military .",
+        "they soluted .",
+        "the man showed the men the instructions .",
+        "they all wore black helmets ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the soldiers were sitting and ready for the day . they were all seemed excited to be part of the military . the soldier was very proud of the rest of his troops. the soldier was so happy to be there together.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were sitting and ready for the day .",
+        "they were all seemed excited to be part of the military .",
+        "the soldier was very proud of the rest of his troops .",
+        "the soldier was so happy to be there together ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The military leaders were ready for the soldier presentation. The soldiers showed their training and their dedicated to serving their country. They gathered for prayer and for pictures.",
+      "normalized_edited_story_text_sent": [
+        "the military leaders were ready for the soldier presentation .",
+        "the soldiers showed their training and their dedicated to serving their country .",
+        "they gathered for prayer and for pictures ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "They soldiers were excited and proud to be part of the military. They were given a flag, then they were ready for the day.",
+      "normalized_edited_story_text_sent": [
+        "they soldiers were excited and proud to be part of the military .",
+        "they were given a flag , then they were ready for the day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157616261541878",
+  "model": "GLAC"
+}

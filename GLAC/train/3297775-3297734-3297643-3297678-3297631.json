@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "3297775-3297734-3297643-3297678-3297631",
+  "photo_sequence_ids": [
+    "3297775",
+    "3297734",
+    "3297643",
+    "3297678",
+    "3297631"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was crowded with people . the streets were filled with activity . the street vendors were busy . the shops were busy . the stores were full of people .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the city was crowded with people . the streets were filled with activities . the street vendors were busy . the shops were busy . the trashcan was on fire .",
+      "normalized_edited_story_text_sent": [
+        "the city was crowded with people .",
+        "the streets were filled with activities .",
+        "the street vendors were busy .",
+        "the shops were busy .",
+        "the trashcan was on fire ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The city streets were crowded and filled with activity. The shops were all busy and full of people. There were many street vendors.",
+      "normalized_edited_story_text_sent": [
+        "the city streets were crowded and filled with activity .",
+        "the shops were all busy and full of people .",
+        "there were many street vendors ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the city was crowded with people and the streets were filled with activity. the street vendors and the shops were busy. the stores were full of people.",
+      "normalized_edited_story_text_sent": [
+        "the city was crowded with people and the streets were filled with activity .",
+        "the street vendors and the shops were busy .",
+        "the stores were full of people ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the city was crowded with people . the streets were filled with activity . the street vendors were busy . the shops were teeming with customers . it was a busy night!",
+      "normalized_edited_story_text_sent": [
+        "the city was crowded with people .",
+        "the streets were filled with activity .",
+        "the street vendors were busy .",
+        "the shops were teeming with customers .",
+        "it was a busy night !"
+      ]
+    },
+    {
+      "worker_id": "A2XKIP0PJ3FJ20",
+      "edited_story_text": "Last night the city was crowded with people and the streets were filled with activity. The street vendors were busy and the shops were full of people.",
+      "normalized_edited_story_text_sent": [
+        "last night the city was crowded with people and the streets were filled with activity .",
+        "the street vendors were busy and the shops were full of people ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "82746",
+  "model": "GLAC"
+}

@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "7770114634-7769899940-7769963814-7769882490-7769830012",
+  "photo_sequence_ids": [
+    "7770114634",
+    "7769899940",
+    "7769963814",
+    "7769882490",
+    "7769830012"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8282/7770114634_44b2e00c84_o.jpg",
+    "https://farm9.staticflickr.com/8434/7769899940_93ba830d65_o.jpg",
+    "https://farm8.staticflickr.com/7133/7769963814_6c74df2dee_o.jpg",
+    "https://farm9.staticflickr.com/8298/7769882490_19b5fd86e7_o.jpg",
+    "https://farm9.staticflickr.com/8437/7769830012_3081dbd822_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a woman . she was so excited to graduate . she was so happy to be graduating from college . all of the students were very proud . she was very proud of her accomplishments .",
+  "edited_stories": [
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "This is [woman] . she was so excited to graduate . she was so happy to be graduating from college she threw  her cap in the air . all of the students were very proud . she was very proud of her accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "this is [female] .",
+        "she was so excited to graduate .",
+        "she was so happy to be graduating from college she threw her cap in the air .",
+        "all of the students were very proud .",
+        "she was very proud of her accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "this is a picture of a woman who was so excited to graduate . she was so happy to be graduating from college . all of the students were very proud of themselves. she was very proud of her accomplishments  and couldn\u0027t wait to start working.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a woman who was so excited to graduate .",
+        "she was so happy to be graduating from college .",
+        "all of the students were very proud of themselves .",
+        "she was very proud of her accomplishments and could n\u0027t wait to start working ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of [female]. She was so excited to graduate from college! All of the students were proud, and [female] was proud of her accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of [female] .",
+        "she was so excited to graduate from college !",
+        "all of the students were proud , and [female] was proud of her accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a woman. She was so excited to graduate from college . all of the students were very proud and happy that they are done with school.  She was very proud of her accomplishments .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a woman .",
+        "she was so excited to graduate from college .",
+        "all of the students were very proud and happy that they are done with school .",
+        "she was very proud of her accomplishments ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The woman opened up her graduation robes. She put on her robes and prepared to graduate. She was very excited to graduate. Everyone was very excited to graduate and threw their hats in the air. She was very proud of her accomplishments.",
+      "normalized_edited_story_text_sent": [
+        "the woman opened up her graduation robes .",
+        "she put on her robes and prepared to graduate .",
+        "she was very excited to graduate .",
+        "everyone was very excited to graduate and threw their hats in the air .",
+        "she was very proud of her accomplishments ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631041082404"
+}

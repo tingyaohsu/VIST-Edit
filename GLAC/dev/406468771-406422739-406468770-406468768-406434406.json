@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "406468771-406422739-406468770-406468768-406434406",
+  "photo_sequence_ids": [
+    "406468771",
+    "406422739",
+    "406468770",
+    "406468768",
+    "406434406"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the lady was very happy to be at the event . she was so excited to see the men . the women were dressed as a flag . the man was also in the military . the soldiers were all ready for the ceremony .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David saw that the lady was very happy to be at the event . she was so excited to see the men . the women were dressed as a flag . the man was also in the military . the soldiers were all ready for the ceremony .",
+      "normalized_edited_story_text_sent": [
+        "[male] saw that the lady was very happy to be at the event .",
+        "she was so excited to see the men .",
+        "the women were dressed as a flag .",
+        "the man was also in the military .",
+        "the soldiers were all ready for the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the lady was very happy to be invited . she was looking forward to meeting men at the event . the women were dressed as a proper as a flag . one man was a soldier . the military men were all ready for the ceremony .",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be invited .",
+        "she was looking forward to meeting men at the event .",
+        "the women were dressed as a proper as a flag .",
+        "one man was a soldier .",
+        "the military men were all ready for the ceremony ."
+      ]
+    },
+    {
+      "worker_id": "A3JPYCC2U4D9CZ",
+      "edited_story_text": "the lady in glasses was very happy to be at the event . she was so excited to see the men of the family . the women were dressed up for the photo as a flag. the man was also in the military . the soldiers were all ready for the ceremony and were standing at attention .",
+      "normalized_edited_story_text_sent": [
+        "the lady in glasses was very happy to be at the event .",
+        "she was so excited to see the men of the family .",
+        "the women were dressed up for the photo as a flag .",
+        "the man was also in the military .",
+        "the soldiers were all ready for the ceremony and were standing at attention ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the lady was very happy to be at the event . The boys lined up for a picture. They posed with long black coats and hats. The family posed together.",
+      "normalized_edited_story_text_sent": [
+        "the lady was very happy to be at the event .",
+        "the boys lined up for a picture .",
+        "they posed with long black coats and hats .",
+        "the family posed together ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we were really happy to be at the event. there were several old photographs on display from various historic figures. it really made us feel closer to the cause when we remembered what our ancestors fought for. it was a really impactful assembly.",
+      "normalized_edited_story_text_sent": [
+        "we were really happy to be at the event .",
+        "there were several old photographs on display from various historic figures .",
+        "it really made us feel closer to the cause when we remembered what our ancestors fought for .",
+        "it was a really impactful assembly ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594563077356",
+  "model": "GLAC"
+}

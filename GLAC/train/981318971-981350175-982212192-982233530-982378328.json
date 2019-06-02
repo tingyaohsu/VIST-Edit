@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "981318971-981350175-982212192-982233530-982378328",
+  "photo_sequence_ids": [
+    "981318971",
+    "981350175",
+    "982212192",
+    "982233530",
+    "982378328"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family is having a great time at the park . the kids are playing in the yard . the boy is enjoying the day . the baby is taking a picture . the boys are having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family is having a great time at the park . the kids are playing in the yard .",
+      "normalized_edited_story_text_sent": [
+        "the family is having a great time at the park .",
+        "the kids are playing in the yard ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family is having a great time together. The kids played outside and in the kitchen. the connected carts together for a ride.",
+      "normalized_edited_story_text_sent": [
+        "the family is having a great time together .",
+        "the kids played outside and in the kitchen .",
+        "the connected carts together for a ride ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family had a good time . the kids first played in the yard . everyone then enjoyed time in the park . someone took a picture of the baby . the boys played .",
+      "normalized_edited_story_text_sent": [
+        "the family had a good time .",
+        "the kids first played in the yard .",
+        "everyone then enjoyed time in the park .",
+        "someone took a picture of the baby .",
+        "the boys played ."
+      ]
+    },
+    {
+      "worker_id": "A197GEXK2G2RA",
+      "edited_story_text": "We took the kids to a D.I.Y. camp outside of town. They each built a cart and then built connectors to link up all of the carts. When they were all done the instructor pulled them around the camp. They had a good time.",
+      "normalized_edited_story_text_sent": [
+        "we took the kids to a d.i.y. camp outside of town .",
+        "they each built a cart and then built connectors to link up all of the carts .",
+        "when they were all done the instructor pulled them around the camp .",
+        "they had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We all had a fun time building wood creations.  We built boxes and carts to play in.  Cannot wait to go back next year!!!",
+      "normalized_edited_story_text_sent": [
+        "we all had a fun time building wood creations .",
+        "we built boxes and carts to play in .",
+        "can not wait to go back next year !!!"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601163302429",
+  "model": "GLAC"
+}

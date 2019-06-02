@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "58413375-58413417-58413455-58413542-58413633",
+  "photo_sequence_ids": [
+    "58413375",
+    "58413417",
+    "58413455",
+    "58413542",
+    "58413633"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/26/58413375_8e1a589620_o.jpg",
+    "https://farm1.staticflickr.com/30/58413417_6af7ed8e65_o.jpg",
+    "https://farm1.staticflickr.com/28/58413455_5646fd857f_o.jpg",
+    "https://farm1.staticflickr.com/25/58413542_6d607e6558_o.jpg",
+    "https://farm1.staticflickr.com/27/58413633_a3fd6ad08c_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the festival . there were a lot of people there . the crowd gathered to watch the fireworks . there were many people there . i had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the festival. There were a lot of people there. The crowd gathered to watch the fireworks, and there were so many people there. I had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "there were a lot of people there .",
+        "the crowd gathered to watch the fireworks , and there were so many people there .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "we had a great time at the festival . it was a beautiful day . the crowd gathered to watch the show . there were many people there . i had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "it was a beautiful day .",
+        "the crowd gathered to watch the show .",
+        "there were many people there .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We all went to the history festival together. There was a lot of people at the festival. We all gathered together to watch a special performance. The performance was a little bit romantic. I had a great time at the history festival.",
+      "normalized_edited_story_text_sent": [
+        "we all went to the history festival together .",
+        "there was a lot of people at the festival .",
+        "we all gathered together to watch a special performance .",
+        "the performance was a little bit romantic .",
+        "i had a great time at the history festival ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we have a great time at the festival . there are a lot of people there . the crowd gather to watch the fireworks . there are many people there . i have a great time there .",
+      "normalized_edited_story_text_sent": [
+        "we have a great time at the festival .",
+        "there are a lot of people there .",
+        "the crowd gather to watch the fireworks .",
+        "there are many people there .",
+        "i have a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "we had a incredible time at the festival . there were more people there . the crowd assembled  to watch the fireworks . there were many people there . i had a awesome time there .",
+      "normalized_edited_story_text_sent": [
+        "we had a incredible time at the festival .",
+        "there were more people there .",
+        "the crowd assembled to watch the fireworks .",
+        "there were many people there .",
+        "i had a awesome time there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1266780"
+}

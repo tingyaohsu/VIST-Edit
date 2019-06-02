@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5251232681-5251230503-5251834766-5251835080-5251230995",
+  "photo_sequence_ids": [
+    "5251232681",
+    "5251230503",
+    "5251834766",
+    "5251835080",
+    "5251230995"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5164/5251232681_d7927b5b12_o.jpg",
+    "https://farm6.staticflickr.com/5287/5251230503_da40598dc5_o.jpg",
+    "https://farm6.staticflickr.com/5090/5251834766_befdcbe2ba_o.jpg",
+    "https://farm6.staticflickr.com/5001/5251835080_f805ac7d66_o.jpg",
+    "https://farm6.staticflickr.com/5044/5251230995_359922dd5d_o.jpg"
+  ],
+  "auto_story_text_normalized": "[male] and [male] are getting ready for the big party . we had a lot of fun . we all had a great time . the man is having a good time . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "[male] and [male] are getting ready for the big party! Everyone was drinking and talking and having a great time! We ALL had a GREAT time, it was awesome! Even [Male] was having the time of his life! Look at these smiles, we had so much fun!",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] are getting ready for the big party !",
+        "everyone was drinking and talking and having a great time !",
+        "we all had a great time , it was awesome !",
+        "even [male] was having the time of his life !",
+        "look at these smiles , we had so much fun !"
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "[male] and [male] are getting ready for the big party . we had a lot of fun . we all had a great time . the man is having a good time . We all laughed a ton.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] are getting ready for the big party .",
+        "we had a lot of fun .",
+        "we all had a great time .",
+        "the man is having a good time .",
+        "we all laughed a ton ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "[Male] and [male] got ready for the big party. We had a lot of fun, and everyone had a great time. [Male] had a good time.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] got ready for the big party .",
+        "we had a lot of fun , and everyone had a great time .",
+        "[male] had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "[jayson] and [Chris] are getting ready for the big party, everyone had a great time!",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] are getting ready for the big party , everyone had a great time !"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "[male] and [male] are getting ready for the party. All our friends came to the party. Everyone had a great time together. [male] had fun, too. We were all glad we celebrated together.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] are getting ready for the party .",
+        "all our friends came to the party .",
+        "everyone had a great time together .",
+        "[male] had fun , too .",
+        "we were all glad we celebrated together ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625576160174"
+}

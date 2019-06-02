@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "2871013-2870959-2870759-2870734-2870652",
+  "photo_sequence_ids": [
+    "2871013",
+    "2870959",
+    "2870759",
+    "2870734",
+    "2870652"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "[ male ] and i went to a party . we had a lot of fun . there were a lot of people dancing . some of them were really good . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "ABJEQJY0SSXX6",
+      "edited_story_text": "[ male ] and i went to a party, he only had one drink all night . we had a lot of fun, but Lisa had to sit down with her wine because her feet were hurting . there were a lot of people dancing, but not Lisa, she was trying on different pairs of gloves in front of the tv .  Mary was helping the kids make drinks and some of them were really good . everyone had a great time, maria even tried to smoke a cigar .",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to a party , he only had one drink all night .",
+        "we had a lot of fun , but [female] had to sit down with her wine because her feet were hurting .",
+        "there were a lot of people dancing , but not [female] , she was trying on different pairs of gloves in front of the tv .",
+        "[female] was helping the kids make drinks and some of them were really good .",
+        "everyone had a great time , [female] even tried to smoke a cigar ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "[ male ] and i went to a party . we had a lot of fun . there were a lot of people dancing . he and i danced a little. some of them were really good . everyone enjoyed their time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to a party .",
+        "we had a lot of fun .",
+        "there were a lot of people dancing .",
+        "he and i danced a little .",
+        "some of them were really good .",
+        "everyone enjoyed their time ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "[ male ] and i went to a party . we had a lot of fun dressing up . Mary wore a long sleeved black glove there. some of the presents were really good . everyone had a great time socializing together .",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to a party .",
+        "we had a lot of fun dressing up .",
+        "[female] wore a long sleeved black glove there .",
+        "some of the presents were really good .",
+        "everyone had a great time socializing together ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "[ male ] and i went to a party . we had a ton of fun . there were a lot of people dancing around . some of them were really good . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to a party .",
+        "we had a ton of fun .",
+        "there were a lot of people dancing around .",
+        "some of them were really good .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "[ male ] and i went to a party that was hosted by a few of his friends . we had a lot of fun . there were a lot of people dancing, singing and playing the guitar . some of them were really impressively good, and a few were professional musicians . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and i went to a party that was hosted by a few of his friends .",
+        "we had a lot of fun .",
+        "there were a lot of people dancing , singing and playing the guitar .",
+        "some of them were really impressively good , and a few were professional musicians .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "71769",
+  "model": "GLAC"
+}

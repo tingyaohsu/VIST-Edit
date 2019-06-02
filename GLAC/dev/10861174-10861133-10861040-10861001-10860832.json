@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "10861174-10861133-10861040-10861001-10860832",
+  "photo_sequence_ids": [
+    "10861174",
+    "10861133",
+    "10861040",
+    "10861001",
+    "10860832"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the local park . the scenery was beautiful . the trees were very tall and peaceful . the flowers were blooming and bright . the kids enjoyed the day at the market .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "Our family went on a trip to the local park. The scenery was beautiful--the trees were very tall and peaceful. The flowers were blooming and bright. The kids enjoyed the day at the market!",
+      "normalized_edited_story_text_sent": [
+        "our family went on a trip to the local park .",
+        "the scenery was beautiful -- the trees were very tall and peaceful .",
+        "the flowers were blooming and bright .",
+        "the kids enjoyed the day at the market !"
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family went on a trip to the local park . the scenery was beautiful and lush. the trees were very tall . the flowers were blooming and bright in color . the kids enjoyed the day at the market after the park.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the local park .",
+        "the scenery was beautiful and lush .",
+        "the trees were very tall .",
+        "the flowers were blooming and bright in color .",
+        "the kids enjoyed the day at the market after the park ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "my family went together to the park for the afternoon.  the lake was amazing.  The hills and trees were wonderful to take in. everyone had a great time together. we went to a local market and got some flowers at the end of the day.",
+      "normalized_edited_story_text_sent": [
+        "my family went together to the park for the afternoon .",
+        "the lake was amazing .",
+        "the hills and trees were wonderful to take in .",
+        "everyone had a great time together .",
+        "we went to a local market and got some flowers at the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "A1F01FVEPYCPHO",
+      "edited_story_text": "Our family went on a trip to the local park and the scenery was so beautiful. the trees were very tall and peaceful and flowers were blooming and bright. My kids enjoyed the day at the market .",
+      "normalized_edited_story_text_sent": [
+        "our family went on a trip to the local park and the scenery was so beautiful .",
+        "the trees were very tall and peaceful and flowers were blooming and bright .",
+        "my kids enjoyed the day at the market ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the local park was beautiful . the scenery was beautiful . the wall was very tall and peaceful . the treeswere blooming and bright . the people enjoyed the day at the market .",
+      "normalized_edited_story_text_sent": [
+        "the local park was beautiful .",
+        "the scenery was beautiful .",
+        "the wall was very tall and peaceful .",
+        "the treeswere blooming and bright .",
+        "the people enjoyed the day at the market ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "270479",
+  "model": "GLAC"
+}

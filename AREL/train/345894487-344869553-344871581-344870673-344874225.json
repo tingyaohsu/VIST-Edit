@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "345894487-344869553-344871581-344870673-344874225",
+  "photo_sequence_ids": [
+    "345894487",
+    "344869553",
+    "344871581",
+    "344870673",
+    "344874225"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/137/345894487_de87c5e2d4_o.jpg",
+    "https://farm1.staticflickr.com/160/344869553_8acae46ebe_o.jpg",
+    "https://farm1.staticflickr.com/128/344871581_c7d2538e47_o.jpg",
+    "https://farm1.staticflickr.com/160/344870673_158e5063a2_o.jpg",
+    "https://farm1.staticflickr.com/143/344874225_c115b968b2_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the market to buy some food . there was a lot of food there . the food was delicious . i had a lot of food there . we had a great meal at the end of the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TDK0LD62WZ8Y",
+      "edited_story_text": "We went to a restaurant to buy some food. There were many items on the menu. The food we ordered was delicious, and I ate a lot of it. We had a great meal at the end of the day.",
+      "normalized_edited_story_text_sent": [
+        "we went to a restaurant to buy some food .",
+        "there were many items on the menu .",
+        "the food we ordered was delicious , and i ate a lot of it .",
+        "we had a great meal at the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "we went to Johnnys grill to eat. they have quite a selection. the food was delicious . i had a bacon cheeseburger . we had a great meal to end the day .",
+      "normalized_edited_story_text_sent": [
+        "we went to johnnys grill to eat .",
+        "they have quite a selection .",
+        "the food was delicious .",
+        "i had a bacon cheeseburger .",
+        "we had a great meal to end the day ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we went to the market to buy some food . there was a lot of food there . the food was delicious . i had a lot of food there . we had a sandwich at the end of the day .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to buy some food .",
+        "there was a lot of food there .",
+        "the food was delicious .",
+        "i had a lot of food there .",
+        "we had a sandwich at the end of the day ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "we went to the market to buy some food. There was so many choices. All of the food looked delicious. We had a great meal.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to buy some food .",
+        "there was so many choices .",
+        "all of the food looked delicious .",
+        "we had a great meal ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we went to the market to buy some food . there was a lot of food there and the food was delicious .  We had a great meal at the end of the day .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to buy some food .",
+        "there was a lot of food there and the food was delicious .",
+        "we had a great meal at the end of the day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594458032284"
+}

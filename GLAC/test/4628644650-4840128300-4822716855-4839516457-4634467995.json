@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4628644650-4840128300-4822716855-4839516457-4634467995",
+  "photo_sequence_ids": [
+    "4628644650",
+    "4840128300",
+    "4822716855",
+    "4839516457",
+    "4634467995"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready to start the wedding . the bride and groom are so happy together . the ceremony was beautiful . the couple was very happy for their first dance . the couple was so excited for the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "lisa and david are preparing to begin their wedding.  they are very happy and thrilled about today.  the wedding ceremony was lovely.  the couple was ecstatic about their first dance.",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] are preparing to begin their wedding .",
+        "they are very happy and thrilled about today .",
+        "the wedding ceremony was lovely .",
+        "the couple was ecstatic about their first dance ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "This bride and groom had a fun filled wedding without all the sappiness.",
+      "normalized_edited_story_text_sent": [
+        "this bride and groom had a fun filled wedding without all the sappiness ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The guys wore funny glasses. The bride and groom were silly too. The groomsmen lined up for a picture. It was a happy day.",
+      "normalized_edited_story_text_sent": [
+        "the guys wore funny glasses .",
+        "the bride and groom were silly too .",
+        "the groomsmen lined up for a picture .",
+        "it was a happy day ."
+      ]
+    },
+    {
+      "worker_id": "A2LFM01A16YPKG",
+      "edited_story_text": "David and John goof off before the wedding, while Mary and David are excited to get married. The ceremony was a beautiful and fun affair. David and Mary had a great first dance and hopped out of the chapel.",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] goof off before the wedding , while [female] and [male] are excited to get married .",
+        "the ceremony was a beautiful and fun affair .",
+        "[male] and [female] had a great first dance and hopped out of the chapel ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "the groom and best man being goofy before the ceremony.  Ditto for the bride and groom and finally, the groomsmen.  Seems to be a theme here.  Wonderful wedding for a very happy couple.",
+      "normalized_edited_story_text_sent": [
+        "the groom and best man being goofy before the ceremony .",
+        "ditto for the bride and groom and finally , the groomsmen .",
+        "seems to be a theme here .",
+        "wonderful wedding for a very happy couple ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624110756682",
+  "model": "GLAC"
+}

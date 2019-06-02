@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "58247963-58248016-58248069-58248094-58248257",
+  "photo_sequence_ids": [
+    "58247963",
+    "58248016",
+    "58248069",
+    "58248094",
+    "58248257"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/29/58247963_288fb5a100_o.jpg",
+    "https://farm1.staticflickr.com/33/58248016_cd601d99d8_o.jpg",
+    "https://farm1.staticflickr.com/30/58248069_71dd5e4f87_o.jpg",
+    "https://farm1.staticflickr.com/28/58248094_429bdd4286_o.jpg",
+    "https://farm1.staticflickr.com/27/58248257_2f0f13f187_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to location . the inside of the house was empty . the family decided to take a walk through the woods . they also had a lot of interesting things to see . there was also a large house in the middle of the town .",
+  "edited_stories": [
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "We took a trip to a stone house with a beautiful fireplace inside . The outside had a large deck area that we just had to go see. the family decided to take a walk through the woods . they also had a lot of interesting things to see espeically near the water .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to a stone house with a beautiful fireplace inside .",
+        "the outside had a large deck area that we just had to go see .",
+        "the family decided to take a walk through the woods .",
+        "they also had a lot of interesting things to see espeically near the water ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "We took a trip to an interesting location. The inside of the house was empty. The family decided to take a walk through the woods. They also had a lot of interesting things to view. There also was a large house in the middle of the town.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to an interesting location .",
+        "the inside of the house was empty .",
+        "the family decided to take a walk through the woods .",
+        "they also had a lot of interesting things to view .",
+        "there also was a large house in the middle of the town ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We took a trip to location. The inside of the house was empty. After they toured the house, the family decided to take a walk through the woods. There were a lot of interesting things to see.  They saw a large house in the middle of the city.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to location .",
+        "the inside of the house was empty .",
+        "after they toured the house , the family decided to take a walk through the woods .",
+        "there were a lot of interesting things to see .",
+        "they saw a large house in the middle of the city ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we took a trip to the historic location . the inside of the house felt empty . the family decided to take a walk through the woods . they also had a lot of fascinating things to see . there was also a large home in the middle of the town .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the historic location .",
+        "the inside of the house felt empty .",
+        "the family decided to take a walk through the woods .",
+        "they also had a lot of fascinating things to see .",
+        "there was also a large home in the middle of the town ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "we take a trip to location . the inside of the house is empty . the family decided to took a walk through the woods . they also have a lot of interesting things to saw . there is also a large house in the middle of the town .",
+      "normalized_edited_story_text_sent": [
+        "we take a trip to location .",
+        "the inside of the house is empty .",
+        "the family decided to took a walk through the woods .",
+        "they also have a lot of interesting things to saw .",
+        "there is also a large house in the middle of the town ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1260584"
+}

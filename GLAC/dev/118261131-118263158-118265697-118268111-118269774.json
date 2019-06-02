@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "118261131-118263158-118265697-118268111-118269774",
+  "photo_sequence_ids": [
+    "118261131",
+    "118263158",
+    "118265697",
+    "118268111",
+    "118269774"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the woods today . there was a lot of trees . the horses were very big . the sheep were in the middle of the park . the farm was a good place .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the woods today . there were a lot of trees . the cows were very big . the sheep were in the middle of the park. the farm was a good place to relax.",
+      "normalized_edited_story_text_sent": [
+        "we went to the woods today .",
+        "there were a lot of trees .",
+        "the cows were very big .",
+        "the sheep were in the middle of the park .",
+        "the farm was a good place to relax ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "we went to the woods today . there was a lot of bare trees . the cows on the grass were very big . the sheep were behind the fence of the barn . the woods was a good place .",
+      "normalized_edited_story_text_sent": [
+        "we went to the woods today .",
+        "there was a lot of bare trees .",
+        "the cows on the grass were very big .",
+        "the sheep were behind the fence of the barn .",
+        "the woods was a good place ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "We went to the woods and the farm today. There were lots of trees. We saw a cow. The sheep were in the barn. The farm was a good place to visit.",
+      "normalized_edited_story_text_sent": [
+        "we went to the woods and the farm today .",
+        "there were lots of trees .",
+        "we saw a cow .",
+        "the sheep were in the barn .",
+        "the farm was a good place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A15Y215D57OSO5",
+      "edited_story_text": "We went to the woods today and were stunned by all the trees . There were big cows in the field and goats in the barn. We enjoyed the farm immensely.",
+      "normalized_edited_story_text_sent": [
+        "we went to the woods today and were stunned by all the trees .",
+        "there were big cows in the field and goats in the barn .",
+        "we enjoyed the farm immensely ."
+      ]
+    },
+    {
+      "worker_id": "A2W3KKNN3CAY66",
+      "edited_story_text": "we went for a walk in the woods today . there was a lot of trees and a gravel path . the cows were laying in the grass. the sheep were trying to get out of the barn. the farm was a great place to run and play.",
+      "normalized_edited_story_text_sent": [
+        "we went for a walk in the woods today .",
+        "there was a lot of trees and a gravel path .",
+        "the cows were laying in the grass .",
+        "the sheep were trying to get out of the barn .",
+        "the farm was a great place to run and play ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594091145852",
+  "model": "GLAC"
+}

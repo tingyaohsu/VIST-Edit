@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "8333638083-8333646653-8334705680-8334706984-8333655991",
+  "photo_sequence_ids": [
+    "8333638083",
+    "8333646653",
+    "8334705680",
+    "8334706984",
+    "8333655991"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8078/8333638083_769a60835c_o.jpg",
+    "https://farm9.staticflickr.com/8224/8333646653_0ee8e99184_o.jpg",
+    "https://farm9.staticflickr.com/8363/8334705680_a2c0eacb08_o.jpg",
+    "https://farm9.staticflickr.com/8219/8334706984_0391f518e0_o.jpg",
+    "https://farm9.staticflickr.com/8353/8333655991_10fc7d8caf_o.jpg"
+  ],
+  "auto_story_text_normalized": "there were a lot of people at the party last night . the band played a lot of music . there were a lot of people at the party . they had a lot of fun dancing . we all had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "there were a lot of people at the party last night . the band played a lot of music and had fun dancing.  we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the party last night .",
+        "the band played a lot of music and had fun dancing .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "there were a lot of people at the party last night . the band played a lot of music . there were a lot of people at the party . they had a lot of fun dancing . we all had a great time together and couldn\u0027t wait to do it again.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the party last night .",
+        "the band played a lot of music .",
+        "there were a lot of people at the party .",
+        "they had a lot of fun dancing .",
+        "we all had a great time together and could n\u0027t wait to do it again ."
+      ]
+    },
+    {
+      "worker_id": "A1FLEFIVFT809G",
+      "edited_story_text": "There were a lot of people at the party last night .We had so much fun playing the guitar band video game. We all took turns playing and dancing. we all had a great time and ended the night with some drinks and watching a movie .",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the party last night .",
+        "we had so much fun playing the guitar band video game .",
+        "we all took turns playing and dancing .",
+        "we all had a great time and ended the night with some drinks and watching a movie ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "There were a lot of people at the party last night. The band played a lot of great music. We sat and listened. Some people were dancing.  We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the party last night .",
+        "the band played a lot of great music .",
+        "we sat and listened .",
+        "some people were dancing .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "there were a lot of people at the party last night . the band played a lot of music . we ended the night watching videos.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the party last night .",
+        "the band played a lot of music .",
+        "we ended the night watching videos ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157632405596244"
+}

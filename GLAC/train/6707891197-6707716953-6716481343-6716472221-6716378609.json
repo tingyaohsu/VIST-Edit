@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "6707891197-6707716953-6716481343-6716472221-6716378609",
+  "photo_sequence_ids": [
+    "6707891197",
+    "6707716953",
+    "6716481343",
+    "6716472221",
+    "6716378609"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a great place to visit . the streets were empty . the people were excited . the street was full of people . the streets were busy .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was a great place to visit .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit ."
+      ]
+    },
+    {
+      "worker_id": "A325WS381BHOHH",
+      "edited_story_text": "We found the city to be a great place to visit. At first the streets were empty. But they quickly filled up with excited people. The streets were elbow to elbow at this point. They had to put up crowd barriers the streets were so busy.",
+      "normalized_edited_story_text_sent": [
+        "we found the city to be a great place to visit .",
+        "at first the streets were empty .",
+        "but they quickly filled up with excited people .",
+        "the streets were elbow to elbow at this point .",
+        "they had to put up crowd barriers the streets were so busy ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was a great place to visit . the streets were empty part of the day . Then a bunch of people filled the streets.the people were excited .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit .",
+        "the streets were empty part of the day .",
+        "then a bunch of people filled the streets.the people were excited ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the streets were empty early in the day but barricaded for the protest later. A crowd gathered, some holding signs, but everyone was ready to march. The city was ready for the march and several streets and sidewalks were blocked for them.",
+      "normalized_edited_story_text_sent": [
+        "the streets were empty early in the day but barricaded for the protest later .",
+        "a crowd gathered , some holding signs , but everyone was ready to march .",
+        "the city was ready for the march and several streets and sidewalks were blocked for them ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The city was a great place to visit even though it was cold. When we first arrived, the streets were empty. All of the people who showed up were excited. The street was full of people by the end of the night. The streets had become very busy .",
+      "normalized_edited_story_text_sent": [
+        "the city was a great place to visit even though it was cold .",
+        "when we first arrived , the streets were empty .",
+        "all of the people who showed up were excited .",
+        "the street was full of people by the end of the night .",
+        "the streets had become very busy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628917529603",
+  "model": "GLAC"
+}

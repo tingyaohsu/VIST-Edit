@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "15397603-15397573-15397576-15397568-15397629",
+  "photo_sequence_ids": [
+    "15397603",
+    "15397573",
+    "15397576",
+    "15397568",
+    "15397629"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the zoo . they saw a lot of animals . they even saw a squirrel . they also got a new snake . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "the family went on a trip to Anguilla . they saw a lot of animals . they even saw several monkeys . they even had a nice lunch. they had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to anguilla .",
+        "they saw a lot of animals .",
+        "they even saw several monkeys .",
+        "they even had a nice lunch .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "Our family went on a trip to the zoo. We saw lots of animals. We had fun watching a squirrel run around. We saw tons of monkeys, and even got a new snake. It was a great day.",
+      "normalized_edited_story_text_sent": [
+        "our family went on a trip to the zoo .",
+        "we saw lots of animals .",
+        "we had fun watching a squirrel run around .",
+        "we saw tons of monkeys , and even got a new snake .",
+        "it was a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "my family went on a trip to the zoo where we saw many animals, including a monkey.  afterwards, we ate dinner. we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "my family went on a trip to the zoo where we saw many animals , including a monkey .",
+        "afterwards , we ate dinner .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "our family just went on a trip to the zoo near our beach house. we saw a lot of animals and especially loved the playful monkeys. the monkeys sometimes play a little too rough. When that happens, they have to be calmed down by one of the workers. when we got home, we had a light lunch.",
+      "normalized_edited_story_text_sent": [
+        "our family just went on a trip to the zoo near our beach house .",
+        "we saw a lot of animals and especially loved the playful monkeys .",
+        "the monkeys sometimes play a little too rough .",
+        "when that happens , they have to be calmed down by one of the workers .",
+        "when we got home , we had a light lunch ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the family went on a trip to the zoo in Angulla while on vacation . they saw a lot of animals, including monkeys, macaques and baboons. they even saw a squirrel . they also got to hold a newborn snake . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the zoo in angulla while on vacation .",
+        "they saw a lot of animals , including monkeys , macaques and baboons .",
+        "they even saw a squirrel .",
+        "they also got to hold a newborn snake .",
+        "they had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "371372",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "5110811387-5110811805-5111414034-5110812469-5111414414",
+  "photo_sequence_ids": [
+    "5110811387",
+    "5110811805",
+    "5111414034",
+    "5110812469",
+    "5111414414"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the halloween party was a lot of fun . there were a lot of costumes . some of the costumes were very scary . i had a great time . everyone was having a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the house had many dolls . there were a lot of costumes . some of the costumes were very scary . i was a bit concerned .",
+      "normalized_edited_story_text_sent": [
+        "the house had many dolls .",
+        "there were a lot of costumes .",
+        "some of the costumes were very scary .",
+        "i was a bit concerned ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the halloween party was a lot of fun . a lot of people wore interesting costumes . some of the costumes were very scary . seeing the display of costumed dolls up close was quite an experience . I enjoyed the party .  everyone else also had a good time .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was a lot of fun .",
+        "a lot of people wore interesting costumes .",
+        "some of the costumes were very scary .",
+        "seeing the display of costumed dolls up close was quite an experience .",
+        "i enjoyed the party .",
+        "everyone else also had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the doll was creepy . the doll fell off the chair . the costumes were very scary . she has a kimono on . the doll sat there.",
+      "normalized_edited_story_text_sent": [
+        "the doll was creepy .",
+        "the doll fell off the chair .",
+        "the costumes were very scary .",
+        "she has a kimono on .",
+        "the doll sat there ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the halloween party was interesting . there were a lot of costumes were on display . some of the costumes were intimidating . i had ample fun . everyone was having a good time, even the creepy dolls .",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was interesting .",
+        "there were a lot of costumes were on display .",
+        "some of the costumes were intimidating .",
+        "i had ample fun .",
+        "everyone was having a good time , even the creepy dolls ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The doll was posed in the chair. Another doll was set up with Halloween decorations. One doll is in an Asian dress.",
+      "normalized_edited_story_text_sent": [
+        "the doll was posed in the chair .",
+        "another doll was set up with halloween decorations .",
+        "one doll is in an asian dress ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625231799556",
+  "model": "GLAC"
+}

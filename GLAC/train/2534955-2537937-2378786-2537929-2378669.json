@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "2534955-2537937-2378786-2537929-2378669",
+  "photo_sequence_ids": [
+    "2534955",
+    "2537937",
+    "2378786",
+    "2537929",
+    "2378669"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the park yesterday . there were many people there . the buildings were very old . they were all very nice . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "i went to the park yesterday . there were many cool folks there . the buildings were very old . they were all very nice . they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were many cool folks there .",
+        "the buildings were very old .",
+        "they were all very nice .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "i went to the park yesterday . there were no people there . the buildings were very old but still pretty . they were all very nice . there was a couple taking photos. they were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were no people there .",
+        "the buildings were very old but still pretty .",
+        "they were all very nice .",
+        "there was a couple taking photos .",
+        "they were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "i went to the park yesterday . there were many people there . the buildings were very old . the birds were all very nice . the people were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday .",
+        "there were many people there .",
+        "the buildings were very old .",
+        "the birds were all very nice .",
+        "the people were very happy ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "i went to the park yesterday to go for a run . there were many people there also running. the buildings were very old and needed new paint . the other runners were all very nice to me . they were very happy that someone new was using the park .",
+      "normalized_edited_story_text_sent": [
+        "i went to the park yesterday to go for a run .",
+        "there were many people there also running .",
+        "the buildings were very old and needed new paint .",
+        "the other runners were all very nice to me .",
+        "they were very happy that someone new was using the park ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "i visited the park yesterday . there were so many people there . the buildings in the park were very old . But they were all very nice too . the people in the park were very happy .",
+      "normalized_edited_story_text_sent": [
+        "i visited the park yesterday .",
+        "there were so many people there .",
+        "the buildings in the park were very old .",
+        "but they were all very nice too .",
+        "the people in the park were very happy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "63571",
+  "model": "GLAC"
+}

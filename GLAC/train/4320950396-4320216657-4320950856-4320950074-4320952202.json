@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4320950396-4320216657-4320950856-4320950074-4320952202",
+  "photo_sequence_ids": [
+    "4320950396",
+    "4320216657",
+    "4320950856",
+    "4320950074",
+    "4320952202"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was a beautiful event . the tables were decorated with lights . the table was set up for the reception . the bride and groom were ready to go . the guests were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the wedding was a beautiful event like in the movies . the tables were enlightened with beautiful bulbs . the table was set up like those of royalty . the bride and groom were ready for a life of commitment . the guests were having a wonderful time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event like in the movies .",
+        "the tables were enlightened with beautiful bulbs .",
+        "the table was set up like those of royalty .",
+        "the bride and groom were ready for a life of commitment .",
+        "the guests were having a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the wedding was a beautiful event . the tables were decorated with lights . Bottle service was ready. We enjoyed the sights. We all had a cocktail in the evening.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the tables were decorated with lights .",
+        "bottle service was ready .",
+        "we enjoyed the sights .",
+        "we all had a cocktail in the evening ."
+      ]
+    },
+    {
+      "worker_id": "A250TNE6XDKH4N",
+      "edited_story_text": "the wedding was a beautiful event . the tables were decorated with lights . the table was set up for the reception . the bride and groom were ready to go . the guests were having a great time .The couple head for their honeymoon after the reception is held in the Trump reception hll. there is lots of liquor for the quests. the couple are on the patio of their honeymoon a. the guests are having a good time at the reception",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the tables were decorated with lights .",
+        "the table was set up for the reception .",
+        "the bride and groom were ready to go .",
+        "the guests were having a great time .",
+        "the couple head for their honeymoon after the reception is held in the trump reception hll .",
+        "there is lots of liquor for the quests .",
+        "the couple are on the patio of their honeymoon a. the guests are having a good time at the reception"
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the wedding was a memorable event . the tables were decorated with lights on a train . the table was set up for the reception . the bride and groom were ready to go . the guests were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a memorable event .",
+        "the tables were decorated with lights on a train .",
+        "the table was set up for the reception .",
+        "the bride and groom were ready to go .",
+        "the guests were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was a big event . the tables were decorated with lights . the table was set up for the reception with many bottles of wine. the bride and groom were ready to go . the guests were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a big event .",
+        "the tables were decorated with lights .",
+        "the table was set up for the reception with many bottles of wine .",
+        "the bride and groom were ready to go .",
+        "the guests were having a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623199274325",
+  "model": "GLAC"
+}

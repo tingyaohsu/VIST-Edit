@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "133241105-133241121-133241164-133241189-133241253",
+  "photo_sequence_ids": [
+    "133241105",
+    "133241121",
+    "133241164",
+    "133241189",
+    "133241253"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the office was a mess . the workers were working hard . the guy was doing a good job . the meeting was about to begin . the business was very well done .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the office was a mess due to the move . the workers were working hard to get ready to move to the new office . the guy was doing a good job keeping everything organized. the meeting was about to begin to start the moving plan . the business was very well done and was moving to a new office to keep up with demand.",
+      "normalized_edited_story_text_sent": [
+        "the office was a mess due to the move .",
+        "the workers were working hard to get ready to move to the new office .",
+        "the guy was doing a good job keeping everything organized .",
+        "the meeting was about to begin to start the moving plan .",
+        "the business was very well done and was moving to a new office to keep up with demand ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "I was talking to my friend about the office being a mess . the workers were working hard . the guy was doing a good job and was on the phone. the meeting was about to begin . the business was very well done and our chart was good.",
+      "normalized_edited_story_text_sent": [
+        "i was talking to my friend about the office being a mess .",
+        "the workers were working hard .",
+        "the guy was doing a good job and was on the phone .",
+        "the meeting was about to begin .",
+        "the business was very well done and our chart was good ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the office was a mess . the workers were working hard .",
+      "normalized_edited_story_text_sent": [
+        "the office was a mess .",
+        "the workers were working hard ."
+      ]
+    },
+    {
+      "worker_id": "A2PSVYL53CDVJ3",
+      "edited_story_text": "At my office, it was a disaster. A lot of my co-workers and I were still working hard, attempting to get through the chaos. In this photo you can see two of my-coworkers deep in conversation, and then in this photo my co-worker John was taking a call. He works pretty hard and does a good job. This photo is the layout for the topic that we are about to discuss in our next meeting.",
+      "normalized_edited_story_text_sent": [
+        "at my office , it was a disaster .",
+        "a lot of my co-workers and i were still working hard , attempting to get through the chaos .",
+        "in this photo you can see two of my-coworkers deep in conversation , and then in this photo my co-worker [male] was taking a call .",
+        "he works pretty hard and does a good job .",
+        "this photo is the layout for the topic that we are about to discuss in our next meeting ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the office was a giant mess . the workers were working hard . the guy was doing a great job . the meeting was about to begin . the business was very well done .",
+      "normalized_edited_story_text_sent": [
+        "the office was a giant mess .",
+        "the workers were working hard .",
+        "the guy was doing a great job .",
+        "the meeting was about to begin .",
+        "the business was very well done ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594324557686",
+  "model": "GLAC"
+}

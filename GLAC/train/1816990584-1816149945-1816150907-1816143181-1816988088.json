@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "1816990584-1816149945-1816150907-1816143181-1816988088",
+  "photo_sequence_ids": [
+    "1816990584",
+    "1816149945",
+    "1816150907",
+    "1816143181",
+    "1816988088"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people dressed up . some of them were very creative . others were very good . i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the party was a lot of fun . there were a lot of people dressed up in creative and good costumes. We all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a lot of people dressed up in creative and good costumes .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1E1DVPDQOOBCH",
+      "edited_story_text": "Excellent costumes at this year\u0027s party!  Loving the creativity and was a great time.",
+      "normalized_edited_story_text_sent": [
+        "excellent costumes at this year \u0027s party !",
+        "loving the creativity and was a great time ."
+      ]
+    },
+    {
+      "worker_id": "AYPRRGPMOD0AX",
+      "edited_story_text": "The party was a lot of fun and there were a lot of people dressed up . some of  the costumes were very creative . I had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun and there were a lot of people dressed up .",
+        "some of the costumes were very creative .",
+        "i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a success . there were a lot of people dressed up . some of them were very creative . others were very good . everyone had a ball.",
+      "normalized_edited_story_text_sent": [
+        "the party was a success .",
+        "there were a lot of people dressed up .",
+        "some of them were very creative .",
+        "others were very good .",
+        "everyone had a ball ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the party was a lot of fun even thou only a few people came . there were a lot of people dressed up for the holiday . some of them were very creative while others were simple. others were very good at making costumes out of regular clothes . i had a great time meeting my friends .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun even thou only a few people came .",
+        "there were a lot of people dressed up for the holiday .",
+        "some of them were very creative while others were simple .",
+        "others were very good at making costumes out of regular clothes .",
+        "i had a great time meeting my friends ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602826978150",
+  "model": "GLAC"
+}

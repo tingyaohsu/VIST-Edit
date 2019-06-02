@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "11716483-11717916-11792880-11897968-11832726",
+  "photo_sequence_ids": [
+    "11716483",
+    "11717916",
+    "11792880",
+    "11897968",
+    "11832726"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the meeting yesterday . there were a lot of people there . the speaker was very good . the audience was very nice . afterward we all got together for a group photo .",
+  "edited_stories": [
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "Yesterday, I attended a meeting. The room was packed with a full attendance. The person that spoke during the presentation did a top-notch job. They did such a great job, that after the meeting was over, all of us took a picture together.",
+      "normalized_edited_story_text_sent": [
+        "yesterday , i attended a meeting .",
+        "the room was packed with a full attendance .",
+        "the person that spoke during the presentation did a top-notch job .",
+        "they did such a great job , that after the meeting was over , all of us took a picture together ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the hotel room was alright. i got to watch some of the basketball game. there was a nice river near the hotel as well. it was a relaxing stay.",
+      "normalized_edited_story_text_sent": [
+        "the hotel room was alright .",
+        "i got to watch some of the basketball game .",
+        "there was a nice river near the hotel as well .",
+        "it was a relaxing stay ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "i went to the meeting yesterday . there were a lot of people there . the speaker was very good . the audience was very attentive. afterward we all got together for coffee.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday .",
+        "there were a lot of people there .",
+        "the speaker was very good .",
+        "the audience was very attentive .",
+        "afterward we all got together for coffee ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "i went to the meeting yesterday WHERE WE WATCHED TV . there were a lot of people there, BUT I DIDN\u0027T GET A PICTURE OF ALL THE PEOPLE . the speaker was very good . the audience was very nice . afterward we all got together for a group photo, BUT I DIDN\u0027T GET A PICTURE WITH MY CAMERA.",
+      "normalized_edited_story_text_sent": [
+        "i went to the meeting yesterday where we watched tv .",
+        "there were a lot of people there , but i did n\u0027t get a picture of all the people .",
+        "the speaker was very good .",
+        "the audience was very nice .",
+        "afterward we all got together for a group photo , but i did n\u0027t get a picture with my camera ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "I attended a meeting yesterday. There were a lot of people there and everyone was very nice. The speaker was amazing. Afterwards, we all got together for a group photo.",
+      "normalized_edited_story_text_sent": [
+        "i attended a meeting yesterday .",
+        "there were a lot of people there and everyone was very nice .",
+        "the speaker was amazing .",
+        "afterwards , we all got together for a group photo ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "287464",
+  "model": "GLAC"
+}

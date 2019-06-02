@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "7501259772-7501259198-7501785896-7501431476-7501260082",
+  "photo_sequence_ids": [
+    "7501259772",
+    "7501259198",
+    "7501785896",
+    "7501431476",
+    "7501260082"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the beach . they played in the sand . they had a great time . they swam on the beach . they had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "John and lisa were glad the family went to the beach . they played in the sand . they had a great time . they swam on the beach . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the family went to the beach .",
+        "they played in the sand .",
+        "they had a great time .",
+        "they swam on the beach .",
+        "they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the pool . they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the pool .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1TXCO12MCTP8P",
+      "edited_story_text": "I took my son Josh to the public pool this weekend. We hadn\u0027t been there in a while, so as soon as we got there, he joined his friends in the pool. He loved showing off his new goggles. He even asked to try out the swim class, and now he is signed up to take lessons every Wednesday. It really was a nice day.",
+      "normalized_edited_story_text_sent": [
+        "i took my son josh to the public pool this weekend .",
+        "we had n\u0027t been there in a while , so as soon as we got there , he joined his friends in the pool .",
+        "he loved showing off his new goggles .",
+        "he even asked to try out the swim class , and now he is signed up to take lessons every wednesday .",
+        "it really was a nice day ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went to the pool. The kids had a great time swimming. They swam laps and had fun.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the pool .",
+        "the kids had a great time swimming .",
+        "they swam laps and had fun ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We all went to the pool today.  The lifeguards were there to play with the kids.  It did get a bit crowded in the kiddie pool, as you can see.",
+      "normalized_edited_story_text_sent": [
+        "we all went to the pool today .",
+        "the lifeguards were there to play with the kids .",
+        "it did get a bit crowded in the kiddie pool , as you can see ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630434051334",
+  "model": "GLAC"
+}

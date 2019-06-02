@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "133241079-133241164-133241174-133241329-133241364",
+  "photo_sequence_ids": [
+    "133241079",
+    "133241164",
+    "133241174",
+    "133241329",
+    "133241364"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be at the meeting . he was very happy with his work . the view from the top was amazing . the conference was well attended . the speaker was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The man was relaxing prior to the meeting. The man was working at his desk. The view from the top was amazing. The front of the studio was all glass. The speaker was very pleased.",
+      "normalized_edited_story_text_sent": [
+        "the man was relaxing prior to the meeting .",
+        "the man was working at his desk .",
+        "the view from the top was amazing .",
+        "the front of the studio was all glass .",
+        "the speaker was very pleased ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the man was excited to be at the meeting . he was very happy with his work . the view from the top was amazing . the conference had an crowd . the men made connections .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the meeting .",
+        "he was very happy with his work .",
+        "the view from the top was amazing .",
+        "the conference had an crowd .",
+        "the men made connections ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the man was excited to be at the meeting . he was very busy making phone calls. the view of the city was amazing. The news studio was exciting too. the speakers were very proud .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the meeting .",
+        "he was very busy making phone calls .",
+        "the view of the city was amazing .",
+        "the news studio was exciting too .",
+        "the speakers were very proud ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "Robert was excited to be at the meeting. he was very happy at his work. he loved the view from the top floor, it was amazing. the conference was well attended. the speaker was very proud and was smiling ear to ear.",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited to be at the meeting .",
+        "he was very happy at his work .",
+        "he loved the view from the top floor , it was amazing .",
+        "the conference was well attended .",
+        "the speaker was very proud and was smiling ear to ear ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The man was very excited to be present at the meeting. He was very happy with the work that he had done. The view from the top as he looked down was amazing. Overall, the conference was very well attended. Needless to say, the speaker was very proud.",
+      "normalized_edited_story_text_sent": [
+        "the man was very excited to be present at the meeting .",
+        "he was very happy with the work that he had done .",
+        "the view from the top as he looked down was amazing .",
+        "overall , the conference was very well attended .",
+        "needless to say , the speaker was very proud ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594324557686",
+  "model": "GLAC"
+}

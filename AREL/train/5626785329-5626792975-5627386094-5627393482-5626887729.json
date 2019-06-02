@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "5626785329-5626792975-5627386094-5627393482-5626887729",
+  "photo_sequence_ids": [
+    "5626785329",
+    "5626792975",
+    "5627386094",
+    "5627393482",
+    "5626887729"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5224/5626785329_9fefa07528_o.jpg",
+    "https://farm6.staticflickr.com/5067/5626792975_0734141cf4_o.jpg",
+    "https://farm6.staticflickr.com/5226/5627386094_376b095963_o.jpg",
+    "https://farm6.staticflickr.com/5102/5627393482_850de8e754_o.jpg",
+    "https://farm6.staticflickr.com/5187/5626887729_d5e87f555f_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went to the lake . the men were having a great time . some of the people had a lot of work to do . the man is taking a break . after that we went back to the beach .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the family went to the lake . the men were having a great time . some of the people had a lot of work to do . the man is taking a break . after that they went back to the beach .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake .",
+        "the men were having a great time .",
+        "some of the people had a lot of work to do .",
+        "the man is taking a break .",
+        "after that they went back to the beach ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the family went to the lake. the men were having a great time working on the boat. there was a lot to do to fix it up. after they were done, we went to the beach and relaxed.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake .",
+        "the men were having a great time working on the boat .",
+        "there was a lot to do to fix it up .",
+        "after they were done , we went to the beach and relaxed ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "the family went to the lake . the men were having a incredible time . some of the people had a great deal of work to do . the man is taking a break . after that we went back to the shoreline .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake .",
+        "the men were having a incredible time .",
+        "some of the people had a great deal of work to do .",
+        "the man is taking a break .",
+        "after that we went back to the shoreline ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The family went to the lake together. The men were having a great time. Some people had some work to do, but here is [male] taking a break. After that, we went back to the beach.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake together .",
+        "the men were having a great time .",
+        "some people had some work to do , but here is [male] taking a break .",
+        "after that , we went back to the beach ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "My family went to the river. It could only be crossed by a rudimentary ferry. A road was washed out. We could only cross it in car after a makeshift bridge was made. We had fun meeting the local children.",
+      "normalized_edited_story_text_sent": [
+        "my family went to the river .",
+        "it could only be crossed by a rudimentary ferry .",
+        "a road was washed out .",
+        "we could only cross it in car after a makeshift bridge was made .",
+        "we had fun meeting the local children ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626390694245"
+}

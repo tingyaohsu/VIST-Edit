@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4289349570-4288603769-4288603327-4288602995-4289341058",
+  "photo_sequence_ids": [
+    "4289349570",
+    "4288603769",
+    "4288603327",
+    "4288602995",
+    "4289341058"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family decided to go on a hike . they saw some beautiful flowers . they also found a very interesting tree . they also had a lot of fun . the view was spectacular .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the family decided to go on a hike . they saw some beautiful flowers . they also found a very interesting tree that had a yellow substance on it . the view on the hike was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to go on a hike .",
+        "they saw some beautiful flowers .",
+        "they also found a very interesting tree that had a yellow substance on it .",
+        "the view on the hike was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "mary and the family decided to go on a hike . they saw some beautiful flowers . they also found a very interesting tree . they also had a lot of fun . the view was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "[female] and the family decided to go on a hike .",
+        "they saw some beautiful flowers .",
+        "they also found a very interesting tree .",
+        "they also had a lot of fun .",
+        "the view was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family decided to go on a hike . they saw some beautiful flowers . they also found a very interesting tree . they saw strange leaves . the view was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to go on a hike .",
+        "they saw some beautiful flowers .",
+        "they also found a very interesting tree .",
+        "they saw strange leaves .",
+        "the view was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the family decided to go on a hike . they took a lot pictures and explored the plants and tress on the hike. they also rested up and carried some drinks to keep them hydrated. They enjoyed beautiful views of the mountains. . they also had a lot of fun . the view was spectacular .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to go on a hike .",
+        "they took a lot pictures and explored the plants and tress on the hike .",
+        "they also rested up and carried some drinks to keep them hydrated .",
+        "they enjoyed beautiful views of the mountains .",
+        "they also had a lot of fun .",
+        "the view was spectacular ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The entire family decided to go on a hike. The family saw some beautiful flowers. They also found a very interesting looking tree. Everyone had a lot of fun on the hike. The views on the hike were spectacular.",
+      "normalized_edited_story_text_sent": [
+        "the entire family decided to go on a hike .",
+        "the family saw some beautiful flowers .",
+        "they also found a very interesting looking tree .",
+        "everyone had a lot of fun on the hike .",
+        "the views on the hike were spectacular ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623120685495",
+  "model": "GLAC"
+}

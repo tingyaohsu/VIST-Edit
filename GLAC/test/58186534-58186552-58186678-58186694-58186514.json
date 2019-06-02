@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "58186534-58186552-58186678-58186694-58186514",
+  "photo_sequence_ids": [
+    "58186534",
+    "58186552",
+    "58186678",
+    "58186694",
+    "58186514"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the runners were ready to start the race . the crowd was excited . the race was about to begin . the bikers were off and running . the race was over and the winner was crowned .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the runners were ready to start the race . the crowd was so excited . the race was about to begin . the racers were off and running . the winner was crowned .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready to start the race .",
+        "the crowd was so excited .",
+        "the race was about to begin .",
+        "the racers were off and running .",
+        "the winner was crowned ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the runners were ready to start the race . the crowd was excited . the race started . the bikers were off and running . the race was over and the winner was crowned . They went through obstacles too.",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready to start the race .",
+        "the crowd was excited .",
+        "the race started .",
+        "the bikers were off and running .",
+        "the race was over and the winner was crowned .",
+        "they went through obstacles too ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the runners were ready to start the race on this beautiful day . the crowd was excited and were making a lot of noise. the race was about to begin once the announcements were over . the bikers were off and running in a single line. the race was over and the winner was crowned who cried tear of joys .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready to start the race on this beautiful day .",
+        "the crowd was excited and were making a lot of noise .",
+        "the race was about to begin once the announcements were over .",
+        "the bikers were off and running in a single line .",
+        "the race was over and the winner was crowned who cried tear of joys ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the runners were getting set . the crowd was rowdy . the race was almost starting . the runners were off . when the race was finished, the happy winner was crowned .",
+      "normalized_edited_story_text_sent": [
+        "the runners were getting set .",
+        "the crowd was rowdy .",
+        "the race was almost starting .",
+        "the runners were off .",
+        "when the race was finished , the happy winner was crowned ."
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the runners were ready to start the race on a cloudless day . the crowd was excited . the race was about to begin so everyone was in position . the contestants were off and running . the race was over and the winner was crowned .",
+      "normalized_edited_story_text_sent": [
+        "the runners were ready to start the race on a cloudless day .",
+        "the crowd was excited .",
+        "the race was about to begin so everyone was in position .",
+        "the contestants were off and running .",
+        "the race was over and the winner was crowned ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1259235",
+  "model": "GLAC"
+}

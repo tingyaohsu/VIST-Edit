@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "12844386723-12844384423-12844305455-12844380223-12844709524",
+  "photo_sequence_ids": [
+    "12844386723",
+    "12844384423",
+    "12844305455",
+    "12844380223",
+    "12844709524"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the food was delicious . the streets were empty . the shops were busy . the market was open . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The food was really delicious. The streets were empty because the shops were busy. The market was open and that was where the delicious food was.",
+      "normalized_edited_story_text_sent": [
+        "the food was really delicious .",
+        "the streets were empty because the shops were busy .",
+        "the market was open and that was where the delicious food was ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the food was delicious and smelled amazing . the streets were empty due to the rain . the shops were busy because everyone wanted to be inside . the market was open and operating at full capacity . the food was delicious and very healthy .",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious and smelled amazing .",
+        "the streets were empty due to the rain .",
+        "the shops were busy because everyone wanted to be inside .",
+        "the market was open and operating at full capacity .",
+        "the food was delicious and very healthy ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "went to town today.  food was delicious, small shops had sales, I liked this sweater, can\u0027t wait for spring.  Streets were empty because of the cold weather.",
+      "normalized_edited_story_text_sent": [
+        "went to town today .",
+        "food was delicious , small shops had sales , i liked this sweater , ca n\u0027t wait for spring .",
+        "streets were empty because of the cold weather ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the food was delicious . the sight seeing was fun. it was a nice day in the town.",
+      "normalized_edited_story_text_sent": [
+        "the food was delicious .",
+        "the sight seeing was fun .",
+        "it was a nice day in the town ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the sandwich was delicious . the streets were empty . the shops were hiring . the market was open . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the sandwich was delicious .",
+        "the streets were empty .",
+        "the shops were hiring .",
+        "the market was open .",
+        "the food was delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157641674917713",
+  "model": "GLAC"
+}

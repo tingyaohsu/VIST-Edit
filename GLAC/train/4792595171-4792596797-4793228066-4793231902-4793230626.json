@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4792595171-4792596797-4793228066-4793231902-4793230626",
+  "photo_sequence_ids": [
+    "4792595171",
+    "4792596797",
+    "4793228066",
+    "4793231902",
+    "4793230626"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was ready for the bbq . the kids were having a good time . the boys were getting hungry . the food was delicious . the turkey was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family was ready for the picnic . the kids were having a good time with crafts. the boys were getting hungry . the food was delicious . the turkey was especially delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the picnic .",
+        "the kids were having a good time with crafts .",
+        "the boys were getting hungry .",
+        "the food was delicious .",
+        "the turkey was especially delicious ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the family was ready for the bbq gardening event . the kids were having a good time planting seeds. the boys were getting hungry . Unfortunately there wasn\u0027t much food. They were only seeds and mediums for planting.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the bbq gardening event .",
+        "the kids were having a good time planting seeds .",
+        "the boys were getting hungry .",
+        "unfortunately there was n\u0027t much food .",
+        "they were only seeds and mediums for planting ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "the family was ready for the bARBECUE . the kids were having a good time . the boys were getting hungry . the food was delicious . the DESSERTS WERE DELICIOUS.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the barbecue .",
+        "the kids were having a good time .",
+        "the boys were getting hungry .",
+        "the food was delicious .",
+        "the desserts were delicious ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The barbecue was set and the family was ready to dig in. The children were playing and having a good time, eventually making them hungry. Everyone then sat down to eat, and believe me, it was not disappointing. The food tasted astounding, especially, the turkey.",
+      "normalized_edited_story_text_sent": [
+        "the barbecue was set and the family was ready to dig in .",
+        "the children were playing and having a good time , eventually making them hungry .",
+        "everyone then sat down to eat , and believe me , it was not disappointing .",
+        "the food tasted astounding , especially , the turkey ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the family was ready for the bbq to begin . the kids were having a good time making arts and crafts . the boys were getting hungry so they ate some food . the food was delicious and everyone was full . the turkey was delicious as well as the burgers.",
+      "normalized_edited_story_text_sent": [
+        "the family was ready for the bbq to begin .",
+        "the kids were having a good time making arts and crafts .",
+        "the boys were getting hungry so they ate some food .",
+        "the food was delicious and everyone was full .",
+        "the turkey was delicious as well as the burgers ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624492137536",
+  "model": "GLAC"
+}

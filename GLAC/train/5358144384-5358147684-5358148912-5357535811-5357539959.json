@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "5358144384-5358147684-5358148912-5357535811-5357539959",
+  "photo_sequence_ids": [
+    "5358144384",
+    "5358147684",
+    "5358148912",
+    "5357535811",
+    "5357539959"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people there . some of them were very creative . i had a great time . the speaker was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we attended a funeral parade this weekend.  it was packed with people. the people were dressed in many kinds of uniforms. it was a somber time. the speaker was excellent and thoughtful.",
+      "normalized_edited_story_text_sent": [
+        "we attended a funeral parade this weekend .",
+        "it was packed with people .",
+        "the people were dressed in many kinds of uniforms .",
+        "it was a somber time .",
+        "the speaker was excellent and thoughtful ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "A big turn out for our fallen hero.  One of New York\u0027s finest was honored for falling in the line of duty.  God bless him.",
+      "normalized_edited_story_text_sent": [
+        "a big turn out for our fallen hero .",
+        "one of new york \u0027s finest was honored for falling in the line of duty .",
+        "god bless him ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the funeral was  so sad . there were so many people there . some of them were crying . He was a  a great man . the speaker was very deep .",
+      "normalized_edited_story_text_sent": [
+        "the funeral was so sad .",
+        "there were so many people there .",
+        "some of them were crying .",
+        "he was a a great man .",
+        "the speaker was very deep ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the funural was so sad . there were so many people there . some of them were very sad. military funeral are amazing.",
+      "normalized_edited_story_text_sent": [
+        "the funural was so sad .",
+        "there were so many people there .",
+        "some of them were very sad .",
+        "military funeral are amazing ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the funeral was very somber . there were so many people there . it was very eye opening . the speaker was very good .",
+      "normalized_edited_story_text_sent": [
+        "the funeral was very somber .",
+        "there were so many people there .",
+        "it was very eye opening .",
+        "the speaker was very good ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625830823704",
+  "model": "GLAC"
+}

@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "88995894-88996275-88996277-88996811-88997290",
+  "photo_sequence_ids": [
+    "88995894",
+    "88996275",
+    "88996277",
+    "88996811",
+    "88997290"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/14/88995894_f0c95f40c8_o.jpg",
+    "https://farm1.staticflickr.com/16/88996275_ae4de517ae_o.jpg",
+    "https://farm1.staticflickr.com/29/88996277_fa7e89dd98_o.jpg",
+    "https://farm1.staticflickr.com/24/88996811_45d28ebabb_o.jpg",
+    "https://farm1.staticflickr.com/27/88997290_9c6b42bafb_o.jpg"
+  ],
+  "auto_story_text_normalized": "today we all got together for a family reunion . we had a great time there . then she took a picture of her husband and wife . the kids were very happy to be there . everyone had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "Today we all came together for a family reunion. Everyone had a really great time. There was a giant cake. [female] gave a speech in front of everyone. It was a really wonderful day.",
+      "normalized_edited_story_text_sent": [
+        "today we all came together for a family reunion .",
+        "everyone had a really great time .",
+        "there was a giant cake .",
+        "[female] gave a speech in front of everyone .",
+        "it was a really wonderful day ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "today we all got together for a family get to gather. we had a incrediable time there . then she took a photo of her husband and wife . the children were very happy to be there . everyone had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "today we all got together for a family get to gather .",
+        "we had a incrediable time there .",
+        "then she took a photo of her husband and wife .",
+        "the children were very happy to be there .",
+        "everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "today we all got together for a family reunion . we had a great time there . we took a picture of the husband and wife . the kids were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "today we all got together for a family reunion .",
+        "we had a great time there .",
+        "we took a picture of the husband and wife .",
+        "the kids were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "today we all got together for a family gathering. we had a awesome time there . then she took a photo of her husband and wife . the kids were very nice to be there . everyone had a awesome time at the party .",
+      "normalized_edited_story_text_sent": [
+        "today we all got together for a family gathering .",
+        "we had a awesome time there .",
+        "then she took a photo of her husband and wife .",
+        "the kids were very nice to be there .",
+        "everyone had a awesome time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Today we all got together for a family reunion. We had a great time! [Female] took this picture of the husband and wife. The kids were very happy to be there, and everyone had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "today we all got together for a family reunion .",
+        "we had a great time !",
+        "[female] took this picture of the husband and wife .",
+        "the kids were very happy to be there , and everyone had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594068837512"
+}

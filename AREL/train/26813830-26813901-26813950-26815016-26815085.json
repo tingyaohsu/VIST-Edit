@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "26813830-26813901-26813950-26815016-26815085",
+  "photo_sequence_ids": [
+    "26813830",
+    "26813901",
+    "26813950",
+    "26815016",
+    "26815085"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/21/26813830_6fdea86832_o.jpg",
+    "https://farm1.staticflickr.com/23/26813901_16d65da378_o.jpg",
+    "https://farm1.staticflickr.com/22/26813950_6f75cfeb2c_o.jpg",
+    "https://farm1.staticflickr.com/21/26815016_b718f01baa_o.jpg",
+    "https://farm1.staticflickr.com/22/26815085_a916524aa8_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the restaurant last weekend . we had a lot of food to eat . they had a lot of food to eat . we had a great time and had a great time . here we are at the end of the night .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZL0NB1QPNTOS",
+      "edited_story_text": "It seems my social life revolves around food lately. I went to a restaurant last weekend, we had a lot of food to eat. These dessert pastries were so good. . We had a great time and and took these selfies. Here we are at the end of the night.",
+      "normalized_edited_story_text_sent": [
+        "it seems my social life revolves around food lately .",
+        "i went to a restaurant last weekend , we had a lot of food to eat .",
+        "these dessert pastries were so good .",
+        ".",
+        "we had a great time and and took these selfies .",
+        "here we are at the end of the night ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i went to the restaurant last weekend . there was a large assortment of food for us . there was even delicious dessert food. it was an enjoyable day for us . we snapped a quick photo that night .",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last weekend .",
+        "there was a large assortment of food for us .",
+        "there was even delicious dessert food .",
+        "it was an enjoyable day for us .",
+        "we snapped a quick photo that night ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "I went to the restaurant last weekend - it has so much food to eat. We ate so much food. We had a great time! Here we are at the end of the night.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last weekend - it has so much food to eat .",
+        "we ate so much food .",
+        "we had a great time !",
+        "here we are at the end of the night ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "We went to the restaurant last weekend . we had a lot of food to eat . The plate was delicious . we had a great time together  . here we are at the end of the night .",
+      "normalized_edited_story_text_sent": [
+        "we went to the restaurant last weekend .",
+        "we had a lot of food to eat .",
+        "the plate was delicious .",
+        "we had a great time together .",
+        "here we are at the end of the night ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to check out the new restaurant last weekend. we all tried out different types of food. It was all very tasty, and the restaurant had a good atmosphere. here\u0027s a picture of us at the end of the night .",
+      "normalized_edited_story_text_sent": [
+        "i went to check out the new restaurant last weekend .",
+        "we all tried out different types of food .",
+        "it was all very tasty , and the restaurant had a good atmosphere .",
+        "here \u0027s a picture of us at the end of the night ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "608134"
+}

@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "277611824-277612010-277586806-279034799-279034846",
+  "photo_sequence_ids": [
+    "277611824",
+    "277612010",
+    "277586806",
+    "279034799",
+    "279034846"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/103/277611824_b29a3609a5_o.jpg",
+    "https://farm1.staticflickr.com/71/277612010_4df4a53837_o.jpg",
+    "https://farm1.staticflickr.com/92/277586806_a809c75543_o.jpg",
+    "https://farm1.staticflickr.com/103/279034799_83aa92ad46_o.jpg",
+    "https://farm1.staticflickr.com/97/279034846_a2c19f2aa8_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went on a trip to location . we went to the location . this sign was dedicated to the local history of the world . we saw a lot of interesting signs . there were a lot of interesting things to see .",
+  "edited_stories": [
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "i go on a trip to location . we go to the location . this sign is dedicated to the local history of the world . we see a lot of interesting signs . there be a lot of interesting things to see .",
+      "normalized_edited_story_text_sent": [
+        "i go on a trip to location .",
+        "we go to the location .",
+        "this sign is dedicated to the local history of the world .",
+        "we see a lot of interesting signs .",
+        "there be a lot of interesting things to see ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "We all went on a trip to an historic site. This sign was dedicated to the local history of the area. We saw a lot of interesting signs. There were a lot of things to see in the area.",
+      "normalized_edited_story_text_sent": [
+        "we all went on a trip to an historic site .",
+        "this sign was dedicated to the local history of the area .",
+        "we saw a lot of interesting signs .",
+        "there were a lot of things to see in the area ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went on a trip to location. This sign was dedicated to the local history. we saw a lot of interesting signs depicting the battleground.  One sign warns about digging around here. People must be doing that to get artifacts.   There were a of interesting things to see .",
+      "normalized_edited_story_text_sent": [
+        "i went on a trip to location .",
+        "this sign was dedicated to the local history .",
+        "we saw a lot of interesting signs depicting the battleground .",
+        "one sign warns about digging around here .",
+        "people must be doing that to get artifacts .",
+        "there were a of interesting things to see ."
+      ]
+    },
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "We went on a trip to a local historic sight. We learned and saw many unique artifacts, sculptures, and graves. It was a great experience.",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to a local historic sight .",
+        "we learned and saw many unique artifacts , sculptures , and graves .",
+        "it was a great experience ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went on a trip to location . this sign was dedicated to the local history. we saw a lot of interesting signs . there were a lot of neat things to see .",
+      "normalized_edited_story_text_sent": [
+        "we went on a trip to location .",
+        "this sign was dedicated to the local history .",
+        "we saw a lot of interesting signs .",
+        "there were a lot of neat things to see ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594341890810"
+}

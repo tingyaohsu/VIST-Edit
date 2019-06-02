@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "5523780890-5523781784-5523194855-5523787958-5523199127",
+  "photo_sequence_ids": [
+    "5523780890",
+    "5523781784",
+    "5523194855",
+    "5523787958",
+    "5523199127"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5256/5523780890_5ec8bda8cc_o.jpg",
+    "https://farm6.staticflickr.com/5177/5523781784_652b919010_o.jpg",
+    "https://farm6.staticflickr.com/5057/5523194855_ed180bbcf9_o.jpg",
+    "https://farm6.staticflickr.com/5259/5523787958_b69cbf14c4_o.jpg",
+    "https://farm6.staticflickr.com/5093/5523199127_158b17078d_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a party today . the kids had a lot of fun . a group of people gathered together for a group photo . the kids had a great time . at the end of the day , we all had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "We had a party today. The kids had a lot of fun, and a group of people gathered together for a photo. At the end of the day, we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a party today .",
+        "the kids had a lot of fun , and a group of people gathered together for a photo .",
+        "at the end of the day , we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "We had a party today and the kids had a lot of fun. A group of people gathered together for a group photo, we all enjoyed the park and being together.",
+      "normalized_edited_story_text_sent": [
+        "we had a party today and the kids had a lot of fun .",
+        "a group of people gathered together for a group photo , we all enjoyed the park and being together ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a party today. The kids had a lot of fun. Here is everyone gathered for a group photo. The kids had a great time, but at the end of the day, we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a party today .",
+        "the kids had a lot of fun .",
+        "here is everyone gathered for a group photo .",
+        "the kids had a great time , but at the end of the day , we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "we have a party today . the kids have a lot of fun . a group of people gathering together for a group photo . the kids have a great time . at the ending of the day , we all have a great time .",
+      "normalized_edited_story_text_sent": [
+        "we have a party today .",
+        "the kids have a lot of fun .",
+        "a group of people gathering together for a group photo .",
+        "the kids have a great time .",
+        "at the ending of the day , we all have a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we had a party today for the kids. the kids had a lot of fun . We all gathered together for a group photo. The kids enjoyed all of the activities . at the end of the day , we all had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a party today for the kids .",
+        "the kids had a lot of fun .",
+        "we all gathered together for a group photo .",
+        "the kids enjoyed all of the activities .",
+        "at the end of the day , we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626133271663"
+}

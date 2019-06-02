@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5389359636-5388720009-5388706397-5388704005-5389316984",
+  "photo_sequence_ids": [
+    "5389359636",
+    "5388720009",
+    "5388706397",
+    "5388704005",
+    "5389316984"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the singer was very talented . the drummer was a great guitarist . the band played a lot of songs . the crowd loved the performance .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the crowd attended the concert tonight.  the singer did a great job.  the drummer and guitarist were wonderful.  the band played a lot of songs.  the crowd loved the concert.",
+      "normalized_edited_story_text_sent": [
+        "the crowd attended the concert tonight .",
+        "the singer did a great job .",
+        "the drummer and guitarist were wonderful .",
+        "the band played a lot of songs .",
+        "the crowd loved the concert ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the band was playing music for the crowd . the singer was very talented as he held the notes. the drummer was a great drummer who has played all his life . the band played a lot of songs that everyone knew . the crowd loved the performance and cheered loudly .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music for the crowd .",
+        "the singer was very talented as he held the notes .",
+        "the drummer was a great drummer who has played all his life .",
+        "the band played a lot of songs that everyone knew .",
+        "the crowd loved the performance and cheered loudly ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the band was playing music . the singer was very talented . The place was lit with green signs. Everyone enjoyed the performance.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the singer was very talented .",
+        "the place was lit with green signs .",
+        "everyone enjoyed the performance ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the band was playing music . the singer was very talented . the band brought the energy all night",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the singer was very talented .",
+        "the band brought the energy all night"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the band played good music . the singer was very talented . the drummer was a great player . the band played a lot of songs . the crowd loved the performance .",
+      "normalized_edited_story_text_sent": [
+        "the band played good music .",
+        "the singer was very talented .",
+        "the drummer was a great player .",
+        "the band played a lot of songs .",
+        "the crowd loved the performance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625907820708",
+  "model": "GLAC"
+}

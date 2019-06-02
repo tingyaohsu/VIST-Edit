@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "39617093-39617091-39617096-39640138-39640142",
+  "photo_sequence_ids": [
+    "39617093",
+    "39617091",
+    "39617096",
+    "39640138",
+    "39640142"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was beautiful . the bride and groom were very happy . the couple was so excited to be married . the bride and groom were very happy . the dog was a great part of the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the wedding was beautiful . the bride and groom were very happy . the couple was so excited to be married . the bride took many pics . the family enjoyed the wedding .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the bride took many pics .",
+        "the family enjoyed the wedding ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the wedding was just lovely.  both the bride and groom were happy and thrilled to get married.  the dog stole the show.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was just lovely .",
+        "both the bride and groom were happy and thrilled to get married .",
+        "the dog stole the show ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the wedding dress was beautiful . the bride was very happy . the kids was so excited to be at the wedding. the guests were very happy . the hedgehog was a great part of the day .",
+      "normalized_edited_story_text_sent": [
+        "the wedding dress was beautiful .",
+        "the bride was very happy .",
+        "the kids was so excited to be at the wedding .",
+        "the guests were very happy .",
+        "the hedgehog was a great part of the day ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "getting ready for the wedding. the cake was beautiful. the pictures were priceless . the couple was so excited to be married . the bride and groom were very happy . the children playing with bubbles were my favorite. .",
+      "normalized_edited_story_text_sent": [
+        "getting ready for the wedding .",
+        "the cake was beautiful .",
+        "the pictures were priceless .",
+        "the couple was so excited to be married .",
+        "the bride and groom were very happy .",
+        "the children playing with bubbles were my favorite ."
+      ]
+    },
+    {
+      "worker_id": "A2XKIP0PJ3FJ20",
+      "edited_story_text": "The wedding was beautiful and John and Lisa were very happy. They were so excited to be married. The dog was also a great part of the day .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was beautiful and [male] and [female] were very happy .",
+        "they were so excited to be married .",
+        "the dog was also a great part of the day ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "872064",
+  "model": "GLAC"
+}

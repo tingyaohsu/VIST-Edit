@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4313915930-4313183665-4313919778-4313184613-4313920688",
+  "photo_sequence_ids": [
+    "4313915930",
+    "4313183665",
+    "4313919778",
+    "4313184613",
+    "4313920688"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the town was a lot of fun . there were so many shops . the food was delicious . the shop was full of people . the flowers were colorful .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the town was a lot of fun during the day . there were so many shops it would take a week to visit them all . the food was delicious and fresh . the shop was full of people looking for ingredients for dinner that night . the flowers were colorful and had a great smell.",
+      "normalized_edited_story_text_sent": [
+        "the town was a lot of fun during the day .",
+        "there were so many shops it would take a week to visit them all .",
+        "the food was delicious and fresh .",
+        "the shop was full of people looking for ingredients for dinner that night .",
+        "the flowers were colorful and had a great smell ."
+      ]
+    },
+    {
+      "worker_id": "AVLZVLVL2X60",
+      "edited_story_text": "The town I was in was a lot of fun. There were so many shops. The food was delicious. One shop was full of people. The flowers were colorful.",
+      "normalized_edited_story_text_sent": [
+        "the town i was in was a lot of fun .",
+        "there were so many shops .",
+        "the food was delicious .",
+        "one shop was full of people .",
+        "the flowers were colorful ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the town was a lot of fun . there were so many shops . the food was delicious . the shop had lots of trinkets . the flowers were colorful .",
+      "normalized_edited_story_text_sent": [
+        "the town was a lot of fun .",
+        "there were so many shops .",
+        "the food was delicious .",
+        "the shop had lots of trinkets .",
+        "the flowers were colorful ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The town was bustling with entertainment. There were a plethora of shops crammed with customers. From shops filled with deliciously appetizing cuisine to a shop filled with vibrant flowers.",
+      "normalized_edited_story_text_sent": [
+        "the town was bustling with entertainment .",
+        "there were a plethora of shops crammed with customers .",
+        "from shops filled with deliciously appetizing cuisine to a shop filled with vibrant flowers ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the town was a lot of fun . there were so many shops .",
+      "normalized_edited_story_text_sent": [
+        "the town was a lot of fun .",
+        "there were so many shops ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623182397155",
+  "model": "GLAC"
+}

@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "7350422846-7165210143-7165210091-7165209971-7350422212",
+  "photo_sequence_ids": [
+    "7350422846",
+    "7165210143",
+    "7165210091",
+    "7165209971",
+    "7350422212"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the soldiers are getting ready for the march . the soldier is in charge of the war . the soldiers are coming to the ceremony . the men are excited . the man is giving a speech .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the soldiers are getting ready for the funeral . it was a solemn day",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are getting ready for the funeral .",
+        "it was a solemn day"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the soldiers were marching in a funeral procession . the general attended . the soldiers were sad at the ceremony . the men were depressed . an old man spoke .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers were marching in a funeral procession .",
+        "the general attended .",
+        "the soldiers were sad at the ceremony .",
+        "the men were depressed .",
+        "an old man spoke ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the soldiers are getting ready for the march . the soldier is in charge of the war . the soldiers are coming to the ceremony . the men are excited . the man is giving a speech .\r\rThe soldiers are preparing themselves for the march. General David Roberts is in charge of this war. The soldiers are on their way to the ceremony. The men seem to be in good spirits. David Roberts gave a speech.",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are getting ready for the march .",
+        "the soldier is in charge of the war .",
+        "the soldiers are coming to the ceremony .",
+        "the men are excited .",
+        "the man is giving a speech .",
+        "the soldiers are preparing themselves for the march .",
+        "general [male] roberts is in charge of this war .",
+        "the soldiers are on their way to the ceremony .",
+        "the men seem to be in good spirits .",
+        "[male] roberts gave a speech ."
+      ]
+    },
+    {
+      "worker_id": "A134MN9AE0S2MB",
+      "edited_story_text": "The reenactment of the old-style funeral was interesting. Everyone was dressed in black and white. As the coffin was lowered into the ground the mourners sat nearby. The preacher then gave a stirring eulogy.",
+      "normalized_edited_story_text_sent": [
+        "the reenactment of the old-style funeral was interesting .",
+        "everyone was dressed in black and white .",
+        "as the coffin was lowered into the ground the mourners sat nearby .",
+        "the preacher then gave a stirring eulogy ."
+      ]
+    },
+    {
+      "worker_id": "ADBDQ7FTFHKCR",
+      "edited_story_text": "the soldiers are getting ready for the march . the soldier is in charge of the war . the soldiers are coming to the ceremony . the men are sad . the man is giving a eulogy .",
+      "normalized_edited_story_text_sent": [
+        "the soldiers are getting ready for the march .",
+        "the soldier is in charge of the war .",
+        "the soldiers are coming to the ceremony .",
+        "the men are sad .",
+        "the man is giving a eulogy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157630078030316",
+  "model": "GLAC"
+}

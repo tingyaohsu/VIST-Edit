@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "57913622-57913666-57913671-57913730-57913811",
+  "photo_sequence_ids": [
+    "57913622",
+    "57913666",
+    "57913671",
+    "57913730",
+    "57913811"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a ton of people . the costumes were very good . the night was beautiful . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there were a ton of people .",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there were a ton of people ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "As you can see, a great time was had by all at the Halloween party.  So many people dressed up in scary attire.",
+      "normalized_edited_story_text_sent": [
+        "as you can see , a great time was had by all at the halloween party .",
+        "so many people dressed up in scary attire ."
+      ]
+    },
+    {
+      "worker_id": "A2Q5ADHEBLC7OI",
+      "edited_story_text": "The halloween party was great. There were hundred plus people there. Costumes were awesome.\rThanks David and John for going with me. Can\u0027t wait until next year to do it again.",
+      "normalized_edited_story_text_sent": [
+        "the halloween party was great .",
+        "there were hundred plus people there .",
+        "costumes were awesome .",
+        "thanks [male] and [male] for going with me .",
+        "ca n\u0027t wait until next year to do it again ."
+      ]
+    },
+    {
+      "worker_id": "ATP43ZVI1RP0C",
+      "edited_story_text": "the hallowen party was really fun . there were a ton of people . the costumes were very good . the night was beautiful . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the hallowen party was really fun .",
+        "there were a ton of people .",
+        "the costumes were very good .",
+        "the night was beautiful .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "david and Maria were glad the party was a lot of fun . there were a ton of people . the costumes were very good . the night was beautiful . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the party was a lot of fun .",
+        "there were a ton of people .",
+        "the costumes were very good .",
+        "the night was beautiful .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1254452",
+  "model": "GLAC"
+}

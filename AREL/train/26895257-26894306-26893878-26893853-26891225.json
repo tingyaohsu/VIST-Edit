@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "26895257-26894306-26893878-26893853-26891225",
+  "photo_sequence_ids": [
+    "26895257",
+    "26894306",
+    "26893878",
+    "26893853",
+    "26891225"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/21/26895257_5d7e9b1ee5_o.jpg",
+    "https://farm1.staticflickr.com/21/26894306_4007be77c0_o.jpg",
+    "https://farm1.staticflickr.com/23/26893878_ce7061fb40_o.jpg",
+    "https://farm1.staticflickr.com/22/26893853_b0a52808da_o.jpg",
+    "https://farm1.staticflickr.com/21/26891225_3f94548429_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last night . there were a lot of people there . everyone had a great time . i had a great time . there was also a lot of dancing .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I had a great time at the party last night.  There were a lot of people there. Everyone had a great time. There was also a lot of dancing and drinking.  There were games.  Afterward, we went to outside and hiked up the hills.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "there were a lot of people there .",
+        "everyone had a great time .",
+        "there was also a lot of dancing and drinking .",
+        "there were games .",
+        "afterward , we went to outside and hiked up the hills ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "I had a great time at the party last night. There were a lot of people there and everyone had a great time. I know I had a great time. There was also a lot of dancing .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "there were a lot of people there and everyone had a great time .",
+        "i know i had a great time .",
+        "there was also a lot of dancing ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I had a wonderful time at the party last night. People got together and played games, like the limbo. Everyone had a great time dancing. There were lots of people there. There was a cool sky projector in the background while we danced.",
+      "normalized_edited_story_text_sent": [
+        "i had a wonderful time at the party last night .",
+        "people got together and played games , like the limbo .",
+        "everyone had a great time dancing .",
+        "there were lots of people there .",
+        "there was a cool sky projector in the background while we danced ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "I partied at the club last night. It was packed with people. We limbo danced and drank. There was a big video wall with music.",
+      "normalized_edited_story_text_sent": [
+        "i partied at the club last night .",
+        "it was packed with people .",
+        "we limbo danced and drank .",
+        "there was a big video wall with music ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "I went to the party last night, had a great time lots of people and dancing",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night , had a great time lots of people and dancing"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "609587"
+}

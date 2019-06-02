@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4242249380-4242005292-4241577091-4241135097-4241946522",
+  "photo_sequence_ids": [
+    "4242249380",
+    "4242005292",
+    "4241577091",
+    "4241135097",
+    "4241946522"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2732/4242249380_f1597dee62_o.jpg",
+    "https://farm3.staticflickr.com/2733/4242005292_f3a66b04a6_o.jpg",
+    "https://farm5.staticflickr.com/4057/4241577091_c13325aec9_o.jpg",
+    "https://farm5.staticflickr.com/4036/4241135097_b3f4968a79_o.jpg",
+    "https://farm5.staticflickr.com/4018/4241946522_25343df390_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the fair yesterday . there were a lot of interesting things to see . the woman is wearing a hat with a hat . some of them were very unique . this statue was in the middle of the museum .",
+  "edited_stories": [
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "i went to the fair yesterday . there were a lot of interesting things to see . There was someone with a clown outfit  Some of the things for sale was rather unique and beautiful. There was a really special looking antique buddha statue as shown on the photo.",
+      "normalized_edited_story_text_sent": [
+        "i went to the fair yesterday .",
+        "there were a lot of interesting things to see .",
+        "there was someone with a clown outfit some of the things for sale was rather unique and beautiful .",
+        "there was a really special looking antique buddha statue as shown on the photo ."
+      ]
+    },
+    {
+      "worker_id": "AZBZBTTME3HAI",
+      "edited_story_text": "I went to the fair yesterday. There were a lot of interesting things to see. This woman is wearing a hat with a hat.  There were statues there and some of them were very unique. This statue was in the middle of the museum .",
+      "normalized_edited_story_text_sent": [
+        "i went to the fair yesterday .",
+        "there were a lot of interesting things to see .",
+        "this woman is wearing a hat with a hat .",
+        "there were statues there and some of them were very unique .",
+        "this statue was in the middle of the museum ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the fair yesterday! There were a lot of interesting things to see. This woman is wearing a hat. Some things at the fair were very unique. Here\u0027s a statue from the middle of the fair.",
+      "normalized_edited_story_text_sent": [
+        "i went to the fair yesterday !",
+        "there were a lot of interesting things to see .",
+        "this woman is wearing a hat .",
+        "some things at the fair were very unique .",
+        "here \u0027s a statue from the middle of the fair ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "There were a lot of interesting things to see at the marketplace. There was a store of old motors and junk.  It looked like a junk yard.  We also went to the temple and saw religious statues.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of interesting things to see at the marketplace .",
+        "there was a store of old motors and junk .",
+        "it looked like a junk yard .",
+        "we also went to the temple and saw religious statues ."
+      ]
+    },
+    {
+      "worker_id": "A1CVM8I2566ILI",
+      "edited_story_text": "I went to the fair yesterday. There were a lot of interesting things to see. The woman is wearing a hat on top of another hat! Some of them were very unique. This statue was in the middle of a museum next to the fair .",
+      "normalized_edited_story_text_sent": [
+        "i went to the fair yesterday .",
+        "there were a lot of interesting things to see .",
+        "the woman is wearing a hat on top of another hat !",
+        "some of them were very unique .",
+        "this statue was in the middle of a museum next to the fair ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623010818465"
+}

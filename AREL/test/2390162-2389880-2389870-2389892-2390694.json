@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "2390162-2389880-2389870-2389892-2390694",
+  "photo_sequence_ids": [
+    "2390162",
+    "2389880",
+    "2389870",
+    "2389892",
+    "2390694"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/2390162_9179f6c380_o.jpg",
+    "https://farm1.staticflickr.com/2/2389880_4215ceefc3_o.jpg",
+    "https://farm1.staticflickr.com/3/2389870_25c477d5ee_o.jpg",
+    "https://farm1.staticflickr.com/1/2389892_5cfc690881_o.jpg",
+    "https://farm1.staticflickr.com/2/2390694_cf786100a5_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family had a party at the house . the kids were having a lot of fun . the little girl is excited to see her . he was so happy to be there . i was so happy that i had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family had a party at the house and the kids were having a lot of fun . the little girl is excited to see her . he was so happy to be there . i was so happy that i had a great time  with the family.",
+      "normalized_edited_story_text_sent": [
+        "the family had a party at the house and the kids were having a lot of fun .",
+        "the little girl is excited to see her .",
+        "he was so happy to be there .",
+        "i was so happy that i had a great time with the family ."
+      ]
+    },
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "Jack was excited to show off his new braces after the fellowship meeting.",
+      "normalized_edited_story_text_sent": [
+        "jack was excited to show off his new braces after the fellowship meeting ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "My friends had a party at their house. the kids all got to play together and were having a lot of fun. the adults talked until late. i\u0027m always happy when i get to spend time with them.",
+      "normalized_edited_story_text_sent": [
+        "my friends had a party at their house .",
+        "the kids all got to play together and were having a lot of fun .",
+        "the adults talked until late .",
+        "i \u0027m always happy when i get to spend time with them ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the family had a party at the house . the kids were having a lot of fun . the little girl is excited to see her . the boy was really happy too. . i was so happy that i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family had a party at the house .",
+        "the kids were having a lot of fun .",
+        "the little girl is excited to see her .",
+        "the boy was really happy too .",
+        ".",
+        "i was so happy that i had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2KVNFOIRZ8PTB",
+      "edited_story_text": "The family had a party at the house .The kids were having a lot of fun .The little girl is excited to see her GRANDMA. he was so happy to be there . i was so happy that i had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family had a party at the house .",
+        "the kids were having a lot of fun .",
+        "the little girl is excited to see her grandma .",
+        "he was so happy to be there .",
+        "i was so happy that i had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "60113"
+}

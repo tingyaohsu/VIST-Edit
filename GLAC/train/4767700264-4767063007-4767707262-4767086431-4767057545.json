@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "4767700264-4767063007-4767707262-4767086431-4767057545",
+  "photo_sequence_ids": [
+    "4767700264",
+    "4767063007",
+    "4767707262",
+    "4767086431",
+    "4767057545"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was very happy to be outside . the family was exploring the woods . they saw a bird . the horses were grazing . the horse was ready for the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the donkey was happy to be outside . a family explored a forest . they spotted a bird . the donkeys grazed lazily . the donkey was ready for the next day .",
+      "normalized_edited_story_text_sent": [
+        "the donkey was happy to be outside .",
+        "a family explored a forest .",
+        "they spotted a bird .",
+        "the donkeys grazed lazily .",
+        "the donkey was ready for the next day ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the dog was very happy to be outside .",
+      "normalized_edited_story_text_sent": [
+        "the dog was very happy to be outside ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family wanted adventure . the family was exploring the woods . they saw a bird . the horses were grazing . the horse was nice .",
+      "normalized_edited_story_text_sent": [
+        "the family wanted adventure .",
+        "the family was exploring the woods .",
+        "they saw a bird .",
+        "the horses were grazing .",
+        "the horse was nice ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert thought the dog was very happy to be outside . the family was exploring the woods . they saw a bird . the horses were grazing . the horse was ready for the day .",
+      "normalized_edited_story_text_sent": [
+        "[male] thought the dog was very happy to be outside .",
+        "the family was exploring the woods .",
+        "they saw a bird .",
+        "the horses were grazing .",
+        "the horse was ready for the day ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The donkey was very cute and the family enjoyed the day at the farm.",
+      "normalized_edited_story_text_sent": [
+        "the donkey was very cute and the family enjoyed the day at the farm ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624434518516",
+  "model": "GLAC"
+}

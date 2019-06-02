@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "111407954-111470582-111408105-111408129-111470654",
+  "photo_sequence_ids": [
+    "111407954",
+    "111470582",
+    "111408105",
+    "111408129",
+    "111470654"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people dressed up . some of them were very creative . i had a great time . the band was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the parade was a lot of fun as usual . there were so many people dressed up in kilts it was amazing . some of them were very creative while others were simple . i had a great time seeing all the bands. the band was very good even thou they didn\u0027t get to practice much.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun as usual .",
+        "there were so many people dressed up in kilts it was amazing .",
+        "some of them were very creative while others were simple .",
+        "i had a great time seeing all the bands .",
+        "the band was very good even thou they did n\u0027t get to practice much ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a blast . there were so many people dressed up . i had a great time . the band was very good .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a blast .",
+        "there were so many people dressed up .",
+        "i had a great time .",
+        "the band was very good ."
+      ]
+    },
+    {
+      "worker_id": "A3NHJPE6326P9V",
+      "edited_story_text": "the  Irish parade was a lot of fun . there were so many people dressed in costume . some of them were very creative . i had a great time . the band was very good . David played the bag pipes.",
+      "normalized_edited_story_text_sent": [
+        "the irish parade was a lot of fun .",
+        "there were so many people dressed in costume .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "the band was very good .",
+        "[male] played the bag pipes ."
+      ]
+    },
+    {
+      "worker_id": "A29AX5O8KL48F8",
+      "edited_story_text": "the parade I went to was so much fun. there were so many people dressed up, including some really creative costumes. i had a great time. The marching band that played in the parade was also really good.",
+      "normalized_edited_story_text_sent": [
+        "the parade i went to was so much fun .",
+        "there were so many people dressed up , including some really creative costumes .",
+        "i had a great time .",
+        "the marching band that played in the parade was also really good ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The parade was a lot of fun. There were so many people dressed up. Some of them were very creative. I had an excellent time. The marching band was the best part of the day.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people dressed up .",
+        "some of them were very creative .",
+        "i had an excellent time .",
+        "the marching band was the best part of the day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594080540770",
+  "model": "GLAC"
+}

@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4996714644-4996114141-4996722958-4996109323-4996718796",
+  "photo_sequence_ids": [
+    "4996714644",
+    "4996114141",
+    "4996722958",
+    "4996109323",
+    "4996718796"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was giving a speech . he was very happy to be there . he was given a lecture . he was in the audience . he was very careful .",
+  "edited_stories": [
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the man was giving a speech , it was his big day . he was very happy to be there and excited to talk to everyone . he was given a lecture . then he sat in the audience . he was very careful to not disturb anyone .",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech , it was his big day .",
+        "he was very happy to be there and excited to talk to everyone .",
+        "he was given a lecture .",
+        "then he sat in the audience .",
+        "he was very careful to not disturb anyone ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the man was giving a speech outside of a large building. . he was very happy to be there addressing the crowd. he was giving a speech about the remodeling of the building . my cousin daniel was in the audience . he was very careful not bumping into others.",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech outside of a large building .",
+        "he was very happy to be there addressing the crowd .",
+        "he was giving a speech about the remodeling of the building .",
+        "my cousin daniel was in the audience .",
+        "he was very careful not bumping into others ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the man was giving a speech . he was very happy to be there . he was a natural on the microphone . he was in the audience . he was very careful .",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech .",
+        "he was very happy to be there .",
+        "he was a natural on the microphone .",
+        "he was in the audience .",
+        "he was very careful ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the man was speaking . he was elated to be there . he was honored with a lecture spot . he was also listening in the audience . he was very careful not to repeat other speakers\u0027 points .",
+      "normalized_edited_story_text_sent": [
+        "the man was speaking .",
+        "he was elated to be there .",
+        "he was honored with a lecture spot .",
+        "he was also listening in the audience .",
+        "he was very careful not to repeat other speakers \u0027 points ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the man was giving a speech . he was very happy to be there . he was given a lecture . he spoke very well . he was very careful .",
+      "normalized_edited_story_text_sent": [
+        "the man was giving a speech .",
+        "he was very happy to be there .",
+        "he was given a lecture .",
+        "he spoke very well .",
+        "he was very careful ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624845628495",
+  "model": "GLAC"
+}

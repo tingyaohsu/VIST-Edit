@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4242249380-4242005292-4241577091-4241135097-4241946522",
+  "photo_sequence_ids": [
+    "4242249380",
+    "4242005292",
+    "4241577091",
+    "4241135097",
+    "4241946522"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the group of friends went to the carnival . they played games and had a lot of fun . they had a lot of fun . they also had a big rock . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "A group of friends and I went to the carnival. We played games and had a lot of fun. We saw intricate architecture and statues. We had a great time!",
+      "normalized_edited_story_text_sent": [
+        "a group of friends and i went to the carnival .",
+        "we played games and had a lot of fun .",
+        "we saw intricate architecture and statues .",
+        "we had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the group of friends went to the carnival . they played games and had a lot of fun . they had a lot of activities . they played many games . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the group of friends went to the carnival .",
+        "they played games and had a lot of fun .",
+        "they had a lot of activities .",
+        "they played many games .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A2KW26KE43UBRS",
+      "edited_story_text": "Two friends went to the carnival. They bought a lot of items and had a lot of fun. They saw people on the street dressed in masks. They also saw statues.",
+      "normalized_edited_story_text_sent": [
+        "two friends went to the carnival .",
+        "they bought a lot of items and had a lot of fun .",
+        "they saw people on the street dressed in masks .",
+        "they also saw statues ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "People walk along interesting street vendor items including lots of rows of antiques and old treasures.",
+      "normalized_edited_story_text_sent": [
+        "people walk along interesting street vendor items including lots of rows of antiques and old treasures ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The group of friends went to a street carvinal. There was junk along with treasure. One member put on a silly mask and had a lot of fun. There were some artifacts along the way.",
+      "normalized_edited_story_text_sent": [
+        "the group of friends went to a street carvinal .",
+        "there was junk along with treasure .",
+        "one member put on a silly mask and had a lot of fun .",
+        "there were some artifacts along the way ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623010818465",
+  "model": "GLAC"
+}

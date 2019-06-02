@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4301889122-4302093166-4307303645-4307813600-4309941285",
+  "photo_sequence_ids": [
+    "4301889122",
+    "4302093166",
+    "4307303645",
+    "4307813600",
+    "4309941285"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4063/4301889122_99e8630a78_o.jpg",
+    "https://farm5.staticflickr.com/4054/4302093166_0f3fc62e8a_o.jpg",
+    "https://farm5.staticflickr.com/4021/4307303645_12154cebdc_o.jpg",
+    "https://farm5.staticflickr.com/4006/4307813600_a14940bf91_o.jpg",
+    "https://farm5.staticflickr.com/4071/4309941285_2c9fb959b1_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the car show last week . a car parked in front of a car . there were a lot of cool cars there . the cars were very fast . the car was so beautiful , i could n\u0027t wait to see what was going on .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "i went to the car show last week. There were a lot of cool cars there. The cars were very fast.  I love this one orange sports car.  It was driven very fast.  There were so many other cars to see.  It was exciting.",
+      "normalized_edited_story_text_sent": [
+        "i went to the car show last week .",
+        "there were a lot of cool cars there .",
+        "the cars were very fast .",
+        "i love this one orange sports car .",
+        "it was driven very fast .",
+        "there were so many other cars to see .",
+        "it was exciting ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the car show last week. there were a lot of cool cars there, including some very fast sports cars. it was exciting to get to see them all in one place.",
+      "normalized_edited_story_text_sent": [
+        "i went to the car show last week .",
+        "there were a lot of cool cars there , including some very fast sports cars .",
+        "it was exciting to get to see them all in one place ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i went to the car show last week . a car parked in front of a car . there were a lot of cool cars there and the cars were very fast . the car was so beautiful , i could n\u0027t wait to see what was going on .",
+      "normalized_edited_story_text_sent": [
+        "i went to the car show last week .",
+        "a car parked in front of a car .",
+        "there were a lot of cool cars there and the cars were very fast .",
+        "the car was so beautiful , i could n\u0027t wait to see what was going on ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the car show last week. There were cars parked in front of cars. There were a lot of cool cars there, that were fast and beautiful. I couldn\u0027t wait to see all of them.",
+      "normalized_edited_story_text_sent": [
+        "i went to the car show last week .",
+        "there were cars parked in front of cars .",
+        "there were a lot of cool cars there , that were fast and beautiful .",
+        "i could n\u0027t wait to see all of them ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i visited the car show last week . a car parked in front of another car . there were many cool cars there . the cars were very fast . the car was very pretty , i could n\u0027t wait to see what was happening .",
+      "normalized_edited_story_text_sent": [
+        "i visited the car show last week .",
+        "a car parked in front of another car .",
+        "there were many cool cars there .",
+        "the cars were very fast .",
+        "the car was very pretty , i could n\u0027t wait to see what was happening ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623276651796"
+}

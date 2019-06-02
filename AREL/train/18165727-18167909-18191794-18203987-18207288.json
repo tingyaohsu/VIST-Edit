@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "18165727-18167909-18191794-18203987-18207288",
+  "photo_sequence_ids": [
+    "18165727",
+    "18167909",
+    "18191794",
+    "18203987",
+    "18207288"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/12/18165727_d687cc76dc_o.jpg",
+    "https://farm1.staticflickr.com/14/18167909_42ab9351a6_o.jpg",
+    "https://farm1.staticflickr.com/13/18191794_dce272b898_o.jpg",
+    "https://farm1.staticflickr.com/14/18203987_e314fff657_o.jpg",
+    "https://farm1.staticflickr.com/12/18207288_b0b2392a1a_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the party last night . i \u0027m not sure what to do . there were a lot of people there . i had a great time there . i \u0027m not sure what to do .",
+  "edited_stories": [
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i went to the party last night and took lots of photos.  i like to take photos with people, but i also appreciate small details like shoes and jewelry!",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night and took lots of photos .",
+        "i like to take photos with people , but i also appreciate small details like shoes and jewelry !"
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i went to the party last night. I saw one of my oldest friends, who I hadn\u0027t talked to in a while. There were a lot of people I knew there. I was so happy to see everyone.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "i saw one of my oldest friends , who i had n\u0027t talked to in a while .",
+        "there were a lot of people i knew there .",
+        "i was so happy to see everyone ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "i went to the party last night. i wasn\u0027t sure what to do at first. there were a lot of people there. i had a great time there. i\u0027m not sure what to do for next time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "i was n\u0027t sure what to do at first .",
+        "there were a lot of people there .",
+        "i had a great time there .",
+        "i \u0027m not sure what to do for next time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the party last night. There were a lot of people there. I had a great time there seeing my girlfriends.  I was busy taking pictures of feet and fashion.",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "there were a lot of people there .",
+        "i had a great time there seeing my girlfriends .",
+        "i was busy taking pictures of feet and fashion ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "i went to the party last night . we met a lot of people . we went outside . i had a great time there . I wore my best jewelry .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "we met a lot of people .",
+        "we went outside .",
+        "i had a great time there .",
+        "i wore my best jewelry ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "429580"
+}

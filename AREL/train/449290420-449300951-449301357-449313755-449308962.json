@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "449290420-449300951-449301357-449313755-449308962",
+  "photo_sequence_ids": [
+    "449290420",
+    "449300951",
+    "449301357",
+    "449313755",
+    "449308962"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/213/449290420_7d58161ddf_o.jpg",
+    "https://farm1.staticflickr.com/197/449300951_b40c2c9b34_o.jpg",
+    "https://farm1.staticflickr.com/217/449301357_e76f2eea77_o.jpg",
+    "https://farm1.staticflickr.com/197/449313755_83ba6d3baa_o.jpg",
+    "https://farm1.staticflickr.com/195/449308962_ff3f57a1dd_o.jpg"
+  ],
+  "auto_story_text_normalized": "it was a beautiful day in the park . we saw a lot of old houses . there were a lot of plants there . the animals were very friendly . the animals were very friendly .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "It was a beautiful day at the park.  We saw some historic houses and friendly animals.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day at the park .",
+        "we saw some historic houses and friendly animals ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "it was a beautiful day in the park . we saw a lot of old houses . there were a lot of plants there . the animals were very friendly and the animals were very friendly .",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the park .",
+        "we saw a lot of old houses .",
+        "there were a lot of plants there .",
+        "the animals were very friendly and the animals were very friendly ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We spent time in the park. It was near some old houses. We saw a dead frog in the grass. There were sheep and lambs grazing on the plants.",
+      "normalized_edited_story_text_sent": [
+        "we spent time in the park .",
+        "it was near some old houses .",
+        "we saw a dead frog in the grass .",
+        "there were sheep and lambs grazing on the plants ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "it was a beautiful day, so we went to the park. there are a lot of cool old houses along the way. we stopped by the petting zoo and saw some animals. they were all very friendly.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day , so we went to the park .",
+        "there are a lot of cool old houses along the way .",
+        "we stopped by the petting zoo and saw some animals .",
+        "they were all very friendly ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "It was a beautiful day. We saw a lot of old houses. There were a lot of plants there AROUND. The animals were very friendly. THE WAS A MOTHER SHEEP WITH TWO LAMBS.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day .",
+        "we saw a lot of old houses .",
+        "there were a lot of plants there around .",
+        "the animals were very friendly .",
+        "the was a mother sheep with two lambs ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600053481092"
+}

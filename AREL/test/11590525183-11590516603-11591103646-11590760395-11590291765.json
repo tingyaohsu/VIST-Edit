@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "11590525183-11590516603-11591103646-11590760395-11590291765",
+  "photo_sequence_ids": [
+    "11590525183",
+    "11590516603",
+    "11591103646",
+    "11590760395",
+    "11590291765"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5496/11590525183_27471ca307_o.jpg",
+    "https://farm8.staticflickr.com/7445/11590516603_6daa9a7744_o.jpg",
+    "https://farm8.staticflickr.com/7353/11591103646_0d820bdb7d_o.jpg",
+    "https://farm3.staticflickr.com/2861/11590760395_1ff0a358d6_o.jpg",
+    "https://farm8.staticflickr.com/7429/11590291765_6d79c6ca06_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the museum today . he also had to make sure everything was spotless . the screen was set up for the event . some of them were very close . this is a picture of a crowd .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time working at the museum today! He had to make sure that everything was spotless, and that the screen was set up for the event. Some of the pieces were very close together.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time working at the museum today !",
+        "he had to make sure that everything was spotless , and that the screen was set up for the event .",
+        "some of the pieces were very close together ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the museum today but he also had to make sure everything was spotless . the screen was set up for the event but some of them were very close . We took this is a picture of a crowd .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the museum today but he also had to make sure everything was spotless .",
+        "the screen was set up for the event but some of them were very close .",
+        "we took this is a picture of a crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the museum today . he also had to make sure everything was spotless . the screen was set up for the event and some of them were very close . this is a picture of a crowd .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the museum today .",
+        "he also had to make sure everything was spotless .",
+        "the screen was set up for the event and some of them were very close .",
+        "this is a picture of a crowd ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had an awesome time at the museum today . he had to verify everything was clean . the screen was set up for the event . some of them were very close . this is a photo of a crowd .",
+      "normalized_edited_story_text_sent": [
+        "we had an awesome time at the museum today .",
+        "he had to verify everything was clean .",
+        "the screen was set up for the event .",
+        "some of them were very close .",
+        "this is a photo of a crowd ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "he was creating a structure . he also had to make sure everything was spotless . it was set up for the event . the man was working all day . this is a picture of the completed structure .",
+      "normalized_edited_story_text_sent": [
+        "he was creating a structure .",
+        "he also had to make sure everything was spotless .",
+        "it was set up for the event .",
+        "the man was working all day .",
+        "this is a picture of the completed structure ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157639090930144"
+}

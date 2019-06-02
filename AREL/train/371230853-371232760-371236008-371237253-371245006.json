@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "371230853-371232760-371236008-371237253-371245006",
+  "photo_sequence_ids": [
+    "371230853",
+    "371232760",
+    "371236008",
+    "371237253",
+    "371245006"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/171/371230853_3de52285b1_o.jpg",
+    "https://farm1.staticflickr.com/170/371232760_92f380a155_o.jpg",
+    "https://farm1.staticflickr.com/188/371236008_40b97f39de_o.jpg",
+    "https://farm1.staticflickr.com/160/371237253_53ffc9008d_o.jpg",
+    "https://farm1.staticflickr.com/159/371245006_0a9345ea19_o.jpg"
+  ],
+  "auto_story_text_normalized": "i love my new bike . this is a picture of a sign . this is a picture of a beer . she was very happy to see me . then he found out that he had to take a picture of him .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i love my new bike . this sign commemorates the 10th anniversary of this bike model . this is a picture of a classic beer . [female] was very happy to see me with the bike. then [male] found out that [male] had to take a picture of him with the bike .",
+      "normalized_edited_story_text_sent": [
+        "i love my new bike .",
+        "this sign commemorates the 10th anniversary of this bike model .",
+        "this is a picture of a classic beer .",
+        "[female] was very happy to see me with the bike .",
+        "then [male] found out that [male] had to take a picture of him with the bike ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i love my new bike . this is a picture of a sign . this is a picture of a beer . this is a bike, this is a bike part.",
+      "normalized_edited_story_text_sent": [
+        "i love my new bike .",
+        "this is a picture of a sign .",
+        "this is a picture of a beer .",
+        "this is a bike , this is a bike part ."
+      ]
+    },
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "Yesterday I picked my new bike up from the shop and I love it! I took it out for a test ride and took some photos of it along the way. As you can see it\u0027s a 16th anniversary model and the \"LifeCycle\" company was around from 1972-1982. The gears and chains are very retro.",
+      "normalized_edited_story_text_sent": [
+        "yesterday i picked my new bike up from the shop and i love it !",
+        "i took it out for a test ride and took some photos of it along the way .",
+        "as you can see it \u0027s a 16th anniversary model and the `` lifecycle \u0027\u0027 company was around from 1972-1982 .",
+        "the gears and chains are very retro ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "i love my new bike . this is a picture of part of it . here\u0027s another part of the bike . this is the seat . i might have to oil the gears before i use it .",
+      "normalized_edited_story_text_sent": [
+        "i love my new bike .",
+        "this is a picture of part of it .",
+        "here \u0027s another part of the bike .",
+        "this is the seat .",
+        "i might have to oil the gears before i use it ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "i love my bike . My bike is new. Here is a photo of a sign . Here is a photo of a beer . she was thrilled to see me . then he discovered that he had to take a photo of him .",
+      "normalized_edited_story_text_sent": [
+        "i love my bike .",
+        "my bike is new .",
+        "here is a photo of a sign .",
+        "here is a photo of a beer .",
+        "she was thrilled to see me .",
+        "then he discovered that he had to take a photo of him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594503266848"
+}

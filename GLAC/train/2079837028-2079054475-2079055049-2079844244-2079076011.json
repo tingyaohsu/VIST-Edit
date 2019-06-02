@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "2079837028-2079054475-2079055049-2079844244-2079076011",
+  "photo_sequence_ids": [
+    "2079837028",
+    "2079054475",
+    "2079055049",
+    "2079844244",
+    "2079076011"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the market was full of fresh produce . there were many different types of food . the vendors sold all kinds of foods . the market was open and busy . the market was a popular place .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the market was full of fresh produce . there were many different types of food . the vendors sold many types of foods . the market was open and busy . the market was a popular place .",
+      "normalized_edited_story_text_sent": [
+        "the market was full of fresh produce .",
+        "there were many different types of food .",
+        "the vendors sold many types of foods .",
+        "the market was open and busy .",
+        "the market was a popular place ."
+      ]
+    },
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the market was full of fresh produce. the vendors sold all kinds of foods . the market was a popular and busy place .",
+      "normalized_edited_story_text_sent": [
+        "the market was full of fresh produce .",
+        "the vendors sold all kinds of foods .",
+        "the market was a popular and busy place ."
+      ]
+    },
+    {
+      "worker_id": "A2WWDCN2KF1HGN",
+      "edited_story_text": "the market was full of fresh produce and flowers. the vendors sold many different types of food .  the market had outdoor seating and was very busy .  It was a very colorful experience.",
+      "normalized_edited_story_text_sent": [
+        "the market was full of fresh produce and flowers .",
+        "the vendors sold many different types of food .",
+        "the market had outdoor seating and was very busy .",
+        "it was a very colorful experience ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "this market is a popular place to visit, and is thus always busy.  it is an open market.  it sells a lot of fresh produce.  also, there are a lot of vendors selling many different varieties of food.",
+      "normalized_edited_story_text_sent": [
+        "this market is a popular place to visit , and is thus always busy .",
+        "it is an open market .",
+        "it sells a lot of fresh produce .",
+        "also , there are a lot of vendors selling many different varieties of food ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The market was full of fresh produce, with lots of different types of food from the vendors. The market was open and busy, and very popular.",
+      "normalized_edited_story_text_sent": [
+        "the market was full of fresh produce , with lots of different types of food from the vendors .",
+        "the market was open and busy , and very popular ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603352064009",
+  "model": "GLAC"
+}

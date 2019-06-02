@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "425113508-425114749-425113948-425116098-425114521",
+  "photo_sequence_ids": [
+    "425113508",
+    "425114749",
+    "425113948",
+    "425116098",
+    "425114521"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the zoo . they saw a lot of interesting things . they even saw a few scary statues . the camels were very impressive . the kids enjoyed the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ELPYAFO7MANS",
+      "edited_story_text": "Our family went to the zoo! We saw a lot of interesting things, including a few scary statues. The camels were very impressive! Look how much the kids enjoyed the day.",
+      "normalized_edited_story_text_sent": [
+        "our family went to the zoo !",
+        "we saw a lot of interesting things , including a few scary statues .",
+        "the camels were very impressive !",
+        "look how much the kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the family went to the zoo . they saw a lot of interesting things creatures . They took many pictures . the kids enjoyed the day .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the zoo .",
+        "they saw a lot of interesting things creatures .",
+        "they took many pictures .",
+        "the kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family went to the zoo . We saw a lot of interesting things . We even saw a few scary statues . The camels were very impressive . Our kids enjoyed the day .",
+      "normalized_edited_story_text_sent": [
+        "my family went to the zoo .",
+        "we saw a lot of interesting things .",
+        "we even saw a few scary statues .",
+        "the camels were very impressive .",
+        "our kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went to the beach on a hike. they saw a lot of interesting things . they even saw a few scary statues. the kids enjoyed the day.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the beach on a hike .",
+        "they saw a lot of interesting things .",
+        "they even saw a few scary statues .",
+        "the kids enjoyed the day ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went to the lake. They hiked. There was a cool tree. They wore backpacks and visited the lodge.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the lake .",
+        "they hiked .",
+        "there was a cool tree .",
+        "they wore backpacks and visited the lodge ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600006405360",
+  "model": "GLAC"
+}

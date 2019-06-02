@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4253097911-4253101795-4253860848-4253875856-4253113455",
+  "photo_sequence_ids": [
+    "4253097911",
+    "4253101795",
+    "4253860848",
+    "4253875856",
+    "4253113455"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old church was a great place to visit . the family was excited . the house was very nice . the inside was beautiful . the kids were happy about the day .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the old church was a very great place to visit . the family was excited to be there. the house we stayed in was very nice. the inside was very beautiful. the kids were very happy about the day .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a very great place to visit .",
+        "the family was excited to be there .",
+        "the house we stayed in was very nice .",
+        "the inside was very beautiful .",
+        "the kids were very happy about the day ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the old church was a great place to visit for the weekend . the family was excited that everyone had come over. the house was very nice and big enough for every family member. the inside was beautiful and the outside was pretty also. the kids were happy about the day as they got to hang out .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit for the weekend .",
+        "the family was excited that everyone had come over .",
+        "the house was very nice and big enough for every family member .",
+        "the inside was beautiful and the outside was pretty also .",
+        "the kids were happy about the day as they got to hang out ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "The old church was a great place to visit with the family. Everyone was excited about visiting the church. The house we stayed in was very nice. The inside of the house was beautiful. The kids were all happy about the day.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit with the family .",
+        "everyone was excited about visiting the church .",
+        "the house we stayed in was very nice .",
+        "the inside of the house was beautiful .",
+        "the kids were all happy about the day ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The old church was a great place to visit. The family was excited to see it, and the house was really nice too. The inside was beautiful, really. The kids were very happy about the day .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the family was excited to see it , and the house was really nice too .",
+        "the inside was beautiful , really .",
+        "the kids were very happy about the day ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the old church was a great place to visit . the family was excited . the house was very nice . the inside was beautiful . the couple sat together and were very calm.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the family was excited .",
+        "the house was very nice .",
+        "the inside was beautiful .",
+        "the couple sat together and were very calm ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623035815239",
+  "model": "GLAC"
+}

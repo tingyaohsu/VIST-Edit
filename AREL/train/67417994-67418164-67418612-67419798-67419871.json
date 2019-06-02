@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "67417994-67418164-67418612-67419798-67419871",
+  "photo_sequence_ids": [
+    "67417994",
+    "67418164",
+    "67418612",
+    "67419798",
+    "67419871"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/27/67417994_82171cfaba_o.jpg",
+    "https://farm1.staticflickr.com/33/67418164_cd18ed7179_o.jpg",
+    "https://farm1.staticflickr.com/28/67418612_4dd3f4693d_o.jpg",
+    "https://farm1.staticflickr.com/32/67419798_54c4c4851b_o.jpg",
+    "https://farm1.staticflickr.com/29/67419871_3f59956ab0_o.jpg"
+  ],
+  "auto_story_text_normalized": "i made a lot of food for the party . the man is ready to cook the food . we had a lot of food to eat . after that , we all sat down and had a lot of fun . everyone had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I made a lot of food for the party. [Male] helped me to cook the food. We had a lot of food to eat, so we sat down and had a lot of fun. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party .",
+        "[male] helped me to cook the food .",
+        "we had a lot of food to eat , so we sat down and had a lot of fun .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "i made a lot of food for the party . we ended up having a lot of food to eat . after that , we all sat down and had a lot of fun together around the table.",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party .",
+        "we ended up having a lot of food to eat .",
+        "after that , we all sat down and had a lot of fun together around the table ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i made a lot of food for the party . we had a lot of food to eat . after eating , we all sat down and had a lot of fun . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party .",
+        "we had a lot of food to eat .",
+        "after eating , we all sat down and had a lot of fun .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i made a lot of food for the party . this man is ready to cook the food . we ate a lot of food . after that , we all sat down and had a lot of fun . everyone had a great time .",
+      "normalized_edited_story_text_sent": [
+        "i made a lot of food for the party .",
+        "this man is ready to cook the food .",
+        "we ate a lot of food .",
+        "after that , we all sat down and had a lot of fun .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "i made food for the party . the men were ready to cook the food.  we all sat down and ate and had a lot of fun we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "i made food for the party .",
+        "the men were ready to cook the food .",
+        "we all sat down and ate and had a lot of fun we all had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "1455232"
+}

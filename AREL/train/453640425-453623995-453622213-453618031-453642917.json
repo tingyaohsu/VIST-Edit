@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "453640425-453623995-453622213-453618031-453642917",
+  "photo_sequence_ids": [
+    "453640425",
+    "453623995",
+    "453622213",
+    "453618031",
+    "453642917"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/199/453640425_424a2fbffa_o.jpg",
+    "https://farm1.staticflickr.com/222/453623995_bdc4a669cc_o.jpg",
+    "https://farm1.staticflickr.com/172/453622213_b4e32e3182_o.jpg",
+    "https://farm1.staticflickr.com/185/453618031_f324127d48_o.jpg",
+    "https://farm1.staticflickr.com/242/453642917_1e89492c30_o.jpg"
+  ],
+  "auto_story_text_normalized": "the parade was a lot of fun . this is a picture of a woman . there were a lot of people there . it was a great day . it was a great event .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The parade was a lot of fun! There were a lot of people there. Here\u0027s a picture of a woman who was there. It was a great day, and a great event.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun !",
+        "there were a lot of people there .",
+        "here \u0027s a picture of a woman who was there .",
+        "it was a great day , and a great event ."
+      ]
+    },
+    {
+      "worker_id": "A2G8DTHDX0XO4I",
+      "edited_story_text": ". there were a lot of people there having great fun at the celebration.",
+      "normalized_edited_story_text_sent": [
+        ".",
+        "there were a lot of people there having great fun at the celebration ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the parade was a lot of fun . this is a picture of a woman . there were a lot of people there . it was a great day and it was a great event .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "this is a picture of a woman .",
+        "there were a lot of people there .",
+        "it was a great day and it was a great event ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the parade is a lot of fun . this was a picture of a woman . there are a lot of people there . it is a great day . it is a great event .",
+      "normalized_edited_story_text_sent": [
+        "the parade is a lot of fun .",
+        "this was a picture of a woman .",
+        "there are a lot of people there .",
+        "it is a great day .",
+        "it is a great event ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The parade was a really fun time. Some people rode on little kid bikes. I saw some strange costumes. A lot of people were there that day. It was a great time and I\u0027m glad I went.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a really fun time .",
+        "some people rode on little kid bikes .",
+        "i saw some strange costumes .",
+        "a lot of people were there that day .",
+        "it was a great time and i \u0027m glad i went ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600061046554"
+}

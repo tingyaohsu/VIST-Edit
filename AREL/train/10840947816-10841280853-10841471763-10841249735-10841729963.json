@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "10840947816-10841280853-10841471763-10841249735-10841729963",
+  "photo_sequence_ids": [
+    "10840947816",
+    "10841280853",
+    "10841471763",
+    "10841249735",
+    "10841729963"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3749/10840947816_b0c65acb69_o.jpg",
+    "https://farm3.staticflickr.com/2892/10841280853_b8eda7a4f9_o.jpg",
+    "https://farm4.staticflickr.com/3774/10841471763_70a6ac3ffb_o.jpg",
+    "https://farm8.staticflickr.com/7455/10841249735_31932d6d8a_o.jpg",
+    "https://farm8.staticflickr.com/7431/10841729963_0e3708b8b9_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the halloween party last night . there were a lot of candles on the table . [male] and [female] are having a good time . this is a picture of a tree . everyone had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we had a great time at the halloween party last night . there were a lot of cupcakes on the table . [John] and [Mary] are having a good time . this is a picture of a person . everyone had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "there were a lot of cupcakes on the table .",
+        "[male] and [female] are having a good time .",
+        "this is a picture of a person .",
+        "everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we had a great time at the halloween party last night. there were a lot of cupcakes my friend had decorated. [male] and [female] had a good time. a lot of people dressed up in costumes.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "there were a lot of cupcakes my friend had decorated .",
+        "[male] and [female] had a good time .",
+        "a lot of people dressed up in costumes ."
+      ]
+    },
+    {
+      "worker_id": "A180I0O75AM7TJ",
+      "edited_story_text": "We had a great time at the Halloween party last night. There were so many candles on the table. [male] and [female] had a good time. This is a picture of a silhouette. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "there were so many candles on the table .",
+        "[male] and [female] had a good time .",
+        "this is a picture of a silhouette .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we had a great time at the halloween party last night . there were a lot of cupcakes on the table . [John] and [Sally] are having a good time  . everyone had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "there were a lot of cupcakes on the table .",
+        "[male] and [female] are having a good time .",
+        "everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "AZSB87DCJL4QB",
+      "edited_story_text": "We had a great time at the Halloween party last night. There were a lot of candles on our table. [Joseph] and [Marie] were having a good time. This is a picture of someone posing as a tree . Everyone had a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the halloween party last night .",
+        "there were a lot of candles on our table .",
+        "[male] and [female] were having a good time .",
+        "this is a picture of someone posing as a tree .",
+        "everyone had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157637638220793"
+}

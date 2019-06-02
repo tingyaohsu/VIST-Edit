@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4335682616-4334937829-4335685096-4334938719-4335679242",
+  "photo_sequence_ids": [
+    "4335682616",
+    "4334937829",
+    "4335685096",
+    "4334938719",
+    "4335679242"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4040/4335682616_49582f52c0_o.jpg",
+    "https://farm5.staticflickr.com/4007/4334937829_56ef342ec8_o.jpg",
+    "https://farm5.staticflickr.com/4044/4335685096_bcf21e849d_o.jpg",
+    "https://farm5.staticflickr.com/4031/4334938719_feef3cfe06_o.jpg",
+    "https://farm3.staticflickr.com/2784/4335679242_65bbf45c51_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is the view from the top of the mountain . everyone gathered around the building to see what was going on . we had a great time . we had a great time at the party . there was a lot of animals there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2QJH6SM06D8OR",
+      "edited_story_text": "this is the view from the top of the mountain . everyone gathered around the building to celebrate and party. We all had a great time at the party . there was a lot of animals there",
+      "normalized_edited_story_text_sent": [
+        "this is the view from the top of the mountain .",
+        "everyone gathered around the building to celebrate and party .",
+        "we all had a great time at the party .",
+        "there was a lot of animals there"
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "We went sight seeing and saw everything from mountaintops to villages and animals.  At the end of the day the village had a party and it was a great time.",
+      "normalized_edited_story_text_sent": [
+        "we went sight seeing and saw everything from mountaintops to villages and animals .",
+        "at the end of the day the village had a party and it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is the view from the top of the mountain. everyone gathered around the building to see what was going on. There was a lot of animals there. The view was picturesque.  At night, people gathered for a festivity.",
+      "normalized_edited_story_text_sent": [
+        "this is the view from the top of the mountain .",
+        "everyone gathered around the building to see what was going on .",
+        "there was a lot of animals there .",
+        "the view was picturesque .",
+        "at night , people gathered for a festivity ."
+      ]
+    },
+    {
+      "worker_id": "A1I3QYJJU5ACFR",
+      "edited_story_text": "this is the view from the top of the mountain.  I climbed up the mountain to attain a local village party.  everyone gathered around the building to see what was going on . I  had a great time  at the party . there was a lot of animals there and beautiful scenary.",
+      "normalized_edited_story_text_sent": [
+        "this is the view from the top of the mountain .",
+        "i climbed up the mountain to attain a local village party .",
+        "everyone gathered around the building to see what was going on .",
+        "i had a great time at the party .",
+        "there was a lot of animals there and beautiful scenary ."
+      ]
+    },
+    {
+      "worker_id": "A2HHQJVM3JJQ8F",
+      "edited_story_text": "this is the view from the top of the mountain . people were living in shanties . a community gathering place was built with bamboo . there was a candlelight vigil at night . people worked in the fields .",
+      "normalized_edited_story_text_sent": [
+        "this is the view from the top of the mountain .",
+        "people were living in shanties .",
+        "a community gathering place was built with bamboo .",
+        "there was a candlelight vigil at night .",
+        "people worked in the fields ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623366569792"
+}

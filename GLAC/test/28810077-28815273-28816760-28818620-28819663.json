@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "28810077-28815273-28816760-28818620-28819663",
+  "photo_sequence_ids": [
+    "28810077",
+    "28815273",
+    "28816760",
+    "28818620",
+    "28819663"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bride and groom are getting ready for the wedding . the couple is walking down the aisle . the bride and groom pose for pictures . the bride and groom are dancing . the man is taking a picture with his father .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There were people in white suits with masks. There were others in green tshirts. They were all on the street talking to people.",
+      "normalized_edited_story_text_sent": [
+        "there were people in white suits with masks .",
+        "there were others in green tshirts .",
+        "they were all on the street talking to people ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "it was a dangerous scene. a chemical leak happened nearby. extra precaution had to be had.",
+      "normalized_edited_story_text_sent": [
+        "it was a dangerous scene .",
+        "a chemical leak happened nearby .",
+        "extra precaution had to be had ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "A woman and man were talking to a person from environmental protection . the environmental worker walked along a brick road.  Then two environmental worker spoke to more people on the street. More workers gathered to speak to others on the road. Then the environmental workers communicated with 2 people in suits and a man in casual attire.",
+      "normalized_edited_story_text_sent": [
+        "a woman and man were talking to a person from environmental protection .",
+        "the environmental worker walked along a brick road .",
+        "then two environmental worker spoke to more people on the street .",
+        "more workers gathered to speak to others on the road .",
+        "then the environmental workers communicated with 2 people in suits and a man in casual attire ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The bride and groom were getting ready for the wedding. The couple then walked down the aisle. The bride and groom stopped and posed for pictures. Later, the bride and groom were dancing.  The man also took a picture with his father.",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom were getting ready for the wedding .",
+        "the couple then walked down the aisle .",
+        "the bride and groom stopped and posed for pictures .",
+        "later , the bride and groom were dancing .",
+        "the man also took a picture with his father ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the bride and groom are getting ready for the fun wedding . the couple is walking down the aisle . the bride and groom pose for the cameras. the bride and groom are dancing . the man is taking a picture with his father .",
+      "normalized_edited_story_text_sent": [
+        "the bride and groom are getting ready for the fun wedding .",
+        "the couple is walking down the aisle .",
+        "the bride and groom pose for the cameras .",
+        "the bride and groom are dancing .",
+        "the man is taking a picture with his father ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "649651",
+  "model": "GLAC"
+}

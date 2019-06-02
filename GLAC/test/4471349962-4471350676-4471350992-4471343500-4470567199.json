@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4471349962-4471350676-4471350992-4471343500-4470567199",
+  "photo_sequence_ids": [
+    "4471349962",
+    "4471350676",
+    "4471350992",
+    "4471343500",
+    "4470567199"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people . the buildings were very old . they were all very talented . they were having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The parade was a lot of fun, and there were so many people there, too! The buildings were so old, and the people were all quite talented. They were having a great time.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun , and there were so many people there , too !",
+        "the buildings were so old , and the people were all quite talented .",
+        "they were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "They posed for pictures. The capital building was pretty on a clear day. Many people were around.",
+      "normalized_edited_story_text_sent": [
+        "they posed for pictures .",
+        "the capital building was pretty on a clear day .",
+        "many people were around ."
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the veteran\u0027s day parade was a lot of fun . there were so many people watching the military parade. the buildings were very old and well designed. the musicians were all very talented . my family were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "the veteran \u0027s day parade was a lot of fun .",
+        "there were so many people watching the military parade .",
+        "the buildings were very old and well designed .",
+        "the musicians were all very talented .",
+        "my family were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the parade was a lot of fun . there were so many people . the buildings were very old . they were all very talented . they were having a great time .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the parade was a lot of fun .",
+        "there were so many people .",
+        "the buildings were very old .",
+        "they were all very talented .",
+        "they were having a great time ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the parade was a lot of fun . there were so many people .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623722453984",
+  "model": "GLAC"
+}

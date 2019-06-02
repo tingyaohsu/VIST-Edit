@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4417473846-4416709231-4417474294-4417474310-4416709365",
+  "photo_sequence_ids": [
+    "4417473846",
+    "4416709231",
+    "4417474294",
+    "4417474310",
+    "4416709365"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very knowledgeable . he spoke to the audience . he was very passionate . he was also a bit nervous . he was a great leader .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "JOHN AND  MARY SAID the speaker was very knowledgeable . he spoke to the audience . he was very passionate . he was also a bit nervous . he was a great leader .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] said the speaker was very knowledgeable .",
+        "he spoke to the audience .",
+        "he was very passionate .",
+        "he was also a bit nervous .",
+        "he was a great leader ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The speaker was very knowledgeable. he spoke to the audience passionately. he was a bit nervous, but a great leader.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he spoke to the audience passionately .",
+        "he was a bit nervous , but a great leader ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the speaker was very knowledgeable on his topic. he spoke to the audience. he was very passionate about his topic. he was also a bit nervous. he was a great leader .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable on his topic .",
+        "he spoke to the audience .",
+        "he was very passionate about his topic .",
+        "he was also a bit nervous .",
+        "he was a great leader ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker shared his breadth of knowledge . he spoke candidly to the crowd . his passion was on display . the speaker was also a bit nervous at first . he proved his leadership potential .",
+      "normalized_edited_story_text_sent": [
+        "the speaker shared his breadth of knowledge .",
+        "he spoke candidly to the crowd .",
+        "his passion was on display .",
+        "the speaker was also a bit nervous at first .",
+        "he proved his leadership potential ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the speaker was very knowledgeable . he spoke to a large audience . he was passionate . he was also a little nervous . he was a great speaker.  Everyone seemed to like him.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very knowledgeable .",
+        "he spoke to a large audience .",
+        "he was passionate .",
+        "he was also a little nervous .",
+        "he was a great speaker .",
+        "everyone seemed to like him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623454926785",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "16650306-16149703-16650303-16149704-16054905",
+  "photo_sequence_ids": [
+    "16650306",
+    "16149703",
+    "16650303",
+    "16149704",
+    "16054905"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing music . the band was getting ready to play . the guitarist was singing . the drummer was very talented . the lead singer was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3E6ZHAKWMK0RW",
+      "edited_story_text": "The band was playing some really awesome music. While the band was getting ready to play Lisa was tuning up her guitar and singing. I think the best part of the whole event was the drummer and the lead singer.",
+      "normalized_edited_story_text_sent": [
+        "the band was playing some really awesome music .",
+        "while the band was getting ready to play [female] was tuning up her guitar and singing .",
+        "i think the best part of the whole event was the drummer and the lead singer ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the band was playing music. the musicians played flutes and other instruments. the guitarist was singing. the drummer was very talented. the lead singer was very good .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing music .",
+        "the musicians played flutes and other instruments .",
+        "the guitarist was singing .",
+        "the drummer was very talented .",
+        "the lead singer was very good ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the band was playing great music . the band was getting ready to play . the guitarist was singing . the drummer was very skilled. the lead singer was very good .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing great music .",
+        "the band was getting ready to play .",
+        "the guitarist was singing .",
+        "the drummer was very skilled .",
+        "the lead singer was very good ."
+      ]
+    },
+    {
+      "worker_id": "A1TXCO12MCTP8P",
+      "edited_story_text": "We saw this great band preparing to give a free concert on the street. We decided to hang around since the players were getting ready to play. We were glad we waited. The guitarist was also one of the singers, and she was awesome. The drummer was also very talented. But the  lead singer stole the show . It was a wonderful performance.",
+      "normalized_edited_story_text_sent": [
+        "we saw this great band preparing to give a free concert on the street .",
+        "we decided to hang around since the players were getting ready to play .",
+        "we were glad we waited .",
+        "the guitarist was also one of the singers , and she was awesome .",
+        "the drummer was also very talented .",
+        "but the lead singer stole the show .",
+        "it was a wonderful performance ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The band was getting ready, and then they were playing music. Oh, and the guitarist was singing, too, that was cool. I have to say, the drummer was very talented, and the lead singer was very good also.",
+      "normalized_edited_story_text_sent": [
+        "the band was getting ready , and then they were playing music .",
+        "oh , and the guitarist was singing , too , that was cool .",
+        "i have to say , the drummer was very talented , and the lead singer was very good also ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "448900",
+  "model": "GLAC"
+}

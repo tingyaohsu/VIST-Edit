@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4249397364-4249402354-4249403114-4248633385-4248634247",
+  "photo_sequence_ids": [
+    "4249397364",
+    "4249402354",
+    "4249403114",
+    "4248633385",
+    "4248634247"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the windows were so nice . the church was also in the middle of the street . the room was well furnished . the dining area was clean and inviting .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "i took some pictures of local buildings. the green building was very tall, and its windows looked so nice from inside. i also got a nice balcony view. there was a church in the middle of the street . also got a shot of a well-furnished dining area that was clean and inviting .",
+      "normalized_edited_story_text_sent": [
+        "i took some pictures of local buildings .",
+        "the green building was very tall , and its windows looked so nice from inside .",
+        "i also got a nice balcony view .",
+        "there was a church in the middle of the street .",
+        "also got a shot of a well-furnished dining area that was clean and inviting ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the building was very tall . the windows were nice and big. the church was also in the middle of the street . the room was well furnished . the dining area was clean and inviting .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the windows were nice and big .",
+        "the church was also in the middle of the street .",
+        "the room was well furnished .",
+        "the dining area was clean and inviting ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the building was very tall and could be seen all over town . the windows were so nice due to being cleaned the night before . the church was also in the middle of the street which was a meeting place for many . the room was well furnished with the best furniture. the dining area was clean and inviting which welcomed everybody .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall and could be seen all over town .",
+        "the windows were so nice due to being cleaned the night before .",
+        "the church was also in the middle of the street which was a meeting place for many .",
+        "the room was well furnished with the best furniture .",
+        "the dining area was clean and inviting which welcomed everybody ."
+      ]
+    },
+    {
+      "worker_id": "A20S8DKJRN3FK6",
+      "edited_story_text": "The new apartment buildings are very large. The windows are very tall, they give a great view of the city around us. There\u0027s even a church nearby! It\u0027s a very nice area. The lobby is also well furnished, it\u0027s all very inviting.",
+      "normalized_edited_story_text_sent": [
+        "the new apartment buildings are very large .",
+        "the windows are very tall , they give a great view of the city around us .",
+        "there \u0027s even a church nearby !",
+        "it \u0027s a very nice area .",
+        "the lobby is also well furnished , it \u0027s all very inviting ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the street\u0027s skyscrapers were impressive . the windows glistened. the church towered over the city\u0027s main street. the room full of antic furnishings . the dining room spot, well appointed and fancifully so.",
+      "normalized_edited_story_text_sent": [
+        "the street \u0027s skyscrapers were impressive .",
+        "the windows glistened .",
+        "the church towered over the city \u0027s main street .",
+        "the room full of antic furnishings .",
+        "the dining room spot , well appointed and fancifully so ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623165416012",
+  "model": "GLAC"
+}

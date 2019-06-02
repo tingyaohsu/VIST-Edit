@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "1565939996-1565083739-1565093813-1565981998-1565972884",
+  "photo_sequence_ids": [
+    "1565939996",
+    "1565083739",
+    "1565093813",
+    "1565981998",
+    "1565972884"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the trees were covered in snow . the sun was setting . the birds were excited to see the fireworks . the white flower was the best . the bird was the only one .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The trees were absolutely covered in snow. The sun was setting, and I think the birds were excited to see the fireworks. The white flower we passed was beautiful, too. Sadly the bird we saw was the only one.",
+      "normalized_edited_story_text_sent": [
+        "the trees were absolutely covered in snow .",
+        "the sun was setting , and i think the birds were excited to see the fireworks .",
+        "the white flower we passed was beautiful , too .",
+        "sadly the bird we saw was the only one ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the trees were covered in white snow . the sun was setting . the birds were stirred to see the fireworks . the white flower was the best . the bird was the only one .",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in white snow .",
+        "the sun was setting .",
+        "the birds were stirred to see the fireworks .",
+        "the white flower was the best .",
+        "the bird was the only one ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the trees were covered in snow but melted away quickly . the sun was setting to the east . the birds were excited to see the fireworks and flew up in the air as they went off. the white flower was the best to reflect the night sky . the bird was the only one who wasn\u0027t afraid of the spider .",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in snow but melted away quickly .",
+        "the sun was setting to the east .",
+        "the birds were excited to see the fireworks and flew up in the air as they went off .",
+        "the white flower was the best to reflect the night sky .",
+        "the bird was the only one who was n\u0027t afraid of the spider ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the trees were covered in dew . the sun was setting . the birds were excited to see the fireworks . the white flower was the best . we saw an otter swimming.",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in dew .",
+        "the sun was setting .",
+        "the birds were excited to see the fireworks .",
+        "the white flower was the best .",
+        "we saw an otter swimming ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the trees were covered in snow . the sun was setting . the people were excited to see the fireworks . the white flower was the best . the spider wove it� web .",
+      "normalized_edited_story_text_sent": [
+        "the trees were covered in snow .",
+        "the sun was setting .",
+        "the people were excited to see the fireworks .",
+        "the white flower was the best .",
+        "the spider wove it \u0027s web ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157602410720603",
+  "model": "GLAC"
+}

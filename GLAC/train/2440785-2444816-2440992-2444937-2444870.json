@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "2440785-2444816-2440992-2444937-2444870",
+  "photo_sequence_ids": [
+    "2440785",
+    "2444816",
+    "2440992",
+    "2444937",
+    "2444870"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the park . they saw a lot of interesting things . they also saw some pretty flowers . they even had a bug . the kids were so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family decided to go to the park together . they saw interesting fauna . there were colorful and vivacious flowers at the park . they saw an interesting bug . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family decided to go to the park together .",
+        "they saw interesting fauna .",
+        "there were colorful and vivacious flowers at the park .",
+        "they saw an interesting bug .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AVOF14300525D",
+      "edited_story_text": "My family went to the park . We saw a lot of interesting things . We also saw some pretty flowers . They even had a bug . The kids were so happy .",
+      "normalized_edited_story_text_sent": [
+        "my family went to the park .",
+        "we saw a lot of interesting things .",
+        "we also saw some pretty flowers .",
+        "they even had a bug .",
+        "the kids were so happy ."
+      ]
+    },
+    {
+      "worker_id": "A21Q7FCKM86VL8",
+      "edited_story_text": "David went to a park . He saw a lot of interesting things . David also saw some pretty flowers . They were covered with snow . David was so happy to have gone to the park.",
+      "normalized_edited_story_text_sent": [
+        "[male] went to a park .",
+        "he saw a lot of interesting things .",
+        "[male] also saw some pretty flowers .",
+        "they were covered with snow .",
+        "[male] was so happy to have gone to the park ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family went to the park . It had just snowed.  The snow on the trees were beautiful.  The buildings had great architecture.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park .",
+        "it had just snowed .",
+        "the snow on the trees were beautiful .",
+        "the buildings had great architecture ."
+      ]
+    },
+    {
+      "worker_id": "A1ET2J1PIP0RGO",
+      "edited_story_text": "the family went to the park . they buildings were tall . they also saw some pretty flowers that were covered in snow.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park .",
+        "they buildings were tall .",
+        "they also saw some pretty flowers that were covered in snow ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "61562",
+  "model": "GLAC"
+}

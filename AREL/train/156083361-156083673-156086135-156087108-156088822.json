@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "156083361-156083673-156086135-156087108-156088822",
+  "photo_sequence_ids": [
+    "156083361",
+    "156083673",
+    "156086135",
+    "156087108",
+    "156088822"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/65/156083361_ca924f4d61_o.jpg",
+    "https://farm1.staticflickr.com/60/156083673_ea752a6e61_o.jpg",
+    "https://farm1.staticflickr.com/57/156086135_eba020bc68_o.jpg",
+    "https://farm1.staticflickr.com/74/156087108_c0a5790804_o.jpg",
+    "https://farm1.staticflickr.com/58/156088822_7b99cf7d2b_o.jpg"
+  ],
+  "auto_story_text_normalized": "we all gathered around the house to get some food . the food was delicious . the guys had a good time . even the dog had a great time . after that we had a few drinks .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We all gathered outside the house to cook some food. The food was delicious and the guys had a good time! Even the dog had a good time. After that, we had a few drinks.",
+      "normalized_edited_story_text_sent": [
+        "we all gathered outside the house to cook some food .",
+        "the food was delicious and the guys had a good time !",
+        "even the dog had a good time .",
+        "after that , we had a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "A1G8VYFE8JD65N",
+      "edited_story_text": "We all gathered around the house to get some food and had a barbeque. The food was delicious. We all had a great time, especially Matt, who brought his daughter.  Even the dog had a great time, since Matt\u0027s daughter spent the whole evening right beside him. After Matt left, we had a few drinks and everyone went home in a taxi.",
+      "normalized_edited_story_text_sent": [
+        "we all gathered around the house to get some food and had a barbeque .",
+        "the food was delicious .",
+        "we all had a great time , especially matt , who brought his daughter .",
+        "even the dog had a great time , since matt \u0027s daughter spent the whole evening right beside him .",
+        "after matt left , we had a few drinks and everyone went home in a taxi ."
+      ]
+    },
+    {
+      "worker_id": "AZY5SEBDQO4UA",
+      "edited_story_text": "we all whole assembled around the house to get some food . the food was delectable. the guys had a decent time . even the puppy had a great time . after that we had a few drinks .",
+      "normalized_edited_story_text_sent": [
+        "we all whole assembled around the house to get some food .",
+        "the food was delectable .",
+        "the guys had a decent time .",
+        "even the puppy had a great time .",
+        "after that we had a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "A2D30R5ZNQS01W",
+      "edited_story_text": "We all gathered around the house to get some food. The food was delicious. The guys had a good time. Even the dog had a great time! We had a great night.",
+      "normalized_edited_story_text_sent": [
+        "we all gathered around the house to get some food .",
+        "the food was delicious .",
+        "the guys had a good time .",
+        "even the dog had a great time !",
+        "we had a great night ."
+      ]
+    },
+    {
+      "worker_id": "A26HIBLVF2REIT",
+      "edited_story_text": "we all gathered at home to have some food, which was delicious . the guys had a good time, even the dog had a great time . after that we all had a few drinks .",
+      "normalized_edited_story_text_sent": [
+        "we all gathered at home to have some food , which was delicious .",
+        "the guys had a good time , even the dog had a great time .",
+        "after that we all had a few drinks ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157594149296972"
+}

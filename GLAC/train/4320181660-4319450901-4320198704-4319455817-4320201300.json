@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4320181660-4319450901-4320198704-4319455817-4320201300",
+  "photo_sequence_ids": [
+    "4320181660",
+    "4319450901",
+    "4320198704",
+    "4319455817",
+    "4320201300"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was a very unique place . there were many people there . the buildings were all different . the streets were full of snow . the horses were covered in snow .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city had a unique flavor . the streets were bustling . the buildings had their own unique qualities . the streets had been covered with snow before . even horses were snow encrusted .",
+      "normalized_edited_story_text_sent": [
+        "the city had a unique flavor .",
+        "the streets were bustling .",
+        "the buildings had their own unique qualities .",
+        "the streets had been covered with snow before .",
+        "even horses were snow encrusted ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the museum was a very unique place . there were re enactors there . they had a market too . the streets were lined with live oak trees. the fence had scvary spikes .",
+      "normalized_edited_story_text_sent": [
+        "the museum was a very unique place .",
+        "there were re enactors there .",
+        "they had a market too .",
+        "the streets were lined with live oak trees .",
+        "the fence had scvary spikes ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the city was a very unique place . there were many people there . We went to a museum. There was a pretty tree lined road. We saw an interesting fence.",
+      "normalized_edited_story_text_sent": [
+        "the city was a very unique place .",
+        "there were many people there .",
+        "we went to a museum .",
+        "there was a pretty tree lined road .",
+        "we saw an interesting fence ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was a very unique place to take friends to . there were many people there to relax after work . the buildings were all different and had many different colors . the streets were full of snow but it melted away quickly . the horses were covered in snow but went to the barn to keep warm.",
+      "normalized_edited_story_text_sent": [
+        "the city was a very unique place to take friends to .",
+        "there were many people there to relax after work .",
+        "the buildings were all different and had many different colors .",
+        "the streets were full of snow but it melted away quickly .",
+        "the horses were covered in snow but went to the barn to keep warm ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "the city we visited was full of unique places - such as the Apartheid Museum and the Craft Market. We saw women having a lively conversation, walked along a tree-lined street and even saw a tall, wired fence.",
+      "normalized_edited_story_text_sent": [
+        "the city we visited was full of unique places - such as the apartheid museum and the craft market .",
+        "we saw women having a lively conversation , walked along a tree-lined street and even saw a tall , wired fence ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623322062438",
+  "model": "GLAC"
+}

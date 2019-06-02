@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "12836196545-12836277663-12836194785-12836275863-12836276873",
+  "photo_sequence_ids": [
+    "12836196545",
+    "12836277663",
+    "12836194785",
+    "12836275863",
+    "12836276873"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7392/12836196545_c0c41d1da7_o.jpg",
+    "https://farm4.staticflickr.com/3753/12836277663_5bd6d8d277_o.jpg",
+    "https://farm8.staticflickr.com/7347/12836194785_9a4507b998_o.jpg",
+    "https://farm4.staticflickr.com/3681/12836275863_1606b0a293_o.jpg",
+    "https://farm4.staticflickr.com/3813/12836276873_1e7a2845da_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time there . i had a great time there . the ground was covered in snow . it was a lot of fun . it was a very nice day .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i had a great time there . the ground was covered in snow and it was a lot of fun . it was a very nice day .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time there .",
+        "the ground was covered in snow and it was a lot of fun .",
+        "it was a very nice day ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i had a great time there. the ground was covered in snow, but it was a very nice day.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time there .",
+        "the ground was covered in snow , but it was a very nice day ."
+      ]
+    },
+    {
+      "worker_id": "A1TC7LQ4XXOIP9",
+      "edited_story_text": "i had a great time looking at the photos. i wish i could go every day . the ground was covered in dirt. the house was a mess . it was a very nice day .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time looking at the photos .",
+        "i wish i could go every day .",
+        "the ground was covered in dirt .",
+        "the house was a mess .",
+        "it was a very nice day ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i had a great time at the museum. they had some really cool works of art there. afterward, we went on a walk through the neighborhood. the ground was covered in snow. it was a very nice day .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the museum .",
+        "they had some really cool works of art there .",
+        "afterward , we went on a walk through the neighborhood .",
+        "the ground was covered in snow .",
+        "it was a very nice day ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "the ground was covered in snow it was a very nice day .i had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "the ground was covered in snow it was a very nice day .",
+        "i had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157641657578444"
+}

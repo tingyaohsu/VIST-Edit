@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4373640607-4373642289-4373643679-4373644657-4374399692",
+  "photo_sequence_ids": [
+    "4373640607",
+    "4373642289",
+    "4373643679",
+    "4373644657",
+    "4374399692"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4027/4373640607_c52daa40d4_o.jpg",
+    "https://farm3.staticflickr.com/2759/4373642289_b59a6943aa_o.jpg",
+    "https://farm5.staticflickr.com/4003/4373643679_4ecc1c9295_o.jpg",
+    "https://farm5.staticflickr.com/4045/4373644657_fdcc4c3e99_o.jpg",
+    "https://farm3.staticflickr.com/2735/4374399692_fd2b54b95a_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the new restaurant . i had to make sure i had a lot of work to do . there was a lot of wine . we had a lot of food . after that i had a few drinks and had a few drinks .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "I had a lot of work to do, so I decided to go to a new restaurant. I had a few drinks, we had a lot of food and there was lots of wine too!",
+      "normalized_edited_story_text_sent": [
+        "i had a lot of work to do , so i decided to go to a new restaurant .",
+        "i had a few drinks , we had a lot of food and there was lots of wine too !"
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "i went to the new restaurant that had just opened up . i had to make sure i had a lot of work to do when I arrived . there was a lot of coffee . we had a lot of drinks . after that i had a few cups of coffee.",
+      "normalized_edited_story_text_sent": [
+        "i went to the new restaurant that had just opened up .",
+        "i had to make sure i had a lot of work to do when i arrived .",
+        "there was a lot of coffee .",
+        "we had a lot of drinks .",
+        "after that i had a few cups of coffee ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "I went to the new restaurant. I had to make sure that I could get a lot done. There was a lot of wine, and we had a lot of food. After that, I had a few more drinks.",
+      "normalized_edited_story_text_sent": [
+        "i went to the new restaurant .",
+        "i had to make sure that i could get a lot done .",
+        "there was a lot of wine , and we had a lot of food .",
+        "after that , i had a few more drinks ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i went to the new restaurant . i had to make sure i had a lot of work to do . there was a lot of wine . we had a lot of food . the we had a few drinks .",
+      "normalized_edited_story_text_sent": [
+        "i went to the new restaurant .",
+        "i had to make sure i had a lot of work to do .",
+        "there was a lot of wine .",
+        "we had a lot of food .",
+        "the we had a few drinks ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i went to the new restaurant . i had to make sure i had a lot of work to do . there was a lot of wine and we had a lot of food . I had a few drinks there.",
+      "normalized_edited_story_text_sent": [
+        "i went to the new restaurant .",
+        "i had to make sure i had a lot of work to do .",
+        "there was a lot of wine and we had a lot of food .",
+        "i had a few drinks there ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623351074567"
+}

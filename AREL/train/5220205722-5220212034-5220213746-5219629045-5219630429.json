@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5220205722-5220212034-5220213746-5219629045-5219630429",
+  "photo_sequence_ids": [
+    "5220205722",
+    "5220212034",
+    "5220213746",
+    "5219629045",
+    "5219630429"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4090/5220205722_659c9f3d9f_o.jpg",
+    "https://farm5.staticflickr.com/4085/5220212034_65b0876096_o.jpg",
+    "https://farm5.staticflickr.com/4125/5220213746_1d23d6f5d2_o.jpg",
+    "https://farm5.staticflickr.com/4090/5219629045_ebe4b71f55_o.jpg",
+    "https://farm6.staticflickr.com/5287/5219630429_39b5b8ddaa_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a man . there were a lot of people there . they were very happy to be together . i had a great time there . this is a picture of a man .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this was a picture of a man . there are a lot of people there . they are very happy to be together . i have a great time there . this was a picture of a man .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a man .",
+        "there are a lot of people there .",
+        "they are very happy to be together .",
+        "i have a great time there .",
+        "this was a picture of a man ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "This is a picture of [male]. There were a lot of people there, and they were happy to go. I had a great time too. Here is another picture of [male].",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of [male] .",
+        "there were a lot of people there , and they were happy to go .",
+        "i had a great time too .",
+        "here is another picture of [male] ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a man . there are a lot of people there . they are very happy to be together . he have a great time there . this was a picture of a man .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a man .",
+        "there are a lot of people there .",
+        "they are very happy to be together .",
+        "he have a great time there .",
+        "this was a picture of a man ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "this is a picture of a man . there were a lot of people there . they were very happy to be together . i had a great time there . this is a picture of a man  people trying to shoot as if they were terrorist",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a man .",
+        "there were a lot of people there .",
+        "they were very happy to be together .",
+        "i had a great time there .",
+        "this is a picture of a man people trying to shoot as if they were terrorist"
+      ]
+    },
+    {
+      "worker_id": "A2XR8TBWW9DJN3",
+      "edited_story_text": "this is a picture of a man who is looking out of his goggles to see the other army . there were a lot of people there . they were very working together . it was a lot of work . this is a picture of a man with a big gun .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a man who is looking out of his goggles to see the other army .",
+        "there were a lot of people there .",
+        "they were very working together .",
+        "it was a lot of work .",
+        "this is a picture of a man with a big gun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625372394771"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4261409138-4260655605-4261410900-4260657579-4260661623",
+  "photo_sequence_ids": [
+    "4261409138",
+    "4260655605",
+    "4261410900",
+    "4260657579",
+    "4260661623"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the zoo . they saw beautiful flowers . they even saw a frog . they also saw a lot of pretty flowers . they were very excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family went on a park outing . they went to see the blooming flowers . at the park, they even spotted a frog . they also saw different species of pretty flowers than expected . the family filled with enthusiasm .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a park outing .",
+        "they went to see the blooming flowers .",
+        "at the park , they even spotted a frog .",
+        "they also saw different species of pretty flowers than expected .",
+        "the family filled with enthusiasm ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went on a trip to the zoo . they saw beautiful flowers . they even saw a frog . they also many different animals . they were very excited .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the zoo .",
+        "they saw beautiful flowers .",
+        "they even saw a frog .",
+        "they also many different animals .",
+        "they were very excited ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the man played with his dog in the park . later, they saw beautiful yellow flowers . they even saw another dog at someone\u0027s house . they also saw a lot of pretty flowers outside . Trees lined the streets on the way home from the park .",
+      "normalized_edited_story_text_sent": [
+        "the man played with his dog in the park .",
+        "later , they saw beautiful yellow flowers .",
+        "they even saw another dog at someone \u0027s house .",
+        "they also saw a lot of pretty flowers outside .",
+        "trees lined the streets on the way home from the park ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the family went on a big trip to the zoo and they saw beautiful flowers . they even saw a frog . they also saw a lot of pretty flowers . they were very excited .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a big trip to the zoo and they saw beautiful flowers .",
+        "they even saw a frog .",
+        "they also saw a lot of pretty flowers .",
+        "they were very excited ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family went on a trip to the park. they saw beautiful flowers . the man and dog played together for awhile.  There was another dog watching.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the park .",
+        "they saw beautiful flowers .",
+        "the man and dog played together for awhile .",
+        "there was another dog watching ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623052897651",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6328641537-6329393320-6329414220-6328655621-6329405466",
+  "photo_sequence_ids": [
+    "6328641537",
+    "6329393320",
+    "6329414220",
+    "6328655621",
+    "6329405466"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the old church was a great place to visit . the grounds were beautiful . the buildings were very tall . the homes were also nice . the streets were empty .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the old church was a great place to visit especially when the weather was good . the grounds were beautiful and well maintained. the buildings were very tall and stood above the mountain . the homes were also nice and must of been expensive . the streets were empty because the people were inside .",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit especially when the weather was good .",
+        "the grounds were beautiful and well maintained .",
+        "the buildings were very tall and stood above the mountain .",
+        "the homes were also nice and must of been expensive .",
+        "the streets were empty because the people were inside ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The old church was a great place to visit. The grounds were beautiful. The buildings were historic and interesting. The streets were empty except for a few pedestrians.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the grounds were beautiful .",
+        "the buildings were historic and interesting .",
+        "the streets were empty except for a few pedestrians ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the old church was incredible. the whole town was perched on the side of a mountain, and the streets were so serene. everything was so picturesque!",
+      "normalized_edited_story_text_sent": [
+        "the old church was incredible .",
+        "the whole town was perched on the side of a mountain , and the streets were so serene .",
+        "everything was so picturesque !"
+      ]
+    },
+    {
+      "worker_id": "A1JCKICNOC7DAB",
+      "edited_story_text": "the old church was a great place to visit . the grounds were beautiful . the buildings were very tall . the homes were also nice . the streets were empty .\r\rThe grounds at the old church were beautiful it was such a great place to visit  the buildings were tall and the homes were nice and the street were empty.",
+      "normalized_edited_story_text_sent": [
+        "the old church was a great place to visit .",
+        "the grounds were beautiful .",
+        "the buildings were very tall .",
+        "the homes were also nice .",
+        "the streets were empty .",
+        "the grounds at the old church were beautiful it was such a great place to visit the buildings were tall and the homes were nice and the street were empty ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and lisa were glad the old church was a great place to visit . the grounds were beautiful . the buildings were very tall . the homes were also nice . the streets were empty .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad the old church was a great place to visit .",
+        "the grounds were beautiful .",
+        "the buildings were very tall .",
+        "the homes were also nice .",
+        "the streets were empty ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627965597479",
+  "model": "GLAC"
+}

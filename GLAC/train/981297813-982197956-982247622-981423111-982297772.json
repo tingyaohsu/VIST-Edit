@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "981297813-982197956-982247622-981423111-982297772",
+  "photo_sequence_ids": [
+    "981297813",
+    "982197956",
+    "982247622",
+    "981423111",
+    "982297772"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a birthday party . the kids had a great time . they played games . they also played some games . they even had a pinata .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family got together for a workshop . the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a workshop .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the family got together for a birthday party . the kids had a great time . they played games . they also played some games . they even had a pinata .\r\rThe family was able to get together for Lisa\u0027s birthday party. The kids really enjoyed themselves. They played a lot of games. They also played video games. There was even this pinata there.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids had a great time .",
+        "they played games .",
+        "they also played some games .",
+        "they even had a pinata .",
+        "the family was able to get together for [female] \u0027s birthday party .",
+        "the kids really enjoyed themselves .",
+        "they played a lot of games .",
+        "they also played video games .",
+        "there was even this pinata there ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family got together for a birthday party . the kids had a great time . They made crafts and decorated carts. Then they rode in the cars.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids had a great time .",
+        "they made crafts and decorated carts .",
+        "then they rode in the cars ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family got together for a birthday party . the kids had a great time . they played games . they ate birthday cake . the party was a hit .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids had a great time .",
+        "they played games .",
+        "they ate birthday cake .",
+        "the party was a hit ."
+      ]
+    },
+    {
+      "worker_id": "A3P6IXUM1ND35A",
+      "edited_story_text": "the family got together for a birthday party . the kids had a great time . they built wagons made of wood. they also played with the wagons once they were built.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the kids had a great time .",
+        "they built wagons made of wood .",
+        "they also played with the wagons once they were built ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157601163302429",
+  "model": "GLAC"
+}

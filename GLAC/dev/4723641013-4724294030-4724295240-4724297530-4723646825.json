@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "4723641013-4724294030-4724295240-4724297530-4723646825",
+  "photo_sequence_ids": [
+    "4723641013",
+    "4724294030",
+    "4724295240",
+    "4724297530",
+    "4723646825"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very busy . the buildings were tall and old . the streets were empty . the building was well lit . the streets were filled with people .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Robert thought the city was very busy . the buildings were tall and old . the streets were empty . the building was well lit . the streets were filled with people .",
+      "normalized_edited_story_text_sent": [
+        "[male] thought the city was very busy .",
+        "the buildings were tall and old .",
+        "the streets were empty .",
+        "the building was well lit .",
+        "the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "It was a beautiful bright sunny day for a walk in town. There was a huge jiffy sign on what looked like it may be a Jiffy factory. There was a big map of the town on the side of a building. I saw an old building with a churchlike structure. There are buildings and establishments that are staples in this town.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful bright sunny day for a walk in town .",
+        "there was a huge jiffy sign on what looked like it may be a jiffy factory .",
+        "there was a big map of the town on the side of a building .",
+        "i saw an old building with a churchlike structure .",
+        "there are buildings and establishments that are staples in this town ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "people were strolling by the shops in the quaint little city . the buildings were tall and old . a few cars rode through the streets . the structures advertising the Jiffy Corn Muffin Mix and Purple Rose were very interesting.",
+      "normalized_edited_story_text_sent": [
+        "people were strolling by the shops in the quaint little city .",
+        "the buildings were tall and old .",
+        "a few cars rode through the streets .",
+        "the structures advertising the jiffy corn muffin mix and purple rose were very interesting ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "The city iss very busy, with buildings that are tall and old but the streets are empty. The building wete well lit, bit I wish the streets were filled with people .",
+      "normalized_edited_story_text_sent": [
+        "the city iss very busy , with buildings that are tall and old but the streets are empty .",
+        "the building wete well lit , bit i wish the streets were filled with people ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the city had a charming downtown . the city was famous for its cornbread . we sat near a huge map of the area . the architecture was impressive downtown . the city had many different businesses .",
+      "normalized_edited_story_text_sent": [
+        "the city had a charming downtown .",
+        "the city was famous for its cornbread .",
+        "we sat near a huge map of the area .",
+        "the architecture was impressive downtown .",
+        "the city had many different businesses ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624331727446",
+  "model": "GLAC"
+}

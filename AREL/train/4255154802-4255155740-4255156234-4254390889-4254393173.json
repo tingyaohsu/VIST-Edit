@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4255154802-4255155740-4255156234-4254390889-4254393173",
+  "photo_sequence_ids": [
+    "4255154802",
+    "4255155740",
+    "4255156234",
+    "4254390889",
+    "4254393173"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4020/4255154802_b849a27c94_o.jpg",
+    "https://farm5.staticflickr.com/4045/4255155740_33efdf7a0c_o.jpg",
+    "https://farm3.staticflickr.com/2703/4255156234_879b9dc5da_o.jpg",
+    "https://farm5.staticflickr.com/4045/4254390889_d62b164c34_o.jpg",
+    "https://farm5.staticflickr.com/4009/4254393173_81bd58af6f_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the restaurant today . we had a lot of food to eat . we had a great dinner and had a great time . the food was delicious . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the restaurant today . we had a lot of food to eat . we had a great dinner and had a great time and the food was delicious . we had a great time and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the restaurant today .",
+        "we had a lot of food to eat .",
+        "we had a great dinner and had a great time and the food was delicious .",
+        "we had a great time and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went out to a restaurant in the city tonight. There was a lot of food at the buffet. Everyone had a really great time at dinner. We needed a long table because of how many people came out to eat. It was overall a wonderful time.",
+      "normalized_edited_story_text_sent": [
+        "we went out to a restaurant in the city tonight .",
+        "there was a lot of food at the buffet .",
+        "everyone had a really great time at dinner .",
+        "we needed a long table because of how many people came out to eat .",
+        "it was overall a wonderful time ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the restaurant today . we had a lot of food to eat and alot of people to talk to . we had a great dinner. the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the restaurant today .",
+        "we had a lot of food to eat and alot of people to talk to .",
+        "we had a great dinner .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AZSB87DCJL4QB",
+      "edited_story_text": "We had a great time at the restaurant today. We had a lot of food to eat and the food was delicious . Everyone there had a good time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the restaurant today .",
+        "we had a lot of food to eat and the food was delicious .",
+        "everyone there had a good time ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had fun at the restaurant today . we ate a lot . we had an awesome dinner and had a wonderful time . the food was tasty . we had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we had fun at the restaurant today .",
+        "we ate a lot .",
+        "we had an awesome dinner and had a wonderful time .",
+        "the food was tasty .",
+        "we had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623038153663"
+}

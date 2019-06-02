@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "6754181-6754184-6754687-6754689-6754691",
+  "photo_sequence_ids": [
+    "6754181",
+    "6754184",
+    "6754687",
+    "6754689",
+    "6754691"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were crowded with people . the runners were off to the start of the parade . the marching band was very talented . the cheerleaders were in the crowd . the marching band was a great hit .",
+  "edited_stories": [
+    {
+      "worker_id": "A253RKS1MZTGFU",
+      "edited_story_text": "People were standing on the side of the street waiting for the parade. The people in the parade started to file into their places. They were playing bagpipes. There were costumes and they were dancing in the streets. It was a perfect sunny day for an outside parade.",
+      "normalized_edited_story_text_sent": [
+        "people were standing on the side of the street waiting for the parade .",
+        "the people in the parade started to file into their places .",
+        "they were playing bagpipes .",
+        "there were costumes and they were dancing in the streets .",
+        "it was a perfect sunny day for an outside parade ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My son and I attended the St. Patty\u0027s Day parade. There were dancers, band members playing bagpipes and drums as well as members of the local high school sports teams.",
+      "normalized_edited_story_text_sent": [
+        "my son and i attended the st. patty \u0027s day parade .",
+        "there were dancers , band members playing bagpipes and drums as well as members of the local high school sports teams ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Great time was had at the Irish Day parade.  It was not too cold and we saw the dancers, bag pipers and others.",
+      "normalized_edited_story_text_sent": [
+        "great time was had at the irish day parade .",
+        "it was not too cold and we saw the dancers , bag pipers and others ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the streets were crowded with people . the runners were off to the start of the parade .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the runners were off to the start of the parade ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "some spectators were wearing big green hats . irish dancers were in the parade . a boy played the bagpipes. the marching band was very talented . another marching band was a great hit .",
+      "normalized_edited_story_text_sent": [
+        "some spectators were wearing big green hats .",
+        "irish dancers were in the parade .",
+        "a boy played the bagpipes .",
+        "the marching band was very talented .",
+        "another marching band was a great hit ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "168494",
+  "model": "GLAC"
+}

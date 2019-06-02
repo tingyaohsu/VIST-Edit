@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "28495271-28495093-28495102-28495189-28495155",
+  "photo_sequence_ids": [
+    "28495271",
+    "28495093",
+    "28495102",
+    "28495189",
+    "28495155"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the graduation ceremony was a big event . there were a lot of people graduating . i had a great time with all of them . we had a great time . afterward we all got together for photos .",
+  "edited_stories": [
+    {
+      "worker_id": "A12I4JOVZ1HZW8",
+      "edited_story_text": "the graduation ceremony was a big event. there were lots of people graduating .we all had a great time. afterward we all got together for photos .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "there were lots of people graduating .",
+        "we all had a great time .",
+        "afterward we all got together for photos ."
+      ]
+    },
+    {
+      "worker_id": "A34QZDSTKZ3JO9",
+      "edited_story_text": "the graduation ceremony was a big event . there were a lot of people graduating . i had a great time eating with all of them . we had a great time at the reception . afterward the family all got together for photos .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "there were a lot of people graduating .",
+        "i had a great time eating with all of them .",
+        "we had a great time at the reception .",
+        "afterward the family all got together for photos ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "we were very excited to attend the graduation ceremony last night. there were a lot of students there. some of them were my closets friends. after we went out dancing to celebrate. here is a photo of our group looking great.",
+      "normalized_edited_story_text_sent": [
+        "we were very excited to attend the graduation ceremony last night .",
+        "there were a lot of students there .",
+        "some of them were my closets friends .",
+        "after we went out dancing to celebrate .",
+        "here is a photo of our group looking great ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "the graduation ceremony was a big event. there were a lot of people graduating . afterwards, we got together to take photos. It was a great time.",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a big event .",
+        "there were a lot of people graduating .",
+        "afterwards , we got together to take photos .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the graduation ceremony was a giant event . there were a lot of cool people graduating . i had a great time with all of them . we had a great time . afterward we all got together for photos .",
+      "normalized_edited_story_text_sent": [
+        "the graduation ceremony was a giant event .",
+        "there were a lot of cool people graduating .",
+        "i had a great time with all of them .",
+        "we had a great time .",
+        "afterward we all got together for photos ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "770686",
+  "model": "GLAC"
+}

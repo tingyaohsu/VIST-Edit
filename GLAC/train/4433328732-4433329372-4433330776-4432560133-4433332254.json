@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "4433328732-4433329372-4433330776-4432560133-4433332254",
+  "photo_sequence_ids": [
+    "4433328732",
+    "4433329372",
+    "4433330776",
+    "4432560133",
+    "4433332254"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the team was ready for the game . the players were playing hard . the coach was getting ready . the boys were doing their best . the crowd was excited .",
+  "edited_stories": [
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the team was ready for the football game in the backyard. the players were playing hard and having fun . My dad was the coach and was getting ready to help out. my sons were doing their best to win the game . the crowd was excited to see who would win..",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the football game in the backyard .",
+        "the players were playing hard and having fun .",
+        "my dad was the coach and was getting ready to help out .",
+        "my sons were doing their best to win the game .",
+        "the crowd was excited to see who would win ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the guys were ready to play a game . the players were playing hard . the guys were tossing the ball . the boys were doing their best . the guys were excited .",
+      "normalized_edited_story_text_sent": [
+        "the guys were ready to play a game .",
+        "the players were playing hard .",
+        "the guys were tossing the ball .",
+        "the boys were doing their best .",
+        "the guys were excited ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Lisa was glad the team was ready for the game . the players were playing hard . the coach was getting ready . the boys were doing their best . the crowd was excited .",
+      "normalized_edited_story_text_sent": [
+        "[female] was glad the team was ready for the game .",
+        "the players were playing hard .",
+        "the coach was getting ready .",
+        "the boys were doing their best .",
+        "the crowd was excited ."
+      ]
+    },
+    {
+      "worker_id": "A2LH2CAU6CXVW",
+      "edited_story_text": "The team was ready for the big game.  The players were playing hard, and the coach was getting ready.  The boys were doing their best, and the crowd was excited!",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the big game .",
+        "the players were playing hard , and the coach was getting ready .",
+        "the boys were doing their best , and the crowd was excited !"
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "The football came flying right at him! He better run",
+      "normalized_edited_story_text_sent": [
+        "the football came flying right at him !",
+        "he better run"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623620043998",
+  "model": "GLAC"
+}

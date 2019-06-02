@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "10484374-10484390-10484430-10484438-10484531",
+  "photo_sequence_ids": [
+    "10484374",
+    "10484390",
+    "10484430",
+    "10484438",
+    "10484531"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/8/10484374_d9ae5b0b57_o.jpg",
+    "https://farm1.staticflickr.com/3/10484390_6537086bdd_o.jpg",
+    "https://farm1.staticflickr.com/5/10484430_e655120124_o.jpg",
+    "https://farm1.staticflickr.com/7/10484438_a819245065_o.jpg",
+    "https://farm1.staticflickr.com/6/10484531_4c9e96e480_o.jpg"
+  ],
+  "auto_story_text_normalized": "my friends and i went to a party today . there were a lot of people there . [female] was playing the piano for the first song . we had a great time there . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "my friends and i went to a party today . there were a lot of people there . [female] was playing the piano for the first song, but [male] took over after that . we had a great time there while [male] was deejaying. it was fun and everyone wanted to take pictures with [male].",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party today .",
+        "there were a lot of people there .",
+        "[female] was playing the piano for the first song , but [male] took over after that .",
+        "we had a great time there while [male] was deejaying .",
+        "it was fun and everyone wanted to take pictures with [male] ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "My friends and i went to a party today, so many people there. A girl was playing the piano,  the first song . We had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party today , so many people there .",
+        "a girl was playing the piano , the first song .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "my friends and i went to a party today . there were a lot of people there . [female] was playing the piano for the first song . we had a great time there and a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party today .",
+        "there were a lot of people there .",
+        "[female] was playing the piano for the first song .",
+        "we had a great time there and a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "my friends and i went to a party today. there were a ton of people there . [female] played the piano for the first song . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party today .",
+        "there were a ton of people there .",
+        "[female] played the piano for the first song .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "my friends and i went to a party today. there were a lot of people there. [male] was playing the piano for the first song then was the dj. we had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i went to a party today .",
+        "there were a lot of people there .",
+        "[male] was playing the piano for the first song then was the dj .",
+        "we had a great time at the party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "258924"
+}

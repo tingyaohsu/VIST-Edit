@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4432427190-4432427938-4432428876-4432429052-4432429460",
+  "photo_sequence_ids": [
+    "4432427190",
+    "4432427938",
+    "4432428876",
+    "4432429052",
+    "4432429460"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the market was a lot of fun . there were many different kinds of food . the vegetables were delicious . the carrots were very good . the flowers were also fresh .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the market was fun to shop . many varieties of food could be seen . delicious vegetables were colorful . the carrots tasted good . fresh flowers also were arranged for sale .",
+      "normalized_edited_story_text_sent": [
+        "the market was fun to shop .",
+        "many varieties of food could be seen .",
+        "delicious vegetables were colorful .",
+        "the carrots tasted good .",
+        "fresh flowers also were arranged for sale ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and john thought the market was a lot of fun . there were many different kinds of food . the vegetables were delicious . the carrots were very good . the flowers were also fresh .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [male] thought the market was a lot of fun .",
+        "there were many different kinds of food .",
+        "the vegetables were delicious .",
+        "the carrots were very good .",
+        "the flowers were also fresh ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the market was a lot of fun . there were many different kinds of food . the vegetables were so colorful . the carrots were very crisp . the flowers were also fresh and vibrant .",
+      "normalized_edited_story_text_sent": [
+        "the market was a lot of fun .",
+        "there were many different kinds of food .",
+        "the vegetables were so colorful .",
+        "the carrots were very crisp .",
+        "the flowers were also fresh and vibrant ."
+      ]
+    },
+    {
+      "worker_id": "A2XDMUB6MB6E4B",
+      "edited_story_text": "Farmers Market!  The fruit and veggies were fresh and beautiful!  Look at the colors!  They had baked goods as well!  I will be back!",
+      "normalized_edited_story_text_sent": [
+        "farmers market !",
+        "the fruit and veggies were fresh and beautiful !",
+        "look at the colors !",
+        "they had baked goods as well !",
+        "i will be back !"
+      ]
+    },
+    {
+      "worker_id": "A38YXMGUDA5GAI",
+      "edited_story_text": "Robert went to the market last weekend. the market was a lot of fun . there were many different kinds of food . the vegetables were delicious . there was fresh bread, and even some orange pumpkins.",
+      "normalized_edited_story_text_sent": [
+        "[male] went to the market last weekend .",
+        "the market was a lot of fun .",
+        "there were many different kinds of food .",
+        "the vegetables were delicious .",
+        "there was fresh bread , and even some orange pumpkins ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623493523479",
+  "model": "GLAC"
+}

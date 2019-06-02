@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "8539169170-8539173488-8539163288-8538829058-8539170338",
+  "photo_sequence_ids": [
+    "8539169170",
+    "8539173488",
+    "8539163288",
+    "8538829058",
+    "8539170338"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the speaker was very excited to be there . he was so happy that he was able to hear the speech . he was a little nervous about the event . he was all smiles and listening . the crowd was really impressed .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "The leader of the country came and paid his respects to the slain president.  He got to meet many of the fellow countrymen.",
+      "normalized_edited_story_text_sent": [
+        "the leader of the country came and paid his respects to the slain president .",
+        "he got to meet many of the fellow countrymen ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the speaker was very excited to be there and to with meet everyone . he was so happy that he was able to hear the speech and take notes for his article. he was a little nervous about the event and forgetting what to do he panicked . he was all smiles and listening to the speaker . the crowd was really impressed with the speech .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very excited to be there and to with meet everyone .",
+        "he was so happy that he was able to hear the speech and take notes for his article .",
+        "he was a little nervous about the event and forgetting what to do he panicked .",
+        "he was all smiles and listening to the speaker .",
+        "the crowd was really impressed with the speech ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the speaker was honored to be invited . he was elated to be giving the speech . he was slightly nervous before . the crowd was all smiles and listening intently . the crowd was receptive and impressed .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was honored to be invited .",
+        "he was elated to be giving the speech .",
+        "he was slightly nervous before .",
+        "the crowd was all smiles and listening intently .",
+        "the crowd was receptive and impressed ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The speaker was excited to be there. He was a little nervous about his speech. He was all smiles as he spoke. The crowd was really impressed.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was excited to be there .",
+        "he was a little nervous about his speech .",
+        "he was all smiles as he spoke .",
+        "the crowd was really impressed ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the speaker was very excited to be there . he was so happy that he was able to hear the speech .",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very excited to be there .",
+        "he was so happy that he was able to hear the speech ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632947336586",
+  "model": "GLAC"
+}

@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "2078943824-2078153417-2078155597-2078947746-2078948442",
+  "photo_sequence_ids": [
+    "2078943824",
+    "2078153417",
+    "2078155597",
+    "2078947746",
+    "2078948442"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the church was a beautiful sight to see . the stained glass windows were so intricate . the building was also very ornate . the statues were amazing . the artwork was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the church was a beautiful sight to see in the middle of the city . The bell was cool. There were many ornate decorations.",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight to see in the middle of the city .",
+        "the bell was cool .",
+        "there were many ornate decorations ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The church scenery outside was from a sky view and every classical detail was in view.",
+      "normalized_edited_story_text_sent": [
+        "the church scenery outside was from a sky view and every classical detail was in view ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the church was a beautiful sight to see and sad it was being torn down . the stained glass windows were so intricate that i cried. the building was also very ornate and should be there forever. the statues were amazing and done many years ago. the artwork was amazing and could never be done again .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight to see and sad it was being torn down .",
+        "the stained glass windows were so intricate that i cried .",
+        "the building was also very ornate and should be there forever .",
+        "the statues were amazing and done many years ago .",
+        "the artwork was amazing and could never be done again ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the historic church in the heart of the city was a beautiful sight to see . the stained glass windows were so intricate, and you can see why they took years to create . the exterior of the building was also very ornate, with high spires and snarling gargoyles on the roof . the statues were amazing . the artwork was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the historic church in the heart of the city was a beautiful sight to see .",
+        "the stained glass windows were so intricate , and you can see why they took years to create .",
+        "the exterior of the building was also very ornate , with high spires and snarling gargoyles on the roof .",
+        "the statues were amazing .",
+        "the artwork was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the church was a beautiful sight to see . the stained glass windows were so intricate .",
+      "normalized_edited_story_text_sent": [
+        "the church was a beautiful sight to see .",
+        "the stained glass windows were so intricate ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603348987515",
+  "model": "GLAC"
+}

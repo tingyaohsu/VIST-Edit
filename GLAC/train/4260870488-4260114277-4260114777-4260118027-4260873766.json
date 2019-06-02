@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "4260870488-4260114277-4260114777-4260118027-4260873766",
+  "photo_sequence_ids": [
+    "4260870488",
+    "4260114277",
+    "4260114777",
+    "4260118027",
+    "4260873766"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the meeting was held at a local church . the speaker was very informative . the audience was excited . the speakers were really good . the crowd was very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A2F6OP6C9P2PO6",
+      "edited_story_text": "The meeting was held at a local church, and the speakers were very informative. It made the audience excited because of how good the speakers were . Everyone in the crowd was happy and helped volunteer.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was held at a local church , and the speakers were very informative .",
+        "it made the audience excited because of how good the speakers were .",
+        "everyone in the crowd was happy and helped volunteer ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "it was a fun day out at the muesum. people got to play with some of the items there. a fun day of learning.",
+      "normalized_edited_story_text_sent": [
+        "it was a fun day out at the muesum .",
+        "people got to play with some of the items there .",
+        "a fun day of learning ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "MARY AND JOHN SAID the meeting was held at a local church . the speaker was very informative . the audience was excited . the speakers were really good . the crowd was very happy .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] said the meeting was held at a local church .",
+        "the speaker was very informative .",
+        "the audience was excited .",
+        "the speakers were really good .",
+        "the crowd was very happy ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "The meeting was held at a local church. The speaker was very informative, and the audience was excited. We all worked together and accomplished a lot.",
+      "normalized_edited_story_text_sent": [
+        "the meeting was held at a local church .",
+        "the speaker was very informative , and the audience was excited .",
+        "we all worked together and accomplished a lot ."
+      ]
+    },
+    {
+      "worker_id": "A3S67QA0SQVPUJ",
+      "edited_story_text": "We ended up having the meeting at a local church. The main speaker was actually very knowledgeable. The audience was just buzzing with excitement. All of the other speakers came across well. I think the audience was glad that they attended.",
+      "normalized_edited_story_text_sent": [
+        "we ended up having the meeting at a local church .",
+        "the main speaker was actually very knowledgeable .",
+        "the audience was just buzzing with excitement .",
+        "all of the other speakers came across well .",
+        "i think the audience was glad that they attended ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623051586505",
+  "model": "GLAC"
+}

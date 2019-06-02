@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "451560498-451572663-451542217-451525434-451537633",
+  "photo_sequence_ids": [
+    "451560498",
+    "451572663",
+    "451542217",
+    "451525434",
+    "451537633"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family gathered for dinner . the mom and dad were excited to be together . the turkey was delicious . the grandson enjoyed the meal . the boy was happy with his plate .",
+  "edited_stories": [
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "our family gathered for dinner . my mom and dad were excited for the family to be together and they were happy their grandson enjoyed all the food on his plate . the turkey meat was delicious .",
+      "normalized_edited_story_text_sent": [
+        "our family gathered for dinner .",
+        "my mom and dad were excited for the family to be together and they were happy their grandson enjoyed all the food on his plate .",
+        "the turkey meat was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the family was sited, the dinner table was well appointed. the mom and dad were busy readying up the meals . the turkey meat was tasteful. the grandson licked his fingers in total delight. the boy took to the plate because he was very hungry.",
+      "normalized_edited_story_text_sent": [
+        "the family was sited , the dinner table was well appointed .",
+        "the mom and dad were busy readying up the meals .",
+        "the turkey meat was tasteful .",
+        "the grandson licked his fingers in total delight .",
+        "the boy took to the plate because he was very hungry ."
+      ]
+    },
+    {
+      "worker_id": "A1JO1CCU5FXOUW",
+      "edited_story_text": "The whole family gathered for dinner.  Mom and Dad enjoyed their meal.  Here is a look at the turkey leg I had.  Delicious!",
+      "normalized_edited_story_text_sent": [
+        "the whole family gathered for dinner .",
+        "mom and dad enjoyed their meal .",
+        "here is a look at the turkey leg i had .",
+        "delicious !"
+      ]
+    },
+    {
+      "worker_id": "A4UVNGSXE2ANA",
+      "edited_story_text": "the family gathered for Thanksgiving dinner . the mom and dad were excited to be together with their kids Amy and Jenny . the turkey and the rest of dinner was very tasty . their grandson  Sam enjoyed the turkey as well . Sam was happy with his turkey and dessert .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for thanksgiving dinner .",
+        "the mom and dad were excited to be together with their kids amy and jenny .",
+        "the turkey and the rest of dinner was very tasty .",
+        "their grandson sam enjoyed the turkey as well .",
+        "sam was happy with his turkey and dessert ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the family gathered for a party . the mom and dad were excited to host dinner together . the turkey baked to perfection . the grandson enjoyed the food . the boy loved his plate .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a party .",
+        "the mom and dad were excited to host dinner together .",
+        "the turkey baked to perfection .",
+        "the grandson enjoyed the food .",
+        "the boy loved his plate ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600057236853",
+  "model": "GLAC"
+}

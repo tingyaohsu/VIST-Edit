@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "4838273542-4837644779-4837652239-4838262640-4837647601",
+  "photo_sequence_ids": [
+    "4838273542",
+    "4837644779",
+    "4837652239",
+    "4838262640",
+    "4837647601"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the conference was a great event . the speaker was very motivational . he was a bit nervous . he was a good speaker . the end was a success .",
+  "edited_stories": [
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "The conference was a great event. The speaker was very motivational. He was a good speaker, although he was a bit nervous.  In the end, it was a success .",
+      "normalized_edited_story_text_sent": [
+        "the conference was a great event .",
+        "the speaker was very motivational .",
+        "he was a good speaker , although he was a bit nervous .",
+        "in the end , it was a success ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the conference was a great success . the speaker motivated the crowd . he was nervous at first . after he calmed, he was a good speaker . the end was a good finale .",
+      "normalized_edited_story_text_sent": [
+        "the conference was a great success .",
+        "the speaker motivated the crowd .",
+        "he was nervous at first .",
+        "after he calmed , he was a good speaker .",
+        "the end was a good finale ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the church conference was a great event this year. the speaker was very motivational. she was a bit nervous, but did great. everyone thought she was a good speaker. the dip at the end was a success.",
+      "normalized_edited_story_text_sent": [
+        "the church conference was a great event this year .",
+        "the speaker was very motivational .",
+        "she was a bit nervous , but did great .",
+        "everyone thought she was a good speaker .",
+        "the dip at the end was a success ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the conference was a great event for all the clergy . the speaker was very motivational and made people cry . he was a bit nervous but no one knew it . he was a good speaker and got everyone inspired . the end was a success and will happen again next year .",
+      "normalized_edited_story_text_sent": [
+        "the conference was a great event for all the clergy .",
+        "the speaker was very motivational and made people cry .",
+        "he was a bit nervous but no one knew it .",
+        "he was a good speaker and got everyone inspired .",
+        "the end was a success and will happen again next year ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the conference was a great event . the speaker was very motivational . she was a bit nervous . she said many inspiring things . the end was a success .",
+      "normalized_edited_story_text_sent": [
+        "the conference was a great event .",
+        "the speaker was very motivational .",
+        "she was a bit nervous .",
+        "she said many inspiring things .",
+        "the end was a success ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624477904553",
+  "model": "GLAC"
+}

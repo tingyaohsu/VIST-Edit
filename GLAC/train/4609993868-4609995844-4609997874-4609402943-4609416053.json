@@ -1,0 +1,58 @@
+{
+  "photo_sequence_id": "4609993868-4609995844-4609997874-4609402943-4609416053",
+  "photo_sequence_ids": [
+    "4609993868",
+    "4609995844",
+    "4609997874",
+    "4609402943",
+    "4609416053"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the couple was excited to be at the beach . they played in the sand . they also played some games . they had a great time . they had a good time .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "It was a beautiful day at the park.  We played some games and even did some yoga.  Everyone had a great day!",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day at the park .",
+        "we played some games and even did some yoga .",
+        "everyone had a great day !"
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We had a great time finally getting to be together outside.  We went to the corner cafe and then spent some fun time laying out at the park.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time finally getting to be together outside .",
+        "we went to the corner cafe and then spent some fun time laying out at the park ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we had fun at the park today. the sun was out and the weather was clear.",
+      "normalized_edited_story_text_sent": [
+        "we had fun at the park today .",
+        "the sun was out and the weather was clear ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The ladies had a great time out in the park doing healthy things.",
+      "normalized_edited_story_text_sent": [
+        "the ladies had a great time out in the park doing healthy things ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the couple was excited to be at the beach . great time",
+      "normalized_edited_story_text_sent": [
+        "the couple was excited to be at the beach .",
+        "great time"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624067292822",
+  "model": "GLAC"
+}

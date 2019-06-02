@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "8392280254-8392285402-8392277214-8392279026-8391196195",
+  "photo_sequence_ids": [
+    "8392280254",
+    "8392285402",
+    "8392277214",
+    "8392279026",
+    "8391196195"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the crowd was excited for the big game . the players were ready to play . the coach was very talented . the cheerleaders were really good . the fans were very competitive .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the crowd was excited for the big event . the players were ready to play .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited for the big event .",
+        "the players were ready to play ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The crowd was excited for the big show. The wrestlers were ready for fight. They were very talented. The crowd cheered.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited for the big show .",
+        "the wrestlers were ready for fight .",
+        "they were very talented .",
+        "the crowd cheered ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the crowd was excited for the big game . the players were ready to play . the coach was very talented . the cheerleaders were really good . the fans were very competitive .\r\rThe crowd was pumped up for the big game! The players were prepared and ready to start. The coach showed a lot of talent. The cheerleaders were incredible as well! It was definitely a competitive fanbase.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited for the big game .",
+        "the players were ready to play .",
+        "the coach was very talented .",
+        "the cheerleaders were really good .",
+        "the fans were very competitive .",
+        "the crowd was pumped up for the big game !",
+        "the players were prepared and ready to start .",
+        "the coach showed a lot of talent .",
+        "the cheerleaders were incredible as well !",
+        "it was definitely a competitive fanbase ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The crowd was amped for this event. The performers were ready, and were all talented and skilled individuals. The cheerleaders were also good. During the event, the fans really got into it, chanting, cheering, and hollering loudly.",
+      "normalized_edited_story_text_sent": [
+        "the crowd was amped for this event .",
+        "the performers were ready , and were all talented and skilled individuals .",
+        "the cheerleaders were also good .",
+        "during the event , the fans really got into it , chanting , cheering , and hollering loudly ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the crowd was excited for the big game . the people in the crowd cheered with their arms up . the wrestler came out . another wrestler flipped over the ring . the girl in the bikini carried something onstage .",
+      "normalized_edited_story_text_sent": [
+        "the crowd was excited for the big game .",
+        "the people in the crowd cheered with their arms up .",
+        "the wrestler came out .",
+        "another wrestler flipped over the ring .",
+        "the girl in the bikini carried something onstage ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157632548092471",
+  "model": "GLAC"
+}

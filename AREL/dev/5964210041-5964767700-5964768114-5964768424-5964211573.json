@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5964210041-5964767700-5964768114-5964768424-5964211573",
+  "photo_sequence_ids": [
+    "5964210041",
+    "5964767700",
+    "5964768114",
+    "5964768424",
+    "5964211573"
+  ],
+  "photo_sequence_urls": [
+    "https://farm7.staticflickr.com/6141/5964210041_9ef7723864_o.jpg",
+    "https://farm7.staticflickr.com/6149/5964767700_b6d3ab06ff_o.jpg",
+    "https://farm7.staticflickr.com/6126/5964768114_1f7f0572b7_o.jpg",
+    "https://farm7.staticflickr.com/6009/5964768424_9450668b18_o.jpg",
+    "https://farm7.staticflickr.com/6124/5964211573_44a059cc23_o.jpg"
+  ],
+  "auto_story_text_normalized": "i love to travel and this is a picture of a building . this is a picture of a building . i was able to get a closer look at the building . we had a great time there .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "This is a picture of a beautiful steeple being repaired from my last trip.  If you look closer you can see the work being done.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a beautiful steeple being repaired from my last trip .",
+        "if you look closer you can see the work being done ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "we took a trip into the city this weekend. we got to see the old clock tower that they\u0027re currently renovating. it\u0027s a really cool old building.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip into the city this weekend .",
+        "we got to see the old clock tower that they \u0027re currently renovating .",
+        "it \u0027s a really cool old building ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "I love to travel and this is a picture of a building I came across. I was able to get a close look at the building. We had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i love to travel and this is a picture of a building i came across .",
+        "i was able to get a close look at the building .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i love to travel and this is a picture of a building . The building was very large . i was able to get a closer look at the building . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i love to travel and this is a picture of a building .",
+        "the building was very large .",
+        "i was able to get a closer look at the building .",
+        "we had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "i love to travel. here are a couple pictures of buildings . i was able to get a closer look at the building . we had a great time there .",
+      "normalized_edited_story_text_sent": [
+        "i love to travel .",
+        "here are a couple pictures of buildings .",
+        "i was able to get a closer look at the building .",
+        "we had a great time there ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157627256006852"
+}

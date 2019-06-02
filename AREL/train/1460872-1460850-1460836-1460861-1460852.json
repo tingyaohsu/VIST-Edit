@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "1460872-1460850-1460836-1460861-1460852",
+  "photo_sequence_ids": [
+    "1460872",
+    "1460850",
+    "1460836",
+    "1460861",
+    "1460852"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/1460872_5afde6b12b_o.jpg",
+    "https://farm1.staticflickr.com/2/1460850_51cd9da016_o.jpg",
+    "https://farm1.staticflickr.com/2/1460836_7ec7fc544f_o.jpg",
+    "https://farm1.staticflickr.com/2/1460861_e731223924_o.jpg",
+    "https://farm1.staticflickr.com/2/1460852_b27f59cd3d_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the party last night . everyone had a great time playing with the music . [male] was very happy to be there . we had a great time . i also got a lot of money .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I had a great time at the party last night.  Everyone had a great time listening to [male] play guitar.  I played with the Dart Vedar guy and the toy gun.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "everyone had a great time listening to [male] play guitar .",
+        "i played with the dart vedar guy and the toy gun ."
+      ]
+    },
+    {
+      "worker_id": "A1YFVXP4A1CXSF",
+      "edited_story_text": "I had a lot of fun at the small get together at my friends house last night. [male] was there playing his guitar. [male] got a picture with someone dressed up as Darth Vader. We had fun playing old school video games. I love Nintendo.",
+      "normalized_edited_story_text_sent": [
+        "i had a lot of fun at the small get together at my friends house last night .",
+        "[male] was there playing his guitar .",
+        "[male] got a picture with someone dressed up as darth vader .",
+        "we had fun playing old school video games .",
+        "i love nintendo ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "I had a great time at the party last night. Everyone had a great time playing music. He was very happy to be there and we had a great time together. I also made a lot of money .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "everyone had a great time playing music .",
+        "he was very happy to be there and we had a great time together .",
+        "i also made a lot of money ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "i had a great time at the party last night . everyone had a great time playing with the music . [Rob] was very happy to be there . we had a great time . i also got a lot of money .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "everyone had a great time playing with the music .",
+        "[male] was very happy to be there .",
+        "we had a great time .",
+        "i also got a lot of money ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "i had a great time at the party last night . someone brought a guitar and everyone had a great time playing with the music . [male] was very happy to be there with one of his favorite movie characters . we had a great time playing video games . i also got a lot of money and  found an old zapper.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the party last night .",
+        "someone brought a guitar and everyone had a great time playing with the music .",
+        "[male] was very happy to be there with one of his favorite movie characters .",
+        "we had a great time playing video games .",
+        "i also got a lot of money and found an old zapper ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "37246"
+}

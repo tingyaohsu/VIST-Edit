@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "2809278431-2809278837-2810128238-2810128556-2809280617",
+  "photo_sequence_ids": [
+    "2809278431",
+    "2809278837",
+    "2810128238",
+    "2810128556",
+    "2809280617"
+  ],
+  "photo_sequence_urls": [
+    "https://farm4.staticflickr.com/3204/2809278431_6291a14170_o.jpg",
+    "https://farm4.staticflickr.com/3254/2809278837_689c65e3d8_o.jpg",
+    "https://farm4.staticflickr.com/3067/2810128238_8b1d316c28_o.jpg",
+    "https://farm4.staticflickr.com/3070/2810128556_5a99c8cb9a_o.jpg",
+    "https://farm4.staticflickr.com/3022/2809280617_92908d702a_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . i took a picture of me . the water was calm and the water was calm . we found a place to sit and relax . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "here\u0027s the entrance to the building . i took a picture in front of a well . the water nice and calm. on the tour, we found a place to relax . we had a great time seeing the sights .",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s the entrance to the building .",
+        "i took a picture in front of a well .",
+        "the water nice and calm .",
+        "on the tour , we found a place to relax .",
+        "we had a great time seeing the sights ."
+      ]
+    },
+    {
+      "worker_id": "A3IDBFPW2T9P5D",
+      "edited_story_text": "This is a picture of a landmark. I had a picture taken of me by the wishing well and the tour building. The water by the dock was calm. We found a place to sit and relax, and we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a landmark .",
+        "i had a picture taken of me by the wishing well and the tour building .",
+        "the water by the dock was calm .",
+        "we found a place to sit and relax , and we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "the house of the seven gables is a nice building. i took a picture of me while there. the water was calm. we found a place to sit and relax. we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the house of the seven gables is a nice building .",
+        "i took a picture of me while there .",
+        "the water was calm .",
+        "we found a place to sit and relax .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a building where a famous writer used to live.  I went on the tour of his house.  The water was calm and the scenery was gorgeous.   We had a great time playing a tourist.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building where a famous writer used to live .",
+        "i went on the tour of his house .",
+        "the water was calm and the scenery was gorgeous .",
+        "we had a great time playing a tourist ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "this is a photo of a building . i took a photo of me . the water was quit and the water was quit . we found a place to sit . we had a awesome time .",
+      "normalized_edited_story_text_sent": [
+        "this is a photo of a building .",
+        "i took a photo of me .",
+        "the water was quit and the water was quit .",
+        "we found a place to sit .",
+        "we had a awesome time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157607017933719"
+}

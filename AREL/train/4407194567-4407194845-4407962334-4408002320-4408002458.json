@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4407194567-4407194845-4407962334-4408002320-4408002458",
+  "photo_sequence_ids": [
+    "4407194567",
+    "4407194845",
+    "4407962334",
+    "4408002320",
+    "4408002458"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4042/4407194567_9ba460fa8b_o.png",
+    "https://farm3.staticflickr.com/2551/4407194845_1783e4bbf6_o.png",
+    "https://farm3.staticflickr.com/2787/4407962334_131e5764f0_o.png",
+    "https://farm5.staticflickr.com/4007/4408002320_ef91b2f454_o.png",
+    "https://farm3.staticflickr.com/2761/4408002458_8d535bcbcd_o.png"
+  ],
+  "auto_story_text_normalized": "the man was getting ready for the party . we had a lot of fun playing games . some of them were very happy to be there . we had a lot of fun dancing . it was a great party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1VYQ8VL4HIP03",
+      "edited_story_text": "The guy I was with was getting ready for the party when a man with a microphone approached him. The guy was super nice and even posed for a picture with my friend. We had a lot of fun playing games and dancing. It was just a great party.",
+      "normalized_edited_story_text_sent": [
+        "the guy i was with was getting ready for the party when a man with a microphone approached him .",
+        "the guy was super nice and even posed for a picture with my friend .",
+        "we had a lot of fun playing games and dancing .",
+        "it was just a great party ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "[Male] was getting ready for the party. We had a lot of fun playing games, and some of us were happy to be there. We had a lot of fun dancing. It was a great party.",
+      "normalized_edited_story_text_sent": [
+        "[male] was getting ready for the party .",
+        "we had a lot of fun playing games , and some of us were happy to be there .",
+        "we had a lot of fun dancing .",
+        "it was a great party ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the man was getting ready for the party and we had a lot of fun playing games . some of them were very happy to be there and we had a lot of fun dancing . it was a great party .",
+      "normalized_edited_story_text_sent": [
+        "the man was getting ready for the party and we had a lot of fun playing games .",
+        "some of them were very happy to be there and we had a lot of fun dancing .",
+        "it was a great party ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the man was getting ready for the concert. we had a lot of fun during the interview . some of them were very happy to be there . we had a lot of fun dancing . it was a great concert .",
+      "normalized_edited_story_text_sent": [
+        "the man was getting ready for the concert .",
+        "we had a lot of fun during the interview .",
+        "some of them were very happy to be there .",
+        "we had a lot of fun dancing .",
+        "it was a great concert ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the two men were getting ready for the party. many people came and they had a lot of fun playing games. there was live music and everyone had fun dancing. it was a great party .",
+      "normalized_edited_story_text_sent": [
+        "the two men were getting ready for the party .",
+        "many people came and they had a lot of fun playing games .",
+        "there was live music and everyone had fun dancing .",
+        "it was a great party ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623510015317"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "5364782085-5364791141-5364801099-5365704891-5366326736",
+  "photo_sequence_ids": [
+    "5364782085",
+    "5364791141",
+    "5364801099",
+    "5365704891",
+    "5366326736"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people that were dressed up . some of them were very creative . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the march was full of optimism . many were dressed up . some of the signs were creative . i had fun . the winner was a very good speech maker .",
+      "normalized_edited_story_text_sent": [
+        "the march was full of optimism .",
+        "many were dressed up .",
+        "some of the signs were creative .",
+        "i had fun .",
+        "the winner was a very good speech maker ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun but was for a cause. Lots of people came out to support the efforts. People had a lot of different signs. It was a sunny day.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun but was for a cause .",
+        "lots of people came out to support the efforts .",
+        "people had a lot of different signs .",
+        "it was a sunny day ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the gay pride parade was a lot of fun. many people were dressed up. some of them were so creative! everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the gay pride parade was a lot of fun .",
+        "many people were dressed up .",
+        "some of them were so creative !",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2JCE6MD27QA5D",
+      "edited_story_text": "the lgbt parade was a lot of fun . there were so many people from all walk of life. some of them were very creative. it really brought the community together.",
+      "normalized_edited_story_text_sent": [
+        "the lgbt parade was a lot of fun .",
+        "there were so many people from all walk of life .",
+        "some of them were very creative .",
+        "it really brought the community together ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the parade was a lot of fun . there were so many people that were dressed up . some of them held very creative signs . i had a great time . the point was made to the watchers .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people that were dressed up .",
+        "some of them held very creative signs .",
+        "i had a great time .",
+        "the point was made to the watchers ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625850715298",
+  "model": "GLAC"
+}

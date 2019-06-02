@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "139071190-139071384-139071648-139071745-139071851",
+  "photo_sequence_ids": [
+    "139071190",
+    "139071384",
+    "139071648",
+    "139071745",
+    "139071851"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/9/139071190_2c022765ed_o.jpg",
+    "https://farm1.staticflickr.com/44/139071384_ec5e2c8459_o.jpg",
+    "https://farm1.staticflickr.com/50/139071648_b1c5ae2b8f_o.jpg",
+    "https://farm1.staticflickr.com/53/139071745_251f206270_o.jpg",
+    "https://farm1.staticflickr.com/56/139071851_b3229cb5f7_o.jpg"
+  ],
+  "auto_story_text_normalized": "i love to travel the view from the top of the bridge was amazing . the view from the plane was amazing . the view from the balcony of the building was beautiful . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i love to go up on top of our building to see the view. yesterday we watched some planes taking off from the airport. the view from the balcony of our building is beautiful. i like to take pictures of it.",
+      "normalized_edited_story_text_sent": [
+        "i love to go up on top of our building to see the view .",
+        "yesterday we watched some planes taking off from the airport .",
+        "the view from the balcony of our building is beautiful .",
+        "i like to take pictures of it ."
+      ]
+    },
+    {
+      "worker_id": "A2SJC9VRBGNC58",
+      "edited_story_text": "I love to travel.  The view from the top of the bridge was amazing, as was the view from the plane. The view from the balcony of the building was beautiful. This is a picture of a building I was referring to.",
+      "normalized_edited_story_text_sent": [
+        "i love to travel .",
+        "the view from the top of the bridge was amazing , as was the view from the plane .",
+        "the view from the balcony of the building was beautiful .",
+        "this is a picture of a building i was referring to ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "i love to travel the view from the top of the bridge was amazing . the view from the roof was amazing . this is a picture of the building we climbed.",
+      "normalized_edited_story_text_sent": [
+        "i love to travel the view from the top of the bridge was amazing .",
+        "the view from the roof was amazing .",
+        "this is a picture of the building we climbed ."
+      ]
+    },
+    {
+      "worker_id": "A28AZTW9BRRPBL",
+      "edited_story_text": "i love to travel. the view from the top of the bridge was amazing . the view from the plane was also great . the view from the balcony of the building was beautiful . this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "i love to travel .",
+        "the view from the top of the bridge was amazing .",
+        "the view from the plane was also great .",
+        "the view from the balcony of the building was beautiful .",
+        "this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "i love to travel. This is the view from the top of the bridge, which was amazing . the sunset was definitely something to marvel . the view from the balcony of the building was beautiful . Here is a picture of the building where we stayed .",
+      "normalized_edited_story_text_sent": [
+        "i love to travel .",
+        "this is the view from the top of the bridge , which was amazing .",
+        "the sunset was definitely something to marvel .",
+        "the view from the balcony of the building was beautiful .",
+        "here is a picture of the building where we stayed ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594123141054"
+}

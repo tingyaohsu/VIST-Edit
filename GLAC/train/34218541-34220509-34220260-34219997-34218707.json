@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "34218541-34220509-34220260-34219997-34218707",
+  "photo_sequence_ids": [
+    "34218541",
+    "34220509",
+    "34220260",
+    "34219997",
+    "34218707"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a great time . the band was very talented . the drummer was amazing . the crowd was really good . the performers were very talented .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the parade was a fun time . the band was super talented . the drummer was amazing . the crowd was really good . the performers were very talented .",
+      "normalized_edited_story_text_sent": [
+        "the parade was a fun time .",
+        "the band was super talented .",
+        "the drummer was amazing .",
+        "the crowd was really good .",
+        "the performers were very talented ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the band was very talented . the drummer was amazing . great performance.",
+      "normalized_edited_story_text_sent": [
+        "the band was very talented .",
+        "the drummer was amazing .",
+        "great performance ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "the parade was very successful.  one of the parade groups was a talented band.  the drummer amazed the parade goers.  the crowd was well behaved and enthusiastic.",
+      "normalized_edited_story_text_sent": [
+        "the parade was very successful .",
+        "one of the parade groups was a talented band .",
+        "the drummer amazed the parade goers .",
+        "the crowd was well behaved and enthusiastic ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "I had a great time at the parade. the band that played was very talented . the drummer was especially amazing . There was a pretty good crowd too. All of the performers were very talented .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the parade .",
+        "the band that played was very talented .",
+        "the drummer was especially amazing .",
+        "there was a pretty good crowd too .",
+        "all of the performers were very talented ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The day was full of fun and games for this festival full of amusements.",
+      "normalized_edited_story_text_sent": [
+        "the day was full of fun and games for this festival full of amusements ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "758123",
+  "model": "GLAC"
+}

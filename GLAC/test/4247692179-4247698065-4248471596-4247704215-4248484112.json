@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4247692179-4247698065-4248471596-4247704215-4248484112",
+  "photo_sequence_ids": [
+    "4247692179",
+    "4247698065",
+    "4248471596",
+    "4247704215",
+    "4248484112"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . the kids were all excited to be there . the children were very happy . the adults were having a good time . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the woman stood with the bear. the people were all excited to be there . the guests were very happy . the adults were having a good time . the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the woman stood with the bear .",
+        "the people were all excited to be there .",
+        "the guests were very happy .",
+        "the adults were having a good time .",
+        "the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The family was having a great time at the party and the kids were all excited to be there. The children were very happy and the adults were having a good time, The whole family was there.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party and the kids were all excited to be there .",
+        "the children were very happy and the adults were having a good time , the whole family was there ."
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "People were having a great time meeting a mascot at the party . the store had great snack choices . We met the chef and that made us very happy . the adults were having a good time eating and drinking . the children had a good time eating too .",
+      "normalized_edited_story_text_sent": [
+        "people were having a great time meeting a mascot at the party .",
+        "the store had great snack choices .",
+        "we met the chef and that made us very happy .",
+        "the adults were having a good time eating and drinking .",
+        "the children had a good time eating too ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a great time at the party . the kids were all excited to be there .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "the kids were all excited to be there ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the family was having a great time at the party . the kids were all excited to be there. the adults were having a good time drinking and laughing. the whole family was there .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "the kids were all excited to be there .",
+        "the adults were having a good time drinking and laughing .",
+        "the whole family was there ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623145509240",
+  "model": "GLAC"
+}

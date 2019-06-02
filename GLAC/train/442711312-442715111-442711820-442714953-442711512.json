@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "442711312-442715111-442711820-442714953-442711512",
+  "photo_sequence_ids": [
+    "442711312",
+    "442715111",
+    "442711820",
+    "442714953",
+    "442711512"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the room was empty . the house was very nice . the bedroom was big . the bed was cozy . the bathroom was clean .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the room was empty . the house was very nice . the bedroom was big . the bed did not come with the house . the bathroom was clean .",
+      "normalized_edited_story_text_sent": [
+        "the room was empty .",
+        "the house was very nice .",
+        "the bedroom was big .",
+        "the bed did not come with the house .",
+        "the bathroom was clean ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "The house was pleasant. It had a large bedroom with a cozy bed. A bathroom that was clean and a wide open, empty room, full of possibilities.",
+      "normalized_edited_story_text_sent": [
+        "the house was pleasant .",
+        "it had a large bedroom with a cozy bed .",
+        "a bathroom that was clean and a wide open , empty room , full of possibilities ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the living room was empty . the house had a nice ambience . the bedroom was spacious . the bed was comfortable . the bathroom was sparkling .",
+      "normalized_edited_story_text_sent": [
+        "the living room was empty .",
+        "the house had a nice ambience .",
+        "the bedroom was spacious .",
+        "the bed was comfortable .",
+        "the bathroom was sparkling ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the room was empty . There was a couple of chairs and a table. There was another room with shelves and chairs. There is a long hallway with a blue carpet.",
+      "normalized_edited_story_text_sent": [
+        "the room was empty .",
+        "there was a couple of chairs and a table .",
+        "there was another room with shelves and chairs .",
+        "there is a long hallway with a blue carpet ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "mary thought the room was empty . the house was very nice . the bedroom was big . the bed was cozy . the bathroom was clean .",
+      "normalized_edited_story_text_sent": [
+        "[female] thought the room was empty .",
+        "the house was very nice .",
+        "the bedroom was big .",
+        "the bed was cozy .",
+        "the bathroom was clean ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600041151400",
+  "model": "GLAC"
+}

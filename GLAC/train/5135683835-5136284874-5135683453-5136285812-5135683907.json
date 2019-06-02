@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5135683835-5136284874-5135683453-5136285812-5135683907",
+  "photo_sequence_ids": [
+    "5135683835",
+    "5136284874",
+    "5135683453",
+    "5136285812",
+    "5135683907"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the bikers were off to the start of the race . they were all very excited . they had a great time . they had a lot of fun . they were very happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "people were wearing very interesting costumes to the event at the park. the bikers were off to the start of the race . one biker was wearing a scary mask. Mary and lisa were also in costumes. everyone was getting their pictures taken. they were all very excited . they had a great time . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "people were wearing very interesting costumes to the event at the park .",
+        "the bikers were off to the start of the race .",
+        "one biker was wearing a scary mask .",
+        "[female] and [female] were also in costumes .",
+        "everyone was getting their pictures taken .",
+        "they were all very excited .",
+        "they had a great time .",
+        "they had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The bikers were off to the start of the race, and boy, were they excited! And they had a great time at the race, too, they were all really happy.",
+      "normalized_edited_story_text_sent": [
+        "the bikers were off to the start of the race , and boy , were they excited !",
+        "and they had a great time at the race , too , they were all really happy ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bikers were off racing . they were all energetic . they had a great time racing wearing costumes . they had fun with the costume design . they were very happy being themselves .",
+      "normalized_edited_story_text_sent": [
+        "the bikers were off racing .",
+        "they were all energetic .",
+        "they had a great time racing wearing costumes .",
+        "they had fun with the costume design .",
+        "they were very happy being themselves ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "the bikers drove recklessly during the race. they were all very excited. they had a great time. people dressed up and had a lot of fun. they were very happy to be racing their bikes.",
+      "normalized_edited_story_text_sent": [
+        "the bikers drove recklessly during the race .",
+        "they were all very excited .",
+        "they had a great time .",
+        "people dressed up and had a lot of fun .",
+        "they were very happy to be racing their bikes ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the bikers were off to the start of the race . they were all very excited . They wore crazy cutomes while they raced. it was so much fun for everyone",
+      "normalized_edited_story_text_sent": [
+        "the bikers were off to the start of the race .",
+        "they were all very excited .",
+        "they wore crazy cutomes while they raced .",
+        "it was so much fun for everyone"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625163885359",
+  "model": "GLAC"
+}

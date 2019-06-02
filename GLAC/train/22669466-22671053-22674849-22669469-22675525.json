@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "22669466-22671053-22674849-22669469-22675525",
+  "photo_sequence_ids": [
+    "22669466",
+    "22671053",
+    "22674849",
+    "22669469",
+    "22675525"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went on a trip to the beach . they played in the sand . they also took a picture of the park . they found a waterfall and decided to take a break . they stopped for a quick photo before heading home .",
+  "edited_stories": [
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my family and i went on a trip to the lake this past weekend. i had a fun time with some \"ducks\". the kids loved the big ducks, too. my brothers came with us and they enjoyed some time catching up with each other. the lake has some great places for memorable photos, such as this one.",
+      "normalized_edited_story_text_sent": [
+        "my family and i went on a trip to the lake this past weekend .",
+        "i had a fun time with some `` ducks \u0027\u0027 .",
+        "the kids loved the big ducks , too .",
+        "my brothers came with us and they enjoyed some time catching up with each other .",
+        "the lake has some great places for memorable photos , such as this one ."
+      ]
+    },
+    {
+      "worker_id": "A1C8FN01981A69",
+      "edited_story_text": "yesterday my family took a trip together. we took a lot of fun pictures together. we went to the park and look at some statues. after that we have a picnic on the grass. it was the best way to spend the weekend.",
+      "normalized_edited_story_text_sent": [
+        "yesterday my family took a trip together .",
+        "we took a lot of fun pictures together .",
+        "we went to the park and look at some statues .",
+        "after that we have a picnic on the grass .",
+        "it was the best way to spend the weekend ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went on a trip to the beach . they played in the sand . they also took a picture of the park . they loved the birds  . they stopped for a quick photo before heading home .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the beach .",
+        "they played in the sand .",
+        "they also took a picture of the park .",
+        "they loved the birds .",
+        "they stopped for a quick photo before heading home ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went on a trip to the park . The water was pretty and their were ducks. The kids looked at the duck statues. We posed by some frog statues also.",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the park .",
+        "the water was pretty and their were ducks .",
+        "the kids looked at the duck statues .",
+        "we posed by some frog statues also ."
+      ]
+    },
+    {
+      "worker_id": "A1QR6I7UPY8XQJ",
+      "edited_story_text": "The family went on a trip to the park. They played with the statues. They also took a picture of the park and the statues. They found a tree and decided to take a break. They stopped for a quick photo before heading home .",
+      "normalized_edited_story_text_sent": [
+        "the family went on a trip to the park .",
+        "they played with the statues .",
+        "they also took a picture of the park and the statues .",
+        "they found a tree and decided to take a break .",
+        "they stopped for a quick photo before heading home ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "546589",
+  "model": "GLAC"
+}

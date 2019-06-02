@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4416283879-4417050434-4417051542-4416285829-4421516285",
+  "photo_sequence_ids": [
+    "4416283879",
+    "4417050434",
+    "4417051542",
+    "4416285829",
+    "4421516285"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the students were excited for the graduation ceremony . the speaker was very proud of his accomplishments . the graduates were all smiles as they walked across the stage . the valedictorian gave a speech to the audience . the graduates were so happy that they had finally graduated .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the speaker was very proud of his accomplishments . the graduates were all smiles as they walked across the stage . the valedictorian gave a speech to the audience . the graduates were so happy that they had finally graduated . there were many people watching.",
+      "normalized_edited_story_text_sent": [
+        "the speaker was very proud of his accomplishments .",
+        "the graduates were all smiles as they walked across the stage .",
+        "the valedictorian gave a speech to the audience .",
+        "the graduates were so happy that they had finally graduated .",
+        "there were many people watching ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and  Maria thought the students were excited for the graduation ceremony . the speaker was very proud of his accomplishments . the graduates were all smiles as they walked across the stage . the valedictorian gave a speech to the audience . the graduates were so happy that they had finally graduated .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [female] thought the students were excited for the graduation ceremony .",
+        "the speaker was very proud of his accomplishments .",
+        "the graduates were all smiles as they walked across the stage .",
+        "the valedictorian gave a speech to the audience .",
+        "the graduates were so happy that they had finally graduated ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "Everyone arrived at the conference. The people listened to the presentation. There was an unveiling. Everyone left through the cool walkway.",
+      "normalized_edited_story_text_sent": [
+        "everyone arrived at the conference .",
+        "the people listened to the presentation .",
+        "there was an unveiling .",
+        "everyone left through the cool walkway ."
+      ]
+    },
+    {
+      "worker_id": "AFI6G1IYVHXAQ",
+      "edited_story_text": "the business executives were excited for the ceremony in new york. the speaker was very proud of his accomplishments . they were all happy to get to know each other as they walked across the stage . it didnt last too long.",
+      "normalized_edited_story_text_sent": [
+        "the business executives were excited for the ceremony in new york .",
+        "the speaker was very proud of his accomplishments .",
+        "they were all happy to get to know each other as they walked across the stage .",
+        "it didnt last too long ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the people were excited about the presentation . the speaker was very proud of his accomplishments . the graduates were all smiles as they walked across the stage . the valedictorian gave a speech to the audience . the graduates were so happy that they had finally graduated .",
+      "normalized_edited_story_text_sent": [
+        "the people were excited about the presentation .",
+        "the speaker was very proud of his accomplishments .",
+        "the graduates were all smiles as they walked across the stage .",
+        "the valedictorian gave a speech to the audience .",
+        "the graduates were so happy that they had finally graduated ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623578467254",
+  "model": "GLAC"
+}

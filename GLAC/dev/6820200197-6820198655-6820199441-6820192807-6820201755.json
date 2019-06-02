@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "6820200197-6820198655-6820199441-6820192807-6820201755",
+  "photo_sequence_ids": [
+    "6820200197",
+    "6820198655",
+    "6820199441",
+    "6820192807",
+    "6820201755"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the restaurant last night . there were a lot of people there . we had a great time . the buildings were very tall . afterward we went back home .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "Ate until I burst, check out my face!!!  This is a great little cafe that just opened up near the farmers market.",
+      "normalized_edited_story_text_sent": [
+        "ate until i burst , check out my face !!!",
+        "this is a great little cafe that just opened up near the farmers market ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "john and lisa were glad i went to the restaurant last night . there were a lot of people there . we had a great time . the buildings were very tall . afterward we went back home .",
+      "normalized_edited_story_text_sent": [
+        "[male] and [female] were glad i went to the restaurant last night .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "the buildings were very tall .",
+        "afterward we went back home ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the restaurant last night . it was a fun time.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last night .",
+        "it was a fun time ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "i went to the restaurant last night . there were a lot of people there . we had a great time . the buildings were very tall . afterward we went back home .\r\rI went to this late night restaurant last night. I couldn\u0027t believe it was so packed. We had a blast though. I couldn\u0027t believe how tall the buildings were. After we ate, we drove home.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last night .",
+        "there were a lot of people there .",
+        "we had a great time .",
+        "the buildings were very tall .",
+        "afterward we went back home .",
+        "i went to this late night restaurant last night .",
+        "i could n\u0027t believe it was so packed .",
+        "we had a blast though .",
+        "i could n\u0027t believe how tall the buildings were .",
+        "after we ate , we drove home ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "i went to the restaurant last night . there were a lot of people there . We enjoyed great food. we visited the street vendors after.",
+      "normalized_edited_story_text_sent": [
+        "i went to the restaurant last night .",
+        "there were a lot of people there .",
+        "we enjoyed great food .",
+        "we visited the street vendors after ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629177580209",
+  "model": "GLAC"
+}

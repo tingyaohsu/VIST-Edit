@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4711369098-4711373072-4710736143-4710750715-4711394144",
+  "photo_sequence_ids": [
+    "4711369098",
+    "4711373072",
+    "4710736143",
+    "4710750715",
+    "4711394144"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4033/4711369098_6fd6f35100_o.jpg",
+    "https://farm5.staticflickr.com/4061/4711373072_2d71b3e025_o.jpg",
+    "https://farm5.staticflickr.com/4070/4710736143_3e7893afd9_o.jpg",
+    "https://farm2.staticflickr.com/1294/4710750715_00778a4c64_o.jpg",
+    "https://farm5.staticflickr.com/4036/4711394144_aee19f1e47_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went to the farm to get some food . they had a lot of work to do . it was a lot of fun . some of the workers had a lot of work to do . i also had a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The family went to the farm to get some food. They had a lot of work to do, but they had fun. Some of the workers had more work to do than others. I had fun too.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farm to get some food .",
+        "they had a lot of work to do , but they had fun .",
+        "some of the workers had more work to do than others .",
+        "i had fun too ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "the family went to the farm to get some food . they had a lot of work to do there, but it was a lot of fun . some of the workers were working hard . i also had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farm to get some food .",
+        "they had a lot of work to do there , but it was a lot of fun .",
+        "some of the workers were working hard .",
+        "i also had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The construction workers gathered their tools. They began to work on the building. One of the workers dug a hole. Some other workers began working inside the hole. They found a strange object.",
+      "normalized_edited_story_text_sent": [
+        "the construction workers gathered their tools .",
+        "they began to work on the building .",
+        "one of the workers dug a hole .",
+        "some other workers began working inside the hole .",
+        "they found a strange object ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the family went to the construction site . they had a lot of work to do . it was a lot of fun . some of the workers had a lot of work to do . i also had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the construction site .",
+        "they had a lot of work to do .",
+        "it was a lot of fun .",
+        "some of the workers had a lot of work to do .",
+        "i also had a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "the family went to the farm to get some food . it was enjoyable, and I had a lot of fun . some of the workers had a lot of work to do .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the farm to get some food .",
+        "it was enjoyable , and i had a lot of fun .",
+        "some of the workers had a lot of work to do ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157624300611300"
+}

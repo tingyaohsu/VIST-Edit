@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4279217616-4279217880-4281798521-4281798799-4281799751",
+  "photo_sequence_ids": [
+    "4279217616",
+    "4279217880",
+    "4281798521",
+    "4281798799",
+    "4281799751"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to the park . there was a lot of old buildings . the building was very tall . the streets were really big . the view was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we went to the park today. there were a lot of old buildings. the streets were covered in snow, and the view was amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park today .",
+        "there were a lot of old buildings .",
+        "the streets were covered in snow , and the view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "we went to the park . there was a lot of old buildings . the building was very tall . the streets were busy . the view was amazing .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park .",
+        "there was a lot of old buildings .",
+        "the building was very tall .",
+        "the streets were busy .",
+        "the view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1IMICF9ISISZN",
+      "edited_story_text": "We went to the park and built a snowman. There was a lot of old buildings on the way to the park. The buildings all were very tall. Every street was really wide. Every view was amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park and built a snowman .",
+        "there was a lot of old buildings on the way to the park .",
+        "the buildings all were very tall .",
+        "every street was really wide .",
+        "every view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "We went to the park. There is a walking bridge there. There are a lot of old buildings on the way. One of them is very tall.  The street view was amazing.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park .",
+        "there is a walking bridge there .",
+        "there are a lot of old buildings on the way .",
+        "one of them is very tall .",
+        "the street view was amazing ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to the park . there was a lot of old buildings . the building was very tall . the streets were really big . the view was full of cold snow.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park .",
+        "there was a lot of old buildings .",
+        "the building was very tall .",
+        "the streets were really big .",
+        "the view was full of cold snow ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623221299462",
+  "model": "GLAC"
+}

@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4407194567-4407194845-4407962334-4408002320-4408002458",
+  "photo_sequence_ids": [
+    "4407194567",
+    "4407194845",
+    "4407962334",
+    "4408002320",
+    "4408002458"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the man was excited to be at the concert . he was so happy and ready to go . he was very proud of his performance . the band was really good . the crowd was great .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the man was excited to be at the concert . he was so happy and ready to go . he was very proud of his performance . the concert was live . the crowd went wild .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be at the concert .",
+        "he was so happy and ready to go .",
+        "he was very proud of his performance .",
+        "the concert was live .",
+        "the crowd went wild ."
+      ]
+    },
+    {
+      "worker_id": "A1DAKVNZ5LJEL4",
+      "edited_story_text": "the men were excited to be going to the concert together. They were so eager and ready to go . They were very proud of the performance . the band that they watched was really good . the crowd also had great energy .",
+      "normalized_edited_story_text_sent": [
+        "the men were excited to be going to the concert together .",
+        "they were so eager and ready to go .",
+        "they were very proud of the performance .",
+        "the band that they watched was really good .",
+        "the crowd also had great energy ."
+      ]
+    },
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "John was excited to perform at the concert. He was excited and ready to go. He did really well and was proud of his performance. The crowd was awesome.",
+      "normalized_edited_story_text_sent": [
+        "[male] was excited to perform at the concert .",
+        "he was excited and ready to go .",
+        "he did really well and was proud of his performance .",
+        "the crowd was awesome ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the man stood in the hall with his friend. They posed for a picture. The concert was packed. People cheered for the singer.",
+      "normalized_edited_story_text_sent": [
+        "the man stood in the hall with his friend .",
+        "they posed for a picture .",
+        "the concert was packed .",
+        "people cheered for the singer ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the man was excited to be with his friend . they got ready to go . he liked his performance . the man was good . the crowd was great .",
+      "normalized_edited_story_text_sent": [
+        "the man was excited to be with his friend .",
+        "they got ready to go .",
+        "he liked his performance .",
+        "the man was good .",
+        "the crowd was great ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623510015317",
+  "model": "GLAC"
+}

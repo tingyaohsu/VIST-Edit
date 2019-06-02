@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "7505465258-7505490446-7505513882-7505534948-7505561246",
+  "photo_sequence_ids": [
+    "7505465258",
+    "7505490446",
+    "7505513882",
+    "7505534948",
+    "7505561246"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8154/7505465258_8f353bc3cc_o.jpg",
+    "https://farm9.staticflickr.com/8164/7505490446_166ea9745d_o.jpg",
+    "https://farm9.staticflickr.com/8431/7505513882_8f31fb1812_o.jpg",
+    "https://farm8.staticflickr.com/7114/7505534948_034bab2257_o.jpg",
+    "https://farm8.staticflickr.com/7112/7505561246_06a836e377_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day . there were a lot of old cars . there was a lot of music . the kids had a great time . some of them were very creative .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "Today was the day of the public festival. There were lots of old cars to see. People played music. The kids enjoyed lots of activities, like an eating contest. Some people had creative masks on.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the public festival .",
+        "there were lots of old cars to see .",
+        "people played music .",
+        "the kids enjoyed lots of activities , like an eating contest .",
+        "some people had creative masks on ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "today is the day . there are a lot of old cars . there is a lot of music . the kids have a great time . some of them are very creative .",
+      "normalized_edited_story_text_sent": [
+        "today is the day .",
+        "there are a lot of old cars .",
+        "there is a lot of music .",
+        "the kids have a great time .",
+        "some of them are very creative ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "today was the day of the car show . there were a lot of old cars . they had a band so there was a lot of music . the kids ate watermelon . some of them were very creative  with costumes.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the car show .",
+        "there were a lot of old cars .",
+        "they had a band so there was a lot of music .",
+        "the kids ate watermelon .",
+        "some of them were very creative with costumes ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "today was the day of the car show. there were a lot of old cars . there was a lot of live music. the kids had a great time eating watermelon. some of the people were very creative .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the car show .",
+        "there were a lot of old cars .",
+        "there was a lot of live music .",
+        "the kids had a great time eating watermelon .",
+        "some of the people were very creative ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "today was the day of the festival . there were many old cars . there was a lot of music . the kids had a great time . some of them were very creative with their costumes.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the festival .",
+        "there were many old cars .",
+        "there was a lot of music .",
+        "the kids had a great time .",
+        "some of them were very creative with their costumes ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157630429638746"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "17723238-17723240-17723242-17724182-17724186",
+  "photo_sequence_ids": [
+    "17723238",
+    "17723240",
+    "17723242",
+    "17724182",
+    "17724186"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very old . it was a big place . the buildings were tall . the streets were empty . the doors were open .",
+  "edited_stories": [
+    {
+      "worker_id": "A2PSVYL53CDVJ3",
+      "edited_story_text": "I inspected some old buildings yesterday. The buildings were very big and surrounded by some old fence. The streets nearby all of the buildings were old, and I could not see any people. Most of the structures were rather rickety and not in the most modern condition.",
+      "normalized_edited_story_text_sent": [
+        "i inspected some old buildings yesterday .",
+        "the buildings were very big and surrounded by some old fence .",
+        "the streets nearby all of the buildings were old , and i could not see any people .",
+        "most of the structures were rather rickety and not in the most modern condition ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "i saw a lot of very old places on my recent vacation. one of the most memorable was a very old cemetery. it had lots of impressive crypts and mausoleums. some of the graves were stacked one on top of the other. the place was in disrepair, which gave it an eerie and beautiful quality.",
+      "normalized_edited_story_text_sent": [
+        "i saw a lot of very old places on my recent vacation .",
+        "one of the most memorable was a very old cemetery .",
+        "it had lots of impressive crypts and mausoleums .",
+        "some of the graves were stacked one on top of the other .",
+        "the place was in disrepair , which gave it an eerie and beautiful quality ."
+      ]
+    },
+    {
+      "worker_id": "A1CE2XPYCDRHVZ",
+      "edited_story_text": "The building was very old. I saw a line of old crypts nearby.  The streets were empty except for me and the gates were open so I could walk right in.",
+      "normalized_edited_story_text_sent": [
+        "the building was very old .",
+        "i saw a line of old crypts nearby .",
+        "the streets were empty except for me and the gates were open so i could walk right in ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the building was very old and antique . it was a massive place . the buildings were tall . the streets were empty . the doors were open .",
+      "normalized_edited_story_text_sent": [
+        "the building was very old and antique .",
+        "it was a massive place .",
+        "the buildings were tall .",
+        "the streets were empty .",
+        "the doors were open ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Very old historical looking buildings in black and white many are very broken down looking and dumpy.",
+      "normalized_edited_story_text_sent": [
+        "very old historical looking buildings in black and white many are very broken down looking and dumpy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "420512",
+  "model": "GLAC"
+}

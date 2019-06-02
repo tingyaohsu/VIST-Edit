@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4335570566-4334829337-4334830909-4334831283-4334832569",
+  "photo_sequence_ids": [
+    "4335570566",
+    "4334829337",
+    "4334830909",
+    "4334831283",
+    "4334832569"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was full of people . the streets were filled with activity . the parade was a success . the crowds were in full force . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was full of people . the streets were filled with activity . the parade was a success . the crowds were in full force . the food was fresh .",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the streets were filled with activity .",
+        "the parade was a success .",
+        "the crowds were in full force .",
+        "the food was fresh ."
+      ]
+    },
+    {
+      "worker_id": "A20YPSTGFCX7L6",
+      "edited_story_text": "It was a beautiful day in the city and the sun shown over the tall buildings. The market was very busy and full of people waking around. Vendors sold all sorts of items, such as fresh brussel sprouts and other vegetables.",
+      "normalized_edited_story_text_sent": [
+        "it was a beautiful day in the city and the sun shown over the tall buildings .",
+        "the market was very busy and full of people waking around .",
+        "vendors sold all sorts of items , such as fresh brussel sprouts and other vegetables ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the city was full of people . the weather was perfect to be outside. the streets were filled with activity . the flea market was very busy and there were a lot of people there. the flowers looked and smelled very nice. the vegetables were fresh. the trip to the flea market was a lot of fun.",
+      "normalized_edited_story_text_sent": [
+        "the city was full of people .",
+        "the weather was perfect to be outside .",
+        "the streets were filled with activity .",
+        "the flea market was very busy and there were a lot of people there .",
+        "the flowers looked and smelled very nice .",
+        "the vegetables were fresh .",
+        "the trip to the flea market was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3F51C49T9A34D",
+      "edited_story_text": "the city was starting to be filled with people . the sky was bright and perfect for the activities. the event was a success . the crowds were in full force . the food was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the city was starting to be filled with people .",
+        "the sky was bright and perfect for the activities .",
+        "the event was a success .",
+        "the crowds were in full force .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A2IBTYRQIZX1N6",
+      "edited_story_text": "The city had lots of interesting sights. It was a beautiful, sunny day. The streets were filled with activity. The farmers\u0027 market was a success. The food looked delicious.",
+      "normalized_edited_story_text_sent": [
+        "the city had lots of interesting sights .",
+        "it was a beautiful , sunny day .",
+        "the streets were filled with activity .",
+        "the farmers \u0027 market was a success .",
+        "the food looked delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623365952228",
+  "model": "GLAC"
+}

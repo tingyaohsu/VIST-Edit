@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4330197855-4330196103-4330914576-4330923792-4330166825",
+  "photo_sequence_ids": [
+    "4330197855",
+    "4330196103",
+    "4330914576",
+    "4330923792",
+    "4330166825"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2697/4330197855_869c9b2dea_o.jpg",
+    "https://farm3.staticflickr.com/2791/4330196103_3e703dc20f_o.jpg",
+    "https://farm3.staticflickr.com/2586/4330914576_c217eb2328_o.jpg",
+    "https://farm5.staticflickr.com/4032/4330923792_6ea65433fd_o.jpg",
+    "https://farm3.staticflickr.com/2733/4330166825_c10f36143b_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family went to a new restaurant . there was a lot of furniture . this is a picture of a sculpture . this is a picture of a book . to the end of the day , there was a lot of food there .",
+  "edited_stories": [
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "the family went to a new restaurant . there was a lot of furniture . this is a picture of a sculpture . this is a picture of a book . to the end of the day , there was a lot of food there it was something very special",
+      "normalized_edited_story_text_sent": [
+        "the family went to a new restaurant .",
+        "there was a lot of furniture .",
+        "this is a picture of a sculpture .",
+        "this is a picture of a book .",
+        "to the end of the day , there was a lot of food there it was something very special"
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the family went to a museum . there was a lot of furniture . this is a picture of a sculpture . this is a picture of many dentures . At the end of the day , we saw a head .",
+      "normalized_edited_story_text_sent": [
+        "the family went to a museum .",
+        "there was a lot of furniture .",
+        "this is a picture of a sculpture .",
+        "this is a picture of many dentures .",
+        "at the end of the day , we saw a head ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "the family went to the musuem . there was a lot of furniture . this is a picture of a sculpture . this is a picture of a book . to the end of the day , there was a lot of fun stuff there.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the musuem .",
+        "there was a lot of furniture .",
+        "this is a picture of a sculpture .",
+        "this is a picture of a book .",
+        "to the end of the day , there was a lot of fun stuff there ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We went to a dental museum at the University. It was so interesting. We loved looking at all the old dental models and seeing how dental treatments were done in the old time.",
+      "normalized_edited_story_text_sent": [
+        "we went to a dental museum at the university .",
+        "it was so interesting .",
+        "we loved looking at all the old dental models and seeing how dental treatments were done in the old time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the family went to a dental museum . there was a lot of furniture . this is a picture of a dentures . I do not know why they had a skull .",
+      "normalized_edited_story_text_sent": [
+        "the family went to a dental museum .",
+        "there was a lot of furniture .",
+        "this is a picture of a dentures .",
+        "i do not know why they had a skull ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623226515173"
+}

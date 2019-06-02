@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "35433230-35433182-35433190-35433250-35433175",
+  "photo_sequence_ids": [
+    "35433230",
+    "35433182",
+    "35433190",
+    "35433250",
+    "35433175"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/24/35433230_4cddadb106_o.jpg",
+    "https://farm1.staticflickr.com/27/35433182_aecfb74b92_o.jpg",
+    "https://farm1.staticflickr.com/24/35433190_b10de35739_o.jpg",
+    "https://farm1.staticflickr.com/22/35433250_c9891d16db_o.jpg",
+    "https://farm1.staticflickr.com/25/35433175_44eeb9b903_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the festival . there were a lot of people there . we all had a lot of fun . after the race , the race began . we had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "There were a lot of people at the festival.  Once the race began we had a great time!",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of people at the festival .",
+        "once the race began we had a great time !"
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "we had a great time at the festival . there were a lot of people there . we all had a lot of fun .  the race began with many people . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "there were a lot of people there .",
+        "we all had a lot of fun .",
+        "the race began with many people .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we had a great time at the race . there were a lot of people there . we all had a lot of fun rooting for jason. after the race , we took pictures . we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the race .",
+        "there were a lot of people there .",
+        "we all had a lot of fun rooting for jason .",
+        "after the race , we took pictures .",
+        "we had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A15HH69K0VGFQ",
+      "edited_story_text": "We are on out way to the marathon. There were a lot of people there cheering me on. We all had a lot of fun making these signs. The finish line was exciting. We took a group photo at the end.",
+      "normalized_edited_story_text_sent": [
+        "we are on out way to the marathon .",
+        "there were a lot of people there cheering me on .",
+        "we all had a lot of fun making these signs .",
+        "the finish line was exciting .",
+        "we took a group photo at the end ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the festival . there were a lot of people there . we all had a lot of fun . after the race , the race began and we had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "there were a lot of people there .",
+        "we all had a lot of fun .",
+        "after the race , the race began and we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "784072"
+}

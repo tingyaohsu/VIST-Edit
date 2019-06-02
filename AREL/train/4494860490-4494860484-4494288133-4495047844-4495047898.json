@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4494860490-4494860484-4494288133-4495047844-4495047898",
+  "photo_sequence_ids": [
+    "4494860490",
+    "4494860484",
+    "4494288133",
+    "4495047844",
+    "4495047898"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4041/4494860490_02511ff29a_o.jpg",
+    "https://farm5.staticflickr.com/4023/4494860484_25eb087b28_o.jpg",
+    "https://farm5.staticflickr.com/4044/4494288133_01f392b120_o.jpg",
+    "https://farm5.staticflickr.com/4060/4495047844_4cb8d848bf_o.jpg",
+    "https://farm3.staticflickr.com/2771/4495047898_7c2a7c0be8_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the church last week . the stained glass windows were amazing . this is a picture of a plaque . the church was beautiful . this is a picture of a grave .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "i had a great time at the church last week. the stained glass windows were amazing. this is a picture of a plaque at the church. the church was beautiful from the outside too. this is a picture of a grave that was there.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the church last week .",
+        "the stained glass windows were amazing .",
+        "this is a picture of a plaque at the church .",
+        "the church was beautiful from the outside too .",
+        "this is a picture of a grave that was there ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "I had a great time at the church last week and the stained glass windows were amazing . This is a picture of a plaque, the church was beautiful as was the graveyard.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the church last week and the stained glass windows were amazing .",
+        "this is a picture of a plaque , the church was beautiful as was the graveyard ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "i had a great time going to a new church last sunday. the stained glass windows were amazing. the church is really old and has a lot of history behind it. There is a graveyard next to it. I took some pictures of the old tombstones.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time going to a new church last sunday .",
+        "the stained glass windows were amazing .",
+        "the church is really old and has a lot of history behind it .",
+        "there is a graveyard next to it .",
+        "i took some pictures of the old tombstones ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I went to visit church last week. The stained glass windows were gorgeous. There was a special plaque in the church with more information. The church was very old and beautiful. I saw gravestones next to the church building.",
+      "normalized_edited_story_text_sent": [
+        "i went to visit church last week .",
+        "the stained glass windows were gorgeous .",
+        "there was a special plaque in the church with more information .",
+        "the church was very old and beautiful .",
+        "i saw gravestones next to the church building ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "i had a great time at the church last week . the stained glass windows were amazing . this is a picture of a plaque and the church was beautiful . this is a picture of a grave .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the church last week .",
+        "the stained glass windows were amazing .",
+        "this is a picture of a plaque and the church was beautiful .",
+        "this is a picture of a grave ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623653330993"
+}

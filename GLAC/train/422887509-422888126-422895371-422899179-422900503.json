@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "422887509-422888126-422895371-422899179-422900503",
+  "photo_sequence_ids": [
+    "422887509",
+    "422888126",
+    "422895371",
+    "422899179",
+    "422900503"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the view from the top of the mountain was amazing . the views were spectacular . the mountains were beautiful . the roads were very slippery . the scenery was breathtaking .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "the spectacular view from the top of the mountain was amazing and the views were spectacular . the mountains were beautiful . the roads were very slippery . the scenery was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "the spectacular view from the top of the mountain was amazing and the views were spectacular .",
+        "the mountains were beautiful .",
+        "the roads were very slippery .",
+        "the scenery was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the view from the top of the mountain was amazing . there was fog rising from the bottom . the mountains were beautiful . the roads were very slippery . the scenery was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "the view from the top of the mountain was amazing .",
+        "there was fog rising from the bottom .",
+        "the mountains were beautiful .",
+        "the roads were very slippery .",
+        "the scenery was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the view from the top of the mountain was incredible . the views were breathtaking . the mountains were beautiful . the roads were very slippery . the scenery was breathtaking .",
+      "normalized_edited_story_text_sent": [
+        "the view from the top of the mountain was incredible .",
+        "the views were breathtaking .",
+        "the mountains were beautiful .",
+        "the roads were very slippery .",
+        "the scenery was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A13BVW6C13FCTY",
+      "edited_story_text": "The view from the top of the mountain was amazing. All the views were spectacular. The mountains were beautiful with their changing scenery. The roads were very slippery so we had to be careful, but the scenery was breathtaking.",
+      "normalized_edited_story_text_sent": [
+        "the view from the top of the mountain was amazing .",
+        "all the views were spectacular .",
+        "the mountains were beautiful with their changing scenery .",
+        "the roads were very slippery so we had to be careful , but the scenery was breathtaking ."
+      ]
+    },
+    {
+      "worker_id": "A2CV8U1O163OY8",
+      "edited_story_text": "The view from the top of the mountain was amazing and spectacular. The mountains were beautiful but the roads were very slippery.  The scenery was breathtaking.",
+      "normalized_edited_story_text_sent": [
+        "the view from the top of the mountain was amazing and spectacular .",
+        "the mountains were beautiful but the roads were very slippery .",
+        "the scenery was breathtaking ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600002596744",
+  "model": "GLAC"
+}

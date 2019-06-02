@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6079999848-6079462905-6080000976-6079464891-6080002232",
+  "photo_sequence_ids": [
+    "6079999848",
+    "6079462905",
+    "6080000976",
+    "6079464891",
+    "6080002232"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the protesters were getting ready for the march . they were all gathered together . they were all excited . they were very passionate . the crowd was peaceful .",
+  "edited_stories": [
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the protesters were getting ready for the reunion . they were all gathered together . they were all excited . they were very passionate . the crowd was peaceful .",
+      "normalized_edited_story_text_sent": [
+        "the protesters were getting ready for the reunion .",
+        "they were all gathered together .",
+        "they were all excited .",
+        "they were very passionate .",
+        "the crowd was peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A197GEXK2G2RA",
+      "edited_story_text": "The protesters assembled at UCA. They were prepped. They were passionate. They were determined. The began the march and proceeded around campus - but they remained peaceful.",
+      "normalized_edited_story_text_sent": [
+        "the protesters assembled at uca .",
+        "they were prepped .",
+        "they were passionate .",
+        "they were determined .",
+        "the began the march and proceeded around campus - but they remained peaceful ."
+      ]
+    },
+    {
+      "worker_id": "A2Z3I9XW0SHBPY",
+      "edited_story_text": "college was set to start for the year.  a special event was set up to welcome students back to campus.  some students got right into the swing of things.  some students compared schedules.  as classes began the town was alive with the movement of the students.",
+      "normalized_edited_story_text_sent": [
+        "college was set to start for the year .",
+        "a special event was set up to welcome students back to campus .",
+        "some students got right into the swing of things .",
+        "some students compared schedules .",
+        "as classes began the town was alive with the movement of the students ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the protesters were getting ready for the march . they were all gathered together .",
+      "normalized_edited_story_text_sent": [
+        "the protesters were getting ready for the march .",
+        "they were all gathered together ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "The sign welcomed everyone. There were snacks for the students. The students got comfortable  there. They talked and walked around campus.",
+      "normalized_edited_story_text_sent": [
+        "the sign welcomed everyone .",
+        "there were snacks for the students .",
+        "the students got comfortable there .",
+        "they talked and walked around campus ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627391929081",
+  "model": "GLAC"
+}

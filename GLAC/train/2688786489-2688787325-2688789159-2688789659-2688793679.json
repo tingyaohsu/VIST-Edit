@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "2688786489-2688787325-2688789159-2688789659-2688793679",
+  "photo_sequence_ids": [
+    "2688786489",
+    "2688787325",
+    "2688789159",
+    "2688789659",
+    "2688793679"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the park for a picnic . the kids were having a great time . the boys played with the other dogs . the baby was very happy . the boy was playing in the sand .",
+  "edited_stories": [
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family went to the park for a picnic . the kids were having a great time . the boys played with the other dogs . the boys enjoyed themselves . the boy was playing in the sand .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a picnic .",
+        "the kids were having a great time .",
+        "the boys played with the other dogs .",
+        "the boys enjoyed themselves .",
+        "the boy was playing in the sand ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "the family went to the park to watch a softball game.  everyone was enjoying the beautiful weather.  the fans sat in lawn chairs.  the fielders waited, ready for the ball to come to them.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park to watch a softball game .",
+        "everyone was enjoying the beautiful weather .",
+        "the fans sat in lawn chairs .",
+        "the fielders waited , ready for the ball to come to them ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family went to the park to watch a game . the kids were having a great time . there was a picnic afterwards.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park to watch a game .",
+        "the kids were having a great time .",
+        "there was a picnic afterwards ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family went to the park for a picnic . We set up chairs and watched everyone play . We got a game of baseball going and all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a picnic .",
+        "we set up chairs and watched everyone play .",
+        "we got a game of baseball going and all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went to the park for a fun picnic . the kids were having a grand time . the boys played with the other dogs . the baby was very happy . the boy was playing in the sand .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the park for a fun picnic .",
+        "the kids were having a grand time .",
+        "the boys played with the other dogs .",
+        "the baby was very happy .",
+        "the boy was playing in the sand ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157606307817709",
+  "model": "GLAC"
+}

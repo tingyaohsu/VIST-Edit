@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "2573144941-2573171773-2573994706-2546750901-2546751223",
+  "photo_sequence_ids": [
+    "2573144941",
+    "2573171773",
+    "2573994706",
+    "2546750901",
+    "2546751223"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the band was playing a great show . the crowd was excited . the singer was very talented . the drummer was very good . the music was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the man raised a beer. the crowd was excited . they all relaxed . the man was feeling very good . the drink was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the man raised a beer .",
+        "the crowd was excited .",
+        "they all relaxed .",
+        "the man was feeling very good .",
+        "the drink was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1ENE99INLYD1G",
+      "edited_story_text": "There was an awesome performance by the band. the crowd was excited . The singer and drummer were really good. I really enjoyed the music.",
+      "normalized_edited_story_text_sent": [
+        "there was an awesome performance by the band .",
+        "the crowd was excited .",
+        "the singer and drummer were really good .",
+        "i really enjoyed the music ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the band was playing a fantastic show . the crowd was super excited . the singer was very talented . the drummer was very good . the music was delicious .",
+      "normalized_edited_story_text_sent": [
+        "the band was playing a fantastic show .",
+        "the crowd was super excited .",
+        "the singer was very talented .",
+        "the drummer was very good .",
+        "the music was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "My friends and I sat around after watching the band to discuss how great their show was. It was myself, a few college buddies and my sister\u0027s husband and baby. We thought the singer was talented and the venue food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "my friends and i sat around after watching the band to discuss how great their show was .",
+        "it was myself , a few college buddies and my sister \u0027s husband and baby .",
+        "we thought the singer was talented and the venue food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The people were having a good time at the small gathering.",
+      "normalized_edited_story_text_sent": [
+        "the people were having a good time at the small gathering ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157605576271182",
+  "model": "GLAC"
+}

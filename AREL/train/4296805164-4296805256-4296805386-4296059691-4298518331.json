@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4296805164-4296805256-4296805386-4296059691-4298518331",
+  "photo_sequence_ids": [
+    "4296805164",
+    "4296805256",
+    "4296805386",
+    "4296059691",
+    "4298518331"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2775/4296805164_fe20ba8629_o.jpg",
+    "https://farm3.staticflickr.com/2790/4296805256_f909ca5323_o.jpg",
+    "https://farm3.staticflickr.com/2423/4296805386_6af1d235ca_o.jpg",
+    "https://farm5.staticflickr.com/4058/4296059691_e8d3c2ca97_o.jpg",
+    "https://farm5.staticflickr.com/4057/4298518331_64bcb83fba_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the park to see the sights . the buildings were very tall . there were a lot of interesting things there . there were many birds there . there was a lot of birds in the sky .",
+  "edited_stories": [
+    {
+      "worker_id": "A13SO6PY3RRKAE",
+      "edited_story_text": "we saw a man jogging down the street . the buildings were very tall . there was a cone sitting in the grass . Even dry weeds can be beautiful . We even saw a kite caught in a tree .",
+      "normalized_edited_story_text_sent": [
+        "we saw a man jogging down the street .",
+        "the buildings were very tall .",
+        "there was a cone sitting in the grass .",
+        "even dry weeds can be beautiful .",
+        "we even saw a kite caught in a tree ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we went to the park to see the sights . the buildings were very tall . there were a lot of interesting things there . there were many birds there . We even saw this cute kite in the branch.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to see the sights .",
+        "the buildings were very tall .",
+        "there were a lot of interesting things there .",
+        "there were many birds there .",
+        "we even saw this cute kite in the branch ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we went to the park to see the sights . there were a lot of interesting things there . the buildings were very tall . there were many birds flying in the sky.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to see the sights .",
+        "there were a lot of interesting things there .",
+        "the buildings were very tall .",
+        "there were many birds flying in the sky ."
+      ]
+    },
+    {
+      "worker_id": "A30GC46VOB82C3",
+      "edited_story_text": "we went to the park to see the sights . the buildings were very tall and beautiful. It was a nice blend of urban development and nature . there were a lot of interesting things there  . there was a lot of birds in the sky .",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to see the sights .",
+        "the buildings were very tall and beautiful .",
+        "it was a nice blend of urban development and nature .",
+        "there were a lot of interesting things there .",
+        "there was a lot of birds in the sky ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to the park to see the sights. The buildings around it were very tall, but there were a lot of interesting things there. We saw many birds in the park, and many birds in the sky above it.",
+      "normalized_edited_story_text_sent": [
+        "we went to the park to see the sights .",
+        "the buildings around it were very tall , but there were a lot of interesting things there .",
+        "we saw many birds in the park , and many birds in the sky above it ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623140181961"
+}

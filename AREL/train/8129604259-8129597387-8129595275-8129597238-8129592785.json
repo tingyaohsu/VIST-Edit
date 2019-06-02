@@ -1,0 +1,82 @@
+{
+  "photo_sequence_id": "8129604259-8129597387-8129595275-8129597238-8129592785",
+  "photo_sequence_ids": [
+    "8129604259",
+    "8129597387",
+    "8129595275",
+    "8129597238",
+    "8129592785"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8324/8129604259_50443f5f40_o.jpg",
+    "https://farm9.staticflickr.com/8049/8129597387_24d54dba8a_o.jpg",
+    "https://farm9.staticflickr.com/8323/8129595275_e3fcd9c63a_o.jpg",
+    "https://farm9.staticflickr.com/8192/8129597238_1c2a614caf_o.jpg",
+    "https://farm9.staticflickr.com/8469/8129592785_4d9df715ec_o.jpg"
+  ],
+  "auto_story_text_normalized": "we decided to have a pumpkin carving contest for halloween . there were a lot of people there . the dogs are having a good time at the party . we had a great time . after the pumpkin carving , we all had a pumpkin carving . it was a great holiday .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we decided to have a pumpkin carving contest for halloween . a lot of people came . the dogs had a good time at the party . we also had a great time . it was a great holiday .",
+      "normalized_edited_story_text_sent": [
+        "we decided to have a pumpkin carving contest for halloween .",
+        "a lot of people came .",
+        "the dogs had a good time at the party .",
+        "we also had a great time .",
+        "it was a great holiday ."
+      ]
+    },
+    {
+      "worker_id": "A1X72AEF3S3OCS",
+      "edited_story_text": "we decided to have a pumpkin carving contest for Halloween. there were a few people there. the dogs had a great time at the party swimming after toys in the pool. we enjoyed our time outside. after the amazing pumpkin carving, we all had a photo session. it was a great Halloween.",
+      "normalized_edited_story_text_sent": [
+        "we decided to have a pumpkin carving contest for halloween .",
+        "there were a few people there .",
+        "the dogs had a great time at the party swimming after toys in the pool .",
+        "we enjoyed our time outside .",
+        "after the amazing pumpkin carving , we all had a photo session .",
+        "it was a great halloween ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We decided to have a pumpkin carving contest for Halloween. There were a lot of people there! The dogs had a good time, and so did we. After the pumpkin carving, we carved more pumpkins. It was a great holiday.",
+      "normalized_edited_story_text_sent": [
+        "we decided to have a pumpkin carving contest for halloween .",
+        "there were a lot of people there !",
+        "the dogs had a good time , and so did we .",
+        "after the pumpkin carving , we carved more pumpkins .",
+        "it was a great holiday ."
+      ]
+    },
+    {
+      "worker_id": "A2W7LAJ93EEH7G",
+      "edited_story_text": "we choose to have a pumpkin carving contest for halloween . there were many people there . the dogs are having a awesome time at the party . we had a incredible time . after the pumpkin carving , we all had a pumpkin carving . it was a awesome occasion .",
+      "normalized_edited_story_text_sent": [
+        "we choose to have a pumpkin carving contest for halloween .",
+        "there were many people there .",
+        "the dogs are having a awesome time at the party .",
+        "we had a incredible time .",
+        "after the pumpkin carving , we all had a pumpkin carving .",
+        "it was a awesome occasion ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "we decided to have a pumpkin carving contest for halloween . there were a lot of people there . . we had a great time . after the pumpkin carving , we ate something . it was a great holiday .",
+      "normalized_edited_story_text_sent": [
+        "we decided to have a pumpkin carving contest for halloween .",
+        "there were a lot of people there .",
+        ".",
+        "we had a great time .",
+        "after the pumpkin carving , we ate something .",
+        "it was a great holiday ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157631868520388"
+}

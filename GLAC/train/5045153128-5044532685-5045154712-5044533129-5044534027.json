@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "5045153128-5044532685-5045154712-5044533129-5044534027",
+  "photo_sequence_ids": [
+    "5045153128",
+    "5044532685",
+    "5045154712",
+    "5044533129",
+    "5044534027"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the organization organization organization was a great place to visit . there was a lot of information on the agenda . the employees were very friendly . the speakers were very good . the speaker was a bit boring .",
+  "edited_stories": [
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the exhibition was a great place to visit on the weekend . there was a lot of information on the agenda that had to be addressed . the employees were very friendly to all the guests . the speakers were very good and knew a lot of information . the speaker was a bit boring but it was his first time so it was expected .",
+      "normalized_edited_story_text_sent": [
+        "the exhibition was a great place to visit on the weekend .",
+        "there was a lot of information on the agenda that had to be addressed .",
+        "the employees were very friendly to all the guests .",
+        "the speakers were very good and knew a lot of information .",
+        "the speaker was a bit boring but it was his first time so it was expected ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the event was a great place to visit . there was a lot of information on the agenda . the employees were very friendly . the speakers were very good . nothing was boring at all.",
+      "normalized_edited_story_text_sent": [
+        "the event was a great place to visit .",
+        "there was a lot of information on the agenda .",
+        "the employees were very friendly .",
+        "the speakers were very good .",
+        "nothing was boring at all ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the library event attracted a lot of people. there were a lot of authors and book signing at the same time.there was a lot of information on the agenda . the people were very friendly and everyone had a successful trip to the library.",
+      "normalized_edited_story_text_sent": [
+        "the library event attracted a lot of people .",
+        "there were a lot of authors and book signing at the same time.there was a lot of information on the agenda .",
+        "the people were very friendly and everyone had a successful trip to the library ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "THERE WERE LOTS OF EXHIBITS AT THE BOOK FAIR. . SEVERAL AUTHORS WERE THERE. MANY OF THEM WERE DOING BOOK SIGNINGS. THEY ALSO HAD COPIES OF THEIR BOOKS FOR SALE. IT WAS AN ENJOYABLE EVENT.",
+      "normalized_edited_story_text_sent": [
+        "there were lots of exhibits at the book fair .",
+        "several authors were there .",
+        "many of them were doing book signings .",
+        "they also had copies of their books for sale .",
+        "it was an enjoyable event ."
+      ]
+    },
+    {
+      "worker_id": "A3A2AZLG73ZE1U",
+      "edited_story_text": "We went to an exhibit before we were able to meet the authors. I was able to meet four different authors and see them work, or get a copy of my book signed.",
+      "normalized_edited_story_text_sent": [
+        "we went to an exhibit before we were able to meet the authors .",
+        "i was able to meet four different authors and see them work , or get a copy of my book signed ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625080616410",
+  "model": "GLAC"
+}

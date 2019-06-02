@@ -1,0 +1,79 @@
+{
+  "photo_sequence_id": "34839977-34839989-34839997-34840014-34840027",
+  "photo_sequence_ids": [
+    "34839977",
+    "34839989",
+    "34839997",
+    "34840014",
+    "34840027"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/23/34839977_86ef5a6bac_o.jpg",
+    "https://farm1.staticflickr.com/23/34839989_a6b94676dd_o.jpg",
+    "https://farm1.staticflickr.com/22/34839997_8908f8776a_o.jpg",
+    "https://farm1.staticflickr.com/21/34840014_68df67ad6f_o.jpg",
+    "https://farm1.staticflickr.com/21/34840027_4f68d9cce4_o.jpg"
+  ],
+  "auto_story_text_normalized": "the kids were excited to be at the school . the kids were very happy to see each other . they played with each other . they had a great time playing with the kids . the kids had a great time at the event .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "the parents were excited to have the kids go to school. the kids really liked being at the school . the kids thought it was awesome to see each other . the kids liked playing with each other . they had a wonderful experience playing with the kids . the kids wanted to sit on the stairs together. the kids liked seeing each other at the event .",
+      "normalized_edited_story_text_sent": [
+        "the parents were excited to have the kids go to school .",
+        "the kids really liked being at the school .",
+        "the kids thought it was awesome to see each other .",
+        "the kids liked playing with each other .",
+        "they had a wonderful experience playing with the kids .",
+        "the kids wanted to sit on the stairs together .",
+        "the kids liked seeing each other at the event ."
+      ]
+    },
+    {
+      "worker_id": "A6P3TJ2T9JHFC",
+      "edited_story_text": "the kids were excited to be at the school. [male] posed with Mom in front of the school. Next, it was Dad\u0027s turn to pose with [male].  The students sat on the stairs of the stage. The kids were very happy to see each other. the kids were excited and a little nervous about the first day of school.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the school .",
+        "[male] posed with mom in front of the school .",
+        "next , it was dad \u0027s turn to pose with [male] .",
+        "the students sat on the stairs of the stage .",
+        "the kids were very happy to see each other .",
+        "the kids were excited and a little nervous about the first day of school ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the kids were excited for their first day of school. they were very happy to see their friends after summer vacation, and they all ran to the playground to play together. hopefully they\u0027ll have a great school year.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited for their first day of school .",
+        "they were very happy to see their friends after summer vacation , and they all ran to the playground to play together .",
+        "hopefully they \u0027ll have a great school year ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "the kid were excited to be at the school . The kid was very happy . they played with each other . they had a great time playing with the kids . the kids had a great time at school .",
+      "normalized_edited_story_text_sent": [
+        "the kid were excited to be at the school .",
+        "the kid was very happy .",
+        "they played with each other .",
+        "they had a great time playing with the kids .",
+        "the kids had a great time at school ."
+      ]
+    },
+    {
+      "worker_id": "A12DY4HHG6MYF0",
+      "edited_story_text": "The kids were excited to be at the school. The kids were very happy to see their friends. They played with each other at recess and played tons of games. The kids then went to an event and had a very good time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were excited to be at the school .",
+        "the kids were very happy to see their friends .",
+        "they played with each other at recess and played tons of games .",
+        "the kids then went to an event and had a very good time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "771385"
+}

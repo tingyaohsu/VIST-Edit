@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4875156300-4875159858-4874553379-4874557065-4874562481",
+  "photo_sequence_ids": [
+    "4875156300",
+    "4875159858",
+    "4874553379",
+    "4874557065",
+    "4874562481"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the forest was beautiful . the grass was green and green . the horses were very cute . the trees were covered in snow . the park was full of people .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The litter was very bad all over the grounds and a random goat was trying to eat it.",
+      "normalized_edited_story_text_sent": [
+        "the litter was very bad all over the grounds and a random goat was trying to eat it ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "we visited the ruins. it was really heartbreaking seeing all of the devastation. there was even a goat foraging in the trash looking for food. i really hope we can get something organized to rebuild our beautiful city!",
+      "normalized_edited_story_text_sent": [
+        "we visited the ruins .",
+        "it was really heartbreaking seeing all of the devastation .",
+        "there was even a goat foraging in the trash looking for food .",
+        "i really hope we can get something organized to rebuild our beautiful city !"
+      ]
+    },
+    {
+      "worker_id": "A2VNR6984SDFGQ",
+      "edited_story_text": "the garbage outside was horrible.  The waste was piled up outside the building that wall falling down.  A goat was scavenging through the garbage pile.  Water was among the garbage pile.  A large building stood behind the garbage pile.",
+      "normalized_edited_story_text_sent": [
+        "the garbage outside was horrible .",
+        "the waste was piled up outside the building that wall falling down .",
+        "a goat was scavenging through the garbage pile .",
+        "water was among the garbage pile .",
+        "a large building stood behind the garbage pile ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the forest was ugly . the grass was green, but full of trash. the horses were very skinny and dirty. there was a neighborhood close by that looks abandoned.",
+      "normalized_edited_story_text_sent": [
+        "the forest was ugly .",
+        "the grass was green , but full of trash .",
+        "the horses were very skinny and dirty .",
+        "there was a neighborhood close by that looks abandoned ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "There was trash everywhere. We saw a small building. Even animals were picking through the debris. There were large buildings close by.",
+      "normalized_edited_story_text_sent": [
+        "there was trash everywhere .",
+        "we saw a small building .",
+        "even animals were picking through the debris .",
+        "there were large buildings close by ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157624126371626",
+  "model": "GLAC"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "4234393570-4234407944-4233637719-4234415968-4234427216",
+  "photo_sequence_ids": [
+    "4234393570",
+    "4234407944",
+    "4233637719",
+    "4234415968",
+    "4234427216"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4055/4234393570_4496cd5985_o.jpg",
+    "https://farm5.staticflickr.com/4039/4234407944_3d9c8a4a8c_o.jpg",
+    "https://farm5.staticflickr.com/4059/4233637719_f95962b1db_o.jpg",
+    "https://farm5.staticflickr.com/4047/4234415968_c27c8e60b5_o.jpg",
+    "https://farm3.staticflickr.com/2620/4234427216_40444c94bf_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a bar . everyone was having a great time . [male] had a lot of fun at the party . and the girls were happy . we had a lot of fun at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "AXV4XY9UNODNP",
+      "edited_story_text": "This is a picture of the bar; everyone was having a great time! The girls were very happy, and everyone had lots of fun!",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of the bar ; everyone was having a great time !",
+        "the girls were very happy , and everyone had lots of fun !"
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "This is a party of the house party . everyone was having a great time . [male] had a lot of fun at the party . and the girls were happy . we had a lot of fun at the party .",
+      "normalized_edited_story_text_sent": [
+        "this is a party of the house party .",
+        "everyone was having a great time .",
+        "[male] had a lot of fun at the party .",
+        "and the girls were happy .",
+        "we had a lot of fun at the party ."
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "this is a picture of a bar . everyone was having a great time . and the girls were happy . we had a lot of fun at the party and enjoyed all the decorations",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a bar .",
+        "everyone was having a great time .",
+        "and the girls were happy .",
+        "we had a lot of fun at the party and enjoyed all the decorations"
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "Everyone had a great time at the New Years party.",
+      "normalized_edited_story_text_sent": [
+        "everyone had a great time at the new years party ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "Everyone was having a great time at the New Year\u0027s party. [male] had a lot of fun at the party. The girls were happy to see friends having fun.  It was a good way to ring in the new year.",
+      "normalized_edited_story_text_sent": [
+        "everyone was having a great time at the new year \u0027s party .",
+        "[male] had a lot of fun at the party .",
+        "the girls were happy to see friends having fun .",
+        "it was a good way to ring in the new year ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623114382738"
+}

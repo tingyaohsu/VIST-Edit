@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "7363625612-7363625130-7363624778-7363624240-7178397477",
+  "photo_sequence_ids": [
+    "7363625612",
+    "7363625130",
+    "7363624778",
+    "7363624240",
+    "7178397477"
+  ],
+  "photo_sequence_urls": [
+    "https://farm8.staticflickr.com/7086/7363625612_13fc480b25_o.jpg",
+    "https://farm6.staticflickr.com/5320/7363625130_54dd96d1ea_o.jpg",
+    "https://farm8.staticflickr.com/7081/7363624778_6dd6c9e70b_o.jpg",
+    "https://farm8.staticflickr.com/7087/7363624240_54dff16bae_o.jpg",
+    "https://farm8.staticflickr.com/7211/7178397477_dc62ec0e4c_o.jpg"
+  ],
+  "auto_story_text_normalized": "the service was a lot of fun . the soldiers were all ready for the event . the speaker gave a speech to the crowd . they were very happy to be there . they had a lot of fun there .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the service is a lot of fun . the soldiers are all ready for the event . the speaker give a speech to the crowd . they are very happy to be there . they have a lot of fun there .",
+      "normalized_edited_story_text_sent": [
+        "the service is a lot of fun .",
+        "the soldiers are all ready for the event .",
+        "the speaker give a speech to the crowd .",
+        "they are very happy to be there .",
+        "they have a lot of fun there ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The service was a lot of fun. THe soldiers were all ready for the event. The speaker gave a speech to the crowd. They were very happy to be there. EVERYONE LIKED SEEING THE SOLDIERS GET THEIR AWARDS.",
+      "normalized_edited_story_text_sent": [
+        "the service was a lot of fun .",
+        "the soldiers were all ready for the event .",
+        "the speaker gave a speech to the crowd .",
+        "they were very happy to be there .",
+        "everyone liked seeing the soldiers get their awards ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The ceremony was a lot of fun.  The policemen were all ready for the event. The speaker gave a speech to the crowd. The policemen received awards and were honored.  They were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the ceremony was a lot of fun .",
+        "the policemen were all ready for the event .",
+        "the speaker gave a speech to the crowd .",
+        "the policemen received awards and were honored .",
+        "they were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "the service was a lot of fun . the police officers were all ready for the event . the speaker gave a speech to the crowd . they were very happy to be there .",
+      "normalized_edited_story_text_sent": [
+        "the service was a lot of fun .",
+        "the police officers were all ready for the event .",
+        "the speaker gave a speech to the crowd .",
+        "they were very happy to be there ."
+      ]
+    },
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the service was a lot of fun . the soldiers were all ready for the event . the speaker gave a speech to the crowd that was excited . they were very happy to be there.",
+      "normalized_edited_story_text_sent": [
+        "the service was a lot of fun .",
+        "the soldiers were all ready for the event .",
+        "the speaker gave a speech to the crowd that was excited .",
+        "they were very happy to be there ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157630107880142"
+}

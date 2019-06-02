@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "379401173-379402741-379403570-379404674-379407052",
+  "photo_sequence_ids": [
+    "379401173",
+    "379402741",
+    "379403570",
+    "379404674",
+    "379407052"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the animals were very friendly . the monkeys were very cute . the horses were all over . the geese were eating . the birds were looking for food .",
+  "edited_stories": [
+    {
+      "worker_id": "A14OPFM8OFA4WF",
+      "edited_story_text": "We went to the zoo . the monkeys were very cute . the tiger was pretty . the giraffe was out. the birds were looking for food .",
+      "normalized_edited_story_text_sent": [
+        "we went to the zoo .",
+        "the monkeys were very cute .",
+        "the tiger was pretty .",
+        "the giraffe was out .",
+        "the birds were looking for food ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "we went to the zoo today.  the animals were friendly.  the horses ran all over the place. birds were looking for food.  the geese had found some and were eating.  i think the monkeys were very cute.",
+      "normalized_edited_story_text_sent": [
+        "we went to the zoo today .",
+        "the animals were friendly .",
+        "the horses ran all over the place .",
+        "birds were looking for food .",
+        "the geese had found some and were eating .",
+        "i think the monkeys were very cute ."
+      ]
+    },
+    {
+      "worker_id": "A2WWFBKCUC55BX",
+      "edited_story_text": "we went to the zoo to see animals. the monkeys were very cute . the giraffes were tall. the ducks were swimming. the flamingos were looking for food.",
+      "normalized_edited_story_text_sent": [
+        "we went to the zoo to see animals .",
+        "the monkeys were very cute .",
+        "the giraffes were tall .",
+        "the ducks were swimming .",
+        "the flamingos were looking for food ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the animals were very friendly . the monkeys were very cute . the horses were grazing in the field . the geese were eating . the birds were looking for food .",
+      "normalized_edited_story_text_sent": [
+        "the animals were very friendly .",
+        "the monkeys were very cute .",
+        "the horses were grazing in the field .",
+        "the geese were eating .",
+        "the birds were looking for food ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the animals were very friendly . the monkeys were super cute . the horses were everywhere . the geese were eating . the birds were looking for food .",
+      "normalized_edited_story_text_sent": [
+        "the animals were very friendly .",
+        "the monkeys were super cute .",
+        "the horses were everywhere .",
+        "the geese were eating .",
+        "the birds were looking for food ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594517283383",
+  "model": "GLAC"
+}

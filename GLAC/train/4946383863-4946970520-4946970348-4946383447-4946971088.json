@@ -1,0 +1,71 @@
+{
+  "photo_sequence_id": "4946383863-4946970520-4946970348-4946383447-4946971088",
+  "photo_sequence_ids": [
+    "4946383863",
+    "4946970520",
+    "4946970348",
+    "4946383447",
+    "4946971088"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the plane was ready for the big game . the organization organization was in the air . the coach was interviewed . the man was happy to be there . the team was very proud .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The plane was way beyond ready for the big game. The air was organized, and then the coach was interviewed. The man was happy to be there and the team was great.",
+      "normalized_edited_story_text_sent": [
+        "the plane was way beyond ready for the big game .",
+        "the air was organized , and then the coach was interviewed .",
+        "the man was happy to be there and the team was great ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the bus was ready for the big one . the football team was on the road . the coach gave a confident interview . the man was happy to be there again . the team was proud of what they did .",
+      "normalized_edited_story_text_sent": [
+        "the bus was ready for the big one .",
+        "the football team was on the road .",
+        "the coach gave a confident interview .",
+        "the man was happy to be there again .",
+        "the team was proud of what they did ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the bus was ready for the big game . the team was ready to play . the coach was interviewed . the man was happy to be there . the fans were excited.",
+      "normalized_edited_story_text_sent": [
+        "the bus was ready for the big game .",
+        "the team was ready to play .",
+        "the coach was interviewed .",
+        "the man was happy to be there .",
+        "the fans were excited ."
+      ]
+    },
+    {
+      "worker_id": "A2YIM8S1MZCKDY",
+      "edited_story_text": "the team was ready for the big game . the organization was ready to get on the bus. the coach was interviewed . the main man was happy to be there . the team was very proud .",
+      "normalized_edited_story_text_sent": [
+        "the team was ready for the big game .",
+        "the organization was ready to get on the bus .",
+        "the coach was interviewed .",
+        "the main man was happy to be there .",
+        "the team was very proud ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the stadium was ready for the big game . the bus carrying the players arrived shortly. the coach looked proud and happy. the coach was interviewed . some other team members were also interviewed before the game.",
+      "normalized_edited_story_text_sent": [
+        "the stadium was ready for the big game .",
+        "the bus carrying the players arrived shortly .",
+        "the coach looked proud and happy .",
+        "the coach was interviewed .",
+        "some other team members were also interviewed before the game ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157625207413126",
+  "model": "GLAC"
+}

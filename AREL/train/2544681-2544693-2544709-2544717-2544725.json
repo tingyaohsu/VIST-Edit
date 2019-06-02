@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "2544681-2544693-2544709-2544717-2544725",
+  "photo_sequence_ids": [
+    "2544681",
+    "2544693",
+    "2544709",
+    "2544717",
+    "2544725"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/2/2544681_a4dbab979b_o.jpg",
+    "https://farm1.staticflickr.com/1/2544693_b6fa813ef4_o.jpg",
+    "https://farm1.staticflickr.com/2/2544709_4f13abf7b1_o.jpg",
+    "https://farm1.staticflickr.com/3/2544717_acec3db37c_o.jpg",
+    "https://farm1.staticflickr.com/2/2544725_1b25c50372_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family got together for a birthday party . the dining room was very nice . the tree was very nice . we had a lot of fun playing in the yard . the food was delicious .",
+  "edited_stories": [
+    {
+      "worker_id": "A2D30R5ZNQS01W",
+      "edited_story_text": "The family got together for Christmas. The dining room was very nice. The cat in the tree was very nice. we had a lot of fun playing in the yard with the cat. The food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for christmas .",
+        "the dining room was very nice .",
+        "the cat in the tree was very nice .",
+        "we had a lot of fun playing in the yard with the cat .",
+        "the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "A5ISMILL6IPA9",
+      "edited_story_text": "the family got together for a party . the dining room featured lovely decorations . the tree was so nice that the cat climbed it. we loved playing in the yard while [male] tickled the cat . the food was delicious, especially the brownies .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the dining room featured lovely decorations .",
+        "the tree was so nice that the cat climbed it .",
+        "we loved playing in the yard while [male] tickled the cat .",
+        "the food was delicious , especially the brownies ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The family got together for a Christmas party. The dining room looked very nice, and the tree was very nice. We had a lot of fun together in the yard, and afterward the food was delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a christmas party .",
+        "the dining room looked very nice , and the tree was very nice .",
+        "we had a lot of fun together in the yard , and afterward the food was delicious ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The family got together for a nice arty. The dining room was decorated really well. I went outside to look at the tree. I fed an animal in the tree. The food was really delicious.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a nice arty .",
+        "the dining room was decorated really well .",
+        "i went outside to look at the tree .",
+        "i fed an animal in the tree .",
+        "the food was really delicious ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the family get together for a birthday party . the dining room is very nice . the tree is very nice . we have a lot of fun playing in the yard . the food is delicious .",
+      "normalized_edited_story_text_sent": [
+        "the family get together for a birthday party .",
+        "the dining room is very nice .",
+        "the tree is very nice .",
+        "we have a lot of fun playing in the yard .",
+        "the food is delicious ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "63789"
+}

@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "15973438307-16167672505-15980364060-16167408922-15541960974",
+  "photo_sequence_ids": [
+    "15973438307",
+    "16167672505",
+    "15980364060",
+    "16167408922",
+    "15541960974"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a birthday party . the cake was delicious . the kids had a great time . the children were excited to be there . the whole family was there .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the family got together for a birthday party . the drinks were good . the adults had a great time . we were celebrating.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a birthday party .",
+        "the drinks were good .",
+        "the adults had a great time .",
+        "we were celebrating ."
+      ]
+    },
+    {
+      "worker_id": "A3B77JBPPUUUC9",
+      "edited_story_text": "Everyone in the family got together for David\u0027s first birthday party . There were drinks and the cake was delicious . Both adults and kids had a great time dancing . the children were excited to be there and had a lot of fun. the entire family showed up .",
+      "normalized_edited_story_text_sent": [
+        "everyone in the family got together for [male] \u0027s first birthday party .",
+        "there were drinks and the cake was delicious .",
+        "both adults and kids had a great time dancing .",
+        "the children were excited to be there and had a lot of fun .",
+        "the entire family showed up ."
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the family all got together for a birthday party . the cake was awesome . the kids loved it. the children were excited to be there . the whole family was happy.",
+      "normalized_edited_story_text_sent": [
+        "the family all got together for a birthday party .",
+        "the cake was awesome .",
+        "the kids loved it .",
+        "the children were excited to be there .",
+        "the whole family was happy ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "my entire family gathered for John\u0027s birthday party.  the kids were thrilled to be there.  we had drinks, wore party hats,  and a delicious cake.",
+      "normalized_edited_story_text_sent": [
+        "my entire family gathered for [male] \u0027s birthday party .",
+        "the kids were thrilled to be there .",
+        "we had drinks , wore party hats , and a delicious cake ."
+      ]
+    },
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "The family had gotten together for a birthday party . They enjoyed a delicious cake. The kids also had a great time at the party. All of the children were excited to be there. The entire family was in attendance.",
+      "normalized_edited_story_text_sent": [
+        "the family had gotten together for a birthday party .",
+        "they enjoyed a delicious cake .",
+        "the kids also had a great time at the party .",
+        "all of the children were excited to be there .",
+        "the entire family was in attendance ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157649648811240",
+  "model": "GLAC"
+}

@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "453640425-453623995-453622213-453618031-453642917",
+  "photo_sequence_ids": [
+    "453640425",
+    "453623995",
+    "453622213",
+    "453618031",
+    "453642917"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . the parade lasted for hours .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . There were a lot of people. Adults rode tiny bikes. The streets were filled.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were a lot of people .",
+        "adults rode tiny bikes .",
+        "the streets were filled ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The festival was a lot of fun.  People were sitting on small bikes and having fun.  There were so many people everywhere.",
+      "normalized_edited_story_text_sent": [
+        "the festival was a lot of fun .",
+        "people were sitting on small bikes and having fun .",
+        "there were so many people everywhere ."
+      ]
+    },
+    {
+      "worker_id": "A1QYAUV5XSWSIS",
+      "edited_story_text": "the parade was an opportune occasion for a lot of pleasure. lots of folks came dressed-up in very creative outfits . i truly enjoyed myself . the parade lasted for hours on end.",
+      "normalized_edited_story_text_sent": [
+        "the parade was an opportune occasion for a lot of pleasure .",
+        "lots of folks came dressed-up in very creative outfits .",
+        "i truly enjoyed myself .",
+        "the parade lasted for hours on end ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "Mary and John was glad the parade was a lot of fun . there were a lot of people dressed up . some of them were very creative . i had a great time . the parade lasted for hours .",
+      "normalized_edited_story_text_sent": [
+        "[female] and [male] was glad the parade was a lot of fun .",
+        "there were a lot of people dressed up .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "the parade lasted for hours ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was amusing . people dressed up as all sorts of characters . some of the costumers were very creative . i had a fun outing . the parade was hours long .",
+      "normalized_edited_story_text_sent": [
+        "the parade was amusing .",
+        "people dressed up as all sorts of characters .",
+        "some of the costumers were very creative .",
+        "i had a fun outing .",
+        "the parade was hours long ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157600061046554",
+  "model": "GLAC"
+}

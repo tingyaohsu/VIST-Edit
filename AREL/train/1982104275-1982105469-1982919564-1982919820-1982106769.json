@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "1982104275-1982105469-1982919564-1982919820-1982106769",
+  "photo_sequence_ids": [
+    "1982104275",
+    "1982105469",
+    "1982919564",
+    "1982919820",
+    "1982106769"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2285/1982104275_801e14feb6_o.jpg",
+    "https://farm3.staticflickr.com/2249/1982105469_21182c06c5_o.jpg",
+    "https://farm3.staticflickr.com/2324/1982919564_b52cdc50ba_o.jpg",
+    "https://farm3.staticflickr.com/2331/1982919820_bbc7a5c76e_o.jpg",
+    "https://farm3.staticflickr.com/2263/1982106769_5547a6c83d_o.jpg"
+  ],
+  "auto_story_text_normalized": "we took a trip to location . the view from the outside of the house was beautiful . the grounds were beautiful . and , then we found a place to sit and enjoy the view . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ANLYFY8COULI",
+      "edited_story_text": "We took a trip to [Williamsburg]. The grounds were beautiful, as was the house itself. Has to find a spot to sit and enjoy the view.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to [location] .",
+        "the grounds were beautiful , as was the house itself .",
+        "has to find a spot to sit and enjoy the view ."
+      ]
+    },
+    {
+      "worker_id": "AOZUMS41I24QI",
+      "edited_story_text": "we took a trip to the memorial. the view from the porch was beautiful . the grounds were pleasant . and then we found a place to sit and enjoy the view . this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to the memorial .",
+        "the view from the porch was beautiful .",
+        "the grounds were pleasant .",
+        "and then we found a place to sit and enjoy the view .",
+        "this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we took a trip to a historic area . It was awesome outside of the hotel . the surrounding area was very pretty .  then we were able to check out the amazing view from the seats . here is a photo of the historic building .",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to a historic area .",
+        "it was awesome outside of the hotel .",
+        "the surrounding area was very pretty .",
+        "then we were able to check out the amazing view from the seats .",
+        "here is a photo of the historic building ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We took a trip to location that looks like a park. The war monument was very nice.  The view from the outside of the house was beautiful.  The house has a nice porch outside with rocking chairs to relax in.  The grounds were beautiful. We found a place to sit and enjoy the view.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to location that looks like a park .",
+        "the war monument was very nice .",
+        "the view from the outside of the house was beautiful .",
+        "the house has a nice porch outside with rocking chairs to relax in .",
+        "the grounds were beautiful .",
+        "we found a place to sit and enjoy the view ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "We took a trip to this memorial. The view from the house where we stayed was gorgeous. The grounds were immaculately kept and beautiful! We found the perfect spot to sit back and soak in the scenery.  This is one of the awesome buildings on the grounds.",
+      "normalized_edited_story_text_sent": [
+        "we took a trip to this memorial .",
+        "the view from the house where we stayed was gorgeous .",
+        "the grounds were immaculately kept and beautiful !",
+        "we found the perfect spot to sit back and soak in the scenery .",
+        "this is one of the awesome buildings on the grounds ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603106928876"
+}

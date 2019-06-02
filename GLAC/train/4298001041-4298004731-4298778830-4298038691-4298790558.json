@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "4298001041-4298004731-4298778830-4298038691-4298790558",
+  "photo_sequence_ids": [
+    "4298001041",
+    "4298004731",
+    "4298778830",
+    "4298038691",
+    "4298790558"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went to visit the old church . the buildings were beautiful . the architecture was amazing . the building was so tall . the town was very nice .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "we went to visit the old church . It was pretty at night. The tower was lighted. The buildings were ornate.",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the old church .",
+        "it was pretty at night .",
+        "the tower was lighted .",
+        "the buildings were ornate ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "we went to visit the old church . the buildings were beautiful .",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the old church .",
+        "the buildings were beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A21LB6V5RQTMIS",
+      "edited_story_text": "We went to visit the old churches; the buildings were beautiful and the architecture was amazing. The buildings were so tall. The town was very nice.",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the old churches ; the buildings were beautiful and the architecture was amazing .",
+        "the buildings were so tall .",
+        "the town was very nice ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "we went to visit the old church . the buildings were beautiful . the architecture was amazing . the building was so tall . the town was all lit all .",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the old church .",
+        "the buildings were beautiful .",
+        "the architecture was amazing .",
+        "the building was so tall .",
+        "the town was all lit all ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "we went to visit the old church . the buildings were beautiful . the architecture was amazing . the buildings look amazing against the sky.",
+      "normalized_edited_story_text_sent": [
+        "we went to visit the old church .",
+        "the buildings were beautiful .",
+        "the architecture was amazing .",
+        "the buildings look amazing against the sky ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623144843189",
+  "model": "GLAC"
+}

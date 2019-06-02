@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "27498978-27498988-27499011-27498903-27499037",
+  "photo_sequence_ids": [
+    "27498978",
+    "27498988",
+    "27499011",
+    "27498903",
+    "27499037"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family was having a great time at the party . they had a lot of fun playing games . they had a lot of fun . they had a lot of fun . they had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The family had a great time at the party. They had a lot of fun playing the games, it was just a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family had a great time at the party .",
+        "they had a lot of fun playing the games , it was just a great time ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "Great day at the party today.  everyone had a lot of fun playing games . the pool was inviting, it was great seeing everyone today.",
+      "normalized_edited_story_text_sent": [
+        "great day at the party today .",
+        "everyone had a lot of fun playing games .",
+        "the pool was inviting , it was great seeing everyone today ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family was having a great time at the party . they had a lot of fun playing games .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they had a lot of fun playing games ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the family was having a great time at the party . they played games . they eat grilled food . they took pics. they had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they played games .",
+        "they eat grilled food .",
+        "they took pics .",
+        "they had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the family was having a great time at the party . They hung out and drank beer . The pool was filled with rafts. We had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family was having a great time at the party .",
+        "they hung out and drank beer .",
+        "the pool was filled with rafts .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "622334",
+  "model": "GLAC"
+}

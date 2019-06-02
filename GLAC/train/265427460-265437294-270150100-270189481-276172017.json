@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "265427460-265437294-270150100-270189481-276172017",
+  "photo_sequence_ids": [
+    "265427460",
+    "265437294",
+    "270150100",
+    "270189481",
+    "276172017"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family got together for a party . the fire was burning hot . the turkey was ready to be eaten . the kids were having a good time . the boys were happy about the night .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PJXTE22NL72H",
+      "edited_story_text": "the whole family got together for a party . the fire that was lit was burning hot . the turkey was done and ready to be eaten . the kids were having a good time at the party. The boys were especially happy about the night.",
+      "normalized_edited_story_text_sent": [
+        "the whole family got together for a party .",
+        "the fire that was lit was burning hot .",
+        "the turkey was done and ready to be eaten .",
+        "the kids were having a good time at the party .",
+        "the boys were especially happy about the night ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the family got together for a party . the grill was burning hot . the hotdogs were ready to be eaten . the people were having a good time . the people were happy about the night .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the grill was burning hot .",
+        "the hotdogs were ready to be eaten .",
+        "the people were having a good time .",
+        "the people were happy about the night ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the group of friends got together for a party . the fire was burning hot . the hot dogs were ready to be eaten . the people were smiling for photos . everyone was in a good mood and happy that night .",
+      "normalized_edited_story_text_sent": [
+        "the group of friends got together for a party .",
+        "the fire was burning hot .",
+        "the hot dogs were ready to be eaten .",
+        "the people were smiling for photos .",
+        "everyone was in a good mood and happy that night ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the family got together for a party . the outdoor fire was burning hot . the turkey was ready and everyone ate well. the kids were having a good time . the boys were happy about the night .",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a party .",
+        "the outdoor fire was burning hot .",
+        "the turkey was ready and everyone ate well .",
+        "the kids were having a good time .",
+        "the boys were happy about the night ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the family got together for a cookout . David got the fire burning.  We cooked hotdogs and hung out all night long. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family got together for a cookout .",
+        "[male] got the fire burning .",
+        "we cooked hotdogs and hung out all night long .",
+        "everyone had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594320730897",
+  "model": "GLAC"
+}

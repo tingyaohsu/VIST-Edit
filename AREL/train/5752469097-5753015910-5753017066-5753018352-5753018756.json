@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "5752469097-5753015910-5753017066-5753018352-5753018756",
+  "photo_sequence_ids": [
+    "5752469097",
+    "5753015910",
+    "5753017066",
+    "5753018352",
+    "5753018756"
+  ],
+  "photo_sequence_urls": [
+    "https://farm6.staticflickr.com/5182/5752469097_7598ae52b0_o.jpg",
+    "https://farm4.staticflickr.com/3180/5753015910_ae2b38ac2e_o.jpg",
+    "https://farm3.staticflickr.com/2757/5753017066_2ed47a7cbd_o.jpg",
+    "https://farm4.staticflickr.com/3036/5753018352_8077c6ab06_o.jpg",
+    "https://farm4.staticflickr.com/3650/5753018756_d36ceefedc_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a building . this is a picture of a building . this is a picture of a building . the view from the window was amazing . this is a picture of a building .",
+  "edited_stories": [
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "this was a picture of a building . this was a picture of a building . this was a picture of a building . the view from the window is amazing . this was a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a building .",
+        "this was a picture of a building .",
+        "this was a picture of a building .",
+        "the view from the window is amazing .",
+        "this was a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We went to the old warehouse. It was very empty and no one else was there. We took photos of the large open spaces. There was a bridge and we crossed it. We took a photo of the staircase on the other side.",
+      "normalized_edited_story_text_sent": [
+        "we went to the old warehouse .",
+        "it was very empty and no one else was there .",
+        "we took photos of the large open spaces .",
+        "there was a bridge and we crossed it .",
+        "we took a photo of the staircase on the other side ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "these are pictures of a building built in the sixtys . the design is very minimalist. it sort of looks like it was not finished.",
+      "normalized_edited_story_text_sent": [
+        "these are pictures of a building built in the sixtys .",
+        "the design is very minimalist .",
+        "it sort of looks like it was not finished ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this is a picture of a building . this is a picture of a building .it was beautiful . the view from the window was amazing . this is a picture of a building .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a building .",
+        "this is a picture of a building .",
+        "it was beautiful .",
+        "the view from the window was amazing .",
+        "this is a picture of a building ."
+      ]
+    },
+    {
+      "worker_id": "A6QG9LM5WL0AQ",
+      "edited_story_text": "This is a black and white picture of the corner of the building. This picture is the walkway or bridge of the building . This is the side of the building with concrete walls. The view from this window was great. this is a picture of a building. This was an awesome staircase inside the building.",
+      "normalized_edited_story_text_sent": [
+        "this is a black and white picture of the corner of the building .",
+        "this picture is the walkway or bridge of the building .",
+        "this is the side of the building with concrete walls .",
+        "the view from this window was great .",
+        "this is a picture of a building .",
+        "this was an awesome staircase inside the building ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157626666548053"
+}

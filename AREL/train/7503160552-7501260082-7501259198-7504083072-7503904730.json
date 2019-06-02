@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "7503160552-7501260082-7501259198-7504083072-7503904730",
+  "photo_sequence_ids": [
+    "7503160552",
+    "7501260082",
+    "7501259198",
+    "7504083072",
+    "7503904730"
+  ],
+  "photo_sequence_urls": [
+    "https://farm9.staticflickr.com/8013/7503160552_1f2f232a0a_o.jpg",
+    "https://farm9.staticflickr.com/8164/7501260082_818422a9df_o.jpg",
+    "https://farm9.staticflickr.com/8148/7501259198_9f60656557_o.jpg",
+    "https://farm9.staticflickr.com/8165/7504083072_a023c1c634_o.jpg",
+    "https://farm8.staticflickr.com/7133/7503904730_ce47c70dd0_o.jpg"
+  ],
+  "auto_story_text_normalized": "the baby was so excited to see the family . the kids were having a great time at the beach . the kids enjoyed the water . this is a picture of a woman . the sky was beautiful and we had a great day .",
+  "edited_stories": [
+    {
+      "worker_id": "A2ECRNQ3X5LEXD",
+      "edited_story_text": "the baby was so excited to see the family . the kids were having a great time at the beach . the kids enjoyed the sunshine together . the sky was beautiful and we had a great day .",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see the family .",
+        "the kids were having a great time at the beach .",
+        "the kids enjoyed the sunshine together .",
+        "the sky was beautiful and we had a great day ."
+      ]
+    },
+    {
+      "worker_id": "A2OZTBCBOCHF9E",
+      "edited_story_text": "The baby was so excited to see the family. The kids were having a great time at the POOL. The kids enjoyed the water. AFTERWARDS, THY RESTED AT THE TABLE. I REALLY LIKED THE FLAG.",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see the family .",
+        "the kids were having a great time at the pool .",
+        "the kids enjoyed the water .",
+        "afterwards , thy rested at the table .",
+        "i really liked the flag ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The baby was happy to be at the party with us. The kids enjoyed playing at the pool. There were lots of kids in the pool. Everyone made sure to wear sunglasses. It was a beautiful and very enjoyable day.",
+      "normalized_edited_story_text_sent": [
+        "the baby was happy to be at the party with us .",
+        "the kids enjoyed playing at the pool .",
+        "there were lots of kids in the pool .",
+        "everyone made sure to wear sunglasses .",
+        "it was a beautiful and very enjoyable day ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "The baby was so cute. the kids were having a great time at the beach . the kids enjoyed the water . this is a picture of a woman . the sky was beautiful and we had a great day .",
+      "normalized_edited_story_text_sent": [
+        "the baby was so cute .",
+        "the kids were having a great time at the beach .",
+        "the kids enjoyed the water .",
+        "this is a picture of a woman .",
+        "the sky was beautiful and we had a great day ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "The baby was so excited to see the family. the kids were having a great time at the pool. The kids enjoyed swimming in the water. The sky was beautiful and we had a great day .",
+      "normalized_edited_story_text_sent": [
+        "the baby was so excited to see the family .",
+        "the kids were having a great time at the pool .",
+        "the kids enjoyed swimming in the water .",
+        "the sky was beautiful and we had a great day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157630434051334"
+}

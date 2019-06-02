@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "60461920-60462045-60462161-60462302-60462384",
+  "photo_sequence_ids": [
+    "60461920",
+    "60462045",
+    "60462161",
+    "60462302",
+    "60462384"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the streets were crowded with people . the runners were coming in to begin . the race began and the participants were very excited . the race was underway and everyone was having a great time . the race was over and the crowd was happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the streets were crowded with people . the runners were ready to go . the race began and the participants were off . the race was underway and everyone was having a great time . the race ended and the crowd was happy .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the runners were ready to go .",
+        "the race began and the participants were off .",
+        "the race was underway and everyone was having a great time .",
+        "the race ended and the crowd was happy ."
+      ]
+    },
+    {
+      "worker_id": "A289DF24X3Q8JZ",
+      "edited_story_text": "the streets were crowded with runners racing to the finish . the runners were coming from all directions . the race began and the participants were very excited . the race was underway and everyone was having a great time . the race was over and the crowd was happy .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with runners racing to the finish .",
+        "the runners were coming from all directions .",
+        "the race began and the participants were very excited .",
+        "the race was underway and everyone was having a great time .",
+        "the race was over and the crowd was happy ."
+      ]
+    },
+    {
+      "worker_id": "A4CHLWPHZIP7Y",
+      "edited_story_text": "the streets were crowded with people . the runners were ready to participate in a race . the race began and the runners were very excited . everyone was having a great time . the crowd was happy to cheer the runners on .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the runners were ready to participate in a race .",
+        "the race began and the runners were very excited .",
+        "everyone was having a great time .",
+        "the crowd was happy to cheer the runners on ."
+      ]
+    },
+    {
+      "worker_id": "A2IHW2L1D0SLCN",
+      "edited_story_text": "the streets were crowded with people . the runners were starting to race . the race began and the participants were very excited . the race was underway and everyone was having a great time . the race lasted a long time .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with people .",
+        "the runners were starting to race .",
+        "the race began and the participants were very excited .",
+        "the race was underway and everyone was having a great time .",
+        "the race lasted a long time ."
+      ]
+    },
+    {
+      "worker_id": "AM2W23THD4CI7",
+      "edited_story_text": "the streets were crowded with spectators who came to watch the race. the runners started lining up in formation . Once the race began, the participants seemed very excited . the race was underway and everyone was having a great time . When the race was over, the crowd was happy to witness such an exciting event .",
+      "normalized_edited_story_text_sent": [
+        "the streets were crowded with spectators who came to watch the race .",
+        "the runners started lining up in formation .",
+        "once the race began , the participants seemed very excited .",
+        "the race was underway and everyone was having a great time .",
+        "when the race was over , the crowd was happy to witness such an exciting event ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1306323",
+  "model": "GLAC"
+}

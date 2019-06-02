@@ -1,0 +1,70 @@
+{
+  "photo_sequence_id": "151543707-151555388-151555386-151543704-151542261",
+  "photo_sequence_ids": [
+    "151543707",
+    "151555388",
+    "151555386",
+    "151543704",
+    "151542261"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the dog was excited to go on the hike . he saw a bird that was n\u0027t interested in the sand . he found a small bird . he then noticed a tree . he was so happy .",
+  "edited_stories": [
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the cat was excited to be outside . he ate the grass . he sat by the pond and watched the fish. In the distance was a cave, it was cool.",
+      "normalized_edited_story_text_sent": [
+        "the cat was excited to be outside .",
+        "he ate the grass .",
+        "he sat by the pond and watched the fish .",
+        "in the distance was a cave , it was cool ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the dog was excited to go on the hike . he saw a bird that wasn\u0027t interested in the sand. he then noticed a tree . he was so happy and went through the water.",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to go on the hike .",
+        "he saw a bird that was n\u0027t interested in the sand .",
+        "he then noticed a tree .",
+        "he was so happy and went through the water ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the dog was excited to go on the hike, as it was finally a nice warm and sunny day . he saw a bird that wasn\u0027t interested in the sand . he found a small bird and watched it hop around on the ground . he then noticed a tree . he was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the dog was excited to go on the hike , as it was finally a nice warm and sunny day .",
+        "he saw a bird that was n\u0027t interested in the sand .",
+        "he found a small bird and watched it hop around on the ground .",
+        "he then noticed a tree .",
+        "he was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the dog was animated to go on the hike . he saw a bird that was n\u0027t too interested in the sand . he found a small bird . he then noticed a tree . he was so happy .",
+      "normalized_edited_story_text_sent": [
+        "the dog was animated to go on the hike .",
+        "he saw a bird that was n\u0027t too interested in the sand .",
+        "he found a small bird .",
+        "he then noticed a tree .",
+        "he was so happy ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "This dog was raring to start the hike. Though he didn\u0027t care for the sand, he did take an interest in a tiny bird that he spotted in a tree. He was literally chomping at the bit! That\u0027s how excited this bird made him.",
+      "normalized_edited_story_text_sent": [
+        "this dog was raring to start the hike .",
+        "though he did n\u0027t care for the sand , he did take an interest in a tiny bird that he spotted in a tree .",
+        "he was literally chomping at the bit !",
+        "that \u0027s how excited this bird made him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72057594142632397",
+  "model": "GLAC"
+}

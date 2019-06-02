@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4320722789-4321456306-4321457904-4320998043-4320995933",
+  "photo_sequence_ids": [
+    "4320722789",
+    "4321456306",
+    "4321457904",
+    "4320998043",
+    "4320995933"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2743/4320722789_fe8f27fe9d_o.jpg",
+    "https://farm3.staticflickr.com/2772/4321456306_2f821b3b62_o.jpg",
+    "https://farm5.staticflickr.com/4053/4321457904_51a71be8fe_o.jpg",
+    "https://farm3.staticflickr.com/2727/4320998043_467b338d62_o.jpg",
+    "https://farm5.staticflickr.com/4069/4320995933_a96104ac02_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a book . i bought a lot of gifts . some of them were very creative . the second piece of art was the best part of the day . this is a picture of a book .",
+  "edited_stories": [
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "I sat on an old couch in a vintage photo. The entire class sat still for a class photo. I held a vintage gift certificate for a Halloween meal at McDonalds. The new mother held her baby in the hospital. I held a vintage sports card.",
+      "normalized_edited_story_text_sent": [
+        "i sat on an old couch in a vintage photo .",
+        "the entire class sat still for a class photo .",
+        "i held a vintage gift certificate for a halloween meal at mcdonalds .",
+        "the new mother held her baby in the hospital .",
+        "i held a vintage sports card ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this is a picture of a book . iI have a lot of different pictures . some of them were very old . the second piece of art was the best part of the day . these were a few of the pictures.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a book .",
+        "ii have a lot of different pictures .",
+        "some of them were very old .",
+        "the second piece of art was the best part of the day .",
+        "these were a few of the pictures ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a book . i bought a lot of gifts . some of them were very creative . the second piece of art was the best part of the day and this is a picture of a book .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a book .",
+        "i bought a lot of gifts .",
+        "some of them were very creative .",
+        "the second piece of art was the best part of the day and this is a picture of a book ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "Here\u0027s a picture of my book of memories. Here is a gift I made, which was very creative. The second piece of art was the best. Here are more pictures in the book.",
+      "normalized_edited_story_text_sent": [
+        "here \u0027s a picture of my book of memories .",
+        "here is a gift i made , which was very creative .",
+        "the second piece of art was the best .",
+        "here are more pictures in the book ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "I bought a lot of gifts, some very creative. T piece of art is the best. Eating was the part of the day.",
+      "normalized_edited_story_text_sent": [
+        "i bought a lot of gifts , some very creative .",
+        "t piece of art is the best .",
+        "eating was the part of the day ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623324729396"
+}

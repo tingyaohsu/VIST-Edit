@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "447847363-447847629-447844640-447845518-447849525",
+  "photo_sequence_ids": [
+    "447847363",
+    "447847629",
+    "447844640",
+    "447845518",
+    "447849525"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/200/447847363_741104b815_o.jpg",
+    "https://farm1.staticflickr.com/237/447847629_1e2c8e6e29_o.jpg",
+    "https://farm1.staticflickr.com/228/447844640_250a192da6_o.jpg",
+    "https://farm1.staticflickr.com/249/447845518_a75f02adb9_o.jpg",
+    "https://farm1.staticflickr.com/167/447849525_a6cf5fefe9_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the party . we had a lot of fun . [male] and [male] were happy to see each other . everyone had a great time and had a great time . we had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "we had a great time at the party and we had a lot of fun . [male] and [male] were happy to see each other . everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party and we had a lot of fun .",
+        "[male] and [male] were happy to see each other .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We had a dinner party. Men and women were there. We drank a lot of alcohol. There was delicious food. We sang a song from a piece of paper.",
+      "normalized_edited_story_text_sent": [
+        "we had a dinner party .",
+        "men and women were there .",
+        "we drank a lot of alcohol .",
+        "there was delicious food .",
+        "we sang a song from a piece of paper ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the party . we had a lot of fun . [male] and [male] were happy to see each other and everyone had a great time and had a great time . we had a great time and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "we had a lot of fun .",
+        "[male] and [male] were happy to see each other and everyone had a great time and had a great time .",
+        "we had a great time and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "We had a great time at the Christmas party. We had a lot of fun. [male] and [male] were happy to see each other. Everyone had a great time.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the christmas party .",
+        "we had a lot of fun .",
+        "[male] and [male] were happy to see each other .",
+        "everyone had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2CK8S4CH1HPBE",
+      "edited_story_text": "we had a great time at the party. we had a lot of fun chatting and drinking around the dining room table. [male] and [male] were happy to see each other after so long. everyone had a great great time. We even sang a few songs.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the party .",
+        "we had a lot of fun chatting and drinking around the dining room table .",
+        "[male] and [male] were happy to see each other after so long .",
+        "everyone had a great great time .",
+        "we even sang a few songs ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157600050438193"
+}

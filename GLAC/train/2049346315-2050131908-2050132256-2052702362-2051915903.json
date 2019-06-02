@@ -1,0 +1,67 @@
+{
+  "photo_sequence_id": "2049346315-2050131908-2050132256-2052702362-2051915903",
+  "photo_sequence_ids": [
+    "2049346315",
+    "2050131908",
+    "2050132256",
+    "2052702362",
+    "2051915903"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the family went to the museum . they saw beautiful flowers . they also had a lot of fun . they had a big exhibit . the kids had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A2TBXASXZIRNNW",
+      "edited_story_text": "the family went to the museum . they saw beautiful flowers . they also had a ton of fun . they had a giant exhibit . the kids had a fun and great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the museum .",
+        "they saw beautiful flowers .",
+        "they also had a ton of fun .",
+        "they had a giant exhibit .",
+        "the kids had a fun and great time ."
+      ]
+    },
+    {
+      "worker_id": "A3R79CYQ817AV3",
+      "edited_story_text": "the family went to the museum . they saw beautiful flowers and a large exhibit. they had a lot of fun and bought food. the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the museum .",
+        "they saw beautiful flowers and a large exhibit .",
+        "they had a lot of fun and bought food .",
+        "the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1HQJ2WY81OKSJ",
+      "edited_story_text": "The family went to the museum where they saw beautiful flowers . They also had a lot of fun . There was a big exhibit and the kids had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the museum where they saw beautiful flowers .",
+        "they also had a lot of fun .",
+        "there was a big exhibit and the kids had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AE861G0AY5RGT",
+      "edited_story_text": "the family went to Asia for vacation. We were Amazed by the beautiful flowers . they also had a lot stores we have in the states . they had a big Carnival the week before . the kids had a great time  even though we missed the carnival.",
+      "normalized_edited_story_text_sent": [
+        "the family went to asia for vacation .",
+        "we were amazed by the beautiful flowers .",
+        "they also had a lot stores we have in the states .",
+        "they had a big carnival the week before .",
+        "the kids had a great time even though we missed the carnival ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the family went to the museum . they had a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "the family went to the museum .",
+        "they had a lot of fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157603248353977",
+  "model": "GLAC"
+}

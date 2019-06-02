@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "3075928714-3075100323-3075100319-3075939368-3075947690",
+  "photo_sequence_ids": [
+    "3075928714",
+    "3075100323",
+    "3075100319",
+    "3075939368",
+    "3075947690"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the inside was so big . the outside was beautiful . the statue was a nice place to stay . the church was huge .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the building was very tall . the inside was so big . the outside was beautiful . it was nice to see it in person. the design was emaculate.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the inside was so big .",
+        "the outside was beautiful .",
+        "it was nice to see it in person .",
+        "the design was emaculate ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the building were very old . the inside was so big . the outside was beautiful . the statue was a nice to look at . the museum was huge .",
+      "normalized_edited_story_text_sent": [
+        "the building were very old .",
+        "the inside was so big .",
+        "the outside was beautiful .",
+        "the statue was a nice to look at .",
+        "the museum was huge ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the building was very tall . the inside was so big . the outside was beautiful . the statue was majestica . the church had a huge presence .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the inside was so big .",
+        "the outside was beautiful .",
+        "the statue was majestica .",
+        "the church had a huge presence ."
+      ]
+    },
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the visit to the museum was very interesting. It was a big museum and the exhibits were laid out very nicely. the inside was so big . the architecture was beautiful . we also got to see the old pictures and read about the history there. it was a great experience.",
+      "normalized_edited_story_text_sent": [
+        "the visit to the museum was very interesting .",
+        "it was a big museum and the exhibits were laid out very nicely .",
+        "the inside was so big .",
+        "the architecture was beautiful .",
+        "we also got to see the old pictures and read about the history there .",
+        "it was a great experience ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the building was very tall . We enjoyed the displays . There was artwork and statues . The building was impressive.",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "we enjoyed the displays .",
+        "there was artwork and statues .",
+        "the building was impressive ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157610561797005",
+  "model": "GLAC"
+}

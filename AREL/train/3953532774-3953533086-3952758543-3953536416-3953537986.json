@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "3953532774-3953533086-3952758543-3953536416-3953537986",
+  "photo_sequence_ids": [
+    "3953532774",
+    "3953533086",
+    "3952758543",
+    "3953536416",
+    "3953537986"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2462/3953532774_be6ec51f72_o.jpg",
+    "https://farm3.staticflickr.com/2490/3953533086_6d9e1cb4d5_o.jpg",
+    "https://farm3.staticflickr.com/2624/3952758543_d112de2232_o.jpg",
+    "https://farm4.staticflickr.com/3498/3953536416_ef67181476_o.jpg",
+    "https://farm3.staticflickr.com/2525/3953537986_dcefae82eb_o.jpg"
+  ],
+  "auto_story_text_normalized": "we had a great time at the convention . this man was very proud of his accomplishments . the speaker was very happy to be there . there were a lot of people there . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SNGSRVSHBGPG",
+      "edited_story_text": "we had fun at the convention . this man was very proud of his achievements. the speaker was thrilled to be there . there was a crowd there . it was a great time .",
+      "normalized_edited_story_text_sent": [
+        "we had fun at the convention .",
+        "this man was very proud of his achievements .",
+        "the speaker was thrilled to be there .",
+        "there was a crowd there .",
+        "it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "we had a great time at the convention . this man was very proud of his accomplishments and was one of the speakers.. Other speakers were very happy to be there . there were a lot of people there . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the convention .",
+        "this man was very proud of his accomplishments and was one of the speakers .",
+        ".",
+        "other speakers were very happy to be there .",
+        "there were a lot of people there .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We had a great time at the convention. The speaker was very proud of his accomplishments, and very happy to be there. There were a lot of people there, and we enjoyed ourselves.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the convention .",
+        "the speaker was very proud of his accomplishments , and very happy to be there .",
+        "there were a lot of people there , and we enjoyed ourselves ."
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we had a great time at the convention . this man was very proud of his accomplishments . the speaker was very happy to be there . there were a lot of people there . this is a picture of us.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the convention .",
+        "this man was very proud of his accomplishments .",
+        "the speaker was very happy to be there .",
+        "there were a lot of people there .",
+        "this is a picture of us ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We had a great time at the festival. A man spoke to us. Another toasted us with wine. There were many people there. A couple then spoke.",
+      "normalized_edited_story_text_sent": [
+        "we had a great time at the festival .",
+        "a man spoke to us .",
+        "another toasted us with wine .",
+        "there were many people there .",
+        "a couple then spoke ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157622457999530"
+}

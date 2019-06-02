@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4587372491-4587376217-4588003898-4588011862-4588014250",
+  "photo_sequence_ids": [
+    "4587372491",
+    "4587376217",
+    "4588003898",
+    "4588011862",
+    "4588014250"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the wedding was a beautiful event . the bride and groom were very happy . the couple was so excited to be married . the flowers were lovely . the flower arrangements were amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3PFU4042GIQLE",
+      "edited_story_text": "the wedding was a beautiful event . the lady played a great tune on the violin. the flower girls looked beautiful and the guests were very excited. the bride and groom were very happy . the couple was so excited to be married . the flowers at the venue were beautiful. They were colors of yellow and pink and it added so much to be event.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the lady played a great tune on the violin .",
+        "the flower girls looked beautiful and the guests were very excited .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the flowers at the venue were beautiful .",
+        "they were colors of yellow and pink and it added so much to be event ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the wedding was a beautiful event .the bride and groom were very happy . the couple was so excited to be married . the flowers were lovely . the violinist was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the flowers were lovely .",
+        "the violinist was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "the wedding was a beautiful event . everyone there was very happy . the couple was so excited to be married.  the flowers on the grounds were beautiful.  it was a beautiful day.",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "everyone there was very happy .",
+        "the couple was so excited to be married .",
+        "the flowers on the grounds were beautiful .",
+        "it was a beautiful day ."
+      ]
+    },
+    {
+      "worker_id": "AB98SGS280TY5",
+      "edited_story_text": "the wedding was a beautiful event . the bride and groom were very happy . the scenery was perfect for the outdoors . the flowers were lovely . the flower arrangements were amazing .",
+      "normalized_edited_story_text_sent": [
+        "the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the scenery was perfect for the outdoors .",
+        "the flowers were lovely .",
+        "the flower arrangements were amazing ."
+      ]
+    },
+    {
+      "worker_id": "A3ZWMVK6GNTJ8",
+      "edited_story_text": "David and and mary  thought the wedding was a beautiful event . the bride and groom were very happy . the couple was so excited to be married . the flowers were lovely . the flower arrangements were amazing .",
+      "normalized_edited_story_text_sent": [
+        "[male] and and [female] thought the wedding was a beautiful event .",
+        "the bride and groom were very happy .",
+        "the couple was so excited to be married .",
+        "the flowers were lovely .",
+        "the flower arrangements were amazing ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623889944943",
+  "model": "GLAC"
+}

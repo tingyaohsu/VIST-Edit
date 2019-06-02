@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "2118096031-2118095305-2118873632-2118095921-2118092861",
+  "photo_sequence_ids": [
+    "2118096031",
+    "2118095305",
+    "2118873632",
+    "2118095921",
+    "2118092861"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2366/2118096031_e303547f89_o.jpg",
+    "https://farm3.staticflickr.com/2298/2118095305_8cd2289153_o.jpg",
+    "https://farm3.staticflickr.com/2317/2118873632_5536eaa9de_o.jpg",
+    "https://farm3.staticflickr.com/2231/2118095921_3db4d0bc11_o.jpg",
+    "https://farm3.staticflickr.com/2209/2118092861_1085430bac_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a statue . there were a lot of birds there . the sunset was beautiful . we saw a statue of a statue . there was also a statue of a statue .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "this is a picture of a statue . there were a lot of birds there . the sunset was beautiful . we saw a statue of a statue and there was also a statue of a statue .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a statue .",
+        "there were a lot of birds there .",
+        "the sunset was beautiful .",
+        "we saw a statue of a statue and there was also a statue of a statue ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "I took a picture of this interesting statue. We saw a lot of statues that day as well as some birds. The sunset was really beautiful.",
+      "normalized_edited_story_text_sent": [
+        "i took a picture of this interesting statue .",
+        "we saw a lot of statues that day as well as some birds .",
+        "the sunset was really beautiful ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "There were a lot of birds there, the sunset was quite beautiful. We saw statue after statue, there was also a dead body, and more statues.",
+      "normalized_edited_story_text_sent": [
+        "there were a lot of birds there , the sunset was quite beautiful .",
+        "we saw statue after statue , there was also a dead body , and more statues ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "Here is a statue we saw. there were a lot of birds there. the sunset was absolutely beautiful. We saw multiple statues.",
+      "normalized_edited_story_text_sent": [
+        "here is a statue we saw .",
+        "there were a lot of birds there .",
+        "the sunset was absolutely beautiful .",
+        "we saw multiple statues ."
+      ]
+    },
+    {
+      "worker_id": "A1AFK7CIGJ8R61",
+      "edited_story_text": "This is a picture of beautiful angel statue . There were a lot of flags there too. The sunset was amazing! We saw lots of statues of people and angels. There was also a statue of an urn.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of beautiful angel statue .",
+        "there were a lot of flags there too .",
+        "the sunset was amazing !",
+        "we saw lots of statues of people and angels .",
+        "there was also a statue of an urn ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157603481848222"
+}

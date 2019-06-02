@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "4460483061-4461261400-4460484343-4461276934-4460485537",
+  "photo_sequence_ids": [
+    "4460483061",
+    "4461261400",
+    "4460484343",
+    "4461276934",
+    "4460485537"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2759/4460483061_f108d76806_o.jpg",
+    "https://farm5.staticflickr.com/4069/4461261400_2ef359c3d2_o.jpg",
+    "https://farm5.staticflickr.com/4018/4460484343_40dbd5cc46_o.jpg",
+    "https://farm3.staticflickr.com/2731/4461276934_637138c8f6_o.jpg",
+    "https://farm5.staticflickr.com/4051/4460485537_ed677ebe92_o.jpg"
+  ],
+  "auto_story_text_normalized": "the night of the party was a lot of fun . we had a lot of fun at the party . they had a lot of food to eat . we had a great time and had a great time . we had a great time at the party .",
+  "edited_stories": [
+    {
+      "worker_id": "A1BW8BW8LB6ZPC",
+      "edited_story_text": "the night of the party was a lot of fun. they had a lot of food to eat at the party. we had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the night of the party was a lot of fun .",
+        "they had a lot of food to eat at the party .",
+        "we had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "The night of the party was a lot of fun. There was a lot of food to eat, and everyone had a great time at the party.",
+      "normalized_edited_story_text_sent": [
+        "the night of the party was a lot of fun .",
+        "there was a lot of food to eat , and everyone had a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the night of the party is a lot of fun . we have a lot of fun at the party . they have a lot of food to eat . we have a great time and have a great time . we have a great time at the party .",
+      "normalized_edited_story_text_sent": [
+        "the night of the party is a lot of fun .",
+        "we have a lot of fun at the party .",
+        "they have a lot of food to eat .",
+        "we have a great time and have a great time .",
+        "we have a great time at the party ."
+      ]
+    },
+    {
+      "worker_id": "ABS5DWGFW9T37",
+      "edited_story_text": "the night at the hotel was a lot of fun . we had a lot of fun eating ice cream . they had a lot of stores to shop at or eat at . we bought some nice souvenirs. we had a ended the day with a nice meal at the restaurant .",
+      "normalized_edited_story_text_sent": [
+        "the night at the hotel was a lot of fun .",
+        "we had a lot of fun eating ice cream .",
+        "they had a lot of stores to shop at or eat at .",
+        "we bought some nice souvenirs .",
+        "we had a ended the day with a nice meal at the restaurant ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "the night of the party was a lot of fun. my friend and i went and really enjoyed ourselves. they had a lot of delicious food to eat. we had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the night of the party was a lot of fun .",
+        "my friend and i went and really enjoyed ourselves .",
+        "they had a lot of delicious food to eat .",
+        "we had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623562884889"
+}

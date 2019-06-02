@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "4259537955-4259533909-4259534905-4259535855-4259539091",
+  "photo_sequence_ids": [
+    "4259537955",
+    "4259533909",
+    "4259534905",
+    "4259535855",
+    "4259539091"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4024/4259537955_3aa5589ca9_o.jpg",
+    "https://farm5.staticflickr.com/4004/4259533909_7127108b9b_o.jpg",
+    "https://farm3.staticflickr.com/2693/4259534905_2a84670993_o.jpg",
+    "https://farm3.staticflickr.com/2466/4259535855_56c29762ce_o.jpg",
+    "https://farm3.staticflickr.com/2742/4259539091_da01759ba0_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a house . the living room is very spacious and spacious . the dining room was decorated beautifully . this is a picture of a house . and the living room is a beautiful room .",
+  "edited_stories": [
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "this is a picture of a house the living room is very spacious. the dining room was decorated beautifully . Overall it is a nice house.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house the living room is very spacious .",
+        "the dining room was decorated beautifully .",
+        "overall it is a nice house ."
+      ]
+    },
+    {
+      "worker_id": "A13GUTDMGGZZDL",
+      "edited_story_text": "my friends just moved into a new house. the living room is very spacious, with lots of light. they\u0027ve done a great job decorating the dining room. it looks beautiful. the whole house is amazing.",
+      "normalized_edited_story_text_sent": [
+        "my friends just moved into a new house .",
+        "the living room is very spacious , with lots of light .",
+        "they \u0027ve done a great job decorating the dining room .",
+        "it looks beautiful .",
+        "the whole house is amazing ."
+      ]
+    },
+    {
+      "worker_id": "A19A5RX62BM2HB",
+      "edited_story_text": "this was a picture of a house . the living room was very spacious and spacious . the dining room is decorated beautifully . this was a picture of a house . and the living room was a beautiful room .",
+      "normalized_edited_story_text_sent": [
+        "this was a picture of a house .",
+        "the living room was very spacious and spacious .",
+        "the dining room is decorated beautifully .",
+        "this was a picture of a house .",
+        "and the living room was a beautiful room ."
+      ]
+    },
+    {
+      "worker_id": "A16QTKULP8HQ6G",
+      "edited_story_text": "this is a picture of a house . the living room is very spacious. the dining room was decorated beautifully . this is a picture of a house  and the bedroom is a beautiful room .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house .",
+        "the living room is very spacious .",
+        "the dining room was decorated beautifully .",
+        "this is a picture of a house and the bedroom is a beautiful room ."
+      ]
+    },
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "This is a picture of a house.  The living room is very spacious and spacious and welcoming. The dining room was decorated beautifully. The chandeliers  are beautiful.",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a house .",
+        "the living room is very spacious and spacious and welcoming .",
+        "the dining room was decorated beautifully .",
+        "the chandeliers are beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623174760750"
+}

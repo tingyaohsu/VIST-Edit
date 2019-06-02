@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "7051768533-6905679512-6905682906-7051780851-7051783159",
+  "photo_sequence_ids": [
+    "7051768533",
+    "6905679512",
+    "6905682906",
+    "7051780851",
+    "7051783159"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "i went to the party last night . there were a lot of people there . some of them were very good . they were all having a great time . everyone was dancing .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "i went to have fun last night . the party was densely attended . some folks were cool . they were all having fun . people were dancing with each other .",
+      "normalized_edited_story_text_sent": [
+        "i went to have fun last night .",
+        "the party was densely attended .",
+        "some folks were cool .",
+        "they were all having fun .",
+        "people were dancing with each other ."
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "I had dinner with my girlfriends last night and it was so good to catch up with them We tried a new bbq spot that had awesome craft beer and the service was awesome. Wish I had more time with my girls!",
+      "normalized_edited_story_text_sent": [
+        "i had dinner with my girlfriends last night and it was so good to catch up with them we tried a new bbq spot that had awesome craft beer and the service was awesome .",
+        "wish i had more time with my girls !"
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i went to party yesterday.  a lot of people were there. everyone was dancing and having a good time. some of the dancers were very good.  it was fun.",
+      "normalized_edited_story_text_sent": [
+        "i went to party yesterday .",
+        "a lot of people were there .",
+        "everyone was dancing and having a good time .",
+        "some of the dancers were very good .",
+        "it was fun ."
+      ]
+    },
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "We had a going way party for my admin.  We will miss her.  Here she is giving he peace sign at the pub.  Good luck, Maria!!!",
+      "normalized_edited_story_text_sent": [
+        "we had a going way party for my admin .",
+        "we will miss her .",
+        "here she is giving he peace sign at the pub .",
+        "good luck , [female] !!!"
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "i went to the party last night . there were a lot of people there .",
+      "normalized_edited_story_text_sent": [
+        "i went to the party last night .",
+        "there were a lot of people there ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629391264564",
+  "model": "GLAC"
+}

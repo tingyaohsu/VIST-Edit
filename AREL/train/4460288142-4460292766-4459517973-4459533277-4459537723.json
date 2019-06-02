@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "4460288142-4460292766-4459517973-4459533277-4459537723",
+  "photo_sequence_ids": [
+    "4460288142",
+    "4460292766",
+    "4459517973",
+    "4459533277",
+    "4459537723"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4036/4460288142_8e1ac806b2_o.jpg",
+    "https://farm3.staticflickr.com/2777/4460292766_512a735272_o.jpg",
+    "https://farm5.staticflickr.com/4036/4459517973_f8dc973717_o.jpg",
+    "https://farm5.staticflickr.com/4072/4459533277_08afc4fa2b_o.jpg",
+    "https://farm3.staticflickr.com/2797/4459537723_7bdc1588e8_o.jpg"
+  ],
+  "auto_story_text_normalized": "i went to the library yesterday . a bird is standing in front of the building . and the birds were on the ground . this one was very interesting . a bird is standing in the water .",
+  "edited_stories": [
+    {
+      "worker_id": "ALML8V38FDV0",
+      "edited_story_text": "I went to the library yesterday.  The reading lights at the tables were very interesting.  They look like torch lamp.  I happened to see the similar lights outside of the building. The bird were siting on top of these lights.  They were certainly not reading.",
+      "normalized_edited_story_text_sent": [
+        "i went to the library yesterday .",
+        "the reading lights at the tables were very interesting .",
+        "they look like torch lamp .",
+        "i happened to see the similar lights outside of the building .",
+        "the bird were siting on top of these lights .",
+        "they were certainly not reading ."
+      ]
+    },
+    {
+      "worker_id": "AVBRJBJONL47I",
+      "edited_story_text": "I went to the library yesterday. A bird was standing in front of the building. There also were birds on the ground.  This one standing in the water was very interesting.",
+      "normalized_edited_story_text_sent": [
+        "i went to the library yesterday .",
+        "a bird was standing in front of the building .",
+        "there also were birds on the ground .",
+        "this one standing in the water was very interesting ."
+      ]
+    },
+    {
+      "worker_id": "A3I4GTLPDHWT8J",
+      "edited_story_text": "While in the library yesterday I say a bird standing in front of the building.  There were also birds on the ground.  One interesting bird was standing in water.",
+      "normalized_edited_story_text_sent": [
+        "while in the library yesterday i say a bird standing in front of the building .",
+        "there were also birds on the ground .",
+        "one interesting bird was standing in water ."
+      ]
+    },
+    {
+      "worker_id": "A27ZE20JZ3VDUP",
+      "edited_story_text": "I went to the library yesterday there was a bird standing in front of the building and the birds were also on the ground along with that a bird was also standing in the water.",
+      "normalized_edited_story_text_sent": [
+        "i went to the library yesterday there was a bird standing in front of the building and the birds were also on the ground along with that a bird was also standing in the water ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i went to the library yesterday . a bird is standing in front of the building . Some were on the ground also. . this one was very interesting . a bird is standing in the water .",
+      "normalized_edited_story_text_sent": [
+        "i went to the library yesterday .",
+        "a bird is standing in front of the building .",
+        "some were on the ground also .",
+        ".",
+        "this one was very interesting .",
+        "a bird is standing in the water ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623560377845"
+}

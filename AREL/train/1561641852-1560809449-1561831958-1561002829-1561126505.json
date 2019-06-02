@@ -1,0 +1,75 @@
+{
+  "photo_sequence_id": "1561641852-1560809449-1561831958-1561002829-1561126505",
+  "photo_sequence_ids": [
+    "1561641852",
+    "1560809449",
+    "1561831958",
+    "1561002829",
+    "1561126505"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2058/1561641852_ef40f06014_o.jpg",
+    "https://farm3.staticflickr.com/2107/1560809449_4f1b7c6adc_o.jpg",
+    "https://farm3.staticflickr.com/2404/1561831958_a1a4f42045_o.jpg",
+    "https://farm3.staticflickr.com/2135/1561002829_a7caf16c5b_o.jpg",
+    "https://farm3.staticflickr.com/2389/1561126505_cd17b162c7_o.jpg"
+  ],
+  "auto_story_text_normalized": "the family gathered for a family reunion . the party started with a lot of fun . everyone was having a good time . we had a lot of fun . we all had a great time and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A28AZTW9BRRPBL",
+      "edited_story_text": "the family gathered for a family reunion . the party started with a lot fun times . everyone was having a good time . we had a lot of fun . we all had a great time and it was a great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a family reunion .",
+        "the party started with a lot fun times .",
+        "everyone was having a good time .",
+        "we had a lot of fun .",
+        "we all had a great time and it was a great time ."
+      ]
+    },
+    {
+      "worker_id": "AU3EIPG4ZRRMZ",
+      "edited_story_text": "the family gathered for a family reunion.  the party started with a lot of fun.  everyone had a good time and we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a family reunion .",
+        "the party started with a lot of fun .",
+        "everyone had a good time and we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1ZD8RU6YB0VEU",
+      "edited_story_text": "the family gathered for a family reunion . the party started with a lot of fun and everyone was having a good time . Everyone really enjoyed themselves.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a family reunion .",
+        "the party started with a lot of fun and everyone was having a good time .",
+        "everyone really enjoyed themselves ."
+      ]
+    },
+    {
+      "worker_id": "A14L7ICRNLCAQY",
+      "edited_story_text": "the family gathered for a reunion . the party started with a lot of fun . everyone was having a good time . we had a lot of fun . we all had a great time and enjoyed each other\u0027s company.",
+      "normalized_edited_story_text_sent": [
+        "the family gathered for a reunion .",
+        "the party started with a lot of fun .",
+        "everyone was having a good time .",
+        "we had a lot of fun .",
+        "we all had a great time and enjoyed each other \u0027s company ."
+      ]
+    },
+    {
+      "worker_id": "A1YMR36RN72PY4",
+      "edited_story_text": "the family gather for a family reunion . the party start with a lot of fun . everyone were having a good time . we have a lot of fun . we all have a great time and have great time .",
+      "normalized_edited_story_text_sent": [
+        "the family gather for a family reunion .",
+        "the party start with a lot of fun .",
+        "everyone were having a good time .",
+        "we have a lot of fun .",
+        "we all have a great time and have great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157602403457113"
+}

@@ -1,0 +1,66 @@
+{
+  "photo_sequence_id": "391653758-391652250-393734432-393732444-393732927",
+  "photo_sequence_ids": [
+    "391653758",
+    "391652250",
+    "393734432",
+    "393732444",
+    "393732927"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the art gallery was full of interesting things . this one was the most popular . the paintings were very detailed . the view from the top was amazing . the colors were so vibrant .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the art gallery was full of interesting things . this one was the most popular . There were many bright colors. There was a beautiful waterfall. The long bridge was a bit scary.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was full of interesting things .",
+        "this one was the most popular .",
+        "there were many bright colors .",
+        "there was a beautiful waterfall .",
+        "the long bridge was a bit scary ."
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the little gallery was full of interesting things. this sculpture was one of the most popular. the view from the top of the waterfall was amazing! the colors were so vibrant.",
+      "normalized_edited_story_text_sent": [
+        "the little gallery was full of interesting things .",
+        "this sculpture was one of the most popular .",
+        "the view from the top of the waterfall was amazing !",
+        "the colors were so vibrant ."
+      ]
+    },
+    {
+      "worker_id": "A2O2W3WLUW5EJU",
+      "edited_story_text": "The art gallery was very interesting. Each artist had their own ideas for art. There was an elevator waterfall and even a bridge to cross by the event. All in all a blast was had.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was very interesting .",
+        "each artist had their own ideas for art .",
+        "there was an elevator waterfall and even a bridge to cross by the event .",
+        "all in all a blast was had ."
+      ]
+    },
+    {
+      "worker_id": "A3H0TLQC53H5MB",
+      "edited_story_text": "The art gallery was beautifully designed with some exquisite fencing patterns and potted plants. The tour ended at a waterfall and a long bridge that took us back to our vehicles.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was beautifully designed with some exquisite fencing patterns and potted plants .",
+        "the tour ended at a waterfall and a long bridge that took us back to our vehicles ."
+      ]
+    },
+    {
+      "worker_id": "A44HGMXWYWCIG",
+      "edited_story_text": "The art gallery was full of interesting things and this one was the most popular. The paintings were very detailed and the view from the top was amazing. The colors were very vibrant.",
+      "normalized_edited_story_text_sent": [
+        "the art gallery was full of interesting things and this one was the most popular .",
+        "the paintings were very detailed and the view from the top was amazing .",
+        "the colors were very vibrant ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157594538251999",
+  "model": "GLAC"
+}

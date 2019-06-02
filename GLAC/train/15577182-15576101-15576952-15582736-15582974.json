@@ -1,0 +1,65 @@
+{
+  "photo_sequence_id": "15577182-15576101-15576952-15582736-15582974",
+  "photo_sequence_ids": [
+    "15577182",
+    "15576101",
+    "15576952",
+    "15582736",
+    "15582974"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "we went hiking through the woods . the views were amazing . the trees were beautiful . the water was so calm . the flowers were very pretty .",
+  "edited_stories": [
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "today we went for a hike in the woods.  david and lisa were messing around.  the scenery was gorgeous.  i liked the lovely trees and flowers.  the water was very soothing and tranquil.",
+      "normalized_edited_story_text_sent": [
+        "today we went for a hike in the woods .",
+        "[male] and [female] were messing around .",
+        "the scenery was gorgeous .",
+        "i liked the lovely trees and flowers .",
+        "the water was very soothing and tranquil ."
+      ]
+    },
+    {
+      "worker_id": "AYPRRGPMOD0AX",
+      "edited_story_text": "We went hiking through the woods and saw some amazing views. The trees were beautiful and the water was so calm . The flowers were also very pretty .",
+      "normalized_edited_story_text_sent": [
+        "we went hiking through the woods and saw some amazing views .",
+        "the trees were beautiful and the water was so calm .",
+        "the flowers were also very pretty ."
+      ]
+    },
+    {
+      "worker_id": "A3BN7XW16OPEP3",
+      "edited_story_text": "The went hiking through the woods, the views were amazing , the water was so calm, the flowers were very pretty  and the leaves were off the trees.",
+      "normalized_edited_story_text_sent": [
+        "the went hiking through the woods , the views were amazing , the water was so calm , the flowers were very pretty and the leaves were off the trees ."
+      ]
+    },
+    {
+      "worker_id": "A2QHONSJA8BAL7",
+      "edited_story_text": "We went hiking through the woods. We saw an awesome waterfall and the views were amazing . The trees were beautiful around the water.  The water in the river was so calm .  The flowers were all very pretty .",
+      "normalized_edited_story_text_sent": [
+        "we went hiking through the woods .",
+        "we saw an awesome waterfall and the views were amazing .",
+        "the trees were beautiful around the water .",
+        "the water in the river was so calm .",
+        "the flowers were all very pretty ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "we went hiking through the woods . the views were amazing . the nature was beautiful.",
+      "normalized_edited_story_text_sent": [
+        "we went hiking through the woods .",
+        "the views were amazing .",
+        "the nature was beautiful ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "375116",
+  "model": "GLAC"
+}

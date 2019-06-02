@@ -1,0 +1,62 @@
+{
+  "photo_sequence_id": "1460872-1460850-1460860-1460836-1460861",
+  "photo_sequence_ids": [
+    "1460872",
+    "1460850",
+    "1460860",
+    "1460836",
+    "1460861"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the party was a lot of fun . there were a lot of people there . some of them were very good . i had a great time . everyone was having a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AB5C1BRQTC19Q",
+      "edited_story_text": "The party was tons of fun. There were lots of people there, some of them very good. I had a great time, and I know everyone else was too.",
+      "normalized_edited_story_text_sent": [
+        "the party was tons of fun .",
+        "there were lots of people there , some of them very good .",
+        "i had a great time , and i know everyone else was too ."
+      ]
+    },
+    {
+      "worker_id": "A1CF6U3GF7DZEJ",
+      "edited_story_text": "i went to a really cool party today.  a lot of people came.  some of the people were really good at playing music.  everyone had a good time at this party.",
+      "normalized_edited_story_text_sent": [
+        "i went to a really cool party today .",
+        "a lot of people came .",
+        "some of the people were really good at playing music .",
+        "everyone had a good time at this party ."
+      ]
+    },
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "Everyone enjoyed the guitar playing in the small gathering among friends.",
+      "normalized_edited_story_text_sent": [
+        "everyone enjoyed the guitar playing in the small gathering among friends ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the party was a lot of fun . there was drinking, costume wearing and music playing.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "there was drinking , costume wearing and music playing ."
+      ]
+    },
+    {
+      "worker_id": "A27K37YQZDPER6",
+      "edited_story_text": "the party was a lot of fun . people showed off their musical talents. i had a great time even got a picture with darth vader. kids had fun playing video games with everyone.",
+      "normalized_edited_story_text_sent": [
+        "the party was a lot of fun .",
+        "people showed off their musical talents .",
+        "i had a great time even got a picture with darth vader .",
+        "kids had fun playing video games with everyone ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "37246",
+  "model": "GLAC"
+}

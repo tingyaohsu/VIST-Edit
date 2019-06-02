@@ -1,0 +1,73 @@
+{
+  "photo_sequence_id": "6914458951-6914445773-6914504273-6914443677-6914473853",
+  "photo_sequence_ids": [
+    "6914458951",
+    "6914445773",
+    "6914504273",
+    "6914443677",
+    "6914473853"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was very beautiful . the streets were busy with people . the buildings were tall . the building was lovely . the flowers were in bloom .",
+  "edited_stories": [
+    {
+      "worker_id": "A22EDUBB602EJD",
+      "edited_story_text": "I love this place, especially in the summer.  Look at these great pics of the water front and downtown.  Nice buildings.",
+      "normalized_edited_story_text_sent": [
+        "i love this place , especially in the summer .",
+        "look at these great pics of the water front and downtown .",
+        "nice buildings ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was very beautiful . the streets were busy with people .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the streets were busy with people ."
+      ]
+    },
+    {
+      "worker_id": "A3SMOU11PC1TE2",
+      "edited_story_text": "the city was very beautiful . the streets were busy with people . the buildings were tall . the building was lovely . the flowers were in bloom .\r\rThe city was so incredible! The streets were bustling with people! And the buildings were huge! Some of the buildings were actually quite lovely. What made this all so much better, was the flowers that were in bloom!",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the streets were busy with people .",
+        "the buildings were tall .",
+        "the building was lovely .",
+        "the flowers were in bloom .",
+        "the city was so incredible !",
+        "the streets were bustling with people !",
+        "and the buildings were huge !",
+        "some of the buildings were actually quite lovely .",
+        "what made this all so much better , was the flowers that were in bloom !"
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the city was gorgeous . the streets were bustling . the buildings were enormous . one building in particular was lovely . the flowers were blossoming .",
+      "normalized_edited_story_text_sent": [
+        "the city was gorgeous .",
+        "the streets were bustling .",
+        "the buildings were enormous .",
+        "one building in particular was lovely .",
+        "the flowers were blossoming ."
+      ]
+    },
+    {
+      "worker_id": "A2NGY0LAM66P0N",
+      "edited_story_text": "the city was very beautiful . the streets had very few people . the billboards were colorful . the building was lovely . the flowers were in bloom in front of the building .",
+      "normalized_edited_story_text_sent": [
+        "the city was very beautiful .",
+        "the streets had very few people .",
+        "the billboards were colorful .",
+        "the building was lovely .",
+        "the flowers were in bloom in front of the building ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157629550887349",
+  "model": "GLAC"
+}

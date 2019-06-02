@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4469774750-4468995791-4469776402-4469777042-4469815190",
+  "photo_sequence_ids": [
+    "4469774750",
+    "4468995791",
+    "4469776402",
+    "4469777042",
+    "4469815190"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2574/4469774750_b8b2fd0504_o.jpg",
+    "https://farm3.staticflickr.com/2760/4468995791_f0e11b8c88_o.jpg",
+    "https://farm3.staticflickr.com/2756/4469776402_38dec0e8bc_o.jpg",
+    "https://farm5.staticflickr.com/4015/4469777042_059c1a1742_o.jpg",
+    "https://farm3.staticflickr.com/2775/4469815190_e93a0f2cf5_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is the office , i \u0027m going to have a lot of work to be done . i had a lot of work to do . i also bought some of the games . we had a lot of work to do . the office is ready for the meeting .",
+  "edited_stories": [
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "We moved to a new office. Much work needed to be done. The electrical cords were all tangled up. The desk was set up early. Next, we worked on the bookcases.",
+      "normalized_edited_story_text_sent": [
+        "we moved to a new office .",
+        "much work needed to be done .",
+        "the electrical cords were all tangled up .",
+        "the desk was set up early .",
+        "next , we worked on the bookcases ."
+      ]
+    },
+    {
+      "worker_id": "ACNHKXWKZRUZ5",
+      "edited_story_text": "this is the office , i \u0027m going to have a lot of work to do . i had a lot of organizing to do . i also bought some of the furniture . we had a lot of work to do . the office is ready for the meeting .",
+      "normalized_edited_story_text_sent": [
+        "this is the office , i \u0027m going to have a lot of work to do .",
+        "i had a lot of organizing to do .",
+        "i also bought some of the furniture .",
+        "we had a lot of work to do .",
+        "the office is ready for the meeting ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "this is the office , i \u0027m going to have a lot of work to be done setting up. putting together the furniture was hard work. the office is ready for the meeting .",
+      "normalized_edited_story_text_sent": [
+        "this is the office , i \u0027m going to have a lot of work to be done setting up .",
+        "putting together the furniture was hard work .",
+        "the office is ready for the meeting ."
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "this is the office. i \u0027m going to have a lot of work to be done .we needed to pack a lot. we had a lot of work to do . the office is ready for the meeting .",
+      "normalized_edited_story_text_sent": [
+        "this is the office .",
+        "i \u0027m going to have a lot of work to be done .",
+        "we needed to pack a lot .",
+        "we had a lot of work to do .",
+        "the office is ready for the meeting ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "this is the office , i \u0027m going to have a lot of work to be done . i had a lot of work to do . i also bought some of the games . we had a lot of work to do . the office is ready for the meeting and to receive the guests",
+      "normalized_edited_story_text_sent": [
+        "this is the office , i \u0027m going to have a lot of work to be done .",
+        "i had a lot of work to do .",
+        "i also bought some of the games .",
+        "we had a lot of work to do .",
+        "the office is ready for the meeting and to receive the guests"
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623718997598"
+}

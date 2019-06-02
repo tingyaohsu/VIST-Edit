@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "5938137496-5937579321-5937580225-5938136362-5937579725",
+  "photo_sequence_ids": [
+    "5938137496",
+    "5937579321",
+    "5937580225",
+    "5938136362",
+    "5937579725"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the parade was a lot of fun . there were so many people . some of them were very creative . i had a great time . the winner was very good .",
+  "edited_stories": [
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the parade was great recreation . many people went . some of them got creative with costuming . i enjoyed the day . the winner was very good at making costumes .",
+      "normalized_edited_story_text_sent": [
+        "the parade was great recreation .",
+        "many people went .",
+        "some of them got creative with costuming .",
+        "i enjoyed the day .",
+        "the winner was very good at making costumes ."
+      ]
+    },
+    {
+      "worker_id": "A19LVWX8ZLO6CS",
+      "edited_story_text": "the market was crowded but a lot of fun . there were so many people lined up at the shops. some of them merchandise was very creative . overall, i had a great time and would go again . the shops were very good and entertaining.",
+      "normalized_edited_story_text_sent": [
+        "the market was crowded but a lot of fun .",
+        "there were so many people lined up at the shops .",
+        "some of them merchandise was very creative .",
+        "overall , i had a great time and would go again .",
+        "the shops were very good and entertaining ."
+      ]
+    },
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the parade was a lot of fun . there were so many people .The people shopped at markets. There were interesting instruments. She loves to look at the stuff for sale on the street.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people .",
+        "the people shopped at markets .",
+        "there were interesting instruments .",
+        "she loves to look at the stuff for sale on the street ."
+      ]
+    },
+    {
+      "worker_id": "A2AAZLZVOKMHHS",
+      "edited_story_text": "There was so many people at the parade this year. I had a great time seeing the costumes and the people, all having fun and interacting with each other, including myself. There was a contest where the winner was exceptional. Fun times were all around!",
+      "normalized_edited_story_text_sent": [
+        "there was so many people at the parade this year .",
+        "i had a great time seeing the costumes and the people , all having fun and interacting with each other , including myself .",
+        "there was a contest where the winner was exceptional .",
+        "fun times were all around !"
+      ]
+    },
+    {
+      "worker_id": "A219VCQZADQ45W",
+      "edited_story_text": "the parade was a lot of fun . there were so many people . some of them were very creative . i had a great time . we made some great memories.",
+      "normalized_edited_story_text_sent": [
+        "the parade was a lot of fun .",
+        "there were so many people .",
+        "some of them were very creative .",
+        "i had a great time .",
+        "we made some great memories ."
+      ]
+    }
+  ],
+  "data_split": "dev",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157627071164103",
+  "model": "GLAC"
+}

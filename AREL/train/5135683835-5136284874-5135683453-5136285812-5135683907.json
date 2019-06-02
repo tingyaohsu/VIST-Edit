@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "5135683835-5136284874-5135683453-5136285812-5135683907",
+  "photo_sequence_ids": [
+    "5135683835",
+    "5136284874",
+    "5135683453",
+    "5136285812",
+    "5135683907"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4041/5135683835_f39380c734_o.jpg",
+    "https://farm5.staticflickr.com/4047/5136284874_48d4f7cbe6_o.jpg",
+    "https://farm5.staticflickr.com/4107/5135683453_7e289834d0_o.jpg",
+    "https://farm5.staticflickr.com/4065/5136285812_94fe37cdaa_o.jpg",
+    "https://farm5.staticflickr.com/4149/5135683907_dfceba01fc_o.jpg"
+  ],
+  "auto_story_text_normalized": "this is a picture of a bike . one of the performers was very talented . the biker is ready to ride the bike . the winner of the race . it was a lot of fun .",
+  "edited_stories": [
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "this is a picture of a bike . one of the performers was very talented . the biker is ready to bike . here is the winner of the race . it was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a bike .",
+        "one of the performers was very talented .",
+        "the biker is ready to bike .",
+        "here is the winner of the race .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1N35VV9QURKHX",
+      "edited_story_text": "This is a picture of a bike, one of the performers was very talented.The biker  ready to ride the bike is the winner of the race. It was a lot of fun .",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of a bike , one of the performers was very talented.the biker ready to ride the bike is the winner of the race .",
+        "it was a lot of fun ."
+      ]
+    },
+    {
+      "worker_id": "A1J6Z70T78B35V",
+      "edited_story_text": "This is a picture of the bike, the rider was very talented. Once he was ready, he rode the bike and won the race. It was a lot of fun!",
+      "normalized_edited_story_text_sent": [
+        "this is a picture of the bike , the rider was very talented .",
+        "once he was ready , he rode the bike and won the race .",
+        "it was a lot of fun !"
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "The bikers raced down the trail on their bikes. One of the bikers wore a mask and was talented. The biker prepared to ride his bike. Some of the people who came to watch wore costumes. The race was very fun.",
+      "normalized_edited_story_text_sent": [
+        "the bikers raced down the trail on their bikes .",
+        "one of the bikers wore a mask and was talented .",
+        "the biker prepared to ride his bike .",
+        "some of the people who came to watch wore costumes .",
+        "the race was very fun ."
+      ]
+    },
+    {
+      "worker_id": "A2DHLFPCDUTK2O",
+      "edited_story_text": "People rode their bikes at Halloween. The riders wore costumes. They performed tricks. Guests were costumed, too. The ride was fun.",
+      "normalized_edited_story_text_sent": [
+        "people rode their bikes at halloween .",
+        "the riders wore costumes .",
+        "they performed tricks .",
+        "guests were costumed , too .",
+        "the ride was fun ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157625163885359"
+}

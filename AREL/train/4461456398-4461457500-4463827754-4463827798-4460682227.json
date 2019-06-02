@@ -1,0 +1,76 @@
+{
+  "photo_sequence_id": "4461456398-4461457500-4463827754-4463827798-4460682227",
+  "photo_sequence_ids": [
+    "4461456398",
+    "4461457500",
+    "4463827754",
+    "4463827798",
+    "4460682227"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4010/4461456398_d1cb0c6d9b_o.jpg",
+    "https://farm5.staticflickr.com/4060/4461457500_b66456f26a_o.jpg",
+    "https://farm3.staticflickr.com/2804/4463827754_c0af26e246_o.jpg",
+    "https://farm3.staticflickr.com/2708/4463827798_47f62144c9_o.jpg",
+    "https://farm5.staticflickr.com/4025/4460682227_95f8c74897_o.jpg"
+  ],
+  "auto_story_text_normalized": "today was the day of the big race . they were all dressed up for the event . we were all excited to see the parade . we were so happy to be there . at the end of the day , we had a few drinks and had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "A23OS0HQ12VVOR",
+      "edited_story_text": "Today was the day of the big race, they were all dressed up for the event . We were all excited to see the parade, we were so happy to be there. At the end of the day we had a few drinks to top things off. We all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big race , they were all dressed up for the event .",
+        "we were all excited to see the parade , we were so happy to be there .",
+        "at the end of the day we had a few drinks to top things off .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AZSB87DCJL4QB",
+      "edited_story_text": "Today was the day of the big race. Everyone was all dressed up for the event. We were all excited to see the parade. We were all so happy to be there. At the end of the day, we had a few drinks and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big race .",
+        "everyone was all dressed up for the event .",
+        "we were all excited to see the parade .",
+        "we were all so happy to be there .",
+        "at the end of the day , we had a few drinks and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A1DNNPAO6LS9DP",
+      "edited_story_text": "today was the day of the big race . they were all dressed up for the event . we were all excited to watch the race .  at the end of the day , we had a few drinks and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big race .",
+        "they were all dressed up for the event .",
+        "we were all excited to watch the race .",
+        "at the end of the day , we had a few drinks and had a great time ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "today was the day of the big race . they were all dressed up for the event . we were all excited to see the parade . we were so happy to be there . at the end of the day , we had a few drinks and had a great time I would like to repeat this day",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big race .",
+        "they were all dressed up for the event .",
+        "we were all excited to see the parade .",
+        "we were so happy to be there .",
+        "at the end of the day , we had a few drinks and had a great time i would like to repeat this day"
+      ]
+    },
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "today was the day of the big race . they were all dressed up for the event . we were all excited to see the parade . we were so happy to be there and at the end of the day , we had a few drinks and had a great time .",
+      "normalized_edited_story_text_sent": [
+        "today was the day of the big race .",
+        "they were all dressed up for the event .",
+        "we were all excited to see the parade .",
+        "we were so happy to be there and at the end of the day , we had a few drinks and had a great time ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623563366489"
+}

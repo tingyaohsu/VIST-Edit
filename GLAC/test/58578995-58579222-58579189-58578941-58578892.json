@@ -1,0 +1,68 @@
+{
+  "photo_sequence_id": "58578995-58579222-58579189-58578941-58578892",
+  "photo_sequence_ids": [
+    "58578995",
+    "58579222",
+    "58579189",
+    "58578941",
+    "58578892"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the kids were having a great time at the party . they had a lot of fun dancing . they had a lot of fun . there was also a dance floor . the children had a great time .",
+  "edited_stories": [
+    {
+      "worker_id": "AJQGWGESKQT4Y",
+      "edited_story_text": "the kids were having a great time at the party . They were all in costume. The kids went out at night. The baby had a pumpkin with candy in it.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they were all in costume .",
+        "the kids went out at night .",
+        "the baby had a pumpkin with candy in it ."
+      ]
+    },
+    {
+      "worker_id": "A3ATU3VULAB7K2",
+      "edited_story_text": "the kids were having a great costume party . they had a lot of fun make believing . they had a lot of fun posing for photos . there was also a spacious dance floor . the children had a great time being dancing characters .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great costume party .",
+        "they had a lot of fun make believing .",
+        "they had a lot of fun posing for photos .",
+        "there was also a spacious dance floor .",
+        "the children had a great time being dancing characters ."
+      ]
+    },
+    {
+      "worker_id": "AIU30D5BNNCWH",
+      "edited_story_text": "the kids were having a great time at the halloween party . they had a lot of fun dancing. they got too many candies. we all had a great time.",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the halloween party .",
+        "they had a lot of fun dancing .",
+        "they got too many candies .",
+        "we all had a great time ."
+      ]
+    },
+    {
+      "worker_id": "AO9YO8LW3AWGC",
+      "edited_story_text": "The children had a great time at the Halloween party and trick or treating tonight.  There was some great costumes and everyone had a blast!",
+      "normalized_edited_story_text_sent": [
+        "the children had a great time at the halloween party and trick or treating tonight .",
+        "there was some great costumes and everyone had a blast !"
+      ]
+    },
+    {
+      "worker_id": "A29VL3MZE7YPBZ",
+      "edited_story_text": "the kids were having a great time at the party . they had a lot of fun dancing in their costumes . the house lit of at night was a sight for the kids . there was also a dance floor . the children had a great time .",
+      "normalized_edited_story_text_sent": [
+        "the kids were having a great time at the party .",
+        "they had a lot of fun dancing in their costumes .",
+        "the house lit of at night was a sight for the kids .",
+        "there was also a dance floor .",
+        "the children had a great time ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "1267016",
+  "model": "GLAC"
+}

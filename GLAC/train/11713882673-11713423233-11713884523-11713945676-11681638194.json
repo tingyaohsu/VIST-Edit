@@ -1,0 +1,72 @@
+{
+  "photo_sequence_id": "11713882673-11713423233-11713884523-11713945676-11681638194",
+  "photo_sequence_ids": [
+    "11713882673",
+    "11713423233",
+    "11713884523",
+    "11713945676",
+    "11681638194"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the new office is a very interesting place . the kids love the toy . they also have a lot of books . they have a nice collection of books . they even have a stuffed animal .",
+  "edited_stories": [
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the new office is a very interesting place . the kids love the toy . they also have a lot of books . there was also a cat to be seen.",
+      "normalized_edited_story_text_sent": [
+        "the new office is a very interesting place .",
+        "the kids love the toy .",
+        "they also have a lot of books .",
+        "there was also a cat to be seen ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the new office is a very interesting place due to the car that lived there . the kids love the toys that were in the office . they also have a lot of books which were free to read . they have a nice collection of books due to all the donations . they even have a stuffed animal as well as some beer .",
+      "normalized_edited_story_text_sent": [
+        "the new office is a very interesting place due to the car that lived there .",
+        "the kids love the toys that were in the office .",
+        "they also have a lot of books which were free to read .",
+        "they have a nice collection of books due to all the donations .",
+        "they even have a stuffed animal as well as some beer ."
+      ]
+    },
+    {
+      "worker_id": "A3GNQDFPZALU92",
+      "edited_story_text": "my cat john thinks the bookstore is a very interesting place. my other cat, maria, prefers hanging out in the back room. john likes getting comfortable on top of the books. maria rarely leaves her perch on top of the beer cases. my third cat, mary, would rather stay home in her bed.",
+      "normalized_edited_story_text_sent": [
+        "my cat [male] thinks the bookstore is a very interesting place .",
+        "my other cat , [female] , prefers hanging out in the back room .",
+        "[male] likes getting comfortable on top of the books .",
+        "[female] rarely leaves her perch on top of the beer cases .",
+        "my third cat , [female] , would rather stay home in her bed ."
+      ]
+    },
+    {
+      "worker_id": "AOBTFLJU2BEPR",
+      "edited_story_text": "the new office is a very interesting place, and is definitely animal friendly . the kids love the toy, and the fact that there are plenty of friendly kitties to pet . they also have a lot of books geared towards children . they have a nice collection of books . they even have a stuffed animal .",
+      "normalized_edited_story_text_sent": [
+        "the new office is a very interesting place , and is definitely animal friendly .",
+        "the kids love the toy , and the fact that there are plenty of friendly kitties to pet .",
+        "they also have a lot of books geared towards children .",
+        "they have a nice collection of books .",
+        "they even have a stuffed animal ."
+      ]
+    },
+    {
+      "worker_id": "A17SWXSZOWCC3M",
+      "edited_story_text": "The new office is interesting.  There are cats everywhere.  Some are sleeping, and others look like watch cats.  The office has a lot of different books, and a huge collection of different ones.  The cats keep the kids who come into the office busy.",
+      "normalized_edited_story_text_sent": [
+        "the new office is interesting .",
+        "there are cats everywhere .",
+        "some are sleeping , and others look like watch cats .",
+        "the office has a lot of different books , and a huge collection of different ones .",
+        "the cats keep the kids who come into the office busy ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157639258283935",
+  "model": "GLAC"
+}

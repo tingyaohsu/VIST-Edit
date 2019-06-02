@@ -1,0 +1,74 @@
+{
+  "photo_sequence_id": "96138209-96138681-96147464-96148428-96148648",
+  "photo_sequence_ids": [
+    "96138209",
+    "96138681",
+    "96147464",
+    "96148428",
+    "96148648"
+  ],
+  "photo_sequence_urls": [
+    "https://farm1.staticflickr.com/35/96138209_828b83371a_o.jpg",
+    "https://farm1.staticflickr.com/39/96138681_10e3776d0e_o.jpg",
+    "https://farm1.staticflickr.com/32/96147464_f53a095590_o.jpg",
+    "https://farm1.staticflickr.com/11/96148428_515b1d8f70_o.jpg",
+    "https://farm1.staticflickr.com/33/96148648_861a29c40d_o.jpg"
+  ],
+  "auto_story_text_normalized": "we went to the market to get some food . we saw a lot of cool buildings . there were a lot of people there . there were a lot of people there . there was a game of games and games .",
+  "edited_stories": [
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to the market to get some food. On the way there, we saw a lot of cool buildings, and there were a lot of people there. We also saw a lot of games.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food .",
+        "on the way there , we saw a lot of cool buildings , and there were a lot of people there .",
+        "we also saw a lot of games ."
+      ]
+    },
+    {
+      "worker_id": "A3TKHMWW3PCU7F",
+      "edited_story_text": "we needed to go to  the market and get some food . we saw some really cool buildings  . there was a lot of people there too.  As a matter of fact there were a lot of people everywhere.   they did have a lot of different games to play or watch .",
+      "normalized_edited_story_text_sent": [
+        "we needed to go to the market and get some food .",
+        "we saw some really cool buildings .",
+        "there was a lot of people there too .",
+        "as a matter of fact there were a lot of people everywhere .",
+        "they did have a lot of different games to play or watch ."
+      ]
+    },
+    {
+      "worker_id": "A19RMAKFLYUIK6",
+      "edited_story_text": "we went to the market to get some food . we saw a lot of cool buildings there . there were a lot of people around .  there was an area that was full of games .",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food .",
+        "we saw a lot of cool buildings there .",
+        "there were a lot of people around .",
+        "there was an area that was full of games ."
+      ]
+    },
+    {
+      "worker_id": "ADJHKUYX8XJ1I",
+      "edited_story_text": "we went to the market to get some food . we saw a lot of cool buildings along the way.  we were even able to stop and play some games together before we went home.",
+      "normalized_edited_story_text_sent": [
+        "we went to the market to get some food .",
+        "we saw a lot of cool buildings along the way .",
+        "we were even able to stop and play some games together before we went home ."
+      ]
+    },
+    {
+      "worker_id": "AP6CJAMKZ7GR4",
+      "edited_story_text": "We decided to head into the city to get something to eat. It was night time and all the buildings looked cool. In the morning we went to a special event. There were lots of people there and games to play. We had fun playing the games.",
+      "normalized_edited_story_text_sent": [
+        "we decided to head into the city to get something to eat .",
+        "it was night time and all the buildings looked cool .",
+        "in the morning we went to a special event .",
+        "there were lots of people there and games to play .",
+        "we had fun playing the games ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72057594059978402"
+}

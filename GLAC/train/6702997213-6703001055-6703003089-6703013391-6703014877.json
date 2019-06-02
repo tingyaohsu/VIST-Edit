@@ -1,0 +1,69 @@
+{
+  "photo_sequence_id": "6702997213-6703001055-6703003089-6703013391-6703014877",
+  "photo_sequence_ids": [
+    "6702997213",
+    "6703001055",
+    "6703003089",
+    "6703013391",
+    "6703014877"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the city was beautiful . the buildings were very tall . the streets were so big . the city was a great place to visit . the skyline was amazing .",
+  "edited_stories": [
+    {
+      "worker_id": "AJKA9BKC011F2",
+      "edited_story_text": "The city was beautiful. The buildings were very tall. It was such a fun place to visit. The skyline at night was amazing.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings were very tall .",
+        "it was such a fun place to visit .",
+        "the skyline at night was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A1V6CP5I0TOSAR",
+      "edited_story_text": "the city was beautiful . the buildings were very tall . the buildings had many windows . the city was a great place to visit . the skyline was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings were very tall .",
+        "the buildings had many windows .",
+        "the city was a great place to visit .",
+        "the skyline was amazing ."
+      ]
+    },
+    {
+      "worker_id": "A17D6BK59S31BM",
+      "edited_story_text": "the city was beautiful . i was able to get perfect pictures",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "i was able to get perfect pictures"
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the city was beautiful with not a cloud in the sky . the buildings were very tall which went all the way to the blue sky . the streets were so big you could of fit a football field in between it . the city was a great place to visit if you were looking for some fun . the skyline was amazing and is the best in the country.",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful with not a cloud in the sky .",
+        "the buildings were very tall which went all the way to the blue sky .",
+        "the streets were so big you could of fit a football field in between it .",
+        "the city was a great place to visit if you were looking for some fun .",
+        "the skyline was amazing and is the best in the country ."
+      ]
+    },
+    {
+      "worker_id": "AP4903X7HCNBA",
+      "edited_story_text": "the city was beautiful . the buildings were very tall . the streets were lined with offices. the city was beautiful and lit up at night . the skyline was amazing .",
+      "normalized_edited_story_text_sent": [
+        "the city was beautiful .",
+        "the buildings were very tall .",
+        "the streets were lined with offices .",
+        "the city was beautiful and lit up at night .",
+        "the skyline was amazing ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157628884198187",
+  "model": "GLAC"
+}

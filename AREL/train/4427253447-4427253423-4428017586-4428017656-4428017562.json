@@ -1,0 +1,78 @@
+{
+  "photo_sequence_id": "4427253447-4427253423-4428017586-4428017656-4428017562",
+  "photo_sequence_ids": [
+    "4427253447",
+    "4427253423",
+    "4428017586",
+    "4428017656",
+    "4428017562"
+  ],
+  "photo_sequence_urls": [
+    "https://farm3.staticflickr.com/2703/4427253447_022554558c_o.jpg",
+    "https://farm5.staticflickr.com/4048/4427253423_aeeaed4262_o.jpg",
+    "https://farm3.staticflickr.com/2791/4428017586_c15dac3811_o.jpg",
+    "https://farm5.staticflickr.com/4019/4428017656_2abbb9fd3d_o.jpg",
+    "https://farm5.staticflickr.com/4045/4428017562_ce0eb7012f_o.jpg"
+  ],
+  "auto_story_text_normalized": "i had a great time at the meeting yesterday . he was very excited . we had a lot of fun . he was very proud of his accomplishments . after the ceremony , the meeting started with a speech .",
+  "edited_stories": [
+    {
+      "worker_id": "A1SVUNEZBEG1X8",
+      "edited_story_text": "i had a meeting Monday at my office . I wore one of my best suits . i was the key speaker for our new project. i did a slide show presentation.  everyone was listening intensely. i was proud of myself.  after the ceremony , the meeting started with a speech .",
+      "normalized_edited_story_text_sent": [
+        "i had a meeting monday at my office .",
+        "i wore one of my best suits .",
+        "i was the key speaker for our new project .",
+        "i did a slide show presentation .",
+        "everyone was listening intensely .",
+        "i was proud of myself .",
+        "after the ceremony , the meeting started with a speech ."
+      ]
+    },
+    {
+      "worker_id": "A2JSDPFO6E33AU",
+      "edited_story_text": "i had a great time at the meeting yesterday . he was very excited . we had a lot of fun . he was very proud of his accomplishments . after the ceremony , the meeting started with a speech that was very good for everyone",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the meeting yesterday .",
+        "he was very excited .",
+        "we had a lot of fun .",
+        "he was very proud of his accomplishments .",
+        "after the ceremony , the meeting started with a speech that was very good for everyone"
+      ]
+    },
+    {
+      "worker_id": "A39J5RLVDTM6SM",
+      "edited_story_text": "We had a  guest speaker  in the class room  . he was  very energetic and fun  . the class had alot of fun",
+      "normalized_edited_story_text_sent": [
+        "we had a guest speaker in the class room .",
+        "he was very energetic and fun .",
+        "the class had alot of fun"
+      ]
+    },
+    {
+      "worker_id": "AROEBUDI2L9G9",
+      "edited_story_text": "i had a great time at the meeting yesterday . The man was very energetic and excited to be there . We had a great time . he was very proud of his accomplishments . after the ceremony , the meeting started with a speech .",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the meeting yesterday .",
+        "the man was very energetic and excited to be there .",
+        "we had a great time .",
+        "he was very proud of his accomplishments .",
+        "after the ceremony , the meeting started with a speech ."
+      ]
+    },
+    {
+      "worker_id": "A18R117CBYN9GN",
+      "edited_story_text": "I had a great time at the meeting yesterday. Our boss was very excited. We had a lot of fun, he was very proud of our accomplishments . after the ceremony , the meeting started with a speech by him.",
+      "normalized_edited_story_text_sent": [
+        "i had a great time at the meeting yesterday .",
+        "our boss was very excited .",
+        "we had a lot of fun , he was very proud of our accomplishments .",
+        "after the ceremony , the meeting started with a speech by him ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623607493402"
+}

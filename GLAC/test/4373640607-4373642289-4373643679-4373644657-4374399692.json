@@ -1,0 +1,64 @@
+{
+  "photo_sequence_id": "4373640607-4373642289-4373643679-4373644657-4374399692",
+  "photo_sequence_ids": [
+    "4373640607",
+    "4373642289",
+    "4373643679",
+    "4373644657",
+    "4374399692"
+  ],
+  "photo_sequence_urls": [],
+  "auto_story_text_normalized": "the building was very tall . the man was in a museum . he was ready to go . he was doing some experiments . he was going to be a good day .",
+  "edited_stories": [
+    {
+      "worker_id": "AVJQCYPOW6LOA",
+      "edited_story_text": "The coffee was a unique blend made by the owner of the store.",
+      "normalized_edited_story_text_sent": [
+        "the coffee was a unique blend made by the owner of the store ."
+      ]
+    },
+    {
+      "worker_id": "A2ZZW6KME1FUDU",
+      "edited_story_text": "We went to a very cool coffee place.  There were so many neat things in the store.  The coffee was yummy!",
+      "normalized_edited_story_text_sent": [
+        "we went to a very cool coffee place .",
+        "there were so many neat things in the store .",
+        "the coffee was yummy !"
+      ]
+    },
+    {
+      "worker_id": "A2RB88RMXUR0TH",
+      "edited_story_text": "the coffee factory was really tall. all of the equipment reminded me of a museum. he had everything set up and ready to go. he was doing some experiments with new flavors. it was a good day.",
+      "normalized_edited_story_text_sent": [
+        "the coffee factory was really tall .",
+        "all of the equipment reminded me of a museum .",
+        "he had everything set up and ready to go .",
+        "he was doing some experiments with new flavors .",
+        "it was a good day ."
+      ]
+    },
+    {
+      "worker_id": "A21SVM7079V6OP",
+      "edited_story_text": "the building was very tall . the man was in a museum .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall .",
+        "the man was in a museum ."
+      ]
+    },
+    {
+      "worker_id": "A1TYMXIYUUUL6F",
+      "edited_story_text": "the building was very tall except on the one side . the man was in a museum and getting everything ready. he was ready to go back home and sleep but couldn\u0027t . he was doing some experiments which caused some smoke to appear . he was going to be a good day but it wasn\u0027t .",
+      "normalized_edited_story_text_sent": [
+        "the building was very tall except on the one side .",
+        "the man was in a museum and getting everything ready .",
+        "he was ready to go back home and sleep but could n\u0027t .",
+        "he was doing some experiments which caused some smoke to appear .",
+        "he was going to be a good day but it was n\u0027t ."
+      ]
+    }
+  ],
+  "data_split": "test",
+  "note": "Visual stories were automatically generated using: Kim, T., Heo, M. O., Son, S., Park, K. W., \u0026 Zhang, B. T. (2018). GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation. arXiv preprint arXiv:1805.10973. (Code: https://github.com/tkim-snu/GLACNet.) Crowd workers from Amazon Mechanical Turk edited stories. (20190212)",
+  "album_id": "72157623351074567",
+  "model": "GLAC"
+}

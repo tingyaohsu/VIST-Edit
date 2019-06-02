@@ -1,0 +1,77 @@
+{
+  "photo_sequence_id": "4433116462-4432344885-4433187676-4433284788-4433287736",
+  "photo_sequence_ids": [
+    "4433116462",
+    "4432344885",
+    "4433187676",
+    "4433284788",
+    "4433287736"
+  ],
+  "photo_sequence_urls": [
+    "https://farm5.staticflickr.com/4039/4433116462_08c3886abf_o.jpg",
+    "https://farm3.staticflickr.com/2677/4432344885_a20af94c09_o.jpg",
+    "https://farm3.staticflickr.com/2761/4433187676_20d8ce584a_o.jpg",
+    "https://farm5.staticflickr.com/4024/4433284788_6f6cc62cf7_o.jpg",
+    "https://farm5.staticflickr.com/4068/4433287736_3382431cd3_o.jpg"
+  ],
+  "auto_story_text_normalized": "we are going to location for the first time in location . there was a sign on the side of the road . there were a lot of people there . i had a great time there . in the end of the day , we had a sign that gave us a sign to remember .",
+  "edited_stories": [
+    {
+      "worker_id": "A1WGEJVGY3DI13",
+      "edited_story_text": "we are going to location for the first time in location . there was a sign on the side of the road . there were a lot of people there and i had a great time there . in the end of the day , we had a sign that gave us a sign to remember .",
+      "normalized_edited_story_text_sent": [
+        "we are going to location for the first time in location .",
+        "there was a sign on the side of the road .",
+        "there were a lot of people there and i had a great time there .",
+        "in the end of the day , we had a sign that gave us a sign to remember ."
+      ]
+    },
+    {
+      "worker_id": "A3MA1SVP12F3DO",
+      "edited_story_text": "We went to London for the first time! Here is a sign that was by the side of the road. There were a lot of people there. I had a great time. At the end of the day, this sign helped us to remember.",
+      "normalized_edited_story_text_sent": [
+        "we went to london for the first time !",
+        "here is a sign that was by the side of the road .",
+        "there were a lot of people there .",
+        "i had a great time .",
+        "at the end of the day , this sign helped us to remember ."
+      ]
+    },
+    {
+      "worker_id": "A1P93UEIZKA5DC",
+      "edited_story_text": "we are going there for the first time . there was a sign on the side of the road . there were a lot of people there . i had a great time there . at the end of the day , we remembered the sign.",
+      "normalized_edited_story_text_sent": [
+        "we are going there for the first time .",
+        "there was a sign on the side of the road .",
+        "there were a lot of people there .",
+        "i had a great time there .",
+        "at the end of the day , we remembered the sign ."
+      ]
+    },
+    {
+      "worker_id": "A1DWJDNFZNQUFC",
+      "edited_story_text": "we are going to [location] for the first time. there was a sign on the side of the road for Bear Lane. the sign made us laugh.  by the end of the day, we had visited the post office and the fire station. i had a great time there.",
+      "normalized_edited_story_text_sent": [
+        "we are going to [location] for the first time .",
+        "there was a sign on the side of the road for bear lane .",
+        "the sign made us laugh .",
+        "by the end of the day , we had visited the post office and the fire station .",
+        "i had a great time there ."
+      ]
+    },
+    {
+      "worker_id": "A2CSV75E3JT58Y",
+      "edited_story_text": "We are going to location for the first time. There was a sign on the side of the road, and there were a lot of people there. I had a great time there.  At the end of the day, we had a sign that gave us something to remember.",
+      "normalized_edited_story_text_sent": [
+        "we are going to location for the first time .",
+        "there was a sign on the side of the road , and there were a lot of people there .",
+        "i had a great time there .",
+        "at the end of the day , we had a sign that gave us something to remember ."
+      ]
+    }
+  ],
+  "data_split": "train",
+  "model": "AREL",
+  "note": "Visual stories were automatically generated using: Wang, X., Chen, W., Wang, Y. F., \u0026 Wang, W. Y. (2018). No metrics are perfect: Adversarial reward learning for visual storytelling. arXiv preprint arXiv:1804.09160. (Code: https://github.com/eric-xw/AREL). Crowd workers from Amazon Mechanical Turk edited stories. (20190227)",
+  "album_id": "72157623619601364"
+}
